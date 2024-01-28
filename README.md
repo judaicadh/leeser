@@ -1,2 +1,2 @@
-# leeser
-Isaac Leeser Digital Repository Data
+# Isaac Leeser Digital Repository
+
