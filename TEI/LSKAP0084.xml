@@ -1,0 +1,107 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_allPlus.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_odds.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_corpus.xsd" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rng="http://relaxng.org/ns/structure/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>
+				
+				</title>
+			</titleStmt>
+			<editionStmt>
+				<p>
+				
+				</p>
+			</editionStmt>
+			<extent>
+			
+			</extent>
+			<publicationStmt>
+				<p>
+					
+				</p>
+			</publicationStmt>
+			<seriesStmt>
+				<p>
+					
+				</p>
+			</seriesStmt>
+			<notesStmt>
+				<note>
+				
+				</note>
+			</notesStmt>
+			<sourceDesc>
+					<msDesc>
+						<msIdentifier>
+							<country>USA</country>
+							<region>PA</region>
+							<settlement>Philadelphia</settlement>
+							<repository>LSKAP</repository>
+							<collection>The Arnold and Deanne Kaplan Collection of Early American Judaica</collection>
+							<idno>LSKAP0084</idno>
+						</msIdentifier>
+					</msDesc>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<pb n="1R" facs="LSKAP0084_1R.jpg"/>
+			<p rend="align(right)"><placeName>Baltimore</placeName>
+				<date>17. Jany. 1826</date>.</p>
+			<p rend="indent(1)">The final <sic>enquiry</sic> after my arrival here this morning<lb/>
+				was the long lost bundle for <persName>Gen. Lingan</persName> as yet no such<lb/>
+				package is within recollection and our friend <persName>Cohen</persName> was<lb/> by
+				no means negligent in making applications. he still<lb/> says that some information
+				of it may reach him when<lb/> it does you may rely upon his attention to forward it.
+					<hi rend="underline">My</hi> impression is that it has been too long
+				undiscovered<lb/> to be regained soon. however&#44; like all pious souls&#45;<lb/>
+				we shall hope for the best.</p>
+			<p rend="indent(1)">Another commission I<lb/> had to execute for <persName>Ms.
+					Jacobs</persName> in this place&#44; which<lb/> has proved fruitless and which I
+				wish to mention<lb/> to <persName>Abba</persName> that she may convey the same to
+				her&#8212;<lb/> The articles she desired me to get for her I have very diligently
+					<sic>enquired</sic> for with the assistance of a friend<lb/> but cannot be
+				procured. I will bear it in mind when<lb/> I get to <placeName>N. Y.</placeName></p>
+			<p rend="indent(1)">On <sic>sunday</sic> we had a tolerable pleast.<lb/> day down
+					<placeName>James&#39; River</placeName> reach <placeName>Norfolk</placeName>
+				about 11 at night<lb/> ate breakfast with <persName>Mr. Sol. Marks</persName>&#44;
+				and took passage<lb/> at 11 on board the <rs>Virginia</rs>. the prospect of a quick
+				&#38;<lb/> favorable passage was not promising. the wind being</p>
+			<pb n="1V" facs="LSKAP0084_1V.jpg"/>
+			<p>blustering. tho after under way for a few hours the<lb/> wind changed and with the
+				exception of its being cold<lb/> we passd.<add>&#63;</add> a pleasant time. and
+				arrived one hour sooner<lb/> than usual. On <date>Thursday</date> morning at
+					<add>Hebrew</add> I shall take<lb/> stage for <placeName>Phila.</placeName> from
+				which place I shall write to Mama<lb/> all particulars about family affairs. So
+					thus<add>&#63;</add> far I have<lb/> opened correspondence with <hi
+					rend="underline">you</hi> in detail of my journey&#8212;.</p>
+			<p rend="indent(1)">I hope that you and <persName>Meyer</persName> will lend all aid to
+				keep<lb/> matters easy at home. dont let the folks starve for want of<lb/> good
+				poultry. and by all means omit scolding at <persName>Julia</persName>.<lb/> and
+					<sic>whiping</sic>
+				<persName>George</persName> when they <sic>dont</sic> walk straight.</p>
+			<p rend="indent(1)">Great preparations I seem to be making among the wedding<lb/> folk
+				at <placeName>Norfolk</placeName>.</p>
+			<closer><salute><p rend="indent(1)">You will remember me to one and<lb/> all of the family. With best
+				wishes for yourself.</p>
+			<p rend="indent(8)">Yrs&#58;</p>
+			<p rend="indent(8)">
+				<hi rend="underline">
+					<persName role="author">Dan. Judah</persName>
+				</hi>
+			</p>
+			<pb n="2V" facs="LSKAP0084_2V.jpg"/>
+			<p rend="align(center)">
+				<addressee>Mr. Isaac Leezer</addressee>
+			</p>
+			<p rend="align(center)">Care of <persName>Dan&#58; Judah &#38; Co.</persName></p>
+			<p rend="align(center)">
+				<placeName>Richmond</placeName>
+			</p></salute></closer>
+		</body>
+	</text>
+</TEI>
