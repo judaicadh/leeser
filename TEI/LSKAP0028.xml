@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI [
+<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
+%teibase;
+<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
+%teiext;
+]>
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>[no title given]</title>
+				<author attested="yes" accepted="yes" signature="yes">Nathan, M.N.</author>
+				<editor></editor>
+				<sponsor></sponsor>
+				<funder></funder>
+				<principal></principal>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition></edition>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</editionStmt>
+			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
+			<publicationStmt>
+				<publisher>Unpublished manuscript</publisher>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Not part of a series</p>
+			</seriesStmt>
+			<notesStmt>
+				<note></note>
+			</notesStmt>
+			<sourceDesc>
+				<biblStruct>
+					<!-- catalog entry goes here -->
+					<monogr>
+						<imprint>
+							<dateLet></dateLet>
+						</imprint>
+					</monogr>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<country>USA</country>
+						<region>PA</region>
+						<settlement>Philadelphia</settlement>
+						<institution></institution>
+						<repository>LSKAP</repository>
+						<collection>The Arnold and Deanne Kaplan Collection of Early American Judaica</collection>
+						<idno>LSKAP0028</idno>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+						<msName></msName>
+					</msIdentifier>
+					<head></head>
+					<letHeading>
+						<author attested="yes" accepted="yes" signature="yes">Nathan, M.N.</author>
+						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac</addressee>
+						<deliverer></deliverer>
+						<respStmt>
+							<resp></resp>
+							<name></name>
+						</respStmt>
+						<placeLet>Anytown, St. Thomas</placeLet>
+						<placeRec>Philadelphia, PA</placeRec>
+						<dateLet when="1865" source="" attested="yes">1865</dateLet>
+						<dateLet when="1865" source="" attested="yes">5625</dateLet>
+					</letHeading>
+					<msContents>
+						<msItem>
+							<author></author>
+							<editor></editor>
+							<respStmt>
+								<resp></resp>
+								<name></name>
+							</respStmt>
+							<title></title>
+							<decoNote></decoNote>
+							<listBibl>
+								<bibl></bibl>
+							</listBibl>
+							<filiation></filiation>
+							<textLang></textLang>
+							<figure>
+								<graphic url="LSKAP0028_1R.jpg"></graphic>
+								<graphic url="LSKAP0028_1V.jpg"></graphic>
+								<graphic url="LSKAP0028_2R.jpg"></graphic>
+								<graphic url="LSKAP0028_2V.jpg"></graphic>
+								<graphic url="LSKAP0028_3R.jpg"></graphic>
+							</figure>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support>
+									<material color="" lined="false" paper_type="" size="">letter</material>
+								</support>
+								<extent>6 pages on 3 sheets
+									<dimensions></dimensions>
+								</extent>
+								<foliation></foliation>
+								<collation></collation>
+								<condition fragment="false"></condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout></layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc script="manuscript">
+							<handNote></handNote>
+						</handDesc>
+						<decoDesc>
+							<decoNote></decoNote>
+						</decoDesc>
+						<additions></additions>
+						<bindingDesc>
+							<binding>
+								<decoNote></decoNote>
+							</binding>
+						</bindingDesc>
+						<sealDesc>
+							<seal>
+								<p></p>
+							</seal>
+						</sealDesc>
+						<accMat></accMat>
+						<envDesc occ="false"></envDesc>
+					</physDesc>
+					<history>
+						<origin></origin>
+						<provenance></provenance>
+						<acquisition></acquisition>
+					</history>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source></source>
+								<change></change>
+							</recordHist>
+							<availability status="restricted">
+								<p>Restricted</p>
+							</availability>
+							<custodialHist>
+								<custEvent></custEvent>
+							</custodialHist>
+						</adminInfo>
+						<surrogates></surrogates>
+						<listBibl>
+							<bibl></bibl>
+						</listBibl>
+					</additional>
+					<msPart>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+					</msPart>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p></p>
+			</projectDesc>
+			<samplingDecl>
+				<p></p>
+			</samplingDecl>
+			<editorialDecl>
+				<correction>
+					<p></p>
+				</correction>
+				<normalization>
+					<p></p>
+				</normalization>
+				<quotation>
+					<p></p>
+				</quotation>
+				<hyphenation>
+					<p></p>
+				</hyphenation>
+				<segmentation>
+					<p></p>
+				</segmentation>
+				<stdVals>
+					<p></p>
+				</stdVals>
+				<interpretation>
+					<p></p>
+				</interpretation>
+			</editorialDecl>
+			<tagsDecl>
+				<rendition></rendition>
+				<namespace name="http://www.tei-c.org/ns/1.0">
+					<tagUsage gi=""></tagUsage>
+				</namespace>
+			</tagsDecl>
+			<refsDecl>
+				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
+			</refsDecl>
+			<refsDecl>
+				<refState unit=""/>
+			</refsDecl>
+			<classDecl>
+				<taxonomy>
+					<category>
+						<catDesc></catDesc>
+					</category>
+				</taxonomy>
+			</classDecl>
+			<appInfo>
+				<application ident="" version="">
+					<desc></desc>
+					<label></label>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<creation></creation>
+			<langUsage>
+				<language ident="en">English</language>
+				<language ident="he">Hebrew</language>
+			</langUsage>
+			<textClass>
+				<keywords scheme="unknown">
+					<list>
+						<item></item>
+						<item></item>
+					</list>
+				</keywords>
+				<classCode scheme=""></classCode>
+				<catRef/>
+			</textClass>
+		</profileDesc>
+		<revisionDesc>
+			<change></change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<pb n="1R"/>
+				<p rend="align(right)"><placeName>St. Thomas</placeName></p>
+				<p><add>Hebrew</add></p>
+				<p><date>5625</date> <add><date>1865</date></add></p>
+				<p>My dear <addressee>Mr. Leeser</addressee></p>
+			<p rend="indent(3)">Your letter of <date>March 7th</date> is<lb/> received but I have no time to send a<lb/>  lengthened reply.  The cause of my silence is<lb/> not sickness&#44; I am&#44; thank God&#44; in good health&#59;<lb/> Every moment of the day is however so occupied<lb/> with Synagogue and School that I have no<lb/> leisure to write.  I have a sacred duty to perform&#59;<lb/> to lay by what may serve to keep my poor<lb/> wife in case of my death&#44; <add>Hebrew</add>.  She is<lb/> a hopeless invalid&#44; and I want to screen her&#44; while<lb/> I have the power to work&#44; from the cold charity<lb/> of the world.  Otherwise I would not labor 11<lb/> hours a day at school&#45;keeping in this Enervating<lb/> climate.  Often do I reproach myself with<lb/> neglecting my old friends&#44; but Even when disposed<lb/> to take up the pew&#44; I am physically unable.</p>
+			<p rend="indent(1)">I am not disposed to find fault with you<lb/> for your unasked opinion on the subject of the<lb/>  calling to the Sepher of the <add>Hebrew</add> <add>&#8220;Bar Mitzvah&#8221; JE transcription</add>.  I regret you<lb/> have been appealed to&#44; and hope you have not</p>
+				<p rend="The following is written in the right bottom corner of the page.">two sheets<lb/>20&#45;613</p>
+			<pb n="1V"/>
+				<p>given a decided opinion on the subject.  When<lb/> I was first here&#44; no boy was ever called up<lb/> before being confirmed&#44; and the plan was so far<lb/>  beneficial that every boy who came to Sepher was<lb/> acquainted <del>by</del> with the leading principles of his faith.<lb/> Things changed for the worse during my absence&#44;<lb/> and I have had enough to do&#44; to bring matters with<lb/> a proper train.  Your interference&#44; well meant<lb/> as I am sure it is&#44; will only weaken my hands.<lb/> I do not care a straw for confirmation&#44; except<lb/> as a means of Enabling me to impart&#44; months before the ceremony takes place&#44; religious instruction&#44;<lb/> at least its chief Elements.  The Sunday School<lb/> is very good in its way&#44; but it is not sufficient<lb/> for the purpose.  The child you allude to&#44; was<lb/> brought up in <placeName>N&#47;O</placeName>&#44; and did not know anything.<lb/> The <sic>Bar Mitzva</sic>&#44; under such circumstances is<lb/> a sin and a mockery.  But what is the Bar<lb/> Mitzvah&#63;  If <placeName>Israel</placeName> was <add>Hebrew</add>&#44; why was<lb/> the Bar Mitzvah instituted&#63;  It is clearly a<lb/> Rabbinical mode of Confirmation&#44; prefaced as it<lb/> has always been by sound religious instruction.</p>
+			<pb n="2R"/>
+				<p>Unless this be erroneous&#44; and I shall be very<lb/> glad if you will set me right&#44; in case I am<lb/> wrong in this view&#44; confirmation stands on<lb/> the same footing as the old method of<lb/> instruction&#44; and as the ancient mode of giving<lb/> the boy a fulness<add>&#63;</add> of knowledge before his 13th year<lb/> is no longer possible&#44; I&#44; and others&#44; situated<lb/> as I am&#44; must do our best to substitute something<lb/> Else before calling up to Sepher&#44; in order that<lb/> the Bar Mitzvah&#44; as in many Congregations&#44;<lb/> may not dwindle away with a meaningless<lb/> ceremony&#44; only connected with new clothes&#44;<lb/> a gold watch&#44; and a good breakfast&#44; d<add>&#63;</add>&#44;<lb/> or dance.  The child in question is nevertheless<lb/> so hopelessly stupid&#44; that&#44; since the receipt of your<lb/> last&#44; I have resolved on calling him to Sepher without<lb/> preparatory confirmation.  My nephew <persName>David</persName>&#44;<lb/> whose Bar Mitzvah is at hand&#44; I intend to confirm.<lb/> And then&#44; I am sure&#44; people here will be as anxious<lb/> for its reintroduction&#44; as they were favorable to it<lb/> in former times.  The Reform party here is<lb/> bestirring itself&#44; and it will need all my prudence</p>
+			<pb n="2V"/>
+				<p>savoir dire and savoir faire to prevent and outbreak<lb/> similar to what has occurred in <placeName>Curacao</placeName>.  The party<lb/> wishes to go to extreme lengths&#44; an organ&#44; <persName>Marks&#39;s</persName><lb/> prayer Book and other ultras are spoken of.<lb/> Another party <hi rend="underline">who want no minister</hi>&#44; but simply<lb/> a reader to marry and bury them is on the watch<lb/> to create disturbances&#44; and bring about a separation.<lb/> The Congregation cannot support two Synagogues.<lb/> The By Laws are also against such a step.  There<lb/> is much talk about petitioning the government<lb/> to repeal these By Laws.  Should that be done&#44;<lb/> &#8220;<persName>Othello&#39;s</persName> occupation&#39;s gone.&#8221;  For neither party could<lb/> give me my present salary&#44; which is barely able<lb/> to support me in this extravagantly dear place.<lb/> I want no organ&#44; <del>and</del> nor do I want <persName>Marks&#39;s</persName> Prayer<lb/> Book.  It would be laughable&#44; were the affair not<lb/> so serious&#44; to hear the crude notions of the young and<lb/> the old on this topic&#44; Reform.  Some of the hitherto<lb/> hyper&#45;orthodox&#44; among the rest&#44; the party who<lb/> addressed you on the case of the Bar Mitzvah&#44;<lb/> advocate the most incongruous measures.  I keep<lb/> silence and have given no opinion except the<lb/> organ and Prayer Book.  At the proper time it<lb/> must&#44; by Law&#44; be referred to me.  But unless there be<lb/> something like unanimity&#44; and no <del>pr</del> likelihood of<lb/> discussion&#44; I will not give my adhesion to any<lb/> proposals for changing our present system of<lb/> worship which is working admirably.  You are<lb/> happily ignorant of the perfidy and treachery of<lb/> Curacaoleans.  Do not heed what they write you&#44; they<lb/> are not to be trusted.  They are injudicious friend&#44; and<lb/> are terable<add>&#63;</add> enemies<lb/> and the turn of a straw changes</p>
+				<p rend="The following is written in pencil at the top right corner of the page."><date>1865</date></p>
+			<pb n="3R"/>
+				<p>them from one to the other.  You can now<lb/> comprehend the position I am placed in.  The<lb/> question was put to you out of pique against me&#44; not from any religious motive.  I guessed<lb/> it would be done and was therefore not surprised at<lb/> nor angry with&#44; the contents of your letter.</p>
+			<p rend="indent(1)">I am about sending you some money for<lb/> the dozen Bibles and the few Prayer Books had<lb/> last year.  But I have no memorandum of the<lb/> cards of Creeds &#38;c sent me at same time.  I<lb/> wrote you of having received the missing<lb/> Books p &#8220;Responsible&#44;&#8221; but as I have no<lb/> place to keep them in&#44; I intend handing them<lb/> to my <persName>David Piza</persName> to dispose of in your<lb/> accot<add>&#63;</add>.  They have been damaged by sea&#45;water<lb/> and must be sold considerably under the usual<lb/> price.</p>
+			<p rend="indent(1)">I must now conclude with wishing you <add>Hebrew</add><lb/> <add>Hebrew</add>&#44; in which <persName>Mrs. N.</persName>&#8212;her mother&#44; and <persName>David</persName><lb/> join&#44; with remembrances to old friends with whom<lb/> we spent <add>Hebrew</add> a quarter of a century ago.</p>
+			<p rend="indent(10)">I am</p>
+			<p rend="indent(11)">yours truly</p>
+			<p rend="indent(11)"><persName role="author">MNNathan</persName></p>
+		</body>
+	</text>
+</TEI>

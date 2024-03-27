@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI [
+<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
+%teibase;
+<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
+%teiext;
+]>
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>[no title given]</title>
+				<author attested="yes" accepted="yes" signature="unk">Jonah of the house of Bondi</author>
+				<editor></editor>
+				<sponsor></sponsor>
+				<funder></funder>
+				<principal></principal>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition></edition>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</editionStmt>
+			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
+			<publicationStmt>
+				<publisher>Unpublished manuscript</publisher>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Not part of a series</p>
+			</seriesStmt>
+			<notesStmt>
+				<note></note>
+			</notesStmt>
+			<sourceDesc>
+				<biblStruct>
+					<!-- catalog entry goes here -->
+					<monogr>
+						<imprint>
+							<dateLet></dateLet>
+						</imprint>
+					</monogr>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<country>USA</country>
+						<region>PA</region>
+						<settlement>Philadelphia</settlement>
+						<institution></institution>
+						<repository>CAJS Isaac Leeser Collection</repository>
+						<collection>The Library of the Dropsie College for Hebrew and Cognate Learning</collection>
+						<idno>LSDCBx3FF4a_9</idno>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+						<msName></msName>
+					</msIdentifier>
+					<head></head>
+					<letHeading>
+						<author attested="yes" accepted="yes" signature="unk">Jonah of the house of Bondi</author>
+						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac</addressee>
+						<deliverer></deliverer>
+						<respStmt>
+							<resp></resp>
+							<name></name>
+						</respStmt>
+						<placeLet></placeLet>
+						<placeRec>Philadelphia, PA</placeRec>
+						<dateLet when="1862-08" source="" attested="yes">1862</dateLet>
+						<dateLet when="1862-08" source="" attested="yes">23 Tammuz</dateLet>
+					</letHeading>
+					<msContents>
+						<msItem>
+							<author></author>
+							<editor></editor>
+							<respStmt>
+								<resp></resp>
+								<name></name>
+							</respStmt>
+							<title></title>
+							<decoNote></decoNote>
+							<listBibl>
+								<bibl></bibl>
+							</listBibl>
+							<filiation></filiation>
+							<textLang></textLang>
+							<figure>
+								<graphic url="ilcajs_b3f4a_0009_1v.jpg"></graphic>
+								<graphic url="ilcajs_b3f4a_0009_2r.jpg"></graphic>
+							</figure>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support>
+									<material color="" lined="true" paper_type="" size="Letter">letter</material>
+								</support>
+								<extent>2 pages on 1 sheet
+									<dimensions></dimensions>
+								</extent>
+								<foliation></foliation>
+								<collation></collation>
+								<condition fragment="false"></condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout></layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc script="manuscript">
+							<handNote></handNote>
+						</handDesc>
+						<decoDesc>
+							<decoNote></decoNote>
+						</decoDesc>
+						<additions></additions>
+						<bindingDesc>
+							<binding>
+								<decoNote></decoNote>
+							</binding>
+						</bindingDesc>
+						<sealDesc>
+							<seal>
+								<p></p>
+							</seal>
+						</sealDesc>
+						<accMat></accMat>
+						<envDesc occ="false"></envDesc>
+					</physDesc>
+					<history>
+						<origin></origin>
+						<provenance></provenance>
+						<acquisition></acquisition>
+					</history>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source></source>
+								<change></change>
+							</recordHist>
+							<availability status="free">
+								<p>Unrestricted</p>
+							</availability>
+							<custodialHist>
+								<custEvent></custEvent>
+							</custodialHist>
+						</adminInfo>
+						<surrogates></surrogates>
+						<listBibl>
+							<bibl></bibl>
+						</listBibl>
+					</additional>
+					<msPart>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+					</msPart>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p></p>
+			</projectDesc>
+			<samplingDecl>
+				<p></p>
+			</samplingDecl>
+			<editorialDecl>
+				<correction>
+					<p></p>
+				</correction>
+				<normalization>
+					<p></p>
+				</normalization>
+				<quotation>
+					<p></p>
+				</quotation>
+				<hyphenation>
+					<p></p>
+				</hyphenation>
+				<segmentation>
+					<p></p>
+				</segmentation>
+				<stdVals>
+					<p></p>
+				</stdVals>
+				<interpretation>
+					<p></p>
+				</interpretation>
+			</editorialDecl>
+			<tagsDecl>
+				<rendition></rendition>
+				<namespace name="http://www.tei-c.org/ns/1.0">
+					<tagUsage gi=""></tagUsage>
+				</namespace>
+			</tagsDecl>
+			<refsDecl>
+				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
+			</refsDecl>
+			<refsDecl>
+				<refState unit=""/>
+			</refsDecl>
+			<classDecl>
+				<taxonomy>
+					<category>
+						<catDesc></catDesc>
+					</category>
+				</taxonomy>
+			</classDecl>
+			<appInfo>
+				<application ident="" version="">
+					<desc></desc>
+					<label></label>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<creation></creation>
+			<langUsage>
+				<language ident="en">English</language>
+				<language ident="he">Hebrew</language>
+			</langUsage>
+			<textClass>
+				<keywords scheme="unknown">
+					<list>
+						<item></item>
+						<item></item>
+					</list>
+				</keywords>
+				<classCode scheme=""></classCode>
+				<catRef/>
+			</textClass>
+		</profileDesc>
+		<revisionDesc>
+			<change></change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<pb n="1"/>
+				<p><add>Hebrew</add> a play on the name <hi rend="underline"><persName>Uri</persName></hi></p>
+				<p rend="align(right)"><date>Monday&#44; 23 of Tammuz&#40;August&#41;&#44; 1862</date>.</p>
+				<p>To him who says&#44; &#8220;My light&#44; my salvation&#44; whom shall I fear&#8221; That is my<lb/> friend and the friend of God&#44; the great sage&#44; who fears the words of God<lb/> etc.&#44; <persName>Lippman&#44; the son of Yitzchok Issac Leeser</persName>&#58;</p> 
+			<p rend="indent(1)">Constantly interrupted&#44; I am still unable to come there in<lb/> order to deliver personally to you my manuscript which has grown to con&#45;<lb/>siderable proportions. Worries on every hand bring me low. &#8220;Tradition re&#45;<lb/>quires prayer&#8221;.</p>
+			<p rend="indent(1)">I have not yet read <persName>Kayserling&#39;s</persName> work&#42;. I don&#39;t want to<lb/> make even weaker <add>poorer</add> my opinion of the <sic>socalled</sic> philosopher&#44; reformer&#44; etc.&#44;<lb/> <persName>Mendelssohn</persName> who certainly accomplished much&#45; an opinion which was rather<lb/> weak <add>poor</add> from my youth on. Do you know the parable which the <persName>Gaon Ezekiel<lb/> Landau</persName>&#42;&#44; may his memory be for a blessing&#44; spoke&#63; What is the difference<lb/> between the learning of the wicked <persName>Balaam</persName> and the learning of our father<lb/> <persName>Abraham</persName>&#63; <persName>Balaam</persName>&#44; the heathen prophet&#44; certainly showed himself as a<lb/> prince in his actions&#44; in order to seem like <persName>Abraham</persName>&#44; but&#44; in the pupils<lb/> &#8212;v&#45; so <persName>Friedlander</persName>&#42;&#44; one of his own children&#44; etc.&#44; In them the differ&#45;<lb/>ence shows itself. A hint to the wise is sufficient.</p>
+			<p rend="indent(1)">Among us be it said&#44; <persName>Frankel&#39;s</persName> biography&#44; by my brother&#45;in&#45;<lb/>law&#42;&#44; is a fault to be forgiven. For&#44; as my physician writes to me&#44; he<lb/> is a victim of the quarrel with <persName>Hirsch</persName> conducted by <persName>Frankel</persName>. My brother&#45;<lb/>in&#45;law was not the man for this. That is why <persName><sic>Rappoport</sic></persName>&#42; does not mention<lb/> him in his weak&#8221;words of peace and truth&#8221;. He died with this work in<lb/> his hands. I am afraid that <persName>Frankel&#39;s</persName> biography which&#44; as I hear&#44; con&#45;<lb/>tains much that isn&#39;t so&#44; realizes the statement &#8220;Through the praise<lb/> given a man.one can recognize his faults&#8221;. <persName>Landau</persName> was more just in his<lb/> funeral oration&#44; in which he mentions me to.....and deplores my depar&#45;<lb/>ture. I am the <hi rend="underline">Marim&#42;.</hi> The funeral oration is beautiful and you have<lb/> probably read it.</p>
+			<p rend="indent(1)">I sent you today through Adam&#39;s express&#44; free&#44; the treatise<lb/> &#8220;Yebamoth&#8221; and the treatise &#8220;Kidushin&#8221;&#44; for which I ask you to credit me</p>
+				<p rend="The following notes are written in the margins of page 1"></p>
+				<p>&#42;Note the transposition<lb/> of names</p>
+				<p>&#42;Biography<lb/> <persName>Mendelssohn</persName><lb/> at edition 186<add>&#63;</add></p>
+				<p>&#42;<persName>Medelssohn&#39;s</persName> favorite pupil</p>
+				<p>&#42;Evidently a<lb/> reference <add>&#63;</add><lb/> eulogy</p>
+			<pb n="2"/>
+				<p>with &#36;5. The &#8220;Tosefta&#42;&#8221; is very much worth while from an historical<lb/> point of view&#44; especially the one printed here from the manuscript in <lb/> <placeName>Vienna</placeName>. It is supposed to contain all the historical references. It<lb/> sheds much light upon the charlatan teachings of Christianity and<lb/> its lying apostles. That they wrapped themselves in the mantle of<lb/> Essenism&#42;&#44; I clearly indicate.</p>
+			<p rend="indent(1)">I beg of you to deliver one package with the enclosed letter<lb/> to the Chazan <persName>Pappe</persName>. You will please me by sending at once per express&#44;<lb/> 4 of your bound prayer books&#44; but at a cheap price. The second part is<lb/> now much too expensive. For me you must make it cheaper.</p>
+			<p rend="indent(1)">Have you read my article in the &#8220;Messenger&#8221; about the<lb/> &#8220;Shochetim&#8221; &#63; It is....somewhat moderate&#44; but in <placeName>New York</placeName> everything<lb/> is spoiled. On the one side reform&#44; on the other side those who hate<lb/> Jewish knowledge&#44; who play at orthodoxy in order to make a living&#44; and<lb/> on the third side&#44; the five Houses of Trampling&#45; I put an <hi rend="underline">s</hi> instead of<lb/> an <hi rend="underline">sh</hi>&#42;. This much I accomplished&#59; <persName>Raphall</persName> does not lend his support any<lb/> more&#44; and <persName>Rabbi Menachem Goldsmith</persName>&#44; he who forgot to study&#44; not that he<lb/> forgot his studies&#44; will no longer examine the shochetim.</p>
+			<p rend="indent(1)">I have spoken to the old <persName>Halpern</persName>. My articles pleased him<lb/> very much. Please lend me the volumes of the <placeName>Jeshurun</placeName> <sic>un</sic> which he spoke<lb/> against <persName>Graetz&#39;s</persName> History&#44; since I&#44; too&#44; want to come out against it.</p>
+			<p rend="indent(1)"><persName>Illoway&#39;s</persName> reports from <placeName>New Orleans</placeName> are to be put aside with<lb/> contempt&#44; so a man from <placeName>New Orleans</placeName> told me. Hoping to hear news from<lb/> you very soon&#44; I sign.</p>
+			<p rend="indent(7)">Respectfully&#44;</p>
+			<p rend="indent(8)">Your friend forever</p>
+			<p rend="indent(9)"><persName role="author">Jonah of the house of Bondi</persName></p>
+			<p rend="indent(11)">429 Broadway</p>
+				<p>Do not take it amiss that I bother<lb/> you with the letter and package<lb/> for <persName>Pappe</persName>. I&#44; too&#44; am ready to serve<lb/> you. I have not received the <date>July</date><lb/> number of the &#8220;Occident&#8221;.</p>
+				<p rend="The following notes are written in the margins"></p>
+				<p>&#42;The last<lb/> tannaitic<add>&#63;</add><lb/> work&#44; ab.<lb/> <date>220 C. E.</date></p>
+				<p>&#42;<add>&#63;</add> senes in J. E.</p>
+				<p>&#42;Battei Midrashot &#61; Houses of Study</p>
+				<p>&#42;Battei Midrasot &#61;  Houses where Torah is trampled upon</p>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI [
+<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
+%teibase;
+<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
+%teiext;
+]>
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>[no title given]</title>
+				<author attested="yes" accepted="yes" signature="unk"></author>
+				<editor></editor>
+				<sponsor></sponsor>
+				<funder></funder>
+				<principal></principal>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition></edition>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</editionStmt>
+			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
+			<publicationStmt>
+				<publisher>Unpublished manuscript</publisher>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Not part of a series</p>
+			</seriesStmt>
+			<notesStmt>
+				<note></note>
+			</notesStmt>
+			<sourceDesc>
+				<biblStruct>
+					<!-- catalog entry goes here -->
+					<monogr>
+						<imprint>
+							<dateLet></dateLet>
+						</imprint>
+					</monogr>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<country>USA</country>
+						<region>PA</region>
+						<settlement>Philadelphia</settlement>
+						<institution></institution>
+						<repository>CAJS Isaac Leeser Collection</repository>
+						<collection>The Library of the Dropsie College for Hebrew and Cognate Learning</collection>
+						<idno>LSDCBx3FF14_64</idno>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+						<msName></msName>
+					</msIdentifier>
+					<head></head>
+					<letHeading>
+						<author attested="yes" accepted="yes" signature="unk"></author>
+						<addressee editor="false" attested="yes" accepted="yes"></addressee>
+						<deliverer></deliverer>
+						<respStmt>
+							<resp></resp>
+							<name></name>
+						</respStmt>
+						<placeLet></placeLet>
+						<placeRec>Philadelphia, PA</placeRec>
+						<dateLet when="" source="" attested="unk"></dateLet>
+					</letHeading>
+					<msContents>
+						<msItem>
+							<author></author>
+							<editor></editor>
+							<respStmt>
+								<resp></resp>
+								<name></name>
+							</respStmt>
+							<title></title>
+							<decoNote></decoNote>
+							<listBibl>
+								<bibl></bibl>
+							</listBibl>
+							<filiation></filiation>
+							<textLang></textLang>
+							<figure>
+								<graphic url="ilcajs_b3f14_wk1_body0114.jpg"></graphic>
+								<graphic url="ilcajs_b3f14_wk1_body0115.jpg"></graphic>
+								<graphic url="ilcajs_b3f14_wk1_body0116.jpg"></graphic>
+								<graphic url="ilcajs_b3f14_wk1_body0117.jpg"></graphic>
+							</figure>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support>
+									<material color="" lined="true" paper_type="" size="Letter">letter</material>
+								</support>
+								<extent>4 pages on 2 sheets
+									<dimensions></dimensions>
+								</extent>
+								<foliation></foliation>
+								<collation></collation>
+								<condition fragment="false"></condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout></layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc script="manuscript">
+							<handNote></handNote>
+						</handDesc>
+						<decoDesc>
+							<decoNote></decoNote>
+						</decoDesc>
+						<additions></additions>
+						<bindingDesc>
+							<binding>
+								<decoNote></decoNote>
+							</binding>
+						</bindingDesc>
+						<sealDesc>
+							<seal>
+								<p></p>
+							</seal>
+						</sealDesc>
+						<accMat></accMat>
+						<envDesc occ="false"></envDesc>
+					</physDesc>
+					<history>
+						<origin></origin>
+						<provenance></provenance>
+						<acquisition></acquisition>
+					</history>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source></source>
+								<change></change>
+							</recordHist>
+							<availability status="free">
+								<p>Unrestricted</p>
+							</availability>
+							<custodialHist>
+								<custEvent></custEvent>
+							</custodialHist>
+						</adminInfo>
+						<surrogates></surrogates>
+						<listBibl>
+							<bibl></bibl>
+						</listBibl>
+					</additional>
+					<msPart>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+					</msPart>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p></p>
+			</projectDesc>
+			<samplingDecl>
+				<p></p>
+			</samplingDecl>
+			<editorialDecl>
+				<correction>
+					<p></p>
+				</correction>
+				<normalization>
+					<p></p>
+				</normalization>
+				<quotation>
+					<p></p>
+				</quotation>
+				<hyphenation>
+					<p></p>
+				</hyphenation>
+				<segmentation>
+					<p></p>
+				</segmentation>
+				<stdVals>
+					<p></p>
+				</stdVals>
+				<interpretation>
+					<p></p>
+				</interpretation>
+			</editorialDecl>
+			<tagsDecl>
+				<rendition></rendition>
+				<namespace name="http://www.tei-c.org/ns/1.0">
+					<tagUsage gi=""></tagUsage>
+				</namespace>
+			</tagsDecl>
+			<refsDecl>
+				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
+			</refsDecl>
+			<refsDecl>
+				<refState unit=""/>
+			</refsDecl>
+			<classDecl>
+				<taxonomy>
+					<category>
+						<catDesc></catDesc>
+					</category>
+				</taxonomy>
+			</classDecl>
+			<appInfo>
+				<application ident="" version="">
+					<desc></desc>
+					<label></label>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<creation></creation>
+			<langUsage>
+				<language ident="en">English</language>
+			</langUsage>
+			<textClass>
+				<keywords scheme="unknown">
+					<list>
+						<item></item>
+						<item></item>
+					</list>
+				</keywords>
+				<classCode scheme=""></classCode>
+				<catRef/>
+			</textClass>
+		</profileDesc>
+		<revisionDesc>
+			<change></change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<pb n="1"/>
+				<p><add>Hebrew</add></p>
+				<p>&#8220;Now there arose up a new king over <placeName>Egypt</placeName>&#44; who knew not <persName>Joseph</persName>.&#8221;</p>
+			<p rend="indent(6)">&#40;Exod&#58; 1. 8.&#41;</p>
+				<p><add>Hebrew</add></p>
+				<p>&#8220;Who knew not&#58; He pretended not to know him.&#8221;</p>
+			<p rend="indent(3)">&#40;<persName>Rashi&#39;s</persName> commentary&#41;</p>
+				<p>Dear Sir.</p>
+			<p rend="indent(1)">Though it is but a few weeks since I became person<lb/>ally acquainted with you&#44; I have been for many years<lb/> an admirer of your ably conducted periodical&#44; and but<lb/> for the oftentimes too ready admission of articles of<lb/> rather questionable qualifications and a general<lb/> tendency to overrate the <hi rend="underline">mediocre</hi> and to compliment<lb/> the undeserving&#44; I think the <sic>jewish</sic> public will<lb/> coincide in my assertion&#44; that it stands unexcelled<lb/> <del>either for</del> by any religious periodical in this country&#44;<lb/> either for earnestness of purpose&#44; or for the learning&#44;<lb/> consistency&#44; unvaried politeness and decorum<lb/> of its editor.  A full approbation of your<lb/> labours in the cause of <placeName>Israel</placeName> might have perhaps<lb/> been more agreeable to you&#44; but it would have tar<lb/>nished the sincerity of my views on the subject&#44; parti<lb/>cularly as my remark in reference to misapplied<lb/> courtesy&#44; has of late been so amply verified.</p>
+			<p rend="indent(1)">As long as you were seated in the editorial<lb/> chair of the Occident&#44; for many years the only</p>
+			<pb n="2"/>
+				<p><sic>jewish</sic> paper in <placeName>America</placeName>&#44; as long as you were known<lb/> as an author&#44; a correct translator of several <sic>hebrew</sic><lb/> works and the <hi rend="underline">only</hi> preacher in the vernacular<lb/> in this country&#44; the sheaves &#40;and from what I know<lb/> many empty&#45;headed ones&#41; were&#44; like those in <persName>Joseph&#39;s</persName><lb/> dream&#44; bowing and making obeisance to you&#44; and<lb/> many a dog that barks <hi rend="underline">now</hi> at your heels&#44; was<lb/> <hi rend="underline">then</hi> ready to lick your hand.</p>
+			<p rend="indent(1)">However &#8220;Tempora mutantur &#38;ca&#8221;</p>
+			<p rend="indent(1)">Now there arose up a new Editor in<lb/> <placeName>Israel</placeName>&#44; whose superior education according to his<lb/> own record in the Asmonean of <date>6th</date> inst. &#8220;had<lb/> led him into the presence of the sovereign of one<lb/> of the mightiest of Empires&#8221; yet who knew not&#44; either<lb/> the polished manners of the courtiers&#44; or the ceremonious politeness<lb/> of the Chinese.  If I understand him right &#40;which<lb/> task is rather a difficult one&#41; he claims for his<lb/> paper the avowed object of furthering the cause<lb/> of our sacred faith by elevating the mind of its<lb/> followers and by preaching Union to <placeName>Israel</placeName>.<lb/>  How far he has generally succeeded&#44; I feel no<lb/> inclination to investigate&#44; but as an individual&#44;<lb/> who is not indifferent to the fair fame of his<lb/> fellow&#45;believers&#44; I claim the right to <sic>enquire</sic><lb/> whether the article headed &#8220;<hi rend="underline">The Occident&#44; and</hi><lb/> <hi rend="underline">the Asmonean</hi>&#8221;&#44; published in the latter on<lb/> the <date>13th</date> instant&#44; is befitting a periodical devoted<lb/> to a high and holy purpose&#44; and whether such<lb/> low abuse in the columns of a religious paper</p>
+			<pb n="3"/>
+				<p>is calculated to elevate the character of the Jews&#44; their<lb/> press and the standing of its supporters and subscribers&#63;<lb/>  Language like that&#44; is even unbecoming the<lb/> columns of a political country paper&#44; and the<lb/> scurrilous&#44; vulgar and disrespectful epithets used<lb/> in that publication against a former functionary<lb/> of our faith and a preacher of its doctrines&#44; must<lb/> certainly tend to exclude it from the table of every<lb/> respectable family.  Yet the author seems to entertain<lb/> a different opinion in regard to his productions&#44; and<lb/> by appending his initials to it&#44; he appears anxious<lb/> to proclaim his paternity&#44; which likely might<lb/> have been questioned by a discriminating public<lb/> since the arrivals of the pictorial part of the Asmonean with<lb/> the Motto &#8220;Two are better than one&#8221; were practi<lb/>cally substituted by adding a correcting hand<lb/> to the grammatical department of the paper.<lb/>  If <persName>R. L.</persName>&#44; however had been conversant with<lb/> the <sic>latin</sic> quotation &#8220;<hi rend="underline">Ex ungue leonem</hi>&#8221;&#44; he<lb/> might have saved himself that trouble.</p>
+			<p rend="indent(1)">Though I am fully acquainted with<lb/> the particulars of the origin of your difficulty<lb/> with the <hi rend="underline">Magnus <persName>Apollo</persName></hi> of the Asmonean&#44;<lb/> I do not consider it my province to enlarge<lb/> upon the subject&#59; sufficient it is to know&#44; and such<lb/> every one does know&#44; that you have neither<lb/> published nor caused to be published aught&#44;<lb/> which could have deserved such a virulent and<lb/> atrocious attack from that quarter&#59;</p>
+			<pb n="4"/>
+				<p>and even if you had offended the dignity of the self&#45;<lb/>constituted organ of the Jews in <placeName>America</placeName>&#44; it<lb/> is more than questionable&#44; whether the mode selected<lb/> and adopted by him was a justifiable and<lb/> proper one.</p>
+			<p rend="indent(1)">Your labours in <placeName>Israel</placeName> certainly entitle you<lb/> to a better treatment at the hands of your<lb/> co&#45;religionists&#44; in consideration of which and<lb/> of the many services you have for a number of years rendered to that cause&#44; I concluded<lb/> that the Asmonean&#39;s article should not pass<lb/> without some comment&#59; and as the columns<lb/> of the Occident&#44; from the obvious reason that<lb/> its editor is a party to the controversy&#44; cannot<lb/> with propriety be opened to a more extended<lb/> review&#44; and no proper medium for its pub&#61;<lb/>lication being presently available&#44; I am<lb/> constrained for the moment to restrict the<lb/> same to its present dimension.</p>
+			<p rend="indent(1)">As a man of experience you will&#44;<lb/> however&#44; not be surprised when you find<lb/> that the world ill requites favours&#44; that<lb/> have been received&#44; when there is a supposition<lb/> that additional ones can no more be obtained&#59;<lb/> and as for the strictures of the Asmonean&#44;<lb/> you may console yourself&#44; if consolation<lb/> be required&#44; that you share them with</p>
+		</body>
+	</text>
+</TEI>

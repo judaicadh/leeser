@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI [
+<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
+%teibase;
+<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
+%teiext;
+]>
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>[no title given]</title>
+				<author attested="yes" accepted="yes" signature="yes">Henry, H. A.</author>
+				<editor></editor>
+				<sponsor></sponsor>
+				<funder></funder>
+				<principal></principal>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition></edition>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</editionStmt>
+			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
+			<publicationStmt>
+				<publisher>Unpublished manuscript</publisher>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Not part of a series</p>
+			</seriesStmt>
+			<notesStmt>
+				<note></note>
+			</notesStmt>
+			<sourceDesc>
+				<biblStruct>
+					<!-- catalog entry goes here -->
+					<monogr>
+						<imprint>
+							<dateLet></dateLet>
+						</imprint>
+					</monogr>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<country>USA</country>
+						<region>PA</region>
+						<settlement>Philadelphia</settlement>
+						<institution></institution>
+						<repository>LSKAP</repository>
+						<collection>The Arnold and Deanne Kaplan Collection of Early American Judaica</collection>
+						<idno>LSKAP0121_1</idno>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+						<msName></msName>
+					</msIdentifier>
+					<head></head>
+					<letHeading>
+						<author attested="yes" accepted="yes" signature="yes">Henry, H. A.</author>
+						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac</addressee>
+						<deliverer></deliverer>
+						<respStmt>
+							<resp></resp>
+							<name></name>
+						</respStmt>
+						<placeLet>New York, NY</placeLet>
+						<placeRec>Philadelphia, PA</placeRec>
+						<dateLet when="1855-01" source="" attested="yes">Jany 16th[?] 1855</dateLet>
+						<dateLet when="1855-01" source="" attested="yes">5615</dateLet>
+					</letHeading>
+					<msContents>
+						<msItem>
+							<author></author>
+							<editor></editor>
+							<respStmt>
+								<resp></resp>
+								<name></name>
+							</respStmt>
+							<title></title>
+							<decoNote></decoNote>
+							<listBibl>
+								<bibl></bibl>
+							</listBibl>
+							<filiation></filiation>
+							<textLang></textLang>
+							<figure>
+								<graphic url="LSKAP0121_1_1r.jpg"></graphic>
+								<graphic url="LSKAP0121_1_1v.jpg"></graphic>
+								<graphic url="LSKAP0121_1_2r.jpg"></graphic>
+								<graphic url="LSKAP0121_1_2v.jpg"></graphic>
+								<graphic url="LSKAP0121_1_3r.jpg"></graphic>
+								<graphic url="LSKAP0121_1_3v.jpg"></graphic>
+								<graphic url="LSKAP0121_1_4r.jpg"></graphic>
+							</figure>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support>
+									<material color="" lined="false" paper_type="" size="">letter</material>
+								</support>
+								<extent>6 pages on 3 sheets
+									<dimensions></dimensions>
+								</extent>
+								<foliation></foliation>
+								<collation></collation>
+								<condition fragment="false"></condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout></layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc script="manuscript">
+							<handNote></handNote>
+						</handDesc>
+						<decoDesc>
+							<decoNote></decoNote>
+						</decoDesc>
+						<additions></additions>
+						<bindingDesc>
+							<binding>
+								<decoNote></decoNote>
+							</binding>
+						</bindingDesc>
+						<sealDesc>
+							<seal>
+								<p></p>
+							</seal>
+						</sealDesc>
+						<accMat></accMat>
+						<envDesc occ="false"></envDesc>
+					</physDesc>
+					<history>
+						<origin></origin>
+						<provenance></provenance>
+						<acquisition></acquisition>
+					</history>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source></source>
+								<change></change>
+							</recordHist>
+							<availability status="restricted">
+								<p>Restricted</p>
+							</availability>
+							<custodialHist>
+								<custEvent></custEvent>
+							</custodialHist>
+						</adminInfo>
+						<surrogates></surrogates>
+						<listBibl>
+							<bibl></bibl>
+						</listBibl>
+					</additional>
+					<msPart>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+					</msPart>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p></p>
+			</projectDesc>
+			<samplingDecl>
+				<p></p>
+			</samplingDecl>
+			<editorialDecl>
+				<correction>
+					<p></p>
+				</correction>
+				<normalization>
+					<p></p>
+				</normalization>
+				<quotation>
+					<p></p>
+				</quotation>
+				<hyphenation>
+					<p></p>
+				</hyphenation>
+				<segmentation>
+					<p></p>
+				</segmentation>
+				<stdVals>
+					<p></p>
+				</stdVals>
+				<interpretation>
+					<p></p>
+				</interpretation>
+			</editorialDecl>
+			<tagsDecl>
+				<rendition></rendition>
+				<namespace name="http://www.tei-c.org/ns/1.0">
+					<tagUsage gi=""></tagUsage>
+				</namespace>
+			</tagsDecl>
+			<refsDecl>
+				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
+			</refsDecl>
+			<refsDecl>
+				<refState unit=""/>
+			</refsDecl>
+			<classDecl>
+				<taxonomy>
+					<category>
+						<catDesc></catDesc>
+					</category>
+				</taxonomy>
+			</classDecl>
+			<appInfo>
+				<application ident="" version="">
+					<desc></desc>
+					<label></label>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<creation></creation>
+			<langUsage>
+				<language ident="en">English</language>
+				<language ident="he">Hebrew</language>
+			</langUsage>
+			<textClass>
+				<keywords scheme="unknown">
+					<list>
+						<item></item>
+						<item></item>
+					</list>
+				</keywords>
+				<classCode scheme=""></classCode>
+				<catRef/>
+			</textClass>
+		</profileDesc>
+		<revisionDesc>
+			<change></change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<pb n="1"/>
+				<p rend="align(right)"><placeName>77 Monroe Street New York</placeName></p>
+			<p rend="align(right)"><date>Jany 16th<add>&#63;</add> 5615</date></p>
+				<p rend="indent(1)">Dear Sir</p>
+			<p rend="indent(2)">It may appear strange to you<lb/> to be troubled with my correspondence&#44; but there<lb/> are times in a man&#39;s life&#44; which prompt him<lb/> to do that which at other times he would not&#44; this<lb/> is the case with me.  I am ready to make any<lb/> sacrifices to illicit truth.  Truth is my motto<lb/>  I have long had reason to feel very angry<lb/> at your conduct towards me. from the very hour<lb/> I set my foot on the American Shore you<lb/> openly declared yourself my opponent&#8212;you<lb/> wrote and spoke against me&#44; and you did<lb/> more you vilified and maligned my public<lb/> and private character&#44; and would if you<lb/> could have injured my prospects in this free<lb/> Country&#8212;my ability and Talents as a Teacher<lb/> of God&#39;s word you could not defy for in that<lb/> respect my name of old stands high in the<lb/> List&#8212;and the people will judge for themselves<lb/> &#38; came therefore to the conclusion that it was<lb/> in your part as well as others of the Clergy<lb/> nothing else but jealousy in a literary point<lb/> of view&#44; and to crush me was the main object<lb/> of all your proceedings&#8212;but it happily failed&#33;</p>
+				<p rend="The following is written in pencil at the bottom left of the page.">1 of 2 20&#45;664</p>
+			<pb n="2"/>
+				<p>2&#41; wish there few remarks which you see are candid on<lb/> my part&#8212;let me notice in the first instance&#44; that<lb/> up to the present Hour I cannot unravel the<lb/> mystery why you should have so inveterate an<lb/> objection to me.  I often ask myself the question<lb/> what can the reason be&#63;  I have never harmed<lb/> <persName>Mr Leeser</persName>&#44; nor have I thought I could do so&#8212;<lb/> In looking at your letter to me of <date>Sept 5612</date> which<lb/> breathes a spirit of kindness and good feeling&#44; and<lb/> the amicable disposition with which we met each<lb/> at the <add>Hebrew</add> at <placeName>Syracuse</placeName>&#44; where I officiated as<lb/> <add>Hebrew</add> <persName>Dr Raphale</persName> preached&#8212;I cannot but be<lb/> astonished at the Report you spread of me when<lb/> I met you at <placeName>Charleston</placeName> in the following Winter<lb/> when that Report reached me&#44; knowing that I care<lb/> defy the whole world as to my character of the<lb/> truth be adhered to I lost no time in sending<lb/> without delay to <placeName>Europe</placeName> all that you said of me<lb/> in the name of <persName>Dr Raphale</persName> and by the next<lb/> mail I received a Document from the <add>Hebrew</add><lb/> of <placeName>London</placeName> proving at once all such Reports to<lb/> be false&#8212;and while yet at <placeName>Charleston</placeName> I wrote to<lb/> <persName>Dr Raphale</persName> calling upon him to state which<lb/> he know of me&#44; and to say why He did report<lb/> those things which you said came from him<lb/> copy of the said letter was handed over to <persName>Mr<lb/> Hart</persName> the <add>Hebrew</add> of the <add>Hebrew</add> there&#8212;but he deigned not<lb/> to answer it.  I wrote a second&#8212;and the result<lb/> was the same&#8212;I wrote a third in which I</p>
+			<pb n="3"/>
+				<p rend="align(right)">&#40;3</p>
+				<p>used <add>Hebrew</add> and this ended in a reply written<lb/> in Hebrew throughout of an evasive character<lb/> and flatly denying any thing ever having been<lb/> said by him to any one&#8212;now I ask you what<lb/> is all this from men who are placed at the<lb/> Head of Congregations to level <sic>there</sic> Religion<lb/> and Moralists&#8212;who am I to believe&#63;&#8212;<lb/> the letter I have in my possession which you<lb/> can have whenever you please&#8212;copies of all<lb/> the letters and Documents I sent to <placeName>Charleston</placeName><lb/> Letters to and fro passed between us but were<lb/> unsatisfactory in their result&#8212;</p>
+				<p>Many many persons here in this City and in<lb/> <placeName>Syracuse</placeName> urged me to indict you for <hi rend="underline">slander</hi><lb/> in order to ascertain who was the real author<lb/> of the Report&#8212;I would not&#8212;for state litigation<lb/> especially between the Clergy&#8212;we are low enough<lb/> already and for the love of my Religion I would<lb/> not be led on to such a course.  I had hoped<lb/> to have been in a position long ere this to<lb/> have learned who was the aggressor in this<lb/> matter.  Having met you here on some <sic>occasins</sic><lb/> I feign would have asked you&#44; but my Head<lb/> told me <add>Hebrew</add> for such I held you&#44; &#38;<lb/> you could not blame me&#44; for when I reflect that<lb/> you had no feeling for an innocent man&#44; who<lb/> had a large family to support&#44; and by your<lb/> villainous Report I might have starved with them</p>
+			<pb n="4"/>
+				<p rend="align(right)">&#40;4</p>
+				<p>Had not the God of <placeName>Israel</placeName> been to me <add>Hebrew</add><lb/> truly did I say with the sweet Psalmist of<lb/> <placeName>Israel</placeName> <add>Hebrew</add><lb/> In spite of all my enemies&#44; I have proved to the<lb/> American Jews that I am what I represent myself<lb/> to be a true Orthodox Israelite&#44; capable of filling<lb/> any office to which I may be appointed&#8212;and I<lb/> can without fear challenge any of the Ministers<lb/> throughout the <placeName>United States</placeName> in point of ability<lb/> and Competency for a Jewish Divine&#8212;and they<lb/> are now satisfied beyond doubt&#8212;that all those<lb/> who attempted to <sic>injured</sic> me are none else<lb/> but <hi rend="underline">Mountebanks</hi> and <hi rend="underline">Hypocrites</hi> do not my<lb/> friend think me harsh but &#8220;<add>Hebrew</add>&#8221;<lb/>  Now I ask you is it not due to me&#44; that<lb/> you should give me up your author of<lb/> the Report you spread about me at <placeName>Charleston</placeName><lb/> you said there it was <persName>Dr Raphale</persName>.  He denies<lb/> it&#44; and when he was asked about me two<lb/> years since when I had a call to this City<lb/> His reply was&#44; Report speaks to<add>&#63;</add> of me&#44; and<lb/> you knew all about it. but I believe that<lb/> He himself was the calumniator&#44; for I have<lb/> had reason to think so since that time&#8212;and when<lb/> I wrote to <persName>Mr Sevien</persName> of <placeName>Charleston</placeName>&#44; He stated He<lb/> was sure you would make the <sic>amende</sic> Honorable<lb/> if you were the aggressor.  Now if you are</p>
+			<pb n="5"/>
+				<p rend="align(right)">&#40;5</p>
+				<p>not the guilty party why you should still be<lb/> thought so by me <add>Hebrew</add><lb/><add>Hebrew</add><lb/><add>Hebrew</add><lb/> I have no desire to make any public use of it<lb/> but I am anxious to know the Truth for I<lb/> have never since that time spoken to <persName>Dr Raphale</persName><lb/> for I hold it dangerous until I am set to<lb/> right in the matter.  I must not omit the<lb/> Circumstance you witnessed at <placeName>Syracuse</placeName> at<lb/> the festival where the Dr spoke of me in such<lb/> commendable terms&#8212;I know you stated this<lb/> at <placeName>Charleston</placeName>&#8212;but you should first have<lb/> asked me&#44; and I could have assured you to<lb/> the contrary&#8212;again I have a letter in my<lb/> possession sent by the Dr to <placeName>Louisville</placeName> in my<lb/> behalf which contradicts all he said to you<lb/> about me&#8212;Now I leave the matter in<lb/> your hands whether you think we should<lb/> remain open and severe enemies for<lb/> life&#44; or whether you will do me the justice to<lb/> set the matter at issue by declaring to me<lb/> the truth throughout <add>Hebrew</add><lb/>&#8212;<add>Hebrew</add><lb/>  I shall be willing to return you any favor<lb/> you may desire of me as far as I am able<lb/> in my public capacity&#8212;my whole time is<lb/> devoted for the benefit of my people&#8212;you no doubt<lb/> read the Asmonean&#44; and see my articles</p>
+			<pb n="6"/>
+				<p>against <persName>Dr Wise&#39;s</persName> Heterodoxy&#8212;his learning<lb/> I do not fear&#8212;nor do I hold back in<lb/> speaking out my mind.  How many of our<lb/> Divines do you see fight the Battles of the Lord<lb/> some are afraid that their own character may<lb/> be involved and others are too ignorant<lb/> I know them all&#8212;and they know me too<lb/> and therefore as <persName>King David</persName> said<lb/> &#8220;<add>Hebrew</add>&#8221;</p>
+				<p>These men can go to public Dinner and<lb/> spout a studied speech upon an old<lb/> hackneyed subject.<lb/> and the public are gulled<lb/> by them because they can flatter and act<lb/> the Sycophant&#44; I do not&#44; and must confess<lb/> you do not&#44; as your Journal proves&#8212;<lb/> situated as I am at present I have nothing<lb/> to fear from any of these men&#8212;now if<lb/> you consider me worthy your Confidence<lb/> in informing me of the truth&#8212;I shall feel<lb/> satisfied so that I may not attach any<lb/> Blame to the innocent&#8212;<add>Hebrew</add><lb/> this will enable us both to meet in the<lb/> Square and when this matter shall be<lb/> amicably adjusted&#44; I shall be ever ready<lb/> to serve you in writing for your Journal.</p>
+				<p rend="The following is written in pencil at the bottom of the page."><date>1&#45;10&#45;5615</date></p>
+			<pb n="7"/>
+				<p>that is if you deem me capable.  I have<lb/> an extensive Hebrew library which will<lb/> enable me at any time to refer to any<lb/> scarce rule or passage in Holy writ<add>&#63;</add> you<lb/> may require&#44; and that shall be at your<lb/> Service&#44; and in that confidence between<lb/> man and man&#8212;and I shall be ready to<lb/> assist you in your Holy work by such<lb/> means to put down those who rise up to<lb/> undermine our Holy Religion&#44; and revile<lb/> the Word of God as contained in <add>Hebrew</add><lb/> and the whole <add>Hebrew</add>.</p>
+				<p>In conclusion permit me to say&#44; that whatever<lb/> may be your determination in the matter<lb/> I shall solace myself with the reflection that<lb/> I have done my duty both to you and<lb/> to myself.</p>
+			<p rend="indent(1)">Wishing you success in all<lb/> you laudable undertakings</p>
+			<p rend="indent(4)">Believe me</p>
+			<p rend="indent(4)">Yours pas<add>&#63;</add>lly</p>
+			<p rend="indent(5)"><persName role="author">H. A. Henry</persName></p>
+				<p><add>Hebrew</add></p>
+				<p><addressee>Revd Isaac Leeser</addressee></p>
+			<p rend="indent(1)"><placeName>Philadelphia</placeName></p>
+				<p rend="The following is written in pencil at the bottom of the page."><date>1&#45;10&#45;5615</date></p>
+		</body>
+	</text>
+</TEI>

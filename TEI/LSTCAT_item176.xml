@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI [
+<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
+%teibase;
+<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
+%teiext;
+]>
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>[no title given]</title>
+				<author attested="yes" accepted="yes" signature="yes">Jacobs, Michael</author>
+				<editor></editor>
+				<sponsor></sponsor>
+				<funder></funder>
+				<principal></principal>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition></edition>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</editionStmt>
+			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
+			<publicationStmt>
+				<publisher>Unpublished manuscript</publisher>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Not part of a series</p>
+			</seriesStmt>
+			<notesStmt>
+				<note></note>
+			</notesStmt>
+			<sourceDesc>
+				<biblStruct>
+					<!-- catalog entry goes here -->
+					<monogr>
+						<imprint>
+							<dateLet></dateLet>
+						</imprint>
+					</monogr>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<country>USA</country>
+						<region>PA</region>
+						<settlement>Philadelphia</settlement>
+						<institution></institution>
+						<repository>TCAT</repository>
+						<collection>Anonymous</collection>
+						<idno>LSTCAT_item176</idno>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+						<msName></msName>
+					</msIdentifier>
+					<head></head>
+					<letHeading>
+						<author attested="yes" accepted="yes" signature="yes">Jacobs, Michael</author>
+						<addressee editor="true" attested="yes" accepted="yes">Leeser, Isaac</addressee>
+						<deliverer></deliverer>
+						<respStmt>
+							<resp></resp>
+							<name></name>
+						</respStmt>
+						<placeLet>Danville, PA</placeLet>
+						<placeRec>Philadelphia, PA</placeRec>
+						<dateLet when="1857-03" source="" attested="yes">March 1857</dateLet>
+					</letHeading>
+					<msContents>
+						<msItem>
+							<author></author>
+							<editor></editor>
+							<respStmt>
+								<resp></resp>
+								<name></name>
+							</respStmt>
+							<title></title>
+							<decoNote></decoNote>
+							<listBibl>
+								<bibl></bibl>
+							</listBibl>
+							<filiation></filiation>
+							<textLang></textLang>
+							<figure>
+								<graphic url="il_tcat_item176_wk1_body0001.jpg"></graphic>
+								<graphic url="il_tcat_item176_wk1_body0002.jpg"></graphic>
+							</figure>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support>
+									<material color="" lined="false" paper_type="" size="">letter</material>
+								</support>
+								<extent>2 pages on 1 sheet
+									<dimensions></dimensions>
+								</extent>
+								<foliation></foliation>
+								<collation></collation>
+								<condition fragment="false"></condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout></layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc script="manuscript">
+							<handNote></handNote>
+						</handDesc>
+						<decoDesc>
+							<decoNote></decoNote>
+						</decoDesc>
+						<additions></additions>
+						<bindingDesc>
+							<binding>
+								<decoNote></decoNote>
+							</binding>
+						</bindingDesc>
+						<sealDesc>
+							<seal>
+								<p></p>
+							</seal>
+						</sealDesc>
+						<accMat></accMat>
+						<envDesc occ="false"></envDesc>
+					</physDesc>
+					<history>
+						<origin></origin>
+						<provenance></provenance>
+						<acquisition></acquisition>
+					</history>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source></source>
+								<change></change>
+							</recordHist>
+							<availability status="free">
+								<p>Unrestricted</p>
+							</availability>
+							<custodialHist>
+								<custEvent></custEvent>
+							</custodialHist>
+						</adminInfo>
+						<surrogates></surrogates>
+						<listBibl>
+							<bibl></bibl>
+						</listBibl>
+					</additional>
+					<msPart>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+					</msPart>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p></p>
+			</projectDesc>
+			<samplingDecl>
+				<p></p>
+			</samplingDecl>
+			<editorialDecl>
+				<correction>
+					<p></p>
+				</correction>
+				<normalization>
+					<p></p>
+				</normalization>
+				<quotation>
+					<p></p>
+				</quotation>
+				<hyphenation>
+					<p></p>
+				</hyphenation>
+				<segmentation>
+					<p></p>
+				</segmentation>
+				<stdVals>
+					<p></p>
+				</stdVals>
+				<interpretation>
+					<p></p>
+				</interpretation>
+			</editorialDecl>
+			<tagsDecl>
+				<rendition></rendition>
+				<namespace name="http://www.tei-c.org/ns/1.0">
+					<tagUsage gi=""></tagUsage>
+				</namespace>
+			</tagsDecl>
+			<refsDecl>
+				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
+			</refsDecl>
+			<refsDecl>
+				<refState unit=""/>
+			</refsDecl>
+			<classDecl>
+				<taxonomy>
+					<category>
+						<catDesc></catDesc>
+					</category>
+				</taxonomy>
+			</classDecl>
+			<appInfo>
+				<application ident="" version="">
+					<desc></desc>
+					<label></label>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<creation></creation>
+			<langUsage>
+				<language ident="de">German</language>
+			</langUsage>
+			<textClass>
+				<keywords scheme="unknown">
+					<list>
+						<item></item>
+						<item></item>
+					</list>
+				</keywords>
+				<classCode scheme=""></classCode>
+				<catRef/>
+			</textClass>
+		</profileDesc>
+		<revisionDesc>
+			<change></change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<pb n="1"/>
+				<p rend="align(right)"><placeName>Danville Pa</placeName> <date>March 1857</date></p>
+				<p>Sehr ge<add>&#63;</add> Herr Red<add>&#63;</add>&#33;</p>
+				<p>Haben Sie die gute <add>&#63;</add>gendes in Ihrem blatte<lb/> abzudr&#252;cken&#44; und <add>&#63;</add>sten Sie <sic>mus</sic> mit <add>&#63;</add> kosten&#58;</p>
+			<p rend="indent(1)">Die F<add>&#63;</add> dieses Ortes hatten letzte Woche<lb/> mir sehr gl&#252;ckliche Zeit.  Herman Loge N<add>&#63;</add> 32<lb/> das M. O. B. B. wurde von folgenden Beamten<lb/> der W. D. G L von <placeName><hi rend="underline">Pa</hi></placeName> <add>&#63;</add>&#58; Br <persName>Lewis Ellinger</persName><lb/> als G N. A&#44; Br <persName>Abr Hess</persName> als G A.&#44; Br<persName> B. Waag</persName>&#44; G. S.<lb/> Br <persName>B. Potsdamer</persName> G C&#44; Br <persName>Ph Goodmann</persName> G. L.<lb/> Ein <add>&#63;</add> das Abendessen beschlo&#223; die Feierlichkeit.<lb/>  Toasts und gestreiche Reden wurden gegeben<lb/> von den Ab<add>&#63;</add> der E D. G. L&#59; auch <add>&#63;</add><lb/> Br <persName>Rev Eml. Oppenheim</persName> in seiner A<add>&#63;</add> <add>&#63;</add> die B<add>&#63;</add><lb/> der W D. G. L.&#44; so wie <add>&#63;</add> die Mitglieder das Ordens&#44;<lb/> dr&#252;ckte sich so <add>&#63;</add> aus&#44; d<add>&#63;</add>&#223; wir stolz sind<lb/> derselben in unserer Mitte zu geben.  Folgende<lb/> beschlusse wurden gefa&#223;t bei der ersten Versammlung<lb/> der Herman Loge N<add>&#63;</add> 32&#44; N O B. B. und ein&#8222;<lb/>stimmig <add>&#63;</add>&#58;</p>
+			<p rend="indent(1)">Beschlossen&#44; da&#223; der B&#39;nai Brith in seinen<lb/> grunds&#228;tzen&#44; Frieden und Bruderliebe&#44; als der<lb/> grundstan<add>&#63;</add> zum gedeihen das Judenthums<lb/> betrachtes werden kann.</p>
+			<pb n="2"/>
+				<p>Beschlossen&#44; da&#223; wir aus stolz f&#252;hlen gegenw&#228;rtig<lb/> in Verbindung getreten zu sein mit dem<lb/> Orden der B&#39;nai Brith.</p>
+				<p>Beschlossen&#44; da&#223; wir hindurch das W. D. G. L der B. B<lb/> von <placeName>Pa</placeName> <sic>mus</sic> von <add>&#63;</add>gste Danksagung darbringen<lb/> f&#252;r die g&#252;tig <sic>Ertheilung</sic> eines Freibriefes.</p>
+				<p>Beschlossen&#44; da&#223; wir in den Abgeordneten der W. D. G L.<lb/> <add>&#63;</add> sehe geliebten und ge<add>&#63;</add>chtaben br&#252;der<lb/> <persName>L. Ellinger</persName>&#44; <persName>Ab. Hess</persName>&#44; <persName>B Potsdamer</persName>&#44; <persName>B. Waag</persName> and <persName>Ph Goodmann</persName><lb/> welche unsere Lage wir wuchten aus gezei<add>&#63;</add>&#44;<lb/> Ant<add>&#63;</add>&#44; wahre Br&#252;der und gesellschaftliche<lb/> Freunde gefunden haben&#44; lange wird Ihr Bleiben in <add>&#63;</add><lb/> Mitte uns eine angenehme Erinnerung sein.</p>
+				<p>Beschlossen&#44; da&#223; wir hierdurch unsere herzlichste danksagung<lb/> <add>&#63;</add> <add>&#63;</add> Abgeordneter der Gro&#223; Lage darbringen.</p>
+				<p>Beschlossen&#44; da&#223; eine Abschrift von dieser Beschl&#252;ssen gesandt<lb/> werde an <add>&#63;</add> Br&#252;der&#44; so wir an<lb/> W. D. G. L. und an die Herausgeber das<lb/> Israelite and Occident.</p>
+			<p rend="indent(1)"><placeName>Danville</placeName>&#44; <date>8ten March 1857</date></p>
+			<p rend="indent(2)">Herman Loge Nro 32</p>
+			<p rend="indent(3)"><persName role="author">Michael Jacobs</persName></p>
+			<p rend="indent(4)">Sec.</p>
+		</body>
+	</text>
+</TEI>

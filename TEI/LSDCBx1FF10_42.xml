@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI [
+<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
+%teibase;
+<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
+%teiext;
+]>
+<TEI>
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>[no title given]</title>
+          <author attested="yes" accepted="yes" signature="yes">Dryfus, W.</author>
+          <editor></editor>
+          <sponsor></sponsor>
+          <funder></funder>
+          <principal></principal>
+          <respStmt>
+            <resp></resp>
+            <name></name>
+          </respStmt>
+        </titleStmt>
+        <editionStmt>
+          <edition></edition>
+          <respStmt>
+            <resp></resp>
+            <name></name>
+          </respStmt>
+        </editionStmt>
+        <extent>[information about file size goes here, information about extent of physical item comes later]</extent>
+        <publicationStmt>
+          <publisher>Unpublished manuscript</publisher>
+        </publicationStmt>
+        <seriesStmt>
+          <p>Not part of a series</p>
+        </seriesStmt>
+        <notesStmt>
+          <note></note>
+        </notesStmt>
+        <sourceDesc>
+          <biblStruct>
+            <!-- catalog entry goes here -->
+            <monogr>
+              <imprint>
+                <dateLet></dateLet>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <msDesc>
+            <msIdentifier>
+              <country>USA</country>
+              <region>PA</region>
+              <settlement>Philadelphia</settlement>
+              <institution></institution>
+              <repository>CAJS Isaac Leeser Collection</repository>
+              <collection>The Library of the Dropsie College for Hebrew and Cognate Learning</collection>
+              <idno>LSDCBx1FF10_42</idno>
+              <altIdentifier>
+                <idno></idno>
+              </altIdentifier>
+              <msName></msName>
+            </msIdentifier>
+            <head></head>
+            <letHeading>
+              <author attested="yes" accepted="yes" signature="yes">Dryfus, W.</author>
+              <addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac</addressee>
+              <deliverer></deliverer>
+              <respStmt>
+                <resp></resp>
+                <name></name>
+              </respStmt>
+              <placeLet>Zanesville, OH</placeLet>
+              <placeRec>Philadelphia, PA</placeRec>
+              <dateLet when="1853-06" source="" attested="yes">15 June 1853</dateLet>
+            </letHeading>
+            <msContents>
+              <msItem>
+                <author></author>
+                <editor></editor>
+                <respStmt>
+                  <resp></resp>
+                  <name></name>
+                </respStmt>
+                <title></title>
+                <decoNote></decoNote>
+                <listBibl>
+                  <bibl></bibl>
+                </listBibl>
+                <filiation></filiation>
+                <textLang></textLang>
+                <figure>
+                  <graphic url="ilcajs_b1f10_0042_1r.jpg"/>
+                </figure>
+              </msItem>
+            </msContents>
+            <physDesc>
+              <objectDesc>
+                <supportDesc>
+                  <support>
+                    <material color="" lined="unk" paper_type="" size="Letter">letter</material>
+                  </support>
+                  <extent>2 pages on 2 sheets
+                    <dimensions></dimensions>
+                  </extent>
+                  <foliation></foliation>
+                  <collation></collation>
+                  <condition fragment="false"></condition>
+                </supportDesc>
+                <layoutDesc>
+                  <layout></layout>
+                </layoutDesc>
+              </objectDesc>
+              <handDesc script="manuscript">
+                  <handNote></handNote>
+              </handDesc>
+              <decoDesc>
+                <decoNote></decoNote>
+              </decoDesc>
+              <additions></additions>
+              <bindingDesc>
+                <binding>
+                  <decoNote></decoNote>
+                </binding>
+              </bindingDesc>
+              <sealDesc>
+                <seal>
+                  <p></p>
+                </seal>
+              </sealDesc>
+              <accMat></accMat>
+              <envDesc occ="false"></envDesc>
+            </physDesc>
+            <history>
+              <origin></origin>
+              <provenance></provenance>
+              <acquisition></acquisition>
+            </history>
+            <additional>
+              <adminInfo>
+                <recordHist>
+                  <source></source>
+                  <change></change>
+                </recordHist>
+                <availability status="free">
+                  <p>Unrestricted</p>
+                </availability>
+                <custodialHist>
+                  <custEvent></custEvent>
+                </custodialHist>
+              </adminInfo>
+              <surrogates></surrogates>
+              <listBibl>
+                <bibl></bibl>
+              </listBibl>
+            </additional>
+            <msPart>
+              <altIdentifier>
+                <idno></idno>
+              </altIdentifier>
+            </msPart>
+          </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <projectDesc>
+          <p></p>
+        </projectDesc>
+        <samplingDecl>
+          <p></p>
+        </samplingDecl>
+        <editorialDecl>
+          <correction>
+            <p></p>
+          </correction>
+          <normalization>
+            <p></p>
+          </normalization>
+          <quotation>
+            <p></p>
+          </quotation>
+          <hyphenation>
+            <p></p>
+          </hyphenation>
+          <segmentation>
+            <p></p>
+          </segmentation>
+          <stdVals>
+            <p></p>
+          </stdVals>
+          <interpretation>
+            <p></p>
+          </interpretation>
+        </editorialDecl>
+        <tagsDecl>
+          <rendition></rendition>
+          <namespace name="http://www.tei-c.org/ns/1.0">
+            <tagUsage gi=""></tagUsage>
+          </namespace>
+        </tagsDecl>
+        <refsDecl>
+          <cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
+        </refsDecl>
+        <refsDecl>
+          <refState unit=""/>
+        </refsDecl>
+        <classDecl>
+          <taxonomy>
+            <category>
+              <catDesc></catDesc>
+            </category>
+          </taxonomy>
+        </classDecl>
+        <appInfo>
+          <application ident="" version="">
+            <desc></desc>
+            <label></label>
+          </application>
+        </appInfo>
+      </encodingDesc>
+      <profileDesc>
+        <creation></creation>
+        <langUsage>
+          <language ident="en">English</language>
+          <language ident="he">Hebrew</language>
+        </langUsage>
+        <textClass>
+          <keywords scheme="unknown">
+            <list>
+              <item></item>
+              <item></item>
+            </list>
+          </keywords>
+          <classCode scheme=""></classCode>
+          <catRef/>
+        </textClass>
+      </profileDesc>
+      <revisionDesc>
+        <change></change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+      
+		<pb n="1"/>
+          <p rend="indent(1)"><placeName>Zanesville</placeName> <date>June 15&#61;53</date></p>
+			<p><add>Hebrew</add></p>
+          <p>Yours <persName role="author">W. Dryfus</persName>.</p>
+          <p rend="indent(1)"><persName>H Mayer</persName> Care <persName>G Straus</persName>.</p>
+          <p rend="indent(2)"><placeName>Frankfurt K. Y.</placeName></p>
+		<pb n="2"/>
+			<p rend="align(right)"><placeName>Zanesville</placeName>&#44; <date>June 15&#44; 1853</date>.</p>
+			<p>Dear friend <addressee>Leeser</addressee>&#58;</p>
+          <p rend="indent(2)">I send you herewith &#36;4. which I received from <persName>Mr. Mach</persName><lb/> I gave him a full receipt for it. <persName>Mr. Mach</persName> said he didn&#39;t want<add>&#63;</add><lb/> to cheat you out of a penny&#44; but you had promised to give the<lb/> first of nine volumes free&#44; and he wanted to pay only for<lb/> that which he had received. Please send me my bill&#44; since I<lb/> am leaving here and I don&#39;t know where to. When I am once<lb/> more settled somewhere&#44; I shall write to you&#44; in order once<lb/> more to receive your works. You may also write to <persName>Mr. Mayer</persName><lb/> I think he will pay you. I shall write the address below. I<lb/> know of no further news to write. I send you friendly greetings<lb/> my wife and children send you regards.</p>
+          <p rend="indent(6)"><persName role="author">W. Dryfus</persName></p>
+          <p rend="indent(1)"><persName>H. Mayer</persName>&#44; c&#47;o <persName>G. Straus</persName>&#44;</p>
+          <p rend="indent(2)"><placeName>Frankfurt&#44; Kentucky</placeName>.</p>
+          
+        </body>
+    </text>
+</TEI>

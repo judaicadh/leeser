@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI [
+<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
+%teibase;
+<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
+%teiext;
+]>
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>[no title given]</title>
+				<author attested="yes" accepted="yes" signature="yes">De Sola, Abraham</author>
+				<editor></editor>
+				<sponsor></sponsor>
+				<funder></funder>
+				<principal></principal>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition></edition>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</editionStmt>
+			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
+			<publicationStmt>
+				<publisher>Unpublished manuscript</publisher>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Not part of a series</p>
+			</seriesStmt>
+			<notesStmt>
+				<note></note>
+			</notesStmt>
+			<sourceDesc>
+				<biblStruct>
+					<!-- catalog entry goes here -->
+					<monogr>
+						<imprint>
+							<dateLet></dateLet>
+						</imprint>
+					</monogr>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<country>USA</country>
+						<region>PA</region>
+						<settlement>Philadelphia</settlement>
+						<institution></institution>
+						<repository>CAJS Isaac Leeser Collection</repository>
+						<collection>The Library of the Dropsie College for Hebrew and Cognate Learning</collection>
+						<idno>LSDCBx3FF6_2</idno>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+						<msName></msName>
+					</msIdentifier>
+					<head></head>
+					<letHeading>
+						<author attested="yes" accepted="yes" signature="yes">De Sola, Abraham</author>
+						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac, Rev</addressee>
+						<deliverer></deliverer>
+						<respStmt>
+							<resp></resp>
+							<name></name>
+						</respStmt>
+						<placeLet></placeLet>
+						<placeRec>Philadelphia, PA</placeRec>
+						<dateLet when="" source="" attested="unk"></dateLet>
+						<dateLet when="" source="" attested="yes">[Hebrew]</dateLet>
+					</letHeading>
+					<msContents>
+						<msItem>
+							<author></author>
+							<editor></editor>
+							<respStmt>
+								<resp></resp>
+								<name></name>
+							</respStmt>
+							<title></title>
+							<decoNote></decoNote>
+							<listBibl>
+								<bibl></bibl>
+							</listBibl>
+							<filiation></filiation>
+							<textLang></textLang>
+							<figure>
+								<graphic url="ilcajs_b3f6_0002_1r.jpg"></graphic>
+								<graphic url="ilcajs_b3f6_0002_1v.jpg"></graphic>
+								<graphic url="ilcajs_b3f6_0002_2r.jpg"></graphic>
+								<graphic url="ilcajs_b3f6_0002_2v.jpg"></graphic>
+							</figure>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support>
+									<material color="" lined="false" paper_type="" size="Letter">letter</material>
+								</support>
+								<extent>4 pages on 1 sheet
+									<dimensions></dimensions>
+								</extent>
+								<foliation></foliation>
+								<collation></collation>
+								<condition fragment="false"></condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout></layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc script="manuscript">
+							<handNote></handNote>
+						</handDesc>
+						<decoDesc>
+							<decoNote></decoNote>
+						</decoDesc>
+						<additions></additions>
+						<bindingDesc>
+							<binding>
+								<decoNote></decoNote>
+							</binding>
+						</bindingDesc>
+						<sealDesc>
+							<seal>
+								<p></p>
+							</seal>
+						</sealDesc>
+						<accMat></accMat>
+						<envDesc occ="false"></envDesc>
+					</physDesc>
+					<history>
+						<origin></origin>
+						<provenance></provenance>
+						<acquisition></acquisition>
+					</history>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source></source>
+								<change></change>
+							</recordHist>
+							<availability status="free">
+								<p>Unrestricted</p>
+							</availability>
+							<custodialHist>
+								<custEvent></custEvent>
+							</custodialHist>
+						</adminInfo>
+						<surrogates></surrogates>
+						<listBibl>
+							<bibl></bibl>
+						</listBibl>
+					</additional>
+					<msPart>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+					</msPart>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p></p>
+			</projectDesc>
+			<samplingDecl>
+				<p></p>
+			</samplingDecl>
+			<editorialDecl>
+				<correction>
+					<p></p>
+				</correction>
+				<normalization>
+					<p></p>
+				</normalization>
+				<quotation>
+					<p></p>
+				</quotation>
+				<hyphenation>
+					<p></p>
+				</hyphenation>
+				<segmentation>
+					<p></p>
+				</segmentation>
+				<stdVals>
+					<p></p>
+				</stdVals>
+				<interpretation>
+					<p></p>
+				</interpretation>
+			</editorialDecl>
+			<tagsDecl>
+				<rendition></rendition>
+				<namespace name="http://www.tei-c.org/ns/1.0">
+					<tagUsage gi=""></tagUsage>
+				</namespace>
+			</tagsDecl>
+			<refsDecl>
+				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
+			</refsDecl>
+			<refsDecl>
+				<refState unit=""/>
+			</refsDecl>
+			<classDecl>
+				<taxonomy>
+					<category>
+						<catDesc></catDesc>
+					</category>
+				</taxonomy>
+			</classDecl>
+			<appInfo>
+				<application ident="" version="">
+					<desc></desc>
+					<label></label>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<creation></creation>
+			<langUsage>
+				<language ident="en">English</language>
+			</langUsage>
+			<textClass>
+				<keywords scheme="unknown">
+					<list>
+						<item></item>
+						<item></item>
+					</list>
+				</keywords>
+				<classCode scheme=""></classCode>
+				<catRef/>
+			</textClass>
+		</profileDesc>
+		<revisionDesc>
+			<change></change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<pb n="1"/>
+				<p rend="align(right)"><add><date>Hebrew</date></add></p>
+				<p><addressee>Rev Isaac Leeser</addressee></p>
+			<p rend="indent(1)">My dear Friend&#45;</p>
+			<p rend="indent(2)">Want of leisure has prevented my acknowledging<lb/> before the receipt of the proof of my sermon by <persName>Miss Esther Joseph</persName><lb/> I am much obliged to you for sending it&#44; I suppose from the<lb/> immense number of errors in the Hebrew prayer that it is a first<lb/> proof&#44; the English is much <hi rend="underline">cleaner</hi> as we English compositors<lb/> would say. I do not doubt but that you have yourself received<lb/> it and have restored us Montreallers to life&#44; for your printers<lb/> have made us say <add>Hebrew</add>. Perhaps by <date>November</date> I may<lb/> have an opportunity of seeing how <add>&#63;</add> it was published.<lb/> For the <date>November</date> no. I send you the following piece of<lb/> information. <placeName>Montreal</placeName>&#8212;At the annual meeting of this<lb/> Congregation the following gentlemen were nominated as officers<lb/> for the ensuing year. President&#44; <persName>Samuel Benjamin Eq</persName>&#59; Parness<lb/> <persName>G J Ascher Eqr</persName>&#59; Treasurer <persName>Myer Solomons</persName>&#59; and Trustees<lb/> <persName>Dr. A H David</persName>&#44; <persName>David Moss</persName> and <persName>Guershom Joseph</persName> Secretary.<lb/> The latter gent is I believe about visiting your quarter&#44;<lb/> Everyone can travel about me. I have been promising myself<lb/> a tuss about the contrary&#44; for I don&#39;t care much to visit<lb/> the close cities of the states for <hi rend="underline">recreation</hi>&#44; <placeName>New York</placeName><lb/> especially&#44; knowing from a fortnight&#39;s experience what it is&#8212;<lb/> but have been prevented. I am disposed to visit the country<lb/> for two reasons&#44; first because I shall see scenery which<lb/> cannot be <sic>equalled</sic> in <placeName>America</placeName>&#44; and secondly with all the<lb/> unprejudiced reasoning of a Londoner I say why should</p>
+			<pb n="2"/>
+				<p>I travel so far to see cities which compared to the one<lb/> whence I came are <add>Hebrew</add>. But enough<lb/> of self &#8212; no &#45;  little more and then I have done.  Did I write<lb/> you that my first period of engagement being out&#44; with my<lb/> congregation have with my consent renewed it for three years<lb/> longer at the same salary and endowments.  Circumstances<lb/> considered they have acted very liberally but what was most<lb/> gratifying to me was the very flattering I may say indeed<lb/> affectionate terms in which they expressed their hope that I<lb/> would remain with them&#44; and their &#8220;deep regret that they<lb/> could not increase my salary to the extent they considered<lb/> my <add>&#63;</add> deserved.&#8221;  There was a full meeting&#44; every<lb/> member being present&#44; but as far as I was concerned there<lb/> were no two opinions. It was but one attempt to render<lb/> my situation among them more comfortable &#8212; though what<lb/> perhaps few other Hozanim would say&#8212;it has been to me all<lb/> I could wish and more than I ever expected.  They have succeeded<lb/> my post including my emoluments from teaching <add>&#63;</add> would be<lb/> considered by some to be worth over &#36;1000&#44; if they confined<lb/> themselves to that amount they would not be far out&#44; Thus<lb/> you see although few in number we having probably not more<lb/> than 15 respectable well&#45;to&#45;do and standard families &#8212; we<lb/> do not lack spirit here &#8212; we have other <sic>expences</sic> Shamas<add>&#63;</add><lb/> synagogue &#38;tc<add>&#63;</add>. I think I shall succeed in being able to<lb/> get the gas put in this fall and then our beautiful<lb/> little <hi rend="underline">Snoga</hi><add>&#63;</add> will be complete. With this sum and<lb/> living being so very much cheaper in <placeName>Canada</placeName> than in<lb/> <placeName>England</placeName> or the <placeName>United States</placeName>&#44; I think I hear you exclaim</p>
+			<pb n="3"/>
+				<p>like <persName>R Nissim</persName> did to me <add>Hebrew</add> &#8220;but for you<lb/> no take own wife&#8212;all goot<add>&#63;</add>&#59; goot<add>&#63;</add> <add>Hebrew</add> love you <add>Hebrew</add><lb/> not goot<add>&#63;</add> to let so many <add>Hebrew</add> get no <add>Hebrew</add>.&#8221;  This was his<lb/> manner of speaking &#8220;die Inglis&#8221; when he thought that it would be<lb/> more impressive than Hebrew in which we used generally to converse.<lb/> Then he would hold up his finger and reckon <add>Hebrew</add> <persName>Miss Josef</persName><lb/> <add>Hebrew</add> <persName>Miss Yos<add>&#63;</add></persName> <add>Hebrew</add> <persName>Miss Solomon</persName>.  One who is rather<lb/> stout seemed to take his fancy&#44; for he said &#40;alluding to <persName>Miss S</persName>&#44;<lb/> <add>Hebrew</add> &#40;in German <add>&#63;</add> you know what that is&#41;<lb/> but no &#8212; sprite of even his recommendation than<add>&#63;</add> likely as I wrote<lb/> you in my last to remain <add>Hebrew</add> for some time to come no disparagement<lb/> to those young ladies with whose amiable qualities you have had opportunities<lb/> of making yourself acquainted lately. You &#8220;think most of your<lb/> religion&#44; you give it most of your time and attention.&#8221; So do I&#44; I<lb/> am too much wedded to my books just now to think as I ought<lb/> of other weddings. I am in no humor yet to be bound &#8212; to be tied<lb/> corded&#44; fixed&#44; irretrievably tied&#44; fastened&#44; booked&#44; <sic>rivetted</sic>&#44; glued or screwed<lb/> I would not even with my congregation much as I am attached to them<lb/> My engagement with them&#44; although nominally for three years I<lb/> am <add>&#63;</add> up at any time I choose&#44; this I stipulated for&#44; and<lb/> now but <add>Hebrew</add>.  <persName>Dr. Raphall</persName> is likely to leave<lb/> <placeName>Birmingham</placeName> for the same reason. I think Hazanim <del>slaves</del><lb/> in <placeName>America</placeName> slaves enough under the system of short<lb/> engagements without their being made <hi rend="underline">worse</hi> than niggers.<lb/>  I don&#39;t care one straw whether I am engaged here or elsewhere<lb/> for a year for six months or for life&#44; <add>&#63;</add> I <sic>dont</sic> want<lb/> my congregation to think I that if they gave me up&#44; I should</p>
+			<pb n="4"/>
+				<p>starve that there is no other place open for me. If even I<lb/> should be forestalled in <placeName>New Orleans</placeName> <placeName>Richmond</placeName> <placeName>Savannah</placeName> <placeName>Mobile</placeName><lb/> all of which places must one day want a Hazan as you yourself<lb/> have written me&#44; there is still field enough for me in the<lb/> <placeName>West Indies</placeName> where I have many acquaintances and relations&#44; I am<lb/> sure I should not want your recommendation&#44; my dear friend&#44; and<lb/> that would go some little way. Besides I hold that three years is<lb/> quite time enough to show that I would do them justice under any<lb/> circumstances&#44; and this having been time enough to judge of my character<lb/> they have no right to evince those suspicions which an attempt to<lb/> make me sign an agreement not to leave them &#8220;in a fix&#8221; would declare.</p>
+			<p rend="indent(1)"><date>19<hi>th</hi> October</date> &#8212; I was called away when writing<lb/> the above and nearly a fortnight has elapsed since I have<lb/> had time to close this. When I wrote I had leisure and<lb/> therefore have said a great deal on &#8220;rubbish&#8221; leaving <add>&#63;</add> one or<lb/> two news items you may like to hear. I <sic>cant</sic> stop to give<lb/> them to you  now but will write to you soon &#40;as I can&#41;</p>
+			<p rend="indent(2)">Expecting to hear from you soon</p>
+			<p rend="indent(3)">I am Dear Friend</p>
+			<p rend="indent(4)">Yours truly</p>
+			<p rend="indent(5)"><persName role="author">Abraham de Sola</persName></p>
+				<p><persName>Mrs Benjamin Hart</persName> is no more <add>Hebrew</add><lb/> 3 marriages on the topics friends of yours.</p>
+		</body>
+	</text>
+</TEI>

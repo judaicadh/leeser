@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI [
+<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
+%teibase;
+<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
+%teiext;
+]>
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>[no title given]</title>
+				<author attested="yes" accepted="yes" signature="unk">Kuttner, M.</author>
+				<editor></editor>
+				<sponsor></sponsor>
+				<funder></funder>
+				<principal></principal>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition></edition>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</editionStmt>
+			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
+			<publicationStmt>
+				<publisher>Unpublished manuscript</publisher>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Not part of a series</p>
+			</seriesStmt>
+			<notesStmt>
+				<note></note>
+			</notesStmt>
+			<sourceDesc>
+				<biblStruct>
+					<!-- catalog entry goes here -->
+					<monogr>
+						<imprint>
+							<dateLet></dateLet>
+						</imprint>
+					</monogr>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<country>USA</country>
+						<region>PA</region>
+						<settlement>Philadelphia</settlement>
+						<institution></institution>
+						<repository>CAJS Isaac Leeser Collection</repository>
+						<collection>The Library of the Dropsie College for Hebrew and Cognate Learning</collection>
+						<idno>LSDCBx2FF9_14</idno>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+						<msName></msName>
+					</msIdentifier>
+					<head></head>
+					<letHeading>
+						<author attested="yes" accepted="yes" signature="unk">Kuttner, M.</author>
+						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac, Rev.</addressee>
+						<deliverer></deliverer>
+						<respStmt>
+							<resp></resp>
+							<name></name>
+						</respStmt>
+						<placeLet>St. Louis, MO</placeLet>
+						<placeRec>Philadelphia, PA</placeRec>
+						<dateLet when="1862-06" source="" attested="yes">6 June 1862</dateLet>
+					</letHeading>
+					<msContents>
+						<msItem>
+							<author></author>
+							<editor></editor>
+							<respStmt>
+								<resp></resp>
+								<name></name>
+							</respStmt>
+							<title></title>
+							<decoNote></decoNote>
+							<listBibl>
+								<bibl></bibl>
+							</listBibl>
+							<filiation></filiation>
+							<textLang></textLang>
+							<figure>
+								<graphic url="ilcajs_b2f9_0014_1r.jpg"></graphic>
+							</figure>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support>
+									<material color="" lined="unk" paper_type="" size="Letter">letter</material>
+								</support>
+								<extent>2 pages on 2 sheets
+									<dimensions></dimensions>
+								</extent>
+								<foliation></foliation>
+								<collation></collation>
+								<condition fragment="false"></condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout></layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc script="manuscript">
+							<handNote></handNote>
+						</handDesc>
+						<decoDesc>
+							<decoNote></decoNote>
+						</decoDesc>
+						<additions></additions>
+						<bindingDesc>
+							<binding>
+								<decoNote></decoNote>
+							</binding>
+						</bindingDesc>
+						<sealDesc>
+							<seal>
+								<p></p>
+							</seal>
+						</sealDesc>
+						<accMat></accMat>
+						<envDesc occ="false"></envDesc>
+					</physDesc>
+					<history>
+						<origin></origin>
+						<provenance></provenance>
+						<acquisition></acquisition>
+					</history>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source></source>
+								<change></change>
+							</recordHist>
+							<availability status="free">
+								<p>Unrestricted</p>
+							</availability>
+							<custodialHist>
+								<custEvent></custEvent>
+							</custodialHist>
+						</adminInfo>
+						<surrogates></surrogates>
+						<listBibl>
+							<bibl></bibl>
+						</listBibl>
+					</additional>
+					<msPart>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+					</msPart>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p></p>
+			</projectDesc>
+			<samplingDecl>
+				<p></p>
+			</samplingDecl>
+			<editorialDecl>
+				<correction>
+					<p></p>
+				</correction>
+				<normalization>
+					<p></p>
+				</normalization>
+				<quotation>
+					<p></p>
+				</quotation>
+				<hyphenation>
+					<p></p>
+				</hyphenation>
+				<segmentation>
+					<p></p>
+				</segmentation>
+				<stdVals>
+					<p></p>
+				</stdVals>
+				<interpretation>
+					<p></p>
+				</interpretation>
+			</editorialDecl>
+			<tagsDecl>
+				<rendition></rendition>
+				<namespace name="http://www.tei-c.org/ns/1.0">
+					<tagUsage gi=""></tagUsage>
+				</namespace>
+			</tagsDecl>
+			<refsDecl>
+				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
+			</refsDecl>
+			<refsDecl>
+				<refState unit=""/>
+			</refsDecl>
+			<classDecl>
+				<taxonomy>
+					<category>
+						<catDesc></catDesc>
+					</category>
+				</taxonomy>
+			</classDecl>
+			<appInfo>
+				<application ident="" version="">
+					<desc></desc>
+					<label></label>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<creation></creation>
+			<langUsage>
+				<language ident="en">English</language>
+				<language ident="he">Hebrew</language>
+			</langUsage>
+			<textClass>
+				<keywords scheme="unknown">
+					<list>
+						<item></item>
+						<item></item>
+					</list>
+				</keywords>
+				<classCode scheme=""></classCode>
+				<catRef/>
+			</textClass>
+		</profileDesc>
+		<revisionDesc>
+			<change></change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<pb n="1"/>
+				<p><add>Hebrew</add></p>
+			<pb n="2"/>
+				<p rend="align(right)"><placeName>St. Louis</placeName>&#44; <date>June 6&#44; 1862</date>.</p>
+				<p><addressee>Rev. Isaac Leeser</addressee>&#44; <placeName>Philadelphia</placeName>&#44;</p>
+				<p>Honored Sir&#58;</p>
+			<p rend="indent(2)">Along with the hope that my letter may find you in the best<lb/> of health&#44; I am sending you herewith &#36;15. for books sold.  Have the good&#45;<lb/>ness to send me 3 or 4 dozen of the Hebrew readers.  Send it by express.<lb/>  It has been impossible for me&#44; until now&#44; to collect anything either for<lb/> your paper or for that of <persName>Wise</persName> or <persName>Isaacs</persName>.  Times are very bad here.<lb/>  People barely have enough for necessities&#44; so bad is business.  There is<lb/> no news.  That is why I want to close with the question whether you have<lb/> received my &#36;15.  As soon as times change I shall collect once more.  You<lb/> have my last letter with the &#36;15. which has remained unanswered now for<lb/> a long time.  In my German congregation I have peace&#44; thank God&#44; and hope<lb/> that the situation will remain so.  The beginning has been made&#44; and the<lb/> firm of <persName>Marx and Schoen</persName> observe the <date>Sabbath</date> and their business is complete&#45;<lb/>ly closed.  Also 2 baker members of my community now observe the <date>Sabbath</date>.<lb/>  In time I hope that others will do so.  On <date>Shabuoth</date>&#44; the son of <persName>L. R. Straus</persName><lb/> became Bar&#45;Mitzvah&#44; as well as 3 other boys who did me honor&#44; since&#44; as<lb/> you know&#44; my congregation is purely German&#44; everything was conducted in<lb/> the German language&#44; except for the religious questions which I taught<lb/> out of your valuable book.  It is possible that <persName>Mr. Straus</persName> will write to<lb/> you about it.</p>
+			<p rend="indent(3)">Wishing you constant health&#44;</p>
+			<p rend="indent(7)">Your devoted</p>
+			<p rend="indent(9)"><persName role="author">M. Kuttner</persName></p>
+		</body>
+	</text>
+</TEI>

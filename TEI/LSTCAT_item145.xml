@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI [
+<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
+%teibase;
+<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
+%teiext;
+]>
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>[no title given]</title>
+				<author attested="yes" accepted="yes" signature="unk">Jastrow, M., Rev. Dr. [Ed.]</author>
+				<editor></editor>
+				<sponsor></sponsor>
+				<funder></funder>
+				<principal></principal>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition></edition>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</editionStmt>
+			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
+			<publicationStmt>
+				<publisher>Unpublished manuscript</publisher>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Not part of a series</p>
+			</seriesStmt>
+			<notesStmt>
+				<note></note>
+			</notesStmt>
+			<sourceDesc>
+				<biblStruct>
+					<!-- catalog entry goes here -->
+					<monogr>
+						<imprint>
+							<dateLet></dateLet>
+						</imprint>
+					</monogr>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<country>USA</country>
+						<region>PA</region>
+						<settlement>Philadelphia</settlement>
+						<institution></institution>
+						<repository>TCAT</repository>
+						<collection>Anonymous</collection>
+						<idno>LSTCAT_item145</idno>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+						<msName></msName>
+					</msIdentifier>
+					<head></head>
+					<letHeading>
+						<author attested="yes" accepted="yes" signature="unk">Jastrow, M., Rev. Dr. [Ed.]</author>
+						<addressee editor="false" attested="yes" accepted="yes"></addressee>
+						<deliverer></deliverer>
+						<respStmt>
+							<resp></resp>
+							<name></name>
+						</respStmt>
+						<placeLet></placeLet>
+						<placeRec>Philadelphia, PA</placeRec>
+						<dateLet when="" source="" attested="unk"></dateLet>
+					</letHeading>
+					<msContents>
+						<msItem>
+							<author></author>
+							<editor></editor>
+							<respStmt>
+								<resp></resp>
+								<name></name>
+							</respStmt>
+							<title></title>
+							<decoNote></decoNote>
+							<listBibl>
+								<bibl></bibl>
+							</listBibl>
+							<filiation></filiation>
+							<textLang></textLang>
+							<figure>
+								<graphic url="il_tcat_item145_wk1_body0001.jpg"></graphic>
+								<graphic url="il_tcat_item145_wk1_body0002.jpg"></graphic>
+								<graphic url="il_tcat_item145_wk1_body0003.jpg"></graphic>
+								<graphic url="il_tcat_item145_wk1_body0004.jpg"></graphic>
+							</figure>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support>
+									<material color="" lined="false" paper_type="" size="">print</material>
+								</support>
+								<extent>4 pages on 4 sheets
+									<dimensions></dimensions>
+								</extent>
+								<foliation></foliation>
+								<collation></collation>
+								<condition fragment="false"></condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout></layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc script="typescript">
+							<handNote></handNote>
+						</handDesc>
+						<decoDesc>
+							<decoNote></decoNote>
+						</decoDesc>
+						<additions></additions>
+						<bindingDesc>
+							<binding>
+								<decoNote></decoNote>
+							</binding>
+						</bindingDesc>
+						<sealDesc>
+							<seal>
+								<p></p>
+							</seal>
+						</sealDesc>
+						<accMat></accMat>
+						<envDesc occ="false"></envDesc>
+					</physDesc>
+					<history>
+						<origin></origin>
+						<provenance></provenance>
+						<acquisition></acquisition>
+					</history>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source></source>
+								<change></change>
+							</recordHist>
+							<availability status="free">
+								<p>Unrestricted</p>
+							</availability>
+							<custodialHist>
+								<custEvent></custEvent>
+							</custodialHist>
+						</adminInfo>
+						<surrogates></surrogates>
+						<listBibl>
+							<bibl></bibl>
+						</listBibl>
+					</additional>
+					<msPart>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+					</msPart>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p></p>
+			</projectDesc>
+			<samplingDecl>
+				<p></p>
+			</samplingDecl>
+			<editorialDecl>
+				<correction>
+					<p></p>
+				</correction>
+				<normalization>
+					<p></p>
+				</normalization>
+				<quotation>
+					<p></p>
+				</quotation>
+				<hyphenation>
+					<p></p>
+				</hyphenation>
+				<segmentation>
+					<p></p>
+				</segmentation>
+				<stdVals>
+					<p></p>
+				</stdVals>
+				<interpretation>
+					<p></p>
+				</interpretation>
+			</editorialDecl>
+			<tagsDecl>
+				<rendition></rendition>
+				<namespace name="http://www.tei-c.org/ns/1.0">
+					<tagUsage gi=""></tagUsage>
+				</namespace>
+			</tagsDecl>
+			<refsDecl>
+				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
+			</refsDecl>
+			<refsDecl>
+				<refState unit=""/>
+			</refsDecl>
+			<classDecl>
+				<taxonomy>
+					<category>
+						<catDesc></catDesc>
+					</category>
+				</taxonomy>
+			</classDecl>
+			<appInfo>
+				<application ident="" version="">
+					<desc></desc>
+					<label></label>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<creation></creation>
+			<langUsage>
+				<language ident="en">English</language>
+			</langUsage>
+			<textClass>
+				<keywords scheme="unknown">
+					<list>
+						<item></item>
+						<item></item>
+					</list>
+				</keywords>
+				<classCode scheme=""></classCode>
+				<catRef/>
+			</textClass>
+		</profileDesc>
+		<revisionDesc>
+			<change></change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<pb n="1"/>
+				<p rend="align(center)">TRANSLATION OF THE BIBLE</p>
+				<p rend="align(center)">TO BE PUBLISHED BY</p>
+				<p rend="align(center)">The Jewish Publication Society of <placeName>America</placeName></p>
+				<p><persName role="author">REV. DR. M. JASTROW</persName>&#44; </p>
+				<p>Editor&#44; </p>
+				<p><placeName>139 W. Upsal St.&#44; Germantown</placeName>&#44;</p>
+				<p><placeName>Philadelphia&#44; Pa.</placeName></p>
+				<p rend="align(right)">Revision Committee</p>
+				<p rend="align(right)"><persName>REV. DR. K. KOHLER</persName></p>
+				<p rend="align(right)"><persName>REV. DR. F. DE SOLA MENDES</persName></p>
+				<p rend="align(center)">INSTRUCTIONS</p>
+				<p rend="align(center)">TO THE TRANSLATORS</p>
+			<pb n="2"/>
+			<p rend="indent(1)">The new translation of the Bible has been undertaken with the object of obtaining a<lb/> version of the Holy Scriptures&#44; which&#44; while taking full account of the results of modern<lb/> research&#44; shall be characterized by the simplicity of a book to be used in the home and at<lb/> public worship.  As the Jew considers the original text alone invested with authority&#44; it should<lb/> be our aim to approach it as nearly as possible&#44; and for that purpose we should avail ourselves<lb/> of the extensive fund of traditional and philological interpretations in our possession.</p>
+			<p rend="indent(1)">&#40;I&#41; Inasmuch as some basis must be adopted to secure uniformity of style&#44; and as<lb/> the only complete English translation prepared for Jews and embodying Jewish traditions<lb/> and conceptions is that known as the <persName>Leeser</persName> Bible&#44; this version has been chosen to serve<lb/> as a foundation for the proposed work.  At the same time the translators are expected to<lb/> consult the &#8220;Authorized Version&#8221; and the &#8220;Revised Version&#44;&#8221; the former as the undisputed<lb/> guide for diction and the rhythmic flow of language&#44; the latter because of its correction of<lb/> many erroneous renderings in the older versions in accordance with the advance of scholar&#45;<lb/>ship since the days of <persName>King James</persName>.  After the Editor and the Revision Committee have<lb/> done their work&#44; it will be handed over to the style editors for final revision.</p>
+			<p rend="indent(1)">&#40;2&#41; Whenever a departure from the usual conception of a passage or word is made&#44;<lb/> the reasons should be briefly stated to the editor.  If found necessary&#44; they will be<lb/> printed in an appendix of notes at the end of the whole book.  It should be borne in<lb/> mind&#44; however&#44; that certain poetical expressions&#44; correct and incorrect ones &#40;as <hi rend="italics">e. g.</hi>&#44; &#8220;the<lb/> valley of the <hi rend="italics">shadow of death</hi>&#8221;&#41;&#44; are so firmly rooted in literature that a change would<lb/> be a loss.</p>
+			<p rend="indent(1)">&#40;3&#41; In view of the recent investigations in the departments of Hebrew philology and<lb/> biblical exegesis&#44; it will be necessary to compare carefully the new commentaries with the<lb/> older ones for every verse&#8212;the method that has given value to the English&#45;American<lb/> Revised Version of the <persName>King James</persName> Bible.  In this connection the following works will be<lb/> found helpful&#58;</p>
+			<p rend="indent(2)"><hi rend="italics">Die heiligen Schriften des Alten Testaments</hi>&#44; by <persName>KAUTZSCH</persName> &#40;<persName>Mohr</persName>&#44; <persName>Freiburg</persName>&#41;&#44;<lb/> embodies the opinions of the best commentators.</p>
+			<p rend="indent(2)"><hi rend="italics"><persName>Gesenius&#39;</persName> Hebr&#228;isches u. Aram&#228;isches Handw&#246;rterbuch &#252;ber d. A. T. </hi>&#40;12th<lb/> edition.  <placeName>Leipzig</placeName>&#44; <date>1895</date>&#41;.</p>
+			<p rend="indent(2)"><hi rend="italics"><persName>Siegfried</persName> und <persName>Stade&#39;s</persName> Hebr&#228;isches W&#246;rterbuch zum A. T.</hi> &#40;<persName>Veit &#38; Co.</persName>&#44; <placeName>Leipzig</placeName>&#44;<lb/> <date>1893</date>&#41;</p>
+			<p rend="indent(2)"><hi rend="italics">Hebrew and English Lexicon</hi>&#44; by <persName>BROWN</persName>&#44; <persName>DRIVER</persName> and <persName>BRIGGS</persName> &#40;in course of publication&#41;.</p>
+			<p rend="indent(1)">For the Post&#45;Biblical Hebrew and the Chaldaic in Talmud and Midrash&#44; the following are<lb/> recommended&#58;</p>
+			<p rend="indent(2)"><persName>LEVY&#39;S</persName> <hi rend="italics">Neuhebr&#228;isches und Chald&#228;isches W&#246;rterbuch </hi>&#40;Brockhaus&#44; <placeName>Leipzig</placeName>&#44; <date>1876&#45;1889</date>&#41;.</p>
+			<p rend="indent(2)"><persName>KOHUT&#39;S</persName> <hi rend="italics">Arukh ha&#45;Shalem</hi> &#40;<placeName>Wien</placeName>&#44; <date>1878&#45;1892</date>&#41;.</p>
+			<p rend="indent(2)"><persName role="author">JASTROW&#39;S</persName> <hi rend="italics">Dictionary of the Targumim&#44; Talmud Babli and Yerushalmi&#44; etc.&#44;<lb/> </hi>as far as published &#40;<persName>Luzac &#38; Co.</persName>&#44; <placeName>London</placeName>&#59; <persName>G. P. Putnam&#39;s Sons</persName>&#44; <placeName>New York</placeName>&#41;.</p>
+			<p rend="indent(1)">&#40;4&#41; It is urged that Anglo&#45;Saxon words be used in preference to those of Latin<lb/> origin&#44; whenever the former are consistent with clearness.  The older forms of such words<lb/> as <hi rend="italics">honour&#44; favour</hi> &#40;instead of honor&#44; favor&#41;&#44; etc.&#44; will be used in the work.</p>
+			<p rend="indent(1)">&#40;5&#41; For proper names the form familiar by long usage should be employed&#44; as <persName>Ahab</persName><lb/> &#40;not <persName>Achab</persName>&#41;&#44; <persName>Absalom</persName> &#40;not <persName>Abshalom</persName>&#41;&#44; <persName>Gideon</persName> &#40;not <persName>Gid&#39;on</persName>&#41;&#44; <persName>Joash</persName> &#40;not <persName>Yoash</persName>&#41;&#44; <persName>Baal</persName> &#40;not<lb/> <persName>Ba&#39;al</persName>&#41;&#44; etc.&#44; etc.</p>
+			<p rend="indent(1)">&#40;6&#41; For <add>Hebrew</add> use &#8220;Lord&#59;&#8221; for <add>Hebrew</add> use &#8220;God&#59;&#8221; for <add>Hebrew</add> use &#8220;nether world.&#8221;  In trans&#45;<lb/>lating <add>Hebrew</add>&#44; <add>Hebrew</add>&#44; <add>Hebrew</add>&#44; and similar words&#44; the context should be consulted carefully&#44; and choice<lb/> made of the most appropriate rendering among those offered.</p>
+			<p rend="indent(1)">&#40;7&#41; As a rule the &#8220;<hi rend="italics">Keri</hi>&#8221; should be followed in preference to the &#8220;<hi rend="italics">Kethib</hi>.&#8221;  If<lb/> necessary&#44; the latter may be embodied in a note.</p>
+			<pb n="3"/>
+			<p rend="indent(1)">&#40;8&#41; When the text is obscure&#44; the words &#8220;Text obscure&#44;&#8221; &#8220;Attempted Translation&#44;&#8221;<lb/> or some other indication of uncertainty&#44; should be added in a note &#40;to be embodied in<lb/> the appendix&#41;.  Whenever an emendation of the text on recognized authority is deemed<lb/> unavoidable or desirable&#44; the reasons therefor should be briefly stated in a note to the<lb/> editor&#44; who&#44; with his associates&#44; the members of the Revision Committee&#44; reserves the<lb/> right to adopt or reject such suggestions&#44; and will assume the responsibility for the<lb/> final result.</p>
+			<p rend="indent(1)">&#40;9&#41; Explanations of proper names are to be marked by square &#91; &#93; brackets&#59; words<lb/> supplying an omission in the Hebrew text by angle &#60; &#62; brackets.  Italics and parentheses<lb/> should be employed according to ordinary usage&#44; not as in the &#8220;Authorized Version.&#8221;</p>
+			<p rend="indent(1)">&#40;10&#41; The chapter and verse divisions of the Massoretic text are to be preserved&#59; also<lb/> the Hebrew and the English titles of the books.  The Pentateuchal portions &#40;Sidroth&#41; are<lb/> to appear in Hebrew type.</p>
+			<p rend="indent(1)">&#40;11&#41; A division into subject&#45;paragraphs&#44; similar to that of the Revised Version&#44; is to<lb/> be adopted.  The main contents of each paragraph are to be expressed by the translators<lb/> in brief sentences to serve as running titles for each page.  The above mentioned work of<lb/> <persName>Kautzsch</persName> &#40;<hi rend="italics">Die heiligen Schriften des Alten Testaments</hi>&#41; is a valuable guide for this por&#45;<lb/>tion of the work.</p>
+			<p rend="indent(1)">&#40;12&#41; In all the books&#44; the poetical portions are to be arranged in lines according to<lb/> the mode of the &#8220;Revised Version.&#8221;</p>
+			<p rend="indent(1)">&#40;13&#41; For the Massoretic text&#44; the edition of <hi rend="italics"><persName>Baer</persName> and <persName>Delitssch</persName></hi> &#40;as far as published&#41;<lb/> is recommended.</p>
+			<p rend="indent(1)">&#40;14&#41; Besides special works upon the book assigned to each contributor&#44; the following<lb/> general commentaries are recommended&#58;</p>
+			<p rend="indent(2)"><hi rend="italics"><persName>Lange&#39;s</persName> Theologisch&#45;Homiletisches Bibelwerk</hi> &#40;American edition by <persName>SCHAFF</persName>&#41;.</p>
+			<p rend="indent(2)"><hi rend="italics">Kurzgefasstes exegetisches Handbuch zum Alten Testament</hi>&#44; by <persName>HIRZEL</persName> &#40;<placeName>Leipzig</placeName>&#41;.</p>
+			<p rend="indent(2)"><hi rend="italics">Handkommentar zum Alten Testament</hi>&#44; by <persName>NOWACK</persName>&#44; &#40;<placeName>G&#246;ttingen</placeName>&#44; <date>1892&#45;1895</date>&#41;.</p>
+			<p rend="indent(2)"><hi rend="italics">Kurzgefasster Kommentar zu d. heil. Schriften des Alten Testaments</hi>&#44; by<lb/> <persName>STRACK</persName> and <persName>ZOECKLER</persName> &#40;<placeName>M&#252;nchen</placeName>&#44; <date>1886&#45;1894</date>&#41;.</p>
+			<p rend="indent(2)"><hi rend="italics">Biblischer Kommentar &#252;ber das Alte Testament</hi>&#44; by <persName>KEIL</persName> and <persName>DELITZSCH</persName> &#40;<placeName>Leip&#45;<lb/>zig</placeName>&#44; <date>1861&#45;1893</date>&#41;.</p>
+			<p rend="indent(2)"><hi rend="italics">The <placeName>Cambridge</placeName> Bible for Schools and Colleges.</hi></p>
+			<p rend="indent(2)"><hi rend="italics">The Expositor&#39;s Bible</hi> &#40;<placeName>London</placeName>&#44; <date>1888&#45;1894</date>&#41;.</p>
+			<p rend="indent(2)"><hi rend="italics">International Critical Commentary</hi>&#44; by <persName>PLUMMER</persName>&#44; <persName>BRIGGS</persName> and <persName>DRIVER</persName> &#40;<persName>Scribner&#39;s<lb/> Sons</persName>&#44; <date>1895</date>&#44; in course of publication&#41;.</p>
+			<p rend="indent(1)">&#40;15&#41; A careful study of Talmud and Midrash will be repaid by the discovery of<lb/> interpretations of biblical passages&#44; direct or implied&#44; which have hiterto been over&#45;<lb/>looked&#44; but which&#44; it is believed&#44; will recommend themselves to the judgment of scholars.<lb/>  Such passages are made easily accessible through the handbook <add>Hebrew</add><lb/> &#40;<persName>Wilna</persName>&#44; <date>1880</date>&#41;&#44; which points out where every biblical verse is quoted in Talmud Babli and<lb/> Yerushalmi&#44; Midrashim&#44; Yalkut Shim&#39;oni&#44; and other works of minor value for the purpose<lb/> in view.  Attention is called to a list of abbreviations of book&#45;titles and their explanations<lb/> in the front of the book&#44; and to the appendix&#44; <add>Hebrew</add>&#44; which will facilitate the finding of<lb/> passages mentioned in the body of the book by reference to pages not alike in all editions.</p>
+			<p rend="indent(1)">&#40;16&#41; The books assigned to each translator&#44; cut from a copy of the <persName>Leeser</persName> Bible&#44; will<lb/> be sent&#44; pasted on paper with wide margins for his emendations.</p>
+			<p rend="indent(1)">&#40;17&#41; Contributors are expected to hand in their work to the editor not later than<lb/> <date>August 1&#44; 1897</date>.  In order&#44; however&#44; to facilitate the work of revision&#44; they are urgently<lb/> requested to send in their work&#44; or parts thereof&#44; as soon as possible.</p>
+			<p rend="indent(1)">NOTE&#58;&#8212;The compensation of contributors is &#36;1.50 per printed page of the <persName>Leeser</persName><lb/> Bible.</p>
+			<p rend="indent(1)">Attached find a provisional list of contributors and of the parts assigned to each.</p>
+			<p><placeName>PHILADELPHIA</placeName>&#44; <date>February&#44; 1896</date>.</p>
+			<pb n="4"/>
+				<p>List of those Invited to Cooperate</p>
+				<p rend="align(center)">Corresponding Members of the Revision Committee</p>
+				<p rend="align(center)"><persName>REV. DR. HERMAN ADLER</persName>&#44; <placeName>London&#44; England</placeName></p>
+				<p rend="align(center)"><persName>REV. DR. ISAAC M. WISE</persName>&#44; <placeName>Cincinnati&#44; O.</placeName></p>
+				<table rows="54" cols="2">
+				<row>
+				<cell>GENESIS</cell>
+				<cell><persName>MICAH</persName></cell>
+				</row>
+				<row>
+				<cell><persName>REV. DR. MAX LANDSBERG</persName>&#44;</cell>
+				<cell><persName>REV. DR. MAURICE H. HARRIS</persName></cell>
+				</row>
+				<row>
+				<cell><placeName>Rochester&#44; N. Y.</placeName></cell>
+				<cell><placeName>New York&#44; N. Y.</placeName></cell>
+				</row>
+				<row>
+				<cell>EXODUS</cell>
+				<cell><persName>NAHUM</persName></cell>
+				</row>
+				<row>
+				<cell><persName>REV. MORRIS JOSEPH</persName>&#44;</cell>
+				<cell><persName>REV. DR. L. MAYER</persName>&#44;</cell>
+				</row>
+				<row>
+				<cell><placeName>London&#44; England</placeName>.</cell>
+				<cell><placeName>Pittsburgh&#44; Pa.</placeName></cell>
+				</row>
+				<row>
+				<cell>LEVITICUS</cell>
+				<cell><persName>HABAKKUK</persName></cell>
+				</row>
+				<row>
+				<cell><persName>LEWIS N. DEMBITZ</persName>&#44;</cell>
+				<cell><persName role="author">DR. MORRIS JASTROW&#44; JR.&#44;</persName></cell>
+				</row>
+				<row>
+				<cell><placeName>Louisville&#44; Ky.</placeName></cell>
+				<cell><placeName>Philadelphia&#44; Pa.</placeName></cell>
+				</row>
+				<row>
+				<cell>NUMBERS</cell>
+				<cell><persName>ZEPHANIAH</persName></cell>
+				</row>
+				<row>
+				<cell><persName>REV. DR. DAVID PHILIPSON</persName>&#44;</cell>
+				<cell><persName>REV. DR. M. SCHLESINGER</persName>&#44;</cell>
+				</row>
+				<row>
+				<cell><placeName>Cincinnati&#44; O.</placeName></cell>
+				<cell><placeName>Albany&#44; N. Y.</placeName></cell>
+				</row>
+				<row>
+				<cell>DEUTERONOMY</cell>
+				<cell><persName>HAGGAI</persName></cell>
+				</row>
+				<row>
+				<cell><persName>REV. DR. F. DE SOLA MENDES</persName>&#44;</cell>
+				<cell><persName>REV. DR. S. MENDELSOHN</persName>&#44;</cell>
+				</row>
+				<row>
+				<cell><placeName>New York&#44; N. Y.</placeName></cell>
+				<cell><placeName>Wilmington&#44; N. C.</placeName></cell>
+				</row>
+				<row>
+				<cell><persName>JOSHUA</persName></cell>
+				<cell><persName>ZECHARIAH</persName></cell>
+				</row>
+				<row>
+				<cell><persName>REV. DR. F. DE SOLA MENDES</persName></cell>
+				<cell><persName>REV. S. SINGER</persName>&#44;</cell>
+				</row>
+				<row>
+				<cell><placeName>New York&#44; N. Y.</placeName></cell>
+				<cell><placeName>London&#44; England</placeName>.</cell>
+				</row>
+				<row>
+				<cell>JUDGES</cell>
+				<cell><persName>MALACHI</persName></cell>
+				</row>
+				<row>
+				<cell><persName>REV. STEPHEN S. WISE</persName>&#44;</cell>
+				<cell><persName>REV. DR. D. DAVIDSON</persName>&#44;</cell>
+				</row>
+				<row>
+				<cell><placeName>New York&#44; N. Y.</placeName></cell>
+				<cell><placeName>New York&#44; N. Y.</placeName></cell>
+				</row>
+				<row>
+				<cell>I. <persName>SAMUEL</persName></cell>
+				<cell>PSALMS</cell>
+				</row>
+				<row>
+				<cell><persName>REV. DR. MAX HELLER</persName>&#44;</cell>
+				<cell><persName>REV. DR. K. KOHLER</persName>&#44;</cell>
+				</row>
+				<row>
+				<cell><placeName>New Orleans&#44; La.</placeName></cell>
+				<cell><placeName>New York&#44; N. Y.</placeName></cell>
+				</row>
+				<row>
+				<cell>II. <persName>SAMUEL</persName></cell>
+				<cell>PROVERBS</cell>
+				</row>
+				<row>
+				<cell><persName>REV. DR. BERNARD DRACHMAN</persName>&#44;</cell>
+				<cell><persName>JOSEPH JACOBS</persName>&#44;</cell>
+				</row>
+				<row>
+				<cell><placeName>New York&#44; N. Y.</placeName></cell>
+				<cell><placeName>London&#44; England</placeName>.</cell>
+				</row>
+				<row>
+				<cell>I. KINGS</cell>
+				<cell><persName>JOB</persName></cell>
+				</row>
+				<row>
+				<cell><persName>JOSEPH JACOBS</persName>&#44;</cell>
+				<cell><persName>REV. DR. B. SZOLD</persName>&#44;</cell>
+				</row>
+				<row>
+				<cell><placeName>London&#44; England</placeName>.</cell>
+				<cell><placeName>Baltimore&#44; Md.</placeName></cell>
+				</row>
+				<row>
+				<cell>II. KINGS</cell>
+				<cell>SONG OF SONGS</cell>
+				</row>
+				<row>
+				<cell><persName>ISRAEL ABRAHAMS</persName>&#44;</cell>
+				<cell><persName role="author">DR. MORRIS JASTROW&#44; JR.</persName></cell>
+				</row>
+				<row>
+				<cell><placeName>London&#44; England</placeName>.</cell>
+				<cell><placeName>Philadelphia&#44; Pa.</placeName></cell>
+				</row>
+				<row>
+				<cell><persName>ISAIAH</persName></cell>
+				<cell><persName>RUTH</persName></cell>
+				</row>
+				<row>
+				<cell><persName>REV. DR. EMIL G. HIRSCH</persName>&#44;</cell>
+				<cell><persName>REV. DR. JOSEPH KRAUSKOPF</persName>&#44;</cell>
+				</row>
+				<row>
+				<cell><placeName>Chicago&#44; Ill.</placeName></cell>
+				<cell><placeName>Philadelphia&#44; Pa.</placeName></cell>
+				</row>
+				<row>
+				<cell><persName>JEREMIAH</persName></cell>
+				<cell>LAMENTATIONS</cell>
+				</row>
+				<row>
+				<cell><persName>REV. DR. SABATO MORAIS</persName>&#44;</cell>
+				<cell><persName role="author">DR. MORRIS JASTROW&#44; JR.</persName></cell>
+				</row>
+				<row>
+				<cell><placeName>Philadelphia&#44; Pa.</placeName></cell>
+				<cell><placeName>Philadelphia&#44; Pa.</placeName></cell>
+				</row>
+				<row>
+				<cell><persName>EZEKIEL</persName></cell>
+				<cell>ECCLESIASTES</cell>
+				</row>
+				<row>
+				<cell><persName>DR. M. FRIEDL&#228;NDER</persName>&#44;</cell>
+				<cell><persName>REV. DR. GUSTAV GOTTHEIL</persName>&#44;</cell>
+				</row>
+				<row>
+				<cell><placeName>London&#44; England</placeName>.</cell>
+				<cell><placeName>New York&#44; N. Y.</placeName></cell>
+				</row>
+				<row>
+				<cell><persName>HOSEA</persName></cell>
+				<cell><persName>ESTHER</persName></cell>
+				</row>
+				<row>
+				<cell><persName>REV. DR. S. SALE</persName>&#44;</cell>
+				<cell><persName>REV. DR. HENRY BERKOWITZ</persName>&#44;</cell>
+				</row>
+				<row>
+				<cell><placeName>St. Louis&#44; Mo.</placeName></cell>
+				<cell><placeName>Philadelphia&#44; Pa.</placeName></cell>
+				</row>
+				<row>
+				<cell><persName>JOEL</persName></cell>
+				<cell><persName>DANIEL</persName> &#44; <persName>EZRA</persName>&#44; <persName>NEHEMIAH</persName></cell>
+				</row>
+				<row>
+				<cell><persName>REV. DR. LOUIS GROSSMAN</persName>&#44;</cell>
+				<cell><persName>DR. RICHARD GOTTHEIL</persName>&#44;</cell>
+				</row>
+				<row>
+				<cell><placeName>Detroit&#44; Mich.</placeName></cell>
+				<cell><placeName>New York&#44; N. Y.</placeName></cell>
+				</row>
+				<row>
+				<cell><persName>AMOS</persName></cell>
+				<cell>I. CHRONICLES </cell>
+				</row>
+				<row>
+				<cell><persName>REV. DR. H. P. MENDES</persName>&#44;</cell>
+				<cell><persName>REV. DR. M. MIELZINER</persName>&#44;</cell>
+				</row>
+				<row>
+				<cell><placeName>New York City</placeName>.</cell>
+				<cell><placeName>Cincinnati&#44; O.</placeName></cell>
+				</row>
+				<row>
+				<cell><persName>OBADIAH</persName>&#44; <persName>JONAH</persName></cell>
+				<cell>II. CHRONICLES </cell>
+				</row>
+				<row>
+				<cell><persName>REV. DR. J. VOORSANGER</persName>&#44;</cell>
+				<cell><persName>REV. DR. B. FELSENTHAL</persName>&#44;</cell>
+				</row>
+				<row>
+				<cell><placeName>San Francisco&#44; Cal.</placeName></cell>
+				<cell><placeName>Chicago&#44; Ill.</placeName></cell>
+				</row>
+				</table>
+		</body>
+	</text>
+</TEI>

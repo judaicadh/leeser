@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI [
+<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
+%teibase;
+<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
+%teiext;
+]>
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>[no title given]</title>
+				<author attested="yes" accepted="yes" signature="unk"></author>
+				<editor></editor>
+				<sponsor></sponsor>
+				<funder></funder>
+				<principal></principal>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition></edition>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</editionStmt>
+			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
+			<publicationStmt>
+				<publisher>Unpublished manuscript</publisher>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Not part of a series</p>
+			</seriesStmt>
+			<notesStmt>
+				<note></note>
+			</notesStmt>
+			<sourceDesc>
+				<biblStruct>
+					<!-- catalog entry goes here -->
+					<monogr>
+						<imprint>
+							<dateLet></dateLet>
+						</imprint>
+					</monogr>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<country>USA</country>
+						<region>PA</region>
+						<settlement>Philadelphia</settlement>
+						<institution></institution>
+						<repository>CAJS Isaac Leeser Collection</repository>
+						<collection>The Library of the Dropsie College for Hebrew and Cognate Learning</collection>
+						<idno>LSDCBx1FF8_2</idno>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+						<msName></msName>
+					</msIdentifier>
+					<head></head>
+					<letHeading>
+						<author attested="yes" accepted="yes" signature="unk"></author>
+						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac, Revd.</addressee>
+						<deliverer></deliverer>
+						<respStmt>
+							<resp></resp>
+							<name></name>
+						</respStmt>
+						<placeLet>Charleston, SC</placeLet>
+						<placeRec>Philadelphia, PA</placeRec>
+						<dateLet when="1851-09" source="" attested="yes">9 September 1851</dateLet>
+						<dateLet when="1851-09" source="" attested="yes">9 September 5611</dateLet>
+					</letHeading>
+					<msContents>
+						<msItem>
+							<author></author>
+							<editor></editor>
+							<respStmt>
+								<resp></resp>
+								<name></name>
+							</respStmt>
+							<title></title>
+							<decoNote></decoNote>
+							<listBibl>
+								<bibl></bibl>
+							</listBibl>
+							<filiation></filiation>
+							<textLang></textLang>
+							<figure>
+								<graphic url="ilcajs_b1f8_0001_1r.jpg"></graphic>
+								<graphic url="ilcajs_b1f8_0001_1v.jpg"></graphic>
+								<graphic url="ilcajs_b1f8_0001_2r.jpg"></graphic>
+								<graphic url="ilcajs_b1f8_0001_2v.jpg"></graphic>
+							</figure>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support>
+									<material color="" lined="false" paper_type="" size="Letter">letter</material>
+								</support>
+								<extent>4 pages on 2 sheets
+									<dimensions></dimensions>
+								</extent>
+								<foliation></foliation>
+								<collation></collation>
+								<condition fragment="false"></condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout></layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc script="manuscript">
+							<handNote></handNote>
+						</handDesc>
+						<decoDesc>
+							<decoNote></decoNote>
+						</decoDesc>
+						<additions></additions>
+						<bindingDesc>
+							<binding>
+								<decoNote></decoNote>
+							</binding>
+						</bindingDesc>
+						<sealDesc>
+							<seal>
+								<p></p>
+							</seal>
+						</sealDesc>
+						<accMat></accMat>
+						<envDesc occ="false"></envDesc>
+					</physDesc>
+					<history>
+						<origin></origin>
+						<provenance></provenance>
+						<acquisition></acquisition>
+					</history>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source></source>
+								<change></change>
+							</recordHist>
+							<availability status="free">
+								<p>Unrestricted</p>
+							</availability>
+							<custodialHist>
+								<custEvent></custEvent>
+							</custodialHist>
+						</adminInfo>
+						<surrogates></surrogates>
+						<listBibl>
+							<bibl></bibl>
+						</listBibl>
+					</additional>
+					<msPart>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+					</msPart>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p></p>
+			</projectDesc>
+			<samplingDecl>
+				<p></p>
+			</samplingDecl>
+			<editorialDecl>
+				<correction>
+					<p></p>
+				</correction>
+				<normalization>
+					<p></p>
+				</normalization>
+				<quotation>
+					<p></p>
+				</quotation>
+				<hyphenation>
+					<p></p>
+				</hyphenation>
+				<segmentation>
+					<p></p>
+				</segmentation>
+				<stdVals>
+					<p></p>
+				</stdVals>
+				<interpretation>
+					<p></p>
+				</interpretation>
+			</editorialDecl>
+			<tagsDecl>
+				<rendition></rendition>
+				<namespace name="http://www.tei-c.org/ns/1.0">
+					<tagUsage gi=""></tagUsage>
+				</namespace>
+			</tagsDecl>
+			<refsDecl>
+				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
+			</refsDecl>
+			<refsDecl>
+				<refState unit=""/>
+			</refsDecl>
+			<classDecl>
+				<taxonomy>
+					<category>
+						<catDesc></catDesc>
+					</category>
+				</taxonomy>
+			</classDecl>
+			<appInfo>
+				<application ident="" version="">
+					<desc></desc>
+					<label></label>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<creation></creation>
+			<langUsage>
+				<language ident="en">English</language>
+				<language ident="de">German</language>
+				<language ident="he">Hebrew</language>
+			</langUsage>
+			<textClass>
+				<keywords scheme="unknown">
+					<list>
+						<item></item>
+						<item></item>
+					</list>
+				</keywords>
+				<classCode scheme=""></classCode>
+				<catRef/>
+			</textClass>
+		</profileDesc>
+		<revisionDesc>
+			<change></change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<pb n="1"/>
+				<p rend="align(right)"><placeName>Charleston</placeName> <date>September 9. 5611</date></p>
+				<p><addressee>Revd Isaac Leeser</addressee></p>
+			<p rend="indent(2)"><placeName>Philadelphia</placeName></p>
+			<p rend="indent(4)">Honored Sir&#33;</p>
+				<p>Your Occident for this month has come to hand &#40;though I have not received my copy<lb/> yet&#41;.  Your note is excellent.  It is no use to repeat what has been told again<lb/> and again &#40; contra <persName>S.N.C.</persName> renders all publications useless. a&#41; <persName>C</persName> knew that he had<lb/> compromised himself.  <add>&#63;</add> was proved to him by <persName>Mrs A Moise</persName> &#38; <persName>Mr Valentine</persName><lb/> yet he allowed it to appear.</p>
+				<p>b&#41; <persName>C</persName> walked <hi rend="underline">went</hi> that afternoon when the proof sheet arrived here a long time in the<lb/> street with <persName>Mr Posnansky</persName>&#44; he could not but have told him or even<lb/> shown him the sheet &#40;<persName>C&#39;s</persName> <sic>communic</sic> are from <persName>P&#39;s</persName> date there is much art<lb/> in the whole&#44; which is but to mystify the public&#59; and perhaps to have some<lb/> document to prove his honesty some future day or for his children<lb/> in a future generation&#44; for this reason it would have been well not<lb/> to give him the opportunity.  This my supposit<add>&#63;</add> I will substantiate<lb/> below&#41; now I say&#44; as <persName>C A P</persName> had know that they again impose upon<lb/> the public and you knew it before you sent the Occident abroad<lb/> what has an Editor to do in such cases&#63;  We cannot refer to<lb/> positive Law&#44; we must refer to moral <add>&#63;</add>uling.  It is true <persName>Mr S. N. C.</persName><lb/> has the opportunity given to reply and to substantiate his deposition<lb/> more than before&#44; but this is a poor chance.</p>
+				<p>c&#41; My letter &#40;of which I have no copy as I never take time to copy&#41; may be un<lb/>altered&#44; though I assure you that the word &#34;<sic>airial</sic>&#8222; does not appear<lb/> genuine&#44; nor the sentence about the Messiah.  You have the version<lb/> I thought I had written&#44; I saw the original in the hand of the late<lb/> <persName>Mr Otterling</persName> to whom I immediately <add>&#63;</add> that it is introduced to tell<lb/> <persName>Mr P</persName> what <del>to</del> is good to disturb the peace of believer or congreg with<lb/> what has no influence upon practical life.  I miss &#34;As&#8222; in the begin<lb/> The same was shown to me by <persName>Major L</persName> to whom I showed my<lb/> inaugural Sermon where the same idea is <add>&#63;</add></p>
+				<p rend="The following is written in the left column of this page"><persName>Mr. SN.C</persName> is desirous<lb/> to have from my letter<lb/> the remarks about &#34;founders<lb/> rescinded&#44; please<lb/> do so.<lb/>  As also my few Hebrew<lb/> lines.  I will not speak<lb/> against the body<lb/> at all.  I will<lb/> cultivate peace<lb/> crush the serpent<lb/> and save the <add>&#63;</add><lb/> you will oblige me<lb/> to strike off<lb/> 20 copies of<lb/> the next and<lb/> send them with<lb/> the soonest</p>
+			<pb n="2"/>
+				<p>it is founded on the address of <persName>Moses Mendelsson</persName> to poen<add>&#63;</add> later &#34;S<add>&#63;</add> <del>of</del><lb/> auf <del>the</del> das Thim und Lassan der menschen und last uns den glauben etc<lb/> now I miss what gives the whole a different turn</p>
+				<p>d&#41; The abusive language of <persName>C.</persName> disgraces the Press</p>
+			<p rend="indent(1)">1&#41; <persName>C</persName> does not know me.  An introductory visit at my first arrival&#44; once a few words<lb/> at meeting in the street&#59; and an evening spent in a large very large circle at the house of <persName>Mr<lb/> Seixas</persName>&#44; where he might have been present.  I do not recollect.  And surely we had no conversation<lb/> there.  this man comes now&#44; and abuses me</p>
+			<p rend="indent(1)">2&#41; Neither <persName>Ac</persName> nor other 13 men out of opposition have heard me tell the state of affairs<lb/> nor do I at all count them to belong to us &#40;except 1 or two of them&#41; they are no farther<lb/> Jews then by <add>Hebrew</add> that is all of the whole only ten live by chance in <add>Hebrew</add> houses<lb/> 14 never come to <add>Hebrew</add>&#44; except on <add>Hebrew</add> for a few hours.  If charities are collected<lb/> they are never called on they are actually <add>Hebrew</add>&#44; 3 or four I do not even know<lb/>  These men combine and censure a Teacher in <placeName>Israel</placeName>&#44; are they Jews or Republicans<lb/> if the former they ought to act accord to our laws if the latter&#44; accord to Law of<lb/> their country</p>
+			<p rend="indent(2)">They are complainants &#40;against me&#41; defendants &#40;of themselves &#38; <persName>Poz</persName>&#58;&#41; witness&#44; party<lb/> <hi rend="underline">jury of judges&#44; &#38; executors at all about things which they do not care</hi><lb/> <hi rend="underline">for which they do not understand and against a man whom they do</hi><lb/> <hi rend="underline">not know</hi>.  And all this is done of defense of a man who less than prophama<lb/>tion<add>&#63;</add>&#44; hypocrisy &#38; fraud&#44; he thus is proved he is not guilty&#61;<lb/> A man of whom we never hear no good against a man from we never heard any<lb/> bad.  A man who came here as hyper orthodox &#40;they complain about inconsisten<lb/>cy&#44; they ought to be reconciled to suit if I even were guilty&#41; had broke the congreg<lb/> now 3 times <sic>seperating</sic> families &#38; the Living &#38; the dead.  For separate they are now<lb/> I called last week on <persName>Mr C M Mordecai<add>&#63;</add></persName> presenting to him as I am totally passive<lb/> &#40;I did not expose <persName>P.</persName> he to ruin me told all his shown of which I reproached him&#41; and under<lb/> continual persecution of unprivileged men&#44; without anything like sufficient<lb/> support on those who side with me&#44; I would withdraw&#44; so that they should not<lb/> blame me of being in the way of a reconciliation.</p>
+				<p>To this I was answered my withdrawal would be of no use at all as I have<lb/> made two distinct Congregation of them of different principle etc. and whoever<lb/> comes now&#44; cannot suit both parties.  The whole sphere of their neglig <del>notion</del> ideas<lb/> is a new one.  <persName>C&#39;</persName> complains my friend here been busy to raise my reputation<lb/> my friends in the <sic>congregat</sic> have taken no part before the public except the petition that they<lb/> sent me&#44; and could they do less.  It is <persName>Mr S N. C.</persName> yourself &#38; <persName>Mr. N</persName><lb/> that have been instrumental in getting me out of the mire</p>
+			<pb n="3"/>
+				<p>e&#41; You give me in the last line page 321 an indirect invitation to reply.</p>
+			<p rend="indent(1)">1&#41; can I reply to so low a language 2&#41; can I reply to a letter which I cannot Identify</p>
+			<p rend="indent(1)">3&#41; can I reply with out reposing the whole party of betraying me&#44; and of no more</p>
+			<p rend="indent(1)">belonging to a Jewish body and to be unworthy of being Republicans.</p>
+			<p rend="indent(1)">4&#41; A minister must avoid offense he dare not quarrel fight or wrestle the irreligious<lb/> world is delighted at such.</p>
+			<p rend="indent(1)">5&#41; Have not I told in a letter that I must keep silence so long as my relation<lb/> continues and shall I be roused by a man like <persName>C.</persName>  He speaks of puliens<add>&#63;</add> of<lb/> vice.  But this is <persName>Po&#39;s</persName> crafty manner he sends <add>&#63;</add> aspersion with <add>&#63;</add> exquisite<lb/> finesse.  To raise suspicion against my private character all this is done in<lb/> his usual manner&#44; so that after all he is untangible you may take it as you<lb/> like like his &#34;divine law delivered unto our fathers by <persName>Moses</persName>&#59; what a Phras<lb/>ology.  What is divine&#44; why the regime indirect&#44;&#44;</p>
+			<p rend="indent(1)">Now allow me to tell you a minister&#39;s character is&#44; in such cases&#44; like that of<lb/> a lady.  You are the Editor your sister is maligned&#44; her character vilified&#44; you<lb/> in order to repose the malice of her <add>&#63;</add> knowing the necessity of crushing<lb/> him give your sister the permission to appear before the <add>&#63;</add>&#44; to plead<lb/> her own cause before the public.  What has she to do under such circumstances&#63;</p>
+			<p rend="indent(1)">f&#41; <persName>Mr P.</persName> knew that <persName>S N.C.</persName> will reply&#44; but he has <add>&#63;</add></p>
+			<p rend="indent(1)">1&#41; He mystifies the public raising smoke and dust so that they do not distinguish the <add>&#63;</add><lb/> valor and standing</p>
+			<p rend="indent(1)">2&#41; He is very systematic&#44; his Character is blasted&#44; by his tenants he is called &#34;the <persName>Shylock</persName>&#44; his<lb/> own party know that they are deceived&#44; now he gathers material a tort et a <persName>Trewers</persName><lb/> for his children in future in 20 or 30 years they will show with paper that his<lb/> paper was that <add>&#63;</add> glory man&#44; who was persecuted&#44; who had such warm friend<lb/> to defend him&#44; his <add>&#63;</add> were man of no longer powers&#44; the concentrated<lb/> &#34;malice at misrepresentation together &#40;p 315&#41;&#59; they aspired forth &#34;low rent&#8222; it &#34;<add>&#63;</add>&#8222;<lb/> they were &#34;Jesuits&#8222; if&#44; their father had &#34;too much refinement &#38; good breeding&#34; p 314<lb/> &#34;purlien of vice&#8222; is at the same time surely interspersed.  &#34;they&#34; if they would harm him<lb/> settled their own shame would here covered their shame p 316 &#38;c</p>
+			<p rend="indent(1)">This number is carefully laid by to such documents as the following</p>
+				<p>Last year after he had told his story how I had told him of his profanation hypocrisy &#38;<lb/> infidelity&#8222; he like a modest bashful girl that had been grossly offended&#44; send would<lb/> go crying or weeping to her mothers bosom&#44; went to his beloved friends bitterly complaining<lb/> and he wanted some satisfaction from me I should send him a letter <add>&#63;</add> that<lb/> I <add>&#63;</add> refused doing so.  He wants me to write about his &#34;belief&#8222;</p>
+			<pb n="4"/>
+				<p>&#34;I could write nothing against my convictions&#8222; viz that he is what I know him<lb/> to be.  How he can feel himself so well&#44; as not to be able to rest on his own<lb/> reputation he then had been here 14 or 15 years I about 16 weeks  If my paper<lb/> is valid my word contrary to that paper is also valid to do one would<lb/> invalidate my word at all.  I gave the congregation by the Parnass the following advice<lb/> you pass a resolution that all the members of the Cong V. B. E. as well as their<lb/> ministers &#38; all the officers &#38; servant belonging to the establishment can only<lb/> be admitted after a deposition of the test oath &#34;that they believe in the<lb/> Right <persName>Reverend Gustavis Poznanski</persName>&#8222; else they have no <add>Hebrew</add><lb/> this oath or the Resolution you make the 14th art&#58; of it<lb/> <persName>Po</persName> creed.  I of course as the minister before I am again admitted must<lb/> <sic>must</sic> acknowledge my belief on mere 14 articles&#44; but I do not and so I will<lb/> ask <persName>Mr P.</persName> do you belief in <add>&#63;</add> even 13 articles&#63;  He of course<lb/> would say no &#40;for when first asked about them told me &#34;I know that they are good<lb/> for nothing&#44; but I was ask to give a creed at another convers&#58; he said He had<lb/> hard work to graze by &#40;<persName>Maimonid</persName>&#41; and had he to do it now all would have<lb/> been different but ten years ago to omit that one word &#40;&#34;The <add>&#63;</add> would<lb/> have made leave 6 members &#38; now as <persName>Mr P</persName> does not believe in his own 13<lb/> article&#44; I do not believe in the fourteenth&#8222;</p>
+				<p>Upon this his party made up a paper expressive that as slanderous<lb/> reports spread about <persName>Mr P&#39;o</persName> not believing in&#44; they have confidence<lb/> and take his word etc This paper was signed by 26 men Old <persName>Mr Otter</persName> signed<lb/> though he was then in the <placeName>north</placeName> several seat holders signed &#40;now they complain about<lb/> seat holders signing.&#34;  Seat holders have a right to petition the constitution<lb/> Art IV says All subscribers shall be entitled to all rights and privileges of a member&#44; except<lb/> the right to vote&#44; as to attend the meetings of the congreg for the transation<add>&#63;</add> of <add>&#63;</add><lb/> they then have a right to petition&#44; and to <add>&#63;</add> a desire to have justice done to <add>&#63;</add><lb/> and to see that honest men keep true to their contract.</p>
+				<p>Now this cost an <add>&#63;</add>&#44; is another <add>&#63;</add> document for a future day</p>
+				<p>See what a <add>&#63;</add></p>
+				<p>1&#41; 14 year minister comes to me for other satisfaction of character</p>
+				<p>2&#41; When he cannot get it from me he goes to his <add>&#63;</add>&#58; Wo unto the mother <add>&#63;</add> is obliged<lb/> to go for a character to her children&#44; particularly if they are not particularly famous<lb/> for purity &#38; modest</p>
+				<p>We see that <persName>Mrs P&#39;o</persName> influence is in the <add>&#63;</add>&#44; last petition could muster but 18&#58;26 nearly<lb/> a third part 6&#47;<add>&#63;</add>  And I am certain did a petition circulate now he could desperate as the attacker<lb/> are he could muster no. 18.  My dear sir&#33;  I tell you plainly his last paper was far from aiding Mr</p>
+				<p rend="The following is written sideways in the left margin of the page"></p>
+				<p>cause&#44; may be you were in a dilemma&#44; and could not allow me 2 appear&#44; let us combine our efforts <add>&#63;</add></p>
+				<p>1&#41; What good have <add>&#63;</add> had from <persName>P.</persName> in life quarrels contention 3 rapture&#44; disparagement in the <sic>eys</sic> of the public&#44; in death not one<lb/> ray of hope&#44; &#34;the wind pipe can give no consol &#38; win.  Now I bring him a Bible&#44; a post of <add>&#63;</add> learned &#38; pious men&#44; on immense<lb/> literature&#44; the work of industry genius piety at <add>&#63;</add></p>
+		</body>
+	</text>
+</TEI>

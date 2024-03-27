@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI [
+<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
+%teibase;
+<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
+%teiext;
+]>
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>[no title given]</title>
+				<author attested="yes" accepted="yes" signature="unk">Leeser, Isaac</author>
+				<editor></editor>
+				<sponsor></sponsor>
+				<funder></funder>
+				<principal></principal>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition></edition>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</editionStmt>
+			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
+			<publicationStmt>
+				<publisher>Unpublished manuscript</publisher>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Not part of a series</p>
+			</seriesStmt>
+			<notesStmt>
+				<note></note>
+			</notesStmt>
+			<sourceDesc>
+				<biblStruct>
+					<!-- catalog entry goes here -->
+					<monogr>
+						<imprint>
+							<dateLet></dateLet>
+						</imprint>
+					</monogr>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<country>USA</country>
+						<region>PA</region>
+						<settlement>Philadelphia</settlement>
+						<institution></institution>
+						<repository>TCAT</repository>
+						<collection>Anonymous</collection>
+						<idno>LSTCAT_item205</idno>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+						<msName></msName>
+					</msIdentifier>
+					<head></head>
+					<letHeading>
+						<author attested="yes" accepted="yes" signature="unk">Leeser, Isaac</author>
+						<addressee editor="false" attested="yes" accepted="yes"></addressee>
+						<deliverer></deliverer>
+						<respStmt>
+							<resp></resp>
+							<name></name>
+						</respStmt>
+						<placeLet>Philadelphia, PA</placeLet>
+						<placeRec>Philadelphia, PA</placeRec>
+						<dateLet when="1842-01" source="" attested="yes">12 January 1842</dateLet>
+						<dateLet when="1842-01" source="" attested="yes">12 January 5602</dateLet>
+					</letHeading>
+					<msContents>
+						<msItem>
+							<author></author>
+							<editor></editor>
+							<respStmt>
+								<resp></resp>
+								<name></name>
+							</respStmt>
+							<title></title>
+							<decoNote></decoNote>
+							<listBibl>
+								<bibl></bibl>
+							</listBibl>
+							<filiation></filiation>
+							<textLang></textLang>
+							<figure>
+								<graphic url="il_tcat_item205_wk1_body0001.jpg"></graphic>
+								<graphic url="il_tcat_item205_wk1_body0002.jpg"></graphic>
+								<graphic url="il_tcat_item205_wk1_body0003.jpg"></graphic>
+								<graphic url="il_tcat_item205_wk1_body0004.jpg"></graphic>
+								<graphic url="il_tcat_item205_wk1_body0005.jpg"></graphic>
+								<graphic url="il_tcat_item205_wk1_body0006.jpg"></graphic>
+								<graphic url="il_tcat_item205_wk1_body0007.jpg"></graphic>
+								<graphic url="il_tcat_item205_wk1_body0008.jpg"></graphic>
+							</figure>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support>
+									<material color="" lined="false" paper_type="" size="">print</material>
+								</support>
+								<extent>8 pages on 8 sheets
+									<dimensions></dimensions>
+								</extent>
+								<foliation></foliation>
+								<collation></collation>
+								<condition fragment="false"></condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout></layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc script="typescript">
+							<handNote></handNote>
+						</handDesc>
+						<decoDesc>
+							<decoNote></decoNote>
+						</decoDesc>
+						<additions></additions>
+						<bindingDesc>
+							<binding>
+								<decoNote></decoNote>
+							</binding>
+						</bindingDesc>
+						<sealDesc>
+							<seal>
+								<p></p>
+							</seal>
+						</sealDesc>
+						<accMat></accMat>
+						<envDesc occ="false"></envDesc>
+					</physDesc>
+					<history>
+						<origin></origin>
+						<provenance></provenance>
+						<acquisition></acquisition>
+					</history>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source></source>
+								<change></change>
+							</recordHist>
+							<availability status="free">
+								<p>Unrestricted</p>
+							</availability>
+							<custodialHist>
+								<custEvent></custEvent>
+							</custodialHist>
+						</adminInfo>
+						<surrogates></surrogates>
+						<listBibl>
+							<bibl></bibl>
+						</listBibl>
+					</additional>
+					<msPart>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+					</msPart>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p></p>
+			</projectDesc>
+			<samplingDecl>
+				<p></p>
+			</samplingDecl>
+			<editorialDecl>
+				<correction>
+					<p></p>
+				</correction>
+				<normalization>
+					<p></p>
+				</normalization>
+				<quotation>
+					<p></p>
+				</quotation>
+				<hyphenation>
+					<p></p>
+				</hyphenation>
+				<segmentation>
+					<p></p>
+				</segmentation>
+				<stdVals>
+					<p></p>
+				</stdVals>
+				<interpretation>
+					<p></p>
+				</interpretation>
+			</editorialDecl>
+			<tagsDecl>
+				<rendition></rendition>
+				<namespace name="http://www.tei-c.org/ns/1.0">
+					<tagUsage gi=""></tagUsage>
+				</namespace>
+			</tagsDecl>
+			<refsDecl>
+				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
+			</refsDecl>
+			<refsDecl>
+				<refState unit=""/>
+			</refsDecl>
+			<classDecl>
+				<taxonomy>
+					<category>
+						<catDesc></catDesc>
+					</category>
+				</taxonomy>
+			</classDecl>
+			<appInfo>
+				<application ident="" version="">
+					<desc></desc>
+					<label></label>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<creation></creation>
+			<langUsage>
+				<language ident="en">English</language>
+			</langUsage>
+			<textClass>
+				<keywords scheme="unknown">
+					<list>
+						<item></item>
+						<item></item>
+					</list>
+				</keywords>
+				<classCode scheme=""></classCode>
+				<catRef/>
+			</textClass>
+		</profileDesc>
+		<revisionDesc>
+			<change></change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<pb n="1"/>
+				<p rend="align(center)">ADVERTISEMENT.</p>
+			<p rend="indent(1)"><persName role="author">ISAAC LEESER</persName> respectfully calls your attention to the following<lb/> works either written or edited by him&#59; they may be had on appli&#45;<lb/>cation to him by post&#45;paid letters&#44; or to <persName>Messrs. Carey</persName> &#38; <persName>Hart</persName>&#44;<lb/> <placeName>Philadelphia</placeName>&#59; <persName>Messrs. Levine</persName> &#38; <persName>Tavel</persName>&#44; <placeName>Charleston&#44; S. C.</placeName>&#59; <persName>Rev.<lb/> S. M. Isaacs</persName>&#44; &#38; <persName>M. H. Cardozo</persName>&#44; <placeName>New York</placeName>&#59; <persName>Mr. Z. Rehine</persName>&#44; <placeName>Balti&#45;<lb/>more</placeName>&#59; <persName>Mr. Jacob Ezekiel</persName>&#44; <placeName>Richmond</placeName>&#59; <persName>Mr. Isaac Lyons</persName>&#44; <placeName>Columbia&#44;<lb/> S. C.</placeName>&#59; <persName>Jacob De La Motta&#44; Esq.</persName> <placeName>Savannah</placeName>&#59; <persName>Mr. Gershom Kursheedt</persName>&#44;<lb/> <placeName>New Orleans</placeName>&#59; <persName>Mr. Phineas Moses</persName>&#44; <placeName>Cincinnati</placeName>&#59; <persName>M. M. Sollas</persName><lb/> and <persName>M. Sarfaty&#44; Esqrs.</persName> <placeName>Kingston&#44; Jamaica</placeName>&#59; <persName>Aaron Wolff&#44; Esq.</persName> <placeName>St.<lb/> Thomas</placeName>&#59; <persName>Rev. David Piza</persName>&#44; <placeName>Montreal&#44; L. C.</placeName>&#59; <persName>Mr. David Q. Henri&#45;<lb/>ques</persName>&#44; <placeName>London</placeName>&#59; and <persName>Mr. Henry S. Samuel</persName>&#44; <placeName>Liverpool</placeName>.</p>
+				<p rend="align(center)">1. WORKS OF INSTRUCTION.</p>
+				<p rend="align(center)">1. INSTRUCTION IN THE MOSAIC RELIGION&#59;</p>
+				<p>translated from the German of <persName>J. Johlson</persName>&#58; 8vo. Boards&#44; 139 pages.<lb/> <placeName>Philadelphia</placeName>&#44; <date>5590</date>.</p>
+				<p>&#42;&#42;CONTENTS. Chapter 1. Of the Duty and Destination of Man.</p>
+				<p>Chapter 2. Of Religion. Chapter 3. Of God and his Attributes.<lb/> Chapter 4. Of Immortality. Chapter 5. Of Revelation. Chapter<lb/> 6. Of the Ten Commandments. Chapter 7. Of the Tradition.<lb/> Chapter 8. Of the Duties towards God. Chapter 9. Of the Duties<lb/> towards Ourselves. Chapter 10. Of the Duties towards our Fellow&#45;<lb/>men. Chapter 11. Of the Duties towards the State. Chapter 12.<lb/> Of Means to become Pious.&#8212;Appendix. Of the Ceremonies and the<lb/> Jewish Almanac.</p>
+			<pb n="2"/>
+				<p rend="align(center)">2</p>
+				<p rend="align(center)">2. CATECHISM FOR YOUNGER CHILDREN&#59;</p>
+				<p>designed as a Familiar Exposition of the Jewish Religion.  12mo.<lb/> boards&#44; 168 pages.  <placeName>Philadelphia</placeName>&#44; <date>5599</date>.</p>
+				<p>&#42;&#42;CONTENTS. Chapter 1. Religion in General. Chapter 2.<lb/> The Mosaic Religion in particular. Chapter 3. God and his Attri&#45;<lb/>butes. Chapter 4. The Revelation of God to Man. Chapter 5.<lb/> The Law revealed through <persName>Moses</persName>. Chapter 6. The Moral Law.<lb/> Chapter 7. The Ten Commandments. Chapter 8. The Kingdom<lb/> of the Messiah. Chapter 9. The Life after Death. Chapter 10.<lb/> Repentance and Atonement. Appendix 1. The Ceremonial Law.<lb/> Appendix 2. The Jewish Creed.</p>
+				<p rend="align(center)">3. THE HEBREW SPELLING BOOK&#44;</p>
+				<p>designed as an easy Guide to the Hebrew Tongue.  8vo. Boards&#44;<lb/> 44 pages. <placeName>Philadelphia</placeName>&#44; <date>5598</date>.</p>
+				<p rend="align(center)">4. ELEMENTARY INTRODUCTION TO THE<lb/> SCRIPTURES.</p>
+				<p>for the use of Hebrew Children&#44; by <persName>Miss Simha C. Peixotto</persName>.  Printed<lb/> under the superintendence of <persName role="author">I. L.</persName> 18mo. 196 pages. <placeName>Phila.</placeName> <date>5600</date>.</p>
+				<p>&#42;&#42; This book contains the History of the Bible in questions and<lb/> answers&#44; and is designed to convey in a familiar manner the Jewish<lb/> ideas on the events and doctrines of the Sacred Records.</p>
+				<p rend="align(center)">5. THE MOSAIC SYSTEM IN ITS FUNDAMENTAL<lb/> PRINCIPLES&#59;</p>
+				<p>by the <persName>Rev. Dr. Louis Salomon</persName>&#44; late Minister of the Cong. Rodef<lb/> Shalom at <placeName>Philadelphia</placeName>.  Edited by <persName role="author">I. L.</persName> 12mo. 215 pages&#44; <placeName>Phila.</placeName><lb/> <date>5601</date>.</p>
+			<p rend="indent(1)">There has also appeared the following work&#44; designed as a first<lb/> book of religious instruction&#58;</p>
+				<p rend="align(center)">THE ROAD TO FAITH&#44;</p>
+				<p>for the use of Jewish Elementary Schools&#44; translated from the<lb/> German of <persName>Dr. Henri Loeb</persName>&#44; Chief Rabbi of <placeName>Belgium</placeName>&#44; by <persName>Moses N.</persName></p>
+			<pb n="3"/>
+				<p rend="align(center)">3</p>
+				<p><persName>Nathan</persName>&#44; Minister of the English and German Jews&#44; <placeName>Kingston&#44;<lb/> Jamaica</placeName>.  18mo. 63 pages. <placeName>Kingston&#44; Ja.</placeName> <date>5600</date>.</p>
+				<p>&#42;&#42;CONTENTS. Introduction. Of Religion in General. Part I.<lb/> Religious Belief. Section 1. Of God and his Attributes. Section<lb/> 2. Of the Creation of the World and Mankind. Section 3. Of<lb/> Providence. Section 4. Of Rewards and Punishments&#59; or a Future<lb/> State.&#8212;Part II. Religious Duties. Section 5. Of Repentance and<lb/> Atonement. Section 6. Of our Duties towards God. Section 7.<lb/> Of our Duties towards our Neighbours. Section 8. Of our Duties<lb/> towards Ourselves. Sections 9 and 10. Of the Ceremonial Law.</p>
+				<p rend="align(center)">II. BOOKS OF DEVOTION AND ARGUMENT.</p>
+				<p rend="align(center)">1. THE JEWS AND THE MOSAIC LAW.</p>
+				<p>Part I. &#8220;Containing a <sic>Defence</sic> of the Revelation of the Pentateuch&#44;<lb/> and of the Jews for their adherence to the same.&#8221; Part II. &#8220;Con&#45;<lb/>taining Four Essays on the Relative Importance of Judaism and<lb/> Christianity&#44; by a Native of <placeName>Germany</placeName>&#44; and a Professor of Chris&#45;<lb/>tianity.&#8221; 8vo. boards&#44; 277 pages. <placeName>Phila.</placeName> <date>5594</date>.</p>
+				<p>&#42;&#42;CONTENTS. Part I. Chapter 1. Conscience and Revelation.<lb/> Chapter 2. Who wrote the Pentateuch&#63; Chapter 3. <persName>Moses</persName> an<lb/> authentic Historian. Chapter 4. The Pentateuch. Chapter 5&#45;8.<lb/> History of Revelation&#8212;<persName>Adam</persName>&#8212;<persName>Noah</persName>&#8212;<persName>Abraham</persName>&#8212;<persName>Isaac</persName>&#8212;<persName>Jacob</persName>.<lb/> Chapter 9. The Legation of <persName>Moses</persName>. Chapter 10. The Exodus.<lb/> Chapter 11. The Israelites and Revelation. Chapter 12. The De&#45;<lb/>scent on <placeName>Sinai</placeName>. Chapter 13. The Decalogue. Chapter 14. The<lb/> Jewish Commonwealth. Chapter 15. The Bible and Paganism.<lb/> Chapter 16. The Phylacteries. Chapter 17. The Festivals. Chap&#45;<lb/>ter 18. The Sacrifices. Chapter 19. The Forbidden Meats. Chap&#45;<lb/>ter 20. The Golden Calf. Chapter 21. Inspiration and Prophecy.<lb/> Chapter 22. Fulfilment of Prophecy. Chapter 23. The Religion<lb/> of the Bible. Chapter 24. The Hebrew Worship. Chapter 25.<lb/> The Fasts and Ceremonies. Chapter 26. The Law and the Rabbins.<lb/> Appendix.&#8212;Part II. Introduction&#44; Essays 1&#8212;4. Notes.</p>
+			<pb n="4"/>
+				<p rend="align(center)">4</p>
+				<p rend="align(center)">2. DISCOURSES&#44; ARGUMENTATIVE AND DEVOTIONAL&#44;</p>
+				<p>on the subject of the Jewish Religion.  Vols. I. and II. &#40;or first<lb/> series&#41; 8vo. boards&#44; pages 590&#44; <placeName>Phila.</placeName> <date>5597</date>.&#8212;Vol. III. &#40;or second<lb/> series&#41; 268 pages&#44; <placeName>Phila.</placeName> <date>5601</date>.</p>
+				<p>&#42;&#42;Contents of Vol. I. Dis. 1. Confidence in God. Dis. 2.<lb/> Want of Faith. Dis. 3. Pious Energy. Dis. 4. The Destruction<lb/> of <placeName>Jerusalem</placeName>. Dis. 5. The Consolation of <placeName>Israel</placeName>. Dis. 6. Perfec&#45;<lb/>tion with God. Dis. 7. The Covenant. Dis. 8. Sin and Repent&#45;<lb/>ance. Dis. 9. The Creation. Dis. 10. Pious Reflections. Dis. 11.<lb/> The Festival of <date>Hanuckah</date>. Dis. 12. The Fear of Loss. Dis. 13.<lb/> The Festival of <date>Purim</date>. Dis. 14. Reward and Punishment. Dis.<lb/> 15. The Sanctification of the Lord. Dis. 16. The Glory of the<lb/> Lord. Dis. 17. The Death of the Righteous. Dis. 18. The Resto&#45;<lb/>ration of <placeName>Israel</placeName>. Dis. 19. The <date>New Year</date>. Dis. 20. The <date>Passover</date>.<lb/> Dis. 21. The <date>Pentecost</date>. Dis. 22. The Visitation of Heaven &#40;on the<lb/> Cholera&#41;. Dis. 23. Obedience and Repentance. Dis. 24. The<lb/> advent of Messiah. Dis. 25. The Institution of Sacrifices. Dis. 26. The Sinfulness of Pride. Dis. 27. Motives of Gratitude. Dis.<lb/> 28. The Sin of Insincerity.</p>
+			<p rend="indent(1)">Contents of Vol. II. Dis. 29. The Duty of Instruction. Dis. 30.<lb/> The Selection of <placeName>Israel</placeName>. Dis. 31. The Duty of Active Benevolence.<lb/> Dis. 32. The Selection of <placeName>Israel</placeName> &#40;in continuation of Dis. 30&#41;. Dis.<lb/> 33. The Blessing of Revelation. Dis. 34. The Permanence of the<lb/> Law. Dis. 35. Prayer&#44; Fasting&#44; and Charity. Dis. 36. The Jewish<lb/> Faith. Dis. 37. The Punishment of Pharaoh. Dis. 38. Recom&#45;<lb/>pense and Retribution. Dis. 39. Religious Education. Dis. 40.<lb/> The Transgression of <placeName>Israel</placeName>. Dis. 41. The Institution of Prayer.<lb/> Dis. 42. The Causes and Remedies of Sin. Dis. 43. The Spirit of<lb/> the Age. Dis. 44&#45;50. The Messiah&#44; in seven Lectures. Dis. 51.<lb/> Address on the Duty and Scope of Charity. Dis. 52. Address on<lb/> the Objects of Charity.</p>
+			<p rend="indent(1)">Contents of Vol. III. Dis. 1. Call to Repentance. Dis. 2. The</p>
+			<pb n="5"/>
+				<p rend="align(center)">5</p>
+				<p>Redemption of <placeName>Israel</placeName>. Dis. 3. The Mission of the Prophets. Dis.<lb/> 4. Religious Education and Repentance. Dis. 5. Obedience to the<lb/> Law. Dis. 6. The Resignation of <persName>Aaron</persName>. Dis. 7. The Uncertainty<lb/> of Life. Dis. 8. The Revelation of <placeName>Sinai</placeName>. Dis. 9. Religious Union.<lb/> Dis. 10. The Sorrows of <placeName>Israel</placeName>. Dis. 11. The Requirements of<lb/> the Law. Dis. 12. The Duty of Contentment. Dis. 13. The Way<lb/> of Life. Dis. 14. Salvation through Repentance. Dis. 15. The<lb/> Covenant of <persName>Abraham</persName>. Dis. 16. Religious Education&#44; 1. Dis. 17.<lb/> Religious Education&#44; 2. Dis. 18. Religious Education&#44; 3. Dis. 19.<lb/> Motives of Charity. Dis. 20. Funeral Address. Dis. 21. Persecu&#45;<lb/>tion of the Jews. Dis. 22. Prayer at the S. S. Examination&#44; 1.<lb/> Dis. 23. Prayer at the S. S. Examination&#44; 2.</p>
+				<p>NOTE.&#8212;Those possessing the First Series can be supplied with<lb/> the Third Volume separately&#59; but not beyond the number of Vols.<lb/> I. and II. on hand.</p>
+				<p rend="align(center)">3. THE CLAIMS OF THE JEWS TO AN EQUALITY OF<lb/> RIGHTS&#44;</p>
+				<p>illustrated in a Series of Letters to the Editor of the <placeName>Philadelphia</placeName><lb/> Gazette. 8vo. pages 99. <placeName>Phila.</placeName> <date>5601</date>.</p>
+				<p rend="align(center)">4. THE FORM OF PRAYER&#44;</p>
+				<p>according to the custom of the Spanish and Portuguese Jews&#44; 6<lb/> vols. royal 8vo. <date>5597&#45; 5598</date>.</p>
+				<p>CONTENTS. Vol. I. Daily Prayers. Vol. II. <date>New Year</date> Services.<lb/> Vol. III. <date>Day of Atonement</date> Service. Vol. IV. Tabernacle Ser&#45;<lb/>vice. Vol. V. <date>Passover</date> and <date>Pentecost</date> Service. Vol. VI. Fast&#45;<lb/>Days&#39; Service.</p>
+				<p>NOTE.&#8212;An extra number of the First Volume&#44; containing the<lb/> Daily Prayers&#44; having been printed&#44; it may be had separate from<lb/> the set.</p>
+			<pb n="6"/>
+				<p rend="align(center)">6</p>
+				<p rend="align(center)">5. In contemplation&#44; if sufficient encouragement is given&#44;</p>
+				<p rend="align(center)">THE BOOK</p>
+				<p rend="align(center)">OF</p>
+				<p rend="align(center)">THE LAW OF GOD&#59;</p>
+				<p>commonly called the Pentateuch&#44; Hebrew and English.  In five<lb/> vols. small octavo&#44; at twelve dollars and fifty cents in paper.  Dif&#45;<lb/>ference of exchange and duties to be paid by subscribers.</p>
+			<p rend="indent(1)">It is contemplated to revise the existing translation carefully<lb/> according to the best Jewish authorities&#44; such as <persName>Onkelos</persName>&#44; <persName>Yarchi</persName>&#44;<lb/> <persName>Mendelssohn</persName>&#44; <persName>Dubna</persName>&#44; <persName>Zunz</persName>&#44; and others&#44; in order to furnish the<lb/> English&#45;speaking Israelites with a text and translation which may<lb/> be depended upon for as great a share of accuracy as the editor&#39;s<lb/> industry can produce.  It is probable that the work will require<lb/> about a year and a half for its completion from the time of its com&#45;<lb/>mencement&#59; but if it is undertaken&#44; not time shall be lost&#44; consistent<lb/> with accuracy&#44; to bring it before the public.</p>
+			<p rend="indent(1)">The following is a specimen of the proposed revised translation&#44;<lb/> to correspond with the Hebrew page of the text of <persName>Pisa</persName>&#44; which will<lb/> be closely followed.  The division in sections commonly found in<lb/> the English version being not according to the Massoratic text will<lb/> not be adhered to&#59; still the usual division of chapters will be indi&#45;<lb/>cated as in the subjoined extract.</p>
+				<p rend="align(center)">DEUTERONOMY&#44; X. AND XI. <persName>AYKEB</persName>.</p>
+				<p>the earth and all that is therein. 15. Yet only<lb/> in thy forefathers has the Lord delight&#44; in order<lb/> to love them&#59; he therefore chose their seed after<lb/> them&#44; namely you&#44; from all the nations&#44; as you<lb/> see this day.  16. Remove therefore the obdu&#45;<lb/>racy of your heart&#44; and be no more stiff&#45;necked.<lb/>  17. For the Lord your God&#44; is the God of gods&#44;</p>
+			<pb n="7"/>
+				<p rend="align(center)">7</p>
+				<p>and the Lord of lords&#44; the great&#44; mighty&#44; and<lb/> terrible God&#44; who hath no regard to persons&#44;<lb/> and receiveth no bribes&#59;  18. Who executeth<lb/> justice for the fatherless and the widow&#44; and<lb/> loveth the stranger to give him food and rai&#45;<lb/>ment.  19. Love ye then the stranger&#44; for you<lb/> have yourselves been strangers in the land of<lb/> <placeName>Egypt</placeName>.  20. The Lord thy God thou shalt fear&#44;<lb/> him thou shalt serve&#44; to him thou shalt cleave&#44;<lb/> and by his name thou shalt swear.  21. He is<lb/> thy praise&#44; and he is thy God&#44; who hath done<lb/> for thee these great and fearful things which<lb/> thy own eyes have seen.  22. With seventy per&#45;<lb/>sons thy forefathers went down to <placeName>Egypt</placeName>&#59; and<lb/> now the Lord thy God hath made thee as nume&#45;<lb/>rous as the stars of heaven.  1. Love<lb/> CHAP. XI.<lb/> thou therefore the Lord thy God&#44; and<lb/> keep his charge&#44; his statutes&#44; judgments&#44; and<lb/> commandments all thy days.  2. Know ye also<lb/> this day&#44; that not with your children&#44; who have<lb/> not known&#44; and who have not seen the chastise&#45;<lb/>ment of the Lord your God&#44; his greatness&#44; his<lb/> strong hand&#44; and his outstretched arm&#59;  3. As<lb/> also his signs and acts which he displayed in<lb/> <placeName>Egypt</placeName>&#44; unto Pharaoh&#44; the king of <placeName>Egypt</placeName>&#44; and<lb/> all his land.</p>
+			<pb n="8"/>
+				<p rend="align(center)">8</p>
+				<p rend="align(center)">ALSO JUST READY.</p>
+				<p rend="align(center)">6. SHEMANG YISRAEL&#44; OR&#44; THE SPIRIT OF JUDAISM.</p>
+				<p>Being an Exposition of the Duties embraced in the Shemang&#59; by<lb/> <persName>Grace Aguilar</persName>&#44; of <placeName>Hackney&#44; England</placeName>&#44; edited by <persName role="author">I. L.</persName> 12mo. cloth<lb/> boards&#44; pages 255. <placeName>Phila.</placeName> <date>5602</date>.</p>
+				<p>&#42;&#42;CONTENTS. Chapter 1. The Avowal of Unity considered as<lb/> it regards the Jewish Nation.  Chapter 2. Definition of the word<lb/> Heart&#8212;Love of God considered as it regards the Affections.  Chap&#45;<lb/>ter 3. Definition of the word Soul&#8212;Love of God considered as it<lb/> regards the Intellectual and Vital Principle of Man.  Chapter 4.<lb/> Definition of the world Might&#8212;Love of God considered as it regards<lb/> our Domestic and Social Duties.  Chapter 5. Brief Review of the<lb/> Commandments and the Social Duties therein comprised.  Chap&#45;<lb/>ter 6. Hints on the Religious Instruction of the Hebrew Youth.<lb/>  Chapter 7. The Spirit of Religion regarded as pervading and<lb/> guiding our Conversation&#44; profane reading&#44; admiration of the Works<lb/> of Nature&#44; etc.  Chapter 8. The Spirit and the Forms of Judaism<lb/> considered Separately and together.</p>
+			<p rend="indent(1)">Any letter sent by mail to the address of <persName role="author">ISAAC LEESER</persName>&#44; at <placeName>Phila&#45;<lb/>delphia</placeName>&#44; will reach him&#44; unforseen accidents only excepted.  The<lb/> public may be assured that every order for any of the above works<lb/> will be promptly attended to&#44; and to persons living out of the limit<lb/> of the <placeName>U. S.</placeName> the charges will be the same as to residents of the<lb/> Union&#44; with the sole addition of duty&#44; &#38;c.</p>
+				<p><hi rend="italics"><placeName>Philadelphia</placeName></hi>&#44; <date>January 12&#44; 5602</date>.</p>
+		</body>
+	</text>
+</TEI>

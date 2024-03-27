@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI [
+<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
+%teibase;
+<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
+%teiext;
+]>
+<TEI>
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>[no title given]</title>
+          <author attested="yes" accepted="yes" signature="yes">Nussbaum, C.</author>
+          <editor></editor>
+          <sponsor></sponsor>
+          <funder></funder>
+          <principal></principal>
+          <respStmt>
+            <resp></resp>
+            <name></name>
+          </respStmt>
+        </titleStmt>
+        <editionStmt>
+          <edition></edition>
+          <respStmt>
+            <resp></resp>
+            <name></name>
+          </respStmt>
+        </editionStmt>
+        <extent>[information about file size goes here, information about extent of physical item comes later]</extent>
+        <publicationStmt>
+          <publisher>Unpublished manuscript</publisher>
+        </publicationStmt>
+        <seriesStmt>
+          <p>Not part of a series</p>
+        </seriesStmt>
+        <notesStmt>
+          <note></note>
+        </notesStmt>
+        <sourceDesc>
+          <biblStruct>
+            <!-- catalog entry goes here -->
+            <monogr>
+              <imprint>
+                <dateLet></dateLet>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <msDesc>
+            <msIdentifier>
+              <country>USA</country>
+              <region>PA</region>
+              <settlement>Philadelphia</settlement>
+              <institution></institution>
+              <repository>CAJS Isaac Leeser Collection</repository>
+              <collection>The Library of the Dropsie College for Hebrew and Cognate Learning</collection>
+              <idno>LSDCBx1FF6_11</idno>
+              <altIdentifier>
+                <idno></idno>
+              </altIdentifier>
+              <msName></msName>
+            </msIdentifier>
+            <head></head>
+            <letHeading>
+              <author attested="yes" accepted="yes" signature="yes">Nussbaum, C.</author>
+              <addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac, Rev.</addressee>
+              <deliverer></deliverer>
+              <respStmt>
+                <resp></resp>
+                <name></name>
+              </respStmt>
+              <placeLet>New York, NY</placeLet>
+              <placeRec>Philadelphia, PA</placeRec>
+              <dateLet when="1849-02" source="" attested="yes">February 1849</dateLet>
+            </letHeading>
+            <msContents>
+              <msItem>
+                <author></author>
+                <editor></editor>
+                <respStmt>
+                  <resp></resp>
+                  <name></name>
+                </respStmt>
+                <title></title>
+                <decoNote></decoNote>
+                <listBibl>
+                  <bibl></bibl>
+                </listBibl>
+                <filiation></filiation>
+                <textLang></textLang>
+                <figure>
+                  <graphic url=""/>
+                </figure>
+              </msItem>
+            </msContents>
+            <physDesc>
+              <objectDesc>
+                <supportDesc>
+                  <support>
+                    <material color="" lined="unk" paper_type="" size="Letter">letter</material>
+                  </support>
+                  <extent>3 pages on 3 sheets
+                    <dimensions></dimensions>
+                  </extent>
+                  <foliation></foliation>
+                  <collation></collation>
+                  <condition fragment="false"></condition>
+                </supportDesc>
+                <layoutDesc>
+                  <layout></layout>
+                </layoutDesc>
+              </objectDesc>
+              <handDesc script="manuscript">
+                  <handNote></handNote>
+              </handDesc>
+              <decoDesc>
+                <decoNote></decoNote>
+              </decoDesc>
+              <additions></additions>
+              <bindingDesc>
+                <binding>
+                  <decoNote></decoNote>
+                </binding>
+              </bindingDesc>
+              <sealDesc>
+                <seal>
+                  <p></p>
+                </seal>
+              </sealDesc>
+              <accMat></accMat>
+              <envDesc occ="false"></envDesc>
+            </physDesc>
+            <history>
+              <origin></origin>
+              <provenance></provenance>
+              <acquisition></acquisition>
+            </history>
+            <additional>
+              <adminInfo>
+                <recordHist>
+                  <source></source>
+                  <change></change>
+                </recordHist>
+                <availability status="free">
+                  <p>Unrestricted</p>
+                </availability>
+                <custodialHist>
+                  <custEvent></custEvent>
+                </custodialHist>
+              </adminInfo>
+              <surrogates></surrogates>
+              <listBibl>
+                <bibl></bibl>
+              </listBibl>
+            </additional>
+            <msPart>
+              <altIdentifier>
+                <idno></idno>
+              </altIdentifier>
+            </msPart>
+          </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <projectDesc>
+          <p></p>
+        </projectDesc>
+        <samplingDecl>
+          <p></p>
+        </samplingDecl>
+        <editorialDecl>
+          <correction>
+            <p></p>
+          </correction>
+          <normalization>
+            <p></p>
+          </normalization>
+          <quotation>
+            <p></p>
+          </quotation>
+          <hyphenation>
+            <p></p>
+          </hyphenation>
+          <segmentation>
+            <p></p>
+          </segmentation>
+          <stdVals>
+            <p></p>
+          </stdVals>
+          <interpretation>
+            <p></p>
+          </interpretation>
+        </editorialDecl>
+        <tagsDecl>
+          <rendition></rendition>
+          <namespace name="http://www.tei-c.org/ns/1.0">
+            <tagUsage gi=""></tagUsage>
+          </namespace>
+        </tagsDecl>
+        <refsDecl>
+          <cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
+        </refsDecl>
+        <refsDecl>
+          <refState unit=""/>
+        </refsDecl>
+        <classDecl>
+          <taxonomy>
+            <category>
+              <catDesc></catDesc>
+            </category>
+          </taxonomy>
+        </classDecl>
+        <appInfo>
+          <application ident="" version="">
+            <desc></desc>
+            <label></label>
+          </application>
+        </appInfo>
+      </encodingDesc>
+      <profileDesc>
+        <creation></creation>
+        <langUsage>
+          <language ident="en">English</language>
+        </langUsage>
+        <textClass>
+          <keywords scheme="unknown">
+            <list>
+              <item></item>
+              <item></item>
+            </list>
+          </keywords>
+          <classCode scheme=""></classCode>
+          <catRef/>
+        </textClass>
+      </profileDesc>
+      <revisionDesc>
+        <change></change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+      
+		<pb n="1"/>
+			<p><hi rend="underline">German and Yiddish</hi></p>
+          <p rend="indent(9)"><placeName>N.Y.</placeName> <date>Friday Pericofe <add>&#63;</add></date></p>
+          <p rend="indent(8)"><del>&#40;<date>December</date>&#41;</del> <date>February 1849</date>.</p>
+			<p><addressee>Revd. Leeser</addressee>&#44; <placeName>Philadelphia</placeName>&#58;</p>
+          <p rend="indent(1)">In the last number of the &#8220;Occident&#44;&#8221;<lb/> I notice an article signed with the name &#8220;<persName>Ayala<lb/> Sh&#39;lucha</persName>&#8221; &#40; &#41;. I also noticed my name mentioned<lb/> in an article in the last number of your valued<lb/> magazine&#44; with the signature &#8220;Ayala Sh&#39;lucha&#8221;<lb/> &#40;in connection with this one may well add the closing<lb/> phrase&#44; &#8220;Who gives forth beautiful words&#8221;&#41;&#42;. For<lb/> this mention I want to express my thanks to you<lb/> for your defense of me against the attacks in<lb/> certain <del>?</del> issues of the &#8220;Hasmonean&#8221;.<lb/> It was at this time that I first became<lb/> aware that you are the second one who did not<lb/> overlook <del>my</del> the insult to me. You were<lb/> good enough to send the number containing<lb/> your defense&#44; whereas the first one who de&#45;<lb/>fended me in the &#8220;Hasmonean&#44;&#8221; signed with the<lb/> name &#8220;<persName>Ashkenazi</persName>&#44;&#8221;still remains unknown<lb/> to me. Just why you as well the other fighter<lb/> preferred to remain unknown&#44; I cannot<lb/> explain. The men of action and pious people<lb/> of old used to sign their names openly in<lb/> the course of a struggle. If I did not</p>
+			<p>&#42;Genesis 49.21</p>
+		<pb n="2"/>
+			<p>thank you until now&#44; it is because I was<lb/> afraid of hurting your feelings&#44; but I have<lb/> always valued your attitude. That I want<lb/> you to know&#44; since your magazine takes the<lb/> middle road as its tendency. I repeat what<lb/> I have once remarked to you that it<lb/> would be much more useful for your<lb/> magazine to be a weekly instead of a<lb/> monthly.</p>
+          <p rend="indent(1)">Along with this&#44; I want to ask you<lb/> to include in the next number the following<lb/> notice&#44; &#8220;Ethrogim and Lulabim From <placeName>Italy</placeName>&#44;<lb/> as a Title&#44; from <persName>C. Nussbaum</persName>&#44; <placeName>187 Rivington<lb/> St.</placeName> are to be had Settrogim and lulabim<lb/> from <placeName>Italy</placeName>.</p>
+			<p rend="align(center)"><hi rend="underline">German Advertisement</hi></p>
+			<p><add>Double lines inserted here to divide letter from the following</add></p>
+          <p rend="indent(1)">If you can send me your prayer&#45;<lb/>books of the German ritual and the pentateuchs&#44;<lb/> unbound at a low price&#44; I should like to<lb/> order some from you. Please let me know the<lb/> exact price of the above&#44; both cheaply and<lb/> elegantly bound.</p>
+		<pb n="3"/>
+          <p rend="indent(6)">Respectfully&#44;</p>
+          <p rend="indent(7)"><persName role="author">C. Nussbaum</persName></p>
+			<p>Since I cannot obtain a number of<lb/> your magazine&#44; please do not forget it<lb/> or put it aside&#44; so that it might be left<lb/> out. If you would order something for me&#44;<lb/> or use your influence in my favor&#44;<lb/> I shall be obliged to you.</p>
+
+          
+        </body>
+    </text>
+</TEI>

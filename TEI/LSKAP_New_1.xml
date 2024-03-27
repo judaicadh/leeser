@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI [
+<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
+%teibase;
+<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
+%teiext;
+]>
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>[no title given]</title>
+				<author attested="yes" accepted="yes" signature="unk">Illowy, Dr.</author>
+				<editor></editor>
+				<sponsor></sponsor>
+				<funder></funder>
+				<principal></principal>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition></edition>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</editionStmt>
+			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
+			<publicationStmt>
+				<publisher>Unpublished manuscript</publisher>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Not part of a series</p>
+			</seriesStmt>
+			<notesStmt>
+				<note></note>
+			</notesStmt>
+			<sourceDesc>
+				<biblStruct>
+					<!-- catalog entry goes here -->
+					<monogr>
+						<imprint>
+							<dateLet></dateLet>
+						</imprint>
+					</monogr>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<country>USA</country>
+						<region>PA</region>
+						<settlement>Philadelphia</settlement>
+						<institution></institution>
+						<repository>LSKAP</repository>
+						<collection>The Arnold and Deanne Kaplan Collection of Early American Judaica</collection>
+						<idno>LSKAP_New_1</idno>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+						<msName></msName>
+					</msIdentifier>
+					<head></head>
+					<letHeading>
+						<author attested="yes" accepted="yes" signature="unk">Illowy, Dr.</author>
+						<addressee editor="false" attested="yes" accepted="yes"></addressee>
+						<deliverer></deliverer>
+						<respStmt>
+							<resp></resp>
+							<name></name>
+						</respStmt>
+						<placeLet>New York, NY</placeLet>
+						<placeRec>Philadelphia, PA</placeRec>
+						<dateLet when="1865-02" source="" attested="yes">February 3, 1865</dateLet>
+						<dateLet when="1865-02" source="" attested="yes">Shevat 7, 5625</dateLet>
+					</letHeading>
+					<msContents>
+						<msItem>
+							<author></author>
+							<editor></editor>
+							<respStmt>
+								<resp></resp>
+								<name></name>
+							</respStmt>
+							<title></title>
+							<decoNote></decoNote>
+							<listBibl>
+								<bibl></bibl>
+							</listBibl>
+							<filiation></filiation>
+							<textLang></textLang>
+							<figure>
+								<graphic url="leeser_05_2011_kaplan_new_1.jpg"></graphic>
+							</figure>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support>
+									<material color="" lined="false" paper_type="" size="Letter">miscellany</material>
+								</support>
+								<extent>1 page on 1 sheet
+									<dimensions></dimensions>
+								</extent>
+								<foliation></foliation>
+								<collation></collation>
+								<condition fragment="false"></condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout></layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc script="typescript">
+							<handNote></handNote>
+						</handDesc>
+						<decoDesc>
+							<decoNote></decoNote>
+						</decoDesc>
+						<additions>Newspaper Clipping</additions>
+						<bindingDesc>
+							<binding>
+								<decoNote></decoNote>
+							</binding>
+						</bindingDesc>
+						<sealDesc>
+							<seal>
+								<p></p>
+							</seal>
+						</sealDesc>
+						<accMat></accMat>
+						<envDesc occ="false"></envDesc>
+					</physDesc>
+					<history>
+						<origin></origin>
+						<provenance></provenance>
+						<acquisition></acquisition>
+					</history>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source></source>
+								<change></change>
+							</recordHist>
+							<availability status="restricted">
+								<p>Restricted</p>
+							</availability>
+							<custodialHist>
+								<custEvent></custEvent>
+							</custodialHist>
+						</adminInfo>
+						<surrogates></surrogates>
+						<listBibl>
+							<bibl></bibl>
+						</listBibl>
+					</additional>
+					<msPart>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+					</msPart>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p></p>
+			</projectDesc>
+			<samplingDecl>
+				<p></p>
+			</samplingDecl>
+			<editorialDecl>
+				<correction>
+					<p></p>
+				</correction>
+				<normalization>
+					<p></p>
+				</normalization>
+				<quotation>
+					<p></p>
+				</quotation>
+				<hyphenation>
+					<p></p>
+				</hyphenation>
+				<segmentation>
+					<p></p>
+				</segmentation>
+				<stdVals>
+					<p></p>
+				</stdVals>
+				<interpretation>
+					<p></p>
+				</interpretation>
+			</editorialDecl>
+			<tagsDecl>
+				<rendition></rendition>
+				<namespace name="http://www.tei-c.org/ns/1.0">
+					<tagUsage gi=""></tagUsage>
+				</namespace>
+			</tagsDecl>
+			<refsDecl>
+				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
+			</refsDecl>
+			<refsDecl>
+				<refState unit=""/>
+			</refsDecl>
+			<classDecl>
+				<taxonomy>
+					<category>
+						<catDesc></catDesc>
+					</category>
+				</taxonomy>
+			</classDecl>
+			<appInfo>
+				<application ident="" version="">
+					<desc></desc>
+					<label></label>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<creation></creation>
+			<langUsage>
+				<language ident="en">English</language>
+				<language ident="he">Hebrew</language>
+			</langUsage>
+			<textClass>
+				<keywords scheme="unknown">
+					<list>
+						<item></item>
+						<item></item>
+					</list>
+				</keywords>
+				<classCode scheme=""></classCode>
+				<catRef/>
+			</textClass>
+		</profileDesc>
+		<revisionDesc>
+			<change></change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+				<p rend="align(center)">THE JEWISH MESSENGER.</p>
+				<p rend="align(center)"><placeName>NEW YORK</placeName>&#44; <date>SHEVAT 7&#44; 5625&#44; FEBRUARY 3&#44; 1865</date></p>
+				<p rend="align(center)"><placeName>Louisiana</placeName>.</p>
+			<p rend="indent(1)"><placeName>NEW ORLEANS</placeName>.&#8212;We have heretofore called attention to<lb/> the controversy agitating our co&#45;religionists at <placeName>New<lb/> Orleans</placeName> on the subject of the <emph rend="italics">Mohel</emph> who had been sus&#45;<lb/>pended from duty by <persName role="author">Dr. Illowy</persName>&#44; the Rabbi of the con&#45;<lb/>gregation.  It appears that the Doctor had been called<lb/> upon to retract his position&#44; and a communication had<lb/> been made to him by the officers of the congregation<lb/> with which <persName>Mr. Goldenberg</persName> was identified&#44; demanding a<lb/> withdrawal of his censure.  <persName role="author">Dr. Illowy</persName> requests us to<lb/> publish the following reply&#44; which he transmitted to this<lb/> request.  It is proper to say that his aciton is fully<lb/> endorsed by <persName>Rabbi Hirsch</persName>&#44; of <placeName>Frankfort</placeName>&#44; and other<lb/> high authorities.  We have already stated our convictions<lb/> that the Doctor&#39;s course was dictated by an earnest pur&#45;<lb/>pose of serving <placeName>Israel</placeName>&#44; and perpetuating the purity of<lb/> the rite of circumcision&#44; and was in accordance with<lb/> correct precedent&#58;</p>
+				<p>To the Gentlemen of the Committee from the Congregation<lb/> &#34;Shaaray Tefila&#44;&#34; in <placeName>New Orleans</placeName>&#58;</p>
+			<p rend="indent(1)">GENTLEMEN&#58;&#8212;I hereby most respectfully acknowledge<lb/> the receipt of your favor dated the <date>28th of December</date>&#44;<lb/> in which you request me&#44; by order of your congregation&#44;<lb/> to recall what I have publicly pronounced against <persName>Mr.<lb/> Goldenberg</persName>&#44; a member of your congregation.</p>
+			<p rend="indent(1)">Believe me&#44; gentlemen&#44; and the Almighty who seeth<lb/> into man&#39;s heart&#44; He alone knows it&#44; that I never felt<lb/> the least animosity against the person of <persName>Mr. G.</persName>&#44; and<lb/> would my conscience tell me that I have done him<lb/> wrong&#44; I would not hesitate a moment to ask his for&#45;<lb/>giveness&#44; and revoke my declaration&#44; but since I am per&#45;<lb/>fectly convinced that I have acted fully in accordance<lb/> with our sacred code&#44; I regret not being able to comply<lb/> with your desire.</p>
+			<p rend="indent(1)">I further beg leave&#44; gentlemen&#44; to state before you<lb/> the case in its true shape&#44; that you be better able to<lb/> judge whether that what I have done was in consistency<lb/> with duty&#44; law and justice&#44; or not.</p>
+			<p rend="indent(1)">It is very true&#44; as every one who is but slightly<lb/> acquainted with the Hebrew language&#44; without being a<lb/> theological scholar can read in <add>Hebrew</add>&#44; that the male<lb/> child of a non&#45;Israelitish mother can be admitted into<lb/> Judaism&#44; and brought into the covenant of <persName>Abraham</persName>&#59;<lb/> and there is no need to hear first the opinion of Euro&#45;<lb/>pean Rabbis about it&#59; every layman will know how<lb/> to decide this question.  It is&#44; however&#44; not to be over&#45;<lb/>looked that the admission of a child into Judaism is<lb/> subject&#44; like that of an adult to the condition that the<lb/> <add>Hebrew</add> must first be at least apparently convinced that there<lb/> is no other motive that impels the proselyte to embrace<lb/> Judaism than true and sincere conversion.</p>
+			<p rend="indent(1)">I have further to remark that&#44; though the law per&#45;<lb/>mits the proper authority to admit a non&#45;Israelite into<lb/> Judaism&#44; it is still not more than a permission granted<lb/> by the law&#59; by no means&#44; however&#44; can it be regarded<lb/> a <add>Hebrew</add>&#44; a religious duty enjoined upon us&#59; because ex<lb/>perience has shown that in all ages proselytes have done<lb/> Judaism more harm than good&#59; as <persName>Rabbi Chelbo</persName> says&#44; Yebamoth <add>Hebrew</add>&#44; &#34;Leprosy is<lb/> not so hurtful to the body&#44; as proselytes are to Juda&#45;<lb/>ism.&#34;  <persName>Rashy</persName> Nidah &#44; p. 11&#44; explains this passage with<lb/> the following words&#58; <add>Hebrew</add></p>
+			<p rend="indent(1)">On another place we read&#8212;<add>Hebrew</add>&#44; &#34;The<lb/> proselytes prevent the coming of the Messiah.&#34;  Niddah<lb/> p. 11.</p>
+			<p rend="indent(1)"><persName>Rabby Yitzchak</persName> said&#44; &#34;Misfortune after misfortune<lb/> shall befall those who admit non&#45;Israelites into Judaism.&#34;<lb/> <add>Hebrew</add><lb/> to which Tossephoth Yebamoth remarks&#58; &#34;Though it<lb/> seems to be a <add>Hebrew</add> to make proselytes&#44; for&#44; if otherwise<lb/> <persName>Yehoshua</persName> would not have made <persName>Rahab</persName> a Jewess&#44; and<lb/> likewise would <persName>Hillel</persName> not have complied with the desire<lb/> of two heathens&#44; to be made by him Israelites&#59; still&#44;<lb/> these are quite different cases.  <persName>Yehoshua</persName> knew from<lb/> the character of <persName>Rahab</persName>&#44; and so knew <persName>Hillel</persName> from the<lb/> character of the two heathens&#44; that they will one day be&#45;<lb/>come strict and faithful Jews&#34;&#8212;<lb/> <add>Hebrew</add></p>
+			<p rend="indent(1)">After these remarks&#44; allow me yet to add&#44; that we are&#44;<lb/> to our deepest regret&#44; sufficiently convinced that of all<lb/> these non&#45;Israelitish mothers in this city&#44; who consented<lb/> that their children be entered into the covenant of cir&#45;<lb/>cumcision&#44; there is not one that has done so from the<lb/> pure motive&#44; to see her child worship one day the One<lb/> only God of <placeName>Israel</placeName>&#44;&#8212;a religion which she herself denies<lb/> in word and deed&#58; but they did so to please the Jewish<lb/> grandparents or their Jewish husbands&#44; &#40;who themselves<lb/> have no other motive than that the children be entitled&#44;<lb/> in case of death&#44; to a piece of ground on the Jewish bu<lb/>rial place&#41;.  They would&#44; however&#44; not allow the <add>Hebrew</add> to<lb/> be applied to them&#59; though I explained to some of them<lb/> plainly that without the <add>Hebrew</add>&#44; a child of a non&#45;Israelitish<lb/> mother&#44; can by law never be regarded as a Jew&#44; though it<lb/> be circumcised&#59; it was nevertheless&#44; refused&#44; because they<lb/> do not want to have their children <sic>baptised</sic> as Jews.  They<lb/> consent sooner to have them circumcised than to be <add>Hebrew</add><lb/> <sic>baptised</sic> as Jews&#44; for in their religion&#44; the baptism is the<lb/> principal and most important act.</p>
+			<p rend="indent(1)">Now let us see what are the consequences of the cir&#45;<lb/>cumcision of these children&#44; &#40;of whom there are about<lb/> twelve in our city of different ages&#44; from five months up<lb/> to twelve years&#44; to whom <add>Hebrew</add> was never applied&#41;.  They<lb/> will pass as Jews&#44; because they are circumcised&#44; and<lb/> marry daughters of <placeName>Israel</placeName>&#44; though circumcision never<lb/> made them Israelites.  But&#44; more than this&#44; what must<lb/> be foreseen is&#44; that the children of these marriages will<lb/> be regarded by law as <add>Hebrew</add>&#44; of whom God says&#8212;<lb/> <add>Hebrew</add><lb/>  Using the expression <add>Hebrew</add>&#44; which may sound badly in<lb/> your ears&#44; I must refer to Talmud Yebamoth&#44; p. 46&#44;<lb/> where we read as follows&#58; &#34;<persName>Rabby Chiya</persName> came to the<lb/> city of <placeName>Gabla</placeName>&#44; there he saw several daughters of <placeName>Israel</placeName><lb/> married to proselytes&#44; who were circumcised&#44; but had<lb/> no <add>Hebrew</add>&#44; and when <persName>Rabby Yochanan</persName> heard of it&#44; he said<lb/> to him &#40;to <persName>Rabby Chiya</persName>&#41;&#44; go and call out in the syna&#45;<lb/>gogue that the children of these people are <add>Hebrew</add>&#44; who<lb/> are forbidden to come into the congregation of the<lb/> Lord.&#34;</p>
+			<p rend="indent(1)">And now allow me&#44; gents&#44; to ask you another ques&#45;<lb/>tion&#8212;what shall one day become of such children&#44; even<lb/> if they would have both <add>Hebrew</add> and <add>Hebrew</add>&#63;  Educated by a<lb/> Christian mother and an irreligious father&#44; who publicly<lb/> violates <date>sabbaths</date> and festivals&#44; and whose table is dese&#45;<lb/>crated by all kinds of forbidden food&#44; as it is the case<lb/> here&#44; which cannot be denied&#59; the mother goes to church<lb/> and the father has neither church nor synagogue&#59; in the<lb/> parental house&#44; the child can not perceive even a slight<lb/> tint of our religion&#44; no other <date>sabbath</date> than this of his<lb/> mother&#8212;the <date>Sunday</date>&#8212;for the father has no day of rest<lb/> at all&#44; neither on <date>Sabbath</date> nor on <date>Sunday</date>.  Be sincere&#44;<lb/> and say would it not be much better for those poor child&#45;<lb/>ren to let them be what their mothers are&#44; Christians&#44;<lb/> than convert them for appearance sake into Jews&#44; which<lb/> they will never be&#44; and enjoin upon them heavy duties&#44;<lb/> which&#44; as you yourselves know&#44; they will never fulfill&#63;&#8212;<lb/>Can there yet be anything more detrimental to the cause<lb/> of Judaism than to make such Jews&#63;</p>
+			<p rend="indent(1)"><persName>Mr. G.</persName> propounded simply the question before the dif&#45;<lb/>ferent <sic>rabbies</sic>&#44; whether the son of a non&#45;Israelitish mo&#45;<lb/>ther can be admitted to the covenant&#63;  Of course they<lb/> must answer in the affirmative.  But had <persName>Mr. G.</persName> stated<lb/> all the above mentioned circumstances&#44; then&#44; I am sure&#44;<lb/> that there is no such a man in this world&#44; who has only<lb/> a spark of justice and religious feeling in his heart&#44; that<lb/> can approve the admission of such children into Judaism&#44;<lb/> for we would only educate them as enemies to our reli&#45;<lb/>gion&#44; which last is far more respected by true Christians<lb/> than by irreligious Jews.  In vain would we inflict bodi&#45;<lb/>ly pain upon the poor creature&#44; and commit a grave of<lb/>fence against our holy religion&#44; morality&#44; justice&#44; and<lb/> humanity.</p>
+			<p rend="indent(1)">These&#44; gents&#44; are&#44; in short&#44; the reasons wherefore I<lb/> ordered the <add>Hebrew</add> not to circumcise in future children<lb/> of non&#45;Israelitish mothers&#44; but <persName>Mr. G.</persName>&#44; on account of his<lb/> circumcision fees&#44; &#40;for were it religious scruple&#44; he would<lb/> surely not go on <add>Hebrew</add> to auctions&#44; and would not arrange<lb/> a ball as he did on the eve of last <add>Hebrew</add>&#41;&#44; was not<lb/> satisfied&#44; and declared in a most insulting manner that<lb/> he has done so before&#44; and will in future&#44; in spite of rea&#45;<lb/>son and religion&#44; continue to do so&#59; and it is&#44; therefore&#44;<lb/> that I publicly declared him unfit for the holy office of<lb/> a <add>Hebrew</add>.</p>
+			<p rend="indent(1)">That I had the right to do so&#44; gentlemen&#44; I refer you<lb/> to <add>Hebrew</add>&#44; which reads as follows&#58;<lb/> <add>Hebrew</add><lb/> <add>Hebrew</add></p>
+			<p rend="indent(1)">Hoping that this letter will convince you that I acted<lb/> in obedience to my duties&#44;<lb/> I remain&#44; gentlemen&#44;<lb/> Most respectfully yours&#44;</p>
+				<p><persName role="author">Dr. ILLOWY</persName></p>
+				<p><placeName>New Orleans</placeName>&#44; <date>Dec. 29th&#44; 5625</date>.</p>
+		</body>
+	</text>
+</TEI>

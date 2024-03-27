@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI [
+<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
+%teibase;
+<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
+%teiext;
+]>
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>[no title given]</title>
+				<author attested="yes" accepted="yes" signature="yes">Rehine, Zalma</author>
+				<editor/>
+				<sponsor/>
+				<funder/>
+				<principal/>
+				<respStmt>
+					<resp/>
+					<name/>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition/>
+				<respStmt>
+					<resp/>
+					<name/>
+				</respStmt>
+			</editionStmt>
+			<extent>[information about file size goes here, information about extent of physical
+				item comes later]</extent>
+			<publicationStmt>
+				<publisher>Unpublished manuscript</publisher>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Not part of a series</p>
+			</seriesStmt>
+			<notesStmt>
+				<note/>
+			</notesStmt>
+			<sourceDesc>
+				<biblStruct>
+					<!-- catalog entry goes here -->
+					<monogr>
+						<imprint>
+							<dateLet/>
+						</imprint>
+					</monogr>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<country>USA</country>
+						<region>PA</region>
+						<settlement>Philadelphia</settlement>
+						<institution/>
+						<repository>LSKAP</repository>
+						<collection>The Arnold and Deanne Kaplan Collection of Early American Judaica</collection>
+						<idno>LSKAP0077_1</idno>
+						<altIdentifier>
+							<idno/>
+						</altIdentifier>
+						<msName/>
+					</msIdentifier>
+					<head/>
+					<letHeading>
+						<author attested="yes" accepted="yes" signature="yes">Rehine, Zalma</author>
+						<addressee editor="false" attested="yes" accepted="yes">Leeser,
+							Isaac</addressee>
+						<deliverer/>
+						<respStmt>
+							<resp/>
+							<name/>
+						</respStmt>
+						<placeLet>Baltimore, MD</placeLet>
+						<placeRec>Philadelphia, PA</placeRec>
+						<dateLet when="1835-11" source="" attested="yes">November 13, 1835</dateLet>
+					</letHeading>
+					<msContents>
+						<msItem>
+							<author/>
+							<editor/>
+							<respStmt>
+								<resp/>
+								<name/>
+							</respStmt>
+							<title/>
+							<decoNote/>
+							<listBibl>
+								<bibl/>
+							</listBibl>
+							<filiation/>
+							<textLang/>
+							<figure>
+								<graphic url=""/>
+							</figure>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support>
+									<material color="" lined="unk" paper_type="" size="">letter</material>letter
+								</support>
+								<extent>4 pages on 2 sheets <dimensions/>
+								</extent>
+								<foliation/>
+								<collation/>
+								<condition fragment="false"/>
+							</supportDesc>
+							<layoutDesc>
+								<layout/>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc script="manuscript">
+							<handNote/>
+						</handDesc>
+						<decoDesc>
+							<decoNote/>
+						</decoDesc>
+						<additions/>
+						<bindingDesc>
+							<binding>
+								<decoNote/>
+							</binding>
+						</bindingDesc>
+						<sealDesc>
+							<seal>
+								<p/>
+							</seal>
+						</sealDesc>
+						<accMat/>
+						<envDesc occ="false"/>
+					</physDesc>
+					<history>
+						<origin/>
+						<provenance/>
+						<acquisition/>
+					</history>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source/>
+								<change/>
+							</recordHist>
+							<availability status="restricted">
+								<p>Restricted</p>
+							</availability>
+							<custodialHist>
+								<custEvent/>
+							</custodialHist>
+						</adminInfo>
+						<surrogates/>
+						<listBibl>
+							<bibl/>
+						</listBibl>
+					</additional>
+					<msPart>
+						<altIdentifier>
+							<idno/>
+						</altIdentifier>
+					</msPart>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p/>
+			</projectDesc>
+			<samplingDecl>
+				<p/>
+			</samplingDecl>
+			<editorialDecl>
+				<correction>
+					<p/>
+				</correction>
+				<normalization>
+					<p/>
+				</normalization>
+				<quotation>
+					<p/>
+				</quotation>
+				<hyphenation>
+					<p/>
+				</hyphenation>
+				<segmentation>
+					<p/>
+				</segmentation>
+				<stdVals>
+					<p/>
+				</stdVals>
+				<interpretation>
+					<p/>
+				</interpretation>
+			</editorialDecl>
+			<tagsDecl>
+				<rendition/>
+				<namespace name="http://www.tei-c.org/ns/1.0">
+					<tagUsage gi=""/>
+				</namespace>
+			</tagsDecl>
+			<refsDecl>
+				<cRefPattern matchPattern="" replacementPattern=""/>
+			</refsDecl>
+			<refsDecl>
+				<refState unit=""/>
+			</refsDecl>
+			<classDecl>
+				<taxonomy>
+					<category>
+						<catDesc/>
+					</category>
+				</taxonomy>
+			</classDecl>
+			<appInfo>
+				<application ident="" version="">
+					<desc/>
+					<label/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<creation/>
+			<langUsage>
+				<language ident="en">English</language>
+				<language ident="he">Hebrew</language>
+			</langUsage>
+			<textClass>
+				<keywords scheme="unknown">
+					<list>
+						<item/>
+						<item/>
+					</list>
+				</keywords>
+				<classCode scheme=""/>
+				<catRef/>
+			</textClass>
+		</profileDesc>
+		<revisionDesc>
+			<change/>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<pb n="1R"/>
+			<p rend="indent(7)"><placeName>Baltimore</placeName>
+				<date>Novr 13th 1835</date></p>
+			<p>Dear <addressee>Isaac</addressee></p>
+			<p rend="indent(1)">As usual had nothing new to write I<lb/> did not answer your letters
+				nor have I<lb/> at present any thing interesting to say&#44;<lb/> but not having
+				wrote to you for a long<lb/> time I think you will <sic>lick</sic> to hear from<lb/>
+				me&#44; well you friend <persName>Mr Solis</persName> will have<lb/> told you we
+				were all well and that we<lb/> have done all in our power to make his<lb/> stay with
+				us as agreeable to him as<lb/> &#59;<sic>ossible</sic> we all were pleased with
+				him&#44;<lb/> in <sic>regaurd</sic> the wedding I say you acted<lb/> as if I should
+				have done my self&#44; nor<lb/> would I care if the <persName>Ettings</persName> and
+				the whole<lb/>
+				<add>Hebrew</add> were dissatisfied<lb/>
+				<add>Hebrew</add> ought not to have<lb/> performed&#44; he should have known that
+				to<lb/> take from you the performing was done<lb/> out of spite and on no other
+				acct. you<lb/> acted very right not to take any fee from<lb/>
+				<persName>Marx</persName>&#44; I hope your Congregation will<lb/> acknowledge you
+				acted right in all the proceeding&#44; <sic>buring</sic> and wedding&#44; your<lb/>
+				discourses are very good <persName>Philip Cohen</persName><lb/> has been reading one
+				of them is much<lb/> pleased with it I shall send them to<lb/> you soon&#44; we had
+				yesterday the.....<lb/> bration at Least good very gential<lb/> people attended all
+				very <sic>Quite</sic> we are<lb/> all thank God very well and all send
+					<sic>there</sic><lb/> love to you and remember us to all our</p>
+			<pb n="1V"/>
+			<p><sic>freinds</sic> tell <persName>Mrs Joseph</persName> she must let us<lb/> know
+				when she knows what give our Love to<lb/> her<lb/> I remain Your friend <persName
+					role="author">Zalma Rehine</persName><lb/> when <sic>appportunity</sic> offers
+				send me your last <sic>discours</sic></p>
+			<p rend="indent(2)">The revd <addressee>Isaac Leeser</addressee></p>
+			<p rend="indent(2)">No 86 Walnut Street</p>
+			<p rend="indent(2)"><placeName>Philadelphia</placeName></p>
+			<p rend="indent(4)">single</p>
+		</body>
+	</text>
+</TEI>

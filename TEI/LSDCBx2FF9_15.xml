@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI [
+<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
+%teibase;
+<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
+%teiext;
+]>
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>[no title given]</title>
+				<author attested="yes" accepted="yes" signature="yes">Henry, H. A.</author>
+				<editor></editor>
+				<sponsor></sponsor>
+				<funder></funder>
+				<principal></principal>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition></edition>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</editionStmt>
+			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
+			<publicationStmt>
+				<publisher>Unpublished manuscript</publisher>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Not part of a series</p>
+			</seriesStmt>
+			<notesStmt>
+				<note></note>
+			</notesStmt>
+			<sourceDesc>
+				<biblStruct>
+					<!-- catalog entry goes here -->
+					<monogr>
+						<imprint>
+							<dateLet></dateLet>
+						</imprint>
+					</monogr>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<country>USA</country>
+						<region>PA</region>
+						<settlement>Philadelphia</settlement>
+						<institution></institution>
+						<repository>CAJS Isaac Leeser Collection</repository>
+						<collection>The Library of the Dropsie College for Hebrew and Cognate Learning</collection>
+						<idno>LSDCBx2FF9_15</idno>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+						<msName></msName>
+					</msIdentifier>
+					<head></head>
+					<letHeading>
+						<author attested="yes" accepted="yes" signature="yes">Henry, H. A.</author>
+						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac, Rev.</addressee>
+						<deliverer></deliverer>
+						<respStmt>
+							<resp></resp>
+							<name></name>
+						</respStmt>
+						<placeLet>San Francisco, CA</placeLet>
+						<placeRec>Philadelphia, PA</placeRec>
+						<dateLet when="1862-06" source="" attested="yes">10 June 1862</dateLet>
+					</letHeading>
+					<msContents>
+						<msItem>
+							<author></author>
+							<editor></editor>
+							<respStmt>
+								<resp></resp>
+								<name></name>
+							</respStmt>
+							<title></title>
+							<decoNote></decoNote>
+							<listBibl>
+								<bibl></bibl>
+							</listBibl>
+							<filiation></filiation>
+							<textLang></textLang>
+							<figure>
+								<graphic url="ilcajs_b2f9_0015_1r.jpg"></graphic>
+								<graphic url="ilcajs_b2f9_0015_1v.jpg"></graphic>
+								<graphic url="ilcajs_b2f9_0015_2r.jpg"></graphic>
+								<graphic url="ilcajs_b2f9_0015_2v.jpg"></graphic>
+								<graphic url="ilcajs_b2f9_0015_3r.jpg"></graphic>
+								<graphic url="ilcajs_b2f9_0015_3v.jpg"></graphic>
+							</figure>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support>
+									<material color="" lined="true" paper_type="" size="Letter">letter</material>
+								</support>
+								<extent>6 pages on 3 sheets
+									<dimensions></dimensions>
+								</extent>
+								<foliation></foliation>
+								<collation></collation>
+								<condition fragment="false"></condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout></layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc script="manuscript">
+							<handNote></handNote>
+						</handDesc>
+						<decoDesc>
+							<decoNote></decoNote>
+						</decoDesc>
+						<additions></additions>
+						<bindingDesc>
+							<binding>
+								<decoNote></decoNote>
+							</binding>
+						</bindingDesc>
+						<sealDesc>
+							<seal>
+								<p></p>
+							</seal>
+						</sealDesc>
+						<accMat></accMat>
+						<envDesc occ="false"></envDesc>
+					</physDesc>
+					<history>
+						<origin></origin>
+						<provenance></provenance>
+						<acquisition></acquisition>
+					</history>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source></source>
+								<change></change>
+							</recordHist>
+							<availability status="free">
+								<p>Unrestricted</p>
+							</availability>
+							<custodialHist>
+								<custEvent></custEvent>
+							</custodialHist>
+						</adminInfo>
+						<surrogates></surrogates>
+						<listBibl>
+							<bibl></bibl>
+						</listBibl>
+					</additional>
+					<msPart>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+					</msPart>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p></p>
+			</projectDesc>
+			<samplingDecl>
+				<p></p>
+			</samplingDecl>
+			<editorialDecl>
+				<correction>
+					<p></p>
+				</correction>
+				<normalization>
+					<p></p>
+				</normalization>
+				<quotation>
+					<p></p>
+				</quotation>
+				<hyphenation>
+					<p></p>
+				</hyphenation>
+				<segmentation>
+					<p></p>
+				</segmentation>
+				<stdVals>
+					<p></p>
+				</stdVals>
+				<interpretation>
+					<p></p>
+				</interpretation>
+			</editorialDecl>
+			<tagsDecl>
+				<rendition></rendition>
+				<namespace name="http://www.tei-c.org/ns/1.0">
+					<tagUsage gi=""></tagUsage>
+				</namespace>
+			</tagsDecl>
+			<refsDecl>
+				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
+			</refsDecl>
+			<refsDecl>
+				<refState unit=""/>
+			</refsDecl>
+			<classDecl>
+				<taxonomy>
+					<category>
+						<catDesc></catDesc>
+					</category>
+				</taxonomy>
+			</classDecl>
+			<appInfo>
+				<application ident="" version="">
+					<desc></desc>
+					<label></label>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<creation></creation>
+			<langUsage>
+				<language ident="en">English</language>
+			</langUsage>
+			<textClass>
+				<keywords scheme="unknown">
+					<list>
+						<item></item>
+						<item></item>
+					</list>
+				</keywords>
+				<classCode scheme=""></classCode>
+				<catRef/>
+			</textClass>
+		</profileDesc>
+		<revisionDesc>
+			<change></change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<pb n="1"/>
+				<p rend="align(right)"><placeName>San Francisco</placeName> <date>June 10<hi rend="sup">th</hi> 1862</date></p>
+				<p><addressee>Revd Isaac Leeser</addressee></p>
+			<p rend="indent(1)">Dr Sir</p>
+			<p rend="indent(2)">You must not think me<lb/> neglectful in not having written to you before<lb/> this.  Many things at times prevent me from <lb/>writing at the time and then it passes over.<lb/>  No doubt ere this you have received a Letter<lb/> from <persName>Mr Myers</persName> and with it the receipt signed<lb/> by me of the Books he placed in my possession<lb/> on sale for you.  I shall try and do my best<lb/> to dispose of them for you.  The prices here are<lb/> too high there are so few buyers&#44; please let<lb/> me know positively the lowest price at which<lb/> I may sell&#44; so that I can act safely and I<lb/> will do all I can.  I hope you received my<lb/> parcel by <persName>Rabbi Nissan</persName> if you can send me<lb/> any more of the Back Nos for which I wrote<lb/> you will oblige me&#44; at the same time have<lb/> you any whole <hi rend="underline">Nos</hi> as 1&#45;2&#45;3&#45;4&#45;5&#45;6&#45;7&#45;8<lb/> I have none of these Vols. I should like to have<lb/> them either bound or unbound I shall then<lb/> be the only <hi rend="underline">one</hi> in the <placeName>Pacific Coast</placeName> who will<lb/> have a regular file of them.  Of course I will</p>
+			<pb n="2"/>
+				<p>pay for them.  Please let me know what I<lb/> owe you up to the present&#44; and I will hand<lb/> it to <persName>Mr Myers</persName> to whom I have spoken on<lb/> the subject.  Religious matters here are of<lb/> no importance&#44; all is quiet.  Your <date>April</date> <hi rend="underline">No</hi><lb/> caused a great consternation among a certain<lb/> class who were delighted to find that these acts<lb/> were made known to the world&#44; altho&#39; they are<lb/> not able to prevent them of course the Gleaner<lb/> has its supporters as there are so many<lb/> who will do wrong in spite of every thing<lb/> you will no doubt see how the Gleaner<lb/> answers for itself.  Not one thing satisfactory<lb/> because as you know <add>Hebrew</add><lb/> still we must do our duty.  The Letter<lb/> which he inserts is from one of the ladies<lb/> whom I refused to marry.  I have no<lb/> doubt that the Gleaner managed this<lb/> matter to be <add>&#63;</add> <add>Hebrew</add><lb/> but the truth was not stated therein and<lb/> if even all was true&#44; what right had<lb/> <persName>Dr Eckman</persName> to marry her.  He certainly does<lb/> not think I am greater than he is to act<lb/> in opposition to a Law because I or<lb/> any man ventures an opinion&#44; which you<lb/> yourself can see how he shirks the question.</p>
+			<pb n="3"/>
+				<p>Many here surmise that I inform you of<lb/> all that passes&#8212;but I do not wish my name<lb/> to appear for many reasons&#8212;especially as<lb/> some of my members and other of the <add>Hebrew</add><lb/> are friends to the Gleaner&#44; and have pity on the poor old man as they call him x<lb/> that encourages him in all his doings&#8212;<lb/> I shall still inform you of all that passes<lb/> because I do think that ultimately by so<lb/> doing we shall in time affect some good<lb/>  In the pulpit I speak of these things fearlessly<lb/> I will send you a sermon I preached on<lb/> the <date>1<hi rend="sup">st</hi></date> day <add>Hebrew</add> by which you will see<lb/> that I do as I say and act upon the principle<lb/> <add>Hebrew</add>.  <persName>Eckman</persName> does all he can to<lb/> injure me in the minds of the people as<lb/> my Election is only from year to year but<lb/> I tell my folks that my <add>Hebrew</add> is in God x<lb/> not in man&#44; even the Reformers hold<lb/> me in respect altho&#39; I tell them of their<lb/> wrongs.  <sic>even</sic> <persName>Dr Cohn</persName> will not do such<lb/> things as these men do.  He works hard with<lb/> me to get the people to keep <add>Hebrew</add> .  I have<lb/> succeeded in one or two instances and I hope<lb/> in time we shall do more&#8212;but it is very difficult<lb/> the Dollars &#38; cents are the main thing with<lb/> our people here&#8212;still we must do our duty</p>
+			<pb n="4"/>
+				<p>I must give you Credit for the very able<lb/> note you appended to the article &#38;<lb/> I can assure you that all the <add>Hebrew</add><lb/> here were pleased with it in the<lb/> hope that we may be <add>Hebrew</add></p>
+				<p rend="align(center)"><add>Hebrew</add></p>
+				<p>some people here think that we should not<lb/> publish such matters as it brings us into<lb/> disrepute before the world and exposes<lb/> our religion to ridicule&#44; they say better let<lb/> us chose between the two evils&#44; and they<lb/> think that the &#8220;<hi rend="underline">wrong doings</hi>&#8221; is the lesser<lb/> evil.  I tell them plainly I differ from<lb/> them entirely upon the principle</p>
+				<p rend="align(center)">&#8220;<add>Hebrew</add>&#8221;</p>
+				<p>and I feel assured that you think with<lb/> me in this respect and I should be pleased<lb/> if you think well of it to publish your<lb/> sentiments on the subject I will keep<lb/> you posted on all matters of any interest<lb/> Both congregations were well attended in<lb/> <add>Hebrew</add>.  I am told that <persName>Dr Cohn</persName> delivered a<lb/> very impressive sermon in confirming a<lb/> number of Boys and Girls upon the new System<lb/> in the Reform World.  My sermon I will send<lb/> you and judge for yourself my folks were very much<lb/> pleased.  We had a Boy <add>Hebrew</add> on the <date>2<hi rend="sup">nd</hi></date> day of</p>
+			<pb n="5"/>
+				<p rend="align(right)">&#47;5</p>
+				<p><add>Hebrew</add>.  And read the <add>Hebrew</add> in the<lb/> old Orthodox Style to a crowded auditory<lb/> which gave great satisfaction.  I still and<lb/> will adhere to our good old times and<lb/> will suffer no innovation&#44; and I am happy<lb/> to say that with few exceptions my <add>Hebrew</add><lb/> support me in this respect&#44; altho&#39; at<lb/> times I have to go into the Battle field<lb/> but I will and do not flinch.  The Gleaner<lb/> being the only Jewish Organ here sometimes<lb/> rouses up one or two who go abroad<lb/> and say this is old and out of tune and<lb/> that causes mischief.  I heed them not<lb/> and when I reason with them they are<lb/> silenced.  I am so far fortunate that the<lb/> Board of Trustees tho&#39; individually not<lb/> very ultra Orthodox yet they will not allow<lb/> any one to interfere with me in the synagogue<lb/> service&#44; at the head of them is our <add>Hebrew</add><lb/> an Englishman who has held office for<lb/> many years who is really a stanch <add>Hebrew</add><lb/> and who never neglects to be in<lb/> <add>Hebrew</add> whenever service is performed<lb/> our <add>Hebrew</add> is opened every <add>Hebrew</add> and<lb/> three times an <add>Hebrew</add> and there you find<lb/> the <add>Hebrew</add> at his port and this has a</p>
+			<pb n="6"/>
+				<p>powerful influence with the congregation<lb/> in general when they see the President<lb/> setting the good example the old adage<lb/> &#8220;<add>Hebrew</add>&#8221;<lb/>  The charitable Institutions among us<lb/> are flourishing and do much good<lb/> the people are certainly ready at all times<lb/> to dispense charity and that too liberally.<lb/>  I believe now my dear sir I have<lb/> exhausted all my sources of information<lb/> and I hope I have not exhausted<lb/> your patience to read my long epistle<lb/> but I suppose you are like me at<lb/> times glad to get something fresh from<lb/> abroad however trifling</p>
+				<p>I leave you now in the hope that<lb/> this will reach you in health of mind<lb/> and Body and expect to hear from<lb/> you soon</p>
+			<p rend="indent(8)">Believe me</p>
+			<p rend="indent(8)">Yours truly</p>
+			<p rend="indent(8)"><persName role="author">H. A. Henry</persName></p>
+		</body>
+	</text>
+</TEI>

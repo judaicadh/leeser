@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI [
+<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
+%teibase;
+<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
+%teiext;
+]>
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>[no title given]</title>
+				<author attested="yes" accepted="yes" signature="yes">Behrend, B.</author>
+				<editor></editor>
+				<sponsor></sponsor>
+				<funder></funder>
+				<principal></principal>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition></edition>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</editionStmt>
+			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
+			<publicationStmt>
+				<publisher>Unpublished manuscript</publisher>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Not part of a series</p>
+			</seriesStmt>
+			<notesStmt>
+				<note></note>
+			</notesStmt>
+			<sourceDesc>
+				<biblStruct>
+					<!-- catalog entry goes here -->
+					<monogr>
+						<imprint>
+							<dateLet></dateLet>
+						</imprint>
+					</monogr>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<country>USA</country>
+						<region>PA</region>
+						<settlement>Philadelphia</settlement>
+						<institution></institution>
+						<repository>CAJS Isaac Leeser Collection</repository>
+						<collection>The Library of the Dropsie College for Hebrew and Cognate Learning</collection>
+						<idno>LSDCBx9FF16_8</idno>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+						<msName></msName>
+					</msIdentifier>
+					<head></head>
+					<letHeading>
+						<author attested="yes" accepted="yes" signature="yes">Behrend, B.</author>
+						<addressee editor="false" attested="yes" accepted="yes"></addressee>
+						<deliverer></deliverer>
+						<respStmt>
+							<resp></resp>
+							<name></name>
+						</respStmt>
+						<placeLet>Narrowsburg, NY</placeLet>
+						<placeRec>Philadelphia, PA</placeRec>
+						<dateLet when="1858-02" source="" attested="yes">19 February 1858</dateLet>
+					</letHeading>
+					<msContents>
+						<msItem>
+							<author></author>
+							<editor></editor>
+							<respStmt>
+								<resp></resp>
+								<name></name>
+							</respStmt>
+							<title></title>
+							<decoNote></decoNote>
+							<listBibl>
+								<bibl></bibl>
+							</listBibl>
+							<filiation></filiation>
+							<textLang></textLang>
+							<figure>
+								<graphic url="ilcajs_b9f16_0008_1r.jpg"/>
+								<graphic url="ilcajs_b9f16_0008_1v.jpg"/>
+								<graphic url="ilcajs_b9f16_0008_2r.jpg"/>
+							</figure>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support>
+									<material color="" lined="unk" paper_type="" size="Legal">letter</material>
+								</support>
+								<extent>3 pages on 2 sheets
+									<dimensions></dimensions>
+								</extent>
+								<foliation></foliation>
+								<collation></collation>
+								<condition fragment="false"></condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout></layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc script="manuscript">
+							<handNote></handNote>
+						</handDesc>
+						<decoDesc>
+							<decoNote></decoNote>
+						</decoDesc>
+						<additions></additions>
+						<bindingDesc>
+							<binding>
+								<decoNote></decoNote>
+							</binding>
+						</bindingDesc>
+						<sealDesc>
+							<seal>
+								<p></p>
+							</seal>
+						</sealDesc>
+						<accMat></accMat>
+						<envDesc occ="false"></envDesc>
+					</physDesc>
+					<history>
+						<origin></origin>
+						<provenance></provenance>
+						<acquisition></acquisition>
+					</history>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source></source>
+								<change></change>
+							</recordHist>
+							<availability status="free">
+								<p>Unrestricted</p>
+							</availability>
+							<custodialHist>
+								<custEvent></custEvent>
+							</custodialHist>
+						</adminInfo>
+						<surrogates></surrogates>
+						<listBibl>
+							<bibl></bibl>
+						</listBibl>
+					</additional>
+					<msPart>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+					</msPart>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p></p>
+			</projectDesc>
+			<samplingDecl>
+				<p></p>
+			</samplingDecl>
+			<editorialDecl>
+				<correction>
+					<p></p>
+				</correction>
+				<normalization>
+					<p></p>
+				</normalization>
+				<quotation>
+					<p></p>
+				</quotation>
+				<hyphenation>
+					<p></p>
+				</hyphenation>
+				<segmentation>
+					<p></p>
+				</segmentation>
+				<stdVals>
+					<p></p>
+				</stdVals>
+				<interpretation>
+					<p></p>
+				</interpretation>
+			</editorialDecl>
+			<tagsDecl>
+				<rendition></rendition>
+				<namespace name="http://www.tei-c.org/ns/1.0">
+					<tagUsage gi=""></tagUsage>
+				</namespace>
+			</tagsDecl>
+			<refsDecl>
+				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
+			</refsDecl>
+			<refsDecl>
+				<refState unit=""/>
+			</refsDecl>
+			<classDecl>
+				<taxonomy>
+					<category>
+						<catDesc></catDesc>
+					</category>
+				</taxonomy>
+			</classDecl>
+			<appInfo>
+				<application ident="" version="">
+					<desc></desc>
+					<label></label>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<creation></creation>
+			<langUsage>
+				<language ident="de">German</language>
+			</langUsage>
+			<textClass>
+				<keywords scheme="unknown">
+					<list>
+						<item></item>
+						<item></item>
+					</list>
+				</keywords>
+				<classCode scheme=""></classCode>
+				<catRef/>
+			</textClass>
+		</profileDesc>
+		<revisionDesc>
+			<change></change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<pb n="1"/>
+				<p rend="align(right)"><placeName>Narrowsburg N. Y.</placeName> <date>19 <sic>febr</sic> 1858</date></p>
+			<p rend="indent(1)">Hochgeehrtester Herr</p>
+				<p>Sie waren so g&#252;tig wir Ihr Monatsheft <add>&#63;</add> zukommen zu lassen&#44;<lb/> wof&#252;r ich hiermit meinen verbindlichsten dank abstatte.  Ja den Arti<add>&#63;</add>e<lb/> The press &#38; the pulpit machen Sie Ihrem G<add>&#63;</add> Luft und entsprechen hierdurch<lb/> ganz der Verschrift des alten Weisen <add>Hebrew</add>&#8212;Alles was Sie<lb/> darein &#252;ber die jetzigen Zeitverf&#228;lteisse<add>&#63;</add> sagen ist durchaus richtig und<lb/> kann ich dem nur beipflichten.  Was die j&#252;dische Presse anbetrifft&#58; so<lb/> brachtet dieselbe meiner Meinung nach zu wenig das <hi rend="underline">wesentliche</hi> das<lb/> Judenthums&#44; gehat vielmehr darum herum wie die <add>&#63;</add>atze um den <add>&#63;</add><lb/> Brei&#44; und streitet zuviel &#252;ber das <hi rend="underline">unwesentliche</hi> text die E<add>&#63;</add><lb/> des Judenthums.  Ich spreche hier nicht von den Prinzipien der Judenthums<lb/> von der allgemeinen Menschen&#61;Religion welche darin <sic>involvirt</sic> ist&#59; sondern<lb/> wenn ich vom <hi rend="underline">wesentlichen</hi> des <hi rend="underline">Judenthums</hi> spreche&#44; so meine ich das jenige<lb/> wodurch sich unser religi&#246;se Gesellschaft von allen andern religi&#246;sen<lb/> Gesellschaften auszeichnet&#44; welches ich des sprei<add>&#63;</add> Judenthum <add>&#63;</add>&#59; so<lb/> z. B. rechen ich hierzu&#44; <add>Hebrew</add>&#59; das <sic>auschauen</sic> der <add>Hebrew</add>&#59; <add>Hebrew</add>&#59; <add>Hebrew</add>&#59; die<lb/> verbotenen &#38; gebotenen Speisen&#44; <add>Hebrew</add>&#44; <add>Hebrew</add>&#59; <add>Hebrew</add>&#8212;<lb/> Wir die <sic>ortodoxen</sic> Juden die wir nicht glauben&#44; sondern wissen und<lb/> wissen k&#246;nnen&#44; das der Zwe<add>&#63;</add> das Judenthums <hi rend="underline">nur</hi> durch die strikte<lb/> Erfolgung dieser Vorschriften&#44; Verordnungen &#38; Gesetze&#44; erreicht werden<lb/> kann&#44; wir seid verantwortlich daf&#252;r&#59; wenn wir <hi rend="underline">dadurch</hi>&#59; das wir auf<lb/> den Second&#228;ren zuviel Werth lagen&#44; die Masse dazu verleiten&#44; das<lb/> <hi rend="underline">Wesentliche</hi> als selbstferst&#228;ntlich unerselblich <hi rend="underline">nicht</hi> zu beachten oder wir es heutzutage als<lb/> eine allgem<add>&#63;</add> Redensart zufolge bekannt ist&#44; als nicht zeitgem&#228;&#223;<lb/> bei Seite zu schieben.  Brechen wir al von diese Thema und erlaube<lb/> Sie mir zum Ganztzwek<add>&#63;</add> meines heutigen Schreibens zu schreiten.<lb/>  Sie sagen auf Seite 26 das Occidents bei &#39;in Se<add>&#63;</add> der Artik the press &#38; the pulpit&#44;<lb/> nochdem Sie vorher Ihr Anathema &#252;ber die Tagesliteratur auszu&#45;<lb/>sprechen hatten &#8220;But let us beg the faithful &#38; sei bis zum Euch.  Hiernach<lb/> m&#246;chten ich Sie ganz ergebenst fragen&#59; zu welcher Klasse der Tages<lb/> Litteratur rechene Sie meine Brosch&#252;re <add>&#63;</add>holem&#63;  Nach meiner<lb/> meing</p>
+			<pb n="2"/>
+				<p>Meinung ist d<add>&#63;</add> nicht allein die h<add>&#63;</add>ung auf die Lehren unsere weise<lb/> Vorfahren&#44; sondern auch die Erst&#228;tigung und Ert&#228;uterung derselben enthalten und<lb/> ist <add>&#63;</add> nach meine Meinung&#44; in dieser <add>&#63;</add> Brosch&#252;re die <add>&#63;</add> enthalten<lb/> woauf zustutzt&#59; durch dieselbe die ganze jetzige sogem<add>&#63;</add> zeitgem&#228;&#223;e<lb/> j&#252;dische Litteratur welche so stark mit r&#246;misch&#61;und griechisch&#61;heidnische<lb/> Auschanungen ausgesch&#252;<add>&#63;</add> ist&#44; leicht zerst&#246;rt werden kann.  Gaben<lb/> Sie aber etwas darinn<add>&#63;</add> gefunden was der <sic>Fernunft</sic> oder dem <sic>ortodoxen</sic><lb/> Judenthum widerspricht&#63;  Jedenfalls d&#252;rfen Sie nicht <add>&#63;</add> dar&#252;ber<lb/> schweizen.  Ihr Beifall w&#252;rde allerdings sehr er<add>&#63;</add> f&#252;r mich<lb/> sein&#44; aber ich werde auch mit Vergangen Ihren <sic>motivirten</sic> gerechten<lb/> Ta<add>&#63;</add> entgegen nehmen.  Ich habe es f&#252;r nothwendig erachtet auch<lb/> eine beweisf&#228;hrend<add>&#63;</add> Abhandlung geen die Materialisten zuschreibe&#44;<lb/> f&#252;r den Glauben an meine Gott&#59; welche demn&#228;chst als ein Nachtrag<lb/> zur Brosch&#252;re <placeName>Jerusalem</placeName> diener soll.  Ich &#252;berreiche Ihnen<lb/> einliegend eine Abschrift davon und bitte Sie auch <add>&#63;</add> Ihre <add>&#63;</add><lb/> zu unterwerfen.  Ihre schriftliche Antwort mit Verg<add>&#63;</add> entgeg<lb/>sehen z<add>&#63;</add> ich mit vollko<add>&#63;</add> Hochachten</p>
+			<p rend="indent(9)">Ihr erge<add>&#63;</add> <add>&#63;</add></p>
+			<p rend="indent(9)"><persName role="author">B. Behrend</persName></p>
+				<p>Nachschrift</p>
+				<p>Ich erkenne die Sentenz <add>Hebrew</add> also eine Wahrheit an&#44;<lb/> aber auch nicht minder die Sentenz <add>Hebrew</add>.&#8212;Die Letztere ver<lb/>anlasst mich das ich mich jetzt ausnahmsweise gegen die Erstere vers&#252;n&#61;<lb/>tige.  Ich wiederhole daher hiermit das ich Sie f&#252;r moralisch vergfluhtet<lb/> halte&#44; meine Brosch&#252;re <placeName>Jerusalem</placeName> zu pr&#252;fen&#44; und wenn Sie Ihrer Meinung<lb/> auch darin meine Fehler finden mich sofort daran in <add>&#63;</add> setzen zu<lb/> mussen.  Diese Broschur <placeName>Jerusalem</placeName> als auch mich bereisf&#252;hrends Abhandlung<lb/> welche auf diese Brosch&#252;re gest<add>&#63;</add>&#59; sind in religi&#246;s be<add>&#63;</add> die <sic>wuchtigter</sic><add>&#63;</add><lb/> documente welche seit <date>1800</date> erschien sind zu z&#228;hlen.  W&#228;re ich kein<lb/> <add>&#63;</add> sondern h&#228;tte die Macht in deren Besitz Sie sich befinden <sic>nemlich</sic><lb/> die Presse und den Lehrstuhl&#33;  Ja w&#252;rde das Schu<add>&#63;</add> es mir gestalten</p>
+			<pb n="3"/>
+				<p>den Juden einer Stadt wie z. b. <placeName>Philadelphia</placeName> ist nur 2 <sic>Monathe</sic> &#246;ffent&#45;<lb/>lichen Religions Unterricht mitzutheilen&#58; so sollten wenigstens die ge&#61;<lb/>setz&#252;bertentungen <add>Hebrew</add> g&#228;nzlich verschwinden.  Ich w&#252;rde bei die<lb/> Lehre kein ander B&#252;cher ben&#252;tzen wir&#44; <add>Hebrew</add> uns als <add>&#63;</add>werke<lb/> Natur &#38; Weltgeschichte.  Um wie viel mehr aber w&#252;rde Sie <add>&#63;</add>ten<lb/> k&#246;nnen <add>&#63;</add> Sie mir in <add>&#63;</add> Wissenschaft so sehr &#252;berlgens sind.<lb/>  Ja mein sehr geachteter &#38; hochgesch&#228;tzte <persName>Herr Leeser</persName> machen Sie sich ge&#44;<lb/>f&#228;lligst bekannt mit den Ideen welche in der Brosch&#252;r <add>&#63;</add> ent<lb/>wikelt sind und Sie werden im Stunde sein den Ausspruch welchen<lb/> Sie in der Artickel <placeName>Palestine</placeName> Occident <add>Hebrew</add> Mit 551 gemacht haben<lb/> &#8220;but we really are at present unable to devise a remedy&#59;&#8221; zuviel<lb/> zu nehmen. <hi rend="indent(2)"><persName role="author">B.</persName></hi></p>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI [
+<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
+%teibase;
+<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
+%teiext;
+]>
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>[no title given]</title>
+				<author attested="yes" accepted="yes" signature="yes">Rehine, Zalma</author>
+				<editor/>
+				<sponsor/>
+				<funder/>
+				<principal/>
+				<respStmt>
+					<resp/>
+					<name/>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition/>
+				<respStmt>
+					<resp/>
+					<name/>
+				</respStmt>
+			</editionStmt>
+			<extent>[information about file size goes here, information about extent of physical
+				item comes later]</extent>
+			<publicationStmt>
+				<publisher>Unpublished manuscript</publisher>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Not part of a series</p>
+			</seriesStmt>
+			<notesStmt>
+				<note/>
+			</notesStmt>
+			<sourceDesc>
+				<biblStruct>
+					<!-- catalog entry goes here -->
+					<monogr>
+						<imprint>
+							<dateLet/>
+						</imprint>
+					</monogr>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<country>USA</country>
+						<region>PA</region>
+						<settlement>Philadelphia</settlement>
+						<institution/>
+						<repository>LSKAP</repository>
+						<collection>The Arnold and Deanne Kaplan Collection of Early American Judaica</collection>
+						<idno>LSKAP0079_1</idno>
+						<altIdentifier>
+							<idno/>
+						</altIdentifier>
+						<msName/>
+					</msIdentifier>
+					<head/>
+					<letHeading>
+						<author attested="yes" accepted="yes" signature="yes">Rehine, Zalma</author>
+						<addressee editor="false" attested="yes" accepted="yes">Leeser,
+							Isaac</addressee>
+						<deliverer/>
+						<respStmt>
+							<resp/>
+							<name/>
+						</respStmt>
+						<placeLet>Warrenton, DC</placeLet>
+						<placeRec>Philadelphia, PA</placeRec>
+						<dateLet when="1839-06" source="" attested="yes">June 24 1839</dateLet>
+					</letHeading>
+					<msContents>
+						<msItem>
+							<author/>
+							<editor/>
+							<respStmt>
+								<resp/>
+								<name/>
+							</respStmt>
+							<title/>
+							<decoNote/>
+							<listBibl>
+								<bibl/>
+							</listBibl>
+							<filiation/>
+							<textLang/>
+							<figure>
+								<graphic url=""/>
+							</figure>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support>
+									<material color="" lined="unk" paper_type="" size="">letter</material>letter
+								</support>
+								<extent>4 pages on 2 sheets <dimensions/>
+								</extent>
+								<foliation/>
+								<collation/>
+								<condition fragment="false"/>
+							</supportDesc>
+							<layoutDesc>
+								<layout/>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc script="manuscript">
+							<handNote/>
+						</handDesc>
+						<decoDesc>
+							<decoNote/>
+						</decoDesc>
+						<additions/>
+						<bindingDesc>
+							<binding>
+								<decoNote/>
+							</binding>
+						</bindingDesc>
+						<sealDesc>
+							<seal>
+								<p/>
+							</seal>
+						</sealDesc>
+						<accMat/>
+						<envDesc occ="false"/>
+					</physDesc>
+					<history>
+						<origin/>
+						<provenance/>
+						<acquisition/>
+					</history>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source/>
+								<change/>
+							</recordHist>
+							<availability status="restricted">
+								<p>Restricted</p>
+							</availability>
+							<custodialHist>
+								<custEvent/>
+							</custodialHist>
+						</adminInfo>
+						<surrogates/>
+						<listBibl>
+							<bibl/>
+						</listBibl>
+					</additional>
+					<msPart>
+						<altIdentifier>
+							<idno/>
+						</altIdentifier>
+					</msPart>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p/>
+			</projectDesc>
+			<samplingDecl>
+				<p/>
+			</samplingDecl>
+			<editorialDecl>
+				<correction>
+					<p/>
+				</correction>
+				<normalization>
+					<p/>
+				</normalization>
+				<quotation>
+					<p/>
+				</quotation>
+				<hyphenation>
+					<p/>
+				</hyphenation>
+				<segmentation>
+					<p/>
+				</segmentation>
+				<stdVals>
+					<p/>
+				</stdVals>
+				<interpretation>
+					<p/>
+				</interpretation>
+			</editorialDecl>
+			<tagsDecl>
+				<rendition/>
+				<namespace name="http://www.tei-c.org/ns/1.0">
+					<tagUsage gi=""/>
+				</namespace>
+			</tagsDecl>
+			<refsDecl>
+				<cRefPattern matchPattern="" replacementPattern=""/>
+			</refsDecl>
+			<refsDecl>
+				<refState unit=""/>
+			</refsDecl>
+			<classDecl>
+				<taxonomy>
+					<category>
+						<catDesc/>
+					</category>
+				</taxonomy>
+			</classDecl>
+			<appInfo>
+				<application ident="" version="">
+					<desc/>
+					<label/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<creation/>
+			<langUsage>
+				<language ident="en">English</language>
+				<language ident="he">Hebrew</language>
+			</langUsage>
+			<textClass>
+				<keywords scheme="unknown">
+					<list>
+						<item/>
+						<item/>
+					</list>
+				</keywords>
+				<classCode scheme=""/>
+				<catRef/>
+			</textClass>
+		</profileDesc>
+		<revisionDesc>
+			<change/>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<pb n="1R"/>
+			<p rend="align(center)"><placeName>Warrenton</placeName>
+				<date>June 24 1839</date></p>
+			<p>Dear <addressee>Isaac</addressee></p>
+			<p rend="indent(1)">yesterday I recd your letter<lb/> as I have not much to say in<lb/>
+				<sic>regaurd</sic> of news. I will only say<lb/> that what will Please you most
+				I<lb/> am far better than I have been and<lb/> your Aunt is thank God not worse<lb/>
+				I think she is <sic>reather</sic> better<lb/>
+				<date>Sunday</date> we shall go back to the<lb/> spring Please God and stay a 3<lb/>
+				or 4 weeks so that we shall return<lb/> before <add>Hebrew</add> the spring<lb/> is
+				one of best I think in this or<lb/> any other Country that is to say<lb/> the
+				convenient places. and as many<lb/> Rooms to lodge 1000 people last<lb/> year there
+				were 880 persons there<lb/> at one time they are improving the<lb/> place with every
+				thing for the<lb/> better the Company which we found<lb/> here were very
+					<sic>freindly</sic> and kind&#44; the servants very obliging&#44; well<lb/> why
+				should they not we pay them.<lb/> for <sic>there</sic> trouble. we pay &#36;9
+				per<lb/> week for which we had 2 Herring<lb/> 4 Eggs <sic>Potatos</sic> and plenty
+				Milk<lb/> other news I have none I remain</p>
+			<p> Your friend xx <persName role="author">Zalma Rehine</persName></p>
+			<p rend="indent(1)">Aunt send her love to you</p>
+			<p rend="indent(1)">Remember us kindly to <persName>Mrs Couson</persName><lb/> and
+				familie</p>
+			<pb n="1V"/>
+			<p>also my friend <persName>Miss Simah Peixotto</persName>
+				<persName>Mr Peixotto</persName>
+				<persName>Rachel</persName><lb/> and all inquiring friends<lb/>
+				<persName>Mr &#38; Mrs Mass and Charles Mass</persName> wishes to be<lb/> remembered to
+				you</p>
+			<p rend="align(center)">The Revd</p>
+			<p rend="align(center)indent(2)"><persName>Isaac Leeser</persName></p>
+			<p rend="align(center)indent(2)"><placeName>Philadelphia</placeName></p>
+		</body>
+	</text>
+</TEI>

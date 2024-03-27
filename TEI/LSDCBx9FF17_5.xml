@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI [
+<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
+%teibase;
+<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
+%teiext;
+]>
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>[no title given]</title>
+				<author attested="yes" accepted="yes" signature="yes">Halevi, Joseph</author>
+				<editor></editor>
+				<sponsor></sponsor>
+				<funder></funder>
+				<principal></principal>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition></edition>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</editionStmt>
+			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
+			<publicationStmt>
+				<publisher>Unpublished manuscript</publisher>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Not part of a series</p>
+			</seriesStmt>
+			<notesStmt>
+				<note></note>
+			</notesStmt>
+			<sourceDesc>
+				<biblStruct>
+					<!-- catalog entry goes here -->
+					<monogr>
+						<imprint>
+							<dateLet></dateLet>
+						</imprint>
+					</monogr>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<country>USA</country>
+						<region>PA</region>
+						<settlement>Philadelphia</settlement>
+						<institution></institution>
+						<repository>CAJS Isaac Leeser Collection</repository>
+						<collection>The Library of the Dropsie College for Hebrew and Cognate Learning</collection>
+						<idno>LSDCBx9FF17_5</idno>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+						<msName></msName>
+					</msIdentifier>
+					<head></head>
+					<letHeading>
+						<author attested="yes" accepted="yes" signature="yes">Halevi, Joseph</author>
+						<addressee editor="false" attested="yes" accepted="yes"></addressee>
+						<deliverer></deliverer>
+						<respStmt>
+							<resp></resp>
+							<name></name>
+						</respStmt>
+						<placeLet></placeLet>
+						<placeRec>Philadelphia, PA</placeRec>
+						<dateLet when="" source="" attested="unk"></dateLet>
+					</letHeading>
+					<msContents>
+						<msItem>
+							<author></author>
+							<editor></editor>
+							<respStmt>
+								<resp></resp>
+								<name></name>
+							</respStmt>
+							<title></title>
+							<decoNote></decoNote>
+							<listBibl>
+								<bibl></bibl>
+							</listBibl>
+							<filiation></filiation>
+							<textLang></textLang>
+							<figure>
+								<graphic url="ilcajs_b9f17_0005_1r.jpg"/>
+								<graphic url="ilcajs_b9f17_0005_1v.jpg"/>
+								<graphic url="ilcajs_b9f17_0005_2r.jpg"/>
+								<graphic url="ilcajs_b9f17_0005_2v.jpg"/>
+							</figure>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support>
+									<material color="" lined="unk" paper_type="" size="Legal">letter</material>
+								</support>
+								<extent>4 pages on 2 sheets
+									<dimensions></dimensions>
+								</extent>
+								<foliation></foliation>
+								<collation></collation>
+								<condition fragment="false"></condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout></layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc script="manuscript">
+							<handNote></handNote>
+						</handDesc>
+						<decoDesc>
+							<decoNote></decoNote>
+						</decoDesc>
+						<additions></additions>
+						<bindingDesc>
+							<binding>
+								<decoNote></decoNote>
+							</binding>
+						</bindingDesc>
+						<sealDesc>
+							<seal>
+								<p></p>
+							</seal>
+						</sealDesc>
+						<accMat></accMat>
+						<envDesc occ="false"></envDesc>
+					</physDesc>
+					<history>
+						<origin></origin>
+						<provenance></provenance>
+						<acquisition></acquisition>
+					</history>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source></source>
+								<change></change>
+							</recordHist>
+							<availability status="free">
+								<p>Unrestricted</p>
+							</availability>
+							<custodialHist>
+								<custEvent></custEvent>
+							</custodialHist>
+						</adminInfo>
+						<surrogates></surrogates>
+						<listBibl>
+							<bibl></bibl>
+						</listBibl>
+					</additional>
+					<msPart>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+					</msPart>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p></p>
+			</projectDesc>
+			<samplingDecl>
+				<p></p>
+			</samplingDecl>
+			<editorialDecl>
+				<correction>
+					<p></p>
+				</correction>
+				<normalization>
+					<p></p>
+				</normalization>
+				<quotation>
+					<p></p>
+				</quotation>
+				<hyphenation>
+					<p></p>
+				</hyphenation>
+				<segmentation>
+					<p></p>
+				</segmentation>
+				<stdVals>
+					<p></p>
+				</stdVals>
+				<interpretation>
+					<p></p>
+				</interpretation>
+			</editorialDecl>
+			<tagsDecl>
+				<rendition></rendition>
+				<namespace name="http://www.tei-c.org/ns/1.0">
+					<tagUsage gi=""></tagUsage>
+				</namespace>
+			</tagsDecl>
+			<refsDecl>
+				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
+			</refsDecl>
+			<refsDecl>
+				<refState unit=""/>
+			</refsDecl>
+			<classDecl>
+				<taxonomy>
+					<category>
+						<catDesc></catDesc>
+					</category>
+				</taxonomy>
+			</classDecl>
+			<appInfo>
+				<application ident="" version="">
+					<desc></desc>
+					<label></label>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<creation></creation>
+			<langUsage>
+				<language ident="he">Hebrew</language>
+			</langUsage>
+			<textClass>
+				<keywords scheme="unknown">
+					<list>
+						<item></item>
+						<item></item>
+					</list>
+				</keywords>
+				<classCode scheme=""></classCode>
+				<catRef/>
+			</textClass>
+		</profileDesc>
+		<revisionDesc>
+			<change></change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<pb n="1"/>
+				<p><hi rend="underline"><add>Hebrew</add></hi></p>
+				<p rend="align(center)">&#8220;Better is open reproof than secret love&#8221;</p>
+			<p rend="indent(8)">&#40;Proverbs 27&#41;</p>
+				<p>&#40;Ever since I came here this portion of <placeName>America</placeName>&#44; the city of <placeName>Cleveland</placeName>&#44;<lb/> about 3 years ago&#44; there came into my hand the book of the &#8220;Occident&#8221;&#44;<lb/> containing all the interests of the Israelites of these lands&#44; words of<lb/> truth and peace&#44; announcing the news of various communities&#44; their man&#45;<lb/>ners and customs&#44; and gathering also valuable speeches for the explana&#45;<lb/>tion of the Scriptures&#44; according to the depth of their meaning&#44; and I<lb/> rejoiced as over great wealth to see the honored ones and the heads of<lb/> the communities arousing within themselves that jealousy which is dear<lb/> in the sight of God&#44; namely the jealousy among writers through which<lb/> wisdom is increased&#41;.</p>
+				<p>Note&#8212;the rest of this&#44; which is evidently intended for the &#8220;Occident&#8221;&#44;<lb/> is a learned exposition on the virtue of humility.  The author seems to<lb/> be well versed in Talmudic and rabbinic learning.  He quotes extensively<lb/> and on almost every line.  The only passage of interest seems to be one<lb/> on the second page&#44; in which the author gives the reason for writing the<lb/> article.  It runs as follows&#58;&#8212;</p>
+				<p>Not long ago I read in the &#8220;Occident&#8221; for the month of <date>Shebat</date> just past&#44;<lb/> a letter by the editor.  It is long and valuable.  In it he argues with<lb/> his opponen<del>e</del>t&#44; the <persName>Rabbi Solomon Jacobs</persName>&#44; the latter and complained bit<lb/>terly about him in the &#8220;Asmonean&#8221; because he had sent him his address<lb/> which had already been printed&#44; and the editor of the &#8220;Occident&#8221;&#44; after<lb/> praising him for his learning&#44; had nevertheless found something to cri&#45;<lb/>ticise about him.  This is the reason why <persName>Mr. Jacobs</persName> speaks harshly<lb/> about the editor&#44; saying that his intention was to make him disdainful<lb/> in the eyes of the people and to hurt his dignity.  He upbraids him with<lb/> insulting words and accuses him of not knowing the source of his address&#44;<lb/> and says that he is a student who forgot what he has studied or that he<lb/> does not believe in the tradition of the sages.  He bends his bow to<lb/> shoot his sharp arrows into the heart of the editor of the &#8220;Occident&#8221;&#44;<lb/> and sharpens his sword&#44; a sword of vengeance&#44; to reveal his shame in all<lb/> the corners of the lands of <placeName>America</placeName>.  <persName>Mr. Leeser</persName> answered him with words</p>
+			<pb n="2"/>
+				<p rend="align(center)">2</p>
+				<p>of peace&#44; that it was never his intention to disgrace him&#44; and&#44; at the<lb/> same time&#44; shows his learning in the explanation of the verse in all its<lb/> branches&#44; about which they are arguing&#44;&#8212;According to the grammar of the<lb/> Hebrew language and by drawing from all the wells of the great ones of<lb/> our faith.  I&#44; knowing <sic>thesmallness</sic> of my worth&#44; do not come to decide<lb/> between them.  For&#44; as I said above&#44; it is possible for both to be corre<lb/><sic>rect</sic>.  Besides&#44; the matter does not touch upon a law of action&#44; and among<lb/> us it is a rule that one must not question a Midrashic interpretation.<lb/>  But for this reason my soul signs in secret&#44; that the fire of dissension<lb/> has broken out among the profound scholars and the flame of quarrels has<lb/> gone up to heaven.  Instead of literary jealousy&#44; there has come its de&#45;<lb/>spised sister&#44; the jealousy for honor&#44; the envy of man for his friend.<lb/>  <persName>Mr. Jacobs</persName> has opened wide his mouth and prides himself by saying&#44; &#8220;My lips<lb/> are with me&#44; I shall make <sic>marsh</sic> my tongue&#44; the time for peace has set&#44; the<lb/> day of vengeance has arrived&#8221;&#44; for this reason the heart of every under&#45;<lb/>standing man aches.  Who has seen such things in <placeName>Israel</placeName>&#63;  This is not<lb/> the way of the Torah&#44; whose ways are the ways of sweetness&#44; and all its<lb/> paths are peace&#44;<sic>etc.</sic></p>
+				<p>The letter is signed <persName role="author">Joseph Halevi</persName>&#44; merchant in the city of <placeName>Cleveland</placeName>.</p>
+		</body>
+	</text>
+</TEI>

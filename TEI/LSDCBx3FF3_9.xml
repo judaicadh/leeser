@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI [
+<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
+%teibase;
+<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
+%teiext;
+]>
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>[no title given]</title>
+				<author attested="yes" accepted="yes" signature="unk">Moredcai, Rosa</author>
+				<editor></editor>
+				<sponsor></sponsor>
+				<funder></funder>
+				<principal></principal>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition></edition>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</editionStmt>
+			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
+			<publicationStmt>
+				<publisher>Unpublished manuscript</publisher>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Not part of a series</p>
+			</seriesStmt>
+			<notesStmt>
+				<note></note>
+			</notesStmt>
+			<sourceDesc>
+				<biblStruct>
+					<!-- catalog entry goes here -->
+					<monogr>
+						<imprint>
+							<dateLet></dateLet>
+						</imprint>
+					</monogr>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<country>USA</country>
+						<region>PA</region>
+						<settlement>Philadelphia</settlement>
+						<institution></institution>
+						<repository>CAJS Isaac Leeser Collection</repository>
+						<collection>The Library of the Dropsie College for Hebrew and Cognate Learning</collection>
+						<idno>LSDCBx3FF3_9</idno>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+						<msName></msName>
+					</msIdentifier>
+					<head></head>
+					<letHeading>
+						<author attested="yes" accepted="yes" signature="unk">Moredcai, Rosa</author>
+						<addressee editor="false" attested="yes" accepted="yes"></addressee>
+						<deliverer></deliverer>
+						<respStmt>
+							<resp></resp>
+							<name></name>
+						</respStmt>
+						<placeLet>Philadelphia, PA</placeLet>
+						<placeRec>Philadelphia, PA</placeRec>
+						<dateLet when="1868-02" source="" attested="yes">4 February 1868</dateLet>
+					</letHeading>
+					<msContents>
+						<msItem>
+							<author></author>
+							<editor></editor>
+							<respStmt>
+								<resp></resp>
+								<name></name>
+							</respStmt>
+							<title></title>
+							<decoNote></decoNote>
+							<listBibl>
+								<bibl></bibl>
+							</listBibl>
+							<filiation></filiation>
+							<textLang></textLang>
+							<figure>
+								<graphic url=""/>
+							</figure>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support>
+									<material color="" lined="unk" paper_type="" size="Letter">print</material>
+								</support>
+								<extent>5 pages on 5 sheets
+									<dimensions></dimensions>
+								</extent>
+								<foliation></foliation>
+								<collation></collation>
+								<condition fragment="false"></condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout></layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc script="typescript">
+							<handNote></handNote>
+						</handDesc>
+						<decoDesc>
+							<decoNote></decoNote>
+						</decoDesc>
+						<additions></additions>
+						<bindingDesc>
+							<binding>
+								<decoNote></decoNote>
+							</binding>
+						</bindingDesc>
+						<sealDesc>
+							<seal>
+								<p></p>
+							</seal>
+						</sealDesc>
+						<accMat></accMat>
+						<envDesc occ="false"></envDesc>
+					</physDesc>
+					<history>
+						<origin></origin>
+						<provenance></provenance>
+						<acquisition></acquisition>
+					</history>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source></source>
+								<change></change>
+							</recordHist>
+							<availability status="free">
+								<p>Unrestricted</p>
+							</availability>
+							<custodialHist>
+								<custEvent></custEvent>
+							</custodialHist>
+						</adminInfo>
+						<surrogates></surrogates>
+						<listBibl>
+							<bibl></bibl>
+						</listBibl>
+					</additional>
+					<msPart>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+					</msPart>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p></p>
+			</projectDesc>
+			<samplingDecl>
+				<p></p>
+			</samplingDecl>
+			<editorialDecl>
+				<correction>
+					<p></p>
+				</correction>
+				<normalization>
+					<p></p>
+				</normalization>
+				<quotation>
+					<p></p>
+				</quotation>
+				<hyphenation>
+					<p></p>
+				</hyphenation>
+				<segmentation>
+					<p></p>
+				</segmentation>
+				<stdVals>
+					<p></p>
+				</stdVals>
+				<interpretation>
+					<p></p>
+				</interpretation>
+			</editorialDecl>
+			<tagsDecl>
+				<rendition></rendition>
+				<namespace name="http://www.tei-c.org/ns/1.0">
+					<tagUsage gi=""></tagUsage>
+				</namespace>
+			</tagsDecl>
+			<refsDecl>
+				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
+			</refsDecl>
+			<refsDecl>
+				<refState unit=""/>
+			</refsDecl>
+			<classDecl>
+				<taxonomy>
+					<category>
+						<catDesc></catDesc>
+					</category>
+				</taxonomy>
+			</classDecl>
+			<appInfo>
+				<application ident="" version="">
+					<desc></desc>
+					<label></label>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<creation></creation>
+			<langUsage>
+				<language ident="en">English</language>
+			</langUsage>
+			<textClass>
+				<keywords scheme="unknown">
+					<list>
+						<item></item>
+						<item></item>
+					</list>
+				</keywords>
+				<classCode scheme=""></classCode>
+				<catRef/>
+			</textClass>
+		</profileDesc>
+		<revisionDesc>
+			<change></change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<pb n="1"/>
+				<p>&#40;Copy&#41;</p>
+			<p rend="indent(1)">The <persName>Rev. Isaac Leeser</persName> who died in this City last <date>Saturday&#44;<lb/> Feb. 1st 1868</date>&#44; was a native of <placeName>Germany</placeName>. At the age of nineteen he<lb/> left that country for <placeName>America</placeName>&#44; taking up his residence with an Uncle<lb/> in <placeName>Richmond&#44; Va.</placeName>&#45; Those qualities which afterwards made him so dis&#45;<lb/>tinguished&#44; his thorough knowledge of the Hebrew Language and its<lb/> Literature together with his native eloquence&#44; soon attracted the<lb/> attention of the leading Israelites in that City.&#45; When in <date>1830</date>&#44;<lb/> by the death of the <persName>Rev Mr Keyes</persName>&#44; the Congregation of Michvah Israel of<lb/> <placeName>Phila</placeName>&#44; were in want of a Reader&#44;  he was persuaded though not 22 to<lb/> accept the Office.&#45; He held this responsible position many years&#44;<lb/> until an unfortunate misunderstanding caused him to resign in <date>1850</date><lb/> taking an affecting leave of his congregation on the <date>second day of<lb/> the Feast of Tabernacles</date>.&#45;</p>
+			<p rend="indent(1)">In <date>1855</date> he organized a second <sic>Portugese</sic> Synagogue in <placeName>Phila</placeName>&#44;<lb/> <placeName>Franklin St near Green</placeName>&#44; and continued its active Minister until<lb/> within a few months of his death&#44; when failing health compelled him<lb/> to seek for a time a warmer climate.&#45; He returned <date>March 1867</date> and<lb/> as far as rapidly increasing disease would permit&#44; continued to dis&#45;<lb/>charge his manifold duties&#44; till Death released his body from suffer&#45;<lb/>ing and gave his Soul to the Eternal Home of this Heavenly Father.&#45;</p>
+			<p rend="indent(1)">As a contribution to Jewish literature <persName>Mr. Leeser</persName> leaves<lb/> a blank which it is almost impossible to fill. He made a careful<lb/> translation of the Hebrew Prayer Book&#44; which had gone though many<lb/> editions&#44; and is universally used by Israelites in all parts of the<lb/> <placeName>United States</placeName>.&#45; In <date>1856</date> he published a translation of the Holy<lb/> Scriptures&#44; upon which he had been long engaged.&#45; He was the founder<lb/> and until the day of his death&#44; the only editor of the Occident</p>
+			<pb n="2"/>
+				<p rend="align(center)">&#45; 2 &#45;</p>
+				<p>the first Jewish Periodical published in this country.&#45; He was ever<lb/> anxious to promote Education and encourage the Young. He promoted<lb/> the &#8220;Jewish Miscellany&#8221; in which many of <persName>Miss Aguilar&#39;s</persName> writings<lb/> first appeared&#44; and assisted the Hebrew Sunday School of <placeName>Phila</placeName>&#44; from<lb/> which so many have been formed&#44; and for which he wrote several text<lb/> books&#44; one on the &#8220;Commandments&#8221; being his last publication.&#45; To<lb/> his untiring efforts are mainly due the &#8220;Educational Society&#8221; the<lb/> &#8220;Maimonides College&#8221; and the &#8220;Jewish Hospital&#8221;. He was an active<lb/> member of every society for the relief and improvement of his fellow<lb/> Israelites.</p>
+			<p rend="indent(1)">He was the first Jewish minister in this country  who intro&#45;<lb/>duced an English discourse as part of the weekly service in the<lb/> Synagogue and of late years&#44; his sermons&#44; delivered without notes&#44;<lb/> seemed at times like Inspiration and can never be forgotten by those<lb/> who listened to his soul thrilling words of encouragement in the<lb/> performance of duties in this World&#44; with the bright promise of<lb/> reward in the Future State.&#45; Many of these Sermons were delivered<lb/> at the Dedication of Synagogues in all parts of the Country which<lb/> were organized mainly by his influence&#44; and an all flourishing and<lb/> spreading Orthodox <sic>Jewdaism</sic> throughout the Land&#44; the most grateful<lb/> tribute to his memory.&#45;</p>
+			<p rend="indent(1)"><persName>Mr. Leeser</persName> never married&#44; so that his name dies with him&#44;<lb/> but his <hi rend="underline">memory</hi> will long be cherished by every follower of his Holy<lb/> Faith&#44; and particularly by his many personal friends who will listen<lb/> in vain for his voice in the familiar services&#44; and will not know<lb/> where to seek for that information and assistance he was ever both</p>
+			<pb n="3"/>
+				<p rend="align(center)">&#45; 3 &#45;</p>
+				<p>able and willing to impart.&#45;</p>
+			<p rend="indent(1)">His funeral which took place to&#45;day was largely attended.&#45;<lb/> His request was to be buried without other ceremonies than those<lb/> used for any private individual of his Faith.&#45;</p>
+			<p rend="indent(1)">Give <hi rend="underline">him</hi> of the fruit of his hands&#44; and let his own works<lb/> praise him in the gates.</p>
+			<p rend="indent(10)"><persName role="author">Rosa Mordecai</persName>.</p> <p><placeName>Philadelphia</placeName>.&#45;</p>
+				<p><date>Tuesday. Feb 4th 1868</date>.</p>
+			<pb n="4"/>
+				<p><persName>LEESER</persName> BY <persName>ADLER</persName> 1.</p>
+				<p rend="align(center)">&#45; 4 &#45;</p>
+				<p rend="align(center)">BIBLIOGRAPHY</p>
+			<p rend="indent(1)">The fullest biographical account is that of <persName>Rabbi<lb/> Henry Englander</persName>&#44; <hi rend="underline"><persName>Isaac Leeser</persName></hi> in the Year Book&#44; Volume XXVIII<lb/> &#40;<date>1918</date>&#41; The Central Conference of American Rabbis. <hi rend="underline">The Occident</hi>&#44;<lb/> Volume XXV&#44; Number 12&#44; contains an excellent obituary notice&#44;<lb/> while the resolutions enacted on his death&#44; in the same number&#44;<lb/> give a good indication of his varied interests. There is an<lb/> article in the <hi rend="underline">Jewish Encyclopedia</hi>&#44; by <persName>Mayer Sulzberger</persName>.<lb/> <hi rend="underline">Eminent Israelites of the 19th Century</hi>&#44; by <persName>H.S. Morais</persName>&#44; pp. 196&#45;<lb/>201. <hi rend="underline">Panegyric on the Life&#44; Character and Services of <persName>Isaac</persName></hi><lb/> <hi rend="underline"><persName>Leeser</persName></hi>&#44; by <persName>Moses A. Dropsie</persName>. &#40;<date>1868</date>&#41;.</p>
+			<pb n="5"/>
+				<p><persName>Leeser</persName> <persName>Adler</persName> 2.</p>
+				<p rend="align(center)">&#45; 5 &#45;</p>
+				<p>He translated <persName>Schwartz&#39;s</persName> <hi rend="underline">Geography of <placeName>Palestine</placeName></hi> and with <persName>Dr. Jaquet</persName><lb/> saw through <persName>Lippincott&#39;s</persName> press an edition of the Hebrew Bible.</p>
+				<p>Jewish Encyclopedia</p>
+				<p>The Occident Vol. XXV No. 12&#44; pp. 593&#45;601  &#45; 606 &#8212; 621&#59; Vol. X<lb/> No. 1&#44; pp. 21&#45;37</p>
+				<p>Central Conference of American Rabbis Year Book Volume XXVIII<lb/> <date>1918</date>. p. 42 Article by <persName>Henry Englander</persName></p>
+				<p>Panegyric on the Life&#44; Character and Services of <persName>Isaac Leeser</persName>.<lb/> By <persName>Moses A. Dropsie</persName>. <placeName>Philadelphia</placeName> <date>1868</date>.</p>
+				<p>Letters of <persName><sic>Rebecca</sic><add>&#63;</add> Gratz</persName>&#44; edited by <persName>Philipson</persName>&#44; p. 108<lb/> &#40;for the Occident Vol. XXVI No. 9&#41;</p>
+				<p>Vol. 30 Pub. Am. J. Hist. Soc. <persName>A. S. W. Rosenbach</persName></p>
+				<p>The fullest account is that of <persName>Rabbi Henry Englander</persName> <hi rend="underline"><persName>Isaac Leeser</persName></hi>.<lb/> In the Yearbook Volume XXVIII <date>1918</date> The Central Conference of <lb/>American Rabbis &#45;</p>
+				<p>The Occident Vol. XXV No. 12 contains an excellent obituary.</p>
+				<p>Article in the Jewish Encyclopedia.</p>
+				<p>On <date>February 8&#44; 1868</date> <persName>Dr. Morais</persName> delivered a sermon in memory of<lb/> <persName>Isaac Leeser</persName>&#44; printed in the <placeName>Philadelphia</placeName> Inquirer on <date>February 13&#44;<lb/> 1868</date>&#44; and to be found on page 35 of the <persName>Morais</persName> letter book.</p>
+				<p>Page 9 <persName>Morais</persName> letter book&#44; written at the foot of a clipping in<lb/> <persName>Dr. Morais&#39;</persName> handwriting&#58;</p>
+				<p>&#8220;<persName>Isaac Lesser</persName> took exception to this lecture and became abusive.&#8221;</p>
+		</body>
+	</text>
+</TEI>

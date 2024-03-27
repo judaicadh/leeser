@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI [
+<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
+%teibase;
+<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
+%teiext;
+]>
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>[no title given]</title>
+				<author attested="yes" accepted="yes" signature="yes">Elias, Levy</author>
+				<editor></editor>
+				<sponsor></sponsor>
+				<funder></funder>
+				<principal></principal>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition></edition>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</editionStmt>
+			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
+			<publicationStmt>
+				<publisher>Unpublished manuscript</publisher>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Not part of a series</p>
+			</seriesStmt>
+			<notesStmt>
+				<note></note>
+			</notesStmt>
+			<sourceDesc>
+				<biblStruct>
+					<!-- catalog entry goes here -->
+					<monogr>
+						<imprint>
+							<dateLet></dateLet>
+						</imprint>
+					</monogr>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<country>USA</country>
+						<region>PA</region>
+						<settlement>Philadelphia</settlement>
+						<institution></institution>
+						<repository>CAJS Isaac Leeser Collection</repository>
+						<collection>The Library of the Dropsie College for Hebrew and Cognate Learning</collection>
+						<idno>LSDCBx1FF9_71</idno>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+						<msName></msName>
+					</msIdentifier>
+					<head></head>
+					<letHeading>
+						<author attested="yes" accepted="yes" signature="yes">Elias, Levy</author>
+						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac</addressee>
+						<deliverer></deliverer>
+						<respStmt>
+							<resp></resp>
+							<name></name>
+						</respStmt>
+						<placeLet>Columbia, SC</placeLet>
+						<placeRec>Philadelphia, PA</placeRec>
+						<dateLet when="1852" source="" attested="yes">20 October[?] 1852</dateLet>
+					</letHeading>
+					<msContents>
+						<msItem>
+							<author></author>
+							<editor></editor>
+							<respStmt>
+								<resp></resp>
+								<name></name>
+							</respStmt>
+							<title></title>
+							<decoNote></decoNote>
+							<listBibl>
+								<bibl></bibl>
+							</listBibl>
+							<filiation></filiation>
+							<textLang></textLang>
+							<figure>
+								<graphic url="ilcajs_b1f9_0068_1r.jpg"></graphic>
+								<graphic url="ilcajs_b1f9_0068_1v.jpg"></graphic>
+								<graphic url="ilcajs_b1f9_0068_2r.jpg"></graphic>
+								<graphic url="ilcajs_b1f9_0068_2v.jpg"></graphic>
+							</figure>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support>
+									<material color="" lined="false" paper_type="" size="">letter</material>
+								</support>
+								<extent>4 pages on 2 sheets
+									<dimensions></dimensions>
+								</extent>
+								<foliation></foliation>
+								<collation></collation>
+								<condition fragment="false"></condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout></layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc script="manuscript">
+							<handNote></handNote>
+						</handDesc>
+						<decoDesc>
+							<decoNote></decoNote>
+						</decoDesc>
+						<additions></additions>
+						<bindingDesc>
+							<binding>
+								<decoNote></decoNote>
+							</binding>
+						</bindingDesc>
+						<sealDesc>
+							<seal>
+								<p></p>
+							</seal>
+						</sealDesc>
+						<accMat></accMat>
+						<envDesc occ="false"></envDesc>
+					</physDesc>
+					<history>
+						<origin></origin>
+						<provenance></provenance>
+						<acquisition></acquisition>
+					</history>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source></source>
+								<change></change>
+							</recordHist>
+							<availability status="free">
+								<p>Unrestricted</p>
+							</availability>
+							<custodialHist>
+								<custEvent></custEvent>
+							</custodialHist>
+						</adminInfo>
+						<surrogates></surrogates>
+						<listBibl>
+							<bibl></bibl>
+						</listBibl>
+					</additional>
+					<msPart>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+					</msPart>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p></p>
+			</projectDesc>
+			<samplingDecl>
+				<p></p>
+			</samplingDecl>
+			<editorialDecl>
+				<correction>
+					<p></p>
+				</correction>
+				<normalization>
+					<p></p>
+				</normalization>
+				<quotation>
+					<p></p>
+				</quotation>
+				<hyphenation>
+					<p></p>
+				</hyphenation>
+				<segmentation>
+					<p></p>
+				</segmentation>
+				<stdVals>
+					<p></p>
+				</stdVals>
+				<interpretation>
+					<p></p>
+				</interpretation>
+			</editorialDecl>
+			<tagsDecl>
+				<rendition></rendition>
+				<namespace name="http://www.tei-c.org/ns/1.0">
+					<tagUsage gi=""></tagUsage>
+				</namespace>
+			</tagsDecl>
+			<refsDecl>
+				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
+			</refsDecl>
+			<refsDecl>
+				<refState unit=""/>
+			</refsDecl>
+			<classDecl>
+				<taxonomy>
+					<category>
+						<catDesc></catDesc>
+					</category>
+				</taxonomy>
+			</classDecl>
+			<appInfo>
+				<application ident="" version="">
+					<desc></desc>
+					<label></label>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<creation></creation>
+			<langUsage>
+				<language ident="de">German</language>
+			</langUsage>
+			<textClass>
+				<keywords scheme="unknown">
+					<list>
+						<item></item>
+						<item></item>
+					</list>
+				</keywords>
+				<classCode scheme=""></classCode>
+				<catRef/>
+			</textClass>
+		</profileDesc>
+		<revisionDesc>
+			<change></change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+				<p><sic><addressee>Mr Isac Lesser</addressee></sic> <placeName>Philadelphia</placeName>.</p>
+			<p rend="indent(1)"><placeName>Columbia</placeName> <date>Oclt<add>&#63;</add> 20. 1852</date></p>
+				<p>Da ich vor einigen Wochen zu Ihnen<lb/> geschrieben habe in Betragt das <add>Hebrew</add> <del> <add>Hebrew</add> </del><lb/> hier&#44; so kann ich nicht unterlassen noch&#44;<lb/>dem ich Ihren letzten <sic>Oxidenten</sic> gelesen<lb/> habe mich abermals weider an sie<lb/> zu wenden. und freut es mich<lb/> ganz au&#223;erordentlich da der <persName>Hr. Marcusson</persName> <del>Mann</del> hier<lb/> in wie ganz anderes Licht geschildert<lb/> worden ist als ich jetzt erfahre<lb/> da&#223; er ist.  Sie werden von<lb/> <persName>Herr Marcusson</persName> vielleicht sehr<lb/> fr&#252;her erfahren habe da&#223; ich derselbe<lb/> als er ha<add>&#63;</add> in <placeName>Columbia</placeName><lb/> war <sic>angebethen</sic> habe in meinem<lb/> hause zu behalten um ihn als<lb/> Lehrer f&#252;r meine Kinder und<lb/> <add>&#63;</add> <add>Hebrew</add> Fleisch f&#252;r meinen<lb/> Tisch zu haben&#44; da mir als<lb/> dem aber allerhand schlecht<lb/> Berichte uber ihn zu Ohren<lb/> gekommen sind wie ich ihne<lb/> auf selbst in&#39;s Gesucht gesagt<lb/> habe&#44; so hat mich das veranlasst</p>
+			<pb n="2"/>
+				<p>den Gedanken nat&#252;rlich wieder<lb/> aufzugeben dem <add>&#63;</add> hat<lb/> gesagt da&#223; er <add>Hebrew</add> und <add>Hebrew</add><lb/> ist also ich aber Ihren Bericht<lb/> gelesen habe so habe ich mir<lb/> daran gelegen sein lassen und<lb/> ausgefunden da&#223; alles heuchlerin<lb/> und verleumderin war und<lb/> da&#223; von Leuten die sich erst<lb/> als er hierher kam als seine<lb/> beste freunde gestellt haben<lb/> die&#223; selben h<add>&#63;</add> ihn wasser<lb/> schlucht gemacht ohne ihn gar<lb/> zu kennen was ich jetzt<lb/> auszufunden habe<lb/> der Mann ist als fremder<lb/> hierher gekommen ohne einen<lb/> andere als <persName>Mr Karr</persName> zu<lb/> kennen welcher aber zu<lb/> seinem <add>&#63;</add>gl&#252;ck grade ver&#44;<lb/>rei&#223;t war und als er den<lb/> Bruder fragte mich einem<lb/> <add>&#63;</add>her&#63;  <add>Hebrew</add> so hat er ihn<lb/> noch <hi rend="underline"><persName>Mr Simmons</persName></hi> hier<lb/> hingebracht welcher ihn<lb/> schwerlich sehr <sic>guth</sic> erst</p>
+			<pb n="3"/>
+				<p>aufgenommen hat und ihn nachher<lb/> f&#252;r schlacht in <placeName>Columbia</placeName> umherzutragen<add>&#63;</add><lb/> hat da er zu <persName>Karr</persName> gekommen<lb/> ist&#44; und gesagt mir er<lb/> ihm einen folgen Menschen ins<lb/> haus bringen kann das der<lb/> Mann also hier schleicht gemacht<lb/> worden ist ist mir leidst<lb/> zu erkl&#228;ren das <persName>S.</persName> ein<lb/> freund von dem <add>Hebrew</add> von<lb/> den ich <add>&#63;</add> die Sache mit<lb/> dem falschen Siegel geschrieben<lb/> habe ist denn es ist nur<lb/> geschehen <persName>Mr M.</persName> schlecht zu<lb/> machen <del>und</del> um diesen<lb/> Mann nicht seiner Stelle<lb/> zu entsetzen und darum<lb/> hat <add>&#63;</add> einen freunden<lb/> <add>&#63;</add>von unschuldigen Mann<lb/> schlecht gemacht&#8212;das<lb/> sind <hi rend="underline">seine</hi> <add>Hebrew</add> doch das<lb/> gewachsen Sache bleibt meines<lb/> gerecht und <persName>David</persName> hat <del>nich</del><lb/> mit recht gesagt</p>
+				<p><add>Hebrew</add></p>
+				<p>ich habe <sic>einlingend</sic><add>&#63;</add> einen<lb/> Brief f&#252;r <persName>Herr M</persName> angelegt</p>
+			<pb n="4"/>
+				<p>wo ich ihn &#36;100 das Jahr und freies<lb/> Essen und trinken und<lb/> wohnen <sic>anbiethe</sic>&#44; um ihn nur<lb/> als Lehrer f&#252;r meine Kinder<lb/> und als <add>Hebrew</add> f&#252;r meinen<lb/> eigene Tisch haben will<lb/> nur hat er dann gar<lb/> nichts mit der <add>&#63;</add><lb/> zu <sic>thun</sic>.  Wollen<lb/> Sie mir geh in n&#228;chsten <sic>Oxid.</sic><lb/> zwei <add>Hebrew</add> f&#252;r dieses sehr<lb/> einlegend und falls Sie die<lb/> <add>Hebrew</add> gedruckt haben so<lb/> lassen Sie mir <add>&#63;</add> den<lb/> Kreis daran wissen<lb/> In kurzer Zeit werde ich<lb/> nach <placeName>Philad</placeName>&#58; kommen und<lb/> mache ich mir das Vergn&#252;gen<lb/> Sie zu besehen da ich einige<lb/> <add>Hebrew</add> f&#252;r mich kauf will<lb/> und verbleibe bis Jahres</p>
+				<p>Ihr freund <persName role="author">Levy Elias</persName></p>
+			
+			<div>
+				<p><ref target="Occident_PDFs/Occ_10_7.pdf">The above text refers to Occident Volume 10 No. 7 pages 353 through 359. Click here to view.</ref></p>
+			</div>
+		</body>
+	</text>
+</TEI>

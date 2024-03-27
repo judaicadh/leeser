@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI [
+<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
+%teibase;
+<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
+%teiext;
+]>
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>[no title given]</title>
+				<author attested="yes" accepted="yes" signature="unk"></author>
+				<editor></editor>
+				<sponsor></sponsor>
+				<funder></funder>
+				<principal></principal>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition></edition>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</editionStmt>
+			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
+			<publicationStmt>
+				<publisher>Unpublished manuscript</publisher>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Not part of a series</p>
+			</seriesStmt>
+			<notesStmt>
+				<note></note>
+			</notesStmt>
+			<sourceDesc>
+				<biblStruct>
+					<!-- catalog entry goes here -->
+					<monogr>
+						<imprint>
+							<dateLet></dateLet>
+						</imprint>
+					</monogr>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<country>USA</country>
+						<region>PA</region>
+						<settlement>Philadelphia</settlement>
+						<institution></institution>
+						<repository>TCAT</repository>
+						<collection>Anonymous</collection>
+						<idno>LSTCAT_item97</idno>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+						<msName></msName>
+					</msIdentifier>
+					<head></head>
+					<letHeading>
+						<author attested="yes" accepted="yes" signature="unk"></author>
+						<addressee editor="false" attested="yes" accepted="yes"></addressee>
+						<deliverer></deliverer>
+						<respStmt>
+							<resp></resp>
+							<name></name>
+						</respStmt>
+						<placeLet>Baltimore, MD</placeLet>
+						<placeRec>Philadelphia, PA</placeRec>
+						<dateLet when="1857" source="" attested="yes">September 1857</dateLet>
+					</letHeading>
+					<msContents>
+						<msItem>
+							<author></author>
+							<editor></editor>
+							<respStmt>
+								<resp></resp>
+								<name></name>
+							</respStmt>
+							<title></title>
+							<decoNote></decoNote>
+							<listBibl>
+								<bibl></bibl>
+							</listBibl>
+							<filiation></filiation>
+							<textLang></textLang>
+							<figure>
+								<graphic url="il_tcat_item97_wk1_body0001.jpg"></graphic>
+								<graphic url="il_tcat_item97_wk1_body0002.jpg"></graphic>
+							</figure>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support>
+									<material color="" lined="false" paper_type="" size="">print</material>
+								</support>
+								<extent>1 page on 2 sheets
+									<dimensions></dimensions>
+								</extent>
+								<foliation></foliation>
+								<collation></collation>
+								<condition fragment="false"></condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout></layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc script="typescript">
+							<handNote></handNote>
+						</handDesc>
+						<decoDesc>
+							<decoNote></decoNote>
+						</decoDesc>
+						<additions></additions>
+						<bindingDesc>
+							<binding>
+								<decoNote></decoNote>
+							</binding>
+						</bindingDesc>
+						<sealDesc>
+							<seal>
+								<p></p>
+							</seal>
+						</sealDesc>
+						<accMat></accMat>
+						<envDesc occ="false"></envDesc>
+					</physDesc>
+					<history>
+						<origin></origin>
+						<provenance></provenance>
+						<acquisition></acquisition>
+					</history>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source></source>
+								<change></change>
+							</recordHist>
+							<availability status="free">
+								<p>Unrestricted</p>
+							</availability>
+							<custodialHist>
+								<custEvent></custEvent>
+							</custodialHist>
+						</adminInfo>
+						<surrogates></surrogates>
+						<listBibl>
+							<bibl></bibl>
+						</listBibl>
+					</additional>
+					<msPart>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+					</msPart>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p></p>
+			</projectDesc>
+			<samplingDecl>
+				<p></p>
+			</samplingDecl>
+			<editorialDecl>
+				<correction>
+					<p></p>
+				</correction>
+				<normalization>
+					<p></p>
+				</normalization>
+				<quotation>
+					<p></p>
+				</quotation>
+				<hyphenation>
+					<p></p>
+				</hyphenation>
+				<segmentation>
+					<p></p>
+				</segmentation>
+				<stdVals>
+					<p></p>
+				</stdVals>
+				<interpretation>
+					<p></p>
+				</interpretation>
+			</editorialDecl>
+			<tagsDecl>
+				<rendition></rendition>
+				<namespace name="http://www.tei-c.org/ns/1.0">
+					<tagUsage gi=""></tagUsage>
+				</namespace>
+			</tagsDecl>
+			<refsDecl>
+				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
+			</refsDecl>
+			<refsDecl>
+				<refState unit=""/>
+			</refsDecl>
+			<classDecl>
+				<taxonomy>
+					<category>
+						<catDesc></catDesc>
+					</category>
+				</taxonomy>
+			</classDecl>
+			<appInfo>
+				<application ident="" version="">
+					<desc></desc>
+					<label></label>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<creation></creation>
+			<langUsage>
+				<language ident="en">English</language>
+			</langUsage>
+			<textClass>
+				<keywords scheme="unknown">
+					<list>
+						<item></item>
+						<item></item>
+					</list>
+				</keywords>
+				<classCode scheme=""></classCode>
+				<catRef/>
+			</textClass>
+		</profileDesc>
+		<revisionDesc>
+			<change></change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+				<p rend="align(center)">DEDICATION</p>
+				<p rend="align(center)">OF THE</p>
+				<p rend="align(center)">Sephardim Synagogue&#44;</p>
+				<p rend="align(center)">HOUSE OF <placeName>ISRAEL</placeName>&#44;</p>
+				<p rend="align(center)"><placeName>Baltimore</placeName>&#44; <date>September 16<hi rend="sup">th</hi>. 1857</date>.</p>
+				<p rend="align(center)">PROGRAMME.</p>
+			<p rend="indent(1)">The bearers of the Law will form in the Vestry Room&#44; and walk in<lb/> Procession to the door of the Synagogue&#44; when the <persName>REV. SOLOMON JACOBS</persName>&#44;<lb/> of <placeName>Philadelphia</placeName>&#44; will knock at the door three times&#44; and say&#58;</p>
+			<p rend="indent(1)">&#8220;Open for me the gates of righteousness&#44; that I may enter through them&#44; to<lb/> praise the Lord.&#8221;</p>
+			<p rend="indent(1)">The Minister inside answers&#58;</p>
+			<p rend="indent(1)">&#8220;This is the gate of the Lord&#44; into which the righteous shall enter.&#8221;</p>
+			<p rend="indent(1)">The persons bearing the Law enter and ascend the Tebah&#44; during which</p>
+				<p rend="align(center)">THE CHOIR WILL SING A QUARTETTE&#44;</p>
+				<p rend="align(center)">FROM <persName>MENDELSSHON&#39;S</persName> &#8220;ORATORIO OF <persName>ELIJAH</persName>.&#8221;</p>
+			<p rend="indent(1)">After which the Congregation sing&#44;</p>
+			<p rend="indent(2)">Baruch haba beshem adonai.</p>
+				<p><persName>REV. J. M. D. SOLLA</persName>&#44; the Minister&#44; then says&#58;</p>
+				<p>&#8220;Blessed art thou O Lord&#44; our God&#44; King of the Universe&#44; who hast preserved<lb/> us alive&#44; sustained us&#44; and brought us to enjoy this season&#33;&#8221;</p>
+				<p>During which the PERPETUAL LAMP is lighted&#44;&#8212;and the</p>
+				<p rend="align(center)">ARK OPENED.</p>
+				<p rend="align(center)">THE CHOIR SING ODECHA.</p>
+				<p rend="align(center)">THE SEVEN&#45;CIRCUITS.</p>
+				<p>During which the Minister and Congregation alternately repeat the<lb/> following</p>
+				<p rend="align(center)">PSALMS&#44;</p>
+				<p rend="align(center)">30<hi rend="sup">th</hi>.    100<hi rend="sup">th</hi>.    122d.    127<hi rend="sup">th</hi>.</p>
+				<p rend="align(center)">Yimloch&#44; by Minister&#44; and 29<hi rend="sup">th</hi> Psalm by Congregation.</p>
+				<p>After which the LAW is deposited in the ARK&#44;&#8212;the Minister says&#44;<lb/> &#8220;SHUBA&#44;&#8221;&#8212;when the doors of the Ark are closed.</p>
+				<p rend="align(center)">SERMON BY <persName>REV. ISAAC LEESER</persName>.</p>
+				<p rend="align(center)">CONSECRATION HYMN&#44;</p>
+				<p rend="align(center)">Composed expressly for the occasion by <persName>D. N. Carvalho&#44; Esq.</persName>&#44; sung by the CHOIR.</p>
+				<p rend="align(center)">SERMON BY <persName>REV. SOLOMON JACOBS</persName>.</p>
+				<p rend="align(center)">SOLO.</p>
+				<p rend="align(center)">SYMPHONY&#44;</p>
+				<p>During which free will Offerings will be collected.</p>
+				<p>MISHEBERACHS will then be made for those who desire it.</p>
+				<p rend="align(center)">EVENING SERVICE BY <persName>REV. MR. LEESER</persName>.</p>
+				<p rend="align(center)">YIGDAL BY CHOIR.</p>
+				<p rend="align(center)"><persName>JOHN D. TOV</persName>&#44; PRINTER.</p>
+			
+			<div>
+				<p><ref target="Occident_PDFs/Occ_15_6.pdf">The above text refers to Occident Volume 15 No. 6 page 303. Click here to view.</ref></p>
+			</div>
+		</body>
+	</text>
+</TEI>

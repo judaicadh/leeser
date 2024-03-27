@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI [
+<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
+%teibase;
+<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
+%teiext;
+]>
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>[no title given]</title>
+				<author attested="yes" accepted="yes" signature="yes">Illoway, Dr.</author>
+				<editor></editor>
+				<sponsor></sponsor>
+				<funder></funder>
+				<principal></principal>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition></edition>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</editionStmt>
+			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
+			<publicationStmt>
+				<publisher>Unpublished manuscript</publisher>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Not part of a series</p>
+			</seriesStmt>
+			<notesStmt>
+				<note></note>
+			</notesStmt>
+			<sourceDesc>
+				<biblStruct>
+					<!-- catalog entry goes here -->
+					<monogr>
+						<imprint>
+							<dateLet></dateLet>
+						</imprint>
+					</monogr>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<country>USA</country>
+						<region>PA</region>
+						<settlement>Philadelphia</settlement>
+						<institution></institution>
+						<repository>CAJS Isaac Leeser Collection</repository>
+						<collection>The Library of the Dropsie College for Hebrew and Cognate Learning</collection>
+						<idno>LSDCBx3FF14_21</idno>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+						<msName></msName>
+					</msIdentifier>
+					<head></head>
+					<letHeading>
+						<author attested="yes" accepted="yes" signature="yes">Illoway, Dr.</author>
+						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac, Rev.</addressee>
+						<deliverer></deliverer>
+						<respStmt>
+							<resp></resp>
+							<name></name>
+						</respStmt>
+						<placeLet></placeLet>
+						<placeRec>Philadelphia, PA</placeRec>
+						<dateLet when="" source="" attested="unk"></dateLet>
+					</letHeading>
+					<msContents>
+						<msItem>
+							<author></author>
+							<editor></editor>
+							<respStmt>
+								<resp></resp>
+								<name></name>
+							</respStmt>
+							<title></title>
+							<decoNote></decoNote>
+							<listBibl>
+								<bibl></bibl>
+							</listBibl>
+							<filiation></filiation>
+							<textLang></textLang>
+							<figure>
+								<graphic url="ilcajs_b3f14_wk1_body0041.jpg"></graphic>
+								<graphic url="ilcajs_b3f14_wk1_body0042.jpg"></graphic>
+							</figure>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support>
+									<material color="" lined="true" paper_type="" size="Letter">letter</material>
+								</support>
+								<extent>2 pages on 2 sheets
+									<dimensions></dimensions>
+								</extent>
+								<foliation></foliation>
+								<collation></collation>
+								<condition fragment="false"></condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout></layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc script="manuscript">
+							<handNote></handNote>
+						</handDesc>
+						<decoDesc>
+							<decoNote></decoNote>
+						</decoDesc>
+						<additions></additions>
+						<bindingDesc>
+							<binding>
+								<decoNote></decoNote>
+							</binding>
+						</bindingDesc>
+						<sealDesc>
+							<seal>
+								<p></p>
+							</seal>
+						</sealDesc>
+						<accMat></accMat>
+						<envDesc occ="false"></envDesc>
+					</physDesc>
+					<history>
+						<origin></origin>
+						<provenance></provenance>
+						<acquisition></acquisition>
+					</history>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source></source>
+								<change></change>
+							</recordHist>
+							<availability status="free">
+								<p>Unrestricted</p>
+							</availability>
+							<custodialHist>
+								<custEvent></custEvent>
+							</custodialHist>
+						</adminInfo>
+						<surrogates></surrogates>
+						<listBibl>
+							<bibl></bibl>
+						</listBibl>
+					</additional>
+					<msPart>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+					</msPart>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p></p>
+			</projectDesc>
+			<samplingDecl>
+				<p></p>
+			</samplingDecl>
+			<editorialDecl>
+				<correction>
+					<p></p>
+				</correction>
+				<normalization>
+					<p></p>
+				</normalization>
+				<quotation>
+					<p></p>
+				</quotation>
+				<hyphenation>
+					<p></p>
+				</hyphenation>
+				<segmentation>
+					<p></p>
+				</segmentation>
+				<stdVals>
+					<p></p>
+				</stdVals>
+				<interpretation>
+					<p></p>
+				</interpretation>
+			</editorialDecl>
+			<tagsDecl>
+				<rendition></rendition>
+				<namespace name="http://www.tei-c.org/ns/1.0">
+					<tagUsage gi=""></tagUsage>
+				</namespace>
+			</tagsDecl>
+			<refsDecl>
+				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
+			</refsDecl>
+			<refsDecl>
+				<refState unit=""/>
+			</refsDecl>
+			<classDecl>
+				<taxonomy>
+					<category>
+						<catDesc></catDesc>
+					</category>
+				</taxonomy>
+			</classDecl>
+			<appInfo>
+				<application ident="" version="">
+					<desc></desc>
+					<label></label>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<creation></creation>
+			<langUsage>
+				<language ident="yi">Yiddish</language>
+			</langUsage>
+			<textClass>
+				<keywords scheme="unknown">
+					<list>
+						<item></item>
+						<item></item>
+					</list>
+				</keywords>
+				<classCode scheme=""></classCode>
+				<catRef/>
+			</textClass>
+		</profileDesc>
+		<revisionDesc>
+			<change></change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<pb n="1"/>
+				<p><hi rend="underline"><add>Yiddish</add></hi></p>
+				<p>May God seek the peace of the man<lb/> of his covenant I extend to him my<lb/> covenant of peace.  My friend&#44; who is like a<lb/> brother to me. The &#8220;Zaddick&#8221; of clean hands<lb/> and a pure heart&#44; the all&#45;embracing wise<lb/> man&#44; our teacher <persName>Rabbi Isaac Leeser</persName>.</p>
+			<p rend="indent(1)">Honored Friend&#58;</p>
+			<p rend="indent(2)">I have prevailed upon the trustees<lb/> that it is time to send you money.  No one<lb/> had anything against it&#44; but before they<lb/> would pay&#44; the people wanted to be urged on the<lb/> matter&#44; and I did not like to urge them for<lb/> they might suppose I made a profit from this<lb/> business&#44; since the book cost them so very much.<lb/> I should therefore very much appreciate<lb/> your sending immediately a letter<lb/> to the treasurers&#44; <persName>Moses Bronner</persName>&#44; of the firm of<lb/> <persName>Bronner and Seburg<add>&#63;</add></persName>&#44; and at the same time<lb/> to me in which you earnestly demand<lb/> money. In view of the fact that I had pro&#45;<lb/>mised to send you the money the first<lb/> of this month. I am convinced that you will<lb/> then receive the money by return mail.</p>
+			<p rend="indent(1)">I want to inform you that the<lb/> organization called Harmonia&#44; consisting<lb/> of 18 of the most intelligent Jews of this<lb/> town&#44; which was organized only two<lb/> months ago&#44; sent a very handsome <date>Purim</date><lb/> gift to <persName role="author">Dr. Illoway</persName>&#44; namely a very pretty</p>
+			<pb n="2"/>
+				<p>silver cup. The outside bears a very<lb/> fitting inscription and the inside was<lb/> filled with a considerable sum of money.<lb/> Since I am concerned with the honor and<lb/> not with the sum. I keep quiet about it&#44;<lb/> but <sic>it</sic> any case I want you to know<lb/> that it was no less than &#36;150 and thus a<lb/> fitting enough sum to show their appreciation of<lb/> the doctor whom they made an honorary member.</p>
+			<p rend="indent(1)">I surely expect to see my Hebrew<lb/> letter in the &#8220;Occident&#8221; this month&#44; and I<lb/> already  have an answer to <persName>Einhorn</persName> in<lb/> order to show him how unjustly he treats you&#44;<lb/> how false the charge is that original sin is a<lb/> Christian idea. That may very well be but it was<lb/> taken from the Jews. That sin is inherited&#44; you may<lb/> find in the Talmud&#44; especially fre&#45;<lb/>quently in the &#8220;Ba&#39;al Akaida.&#8221;</p>
+			<p rend="indent(1)">Yours devotedly&#44;</p>
+			<p rend="indent(2)"><persName role="author">Dr. Illoway</persName></p>
+				<p rend="Line drawn from &#8220;Ba&#45;al Akeda&#8221; to the following.">a <sic>mediaeval</sic> philosophical commentary</p>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI [
+<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
+%teibase;
+<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
+%teiext;
+]>
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>[no title given]</title>
+				<author attested="yes" accepted="yes" signature="yes">Rehine, Zalma</author>
+				<editor/>
+				<sponsor/>
+				<funder/>
+				<principal/>
+				<respStmt>
+					<resp/>
+					<name/>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition/>
+				<respStmt>
+					<resp/>
+					<name/>
+				</respStmt>
+			</editionStmt>
+			<extent>[information about file size goes here, information about extent of physical
+				item comes later]</extent>
+			<publicationStmt>
+				<publisher>Unpublished manuscript</publisher>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Not part of a series</p>
+			</seriesStmt>
+			<notesStmt>
+				<note/>
+			</notesStmt>
+			<sourceDesc>
+				<biblStruct>
+					<!-- catalog entry goes here -->
+					<monogr>
+						<imprint>
+							<dateLet/>
+						</imprint>
+					</monogr>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<country>USA</country>
+						<region>PA</region>
+						<settlement>Philadelphia</settlement>
+						<institution/>
+						<repository>LSKAP</repository>
+						<collection>The Arnold and Deanne Kaplan Collection of Early American Judaica</collection>
+						<idno>LSKAP0076_1</idno>
+						<altIdentifier>
+							<idno/>
+						</altIdentifier>
+						<msName/>
+					</msIdentifier>
+					<head/>
+					<letHeading>
+						<author attested="yes" accepted="yes" signature="yes">Rehine, Zalma</author>
+						<addressee editor="false" attested="yes" accepted="yes">Isaac and Jacob
+							Leeser</addressee>
+						<deliverer/>
+						<respStmt>
+							<resp/>
+							<name/>
+						</respStmt>
+						<placeLet>Baltimore, MD</placeLet>
+						<placeRec>Philadelphia, PA</placeRec>
+						<dateLet when="1833-01" source="" attested="yes">January 15, 1833</dateLet>
+					</letHeading>
+					<msContents>
+						<msItem>
+							<author/>
+							<editor/>
+							<respStmt>
+								<resp/>
+								<name/>
+							</respStmt>
+							<title/>
+							<decoNote/>
+							<listBibl>
+								<bibl/>
+							</listBibl>
+							<filiation/>
+							<textLang/>
+							<figure>
+								<graphic url=""/>
+							</figure>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support>
+									<material color="" lined="unk" paper_type="" size="">letter</material>letter
+								</support>
+								<extent>4 pages on 2 sheets <dimensions/>
+								</extent>
+								<foliation/>
+								<collation/>
+								<condition fragment="false"/>
+							</supportDesc>
+							<layoutDesc>
+								<layout/>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc script="manuscript">
+							<handNote/>
+						</handDesc>
+						<decoDesc>
+							<decoNote/>
+						</decoDesc>
+						<additions/>
+						<bindingDesc>
+							<binding>
+								<decoNote/>
+							</binding>
+						</bindingDesc>
+						<sealDesc>
+							<seal>
+								<p/>
+							</seal>
+						</sealDesc>
+						<accMat/>
+						<envDesc occ="false"/>
+					</physDesc>
+					<history>
+						<origin/>
+						<provenance/>
+						<acquisition/>
+					</history>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source/>
+								<change/>
+							</recordHist>
+							<availability status="restricted">
+								<p>Restricted</p>
+							</availability>
+							<custodialHist>
+								<custEvent/>
+							</custodialHist>
+						</adminInfo>
+						<surrogates/>
+						<listBibl>
+							<bibl/>
+						</listBibl>
+					</additional>
+					<msPart>
+						<altIdentifier>
+							<idno/>
+						</altIdentifier>
+					</msPart>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p/>
+			</projectDesc>
+			<samplingDecl>
+				<p/>
+			</samplingDecl>
+			<editorialDecl>
+				<correction>
+					<p/>
+				</correction>
+				<normalization>
+					<p/>
+				</normalization>
+				<quotation>
+					<p/>
+				</quotation>
+				<hyphenation>
+					<p/>
+				</hyphenation>
+				<segmentation>
+					<p/>
+				</segmentation>
+				<stdVals>
+					<p/>
+				</stdVals>
+				<interpretation>
+					<p/>
+				</interpretation>
+			</editorialDecl>
+			<tagsDecl>
+				<rendition/>
+				<namespace name="http://www.tei-c.org/ns/1.0">
+					<tagUsage gi=""/>
+				</namespace>
+			</tagsDecl>
+			<refsDecl>
+				<cRefPattern matchPattern="" replacementPattern=""/>
+			</refsDecl>
+			<refsDecl>
+				<refState unit=""/>
+			</refsDecl>
+			<classDecl>
+				<taxonomy>
+					<category>
+						<catDesc/>
+					</category>
+				</taxonomy>
+			</classDecl>
+			<appInfo>
+				<application ident="" version="">
+					<desc/>
+					<label/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<creation/>
+			<langUsage>
+				<language ident="en">English</language>
+				<language ident="he">Hebrew</language>
+			</langUsage>
+			<textClass>
+				<keywords scheme="unknown">
+					<list>
+						<item/>
+						<item/>
+					</list>
+				</keywords>
+				<classCode scheme=""/>
+				<catRef/>
+			</textClass>
+		</profileDesc>
+		<revisionDesc>
+			<change/>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<pb n="1R"/>
+			<p rend="ident(6)"><placeName>Baltimore</placeName>
+				<date>January 15th 1833</date></p>
+			<p>Dear <addressee>Isaac &#38; Jacob</addressee></p>
+			<p rend="ident(1)">I have recd your letter and if<lb/> I had anything worth mentioning I
+				should<lb/> have answered it before now. I am pleased<lb/> to see your brother is
+				well received by<lb/> your friends. and I hope by his good<lb/> behavior he will
+				deserve to be so by<lb/> all mankind in regard of his business.<lb/> I am not the
+				least acquainted with any<lb/> part of that branch&#44; nor know in
+				what<lb/>........to recommend him to........<lb/>
+				<persName>Dyer</persName> here&#44; I hope he will get well<lb/>
+				<del>
+					<add>&#63;</add>
+				</del> accuquint in the English<lb/>
+				<sic>Languash</sic> and then there will be no<lb/> Doubt <del>you</del> he will do
+				well in this<lb/> Country. We all should be happy to<lb/> see him yet I do not wish
+				to hurry<lb/> him till the winter is nearly over.<lb/> May <sic>b</sic> I shall come
+				and accompany him<lb/> to his Longing friends here <persName>Mr
+				Cohen</persName><lb/> informed me that he was much pleased<lb/> with him he thought
+				he improved much<lb/> in the few Days he was in your place<lb/> your Aunt and all
+				your friends<lb/> Desire me to you there Love to you<lb/> and
+					<persName>Jacob</persName> I assure you that I am</p>
+			<p>your and his friend x x <persName role="author">Zalma Rehine</persName></p>
+			<p>give my respects to the <persName>Peixotto</persName><lb/> familie I hope she will be
+				better of<lb/> her complaint by this time the <persName>misses<lb/>
+				Etting</persName> send <sic>there</sic> respect to you</p>
+			<pb n="1V"/>
+			<p>the father also desires<lb/> also to be remembered to you God bless<lb/> you let me know how
+				the winter agrees<lb/> with you</p>
+			<p rend="align(center)">The revd <addressee>Isaac Leeser</addressee></p>
+			<p rend="align(center)">No 86 Walnut Street</p>
+			<p rend="align(center)"><placeName>Philadelphia</placeName></p>
+			<p rend="align(center)"><add>Hebrew</add></p>
+		</body>
+	</text>
+</TEI>

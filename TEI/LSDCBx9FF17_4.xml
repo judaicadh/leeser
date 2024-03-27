@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI [
+<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
+%teibase;
+<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
+%teiext;
+]>
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>[no title given]</title>
+				<author attested="yes" accepted="yes" signature="unk">Kalisch, Isidor</author>
+				<editor></editor>
+				<sponsor></sponsor>
+				<funder></funder>
+				<principal></principal>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition></edition>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</editionStmt>
+			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
+			<publicationStmt>
+				<publisher>Unpublished manuscript</publisher>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Not part of a series</p>
+			</seriesStmt>
+			<notesStmt>
+				<note></note>
+			</notesStmt>
+			<sourceDesc>
+				<biblStruct>
+					<!-- catalog entry goes here -->
+					<monogr>
+						<imprint>
+							<dateLet></dateLet>
+						</imprint>
+					</monogr>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<country>USA</country>
+						<region>PA</region>
+						<settlement>Philadelphia</settlement>
+						<institution></institution>
+						<repository>CAJS Isaac Leeser Collection</repository>
+						<collection>The Library of the Dropsie College for Hebrew and Cognate Learning</collection>
+						<idno>LSDCBx9FF17_4</idno>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+						<msName></msName>
+					</msIdentifier>
+					<head></head>
+					<letHeading>
+						<author attested="yes" accepted="yes" signature="unk">Kalisch, Isidor</author>
+						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac</addressee>
+						<deliverer></deliverer>
+						<respStmt>
+							<resp></resp>
+							<name></name>
+						</respStmt>
+						<placeLet>Cleveland, OH</placeLet>
+						<placeRec>Philadelphia, PA</placeRec>
+						<dateLet when="" source="" attested="unk"></dateLet>
+					</letHeading>
+					<msContents>
+						<msItem>
+							<author></author>
+							<editor></editor>
+							<respStmt>
+								<resp></resp>
+								<name></name>
+							</respStmt>
+							<title></title>
+							<decoNote></decoNote>
+							<listBibl>
+								<bibl></bibl>
+							</listBibl>
+							<filiation></filiation>
+							<textLang></textLang>
+							<figure>
+								<graphic url="ilcajs_b9f17_0004_1r.jpg"/>
+								<graphic url="ilcajs_b9f17_0004_2r.jpg"/>
+								<graphic url="ilcajs_b9f17_0004_2v.jpg"/>
+								<graphic url="ilcajs_b9f17_0004_3r.jpg"/>
+								<graphic url="ilcajs_b9f17_0004_3v.jpg"/>
+							</figure>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support>
+									<material color="" lined="unk" paper_type="" size="Legal">letter</material>
+								</support>
+								<extent>4 pages on 2 sheets
+									<dimensions></dimensions>
+								</extent>
+								<foliation></foliation>
+								<collation></collation>
+								<condition fragment="false"></condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout></layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc script="manuscript">
+							<handNote></handNote>
+						</handDesc>
+						<decoDesc>
+							<decoNote></decoNote>
+						</decoDesc>
+						<additions></additions>
+						<bindingDesc>
+							<binding>
+								<decoNote></decoNote>
+							</binding>
+						</bindingDesc>
+						<sealDesc>
+							<seal>
+								<p>Wax seal</p>
+							</seal>
+						</sealDesc>
+						<accMat></accMat>
+						<envDesc occ="true"></envDesc>
+					</physDesc>
+					<history>
+						<origin></origin>
+						<provenance></provenance>
+						<acquisition></acquisition>
+					</history>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source></source>
+								<change></change>
+							</recordHist>
+							<availability status="free">
+								<p>Unrestricted</p>
+							</availability>
+							<custodialHist>
+								<custEvent></custEvent>
+							</custodialHist>
+						</adminInfo>
+						<surrogates></surrogates>
+						<listBibl>
+							<bibl></bibl>
+						</listBibl>
+					</additional>
+					<msPart>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+					</msPart>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p></p>
+			</projectDesc>
+			<samplingDecl>
+				<p></p>
+			</samplingDecl>
+			<editorialDecl>
+				<correction>
+					<p></p>
+				</correction>
+				<normalization>
+					<p></p>
+				</normalization>
+				<quotation>
+					<p></p>
+				</quotation>
+				<hyphenation>
+					<p></p>
+				</hyphenation>
+				<segmentation>
+					<p></p>
+				</segmentation>
+				<stdVals>
+					<p></p>
+				</stdVals>
+				<interpretation>
+					<p></p>
+				</interpretation>
+			</editorialDecl>
+			<tagsDecl>
+				<rendition></rendition>
+				<namespace name="http://www.tei-c.org/ns/1.0">
+					<tagUsage gi=""></tagUsage>
+				</namespace>
+			</tagsDecl>
+			<refsDecl>
+				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
+			</refsDecl>
+			<refsDecl>
+				<refState unit=""/>
+			</refsDecl>
+			<classDecl>
+				<taxonomy>
+					<category>
+						<catDesc></catDesc>
+					</category>
+				</taxonomy>
+			</classDecl>
+			<appInfo>
+				<application ident="" version="">
+					<desc></desc>
+					<label></label>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<creation></creation>
+			<langUsage>
+				<language ident="de">German</language>
+			</langUsage>
+			<textClass>
+				<keywords scheme="unknown">
+					<list>
+						<item></item>
+						<item></item>
+					</list>
+				</keywords>
+				<classCode scheme=""></classCode>
+				<catRef/>
+			</textClass>
+		</profileDesc>
+		<revisionDesc>
+			<change></change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<pb n="Envelope"/>
+			<p rend="indent(2)">Rev.</p>
+			<p rend="indent(1)"><addressee>Mr. Isaac Leeser</addressee></p>
+			<p rend="indent(1)"><placeName>Walnut Street No 371</placeName></p>
+				<p><hi rend="underline">post paid</hi>.<placeName><hi rend="underline">Philadelphia</hi></placeName></p>
+			<p rend="indent(3)"><placeName>Pennsylvania</placeName> State</p>
+			<pb n="1"/>
+				<p rend="align(center)">Biblisch <add>&#63;</add>getische Vortr&#228;ge</p>
+			<p rend="align(center)">von</p>
+			<p rend="align(center)"><persName role="author">Isidor Kalisch</persName>&#44; Rabbiner in <placeName>Cleveland</placeName>.</p>
+			<p rend="align(center)">&#40;Fortsetzung.&#41;</p>
+				<p>Genes. I&#44; g. Gott sprach er versammle sich das Wasser<lb/> unter dem Himmel an einem Orte&#44; damit<lb/> das Trockene sichtbar werde&#44; und es geschah<lb/> also.</p>
+				<p>Die Wahrheit dieser Angabe&#44; da&#223; die Erde seit<lb/> der urspr&#252;nglichen Sch&#246;pfung in einem v&#246;llig<lb/> fl&#252;ssigen Zustande sich befand&#44; hat sich auch<lb/> durch die <add>&#63;</add>sten geologischen Forschungen<lb/> best&#228;tigt.</p>
+				<p>Es ist durch unmittelbare auf verschiedenen<lb/> Parallelkreisen vorgenommene Messung der<lb/> Erdmeridiane&#44; die einem Breitengrade ent&#44;<lb/>sprechen&#44; <add>&#63;</add> werden&#44; da&#223; die Erde an<lb/> den Polen abgeplattet  <add>&#63;</add>.  Diese Entdeckung<lb/> der Ellipseidfarm<add>&#63;</add> unsere Erde f&#228;hrt offenbar<lb/> zu der sichere Annahme&#44; da&#223; die materiellen<lb/> Theilchen unserer Erde in einer gewissen<lb/> Epoche solche Beweglichkeit hatten&#44; das sie<lb/> &#252;ber einander hingleiten konnten&#44; und<lb/> der durch die t&#228;gliche <add>&#63;</add>tatien erzeugte Zen&#61;<lb/>trifugalkraft nach zugeben vermachten&#44; und<lb/> wirklich nach gaben.</p>
+				<p>ibid. 10. Gott nannte das Trockene Erde&#44; und<lb/> die Versammlung das Wassers nannte<lb/> er Meere&#44; und Gott sorgte daf&#252;r&#44; da&#223;<lb/> es zweckm&#228;&#223;ig&#44; sag.</p>
+				<p>S&#228;mmtliche Commentatoren werfen zwar<lb/> die Frage auf&#44; <sic>wesshalb</sic> die Wassermasse in<lb/> ihren gro&#223;en Zusammenh&#228;nge <add>Hebrew</add> im<lb/> Plural&#44; und nicht <add>Hebrew</add> in Singular genannt wird&#44;<lb/> wie es auch wirklich ibid. V. 26. und Psalm 95.5. etc. etc.</p>
+			<pb n="2"/>
+				<p>verk&#246;mmt&#59; doch <sic>giebt</sic> uns keiner hier&#252;ber<lb/> einer gen&#252;gende Erkl&#228;rung.</p>
+				<p>Meiner Ausicht nach&#44; ist die Pluralform <add>Hebrew</add>&#44; sowohl<lb/> in grammatischer&#44; als auch in geologischer Beziehung<lb/> richtig gebraucht werden.  Der grammatische Grund<lb/> ist&#44; da&#223; stetige Gr&#246;&#223;en gern im Plural bezeich&#61;<lb/>net werden&#44; als&#58; <add>Hebrew</add> etc. etc.  Wie wir auch<lb/> Ezechiel 28. 2 <add>Hebrew</add> stett <add>Hebrew</add> lesen.</p>
+				<p>Der geologische Grund ist folgender.</p>
+				<p>Den verschiedenen Lehrversuche&#44; welche man wegen<lb/> der <add>&#63;</add>tesischen Brunnen anstellte&#44; haben in den<lb/> Tiefen der Erde Str&#246;me und eine ungeheure<lb/> Wassermasse entdecken lassen.  Wahrscheinlich sollen<lb/> unter dem Ausdrucke <add>Hebrew</add> in der dritten Sch&#246;p&#61;<lb/>fungsgriede auch den untererdischen Gew&#228;sser<lb/> gemeint <add>&#63;</add>&#44; welche in den biblischen Schriften<lb/> <add>Hebrew</add> und <add>Hebrew</add> &#40;Genes. 7&#44; 11.&#41; genannt werden.</p>
+				<p>ibid. 11. Gott sprach&#44; es sprosse die Erde hervor aller&#44;<lb/>lei Sprossen&#44; Kraut&#44; welches <sic>Saamen</sic><lb/> bringt&#44; Fruchtb&#228;ume&#44; welche Fr&#252;chte<lb/> tragen&#44; noch ihrer Art&#44; in welchen der<lb/> Same auf Erden ist&#44; und es geschah also.</p>
+				<p>Der aufmerksame Leser wird sich wohl beim Lehre<lb/> dieses Verses nicht der Frage erwehren k&#246;mme&#58;<lb/> Wie&#63;  Da doch erst in der vierten Periode die<lb/> w&#228;rmenden Strahlen der Sonne geschossen<lb/> werden&#44; wie und wodurch sollten die Plfanzen<lb/> hervork&#246;mme&#63;  Zwar k&#246;nnte man <add>&#63;</add>&#44;<lb/> da&#223; die Lichtmaterin<add>&#63;</add>&#44; welche in der ersten Periode<lb/> geschossen wurden ist&#44; und um welche eine S<add>&#63;</add>tation</p>
+			<p rend="indent(1)">1&#41; Beil&#228;ufig kann ich meine Verwunderung nicht unter&#44;<lb/>dr&#252;cken&#44; da&#223; der geniale practische Americaner&#44; selbst<lb/> in gro&#223;en St&#228;dten&#44; wo die gew&#246;hnlichen Quellen schlechtes Trinkwasser<lb/> geben&#44; nicht artesische Brunnen anlegt.</p>
+			<pb n="3"/>
+				<p>unsere Erde Statt hatte&#44; das Wachsthum der Pflanzen<lb/> bef&#246;rderte&#59; allein wie konnten sie im Lichte eher<lb/> W&#228;rme fortkommen&#63;  Hier&#252;ber geben aus<lb/> wiederum die wuesten <add>&#63;</add>schungen auf dem Gebiete der<lb/> Geologie die n&#246;thizen Aufschl&#252;sse.</p>
+				<p>Die Beobachtung lehrt uns&#44; da&#223; der Einflu&#223; <add>&#63;</add><lb/> Jahreszeiten im <add>&#63;</add> der Erde nur bei einer<lb/> sehr geriesen Tiefe sich bemerken lassen.  Hierauf<lb/> nimmt die W&#228;rme allm&#228;lig in dem Maasse<add>&#63;</add> zu<lb/> als <add>&#63;</add> weiter in die Tief hierbsteigt&#44; und<lb/> es hat sich bei angestellten Beobachtungen<lb/> ergeben&#44; da&#223; die W&#228;rme bei je 33 Meter<lb/> Tiefe um einem Grad zu<add>&#63;</add>.  Die Erdw&#228;rme&#44;<lb/> der Centralw&#228;rme&#44; welche seit der ersten<lb/> Sch&#246;pfungsgeriede&#44; die Erde vollkommen fl&#252;&#223;ig<lb/> erhielt&#44; wie es noch heutzutage im J<add>&#63;</add> der&#44;<lb/>selben geschieht&#44; wovon aus die vulcanischen<lb/> Ausbr&#252;che und die warmen und hei&#223;en<lb/> Quellen &#252;berzeugen&#44; hat&#44; bevor die Oberfl&#228;che<lb/> der Erde zu dem gegenw&#228;rtigen Grade der<lb/> Abk&#228;ltung gelangte&#44; eine eigene Temperatur<lb/> hervorgebracht&#44; ehe keine Klimate Statt<lb/> fanden&#44; sondern eine <add>&#63;</add>h&#246;re<lb/> unser Erde umgab&#44; ehe die Vegetation fort&#44;<lb/>kommen konnte.  So fand man auf der<lb/> <add>&#63;</add> <placeName>Portland in England</placeName> vegetabilische<lb/> <sic>&#252;berraste</sic><add>&#63;</add> verschiedener tragischer Pflanzen<lb/> an ihrem urspr&#252;nglichen Platze eingewurzelt.<lb/>  Dasselbe sieht man in den miesten Steinkah&#44;<lb/>lenlangere<add>&#63;</add> <add>&#63;</add>&#44; und selbst in den jetzigen<lb/> k&#228;ltesten Gegenden.  Ein Beweis&#44; da&#223; die Tempe&#44;<lb/>ratur zu einer gewissen Zeit &#252;berall gleich<lb/> gewesen ist&#44; und dieses vor essen<add>&#63;</add> die<lb/> dritte Sch&#246;pfungsgeriede&#44; wiesen in der Bibel</p>
+			<pb n="4"/>
+				<p>angegeben wird&#44; zu das Plfanzenriech&#44; wie<lb/> in einem Treibhause&#44; unterhalten wurde.</p>
+				<p>Nun haben wir in diesem Verse nur noch eine<lb/> grammatische Bemerkung zu machen in<lb/> Betreff das Ausdruckes <add>Hebrew</add> &#40;noch seiner Art&#41;<lb/> <persName>Moses Mendelsohn</persName>&#44; in seinen biblischen Commentar&#44;<lb/> meint&#44; da&#223;&#44; wenn <add>Hebrew</add> sich auf <add>Hebrew</add> und <add>Hebrew</add><lb/> bez&#246;ge&#44; so m&#252;&#223;te es einen <add>&#63;</add> Accent&#44;<lb/> als <add>Hebrew</add> haben&#44; und folglich beziehe es sich blas auf <add>Hebrew</add> allein.  Die&#223; w&#228;re wohl richtig&#44; wenn<lb/> <add>&#63;</add> <add>&#63;</add>&#44; da&#223; in diesem Verse ein<lb/> <add>Hebrew</add> &#40;Paranthesis&#41; enthalten <add>&#63;</add>&#58; aber&#44; meiner<lb/> Ansicht noch&#44; ist die&#223; nicht der Fall.  Dieser Vers<lb/> bildet vielmehr eine mehrgliedrige Periode&#44; wo&#58;<lb/> &#8222;es sprosse die Erde allerlei Sprossen hervor&#8221; der<lb/> allgemeinste Nebensatz ist &#40;<add>Hebrew</add>&#41;&#44; welchen in den<lb/> &#252;brigen Nebens&#228;tzen erkl&#228;rend zerlegt ist&#44;<lb/> <add>Hebrew</add>.  Wer nun mit der Accentenlehre vertraut<lb/> ist&#44; der wei&#223; auch&#44; da&#223; <add>Hebrew</add>&#44;<lb/> wenn ein d<add>&#63;</add>ver Accent ein oder mehrere<lb/> Male hintereinander folgt&#44; so ist der vor&#44;<lb/>hergehende immer tr<add>&#63;</add> als der noch&#44;<lb/>folgende.  Folglich hat <add>Hebrew</add> als <add>Hebrew</add>&#44; noch alten wohlcor&#44;<lb/>rigirten Bibeln&#44; einen <add>Hebrew</add>&#44; welcher <add>&#63;</add> als<lb/> alle folgende <add>Hebrew</add> aber hat ein <add>Hebrew</add>&#44; au&#223;er dem <add>Hebrew</add><lb/> das gr&#246;&#223;te distincti<add>&#63;</add> in der Periode&#59; <del>welches</del> weil es sich auch<lb/> auf <add>Hebrew</add> zur&#252;ckbezieht&#44; und den gr&#246;&#223;ten Noch&#44;<lb/>druck haben mu&#223;.  Er ist also klar&#44; da&#223; die Accentuation<lb/> dieser Periode ganz damit &#252;bereinstimmt&#44; wenn <add>Hebrew</add><lb/> auch auf <add>Hebrew</add> bezogen wird.  Die S<add>&#63;</add>htigkeit hiervon&#44; wird<lb/> auch dadurch best&#228;tigt&#44; da&#223; es in n&#228;chsten Vers aus&#44;<lb/>dr&#252;cklich hei&#223;t &#8222;<add>Hebrew</add>&#8222; die Erde Brachte aller&#44;<lb/>lei Sprossen hervor&#58; Kraut&#44; das Samen bringt auch seiner<lb/> Art.</p>
+			<p rend="indent(8)">&#40;Fortsetzung folgt.&#41;</p>
+		</body>
+	</text>
+</TEI>

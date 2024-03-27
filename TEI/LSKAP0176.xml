@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI [
+<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
+%teibase;
+<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
+%teiext;
+]>
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>[no title given]</title>
+				<author attested="yes" accepted="yes" signature="yes">Leeser, Isaac</author>
+				<editor></editor>
+				<sponsor></sponsor>
+				<funder></funder>
+				<principal></principal>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition></edition>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</editionStmt>
+			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
+			<publicationStmt>
+				<publisher>Unpublished manuscript</publisher>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Not part of a series</p>
+			</seriesStmt>
+			<notesStmt>
+				<note></note>
+			</notesStmt>
+			<sourceDesc>
+				<biblStruct>
+					<!-- catalog entry goes here -->
+					<monogr>
+						<imprint>
+							<dateLet></dateLet>
+						</imprint>
+					</monogr>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<country>USA</country>
+						<region>PA</region>
+						<settlement>Philadelphia</settlement>
+						<institution></institution>
+						<repository>LSKAP</repository>
+						<collection>The Arnold and Deanne Kaplan Collection of Early American Judaica</collection>
+						<idno>LSKAP0176</idno>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+						<msName></msName>
+					</msIdentifier>
+					<head></head>
+					<letHeading>
+						<author attested="yes" accepted="yes" signature="yes">Leeser, Isaac</author>
+						<addressee editor="false" attested="yes" accepted="yes">Rehine, Zalma</addressee>
+						<deliverer></deliverer>
+						<respStmt>
+							<resp></resp>
+							<name></name>
+						</respStmt>
+						<placeLet>Philadelphia, PA</placeLet>
+						<placeRec>Philadelphia, PA</placeRec>
+						<dateLet when="1836-04" source="" attested="yes">April 11, 1836</dateLet>
+						<dateLet when="1836-04" source="" attested="yes">Nisan 23, 5596</dateLet>
+					</letHeading>
+					<msContents>
+						<msItem>
+							<author></author>
+							<editor></editor>
+							<respStmt>
+								<resp></resp>
+								<name></name>
+							</respStmt>
+							<title></title>
+							<decoNote></decoNote>
+							<listBibl>
+								<bibl></bibl>
+							</listBibl>
+							<filiation></filiation>
+							<textLang></textLang>
+							<figure>
+								<graphic url="LSKAP0176_1r.jpg"></graphic>
+								<graphic url="LSKAP0176_1v.jpg"></graphic>
+								<graphic url="LSKAP0176_2v.jpg"></graphic>
+							</figure>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support>
+									<material color="" lined="false" paper_type="" size="">letter</material>
+								</support>
+								<extent>4 pages on 2 sheets
+									<dimensions></dimensions>
+								</extent>
+								<foliation></foliation>
+								<collation></collation>
+								<condition fragment="false"></condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout></layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc script="manuscript">
+							<handNote></handNote>
+						</handDesc>
+						<decoDesc>
+							<decoNote></decoNote>
+						</decoDesc>
+						<additions></additions>
+						<bindingDesc>
+							<binding>
+								<decoNote></decoNote>
+							</binding>
+						</bindingDesc>
+						<sealDesc>
+							<seal>
+								<p></p>
+							</seal>
+						</sealDesc>
+						<accMat></accMat>
+						<envDesc occ="false"></envDesc>
+					</physDesc>
+					<history>
+						<origin></origin>
+						<provenance></provenance>
+						<acquisition></acquisition>
+					</history>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source></source>
+								<change></change>
+							</recordHist>
+							<availability status="restricted">
+								<p>Restricted</p>
+							</availability>
+							<custodialHist>
+								<custEvent></custEvent>
+							</custodialHist>
+						</adminInfo>
+						<surrogates></surrogates>
+						<listBibl>
+							<bibl></bibl>
+						</listBibl>
+					</additional>
+					<msPart>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+					</msPart>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p></p>
+			</projectDesc>
+			<samplingDecl>
+				<p></p>
+			</samplingDecl>
+			<editorialDecl>
+				<correction>
+					<p></p>
+				</correction>
+				<normalization>
+					<p></p>
+				</normalization>
+				<quotation>
+					<p></p>
+				</quotation>
+				<hyphenation>
+					<p></p>
+				</hyphenation>
+				<segmentation>
+					<p></p>
+				</segmentation>
+				<stdVals>
+					<p></p>
+				</stdVals>
+				<interpretation>
+					<p></p>
+				</interpretation>
+			</editorialDecl>
+			<tagsDecl>
+				<rendition></rendition>
+				<namespace name="http://www.tei-c.org/ns/1.0">
+					<tagUsage gi=""></tagUsage>
+				</namespace>
+			</tagsDecl>
+			<refsDecl>
+				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
+			</refsDecl>
+			<refsDecl>
+				<refState unit=""/>
+			</refsDecl>
+			<classDecl>
+				<taxonomy>
+					<category>
+						<catDesc></catDesc>
+					</category>
+				</taxonomy>
+			</classDecl>
+			<appInfo>
+				<application ident="" version="">
+					<desc></desc>
+					<label></label>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<creation></creation>
+			<langUsage>
+				<language ident="en">English</language>
+				<language ident="he">Hebrew</language>
+			</langUsage>
+			<textClass>
+				<keywords scheme="unknown">
+					<list>
+						<item></item>
+						<item></item>
+					</list>
+				</keywords>
+				<classCode scheme=""></classCode>
+				<catRef/>
+			</textClass>
+		</profileDesc>
+		<revisionDesc>
+			<change></change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<pb n="1R"/>
+				<p>To <addressee>Mr. Zalme Rehine</addressee>&#44;</p>
+			<p rend="indent(1)">care of <persName>Miss Judah Bloch</persName></p>
+			<p rend="indent(2)"><placeName>Baltimore</placeName></p>
+				<p>Single</p>
+				<p rend="align(right)"><placeName>Philadelphia</placeName> <date>April 10<hi rend="sup">th</hi> Nisan 23rd 5596</date>.</p>
+				<p>Dear Uncle</p>
+			<p rend="indent(1)">I received your note the day before the <sic>holydays</sic>&#44; and would have<lb/> answered it immediately&#44; but that I had nothing to write&#44; and I would rather wait<lb/> till something was settled with regard to myself&#59; but again today there was no<lb/> meeting of the congregation and consequently nothing is known or determined<lb/> with respect to my future stay here.  There is no probability that there will be<lb/> any meeting before the next <sic>holydays</sic>&#44; and of course I must be kept in doubt till<lb/> then.  I hardly know what to make of the people&#44; they ought to know that it must be<lb/> very unpleasant to be kept in suspense&#44; still they seem to care little or nothing<lb/> about the whole matter&#44; and of course I must and do feel very unpleasantly&#44;<lb/> especially as daily some little things occur to make things very uncomfortable.<lb/>  Especially this day week I thought it my duty to speak to the people about the<lb/> many wrong things I see every day&#59; and you never saw or hear such an outcry as<lb/> there was made about it&#59; every one had something to say and some of the ladies<lb/> warmly approved&#44; but many of the men condemned me&#44; and could have eaten me up.  I<lb/> am really tired of having to defend myself constantly from one charged or the<lb/> other which is always made and really it appears that my congregation are never<lb/> tired of worrying me&#8212;when you come here which I hope will be very soon&#44; I shall<lb/> show you my sermon&#44; and tell you perhaps some other things as I wish to hear your<lb/> advise too in my future movements&#59; for I do not like to take my step without<lb/> hearing your opinion first.&#8212;Subscription to my book does not seem to be thought of<lb/> at least I hear nothing about it.  Perhaps after a while it may do&#44; but people<lb/> feel very indifferent about me and my doing.</p>
+			<pb n="1V"/>
+			<p rend="indent(1)">I hear that <persName>Zipporeh Seixas</persName> is engaged to her cousin <persName>Ben</persName> Son of <persName>Sol<lb/> Seixas</persName>&#59; a son of <persName>Mr. Nathan</persName> to a daughter of <persName>Hendricks</persName> and a daughter of the former<lb/> to a son of the latter&#59; besides report speaks of the engagement of <persName>Jeanette Ann</persName><lb/> &#38; <persName>Rebecca Kursheedt</persName> besides that <add>&#63;</add> is positively to be married to a <add>&#63;</add><lb/> <persName>Hannah Duke</persName> of <placeName>Jamaica</placeName>.</p>
+			<p rend="indent(1)">I believe from enquiries made that my sister has received your<lb/> but I have not yet heard direct from her.</p>
+			<p rend="indent(1)">I have also delivered another address on the Messiah subject not yet<lb/> complete.</p>
+			<p rend="indent(1)">I am so nervous and my hand shakes so much that I can hardly write&#44; so<lb/> please to excuse the bad appearance of this note&#44; which I would not have sent in my<lb/> present frame of mind if I did not think my duty to delay writing no longer.</p>
+			<p rend="indent(1)">Give my love to aunt and all the family and believe me <sic>tobe</sic></p>
+			<p rend="indent(4)">Your obt. Nephew&#44;</p>
+			<p rend="indent(5)"><persName role="author"><sic>Issac Lesser</sic></persName>.</p>
+		</body>
+	</text>
+</TEI>

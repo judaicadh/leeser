@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI [
+<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
+%teibase;
+<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
+%teiext;
+]>
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>[no title given]</title>
+				<author attested="yes" accepted="yes" signature="yes">Sollas, M. M.</author>
+				<editor></editor>
+				<sponsor></sponsor>
+				<funder></funder>
+				<principal></principal>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition></edition>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</editionStmt>
+			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
+			<publicationStmt>
+				<publisher>Unpublished manuscript</publisher>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Not part of a series</p>
+			</seriesStmt>
+			<notesStmt>
+				<note></note>
+			</notesStmt>
+			<sourceDesc>
+				<biblStruct>
+					<!-- catalog entry goes here -->
+					<monogr>
+						<imprint>
+							<dateLet></dateLet>
+						</imprint>
+					</monogr>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<country>USA</country>
+						<region>PA</region>
+						<settlement>Philadelphia</settlement>
+						<institution></institution>
+						<repository>LSKAP</repository>
+						<collection>The Arnold and Deanne Kaplan Collection of Early American Judaica</collection>
+						<idno>LSKAP0046</idno>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+						<msName></msName>
+					</msIdentifier>
+					<head></head>
+					<letHeading>
+						<author attested="yes" accepted="yes" signature="yes">Sollas, M. M.</author>
+						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac</addressee>
+						<deliverer></deliverer>
+						<respStmt>
+							<resp></resp>
+							<name></name>
+						</respStmt>
+						<placeLet>Kingston, Jamaica</placeLet>
+						<placeRec>Philadelphia, PA</placeRec>
+						<dateLet when="1886-03" source="" attested="yes">March 6, 1886</dateLet>
+					</letHeading>
+					<msContents>
+						<msItem>
+							<author></author>
+							<editor></editor>
+							<respStmt>
+								<resp></resp>
+								<name></name>
+							</respStmt>
+							<title></title>
+							<decoNote></decoNote>
+							<listBibl>
+								<bibl></bibl>
+							</listBibl>
+							<filiation></filiation>
+							<textLang></textLang>
+							<figure>
+								<graphic url="LSKAP0046_1R.jpg"></graphic>
+								<graphic url="LSKAP0046_1V.jpg"></graphic>
+								<graphic url="LSKAP0046_2V.jpg"></graphic>
+							</figure>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support>
+									<material color="" lined="false" paper_type="" size="">letter</material>
+								</support>
+								<extent>4 pages on 2 sheets
+									<dimensions></dimensions>
+								</extent>
+								<foliation></foliation>
+								<collation></collation>
+								<condition fragment="false"></condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout></layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc script="manuscript">
+							<handNote></handNote>
+						</handDesc>
+						<decoDesc>
+							<decoNote></decoNote>
+						</decoDesc>
+						<additions></additions>
+						<bindingDesc>
+							<binding>
+								<decoNote></decoNote>
+							</binding>
+						</bindingDesc>
+						<sealDesc>
+							<seal>
+								<p></p>
+							</seal>
+						</sealDesc>
+						<accMat></accMat>
+						<envDesc occ="false"></envDesc>
+					</physDesc>
+					<history>
+						<origin></origin>
+						<provenance></provenance>
+						<acquisition></acquisition>
+					</history>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source></source>
+								<change></change>
+							</recordHist>
+							<availability status="restricted">
+								<p>Restricted</p>
+							</availability>
+							<custodialHist>
+								<custEvent></custEvent>
+							</custodialHist>
+						</adminInfo>
+						<surrogates></surrogates>
+						<listBibl>
+							<bibl></bibl>
+						</listBibl>
+					</additional>
+					<msPart>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+					</msPart>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p></p>
+			</projectDesc>
+			<samplingDecl>
+				<p></p>
+			</samplingDecl>
+			<editorialDecl>
+				<correction>
+					<p></p>
+				</correction>
+				<normalization>
+					<p></p>
+				</normalization>
+				<quotation>
+					<p></p>
+				</quotation>
+				<hyphenation>
+					<p></p>
+				</hyphenation>
+				<segmentation>
+					<p></p>
+				</segmentation>
+				<stdVals>
+					<p></p>
+				</stdVals>
+				<interpretation>
+					<p></p>
+				</interpretation>
+			</editorialDecl>
+			<tagsDecl>
+				<rendition></rendition>
+				<namespace name="http://www.tei-c.org/ns/1.0">
+					<tagUsage gi=""></tagUsage>
+				</namespace>
+			</tagsDecl>
+			<refsDecl>
+				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
+			</refsDecl>
+			<refsDecl>
+				<refState unit=""/>
+			</refsDecl>
+			<classDecl>
+				<taxonomy>
+					<category>
+						<catDesc></catDesc>
+					</category>
+				</taxonomy>
+			</classDecl>
+			<appInfo>
+				<application ident="" version="">
+					<desc></desc>
+					<label></label>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<creation></creation>
+			<langUsage>
+				<language ident="en">English</language>
+				<language ident="he">Hebrew</language>
+			</langUsage>
+			<textClass>
+				<keywords scheme="unknown">
+					<list>
+						<item></item>
+						<item></item>
+					</list>
+				</keywords>
+				<classCode scheme=""></classCode>
+				<catRef/>
+			</textClass>
+		</profileDesc>
+		<revisionDesc>
+			<change></change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<pb n="1R"/>
+				<p rend="align(right)"><placeName>Kingston Jamaica</placeName></p>
+				<p rend="align(right)"><date>6<hi rend="sup">th</hi> March 1886</date></p>
+				<p>Dear and Revd Friend</p>
+			<p rend="indent(1)">It is a very long time since I grasped your<lb/> honest &#38; friendly hand&#44; &#38; its also a long time since I<lb/> had the pleasures of greeting you by letter.  Like my<lb/> self you are getting old &#38; I hardly can expect to<lb/> realise the hope of again meeting you&#44; to say in<lb/> person all what a letter cannot convey.  You know<lb/> I adopted you as my spiritual Teacher &#38; if it can<lb/> afford you any pleasure&#44; you have it from my<lb/> humble pen&#44;  that to you I am indebted for the<lb/> first teachings what gave me an impetus to<lb/> study my Bible.  My Father <add>Hebrew</add> sat no <del>the</del> great<lb/> example of practice&#44; but it was your writing that<lb/> directed my studies&#44; &#38; living in a Christian com<lb/>munity of thousands &#38; I the <hi rend="underline">only</hi> <del>&#63;</del> one of <add>&#63;</add>&#45;<lb/> &#38; this for forty years.  I taught myself to be able<lb/> boldly to stand before all &#38; say &#8220;I am a Hebrew &#38;<lb/> I fear the living God.&#8221;  Never schooled to speak out<lb/> &#38; thank god to bring up a family of eleven children<lb/> may they be counted for good&#44; in the fear of God &#38;<lb/> observing in his Laws.  Well my friend I am<lb/> afraid that you will not give me the <add>&#63;</add> of<lb/> congratulating you on your marriage day &#38; so I<lb/> must write your congratulation on the marriage of</p>
+			<pb n="1V"/>
+				<p>of my eldest daughter &#38; the engagement of two others&#44;<lb/> one&#44; you may possibly see&#44; as she is destined for<lb/> <placeName>Buffalo</placeName> &#38; be sure she will be instructed to look<add>&#63;</add><lb/> for you &#38; receive your blessing.  I am not richer<lb/> than  I was&#44; but poorer&#44; yet contented &#38; hold my<lb/> head as boldly up&#44; as becomes an honest Israelite.</p>
+			<p rend="indent(1)">And now my friend allow me to introduce<lb/> to your causal attention my young friend <persName>Mr.<lb/> Lewin<add>&#63;</add></persName> who leaves tomorrow for <placeName>America</placeName>.<lb/>  He has not been <sic>succesful</sic> here in being elected<lb/> as Reader of the Sister congregation&#44; I believe<lb/> simply because he is too young&#33; &#8212; What a farce&#33;<lb/>  but this is an extraordinary community&#59; the<lb/> people do not go to synagogue to listen&#44; to observe<lb/> &#38; to do&#44; but to criticise &#38; they require a great<lb/> reader&#44; a great voice&#44; great preacher&#44; so that<lb/> my young friend was not allowed even to try<lb/> his capabilities&#8212;he goes to a country wherein I<lb/> am sure he will succeed&#8212;I pray you do all<lb/> you can to help him on.  For 15 <del>years</del> months I have<lb/> known him as a successful Teacher&#44; a pious<lb/> &#38; observing Israelite&#44; &#38; I think we lose in<lb/> him a promising man.  He is no Prophet in<lb/> his country&#44; but will shine elsewhere&#44; &#38; <hi rend="underline">then</hi><lb/> the regret of parting with him will come.</p>
+			<p rend="indent(1)">Accept the earnest assurances of my esteem &#38;<lb/> gratitude &#38; believe me&#44; dear friend</p>
+			<p rend="indent(6)">Yours very Truly</p>
+			<p rend="indent(7)"><persName role="author">M M Sollas</persName></p>
+			<pb n="2V"/>
+				<p rend="align(center)">The Revrd</p>
+			<p rend="align(center)"><addressee>Isaac Leeser</addressee></p>
+			<p rend="align(center)"><placeName>New York</placeName></p>
+			<p rend="align(center)"><add>&#63;</add></p>
+		</body>
+	</text>
+</TEI>

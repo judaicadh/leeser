@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI [
+<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
+%teibase;
+<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
+%teiext;
+]>
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>[no title given]</title>
+				<author attested="yes" accepted="yes" signature="yes">Busch, Isidor</author>
+				<editor></editor>
+				<sponsor></sponsor>
+				<funder></funder>
+				<principal></principal>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition></edition>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</editionStmt>
+			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
+			<publicationStmt>
+				<publisher>Unpublished manuscript</publisher>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Not part of a series</p>
+			</seriesStmt>
+			<notesStmt>
+				<note></note>
+			</notesStmt>
+			<sourceDesc>
+				<biblStruct>
+					<!-- catalog entry goes here -->
+					<monogr>
+						<imprint>
+							<dateLet></dateLet>
+						</imprint>
+					</monogr>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<country>USA</country>
+						<region>PA</region>
+						<settlement>Philadelphia</settlement>
+						<institution></institution>
+						<repository>LSKAP</repository>
+						<collection>The Arnold and Deanne Kaplan Collection of Early American Judaica</collection>
+						<idno>LSKAP0117</idno>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+						<msName></msName>
+					</msIdentifier>
+					<head></head>
+					<letHeading>
+						<author attested="yes" accepted="yes" signature="yes">Busch, Isidor</author>
+						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac</addressee>
+						<deliverer></deliverer>
+						<respStmt>
+							<resp></resp>
+							<name></name>
+						</respStmt>
+						<placeLet>New York, NY</placeLet>
+						<placeRec>Philadelphia, PA</placeRec>
+						<dateLet when="1849-02" source="" attested="yes">February 16, 1849</dateLet>
+						<dateLet when="1849-02" source="" attested="yes">24 Schebat 5609</dateLet>
+					</letHeading>
+					<msContents>
+						<msItem>
+							<author></author>
+							<editor></editor>
+							<respStmt>
+								<resp></resp>
+								<name></name>
+							</respStmt>
+							<title></title>
+							<decoNote></decoNote>
+							<listBibl>
+								<bibl></bibl>
+							</listBibl>
+							<filiation></filiation>
+							<textLang></textLang>
+							<figure>
+								<graphic url="LSKAP0117_1r.jpg"></graphic>
+								<graphic url="LSKAP0117_1v.jpg"></graphic>
+								<graphic url="LSKAP0117_2v.jpg"></graphic>
+							</figure>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support>
+									<material color="" lined="false" paper_type="" size="">letter</material>
+								</support>
+								<extent>4 pages on 2 sheets
+									<dimensions></dimensions>
+								</extent>
+								<foliation></foliation>
+								<collation></collation>
+								<condition fragment="false"></condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout></layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc script="manuscript">
+							<handNote></handNote>
+						</handDesc>
+						<decoDesc>
+							<decoNote></decoNote>
+						</decoDesc>
+						<additions></additions>
+						<bindingDesc>
+							<binding>
+								<decoNote></decoNote>
+							</binding>
+						</bindingDesc>
+						<sealDesc>
+							<seal>
+								<p></p>
+							</seal>
+						</sealDesc>
+						<accMat></accMat>
+						<envDesc occ="false"></envDesc>
+					</physDesc>
+					<history>
+						<origin></origin>
+						<provenance></provenance>
+						<acquisition></acquisition>
+					</history>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source></source>
+								<change></change>
+							</recordHist>
+							<availability status="restricted">
+								<p>Restricted</p>
+							</availability>
+							<custodialHist>
+								<custEvent></custEvent>
+							</custodialHist>
+						</adminInfo>
+						<surrogates></surrogates>
+						<listBibl>
+							<bibl></bibl>
+						</listBibl>
+					</additional>
+					<msPart>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+					</msPart>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p></p>
+			</projectDesc>
+			<samplingDecl>
+				<p></p>
+			</samplingDecl>
+			<editorialDecl>
+				<correction>
+					<p></p>
+				</correction>
+				<normalization>
+					<p></p>
+				</normalization>
+				<quotation>
+					<p></p>
+				</quotation>
+				<hyphenation>
+					<p></p>
+				</hyphenation>
+				<segmentation>
+					<p></p>
+				</segmentation>
+				<stdVals>
+					<p></p>
+				</stdVals>
+				<interpretation>
+					<p></p>
+				</interpretation>
+			</editorialDecl>
+			<tagsDecl>
+				<rendition></rendition>
+				<namespace name="http://www.tei-c.org/ns/1.0">
+					<tagUsage gi=""></tagUsage>
+				</namespace>
+			</tagsDecl>
+			<refsDecl>
+				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
+			</refsDecl>
+			<refsDecl>
+				<refState unit=""/>
+			</refsDecl>
+			<classDecl>
+				<taxonomy>
+					<category>
+						<catDesc></catDesc>
+					</category>
+				</taxonomy>
+			</classDecl>
+			<appInfo>
+				<application ident="" version="">
+					<desc></desc>
+					<label></label>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<creation></creation>
+			<langUsage>
+				<language ident="en">English</language>
+				<language ident="de">German</language>
+			</langUsage>
+			<textClass>
+				<keywords scheme="unknown">
+					<list>
+						<item></item>
+						<item></item>
+					</list>
+				</keywords>
+				<classCode scheme=""></classCode>
+				<catRef/>
+			</textClass>
+		</profileDesc>
+		<revisionDesc>
+			<change></change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<pb n="1R"/>
+				<p rend="align(center)">Sehr geehrter Herr&#33;</p>
+				<p>Sie <add>&#63;</add> <add>&#63;</add> <placeName>New York</placeName> &#246;fter zu besuchen und ich hatte somit auf<lb/> das Vergangen  Ihre baldigen pers&#246;nlichen Bekanntschaft.</p>
+				<p>Wo Sie indess bereits von meiner Anwesenheit hier durch Andere<lb/> unterrichtet wurden&#44; so wie von meinem Vorhaben&#44; wie Zeitschrift f&#252;r j&#252;di&#44;<lb/>sche Interessen hier herauszugeben&#44; da ferner durch die Berichte<lb/> dritter und vielleicht unberufener Personen&#44; Missverst&#228;ndnisse entstehen<lb/> w&#228;hrend zwischen M&#228;nnere wie wir find sowohl pers&#246;nlich&#44; als um der guten<lb/> Sache willen&#44; f&#252;r welche wir streben&#44; das beste Einverst&#228;ndniss w&#252;nschen<lb/> werth ist&#44; nehme ich mir ohne Weiteres die freiheit diese Zeilen an<lb/> Sie zu richten.</p>
+				<p>Ich war <sic>zwahr</sic> von mehrere Seiten aufgefordert werden&#44; das von mir zu<lb/> begr&#252;ndende Blatt in beiden Sprachen&#44; der <hi rend="underline">englischen u</hi> deutschen zugleich&#8212;<lb/> herauszugeben&#44; aber theils bin ich nicht kundig genug der einen um<lb/> selbst darin zu schreiben&#44; theils <add>&#63;</add> das Ihr trefflicher Organ igno&#44;<lb/>riren&#59; und wenn auch Manche nicht ganz aufrieden damit sind&#44; so bin ich<lb/> wohl &#252;berzeugt&#44; dass es mir bei dem eifrigsten Bem&#252;hen nicth besser gehe<lb/> wird&#44; so bin ich &#252;berzeugt&#44; dass es Sie Ihr m&#246;glichster thun&#44; den <sic>Geschmak</sic><add>&#63;</add> und<lb/> die Bed&#252;rfnisse Ihres Publikums &#252;berdies weit besser kennen also ich&#44; und<lb/> als die meisten&#44; die kaum wissen&#44; wie viel l<add>&#63;</add>ter tadeln also besser machen<lb/> ist.  Ich gebe Ihnen die Versicherung&#44; da&#223; ich in meinem Blatte &#40;dessen<lb/> Programm ich Ihren im Laufe der n&#228;chsten Woche einzusenden gedenke&#41; Ihrem &#8222;Occid&#44;<lb/>ent&#8221; stets die Achtung und Anerkennung wird zukommen lassen&#44; die ihm&#44;<lb/> als dem <hi rend="underline">&#228;ltere</hi> judischen Organn hier&#44; und durch seine hochachtungs werthen Mitar&#44;<lb/>beiter geb&#252;hren&#44; und da&#223; ich me<add>&#63;</add>erheits&#44; auch wenn unsere Ansichten di<add>&#63;</add><lb/>stets</p>
+			<pb n="1V"/>
+				<p>stets in collegialisch freundliches <hi rend="underline">Zusammenwerken</hi> aus allen kraften<lb/> unterst&#252;tzen werde.  Es d&#252;rfte im solches auch noch in anderer Beziehung<lb/> zwischen uns m&#246;glich und f&#252;r Beide vortheilhaft sein.  Uberlassen wir die&#223;<lb/> indess<add>&#63;</add> der Zeit&#59; f&#252;r den Augenblick wird es noch freuen von Ihnen<lb/> die Zusicherung zu erhalten&#44; da&#223; Sie meinem Wunsche nicht entgegen<lb/> sind und mir auf gleiche Weise entgegenkommen wollen</p>
+			<p rend="indent(2)">In welcher Erwartung ich zeichen</p>
+			<p rend="indent(3)">Ihr Sie hochachtender</p>
+			<p rend="indent(4)"><persName role="author">Isidor Busch</persName></p>
+				<p><placeName><hi rend="underline">New York</hi></placeName> <date>16 Febr. 1849 &#40;24 Schebat 5609&#41;</date></p>
+				<p><hi rend="underline"><placeName>419. Grandstreet</placeName>&#44; upstairs</hi>.</p>
+			<pb n="2V"/>
+			<p rend="indent(2)">Rev Mr</p>
+				<p><addressee>Isaac Leeser</addressee></p>
+			<p rend="indent(1)"><placeName>Philadelphia</placeName></p>
+			<p rend="indent(1)"><placeName>371 Walnut Street</placeName></p>
+		</body>
+	</text>
+</TEI>

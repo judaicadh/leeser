@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI [
+<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
+%teibase;
+<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
+%teiext;
+]>
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>[no title given]</title>
+				<author attested="yes" accepted="yes" signature="yes">Hackenburg, I. L.; et al.</author>
+				<editor></editor>
+				<sponsor></sponsor>
+				<funder></funder>
+				<principal></principal>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition></edition>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</editionStmt>
+			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
+			<publicationStmt>
+				<publisher>Unpublished manuscript</publisher>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Not part of a series</p>
+			</seriesStmt>
+			<notesStmt>
+				<note></note>
+			</notesStmt>
+			<sourceDesc>
+				<biblStruct>
+					<!-- catalog entry goes here -->
+					<monogr>
+						<imprint>
+							<dateLet></dateLet>
+						</imprint>
+					</monogr>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<country>USA</country>
+						<region>PA</region>
+						<settlement>Philadelphia</settlement>
+						<institution></institution>
+						<repository>TCAT</repository>
+						<collection>Anonymous</collection>
+						<idno>LSTCAT_item202</idno>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+						<msName></msName>
+					</msIdentifier>
+					<head></head>
+					<letHeading>
+						<author attested="yes" accepted="yes" signature="yes">Hackenburg, I. L.; et al.</author>
+						<addressee editor="false" attested="yes" accepted="yes"></addressee>
+						<deliverer></deliverer>
+						<respStmt>
+							<resp></resp>
+							<name></name>
+						</respStmt>
+						<placeLet>Philadelphia, PA</placeLet>
+						<placeRec>Philadelphia, PA</placeRec>
+						<dateLet when="1841-07" source="" attested="yes">July 1841</dateLet>
+						<dateLet when="1841-07" source="" attested="yes">Ab 5601</dateLet>
+					</letHeading>
+					<msContents>
+						<msItem>
+							<author></author>
+							<editor></editor>
+							<respStmt>
+								<resp></resp>
+								<name></name>
+							</respStmt>
+							<title></title>
+							<decoNote></decoNote>
+							<listBibl>
+								<bibl></bibl>
+							</listBibl>
+							<filiation></filiation>
+							<textLang></textLang>
+							<figure>
+								<graphic url="il_tcat_item202_wk1_body0001.jpg"></graphic>
+								<graphic url="il_tcat_item202_wk1_body0002.jpg"></graphic>
+								<graphic url="il_tcat_item202_wk1_body0003.jpg"></graphic>
+								<graphic url="il_tcat_item202_wk1_body0004.jpg"></graphic>
+							</figure>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support>
+									<material color="" lined="false" paper_type="" size="">print</material>
+								</support>
+								<extent>3 pages on 4 sheets
+									<dimensions></dimensions>
+								</extent>
+								<foliation></foliation>
+								<collation></collation>
+								<condition fragment="false"></condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout></layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc script="typescript">
+							<handNote></handNote>
+						</handDesc>
+						<decoDesc>
+							<decoNote></decoNote>
+						</decoDesc>
+						<additions>Circular</additions>
+						<bindingDesc>
+							<binding>
+								<decoNote></decoNote>
+							</binding>
+						</bindingDesc>
+						<sealDesc>
+							<seal>
+								<p></p>
+							</seal>
+						</sealDesc>
+						<accMat></accMat>
+						<envDesc occ="false"></envDesc>
+					</physDesc>
+					<history>
+						<origin></origin>
+						<provenance></provenance>
+						<acquisition></acquisition>
+					</history>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source></source>
+								<change></change>
+							</recordHist>
+							<availability status="free">
+								<p>Unrestricted</p>
+							</availability>
+							<custodialHist>
+								<custEvent></custEvent>
+							</custodialHist>
+						</adminInfo>
+						<surrogates></surrogates>
+						<listBibl>
+							<bibl></bibl>
+						</listBibl>
+					</additional>
+					<msPart>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+					</msPart>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p></p>
+			</projectDesc>
+			<samplingDecl>
+				<p></p>
+			</samplingDecl>
+			<editorialDecl>
+				<correction>
+					<p></p>
+				</correction>
+				<normalization>
+					<p></p>
+				</normalization>
+				<quotation>
+					<p></p>
+				</quotation>
+				<hyphenation>
+					<p></p>
+				</hyphenation>
+				<segmentation>
+					<p></p>
+				</segmentation>
+				<stdVals>
+					<p></p>
+				</stdVals>
+				<interpretation>
+					<p></p>
+				</interpretation>
+			</editorialDecl>
+			<tagsDecl>
+				<rendition></rendition>
+				<namespace name="http://www.tei-c.org/ns/1.0">
+					<tagUsage gi=""></tagUsage>
+				</namespace>
+			</tagsDecl>
+			<refsDecl>
+				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
+			</refsDecl>
+			<refsDecl>
+				<refState unit=""/>
+			</refsDecl>
+			<classDecl>
+				<taxonomy>
+					<category>
+						<catDesc></catDesc>
+					</category>
+				</taxonomy>
+			</classDecl>
+			<appInfo>
+				<application ident="" version="">
+					<desc></desc>
+					<label></label>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<creation></creation>
+			<langUsage>
+				<language ident="en">English</language>
+			</langUsage>
+			<textClass>
+				<keywords scheme="unknown">
+					<list>
+						<item></item>
+						<item></item>
+					</list>
+				</keywords>
+				<classCode scheme=""></classCode>
+				<catRef/>
+			</textClass>
+		</profileDesc>
+		<revisionDesc>
+			<change></change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<pb n="1"/>
+				<p rend="align(center)">CIRCULAR.</p>
+				<p rend="align(right)"><placeName>Philadelphia</placeName>&#44; <date>Ab&#44; 5601&#44; July 1841</date>.</p>
+			<p rend="indent(1)">To the President and Members of the Congregation    at    <lb/> the Israelites of <placeName>Philadelphia</placeName>&#44; send greeting&#58;</p>
+			<p rend="indent(2)">Brethren&#33;</p>
+			<p rend="indent(1)">May long life and spiritual and temporal prosperity be your portion from our Father<lb/> in heaven&#44; and may He&#44; the Most High&#44; move your hearts to piety to himself&#44; and good<lb/> will towards all <placeName>Israel</placeName> your brethren.  Amen.</p>
+			<p rend="indent(1)">In the full confidence that you will favourably entertain our plan for a general union&#44;<lb/> we on the part of the Israelites of this vicinity&#44; affectionately invite you to deliberate well on<lb/> the proposition and regulations which accompany this&#44; and to elect without delay suitable<lb/> persons for delegates&#44; to meet us in general convention&#44; on the <date>first Sunday in November</date>&#44;<lb/> being the <date>7<hi rend="sup">th</hi></date> of that month&#44; corresponding with the <date>23d day of Marcheshvan&#44; 5602</date>&#44;<lb/> at <placeName>Philadelphia</placeName>.</p>
+			<p rend="indent(1)">We deem it scarcely requisite to admonish you to select men who have the fear of God<lb/> before their eyes&#44; whose interest in the welfare of the House of <persName>Jacob</persName> is of an abiding<lb/> nature&#44; whose moral character is unblemished&#44; and who are of sufficient intelligence to judge<lb/> with impartiality and reasonable conviction&#44; and of such men there are doubtless many<lb/> among your number&#59; and have the goodness to instruct them&#44; without exacting pledges&#44;<lb/> with regard to the measures you wish proposed&#44; and what persons elected for the high<lb/> stations embraced in our plan&#44; that they who are chosen may step abroad with the seal of<lb/> public approbation stamped upon them and their characters.</p>
+			<p rend="indent(1)">Although we can scarcely believe that any congregation&#44; who are duly impressed with<lb/> the paramount obligation to uphold our blessed faith&#44; can refuse uniting with us in a mea&#61;<lb/>sure which evidently promises so much general good&#58; we would&#44; nevertheless&#44; thank you to<lb/> let us hear from you with the least possible delay&#44; if you decline the union we herewith<lb/> offer to you.</p>
+			<p rend="indent(1)">In the full confidence of a favourable issue&#44; and a fervent hope that you will be found<lb/> united with us in a common effort to spread the kingdom of Heaven&#44; we remain&#59;</p>
+			<p rend="indent(6)">Beloved brethren&#44; your friends and servants in the Lord.</p>
+			<p rend="indent(7)"><persName role="author">J. L. Hackenburg</persName></p>
+			<p rend="indent(7)"><persName role="author">Lewis Allen</persName></p>
+			<p rend="indent(7)"><persName role="author">Simon <add>&#63;</add></persName>    Committee.</p>
+			<p rend="indent(7)"><persName role="author">Jacob Ulman</persName></p>
+			<p rend="indent(7)"><persName role="author">Isaac Leeser</persName>.</p>
+			<p rend="indent(7)"><persName role="author">Henry<add>&#63;</add> Cohen</persName></p>
+			<p rend="indent(7)"><persName role="author">Mayer Arnold</persName></p>
+			<pb n="3"/>
+				<p rend="The original text is in two columns."></p>
+			<p rend="indent(1)">A meeting of Israelites of all the different congregations<lb/> in the City and County of <placeName>Philadelphia</placeName>&#44; was held pursuant to<lb/> public notice&#44; on <date>Sunday the 27<hi rend="sup">th</hi> day of June&#44; 1841</date>&#44; correspond&#45;<lb/>ing with the <date>8<hi rend="sup">th</hi> day of Tamuz&#44; 5601</date>&#44; at the Synagogue <hi rend="italics">Beth Israel&#44; </hi>to take into consideration the plan for establishing a<lb/> religious union among the Israelites of <placeName>America</placeName>&#44; proposed by<lb/> the <persName role="author">Rev. Louis Salomon</persName>&#44; minister of the congregation Rodef<lb/> Shalom&#44; and <persName role="author">Isaac Leeser</persName> of the congregation Mikveh Israel<lb/> in <placeName>Philadelphia</placeName>.</p>
+			<p rend="indent(1)"><persName role="author">Lewis Allen&#44; Esq.</persName>&#44; President of the congregation of Mikveh<lb/> Israel&#44; was called to the chair&#44; and <persName role="author">Mr. Henry Cohen</persName>&#44; Trea&#45;<lb/>surer of the congregation Beth Israel&#44; was appointed Secre&#45;<lb/>tary.</p>
+			<p rend="indent(1)"><persName role="author">Mr. Leeser</persName> then addressed the meeting on the utility of such<lb/> union&#44; and offered a resolution that a committee be appointed to<lb/> take the plan into consideration and report to a future meeting.</p>
+			<p rend="indent(1)">The resolution having been amended on motion of <persName>Joseph S.<lb/> Cohen&#44; Esq.</persName>&#44; as follows&#58;</p>
+			<p rend="indent(1)">&#8220;<hi rend="italics">Resolved</hi>&#44; That a committee be appointed to consider the<lb/> propriety of endeavouring to establish a plan of religious union<lb/> of the different congregations of <placeName>America</placeName>&#44; 2<hi rend="sup">nd</hi> that they report<lb/> a plan for obtaining the views of the several congregations as<lb/> to such union&#44; and such other matters as may be thought neces&#45;<lb/>sary to carry the union into effect&#44; and that the plan submitted<lb/> by the <persName role="author">Rev. Messrs. Salomon</persName> and <persName role="author">Leeser</persName>&#44; be referred to that<lb/> committee&#44;&#8221; was carried&#59; and it having been further resolved&#44;<lb/> that the committee should consist of seven&#44; exclusive of <persName role="author">Messrs.<lb/> Salomon</persName> and <persName role="author">Leeser</persName>&#59; the chair appointed <persName role="author">Messrs. A. Hart</persName>&#44; <persName role="author">J.<lb/> L. Hackenburg</persName>&#44; <persName role="author">Lewis Bomeisler</persName>&#44; <persName>Frederic Samuel</persName>&#44; <persName>Hyman<lb/> Gratz</persName>&#44; <persName role="author">Zadok A. Davis</persName>&#44; and <persName>Hyman Polock</persName>&#44; on said committee.</p>
+			<p rend="indent(1)">The committee met&#44; pursuant to notice of <persName role="author">A. Hart&#44; Esq.</persName>&#44;<lb/> Chairman&#44; at the house of <persName role="author">Mr. Allen</persName>&#44; on <date>Thursday evening&#44;<lb/> the 1<hi rend="sup">st</hi> of July</date>&#44; and appointed a sub&#45;committee&#44; consisting<lb/> of <persName role="author">Messrs. Hackenburg</persName>&#44; <persName role="author">Davis</persName> and <persName role="author">Leeser</persName>&#44; with directions to<lb/> report on <date>Thursday</date> evening following.</p>
+			<p rend="indent(1)">The committee met that evening&#44; absent <persName>Messrs. Samuel</persName><lb/> and <persName>Gratz</persName>&#44; when the sub&#45;committee laid their draft on the table&#44;<lb/> which was examined by sections&#44; altered and amended that<lb/> same evening&#44; <date>Sunday</date> morning and <date>Monday</date> evening&#44; absent<lb/> the above together with <persName>Mr. Polock</persName>&#44; when the whole having<lb/> been gone through&#44; it was ordered to be transcribed to be<lb/> reported on the following <date>Sunday</date>&#44; to the adjourned general<lb/> meeting.</p>
+			<p rend="indent(1)">At an adjourned meeting of Israelites&#44; held on <date>Sunday the<lb/> 18<hi rend="sup">th</hi> of July</date>&#44; at the Masonic Hall&#44; <persName role="author">L. Allen&#44; Esq.</persName> in the chair&#44;<lb/> <persName role="author">Mr. H. Cohen</persName>&#44; Secretary&#44; the committee made the following<lb/> report&#44; accompanied with the plan they had agreed upon.</p>
+			<p rend="indent(1)"><hi rend="italics">To the Israelites of the City and County of <placeName>Philadelphia</placeName></hi>.</p>
+			<p rend="indent(1)">The Committee appointed at a general meeting&#44; held on the<lb/> <date>27<hi rend="sup">th</hi> of June</date>&#44; have taken the plan proposed by <persName role="author">Messrs. Salomon</persName><lb/> and <persName role="author">Leeser</persName>&#44; into consideration and offer the accompanying<lb/> rules and regulations&#44; together with the preamble&#44; to your<lb/> favourable notice and adoption&#59; the whole of which is</p>
+			<p rend="indent(9)">Respectfully submitted&#44;</p>
+			<p rend="indent(10)"><persName role="author">A. HART</persName>&#44;</p>
+			<p rend="indent(10)"><persName role="author">J. L. HACKENBURG</persName>&#44;</p>
+			<p rend="indent(10)"><persName role="author">L. BOMEISLER</persName>&#44;</p>
+			<p rend="indent(10)"><persName role="author">Z. A. DAVIS</persName>&#44;</p>
+			<p rend="indent(10)"><persName role="author">DR. L. SALOMON</persName>&#44;</p>
+			<p rend="indent(10)"><persName role="author">ISAAC LEESER</persName>.</p>
+			<p rend="indent(11)">Committee.</p>
+				<p><persName role="author">LEWIS ALLEN</persName>&#44;</p> 
+			<p rend="indent(1)"><hi rend="italics">Chairman of the Meeting.</hi></p>
+				<p><placeName>Philadelphia</placeName>&#44; <date>12<hi rend="sup">th</hi> July&#44; 5601</date>. </p>
+				<p rend="align(center)">PREAMBLE.</p>
+			<p rend="indent(1)">The Israelites of <placeName>Philadelphia</placeName>&#44; in common with their<lb/> brethren in other places of <placeName>America</placeName>&#44; have long since been<lb/> alive to the many evils under which they labour in the<lb/> great downfall of religious observance&#44; and the want of pro&#45;<lb/>per religious education among them.  But deeming it their<lb/> duty to leave no means untried to counteract the deplorable<lb/> state of want of proper observance&#44; and to promote a due<lb/> knowledge of the blessed religion they have received from<lb/> their fathers&#58; they have resolved to propose a union of all<lb/> Israelites residing in <placeName>America</placeName>&#44; to effect by a common and<lb/> united effort&#44; that which would evidently be beyond the<lb/> power of accomplishing by any one of the small congrega&#45;<lb/>tions in which the Israelites of this country are divided&#59;<lb/> they therefore offer the following suggestions&#44; which they<lb/> hope will forward greatly the desired result&#59; in first esta&#45;<lb/>blishing a competent ecclesiastical authority&#44; agreeably to<lb/> the injunction of the law in Deuteronomy xvi. 18&#58; &#8220;Judges<lb/> and officers shall thou appoint for thyself in all they gates&#44;<lb/> which the Lord thy God giveth thee throughout thy<lb/> tribes&#59;&#8221; secondly&#44; by establishing schools for general and<lb/> religious education under Jewish Superintendence&#44; as com&#45;<lb/>manded in Deut. vi. 7&#58; &#8220;And thou shalt teach them dili&#45;<lb/>gently to they children&#59;&#8221; and thirdly&#44; by promoting har&#45;<lb/>mony and a concert of action among all their brethren<lb/> scattered over the Western Hemisphere&#44; in accordance with<lb/> the lofty aspiration of the Psalmist who says&#44; &#40;cxxxiii. 1&#44;&#41;<lb/> &#8220;Behold how good and how pleasant it is&#44; for brethren to<lb/> dwell together in unity.&#8221;  With these views the committee<lb/> recommend the adoption of the following rules and regula&#45;<lb/>tions for the government and action of the Israelites in<lb/> <placeName>America</placeName>.</p>
+				<p rend="align(center)">PLAN.</p>
+				<p rend="align(center)">ARTICLE I.</p>
+				<p rend="align(center)"><hi rend="italics">The Ecclesiastical Authority.</hi></p>
+				<p><hi rend="italics">Section</hi> 1. The delegates of the different congregations&#44; as<lb/> hereinafter described&#44; or of as many as may come into the<lb/> measure&#44; shall elect at their first meeting&#44; or as soon after as<lb/> practicable&#44; three gentlemen of undoubted moral and reli&#45;<lb/>gious character&#44; who are duly learned in the written and oral<lb/> law&#44; who shall have the authority conferred upon them&#44; by<lb/> their election&#44; to act in&#44; and to decide on all cases of reli&#45;<lb/>gious inquiry&#44; and to determine all questions laid before<lb/> them&#44; according to the law&#44; and the approved rabbinical<lb/> authorities&#58; the members of this Central Religious Council<lb/> not to be at any time subject to any authority abroad&#44; nor<lb/> under the control of any congregation&#44; except in cases of<lb/> misdemeanour&#44; and <sic>wilful</sic> false decisions&#44; in which cases&#44;<lb/> one or all of such offending parties&#44; are to be removed by<lb/> the delegates of the Union as above&#59; and a majority of the<lb/> delegates present shall be required for a vote of suspension<lb/> for a period of from three to twelve months&#44; and a majority<lb/> of two&#45;thirds for a suspension for a longer period&#44; or ex&#45;<lb/>pulsion from office.</p>
+				<p><hi rend="italics">Sect.</hi> 2. Whenever any case for adjudication comes<lb/> before any one of the Board hereby constituted&#44; he may<lb/> decide for himself only&#44; if the emergency will not permit<lb/> him to consult his colleagues&#59; but if otherwise he is bound<lb/> to consult them&#44; either in person or in writing&#44; before he<lb/> gives any answer&#59; in order to insure that the laws of God<lb/> be properly expounded&#44; and strictly obeyed&#44; as far as lies<lb/> in the power of the Board herewith proposed.</p>
+				<p><hi rend="italics">Sect.</hi> 3. In case a decision is made by one member in<lb/> the absence of his colleagues in any emergency&#44; the said decision must be transmitted without delay to the President<lb/> of this Union&#44; for the approbation of the other members of<lb/> the Central Religious Council&#44; and a copy of all decisions<lb/> is to be forwarded to the recording secretary&#44; as hereinafter<lb/> described.</p>
+				<p><hi rend="italics">Sect.</hi> 4. The Hazanim of all the congregations of this<lb/> Union&#44; are to be ex officio associates the Board&#44; provided<lb/> always&#44; that nothing is to prevent the delegates from elect&#45;<lb/>ing a Hazan to be a member of the Central Religious<lb/> Council&#44; if he duly qualified for the office in character and<lb/> capacity.</p>
+				<p><hi rend="italics">Sect.</hi> 5. In a place where no one of the members of the<lb/> Central Religious Council resides&#44; the Hazan&#44; or Hazanim&#44;<lb/> or other persons&#44; in whom the community have confidence&#44;<lb/> may decide in any emergency&#44; but the decision must also<lb/> at once be transmitted to the Central Religious Council for<lb/> their approbation.</p>
+				<p><hi rend="italics">Sect.</hi> 6. Any party deeming himself aggrieved by the<lb/> decision of any one member of the Board&#44; or any other<lb/> person acting under an emergency&#44; may appeal to the whole<lb/> Central Religious Council&#44; whose decision by a majority<lb/> shall be final.</p>
+				<p><hi rend="italics">Sect. </hi>7. The associates as above provided&#44; shall merely<lb/> have power to speak at a meeting of the members of the<lb/> Central Religious Council&#44; but not to vote.</p>
+				<p><hi rend="italics">Sect.</hi> 8. One of the three members as above shall be the<lb/> President of the Board&#44; whenever he may deem the public<lb/> good requires it&#44; and have a general supervision of strictly<lb/> ecclesiastical matters in this Union.</p>
+				<p><hi rend="italics">Sec</hi>. 9. As the authority herewith delegated is merely<lb/> advisory&#44; the Central Religious Council shall never exercise<lb/> the power of excommunicating any one&#44; for any <sic>offence</sic><lb/> whatever&#59; nor to possess the right of summoning any indi&#45;<lb/>vidual who&#44; in their opinion&#44; might be guilty of any trans&#45;<lb/>gression of the Mosaic Law&#59; but shall merely designate<lb/> the <sic>offences</sic> which of right deprive any offender from the<lb/> usual Jewish rights and privileges.</p>
+				<p><hi rend="italics">Sect.</hi> 10. The privilege of performing the marriage<lb/> ceremony being the right of each congregation&#44; the cus&#45;<lb/>tomary authority heretofore exercised by the Hazanim<lb/> remains inviolate&#59; nevertheless the party to be married has<lb/> the option of selecting the Hazan or any member of the<lb/> Central Religious Council to perform said ceremony.</p>
+				<p><hi rend="italics">Sect.</hi> 11. The Congregations belonging to this Union<lb/> shall not elect any Shochet&#44; who has not been examined as<lb/> to qualifications by one or more members of the Central<lb/> Religious Council&#59; and it shall be the duty of the respective<lb/> Shochetim belonging to this Union&#44; to be examined once at<lb/> least in three years by one or more of the Central Religious<lb/> Council&#44; for which examination no fee whatever is to be<lb/> required.</p>
+				<p><hi rend="italics">Sect</hi>. 12. No Shochet is to be suspended for frivolous<lb/> reasons&#59; and if any member of the Central Religious Council<lb/> should find it his duty to exercise this prerogative&#44; he must<lb/> state the reason for so doing in writing to the person so<lb/> suspended.</p>
+				<p><hi rend="italics">Sect</hi>. 13. It is expected that the Central Religious<lb/> Council will watch over the state of religion&#44; and use every<lb/> proper occasion to exhort the people in sermons or lectures&#59;<lb/> and whenever any member of the Central Religious Coun&#45;</p>
+			<pb n="4"/>
+				<p rend="The original text is divided into two columns."></p>
+				<p>cil wishes to address any congregation&#44; he shall have the<lb/> privilege so to do&#44; upon giving notice to the Parnass of<lb/> said congregation.</p>
+				<p><hi rend="italics">Sect</hi>. 14. Whenever a new Hazan is to be elected&#44; he<lb/> must be examined as to his qualifications by one or more<lb/> members of the Central Religious Council&#44; so as to prevent<lb/> any incompetent person being forced upon the respective<lb/> congregations&#59; and if any congregation should elect a hazan<lb/> who has not obtained a certificate of the Board&#44; or who has<lb/> been rejected by them&#44; such Hazan shall not be admitted an<lb/> associate of the Central Religious Council.</p>
+				<p><hi rend="italics">Sect</hi>. 15. The superintendence of the schools is herewith<lb/> vested in the Central Religious Council and the above<lb/> associates&#44; and it is made their duty to report any delin&#45;<lb/>quency in the teachers to the Board of Control&#44; as herein&#45;<lb/>after mentioned.</p>
+				<p rend="align(center)">ARTICLE II.</p>
+				<p rend="align(center)"><hi rend="italics">The Schools.</hi></p>
+				<p><hi rend="italics">Section</hi> 1. As soon as practicable&#44; schools for both sexes<lb/> are to be established in every town where Israelites reside&#44;<lb/> and the teachers are to be paid out of a common local<lb/> fund&#44; and on no account to receive any pay or fee whatever<lb/> from the parents.</p>
+				<p><hi rend="italics">Sect. </hi>2. Whatever rates for education it may be necces&#45;<lb/>sary to charge&#44; are to be paid to the local treasurer of this<lb/> Union&#44; who is to pay the amount of salary which may be<lb/> agreed upon&#44; to the teachers&#44; upon warrant of the local pre&#45;<lb/>sident.</p>
+				<p><hi rend="italics">Sect. </hi>3. The system of education is to be strictly Jew&#45;<lb/>ish&#44; and is to embrace&#44; a. Hebrew reading&#44; grammar&#44;<lb/> translation&#44; catechism&#44; Biblical commentaries&#44; and at least<lb/> an introduction to the Jewish Oral Law&#44; and if possible&#44; an<lb/> elementary knowledge of the Talmud.</p>
+				<p>b. English&#44; Grammar&#44; composition&#44; elocution&#44; arithmetic&#44;<lb/> writing&#44; singing&#44; geography&#44; universal history&#44; history of<lb/> the Jews&#44; history of <placeName>England</placeName>&#44; and history of the <placeName>United<lb/> States</placeName>.</p>
+				<p>c. For the higher classes&#44; in addition to the above&#44;<lb/> Hebrew composition&#44; Talmud&#44; general Jewish literature&#44;<lb/> Latin&#44; Greek&#44; French&#44; German&#44; Spanish&#44; mathematics&#44;<lb/> natural history&#44; natural philosophy&#44; moral philosophy&#44; poli&#45;<lb/>tical economy&#44; and chemistry.</p>
+				<p>d. Any other useful matters to be added&#44; as occasion may<lb/> require.</p>
+				<p><hi rend="italics">Sect.</hi> 4. The government of the schools is to be moral<lb/> throughout&#44; and on no account can any cruel punishment be<lb/> permitted.</p>
+				<p><hi rend="italics">Sect.</hi> 5. A High School for education in the higher<lb/> branches&#44; is to be established in some central point when&#45;<lb/>ever practicable&#44; in which the branches enumerated under<lb/> c are to be taught&#59; and where young men are to be educated<lb/> in such a manner&#44; that they may be fit for the office of<lb/> Hazan&#44; lecturer&#44; and teacher&#59; and young women be edu&#45;<lb/>cated for the high calling of female instructors&#59; and all<lb/> persons educated in our schools&#44; are to have the pre&#45;<lb/>ference if any vacancy occurs&#44; for any office in the gift of<lb/> this Union.</p>
+				<p><hi rend="italics">Sect.</hi> 6. No teacher to be appointed&#44; whether Jew or<lb/> gentile&#44; who has not been examined&#44; by one or more mem&#45;<lb/>bers of the Central Religious Council in the first instance&#44;<lb/> and afterwards by the local President&#44; Treasurer&#44; Secretary&#44;<lb/> and Hazan&#44; as to capacity and moral worth&#58; Provided&#44; That<lb/> the distance from one of the members of the Central Religious<lb/> Council be not above 300 miles&#44; in which latter case&#44; the<lb/> local authorities may temporarily appoint a teacher or<lb/> teachers&#44; till one of the members of the Central Religious<lb/> Council visits the place&#44; when the teacher or teachers<lb/> must be examined by him&#59; and if an Israelite&#44; he is to be<lb/> examined also as regards religious knowledge and con&#45;<lb/>formity.</p>
+				<p><hi rend="italics">Sect.</hi> 7. Though it may be found requisite to charge for<lb/> education to those able to pay&#8212;yet no person&#44; who brings<lb/> evidence of his inability to pay&#44; shall have his children or<lb/> wards refused admission into our schools&#44; provided he or<lb/> she sign a pledge to send them regularly to school at least<lb/> three months in the spring&#44; and four months in the winter.</p>
+				<p><hi rend="italics">Sect. </hi>8. Whatever regards books to be used and other<lb/> regulations&#44; is to be left to the Central Religious Council<lb/> and to the Central Board of Control for their action and<lb/> advisement.</p>
+				<p rend="align(center)">ARTICLE III.</p>
+				<p rend="align(center)"><hi rend="italics">The Union</hi>.</p>
+				<p><hi rend="italics">Section</hi> 1. It is recommended that all regularly organized<lb/> congregations in <placeName>America</placeName> do elect delegates to meet at<lb/> <placeName>Philadelphia</placeName> on the <date>7<hi rend="sup">th</hi> day of November&#44; 1841</date>&#44; for the<lb/> purpose of carrying the above recommendations into effect.</p>
+				<p><hi rend="italics">Sect.</hi> 2. The ratio of representation to be as follows&#58;<lb/> Every congregation numbering fifty male seat&#45;holders or<lb/> under&#44; to send one delegate&#59; from 50 to 150&#44; two delegates&#59;<lb/> from 150 to 300&#44; three delegates&#59; and one additional for<lb/> every 200 additional seat holders.</p>
+				<p><hi rend="italics">Sect</hi>. 3. All votes of delegates shall be decided by the<lb/> majority&#44; under the usual parliamentary restrictions and<lb/> regulations.</p>
+				<p><hi rend="italics">Sect</hi>. 4. The delegates shall be empowered to elect&#44; in<lb/> the first instance&#44; the members of the Central Religious<lb/> Council&#44; and to fill all vacancies therein from time to time&#44;<lb/> provided always&#44; that the persons to be elected be duly<lb/> qualified.</p>
+				<p><hi rend="italics">Sect.</hi> 5. They shall assemble&#44; after the first organization&#44;<lb/> <date>every two years&#44; on the 4<hi rend="sup">th</hi> Sunday after the first day of<lb/> the Passover</date>&#44; and remain in session&#44; by daily adjournments&#44;<lb/> till all the business before them be duly transacted&#44; or post&#45;<lb/>poned to another meeting.</p>
+				<p><hi rend="italics">Sect.</hi> 6. An extra meeting may be called whenever the<lb/> majority of delegates&#44; or a sufficient number of congrega&#45;<lb/>tions entitled to send a majority of all the delegates&#44; shall<lb/> require it&#59; in which case they are to notify the President of<lb/> the Central Board of Control&#44; who is then to issue general<lb/> notices&#44; and summon the delegation&#44; by giving them at least<lb/> <hi rend="italics">sixty</hi> days notice.</p>
+				<p><hi rend="italics">Sect</hi>. 7. The delegates shall be appointed by the respect&#45;<lb/>ive congregations in the manner they may themselves<lb/> direct.</p>
+				<p><hi rend="italics">Sect. </hi>8. The delegates shall elect a President to preside<lb/> over them&#44; and a Secretary to keep the minutes&#44; whose offices<lb/> are to continue till the next general meeting.</p>
+				<p><hi rend="italics">Sect</hi>. 9. In addition to the above two officers&#44; they shall<lb/> elect&#44; at every biennial meeting&#44;</p>
+				<p>One Vice&#45;President&#44;</p>
+				<p>One Corresponding Secretary&#44;</p>
+				<p>One Treasurer&#44;</p>
+				<p>Four <sic>Councillors</sic>&#44;</p>
+				<p>Who&#44; together with the President and Recording Secre&#45;<lb/>tary&#44; shall continue a Board of Control to direct the<lb/> affairs of the Union in the vacation of the assembly.</p>
+				<p><hi rend="italics">Sect.</hi> 10. In addition to the above Central Board&#44; each<lb/> town shall elect a President&#44; Treasurer&#44; and Secretary&#44; to<lb/> take charge of all matters and moneys for local school<lb/> purposes&#44; but it shall be their duty to report every six<lb/> months in full to the Central Board of Control.</p>
+				<p><hi rend="italics">Sect</hi>. 11. The biennial meetings shall be held alternately&#44;<lb/> unless otherwise ordered&#59; first at <placeName>Philadelphia</placeName>&#44; next at <placeName>New<lb/> York</placeName>&#44; and lastly at <placeName>Baltimore</placeName>.</p>
+				<p><hi rend="italics">Sect.</hi> 12. The Central Board shall sit in <placeName>Philadelphia</placeName><lb/> unless otherwise ordered&#59; and if the President of the dele&#45;<lb/>gation should not be a resident of the place where the<lb/> Central Board meets&#44; then the Vice&#45;President shall act for<lb/> him&#44; unless the President happen to be present&#44; when he<lb/> has the precedence as a matter of course&#59; the same rule<lb/> applies to the Recording Secretary&#44; whose place&#44; in his ab&#45;<lb/>sence for the above or any other reason&#44; shall be supplied<lb/> by one of the <sic>Councillors</sic>.</p>
+				<p><hi rend="italics">Sect.</hi> 13. The records shall always be open to every<lb/> Israelite belonging to this Union who desires to inspect<lb/> them&#44; but they are never to be taken out of the possession<lb/> of the Recording Secretary or his substitute&#59; and any Is&#45;<lb/>raelite&#44; as aforesaid&#44; is to be at liberty to procure a copy of<lb/> any of the records.</p>
+				<p><hi rend="italics">Sect.</hi> 14. The delegates in general assembly shall have<lb/> power to deliberate on all subjects&#44; which may tend to<lb/> the general welfare of the Israelites&#44; with the exception of<lb/> matters properly belonging to legal points of the Mosaic<lb/> law&#44; which shall be left&#44; as is reasonable&#44; with the Central<lb/> Religious Council.</p>
+				<p><hi rend="italics">Sect.</hi> 15. They shall devise ways and means to defray<lb/> the expenses attending the execution of this plan&#44; and to fix<lb/> salaries and other outlays properly coming under the ob&#45;<lb/>ject of the Union.</p>
+				<p><hi rend="italics">Sect</hi>. 16. They shall not interfere directly or indirectly<lb/> in the internal affairs of the congregations&#44; except to offer<lb/> their advice when any thing should be undertaken in oppo&#45;<lb/>sition to the law and the commandments&#44; and to judge be&#45;<lb/>tween contending parties&#44; if such would unfortunately arise<lb/> in our congregations.</p>
+			<p rend="indent(1)">The report having been read&#44; <persName>Mr. Lazarus Arnold</persName> moved<lb/> that the same be adopted&#44; which&#44; after some debate&#44; was carried<lb/> by a large majority.</p>
+			<p rend="indent(1)"><persName role="author">Mr. Jacob Ulman</persName> then moved that the report and plan be<lb/> printed&#44; which was unanimously adopted.</p>
+			<p rend="indent(1)">On motion of <persName role="author">Mr. A. Hart</persName>&#44; it was resolved that 750 copies in<lb/> English&#44; and 500 in German&#44; be printed for general distribution.</p>
+			<p rend="indent(1)">On motion of <persName role="author">Mr. Z. A. Davis</persName>&#44; a committee of correspon&#45;<lb/>dence of five members&#44; with power to fill vacancies&#44; was order&#45;<lb/>ed to be appointed by the chair&#59; and the President and Secre&#45;<lb/>tary were&#44; on motion&#44; added to the above five.  Whereupon<lb/> the chair appointed <persName role="author">Messrs. J. L. Hackenburg</persName>&#44; <persName role="author">Isaac Leeser</persName>&#44;<lb/> <persName>Joseph M. Asch</persName>&#44; <persName>Simon Elfelt</persName>&#44; and <persName role="author">Myer Arnold</persName>.</p>
+			<p rend="indent(1)">On motion of <persName role="author">Mr. Leeser</persName>&#44; <persName role="author">Mr. A. Hart</persName> was unanimously<lb/> elected Local Treasurer&#44; in accordance with the above plan&#44;<lb/> and <persName role="author">Mr. Allen</persName> was also elected Local President&#44; and <persName role="author">Mr. H.<lb/> Cohen</persName>&#44; Local Secretary <hi rend="italics">pro tem</hi>.</p>
+			<p rend="indent(1)">It was further resolved&#44; that the Israelites of <placeName>Philadelphia</placeName>&#44;<lb/> be requested to meet in general meeting&#44; on the <date>5<hi rend="sup">th</hi> of Septem&#45;<lb/>ber</date>&#44; the <date>second Sunday before the New Year</date>&#44; to elect local<lb/> officers&#59; and that no one who is not attached to one of the Con&#45;<lb/>gregations of <placeName>Philadelphia</placeName>&#44; either as Member or Seatholder&#44;<lb/> shall be allowed to vote.</p>
+				<p rend="align(center)"><persName role="author">LEWIS ALLEN</persName>&#44; <hi rend="italics">Chairman</hi>.</p>
+				<p><persName role="author">H. COHEN</persName>&#44; <hi rend="italics">Secretary.</hi></p>
+				<p><add>Hand symbol</add> Have the goodness to give this plan an extensive circu&#45;<lb/>lation among your friends&#44; and use your personal influence to<lb/> promote its being carried into effect.</p>
+		</body>
+	</text>
+</TEI>

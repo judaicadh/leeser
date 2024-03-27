@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI [
+<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
+%teibase;
+<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
+%teiext;
+]>
+<TEI>
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>[no title given]</title>
+          <author attested="yes" accepted="yes" signature="yes">De Sola, Abraham</author>
+          <editor></editor>
+          <sponsor></sponsor>
+          <funder></funder>
+          <principal></principal>
+          <respStmt>
+            <resp></resp>
+            <name></name>
+          </respStmt>
+        </titleStmt>
+        <editionStmt>
+          <edition></edition>
+          <respStmt>
+            <resp></resp>
+            <name></name>
+          </respStmt>
+        </editionStmt>
+        <extent>[information about file size goes here, information about extent of physical item comes later]</extent>
+        <publicationStmt>
+          <publisher>Unpublished manuscript</publisher>
+        </publicationStmt>
+        <seriesStmt>
+          <p>Not part of a series</p>
+        </seriesStmt>
+        <notesStmt>
+          <note></note>
+        </notesStmt>
+        <sourceDesc>
+          <biblStruct>
+            <!-- catalog entry goes here -->
+            <monogr>
+              <imprint>
+                <dateLet></dateLet>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <msDesc>
+            <msIdentifier>
+              <country>USA</country>
+              <region>PA</region>
+              <settlement>Philadelphia</settlement>
+              <institution></institution>
+              <repository>Box 1, FF4</repository>
+              <collection>The Library of the Dropsie College for Hebrew and Cognate Learning</collection>
+              <idno>LSDCBx1FF4_4</idno>
+              <altIdentifier>
+                <idno></idno>
+              </altIdentifier>
+              <msName></msName>
+            </msIdentifier>
+            <head></head>
+            <letHeading>
+              <author attested="yes" accepted="yes" signature="yes">De Sola, Abraham</author>
+              <addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac, Rev.</addressee>
+              <deliverer></deliverer>
+              <respStmt>
+                <resp></resp>
+                <name></name>
+              </respStmt>
+              <placeLet>Montreal, Canada</placeLet>
+              <placeRec>Philadelphia, PA</placeRec>
+              <dateLet when="1847-3" source="" attested="yes">6 March 1847</dateLet>
+              
+            </letHeading>
+            <msContents>
+              <msItem>
+                <author></author>
+                <editor></editor>
+                <respStmt>
+                  <resp></resp>
+                  <name></name>
+                </respStmt>
+                <title></title>
+                <decoNote></decoNote>
+                <listBibl>
+                  <bibl></bibl>
+                </listBibl>
+                <filiation></filiation>
+                <textLang></textLang>
+                <figure>
+                  <graphic url="ilcajs_b1f4_0005_1r.jpg"/>
+				  <graphic url="ilcajs_b1f4_0005_1v.jpg"/>
+                </figure>
+              </msItem>
+            </msContents>
+            <physDesc>
+              <objectDesc>
+                <supportDesc>
+                  <support>
+                    <material color="" lined="false" paper_type="" size="">letter</material>
+                  </support>
+                  <extent>4 pages on 1 sheet
+                    <dimensions></dimensions>
+                  </extent>
+                  <foliation></foliation>
+                  <collation></collation>
+                  <condition fragment="false">Fragile</condition>
+                </supportDesc>
+                <layoutDesc>
+                  <layout></layout>
+                </layoutDesc>
+              </objectDesc>
+              <handDesc script="manuscript">
+                  <handNote></handNote>
+              </handDesc>
+              <decoDesc>
+                <decoNote></decoNote>
+              </decoDesc>
+              <additions></additions>
+              <bindingDesc>
+                <binding>
+                  <decoNote></decoNote>
+                </binding>
+              </bindingDesc>
+              <sealDesc>
+                <seal>
+                  <p>Wax seal</p>
+                </seal>
+              </sealDesc>
+              <accMat></accMat>
+              <envDesc occ="false"></envDesc>
+            </physDesc>
+            <history>
+              <origin></origin>
+              <provenance></provenance>
+              <acquisition></acquisition>
+            </history>
+            <additional>
+              <adminInfo>
+                <recordHist>
+                  <source></source>
+                  <change></change>
+                </recordHist>
+                <availability status="free">
+                  <p>Unrestricted</p>
+                </availability>
+                <custodialHist>
+                  <custEvent></custEvent>
+                </custodialHist>
+              </adminInfo>
+              <surrogates></surrogates>
+              <listBibl>
+                <bibl></bibl>
+              </listBibl>
+            </additional>
+            <msPart>
+              <altIdentifier>
+                <idno></idno>
+              </altIdentifier>
+            </msPart>
+          </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <projectDesc>
+          <p></p>
+        </projectDesc>
+        <samplingDecl>
+          <p></p>
+        </samplingDecl>
+        <editorialDecl>
+          <correction>
+            <p></p>
+          </correction>
+          <normalization>
+            <p></p>
+          </normalization>
+          <quotation>
+            <p></p>
+          </quotation>
+          <hyphenation>
+            <p></p>
+          </hyphenation>
+          <segmentation>
+            <p></p>
+          </segmentation>
+          <stdVals>
+            <p></p>
+          </stdVals>
+          <interpretation>
+            <p></p>
+          </interpretation>
+        </editorialDecl>
+        <tagsDecl>
+          <rendition></rendition>
+          <namespace name="http://www.tei-c.org/ns/1.0">
+            <tagUsage gi=""></tagUsage>
+          </namespace>
+        </tagsDecl>
+        <refsDecl>
+          <cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
+        </refsDecl>
+        <refsDecl>
+          <refState unit=""/>
+        </refsDecl>
+        <classDecl>
+          <taxonomy>
+            <category>
+              <catDesc></catDesc>
+            </category>
+          </taxonomy>
+        </classDecl>
+        <appInfo>
+          <application ident="" version="">
+            <desc></desc>
+            <label></label>
+          </application>
+        </appInfo>
+      </encodingDesc>
+      <profileDesc>
+        <creation></creation>
+        <langUsage>
+          <language ident="en">English</language>
+		  <language ident="he">Hebrew</language>
+        </langUsage>
+        <textClass>
+          <keywords scheme="unknown">
+            <list>
+              <item></item>
+              <item></item>
+            </list>
+          </keywords>
+          <classCode scheme=""></classCode>
+          <catRef/>
+        </textClass>
+      </profileDesc>
+      <revisionDesc>
+        <change></change>
+      </revisionDesc>
+    </teiHeader>
+		<text>
+		<body>
+		<pb n="1"/>
+		
+			<p><date>March 6/47</date></p>
+			<p><addressee>Rev Isaac Leeser</addressee> <placeName>Philadelphia</placeName>/<placeName>Montreal</placeName></p>
+			<p>My dear Friend</p>
+		  <p rend="indent(2)">I write you only to explain why I did not<lb/> write more fully when I send you a Sermon yesterday.<lb/>  In frimis[&#63;]&#8211;I had made up my mind not to send again<lb/> a single line&#44; until I had heard from you&#44; and I was<lb/> the more induced to determine this&#44; since you did not<lb/> even acknowledge the receipt of my last when you<lb/> sent the <date>Feby</date> No of the Occident I acknowledge&#44; I have<lb/> been somewhat amiss in not having sent you the<lb/> article I promised but this has arisen from an<lb/> unavoidable circumstance&#44; viz. The necessity<lb/> of referring to a rather source work which it<lb/> is impossible for me to see in <placeName>Canada</placeName> and I<lb/> have been compelled therefore to write to <placeName>england</placeName><lb/> about it.  To make amends&#44; I sent you a Sermon<lb/> and as I wished to send it you as <del>early</del> soon<lb/> after it was copied as possible&#44; as I was told<lb/> at the Post Office that the American mail was<lb/> just about being closed I thought it better to<lb/> send it you on without delaying a day&#44; as you<lb/> might then be able to insert it your next<lb/> number which I would like  I therefore borrowed<lb/> a wafer at the Post Office&#44; and before this reaches you&#44;<lb/> you will have received it.  If you can find room<lb/> and you think it worthy insertion&#44; may I request<lb/> that you will have the goodness to attend to the</p>
+
+		<pb n="2"/>
+		
+			<p>proper insertion of the notes&#44; punctuation &amp;c. and that<lb/> there [&#63;] more mistakes in than escape <hi rend="underline">your own</hi><lb/> eye.  You will perceive that in translating a quotation<lb/> from the Psalms.  I have used <persName>Millan&#39;s</persName> beautiful version<lb/> which proceeding&#44; if perhaps novel&#44; I don&#39;t think<lb/> more objectionable than quoting the christian <sic>authorised</sic><lb/> version.  I have even used <persName>Lawth&#39;s</persName>&#44; or <persName>Bro[&#63;]</persName>&#44; version<lb/> when quoting the most sublime of the prophets.  I think<lb/> that such version send much more than the <sic>authorised</sic><lb/> translation to give us <del>an ide</del> I ought rather to say<lb/> to give those who dont read the original&#44; an idea<lb/> of the force &amp; beauty of the Hebrew texts.  Let me<lb/> have your opinion.  I must further say that<lb/> I <sic>dont</sic> forget them in fruits where they drag in<lb/> the [&#63;] <sic>Jasus</sic> &#34;as <persName>Pat</persName> calls him&#44; whether<lb/> he has any right there or not&#44; but recollecting this<lb/> even&#44; Jeandices[&#63;] that as they hear these quotations<lb/> from orthodox lifes[&#63;] that there is no more danger<lb/> in using them than in using any English Bible<lb/> with their objectionable headings or New Testament<lb/> additions&#8212;muit ce&#39;st apez Jour cela&#8212;To save<lb/> postage I have written the Sermon on thin paper and<lb/> [&#63;] for the same reason I wrote the prayer<lb/> on a small piece of paper and I must ask you to<lb/> see that it comes in&#44; in its proper place&#44; it is<lb/> marked to age [&#63;].<lb/>  This prayer which as you</p>
+
+		<pb n="3"/>
+		
+			<p>will perceive is nothing but a congeries of verses from<lb/> the Parasa &amp; Sftora of the day I must request you to<lb/> alter.  At the commencement instead of its reading and<lb/> hast turned their heart back again &#34;please let it read<lb/> &#34;who will turn their heart back again&#34;&#8211;I am induced<lb/> to make this alteration because however I may<lb/> understand the [Hebrew] I <sic>dont</sic> like to oppose my opinion<lb/> to that [Hebrew] who in his [Hebrew] uses this<lb/> verse in proof of the correctness of the opinion of<lb/> the Rabbinni[&#63;] thus &#34;[Hebrew]&#8212;To his opinion<lb/> I may defer.  I have much that I desire to communicate<lb/> with you upon&#44; but I shall not do so until I<lb/> have heard from you the course of your long<lb/> silence&#44;  Have you any of <persName>Noga&#39;s[&#63;]</persName> <sic>pamphlilets</sic><lb/> <hi rend="underline">Hebrew and English</hi> if you have let me have a copy<lb/>  I sent some names [&#63;] as subscribers but have<lb/> heard nothing from home concerning them&#8211;<lb/> are they in your parcel.  My uncle the publisher<lb/> of &#34;the Voice&#34; wrote me he had sent me the nos &#34;in<lb/> the American Israel[&#63;]&#34;  Is that addressed to you or<lb/> to <persName>Mr Isaacs</persName>.  I received a letter from him last<lb/> week but he says nothing about them.  And now<lb/> dear friend&#44; as I have purposely limited myself<lb/> to a small piece of paper&#44; I must conclude &amp; wishing<lb/> therefore the approaching days of <date>Purim</date> [Hebrew]<lb/> For the delivery of this I am indebted to<lb/> <persName>Mr Bernal</persName>&#44; my [&#63;]<lb/> correspondent&#44; and friend of my family<lb/> how does he get on as [&#63;] minister&#63;  What kind of a person<lb/> is he.  Is he [&#63;]&#63;  Personally I am quite unknown to him.</p>
+		  <p rend="indent(8)"><persName role="author">Abraham de Sola</persName></p>
+
+		<pb n="4"/>
+		
+			<p>The <addressee>Rev Isaac Leeser</addressee></p>
+		  <p rend="indent(1)"><placeName>Philadelphia</placeName></p>
+		</body>
+	</text>	
+</TEI>	

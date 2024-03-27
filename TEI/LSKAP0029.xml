@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI [
+<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
+%teibase;
+<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
+%teiext;
+]>
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>[no title given]</title>
+				<author attested="yes" accepted="yes" signature="yes">Simmons, M. B.</author>
+				<editor></editor>
+				<sponsor></sponsor>
+				<funder></funder>
+				<principal></principal>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition></edition>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</editionStmt>
+			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
+			<publicationStmt>
+				<publisher>Unpublished manuscript</publisher>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Not part of a series</p>
+			</seriesStmt>
+			<notesStmt>
+				<note></note>
+			</notesStmt>
+			<sourceDesc>
+				<biblStruct>
+					<!-- catalog entry goes here -->
+					<monogr>
+						<imprint>
+							<dateLet></dateLet>
+						</imprint>
+					</monogr>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<country>USA</country>
+						<region>PA</region>
+						<settlement>Philadelphia</settlement>
+						<institution></institution>
+						<repository>LSKAP</repository>
+						<collection>The Arnold and Deanne Kaplan Collection of Early American Judaica</collection>
+						<idno>LSKAP0029</idno>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+						<msName></msName>
+					</msIdentifier>
+					<head></head>
+					<letHeading>
+						<author attested="yes" accepted="yes" signature="yes">Simmons, M. B.</author>
+						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac</addressee>
+						<deliverer></deliverer>
+						<respStmt>
+							<resp></resp>
+							<name></name>
+						</respStmt>
+						<placeLet>Anytown, St. Thomas</placeLet>
+						<placeRec>Philadelphia, PA</placeRec>
+						<dateLet when="1843" source="" attested="yes">June 22, 1843</dateLet>
+					</letHeading>
+					<msContents>
+						<msItem>
+							<author></author>
+							<editor></editor>
+							<respStmt>
+								<resp></resp>
+								<name></name>
+							</respStmt>
+							<title></title>
+							<decoNote></decoNote>
+							<listBibl>
+								<bibl></bibl>
+							</listBibl>
+							<filiation></filiation>
+							<textLang></textLang>
+							<figure>
+								<graphic url="LSKAP0029R.jpg"></graphic>
+								<graphic url="LSKAP0029V.jpg"></graphic>
+							</figure>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support>
+									<material color="" lined="false" paper_type="" size="">letter</material>
+								</support>
+								<extent>2 pages on 1 sheet
+									<dimensions></dimensions>
+								</extent>
+								<foliation></foliation>
+								<collation></collation>
+								<condition fragment="false"></condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout></layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc script="manuscript">
+							<handNote></handNote>
+						</handDesc>
+						<decoDesc>
+							<decoNote></decoNote>
+						</decoDesc>
+						<additions></additions>
+						<bindingDesc>
+							<binding>
+								<decoNote></decoNote>
+							</binding>
+						</bindingDesc>
+						<sealDesc>
+							<seal>
+								<p></p>
+							</seal>
+						</sealDesc>
+						<accMat></accMat>
+						<envDesc occ="false"></envDesc>
+					</physDesc>
+					<history>
+						<origin></origin>
+						<provenance></provenance>
+						<acquisition></acquisition>
+					</history>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source></source>
+								<change></change>
+							</recordHist>
+							<availability status="restricted">
+								<p>Restricted</p>
+							</availability>
+							<custodialHist>
+								<custEvent></custEvent>
+							</custodialHist>
+						</adminInfo>
+						<surrogates></surrogates>
+						<listBibl>
+							<bibl></bibl>
+						</listBibl>
+					</additional>
+					<msPart>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+					</msPart>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p></p>
+			</projectDesc>
+			<samplingDecl>
+				<p></p>
+			</samplingDecl>
+			<editorialDecl>
+				<correction>
+					<p></p>
+				</correction>
+				<normalization>
+					<p></p>
+				</normalization>
+				<quotation>
+					<p></p>
+				</quotation>
+				<hyphenation>
+					<p></p>
+				</hyphenation>
+				<segmentation>
+					<p></p>
+				</segmentation>
+				<stdVals>
+					<p></p>
+				</stdVals>
+				<interpretation>
+					<p></p>
+				</interpretation>
+			</editorialDecl>
+			<tagsDecl>
+				<rendition></rendition>
+				<namespace name="http://www.tei-c.org/ns/1.0">
+					<tagUsage gi=""></tagUsage>
+				</namespace>
+			</tagsDecl>
+			<refsDecl>
+				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
+			</refsDecl>
+			<refsDecl>
+				<refState unit=""/>
+			</refsDecl>
+			<classDecl>
+				<taxonomy>
+					<category>
+						<catDesc></catDesc>
+					</category>
+				</taxonomy>
+			</classDecl>
+			<appInfo>
+				<application ident="" version="">
+					<desc></desc>
+					<label></label>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<creation></creation>
+			<langUsage>
+				<language ident="en">English</language>
+				<language ident="he">Hebrew</language>
+			</langUsage>
+			<textClass>
+				<keywords scheme="unknown">
+					<list>
+						<item></item>
+						<item></item>
+					</list>
+				</keywords>
+				<classCode scheme=""></classCode>
+				<catRef/>
+			</textClass>
+		</profileDesc>
+		<revisionDesc>
+			<change></change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<pb n="1R"/>
+				<p rend="align(right)"><placeName>St Thomas</placeName> <date>June 22<hi rend="sup">nd</hi> 1843</date></p>
+				<p><addressee>Revd Isc. Leeser</addressee></p>
+			<p rend="indent(1)"><placeName>Philadelphia</placeName></p>
+			<p rend="indent(2)">Dear Sir&#44;</p>
+			<p rend="indent(12)">I am disappointed in not being able to re&#8222;<lb/> &#8222;mit you the amount of the subscribtion list for the Occident.<lb/> by this opportunity&#44; the fault is not mine&#44; I told the Subscri&#8222;<lb/> &#8222;bers that they might pay on receipt of the 2nd Number&#44; antici&#8222;<lb/> &#8222;parting that no retard would be experienced in the receipt of them<lb/> but to my astonishment <persName>Mr Wolff</persName> has received his <date>May</date> Number&#44;<lb/> and I have received none&#44; the Subscribers are blaming me&#44; but<lb/> I cannot help it&#44; Try &#38; send them regularly by way of <placeName>New York</placeName><lb/> as there are numerous opportunities from that City for this<lb/> place&#44; I have collected from 5 Subscribers only&#44; but on receipt<lb/> of the <date>May</date> Number&#44; I will collect from the rest&#44; &#38; remit you<lb/> forthwith.   Permit me to make a few observations<lb/> which may tend to make the Occident more generally appre&#8222;<lb/> &#8222;ciated here.  Every one reads the Archives Israelites &#38; the Voice<lb/> of Jacob&#44; consequently they find the Occident not as interesting<lb/> as you could make it by extracts from the German Periodicals&#44;<lb/> this I have promise will take place.</p>
+			<p rend="indent(7)"><persName>Mr Carillon</persName> is again in the Office of Minister<lb/> here&#44; and has adopted numerous innovations and alterations in<lb/> our religious forms &#38; observances.  I am decidedly averse to<lb/> such steps&#44; however much a reform might be required.  I deem<lb/> it precipitate in a Congregation like this&#44; or in any one Congre&#8222;</p>
+			<pb n="1V"/>
+				<p>&#8222;gation to change any established order. and therefore I have<lb/> withheld all participation in their actions.&#8212;Let us await the<lb/> result of a general conclave of Enlightened &#38; religious men. &#38;<lb/> then adopt what they may determine upon.  Perhaps I may<lb/> be wrong&#44; if so please set me right.</p>
+			<p rend="indent(2)">I would send you some subject on this place<lb/> but I fear the truth would be disagreeable to your reader here<lb/> and  I prefer silence rather than injure you in any way.&#8212;</p>
+			<p rend="indent(2)">I hope soon to hear from you&#44; and pray<lb/> that the Almighty may enable you to persevere &#38; succeed in<lb/> all your undertakings&#8212;</p>
+			<p rend="indent(5)">I am    Dear sir</p>
+			<p rend="indent(5)">Yours truly</p>
+			<p rend="indent(6)"><persName role="author">M B Simmons</persName></p>
+				<p>PS.  Do not laugh at me&#44; when I relate my last night&#39;s dream.&#8212;<lb/> I thought what I had long wished for had taken place&#44; that is a per&#8222;<lb/> &#8222;sonal acquaintance with your good self.  I fancied your arrival<lb/> &#38; visit to my house&#44; that you were at my table &#38; read the <add>Hebrew</add> <add>&#8220;Hamotzi&#8221; JE transcription</add> after<lb/> the meal a number of friends visited me&#44; &#38; found your conversa&#8222;<lb/> &#8222;tion so agreeable &#38; instructive&#44; that of one accord they declared you<lb/> could not be other than the <persName>Revd I. L</persName> of <placeName>Philadelphia</placeName>&#44; while enjoying<lb/> their discovery.  I was awakened by a <hi rend="underline">shock of Earthquake</hi> in reality.</p>
+			<p rend="indent(1)">Adieu&#8212;Yours</p>
+			<p rend="indent(3)"><persName role="author">MBS</persName></p>
+				<p rend="The following is written in pencil&#44; bottom left corner.">Number &#8220;20&#45;452&#8221;</p>
+		</body>
+	</text>
+</TEI>

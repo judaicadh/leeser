@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI [
+<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
+%teibase;
+<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
+%teiext;
+]>
+<TEI>
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>[no title given]</title>
+          <author attested="unk" accepted="unk" signature="unk"></author>
+          <editor></editor>
+          <sponsor></sponsor>
+          <funder></funder>
+          <principal></principal>
+          <respStmt>
+            <resp></resp>
+            <name></name>
+          </respStmt>
+        </titleStmt>
+        <editionStmt>
+          <edition></edition>
+          <respStmt>
+            <resp></resp>
+            <name></name>
+          </respStmt>
+        </editionStmt>
+        <extent>[information about file size goes here, information about extent of physical item comes later]</extent>
+        <publicationStmt>
+          <publisher>Unpublished manuscript</publisher>
+        </publicationStmt>
+        <seriesStmt>
+          <p>Not part of a series</p>
+        </seriesStmt>
+        <notesStmt>
+          <note></note>
+        </notesStmt>
+        <sourceDesc>
+          <biblStruct>
+            <!-- catalog entry goes here -->
+            <monogr>
+              <imprint>
+                <dateLet></dateLet>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <msDesc>
+            <msIdentifier>
+              <country>USA</country>
+              <region>PA</region>
+              <settlement>Philadelphia</settlement>
+              <institution></institution>
+              <repository>CAJS Isaac Leeser Collection</repository>
+              <collection>The Library of the Dropsie College for Hebrew and Cognate Learning</collection>
+              <idno>LSDCBx1FF7_14</idno>
+              <altIdentifier>
+                <idno></idno>
+              </altIdentifier>
+              <msName></msName>
+            </msIdentifier>
+            <head></head>
+            <letHeading>
+              <author attested="unk" accepted="unk" signature="unk"></author>
+              <addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac</addressee>
+              <deliverer></deliverer>
+              <respStmt>
+                <resp></resp>
+                <name></name>
+              </respStmt>
+              <placeLet>Kingston, Jamaica</placeLet>
+              <placeRec>Philadelphia, PA</placeRec>
+              <dateLet when="1850-07" source="" attested="yes">1 July 1850</dateLet>
+              <dateLet when="1850-07" source="" attested="yes">1 July 5610</dateLet>
+            </letHeading>
+            <msContents>
+              <msItem>
+                <author></author>
+                <editor></editor>
+                <respStmt>
+                  <resp></resp>
+                  <name></name>
+                </respStmt>
+                <title></title>
+                <decoNote></decoNote>
+                <listBibl>
+                  <bibl></bibl>
+                </listBibl>
+                <filiation></filiation>
+                <textLang></textLang>
+                <figure>
+                  <graphic url="ilcajs_b1f7_0014_1r.jpg"/>
+                  <graphic url="ilcajs_b1f7_0014_1v.jpg"/>
+                  <graphic url="ilcajs_b1f7_0014_2r.jpg"/>
+                  <graphic url="ilcajs_b1f7_0014_2v.jpg"/>
+                </figure>
+              </msItem>
+            </msContents>
+            <physDesc>
+              <objectDesc>
+                <supportDesc>
+                  <support>
+                    <material color="" lined="false" paper_type="" size="Letter">letter</material>
+                  </support>
+                  <extent>4 pages on 2 sheets
+                    <dimensions></dimensions>
+                  </extent>
+                  <foliation></foliation>
+                  <collation></collation>
+                  <condition fragment="true"></condition>
+                </supportDesc>
+                <layoutDesc>
+                  <layout></layout>
+                </layoutDesc>
+              </objectDesc>
+              <handDesc script="manuscript">
+                  <handNote></handNote>
+              </handDesc>
+              <decoDesc>
+                <decoNote></decoNote>
+              </decoDesc>
+              <additions></additions>
+              <bindingDesc>
+                <binding>
+                  <decoNote></decoNote>
+                </binding>
+              </bindingDesc>
+              <sealDesc>
+                <seal>
+                  <p></p>
+                </seal>
+              </sealDesc>
+              <accMat></accMat>
+              <envDesc occ="false"></envDesc>
+            </physDesc>
+            <history>
+              <origin></origin>
+              <provenance></provenance>
+              <acquisition></acquisition>
+            </history>
+            <additional>
+              <adminInfo>
+                <recordHist>
+                  <source></source>
+                  <change></change>
+                </recordHist>
+                <availability status="free">
+                  <p>Unrestricted</p>
+                </availability>
+                <custodialHist>
+                  <custEvent></custEvent>
+                </custodialHist>
+              </adminInfo>
+              <surrogates></surrogates>
+              <listBibl>
+                <bibl></bibl>
+              </listBibl>
+            </additional>
+            <msPart>
+              <altIdentifier>
+                <idno></idno>
+              </altIdentifier>
+            </msPart>
+          </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <projectDesc>
+          <p></p>
+        </projectDesc>
+        <samplingDecl>
+          <p></p>
+        </samplingDecl>
+        <editorialDecl>
+          <correction>
+            <p></p>
+          </correction>
+          <normalization>
+            <p></p>
+          </normalization>
+          <quotation>
+            <p></p>
+          </quotation>
+          <hyphenation>
+            <p></p>
+          </hyphenation>
+          <segmentation>
+            <p></p>
+          </segmentation>
+          <stdVals>
+            <p></p>
+          </stdVals>
+          <interpretation>
+            <p></p>
+          </interpretation>
+        </editorialDecl>
+        <tagsDecl>
+          <rendition></rendition>
+          <namespace name="http://www.tei-c.org/ns/1.0">
+            <tagUsage gi=""></tagUsage>
+          </namespace>
+        </tagsDecl>
+        <refsDecl>
+          <cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
+        </refsDecl>
+        <refsDecl>
+          <refState unit=""/>
+        </refsDecl>
+        <classDecl>
+          <taxonomy>
+            <category>
+              <catDesc></catDesc>
+            </category>
+          </taxonomy>
+        </classDecl>
+        <appInfo>
+          <application ident="" version="">
+            <desc></desc>
+            <label></label>
+          </application>
+        </appInfo>
+      </encodingDesc>
+      <profileDesc>
+        <creation></creation>
+        <langUsage>
+          <language ident="en">English</language>
+          <language ident="he">Hebrew</language>
+        </langUsage>
+        <textClass>
+          <keywords scheme="unknown">
+            <list>
+              <item></item>
+              <item></item>
+            </list>
+          </keywords>
+          <classCode scheme=""></classCode>
+          <catRef/>
+        </textClass>
+      </profileDesc>
+      <revisionDesc>
+        <change></change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+      
+		<pb n="1"/>
+			<p rend="align(right)"><placeName>Kingston</placeName> <date>1<hi rend="sup">st</hi> July 5610</date>.</p>
+			<p>My dear <addressee>Mr. Leeser</addressee>.</p>
+          <p rend="indent(3)">In the expectation of receiving a long letter as promised<lb/> in your brief note of <date>26<hi rend="sup">th</hi> April</date> last&#44; received about a week ago&#44; I had delayed<lb/> replying. The only time I now have for correspondence is <date>Sunday</date>&#44; for I am<lb/> too tired to take pen in hand after the business of the day is over&#44; and<lb/> writing at nights taxes my sight too much. What your affectionate regard<lb/> prompted you to say of me in the Occident&#44; under the head of <placeName>Jamaica</placeName>&#44;<lb/> merits my warmest thanks. A <add>Hebrew</add> has arisen here <add>Hebrew</add>&#59; who<lb/> fancy that their fathers and I are <hi rend="underline">rococo</hi>&#44; and on them your favorable and<lb/> valued opinion of me has had due weight. No doubt it will operate to my<lb/> advantage among some&#44; who have lost sight of me for so many years&#44; in<lb/> other parts. If you had flattered me at all&#44; I would not have been pleased&#59;<lb/> for truth and its followers are appreciated the more as the sands of life <add>&#63;</add><lb/> low. I really wish with you I was back &#8220;in harness&#44;&#8221; but I see no immediate<lb/> prospect of it&#44; or indeed any appearance of it in this place. To leave this<lb/> spot would not be prudential either&#44; unless something insuring less hard work<lb/> and equal pecuniary benefit were offered elsewhere. The school is<lb/> going ahead&#44; and I hesitate not to impart to you in <hi rend="underline">strict confidence</hi><lb/> that I <hi rend="underline">gross</hi> over &#36;3000 p annum&#44; with every likelihood of a large increase<lb/> before the end of the year. You know the domestic and family obstacles<lb/> also which clog my movements&#44; so I need not repeat them. Now&#44; do you<lb/> think&#44; I ought in the face of these considerations&#44; and others of perhaps<lb/> equal importance&#44; rashly to peril the enjoyment of present advantages&#63;<lb/> Something whispers to me to remain where I am&#44; and that the pulpit&#44; the<lb/> goal I have in view is not so distant as I suppose. The idea after all</p>
+		<pb n="2"/>
+			<p>may only be a chateau in <placeName>Espagne</placeName>&#44; a day dream&#59; yet do what I may to banish<lb/> it&#44; it still haunts my mind. Before I started my School&#44; the <persName>Revd. Mr. Davis</persName> had<lb/> carried on his for 4 &#189; years and could never muster more than 14 or 15 pupils&#59; he has<lb/> now about 5 and I have 50 with some 14 or more on my list of expectancies. The<lb/> opposition I have encountered <del>is p</del> was entirely from his party&#44; who viewed my attempt<lb/> at establishing myself in my old <add>&#63;</add> as trespass in his vested interests&#44; a<lb/> sort of <add>Hebrew</add>. But parents have thought differently&#44; and truly I may say of my<lb/> adversaries <add>Hebrew</add>. I know of a certainty that many wish to see me<lb/> occupying his place&#44; and cherish the hope&#59; be cause they know&#44; from the past&#44; that<lb/> I would not be the wrong man. Nor is it at all unlikely that he is casting about<lb/> for something more lucrative&#44; which his growing family renders imperative. His<lb/> friends talk about raising his salary again. It is now &#163;300 a year&#44; with house<lb/> and other perquisites. But <add>Hebrew</add>&#63; The congregation is but a handful&#44; and out<lb/> of that handful&#44; only a few are the prop of the Institution&#59; and times are bad&#44; with<lb/> slight hopes of amendment. His engagement will expire next <date><sic>may</sic></date>. Altho&#39; I have<lb/> no children&#44; those of my deceased brother in law are dear to me&#44; and I should<lb/> like <add>Hebrew</add> to be the means of advancing them in life. I am not able to do more<lb/> for them at present than to give them education. After this open statement of my<lb/> position&#44; let me have the benefit of your advice and counsel. <add>Hebrew</add></p>
+			<p>Before <persName>Dr. Illowy&#39;s</persName> letter came to hand&#44; for which and the trouble you have taken<lb/> I am much obliged&#44; the <persName>Revd. Mr. DeSolla</persName> performed the <add>Hebrew</add>&#44; for which purpose<lb/> he came up to <placeName>Kingston</placeName>. I was one of the <add>Hebrew</add>. We had 3 <add>Hebrew</add> before us. That<lb/> of the <add>Hebrew</add> in the <add>Hebrew</add>&#44; of the <add>Hebrew</add> in the <add>Hebrew</add> and the one with <add>Hebrew</add>.<lb/> <persName>Mr. DeS.</persName> made the ceremony a most impressive one&#44; painfully so. The minute<lb/> directions laid down by the two Great <add>&#63;</add> the <add>Hebrew</add> and <add>Hebrew</add> who most<lb/> carefully and punctitiously<add>&#63;</add> followed. The man and woman were both present&#59;<lb/> so that the mistakes which a <add>Hebrew</add> might have made in its delivery were<lb/> avoided. The case did not come exactly within the precise enactment mentioned</p>
+		<pb n="3"/>
+			<p>by <persName>Dr. Illowy</persName> as <add>Hebrew</add>&#59; for the man acknowledged that <hi rend="underline">he</hi> had connections<lb/> with the woman before marriage&#59; altho&#39; he says that he had ample grounds for<lb/> believing that others had also been with her. This I firmly believe from her conduct<lb/> 2 days subsequent to the divorce&#44; when she declared her Gratitude to <persName>Mr. deSolla</persName>&#44; and<lb/> especially to me&#44; and stated that the night following the one after the divorce<lb/> was the first peaceful night&#39;s rest she had had in 15 years&#44; and that<lb/> the remainder of her life should be devoted in preparation to meet her maker.<lb/> <persName>Mr. deS.</persName> read a portion of the morning service and preached in the<lb/> Port&#58; Synagogue. It is a pity his voice is weak&#44; for his matter was good<lb/> I send you a paper with an abstract of his sermon. Do not mention anything<lb/> about the divorce in the Occident.</p>
+			<p>I have long ago received <persName>Munk&#39;s</persName> Palestine and acknowledged the same. I intended you to take<lb/> the &#36;2 out of the &#36;32 last sent. If I can get a small order this <add>&#63;</add>&#44; I will<lb/> remit &#36;25 for <add>&#63;</add> of the Books I <del>ordered</del> requested you to purchase on order<lb/> for me&#44; which I am daily expecting to receive&#44; especially the Road to<lb/> Faith&#44; your Prayer Books&#44; <persName>Henry&#39;s</persName> class Books and post Biblical History.<lb/> I cannot use <persName>Miss Peixotto&#39;s</persName> Catechism&#8212;the children find it tedious. <persName>Henry&#39;s</persName><lb/> Book is better adapted for them&#44; and as my pupils read a portion of Scripture<lb/> daily&#44; Generally 2 or 3 chapters&#44; before school begins&#44; and on which I comment&#44;<lb/> they become better acquainted with the historical parts of the Bible by this<lb/> system than by a catechetical work. Your small and large Bibles are<lb/> being asked for. I hope to sell many when they come. I have already<lb/> got 5 subscribers for the Occident&#44; names as follows. <persName>David N Martin</persName>&#44;<lb/> <persName>Hyman Cohen</persName>&#44; <persName>Aaron DeCordova</persName>&#44; <persName>Altamont DeCordova</persName> &#38; <persName>Henry Solomon</persName>&#59;<lb/> the last 3 begin their subscriptions with the last volume. the other 2<lb/> with the first. I am impatiently waiting for the next numbers<lb/> of the Occident to read &#8220;And yet for all that.&#8221; What a gigantic intellect<lb/> has the writer of that article&#44; and how luminous bright and powerfully</p>
+		<pb n="4"/>
+			<p>convincing are his deductions. I could not get up from its<lb/> perusal after I began to read it. It was a dessert&#44; a juicy&#44; mellow<lb/> dish of <add>Hebrew</add> after dinner&#44; for on <add>Hebrew</add> I read it&#59; and what is more<lb/> I intend going over it a second and a third time. It is well translated<lb/> too&#44; especially when the extreme difficulty of rendering <persName>Dr. Hirsh&#39;s</persName><lb/> interminably long sentences&#44; and his parenthetical style into another<lb/> language is considered. If ancient Rabbinism could find many such commentators<lb/> among modern Rabbis as <persName>Dr. Hirsh</persName>&#44; our ancient&#44; long derided literature<lb/> would occupy a far higher position among the learned. On <del>al</del> how<lb/> sacred and firm an historical basis does this <add>&#63;</add> rest and<lb/> how undeniable are the truths which it conveys to the believing and<lb/> faithful Israelite. The phases of a nation&#39;s fortunts<add>&#63;</add> for thousands of<lb/> years described in 3 or 4 lines&#44; and <del>their</del> its sinking spirit revived and supported<lb/> in affliction&#39;s darkest hour&#44; lengthened thro&#39; ages of unspeakable misery&#44;<lb/> by a word or two of hope and faith&#44; Endless as Eternity&#44; unshakable and<lb/> unmovable as the foundations of the world&#33; The <add>&#63;</add> and<lb/> its exposition reminded me of what we read of the <add>Hebrew</add> of old<lb/> with his <add>Hebrew</add> at his side&#59; the former giving the latter his texts and<lb/> the lesson he wished to deduce from them&#8212;whilst the latter<lb/> improvised with all the fervency&#44; fluency and fire of oriental<lb/> eloquence&#44; in which the richest imagery and boldest figures were inter<lb/>spersed&#44; melting the hearts and <add>&#63;</add> the minds of the listeners&#44; and<lb/> conveying instruction at once indelible and imperishable. What<lb/> a mine of intellectual wealth do those <add>Hebrew</add> contain. I sometimes<lb/> sit over that quaint old medrash Rabba&#44; and think how immeasur&#45;<lb/>ably superior the discourses of those glorious old Rabbais whose<lb/> names figure there must have been to the fine spun prolixities<lb/> of modern preachers. &#8220;And yet for all that&#8221; has been the cause<lb/> of inflicting on your patience a lot of Bosh<add>&#63;</add> which I will<lb/> now end with the request that you will favor your readers<lb/> with some more of the same beautiful sentiments and views.</p>
+          
+        </body>
+    </text>
+</TEI>

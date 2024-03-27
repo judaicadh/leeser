@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI [
+<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
+%teibase;
+<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
+%teiext;
+]>
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>[no title given]</title>
+				<author attested="yes" accepted="yes" signature="unk"></author>
+				<editor></editor>
+				<sponsor></sponsor>
+				<funder></funder>
+				<principal></principal>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition></edition>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</editionStmt>
+			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
+			<publicationStmt>
+				<publisher>Unpublished manuscript</publisher>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Not part of a series</p>
+			</seriesStmt>
+			<notesStmt>
+				<note></note>
+			</notesStmt>
+			<sourceDesc>
+				<biblStruct>
+					<!-- catalog entry goes here -->
+					<monogr>
+						<imprint>
+							<dateLet></dateLet>
+						</imprint>
+					</monogr>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<country>USA</country>
+						<region>PA</region>
+						<settlement>Philadelphia</settlement>
+						<institution></institution>
+						<repository>CAJS Isaac Leeser Collection</repository>
+						<collection>The Library of the Dropsie College for Hebrew and Cognate Learning</collection>
+						<idno>LSDCBx9FF16_11</idno>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+						<msName></msName>
+					</msIdentifier>
+					<head></head>
+					<letHeading>
+						<author attested="yes" accepted="yes" signature="unk"></author>
+						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac</addressee>
+						<deliverer></deliverer>
+						<respStmt>
+							<resp></resp>
+							<name></name>
+						</respStmt>
+						<placeLet>Philadelphia, PA</placeLet>
+						<placeRec>Philadelphia, PA</placeRec>
+						<dateLet when="1859-02" source="" attested="yes">February 1859</dateLet>
+						<dateLet when="1859-02" source="" attested="yes">5619</dateLet>
+					</letHeading>
+					<msContents>
+						<msItem>
+							<author></author>
+							<editor></editor>
+							<respStmt>
+								<resp></resp>
+								<name></name>
+							</respStmt>
+							<title></title>
+							<decoNote></decoNote>
+							<listBibl>
+								<bibl></bibl>
+							</listBibl>
+							<filiation></filiation>
+							<textLang></textLang>
+							<figure>
+								<graphic url="ilcajs_b9f16_0011_1r.jpg"/>
+								<graphic url="ilcajs_b9f16_0011_1v.jpg"/>
+								<graphic url="ilcajs_b9f16_0011_2r.jpg"/>
+								<graphic url="ilcajs_b9f16_0011_2v.jpg"/>
+							</figure>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support>
+									<material color="" lined="unk" paper_type="" size="Legal">letter</material>
+								</support>
+								<extent>4 pages on 2 sheets
+									<dimensions></dimensions>
+								</extent>
+								<foliation></foliation>
+								<collation></collation>
+								<condition fragment="false"></condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout></layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc script="manuscript">
+							<handNote></handNote>
+						</handDesc>
+						<decoDesc>
+							<decoNote></decoNote>
+						</decoDesc>
+						<additions></additions>
+						<bindingDesc>
+							<binding>
+								<decoNote></decoNote>
+							</binding>
+						</bindingDesc>
+						<sealDesc>
+							<seal>
+								<p></p>
+							</seal>
+						</sealDesc>
+						<accMat></accMat>
+						<envDesc occ="false"></envDesc>
+					</physDesc>
+					<history>
+						<origin></origin>
+						<provenance></provenance>
+						<acquisition></acquisition>
+					</history>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source></source>
+								<change></change>
+							</recordHist>
+							<availability status="free">
+								<p>Unrestricted</p>
+							</availability>
+							<custodialHist>
+								<custEvent></custEvent>
+							</custodialHist>
+						</adminInfo>
+						<surrogates></surrogates>
+						<listBibl>
+							<bibl></bibl>
+						</listBibl>
+					</additional>
+					<msPart>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+					</msPart>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p></p>
+			</projectDesc>
+			<samplingDecl>
+				<p></p>
+			</samplingDecl>
+			<editorialDecl>
+				<correction>
+					<p></p>
+				</correction>
+				<normalization>
+					<p></p>
+				</normalization>
+				<quotation>
+					<p></p>
+				</quotation>
+				<hyphenation>
+					<p></p>
+				</hyphenation>
+				<segmentation>
+					<p></p>
+				</segmentation>
+				<stdVals>
+					<p></p>
+				</stdVals>
+				<interpretation>
+					<p></p>
+				</interpretation>
+			</editorialDecl>
+			<tagsDecl>
+				<rendition></rendition>
+				<namespace name="http://www.tei-c.org/ns/1.0">
+					<tagUsage gi=""></tagUsage>
+				</namespace>
+			</tagsDecl>
+			<refsDecl>
+				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
+			</refsDecl>
+			<refsDecl>
+				<refState unit=""/>
+			</refsDecl>
+			<classDecl>
+				<taxonomy>
+					<category>
+						<catDesc></catDesc>
+					</category>
+				</taxonomy>
+			</classDecl>
+			<appInfo>
+				<application ident="" version="">
+					<desc></desc>
+					<label></label>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<creation></creation>
+			<langUsage>
+				<language ident="en">English</language>
+			</langUsage>
+			<textClass>
+				<keywords scheme="unknown">
+					<list>
+						<item></item>
+						<item></item>
+					</list>
+				</keywords>
+				<classCode scheme=""></classCode>
+				<catRef/>
+			</textClass>
+		</profileDesc>
+		<revisionDesc>
+			<change></change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<pb n="1"/>
+				<p rend="align(right)"><placeName>Philadelphia</placeName> <date><sic>feb.</sic> 5619</date></p>
+				<p><addressee>Rev. Isaac Leeser</addressee></p>
+			<p rend="indent(4)">A reply to the <persName>Rev. Mr Calish</persName> by a student.<lb/> of hebrew theology</p>
+			<p rend="indent(1)">Dear Sir&#58;</p>
+				<p>Being a friend of hebrew <sic>litterature</sic> and having spent the most<lb/> of my leisure time to improve myself in this beautiful science<lb/> as much as I could&#44; I think I have a right to bespeak<lb/> that subject as good as anybody.  I feel therefore very <sic>sory</sic> that<lb/> the hebrew <sic>litterature</sic> has become a level in the party spirit which<lb/> now prevails among the Israelites in this country as well as<lb/> in <placeName>Germany</placeName> and that they who can not anymore subscribe<lb/> to the doctrines and ceremonies &#40;of course I speak principally of<lb/> their leaders of those who take an active part in the matter&#41; of<lb/> the Israelites in general&#44; look with hatred down upon those even<lb/> who use the paper as a vehicle of their thoughts&#44; which is edited<lb/> by an <sic>Israelit</sic>&#44; who still cling to that system&#44; which they think<lb/> proper and becoming to scorn at&#44; as if it was not the mother<lb/> which gave birth to their new system or as they say&#44; the real system&#8212;<add>Hebrew</add>&#8212;This reminds me<lb/> as to the conditions of the different sects among the gentiles among we live&#44;<lb/> who dispute the right of the&#44; so called&#44; mother church&#44; which however&#44;<lb/> &#40;notwithstanding its pernicious <sic>probnoxious</sic> doctrines&#44; of course by<lb/> the mother church <del>calumny and</del> not acknowledged&#44; and which is according to her&#44; calumny they<lb/> <del>source</del> fruits of infidelity to and unbelief is the whole existence of the church&#44;&#41;<lb/> has a full right and claim to that name.  It is not my duty here&#44; to<lb/> investigate&#44; who gave the first cause to that hatred&#44; sufficient that<lb/> this hatred exist.  And the noble <del>men</del> courage is wanting to give up <del>mis</del> unfortunate<lb/> feeling&#44; which&#44; if not abated&#44; will and <del>can</del> must cause a distinct separation between the parties&#44;<lb/> we have seen already the greatest <sic>prove</sic> that this will be&#44; for fathers and more<lb/> so mothers have prohibited <sic>intermariage</sic>.  <sic>Brethern</sic>&#33; be careful in the course<lb/> you <sic>persue</sic> <add>Hebrew</add>.  If you think there are errors in the old system&#44; do<lb/> not leave it therefore&#44; but enlighten its <sic>adherrer</sic> <del>them</del>.  And if you unfortunately can<lb/> not subscribe any more at all&#44; to the system of the <sic>Isrealites</sic>&#44; which<lb/> is often the case&#44; leave them and occupy your mind and heart with<lb/> other things&#44; what a difference between the gentleman who left us shortly<lb/> for <placeName>Ireland</placeName>&#44; and the noble hearted <persName>Spinoza</persName> of old.  But let me<lb/> come to the point.  The Hebrew <sic>litterature</sic>&#44; I said&#44; has become a level<lb/> in this party spirit and is it not so&#63;  He&#44; who with a critique eye<lb/> followed the arguments set forth at <sic>intervalls</sic> in &#8222;the Israelite&#8221; by<lb/> <persName>Mr. Calish</persName>&#44; for instance&#44; sees very clearly that this gentleman&#44;</p>
+			<pb n="2"/>
+				<p>misrepresents our literature&#44; of course what knows the mass<lb/> of the people about it&#44; he who speaks the last wins it&#44; and he<lb/> who keeps on the <sic>longuest</sic> is of a <sic>surity</sic> the smartest.  Ask the mass<lb/> of the readers&#44; ask them all&#44; a very few excepted&#44; their opinion of &#8222;a<lb/> <sic>a</sic> <sic>disquisiton</sic> concerning the time of composing the accents etc&#8221;<lb/> and they will tell you It is <sic>exellent</sic>&#33; <hi rend="underline">he</hi> is a man&#33;  <hi rend="underline">he</hi> is right&#33;<lb/> down with orthodoxy&#33;  No my <sic>bretheren</sic>&#44; be calm do not judge about<lb/> things&#44; which you do not understand&#44; that is very unbecoming of<lb/> men of good sense.  I <del>tell</del> inform you&#44; if <persName>Mr Calish</persName>&#44; meant here<lb/> that he wrote something worthy to be read by a man who knows<lb/> something about that subject&#44; he may be noble hearted&#44; and<lb/> a man of kind feelings&#44; a thorough read man&#44; but he knows<lb/> <del>nothing</del> little of Hebrew <sic>litterature</sic> and not worthy to trust his<lb/> ideas in those things.  A friend of mine&#44; a tolerable hebrew scholar&#44;<lb/> after having read that article asked my opinion about it.  Upon<lb/> which I <del>repl</del> answered&#44; <persName>Mr N</persName>.... You must not look upon that article&#44;<lb/> as written for the learned&#44; or as a final <sic>dicision</sic> of a thorough<lb/> scholar of hebrew literature&#44; But as mere <hi rend="underline">opinions</hi> of a man<lb/> who is biased and influenced by a kind of party spirit&#44;<lb/> which exist a few years in this country among the Israelites&#44;<lb/> and who among other things&#44; <sic>carying</sic> on a system to <sic>remoddel</sic><lb/> the <sic>synagogual</sic> ceremonies and rites after a plan of the<lb/> Lutheran churches in <placeName>Germany</placeName>.  <persName>Mr Calish</persName> is a German&#44; who<lb/> has not had a great deal of opportunity to hear plain and correct<lb/> <sic>hebrew</sic> reading and does not know wherein it consists&#44; he is quite a foreigner in this department.  And when I may trust a friend who heard him<lb/> reading the prayers and the <sic>pentateuch</sic> with the required<lb/> accents&#44; then he himself does not understand that art.  He<lb/>  reads the Hebrew&#44; with the <sic>syriac</sic> <sic>pronounciation</sic>&#44; which I have<lb/> shewn to you on several occasions&#44; is very absurd&#44; and false and<lb/> <sic>inconsisted</sic> with the Hebrew grammar&#44; mostly all the <sic>german</sic><lb/> and is generally the majority of the <sic>isralites</sic>&#44; know not to<lb/> read otherwise and is disgusting to him whose ear is accustomed to those soft <sic>hebrew</sic> sounds &#42; and as a german Hebrew scholar expresses himself<lb/> <add>Hebrew</add>&#44; it is a gross mistake which they will not correct. &#40;&#42;&#41;<lb/> Generally the philosophy of the Hebrew tongue is unknown among the most of</p>
+				<p>&#42;Ben Le&#235;b&#8212; &#40;&#42;&#41; as a specimen may serve the majority of the Israelites know no difference between &#1489; and &#1498;. <add>Hebrew</add><lb/> and pronounced alike&#44; To the <add>Hebrew</add> and <add>Hebrew</add>&#44; <add>Hebrew</add> and some add <add>Hebrew</add>&#44; <add>Hebrew</add>.</p>
+			<pb n="3"/>
+				<p><sic>of</sic> the <sic>hebrews</sic>&#44; even among those who claim to be <sic>hebrew</sic> scholars&#44;<lb/> hence that want of taste for what we call the <sic>arabic</sic> <sic>pronounciation</sic><lb/> and accentuation&#44; which is the proper <sic>pronounciation</sic>&#44; as near<lb/> as can be&#44; of the Hebrew tongue.  To shew farther how less <persName>Mr<lb/> Calish</persName> is competent to treat that subject&#44; it is <sic>suficient</sic>&#44; that<lb/> he wishes to have it read&#44; with the <sic>syriac</sic> <sic>pronounciation</sic> and in<lb/> a tune or <sic>beter</sic> <sic>cadance</sic> wherein we read English&#44; <sic>german</sic> or <sic>french</sic><lb/> verse.  Verily this does not shew a great deal of taste for the<lb/> <sic>hebrew</sic> tongue.  Verily this does not shew a great deal of knowledge<lb/> of the art of manner how the oriental tongues were read.<lb/>  To refute his remarks is useless&#44; because <persName>Mr Calish</persName> knows<lb/> very well himself&#44; that he did not write for a learned community&#44;<lb/> it was not intended for an learned article to become discussed&#44;<lb/> but only to please the remaddllers<add>&#63;</add> of <sic>synogogual</sic> ceremonies.<lb/>  Otherwise he would not have used such a sophistry.  &#8222;For a learned<lb/> man&#44; and especially a <hi rend="underline">teacher must surely</hi> know it&#44; that etc&#44; By<lb/> this is confessedly proved etc&#8221; I say by this is confessedly<lb/> proved nothing of the kind.  <persName>Mr Calish</persName> does not know&#44;<lb/> that the language at that time was spoken according to the<lb/> <sic>arabic</sic> dialect and not <del>what we call</del> according to the <sic>syriac</sic> dialect and<lb/> that the <sic>arabic</sic> has in the structure of such words always<lb/> the accent penultima either&#44; <add>Hebrew</add> or <add>Hebrew</add>.  <persName>Mr Calish</persName> takes it for<lb/> granted that we have the real Septuagint&#44; that shews he never has<lb/> compared the Septuagint with the text as I and thousand<lb/> others have&#44; otherwise how can he make such a statement.  I<lb/> refer him to 1 <persName>Samuel</persName> the two first chapters.  Or does he think<lb/> because I refer him to this place that he is right on the <sic>pentateuch</sic>&#63;<lb/>  I can refer him also to the <sic>pentateuch</sic> to more than one place&#44; which<lb/> he knows very well I only refer to <persName>Sam.</persName> because there it is more striking.<lb/>  <persName>Mr Calish</persName> ought to know that we<lb/> find the accents mentioned is the Lahor&#44; Adra etc that<lb/> was as before the Mishnah&#44; although he may say these<lb/> passages are interpolated&#44; his exposition of the 5 verses is<lb/> not a true one.  But <persName>Mr Calish</persName> says&#44; as a man who does<lb/> not know to write about such matters&#44; &#8222;hence it is irrefutable<lb/> proved&#8221; But what is the world&#44; are these words of a calm</p>
+			<pb n="4"/>
+				<p>scholar&#63;  When I tell now <persName>Mr Calish</persName> that <persName>Moses</persName> taught the <sic>Israelits</sic><lb/> the accents&#44; is irrefutable&#8212;namely what he did read to the Israelites must have here accompanied of the p. 180 common sense and the nature of<lb/> that and other oriental tongues shew that clearly&#44; that it<lb/> is irrefutable proved&#44; that <persName>Mr Calish</persName> knows nothing about the<lb/> <add>Hebrew</add>&#44; no more than <del>simple school boy&#44; perhaps less</del> what is generally taught in the <sic>jewish</sic> schools&#44; and that is really nothing&#44; which<lb/> he himself shews is his last note.  <persName>Mr Calish</persName> has no<lb/> idea what <add>Hebrew</add> means&#44; he does not understand<lb/> neither the <add>Hebrew</add> neither its figures&#44; neither its powers<lb/> has decidedly never studied the accents of the Psalms<lb/> <persName>Job</persName> and proverbs&#44; knows perhaps not <del>their</del> its names.<lb/>  <persName>Mr Calish</persName> think because <hi rend="underline">he</hi> does not know&#44; how they were<lb/> used in reading and how they are a part of the language like the <sic>vowl</sic> point&#44; which he has assailed at the same time&#44; nobody can know anything about it.<lb/>  <persName>Mr Calish</persName> can not explain in what way they required<lb/> different names&#44; which are still existing he can not shew how they originated&#63;  <persName>Mr. Calish</persName><lb/> <sic>think</sic> he can treat that subject in two lines and then<lb/> punctum<add>&#63;</add>.  No Dear <persName>Mr Calish</persName> it was not fair of you<lb/> to hurt my feelings in such a degree&#44; you ought to have thought&#44;<lb/> perhaps is there any one else who has <del>gone</del> investigated that subject as<lb/> good as I have done let me hear what he has to say about<lb/> it and let me not write against any <sic>sience</sic>&#44; because I do not like it&#44; and wish it to see abolished.  O&#63; you were wrong.  Why are your opinions irrefutable&#63;  After calm reflection you<lb/> could have found some refutation partly in the books you<lb/> have quoted yourself&#44; f. i. you quote <persName>Ihn Esra</persName>&#44; who said<lb/> <add>Hebrew</add> and amply by these <sic>authers</sic> and works<lb/> <add>Hebrew</add> <persName>Mendelsohn</persName>&#44; <persName>E. Levita</persName>&#44; <persName>L. de Modena</persName>&#44; <persName>Bandorf<lb/> Vater</persName>&#44; <persName>Ludevicus de Dien</persName>&#44; <persName>Schultens</persName>&#44; <persName>Schr&#246;der</persName>&#44; <persName>de Wette</persName><lb/> in preface Hakktab Wehakbula <add>Hebrew</add>&#44; by <persName>Kirchheim</persName>&#44; in <add>Hebrew</add>&#44;<lb/> by <add>Hebrew</add>&#44; in <persName>Arkwalti&#39;s</persName> <add>Hebrew</add>&#44; in <add>Hebrew</add> in <add>Hebrew</add>&#44; <persName>Kerder</persName><lb/> Philo. and many others.</p>
+				<p>I wish that they who write on such grave and learned subjects &#40;of course<lb/> de man does not see any beauty in it and will laugh at my preposterity<lb/> for those subjects&#41; would bear in mind that smatterings does not <del>ble</del> satisfy a<lb/> student of Hebr. <sic>litterature</sic>.  In conclusion I <sic>advice</sic> <persName>Mr Calish</persName> to instruct his <sic>bretheren</sic> among he resides<lb/> to read the <sic>hebrew</sic> in its elegant original <sic>pronounciation</sic> <del>and</del> to abolish that miserable kind of dialect&#44; wherein he now reads and to study the <add>Hebrew</add> with its simple <sic>cadances</sic>&#44;<lb/> without these no text can be read for an audience and I am assured much good would result&#44; and perhaps peace will again come in <placeName>Israel</placeName>.  Be not like the for with the grapes&#44; and finally<lb/> read Locke&#39;s essay &#8222;of the conduct of human understanding&#44; articles&#44; Bias&#44; ideas&#44; opinions&#44; etc. and<lb/> you will write against <del>to</del> your opponents with more dignity.  As soon as I have leisure I will write somethings on the<lb/> beauty of hebrew accents.  <add>Hebrew</add></p>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI [
+<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
+%teibase;
+<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
+%teiext;
+]>
+<TEI>
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>[no title given]</title>
+          <author attested="yes" accepted="yes" signature="unk">Theodore</author>
+          <editor></editor>
+          <sponsor></sponsor>
+          <funder></funder>
+          <principal></principal>
+          <respStmt>
+            <resp></resp>
+            <name></name>
+          </respStmt>
+        </titleStmt>
+        <editionStmt>
+          <edition></edition>
+          <respStmt>
+            <resp></resp>
+            <name></name>
+          </respStmt>
+        </editionStmt>
+        <extent>[information about file size goes here, information about extent of physical item comes later]</extent>
+        <publicationStmt>
+          <publisher>Unpublished manuscript</publisher>
+        </publicationStmt>
+        <seriesStmt>
+          <p>Not part of a series</p>
+        </seriesStmt>
+        <notesStmt>
+          <note></note>
+        </notesStmt>
+        <sourceDesc>
+          <biblStruct>
+            <!-- catalog entry goes here -->
+            <monogr>
+              <imprint>
+                <dateLet></dateLet>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <msDesc>
+            <msIdentifier>
+              <country>USA</country>
+              <region>PA</region>
+              <settlement>Philadelphia</settlement>
+              <institution></institution>
+              <repository>Box 1, FF2</repository>
+              <collection>The Library of the Dropsie College for Hebrew and Cognate Learning</collection>
+              <idno>LSDCBx1FF2_11</idno>
+              <altIdentifier>
+                <idno></idno>
+              </altIdentifier>
+              <msName></msName>
+            </msIdentifier>
+            <head></head>
+            <letHeading>
+              <author attested="yes" accepted="yes" signature="unk">Theodore</author>
+              <addressee editor="false" attested="yes" accepted="yes">Isaac Leeser</addressee>
+              <deliverer></deliverer>
+              <respStmt>
+                <resp></resp>
+                <name></name>
+              </respStmt>
+              <placeLet>New York, NY</placeLet>
+              <placeRec>Philadelphia, PA</placeRec>
+              <dateLet when="1833-11" source="" attested="yes">10 November 1833</dateLet>
+            </letHeading>
+            <msContents>
+              <msItem>
+                <author></author>
+                <editor></editor>
+                <respStmt>
+                  <resp></resp>
+                  <name></name>
+                </respStmt>
+                <title></title>
+                <decoNote></decoNote>
+                <listBibl>
+                  <bibl></bibl>
+                </listBibl>
+                <filiation></filiation>
+                <textLang></textLang>
+                <figure>
+					<graphic url="ilcajs_b1f1_0009_1r.jpg"/>
+					<graphic url="ilcajs_b1f1_0009_1v.jpg"/>
+					<graphic url="ilcajs_b1f1_0009_2r.jpg"/>
+					<graphic url="ilcajs_b1f1_0009_2v.jpg"/>
+                </figure>
+              </msItem>
+            </msContents>
+            <physDesc>
+              <objectDesc>
+                <supportDesc>
+                  <support>
+                    <material color="" lined="false" paper_type="" size="Letter">letter</material>
+                  </support>
+                  <extent>4 pages on 1 sheet
+                    <dimensions></dimensions>
+                  </extent>
+                  <foliation></foliation>
+                  <collation></collation>
+                  <condition fragment="false"></condition>
+                </supportDesc>
+                <layoutDesc>
+                  <layout></layout>
+                </layoutDesc>
+              </objectDesc>
+              <handDesc script="manuscript">
+                  <handNote></handNote>
+              </handDesc>
+              <decoDesc>
+                <decoNote></decoNote>
+              </decoDesc>
+              <additions></additions>
+              <bindingDesc>
+                <binding>
+                  <decoNote></decoNote>
+                </binding>
+              </bindingDesc>
+              <sealDesc>
+                <seal>
+                  <p>Wax seal</p>
+                </seal>
+              </sealDesc>
+              <accMat></accMat>
+              <envDesc occ="false"></envDesc>
+            </physDesc>
+            <history>
+              <origin></origin>
+              <provenance></provenance>
+              <acquisition></acquisition>
+            </history>
+            <additional>
+              <adminInfo>
+                <recordHist>
+                  <source></source>
+                  <change></change>
+                </recordHist>
+                <availability status="free">
+                  <p>Unrestricted</p>
+                </availability>
+                <custodialHist>
+                  <custEvent></custEvent>
+                </custodialHist>
+              </adminInfo>
+              <surrogates></surrogates>
+              <listBibl>
+                <bibl></bibl>
+              </listBibl>
+            </additional>
+            <msPart>
+              <altIdentifier>
+                <idno></idno>
+              </altIdentifier>
+            </msPart>
+          </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <projectDesc>
+          <p></p>
+        </projectDesc>
+        <samplingDecl>
+          <p></p>
+        </samplingDecl>
+        <editorialDecl>
+          <correction>
+            <p></p>
+          </correction>
+          <normalization>
+            <p></p>
+          </normalization>
+          <quotation>
+            <p></p>
+          </quotation>
+          <hyphenation>
+            <p></p>
+          </hyphenation>
+          <segmentation>
+            <p></p>
+          </segmentation>
+          <stdVals>
+            <p></p>
+          </stdVals>
+          <interpretation>
+            <p></p>
+          </interpretation>
+        </editorialDecl>
+        <tagsDecl>
+          <rendition></rendition>
+          <namespace name="http://www.tei-c.org/ns/1.0">
+            <tagUsage gi=""></tagUsage>
+          </namespace>
+        </tagsDecl>
+        <refsDecl>
+          <cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
+        </refsDecl>
+        <refsDecl>
+          <refState unit=""/>
+        </refsDecl>
+        <classDecl>
+          <taxonomy>
+            <category>
+              <catDesc></catDesc>
+            </category>
+          </taxonomy>
+        </classDecl>
+        <appInfo>
+          <application ident="" version="">
+            <desc></desc>
+            <label></label>
+          </application>
+        </appInfo>
+      </encodingDesc>
+      <profileDesc>
+        <creation></creation>
+        <langUsage>
+          <language ident="en">English</language>
+		  <language ident="he">Hebrew</language>
+        </langUsage>
+        <textClass>
+          <keywords scheme="unknown">
+            <list>
+              <item>Voyages and Travels</item>
+              <item>Family</item>
+            </list>
+          </keywords>
+          <classCode scheme=""></classCode>
+          <catRef/>
+        </textClass>
+      </profileDesc>
+      <revisionDesc>
+        <change></change>
+      </revisionDesc>
+    </teiHeader>
+		<text>
+		<body>
+		<pb n="1"/>
+		
+			<p><placeName>New York</placeName> <date>Sunday Sunday 10 Nov. 1833</date></p>
+			<p>Dear <addressee>Leeser</addressee></p>
+		  <p rend="indent(2)"><persName>Mr. Moses E. Levy</persName> &#40;of <placeName>Florida</placeName>&#41; intending to<lb/> leave here in the morning I steal a few moments from dinner<lb/> to address you—as otherwise I should not have time to do so<lb/> as I have as yet not had the opportunity of conferring with<lb/> my Brother on business matters&#44; to which purpose I must<lb/> devote my afternoon &amp; possibly evening also&#8211;</p>
+		  <p rend="indent(1)">We had a tedious time on <date>Friday</date>—only reached <placeName>Birden<lb/>=town</placeName> at 1 oclock owing to the fog in the <placeName>Delaware</placeName>—and<lb/> waited there till 3&#44; so as to allow the cars from <placeName>NYork</placeName> to<lb/> arrive before we should start.  In consequence of all which<lb/> we only arrived at the wharf at 8 o&#39;clock at night and<lb/> after&#44; I may say contending for our baggage&#44; was at last<lb/> pursuing my route up our brilliant lively <placeName>Broadway</placeName><lb/> Thank God found all well&#44; and somewhat uneasy at the<lb/> delay.  Your letters to Cousin <persName>Isaac</persName> I delivered him&#44; and<lb/> that for <persName>Mr. Hart</persName>&#44; handed to his nephew <persName>Mr. Davids</persName> to convey<lb/> to him.</p>
+		  <p rend="indent(1)">We this day were favored with delightful weather<lb/> and altho&#39; not a very full&#44; a very liberal audience to<lb/> listen to the Discourse of <persName>Dr. Peixotto</persName>&#44; at our temporary syna<lb/>&#45;gogue&#44; we collected about $270 which really is a most opportune event for our society.  Please mention to ma<lb/> chere amie <persName>Miss R.</persName> this fortunate circumstance.  <sic>to</sic> wit the<lb/> delivery of the discourse&#44; as I pride myself &#40;perhaps rather</p>
+
+		<pb n="2"/>
+			
+			<p>presumptuously&#41; on her sympathy in my behalf&#45;having<lb/> been acquainted with the repeated disappointment&#44; I have<lb/> &#40;in common with a few others&#41; endured on this account&#8211;<lb/> Since I am thus <hi rend="underline">fairly</hi> embarked on a subject&#44; than which<lb/> a more pleasing one could not offer itself&#44; say also that<lb/> to the <hi rend="underline">letter</hi> and in the very spirit of the commands with<lb/> which I was both honored &amp; entrusted by her—have<lb/> I fulfilled them.  I delivered within a brief hour after<lb/> my arrival her large letter to <persName>Miss Hortensia[&#63;]</persName>&#44; and <persName>Miss<lb/> Pesoa</persName>—and I pleased myself <hi rend="underline">doubly</hi> last evening in<lb/> conveying the small packet intended <hi rend="underline">solely</hi> for the use of<lb/> <persName>Mr. Robert P Noah</persName> &amp;c—and in spending a few very agreeable <del>few</del><lb/> hours with the major&#44; his wife &amp; sister.  They made many enqui<lb/>=ries&#44; to which I responded as well as circumstances enabled<lb/> me.  Now my dear friend&#44; for the life and soul of me I cannot<lb/> separate or detach from my mind the image of her&#44; whom I<lb/> so recently left in <placeName>Philad</placeName>&#58;&#8211;Prepare yourself if you have<lb/> courage or patience&#44; sympathy or indulgence&#44; to read the outpour<lb/>=ings of a doating passion.  Yes if I must allow myself<lb/> vanquished&#44; by the blandishments of a cultivated mind&#44; an<lb/> amiable disposition&#44; and a model of domestic virtues&#44; for so do<lb/> I esteem the idol to which my heart &#40;you may say impiously<lb/> or insanely&#41; <sic>yeilds</sic> its homage &amp; then must you be content to find<lb/> my letters filled with such expressions as my feelings dictate.</p>
+
+		<pb n="3"/>
+			
+			<p>I had just composed myself yesterday to address those thoughts<lb/> which the place and occasion required.  I should devote impi<lb/>=ous supplication.  When the language of the [Hebrew] presented to<lb/> my mind the whole detail of <persName>Isaacs</persName> marriage with <persName>Rebekah</persName></p>
+		  <p rend="indent(1)">Perhaps the name alone first <sic>rivetted</sic> my attention&#44; be it as it<lb/> may.  down went my prayer book&#44; and I <sic>dont</sic> think I ever<lb/> perused this interesting narrative with stronger feelings of admiration<lb/> at the amiability and benevolence of <persName>Rebekah</persName>.  it is true my ideas<lb/> of gallantry could not approve the acquiescence of the servant<lb/> suffering her to draw water for the camels and I hope yo[&#63;]<lb/> find in our traditions sufficient grounds to prove&#44; that her [&#63;]<lb/> nature was not imposed on to that extent.  What a [&#63;]<lb/> subject for a discourse&#33;  Just by way of a bit of peandal[&#63;]&#44; small<lb/> I ask if one of our southern Belles would do the like for a husband<lb/> even were she to know the reward before hand—which the kind <persName>Rebe=<lb/>kah</persName> did not.  When you have nought better to write you can touch<lb/> on this subject.</p>
+		  <p rend="indent(1)">When you see <persName>Mrs. R Hart</persName>&#44; please tell her I delivered her<lb/> message to <persName>Miss Hendricks</persName>.  I hope <persName>Mr. A</persName> has recovered&#44; and that<lb/> his family may enjoy better health&#44; and enabled to visit us soon.</p>
+			<p>Remember me with much esteem to all enquiring friends&#44; and<lb/> to those whom I more particularly care for&#44; and admire&#44; you<lb/> may strengthen that expression.  all which I leave to your judgt..<lb/> of me and him or her&#44; as the case may be.</p>
+		  <p rend="indent(1)">The family desires as usual to be remembered to you and<lb/> as ever believe me your friend  <persName role="author">Theodore</persName>.</p>
+
+		<pb n="4"/>
+			
+
+			<p><addressee>Revd Isaac Leeser</addressee></p>
+		  <p rend="indent(1)"><placeName>Walnut&#44; 2d. Door west of 4th Street</placeName></p>
+		  <p><persName>Mr. M. E Levy</persName>	<hi rend="indent(2)"><placeName>Philadelphia</placeName></hi></p>
+
+			<p><hi rend="underline">Forget not</hi>&#44; when you write to speak on that subject&#44; the most pleasing&#44; that<lb/> my mind can dwell on&#8211; and of &amp; one which&#44; every thing will be interesting&#8211;</p>
+		  <p rend="indent(7)"><persName role="author">T.</persName></p>
+		</body>					
+	</text>					
+</TEI>	

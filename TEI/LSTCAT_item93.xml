@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI [
+<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
+%teibase;
+<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
+%teiext;
+]>
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>[no title given]</title>
+				<author attested="yes" accepted="yes" signature="yes">Eckmann, J.</author>
+				<editor></editor>
+				<sponsor></sponsor>
+				<funder></funder>
+				<principal></principal>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition></edition>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</editionStmt>
+			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
+			<publicationStmt>
+				<publisher>Unpublished manuscript</publisher>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Not part of a series</p>
+			</seriesStmt>
+			<notesStmt>
+				<note></note>
+			</notesStmt>
+			<sourceDesc>
+				<biblStruct>
+					<!-- catalog entry goes here -->
+					<monogr>
+						<imprint>
+							<dateLet></dateLet>
+						</imprint>
+					</monogr>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<country>USA</country>
+						<region>PA</region>
+						<settlement>Philadelphia</settlement>
+						<institution></institution>
+						<repository>TCAT</repository>
+						<collection>Anonymous</collection>
+						<idno>LSTCAT_item93</idno>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+						<msName></msName>
+					</msIdentifier>
+					<head></head>
+					<letHeading>
+						<author attested="yes" accepted="yes" signature="yes">Eckmann, J.</author>
+						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac</addressee>
+						<deliverer></deliverer>
+						<respStmt>
+							<resp></resp>
+							<name></name>
+						</respStmt>
+						<placeLet>Charleston, SC</placeLet>
+						<placeRec>Philadelphia, PA</placeRec>
+						<dateLet when="1851-08" source="" attested="yes">20 August 1851</dateLet>
+						<dateLet when="1851-08" source="" attested="yes">20 August 5611</dateLet>
+					</letHeading>
+					<msContents>
+						<msItem>
+							<author></author>
+							<editor></editor>
+							<respStmt>
+								<resp></resp>
+								<name></name>
+							</respStmt>
+							<title></title>
+							<decoNote></decoNote>
+							<listBibl>
+								<bibl></bibl>
+							</listBibl>
+							<filiation></filiation>
+							<textLang></textLang>
+							<figure>
+								<graphic url="il_tcat_item93_wk1_body0001.jpg"></graphic>
+								<graphic url="il_tcat_item93_wk1_body0002.jpg"></graphic>
+								<graphic url="il_tcat_item93_wk1_body0003.jpg"></graphic>
+								<graphic url="il_tcat_item93_wk1_body0004.jpg"></graphic>
+							</figure>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support>
+									<material color="" lined="false" paper_type="" size="">letter</material>
+								</support>
+								<extent>4 pages on 4 sheets
+									<dimensions></dimensions>
+								</extent>
+								<foliation></foliation>
+								<collation></collation>
+								<condition fragment="false"></condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout></layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc script="manuscript">
+							<handNote></handNote>
+						</handDesc>
+						<decoDesc>
+							<decoNote></decoNote>
+						</decoDesc>
+						<additions></additions>
+						<bindingDesc>
+							<binding>
+								<decoNote></decoNote>
+							</binding>
+						</bindingDesc>
+						<sealDesc>
+							<seal>
+								<p></p>
+							</seal>
+						</sealDesc>
+						<accMat></accMat>
+						<envDesc occ="false"></envDesc>
+					</physDesc>
+					<history>
+						<origin></origin>
+						<provenance></provenance>
+						<acquisition></acquisition>
+					</history>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source></source>
+								<change></change>
+							</recordHist>
+							<availability status="free">
+								<p>Unrestricted</p>
+							</availability>
+							<custodialHist>
+								<custEvent></custEvent>
+							</custodialHist>
+						</adminInfo>
+						<surrogates></surrogates>
+						<listBibl>
+							<bibl></bibl>
+						</listBibl>
+					</additional>
+					<msPart>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+					</msPart>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p></p>
+			</projectDesc>
+			<samplingDecl>
+				<p></p>
+			</samplingDecl>
+			<editorialDecl>
+				<correction>
+					<p></p>
+				</correction>
+				<normalization>
+					<p></p>
+				</normalization>
+				<quotation>
+					<p></p>
+				</quotation>
+				<hyphenation>
+					<p></p>
+				</hyphenation>
+				<segmentation>
+					<p></p>
+				</segmentation>
+				<stdVals>
+					<p></p>
+				</stdVals>
+				<interpretation>
+					<p></p>
+				</interpretation>
+			</editorialDecl>
+			<tagsDecl>
+				<rendition></rendition>
+				<namespace name="http://www.tei-c.org/ns/1.0">
+					<tagUsage gi=""></tagUsage>
+				</namespace>
+			</tagsDecl>
+			<refsDecl>
+				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
+			</refsDecl>
+			<refsDecl>
+				<refState unit=""/>
+			</refsDecl>
+			<classDecl>
+				<taxonomy>
+					<category>
+						<catDesc></catDesc>
+					</category>
+				</taxonomy>
+			</classDecl>
+			<appInfo>
+				<application ident="" version="">
+					<desc></desc>
+					<label></label>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<creation></creation>
+			<langUsage>
+				<language ident="en">English</language>
+				<language ident="he">Hebrew</language>
+			</langUsage>
+			<textClass>
+				<keywords scheme="unknown">
+					<list>
+						<item></item>
+						<item></item>
+					</list>
+				</keywords>
+				<classCode scheme=""></classCode>
+				<catRef/>
+			</textClass>
+		</profileDesc>
+		<revisionDesc>
+			<change></change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<pb n="1"/>
+				<p rend="The following paragraph is written in small handwriting above the main letter."></p>
+				<p>I cannot enter particulars but I had reason to think so as that Dictator is known to me to belong as much to our unprejudiced<lb/> school as any.  &#8220;We speak and write mostly according to the different passions &#38; emotions which agitate us.  And those objects<lb/> which strike us most forcibly represent themselves in a lively manner to our imagination&#44; and thus determine us to that<lb/> side&#8222; <persName>Dr Pin Stru<add>&#63;</add></persName> with the supposed wrong I broke forth with my expressions.  They were more a censure against the<lb/> dissension <del>created in</del> widened&#8212;then <add>&#63;</add> approbation&#44; of the dissension which by earth acts<lb/> was caused.  The whole if expressed would have been &#8220;what all this tunnels&#44; this <sic>anathemising</sic>&#44; why not<lb/> rather<add>&#63;</add> conciliate.  The opinions of preaching about or against messiah&#44; is a censure<lb/> against <persName>P.</persName> &#40;I wish to know whether have they original you know my hand writing<lb/> and can identify it&#44; before doing so&#44; it is not fair to send it forth as I have no means to ascertain&#44; and<lb/> every reason to question their honesty.</p>
+				<p><placeName>Charleston</placeName> <date>Aug 20. 5611</date></p>
+				<p>To the <addressee>Revd I Leeser</addressee></p>
+				<p><placeName>Philadelphia</placeName></p>
+			<p rend="indent(1)">Your enclosed letter&#44; I found but last night taking out the proof<lb/> in haste the letter must have dropped.  I thank for proof&#44; for letter and your kind<lb/> advice.  My letter to <persName>P.</persName> is written in such a careless manner as even you<lb/> must have some proofs&#44; a copy of it I have not.  The word aerial<lb/> does not seem to be original after ideal seems to be an insertion<lb/> for my letter ideal stands opposed to practical.  Could not you claim<lb/> the original&#63;  The contents of his own petition cards denies a <add>&#63;</add><lb/> <add>&#63;</add>.</p>
+			<p rend="indent(1)">The letter was written under the impression&#44; that the Congr are considered<lb/> as no more being Jews for their Synag&#58; reformer &#38; for the abrogation<lb/> of <add>Hebrew</add> <add>see top</add> and so in my haste&#44; I placed<add>&#63;</add> myself as champion when<lb/> I ought to have heard first.  It now serves me right.  But this<lb/> is <sic>incontestible</sic> and in due time will be stated that I in presence<lb/> of the Trustees&#44; &#38; at the House of <persName>Mr Moise</persName>&#44; and with God<lb/> for <add>&#63;</add> 3 hour warmly protested against 2d day <add>&#63;</add><lb/> <add>Hebrew</add> and this is meant in my letter in <date>July</date> occid<lb/> &#8220;admissible on the letter of the law&#44; but not so on the score<lb/> of charity &#38; piety.  I have not admitted it as right&#44; though it may be legend<lb/> With regard to <persName>Nusser</persName> the case is the same <persName>Mr Ab. Moise</persName>&#44; with<lb/> also appear when required.  Let the volcano first destroy itself.<lb/>  Strange that there are men who can condone that of opposed Drs views&#44;<lb/> and none is more that will say he heard me in private or in pulpit<lb/> preach any thing that is not quite called on.</p>
+				<p>To his creed I never gave consent&#44; I knew nothing of his changes<lb/> as little as any body else&#44; I only read about the word <add>Hebrew</add></p>
+			<pb n="2"/>
+				<p>I allow all to be as it is.  And supposing I had changed my<lb/> views&#44; or had been inconsistent <persName>Poznanski&#39;s</persName> Gents ought<lb/> to idolize me&#44; had not their Prophet done such tricks and thereby<lb/> gained their attachment of respect.  The best is told them<lb/> <add>Hebrew</add> prove that his words ought not be so much attended to as the <add>&#63;</add> expected<lb/> <add>Hebrew</add> go on.  The letter contains nothing of moment facts fr&#58; first day<lb/> <add>Hebrew</add><lb/> <add>Hebrew</add> What induces you to advise me to go to <placeName>Engl.</placeName>  I am justified<lb/> <add>Hebrew</add><lb/> <add>Hebrew</add> and qualified to take any orthodox congreg.  This reform Synag is<lb/> <add>Hebrew</add> <sic>a</sic> Orthodox as any other.  Reform has nothing to do with orthodoxy<lb/> never did I preach any but orthodox principles&#44; and the<lb/> congreg wanted such&#44; on this ground even <persName>Mr Wise</persName> was<lb/> elected.  This was held forth in a speech on the occasion of<lb/> his election by <persName>Mr Moise</persName>.  Though it displeased <persName>P.</persName> the congreg<lb/> want such.  <persName>P</persName> and his disciples are of no weight at all when<lb/> the question is Judaism.</p>
+			<p rend="indent(1)">What Ideal is&#44; see traff. In what sense I applied it<lb/> is proved by my controversy 2d day after my arrival.<lb/>  I reiterate my thanks for your valuable services<lb/> you will oblige me with<lb/> 20 copies again&#44; if not <sic>to</sic> late I remain <sic>gratefuly</sic></p>
+			<p rend="indent(10)">your</p>
+			<p rend="indent(11)"><persName role="author">J Eckman</persName></p>
+				<p><persName>Dr Fr&#228;nkel</persName> Rabbi at <placeName>Dresden</placeName> is famous for Learning&#44; Character</p>
+				<p>&#38; Piety.  He is true orthodox Rabbi though he introduced<lb/> organ&#44; choir &#38; <sic>german</sic> prayers.  It is he who some few weeks ago was mentioned in<lb/> the <sic>asmonean</sic> to have stayed at <persName>Dr Adlers</persName> House in <placeName>London</placeName>.  <persName>Dr F</persName> is one of the most<lb/> famed men in <placeName><sic>germany</sic></placeName>.  <placeName>Berlin</placeName> wished to elect him as Rabbi&#44; this failed in the despo<lb/>tism of <placeName>Prussia</placeName>&#44; he wanted some restriction under which the clergy labor re..<lb/>moved&#44; government would not do so.  Through the tyrant would have been glad<lb/> to have such a man at the head of the <add>Jews of his</add> Capital&#44; see Fost Histo<add>&#63;</add> Torme 12</p>
+				<p><persName>Dr Jacks</persName> was co <add>&#63;</add> at <placeName><sic>Prag</sic></placeName>&#44; in his ancient Synag exists an organ for several<lb/> centuries as early as <date>1176</date> a new one was built. How old must the<lb/> old one have been&#63;  See <persName>Shuldt A Herthumer</persName> Theil 4. Zunz<add>&#63;</add> Gottesdienst<lb/> bihe<add>&#63;</add> Vortr&#228;ge <sic>pag</sic> 476</p>
+			<pb n="3"/>
+				<p><persName>Dr Sacko</persName> assented to a great temple that was to be built with organ&#44; choir&#44; <sic>german</sic> prayers</p>
+			<p rend="indent(1)">The king would not allow a spot where they waited.  The revolution broke<lb/> out and so the affair is dropped.  <persName>Dr J.</persName> is a strict orthodox man.<lb/>  There is no <add>Hebrew</add> at all.  I could here address authorities that would more<lb/> than satisfy you.  When you wrote so harshly against me some time ago<lb/> I could have easily come out and shown you <hi rend="underline">that nothing</hi> that has<lb/> been done in the Synag is against our Relig. or against any <hi rend="underline">din</hi>&#44; but I would<lb/> have been obliged to show it to the world.  And <sic>If</sic> I can do no better than<lb/> fear<add>&#63;</add> how <add>Hebrew</add> might be produced&#63;  For if the <add>Hebrew</add> various<lb/> it they will soon here and <sic>and</sic> there from a desire of innovation etc<lb/> roughly attack all that is holy&#44; as was done here.  Men who know<lb/> no 2<add>&#63;</add> who neither know nor practice any Relig at all became<lb/> reformer&#44; green girls scold the Rabbis at vote for or against creeds<lb/> and so I will rather be thought to <hi rend="underline">be</hi> wrong than to <hi rend="underline">do</hi> wrong</p>
+				<p>The great wickedness is not the deformed Synag&#58; but it is.</p>
+				<list type="ordered">
+				<head></head>
+				<item n="1"> That neither Bibl nor Rabb Law are observed</item>
+				<item n="2"> The whole treasures heaped by our nation marked<lb/> and ridiculed</item>
+				<item n="3"> It was not Relig&#58; at all in <persName>P.</persName></item>
+				<item n="4"> his <add>Hebrew</add>&#44; &#38; <add>Hebrew</add></item>
+				<item n="5"> To drive these pious men out of their<lb/> property</item>
+				<item n="6"> To hurt the feelings of so many people<lb/> and in the abrogation of <add>Hebrew</add> legally<lb/> it is but <add>Hebrew</add>&#59; but the feelings of<lb/> <sic>of</sic> all who hear of it.</item>
+				<item n="7"> The <sic>unparalelled</sic> Hypocrisy</item>
+				<item n="8"> His plan to subvert every thing</item>
+				</list>
+				<p>Here was neither reform&#44; we have all the<lb/> prayers in <sic>hebrew</sic> except <date>friday</date> evening<lb/> &#124; prayer &#124; Hymn &#38; <add>Hebrew</add> is read Heb &#38; then Engl<lb/> <date>Sabbat</date> <add>&#63;</add>&#44; 1 confessor <add>&#63;</add><lb/> the <add>Hebrew</add>&#44; &#38; Prayer to government in Engl</p>
+				<p rend="The following is written in a column to the right of the list above."></p>
+				<p> It is the relig life that I have to reform<lb/> but in the Syng&#44; nothing amiss has<lb/> been done<lb/> Had a Pious &#38; good man been here<lb/> of course nothing of the kind would<lb/> have happened&#44; as it could not be<lb/> done without a rupture.  Yet<lb/> had a pious teacher been here and<lb/> a party was desirous of <add>&#63;</add> and were<lb/> not to be dissuaded from it.  He<lb/> would have proved his piety by<lb/> his &#8220;life &#38; protested against <add>&#63;</add><lb/> <add>&#63;</add> &#38; tried by instruction<lb/> to prepare the mind to <add>&#63;</add><lb/> changes. But here all was<lb/> preposterous.  No respect of<lb/> persons&#44; no reverence for what<lb/> is sacred.  Like a robber he came<lb/> against our wise men with</p>
+				<p rend="The following is written in the left margin near the top of the page.">I would<lb/> rather leave<lb/> teaching</p>
+			<pb n="4"/>
+				<p>a battle arc and clubs.  And like a thief in the dark to steal their faith<lb/> a good man would never propose changes&#44; he would wait till asked<lb/> if a congreg feels no want to curtail prayer&#44; prayer cannot be too<lb/> long.  I cannot write so much.</p>
+				<p>What <persName>P</persName> &#38; his men wanted at all in a Jewish Synag I do no know.  But<lb/> my adherent intended no harm</p>
+				<p><persName>Mayer Lazarus</persName> several times assured me &#8220;That they intended nothing but<lb/> to introduce order &#38; decorum into the service to render it more<lb/> attractive.  As to a creed &#8220;They never<add>&#63;</add> intended to change or alter&#44; it was<lb/> but by chance that it was fined up there it was only to have<lb/> a &#8220;p<add>&#63;</add>dent to the Decalogue.</p>
+				<p>Should I <add>&#63;</add> to reform the Congreg I shall not complain at<lb/> all <del>&#63;</del> about the Syngag. And I am by no means to be blamed<lb/> so fill up the place I will transcribe part of <add>Hebrew</add><lb/> <add>Hebrew</add><lb/> I wrote so fast is this the contents&#63;</p>
+		</body>
+	</text>
+</TEI>

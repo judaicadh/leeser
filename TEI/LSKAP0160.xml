@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI [
+<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
+%teibase;
+<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
+%teiext;
+]>
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>[no title given]</title>
+				<author attested="yes" accepted="yes" signature="yes">Leeser, Isaac</author>
+				<editor></editor>
+				<sponsor></sponsor>
+				<funder></funder>
+				<principal></principal>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition></edition>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</editionStmt>
+			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
+			<publicationStmt>
+				<publisher>Unpublished manuscript</publisher>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Not part of a series</p>
+			</seriesStmt>
+			<notesStmt>
+				<note></note>
+			</notesStmt>
+			<sourceDesc>
+				<biblStruct>
+					<!-- catalog entry goes here -->
+					<monogr>
+						<imprint>
+							<dateLet></dateLet>
+						</imprint>
+					</monogr>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<country>USA</country>
+						<region>PA</region>
+						<settlement>Philadelphia</settlement>
+						<institution></institution>
+						<repository>LSKAP</repository>
+						<collection>The Arnold and Deanne Kaplan Collection of Early American Judaica</collection>
+						<idno>LSKAP0160</idno>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+						<msName></msName>
+					</msIdentifier>
+					<head></head>
+					<letHeading>
+						<author attested="yes" accepted="yes" signature="yes">Leeser, Isaac</author>
+						<addressee editor="false" attested="yes" accepted="yes"></addressee>
+						<deliverer></deliverer>
+						<respStmt>
+							<resp></resp>
+							<name></name>
+						</respStmt>
+						<placeLet>Philadelphia, PA</placeLet>
+						<placeRec>Philadelphia, PA</placeRec>
+						<dateLet when="1845-12" source="" attested="yes">Decr. 10, 1845</dateLet>
+						<dateLet when="1845-12" source="" attested="yes">Kislev 11, 5606</dateLet>
+					</letHeading>
+					<msContents>
+						<msItem>
+							<author></author>
+							<editor></editor>
+							<respStmt>
+								<resp></resp>
+								<name></name>
+							</respStmt>
+							<title></title>
+							<decoNote></decoNote>
+							<listBibl>
+								<bibl></bibl>
+							</listBibl>
+							<filiation></filiation>
+							<textLang></textLang>
+							<figure>
+								<graphic url="LSKAP0160_1r.jpg"></graphic>
+							</figure>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support>
+									<material color="" lined="false" paper_type="" size="">print</material>
+								</support>
+								<extent>2 pages on 1 sheet
+									<dimensions></dimensions>
+								</extent>
+								<foliation></foliation>
+								<collation></collation>
+								<condition fragment="false"></condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout></layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc script="typescript">
+							<handNote></handNote>
+						</handDesc>
+						<decoDesc>
+							<decoNote></decoNote>
+						</decoDesc>
+						<additions>Circular</additions>
+						<bindingDesc>
+							<binding>
+								<decoNote></decoNote>
+							</binding>
+						</bindingDesc>
+						<sealDesc>
+							<seal>
+								<p></p>
+							</seal>
+						</sealDesc>
+						<accMat></accMat>
+						<envDesc occ="false"></envDesc>
+					</physDesc>
+					<history>
+						<origin></origin>
+						<provenance></provenance>
+						<acquisition></acquisition>
+					</history>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source></source>
+								<change></change>
+							</recordHist>
+							<availability status="restricted">
+								<p>Restricted</p>
+							</availability>
+							<custodialHist>
+								<custEvent></custEvent>
+							</custodialHist>
+						</adminInfo>
+						<surrogates></surrogates>
+						<listBibl>
+							<bibl></bibl>
+						</listBibl>
+					</additional>
+					<msPart>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+					</msPart>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p></p>
+			</projectDesc>
+			<samplingDecl>
+				<p></p>
+			</samplingDecl>
+			<editorialDecl>
+				<correction>
+					<p></p>
+				</correction>
+				<normalization>
+					<p></p>
+				</normalization>
+				<quotation>
+					<p></p>
+				</quotation>
+				<hyphenation>
+					<p></p>
+				</hyphenation>
+				<segmentation>
+					<p></p>
+				</segmentation>
+				<stdVals>
+					<p></p>
+				</stdVals>
+				<interpretation>
+					<p></p>
+				</interpretation>
+			</editorialDecl>
+			<tagsDecl>
+				<rendition></rendition>
+				<namespace name="http://www.tei-c.org/ns/1.0">
+					<tagUsage gi=""></tagUsage>
+				</namespace>
+			</tagsDecl>
+			<refsDecl>
+				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
+			</refsDecl>
+			<refsDecl>
+				<refState unit=""/>
+			</refsDecl>
+			<classDecl>
+				<taxonomy>
+					<category>
+						<catDesc></catDesc>
+					</category>
+				</taxonomy>
+			</classDecl>
+			<appInfo>
+				<application ident="" version="">
+					<desc></desc>
+					<label></label>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<creation></creation>
+			<langUsage>
+				<language ident="en">English</language>
+			</langUsage>
+			<textClass>
+				<keywords scheme="unknown">
+					<list>
+						<item></item>
+						<item></item>
+					</list>
+				</keywords>
+				<classCode scheme=""></classCode>
+				<catRef/>
+			</textClass>
+		</profileDesc>
+		<revisionDesc>
+			<change></change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+				<p rend="align(center)">CIRCULAR&#44;</p>
+				<p rend="align(center)">OF THE AMERICAN JEWISH PUBLICATION SOCIETY&#44; TO THE FRIENDS OF JEWISH LITERATURE.</p>
+				<p>&#8220;<emph rend="italics">Resolved</emph>&#44; That the Corresponding Secretary be directed to inform the various Congregations&#44; Auxiliary Societies and Individuals&#44; of the<lb/> formation of the Parent Society&#44; and to invite their co&#45;operation.&#8221;</p>
+				<p>RESPECTED FRIEND&#58;</p>
+			<p rend="indent(1)">The subscriber has the honour of calling your attention to the foregoing resolution&#44; adopted at a meeting of Israelites of<lb/> <placeName>Philadelphia</placeName>&#44; held on the <date>ninth day of November</date>&#44; last&#44; for the purpose of forming &#8220;The American Jewish Publication Society&#59;&#8221;<lb/> and takes the liberty of laying before you the principal features of this institution.</p>
+			<p rend="indent(1)">The want of books illustrative of our blessed religion has long since been severely felt both in <placeName>England</placeName> and <placeName>America</placeName>&#44; and<lb/> in no department more than in those elementary works&#44; which a parent could with safety place in the hands of his children.</p>
+			<p rend="indent(1)">The encouragement hitherto extended to works of this kind&#44; even the most meritorious&#44; has been so small&#44; that very few<lb/> could or would venture in the face of a probably failure&#44; to appear before the Jewish community as authors on Jewish subjects.</p>
+			<p rend="indent(1)">But as association has been found to produce a remarkable degree of success where individual efforts had failed&#44; it was<lb/> deemed highly probable&#44; that if Israelites were to unite for the encouragement of their own literature&#44; they might speedily wit&#45;<lb/>ness many beneficial effects of their union.</p>
+			<p rend="indent(1)">With this view&#44; the above society&#44; of which the subscriber has the honour to be the Corresponding Secretary&#44; was formed by<lb/> the Israelites of <placeName>Philadelphia</placeName>&#44; for the purpose of encouraging Jewish literature and to diffuse the works which may be published<lb/> under  their direction in every part of the land.</p>
+			<p rend="indent(1)">To show the practicability of the plan&#44; two of those now composing the Board of Managers had printed&#44; as a preliminary<lb/> step towards the organization of the society&#44; two books&#44; one called &#8220;<persName>Caleb Asher</persName>&#44;&#8221; &#40;a reprint of an English work&#44;&#41; and the other&#44;<lb/> &#8220;The Hebrew Tales&#44;&#8221; &#40;taken from the book of that name by the late <persName>Dr. Hurwitz</persName>&#44; of <placeName>London</placeName>.&#41; under the name of the Jewish<lb/> Miscellany&#44; Nos. 1 &#38; 2.  The cost at which these two books were produced&#44; is so low&#44; that we have now not the least doubt&#44;<lb/> that if from twelve to fifteen hundred subscribers can be obtained&#44; at but ONE DOLLAR each per annum&#44; we shall be enabled to<lb/> issue eight numbers of the Miscellany every year&#44; distribute them to the subscribers&#44; set apart a considerable number for distri&#45;<lb/>bution among the poor&#44; and have a surplus to be sold for the benefit of the general fund&#44; besides realizing a surplus in money<lb/> from the contributions of the members and subscribers&#44; whilst every one of these will receive a quantity of literary matter for<lb/> less than he could purchase the same under any ordinary circumstances.</p>
+			<p rend="indent(1)">All that is required is the co&#45;operation of all Israelites who feel an interest in their literature.  We therefore appeal to you<lb/> to use your influence among your friends and the members of your congregation&#44; to establish an auxiliary society to act with us<lb/> for the furtherance of our plan&#44; as pointed out in our constitution&#44; a copy of which accompanies this circular.  The object speaks<lb/> so strongly for itself&#44; that it is deemed unnecessary to make a stronger appeal than the mere statement of the fact of our organ&#45;<lb/>ization&#44; and the assurance of our ability to carry out the object of our union&#44; if we are only supported by the kind countenance<lb/> and contributions of our friends at home and abroad.  It would afford us great pleasure if the Ladies also would form auxiliary<lb/> societies on the plan proposed&#44; as no good work can be perfect while their aid is absent.</p>
+			<p rend="indent(1)">We would also be obliged to you&#44; if you could procure donations to our funds to enable us to proceed for the first year<lb/> without that large number of members which we expect hereafter.</p>
+			<p rend="indent(1)">Nos. 1 &#38; 2 of our Miscellany will be forwarded to you upon application to the subscriber&#44; in case you have not already seen them.</p>
+			<p rend="indent(1)">Our plan of publication will embrace the whole range of religious literature&#44; and it is our intention to have all our works<lb/> printed with a clear type and on good paper&#44; so as to make them fit to be put in any library.</p>
+			<p rend="indent(1)">The Board of Officers of our society for this year&#44; consists of <persName>Abraham Hart</persName>&#44; <emph rend="italics">President</emph>&#59; <persName>Henry Cohen</persName> and <persName>David Samuel</persName>&#44;<lb/> <emph rend="italics">Vice Presidents</emph>&#59; <persName>Joseph L. Moss</persName>&#44; <emph rend="italics">Treasurer</emph>&#59; <persName>Alfred T. Jones</persName>&#44; <emph rend="italics">Recording Secretary</emph>&#59; <persName role="author">Isaac Leeser</persName>&#44; <emph rend="italics">Corresponding Secretary</emph>&#59;<lb/> <persName>Hyman Gratz</persName>&#44; <persName>Louis Bomeisler</persName>&#44; <persName>Leon Hyneman</persName>&#44; <persName>Lazarus Arnold</persName>&#44; <persName>Elias P. Levy</persName> and <persName>Abraham S. Wolf</persName>&#44; <emph rend="italics">Managers</emph>&#59; and <persName role="author">Isaac<lb/> Leeser</persName>&#44; <persName>Abraham Hart</persName> and <persName>Solomon Solis</persName>&#44; <emph rend="italics">Publication Committee</emph>.</p>
+			<p rend="indent(1)">You would render an especial favour by replying as soon as convenient to the subscriber&#44; who will be happy to furnish you<lb/> with all other information which you may desire.</p>
+			<p rend="indent(1)">In the hope that our association may grow and labour successfully in the spread of the kingdom of our Heavenly Father&#44;<lb/> <placeName>Israel&#39;s</placeName> King and Saviour&#44; in this extensive country&#44; I have the honour to sign myself&#44;</p>
+			<p rend="indent(7)">Your friend&#44;</p>
+			<p rend="indent(8)"><persName role="author">ISAAC LEESER</persName>&#44;</p>
+			<p rend="indent(7)"><emph rend="italics">Corresponding Secretary of the American Jewish Publication Society.</emph></p>
+			<p><placeName>Philadelphia</placeName>&#44; <date>Decr. 10&#44; 1845</date>. <date>Kislev 11&#44; 5606</date>.</p>
+				<p rend="Note&#58; ">Typewritten circular</p>
+		</body>
+	</text>
+</TEI>

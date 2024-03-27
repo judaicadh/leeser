@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI [
+<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
+%teibase;
+<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
+%teiext;
+]>
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>[no title given]</title>
+				<author attested="yes" accepted="yes" signature="unk">Hayyim, Son of Jacob</author>
+				<editor></editor>
+				<sponsor></sponsor>
+				<funder></funder>
+				<principal></principal>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition></edition>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</editionStmt>
+			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
+			<publicationStmt>
+				<publisher>Unpublished manuscript</publisher>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Not part of a series</p>
+			</seriesStmt>
+			<notesStmt>
+				<note></note>
+			</notesStmt>
+			<sourceDesc>
+				<biblStruct>
+					<!-- catalog entry goes here -->
+					<monogr>
+						<imprint>
+							<dateLet></dateLet>
+						</imprint>
+					</monogr>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<country>USA</country>
+						<region>PA</region>
+						<settlement>Philadelphia</settlement>
+						<institution></institution>
+						<repository>CAJS Isaac Leeser Collection</repository>
+						<collection>The Library of the Dropsie College for Hebrew and Cognate Learning</collection>
+						<idno>LSDCBx2FF1_67</idno>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+						<msName></msName>
+					</msIdentifier>
+					<head></head>
+					<letHeading>
+						<author attested="yes" accepted="yes" signature="unk">Hayyim, Son of Jacob</author>
+						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac</addressee>
+						<deliverer></deliverer>
+						<respStmt>
+							<resp></resp>
+							<name></name>
+						</respStmt>
+						<placeLet>Dulmen, Germany</placeLet>
+						<placeRec>Philadelphia, PA</placeRec>
+						<dateLet when="1854-07" source="" attested="yes">12 July 1854</dateLet>
+						<dateLet when="1854-07" source="" attested="yes">16 Tammuz</dateLet>
+					</letHeading>
+					<msContents>
+						<msItem>
+							<author></author>
+							<editor></editor>
+							<respStmt>
+								<resp></resp>
+								<name></name>
+							</respStmt>
+							<title></title>
+							<decoNote></decoNote>
+							<listBibl>
+								<bibl></bibl>
+							</listBibl>
+							<filiation></filiation>
+							<textLang></textLang>
+							<figure>
+								<graphic url=""/>
+							</figure>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support>
+									<material color="" lined="unk" paper_type="" size="Letter">letter</material>
+								</support>
+								<extent>6 pages on 6 sheets
+									<dimensions></dimensions>
+								</extent>
+								<foliation></foliation>
+								<collation></collation>
+								<condition fragment="false"></condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout></layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc script="manuscript">
+							<handNote></handNote>
+						</handDesc>
+						<decoDesc>
+							<decoNote></decoNote>
+						</decoDesc>
+						<additions></additions>
+						<bindingDesc>
+							<binding>
+								<decoNote></decoNote>
+							</binding>
+						</bindingDesc>
+						<sealDesc>
+							<seal>
+								<p></p>
+							</seal>
+						</sealDesc>
+						<accMat></accMat>
+						<envDesc occ="false"></envDesc>
+					</physDesc>
+					<history>
+						<origin></origin>
+						<provenance></provenance>
+						<acquisition></acquisition>
+					</history>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source></source>
+								<change></change>
+							</recordHist>
+							<availability status="free">
+								<p>Unrestricted</p>
+							</availability>
+							<custodialHist>
+								<custEvent></custEvent>
+							</custodialHist>
+						</adminInfo>
+						<surrogates></surrogates>
+						<listBibl>
+							<bibl></bibl>
+						</listBibl>
+					</additional>
+					<msPart>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+					</msPart>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p></p>
+			</projectDesc>
+			<samplingDecl>
+				<p></p>
+			</samplingDecl>
+			<editorialDecl>
+				<correction>
+					<p></p>
+				</correction>
+				<normalization>
+					<p></p>
+				</normalization>
+				<quotation>
+					<p></p>
+				</quotation>
+				<hyphenation>
+					<p></p>
+				</hyphenation>
+				<segmentation>
+					<p></p>
+				</segmentation>
+				<stdVals>
+					<p></p>
+				</stdVals>
+				<interpretation>
+					<p></p>
+				</interpretation>
+			</editorialDecl>
+			<tagsDecl>
+				<rendition></rendition>
+				<namespace name="http://www.tei-c.org/ns/1.0">
+					<tagUsage gi=""></tagUsage>
+				</namespace>
+			</tagsDecl>
+			<refsDecl>
+				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
+			</refsDecl>
+			<refsDecl>
+				<refState unit=""/>
+			</refsDecl>
+			<classDecl>
+				<taxonomy>
+					<category>
+						<catDesc></catDesc>
+					</category>
+				</taxonomy>
+			</classDecl>
+			<appInfo>
+				<application ident="" version="">
+					<desc></desc>
+					<label></label>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<creation></creation>
+			<langUsage>
+				<language ident="en">English</language>
+			</langUsage>
+			<textClass>
+				<keywords scheme="unknown">
+					<list>
+						<item></item>
+						<item></item>
+					</list>
+				</keywords>
+				<classCode scheme=""></classCode>
+				<catRef/>
+			</textClass>
+		</profileDesc>
+		<revisionDesc>
+			<change></change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<pb n="1"/>
+				<p><add><hi rend="underline">Yiddish</hi>&#45;German</add></p>
+				<p rend="align(right)"><placeName>D&#252;lmen</placeName>&#44; <date>Wednesday</date>&#44;</p>
+				<p rend="align(right)"><date>&#40;16<hi rend="sup">th</hi> of Tammuz&#41;&#44; July 12&#44; 1854</date>.</p>
+				<p>Dearest cousin&#58;</p>
+			<p rend="indent(1)">Your letter of the <date>20<hi rend="sup">th</hi> of Iyar &#40;May&#41;</date>&#44;<lb/> which came to me by way of <placeName>Magdeburg</placeName>&#44;<lb/> delighted me all the more in that I saw in it<lb/> your warm family devotion and especially your<lb/> interest and concern and love for me.</p>
+			<p rend="indent(1)">Were I still unmarried I would&#44;<lb/> without further thought&#44; consent to your<lb/> request to obtain for myself the position at<lb/> <placeName>San Francisco</placeName>.   I would also and aside from<lb/> the success or failure of this plan&#44; gladly<lb/> have accepted your invitation to make a<lb/> holiday trip to you.  This I could have<lb/> done without losing my position here&#44; for it<lb/> would have given me great pleasure to spend<lb/> some time with a beloved relative&#44; whose name<lb/> has become famous far off&#44; and who has<lb/> accomplished worthwhile things in <placeName>America</placeName> in<lb/> the interests of our holy faith.  However&#44;<lb/> since about a year ago I am happily married<lb/> and I must take into consideration the<lb/> wishes of my beloved wife and not journey</p>
+			<pb n="2"/>
+				<p rend="align(center)">2.</p>
+				<p>with her quite so far away to a place from<lb/> which she would presumably not have the<lb/> opportunity again to see her aged parents.</p>
+			<p rend="indent(1)">But even if I cannot take into consider<lb/>ation the problematical position&#44; nevertheless&#44; I<lb/> can answer your questions with regard to a friend<lb/> who has ambitions of that sort.  His name<lb/> is <persName>David Steinberg</persName>&#44; and he is&#44; at the present<lb/> time&#44; teacher in the Jewish seminary at <placeName>M&#252;nster</placeName>.<lb/>  The day before yesterday he paid me a visit.  From<lb/> two letters of his friend <persName>Guttheim</persName>&#44; I noticed<lb/> that the latter recently paid you a visit&#44;<lb/> furthermore&#44; that he asked <persName>Steinberg</persName> to<lb/> take steps with regard to the position in <placeName>San<lb/> Francisco</placeName>.  He asked me&#44; therefore&#44; to <del>let you</del><lb/> <del>know</del> request of you to send a word of<lb/> recommendation for him to that place.<lb/>  <persName>Steinberg</persName> has&#44; in addition to a decided philo<lb/>logical bent&#44; devoted to a thorough study of the<lb/> classics.  At this very time he is about to take his<lb/> doctoral examination.  He told me that he is<lb/> thoroughly acquainted with the French language<lb/> &#38; English&#44; however&#44; he has not made any further<lb/> progress than to understand the &#8220;Vicar of<lb/> Wakefield&#8221; without having done much further</p>
+			<pb n="3"/>
+				<p rend="align(center)">3.</p>
+				<p>reading.  With his thorough philological<lb/> knowledge&#44; however it will not be difficult for him to&#41; make great<lb/> progress in this respect.  The chief thing&#44; however&#44;<lb/> is that it was always his great desire he<lb/> is now 34 years old&#8212;to devote himself to<lb/> the education of the young.  In all the com&#45;<lb/>munities in which he acted as teacher&#44; until<lb/> now&#44; as well as in all his general relationships&#44;<lb/> he has enjoyed general respect and love&#44;<lb/> both with regard to his thoroughness as well<lb/> as his honorable moral character.  As regards<lb/> religious and ceremonial life&#44; his present<lb/> position insures that he lead a ceremonial&#45;<lb/>ly Jewish life&#44; if only not to suffer criticism.<lb/>  Nevertheless&#44; I don&#39;t want to overlook the<lb/> fact that in this respect he inclines towards<lb/> &#42; a mild reform.  However&#44; in matters that<lb/> concern the fundamentals of our holy<lb/> faith&#44; I can safely say that&#44; in so far as I can<lb/> judge human beings&#44; that he is a Jew with<lb/> a sincerely Jewish heart.</p>
+			<p rend="indent(1)"><persName>Steinberg</persName> thinks that if it is possible he<lb/> would prefer that another man be given the<lb/> position of chazan while he devote himself to<lb/> preaching and religious instruction of the<lb/> young.  This he desires&#44; not because he lacks</p>
+			<pb n="4"/>
+				<p rend="align(center)">4.</p>
+				<p>the aptitude for such work but because the<lb/> combination of all these activities in one person&#44; es&#45;<lb/>pecially in so large a community&#44; might be too<lb/> exhausting.  He would gladly give up a portion of<lb/> his salary if a chazan were appointed separately.</p>
+			<p rend="indent(1)">In the year <date>1851</date>&#44; the second part of my<lb/> Hebrew study and exercise book appeared.  I sent it<lb/> to you through an emigrant but I don&#39;t know<lb/> whether it has been delivered to you.  The reviews&#44;<lb/> of this book&#44; seem very favorable.  It is also<lb/> having a seemingly good sale.  Although it<lb/> was written originally for Jewish schools&#44; it has been<lb/> introduced also in some German<lb/> gymnasia.  Unfortunately&#44; a large number<lb/> of our Jewish teachers are either too ignorant of<lb/> Hebrew or too indifferent to make practical use<lb/> of this book.  On the other hand&#44; some highly re&#45;<lb/>spected and excellent colleagues have let<lb/> me know by letter that since the introduction of<lb/> my book in their schools&#44; the instruction in<lb/> Hebrew has taken a new upward swing and<lb/> has <del>caused a</del> made Hebrew a popular subject&#44; on the<lb/> part of the spiritually awakened children.  Such<lb/> men&#44; however&#44; are exceptional&#44; for most<lb/> Jewish teachers are merely &#8220;hewers of wood<lb/> in the house of God.&#8221;  They limit them&#45;<lb/>selves to the most essential.  Generally<lb/> speaking&#44; Hebrew teaching is torture for<lb/> them&#44; since they themselves are ignorant</p>
+			<pb n="5"/>
+				<p rend="align(center)">5.</p>
+				<p>of it.  Most guilty is the &#8220;M&#252;nstersche Ver&#45;&#42;<lb/>einschule&#8221; which does not produce sufficient<lb/> results in this respect&#44; and in spite of the en&#45;<lb/>closed program of studies which has been<lb/> acclaimed throughout the classes of the com&#45;<lb/>munity&#44; it has not until now&#44; improved<lb/> any.  The chief fault lies in the unsatisfactory<lb/> method of the good&#44; but elderly&#44; seminary<lb/> teacher&#44; <persName>Cohen</persName>&#44; who has no understanding<lb/> of how an interest for such studies can be<lb/> planted in his pupils.</p>
+			<p rend="indent(1)">For our needy brothers in <placeName>Palestine</placeName>&#44;<lb/> collections have been taken up rather diligently<lb/> here also.  <placeName>D&#252;lmen</placeName> for example contributed<lb/> 18 &#189; Reichstaler.</p>
+			<p rend="indent(1)">Finally&#44; several family news items.<lb/>  <persName>Lippman</persName> is married since <date>1847</date>.  <persName>Selig</persName><lb/> since a year ago.  The former has four<lb/> children.  Both conduct a business in corn<lb/> in &#8212;<add>&#63;</add>&#44; which is really flourishing.<lb/>  <persName>Probka</persName> is&#44; for the last five years&#44; married<lb/> to one of the most important &#8212; in <placeName>Essen</placeName>&#44;<lb/> <persName>Jamgon Gottschelk</persName>&#44; and has four children.<lb/>  <persName>Hindlke</persName>&#44; who three years ago married the<lb/> oldest son of <persName>Uncle Isaac</persName>&#44; in <placeName>L&#252;nen</placeName>&#44; un&#45;<lb/>fortunately died in childbirth.  The little<lb/> son which she left&#44; is thank God&#44; in good<lb/> health.  <persName>Zanvil</persName> has a good<lb/> medical practice in <placeName>Herzfeld</placeName>&#44;</p>
+				<p>&#42; The community school<lb/> of <placeName>M&#252;nster</placeName></p>
+				<p rend="The following is written in the left margin of the page">either <hi rend="underline">butcher</hi><lb/> or <hi rend="underline">miller</hi> or<lb/> something else.</p>
+			<pb n="6"/>
+				<p rend="align(center)">6.</p>
+				<p>near <placeName>Loest<add>&#63;</add></placeName> <persName>Lazar</persName> and <persName>Gittlesche</persName> are<lb/> still in the old peoples&#39; home.  My dear<lb/> mother is&#44; thank God&#44; still in good health&#44;<lb/> and is at present on a visit at <persName>Procha&#39;s</persName>.<lb/>  Everyone sends you hearty greetings.  I<lb/> am very happy with my beloved wife<lb/> <persName>Shanetta</persName>.  She is very religious&#44; kind&#45;<lb/>hearted&#44; and a good housekeeper.  In spite<lb/> of our meager income she knows how to<lb/> manage so that we get along very nicely<lb/> in a respectable manner of living.  In<lb/> order to improve our situation&#44; I intend<lb/> to establish a store&#44; which my wife&#44; who is<lb/> used to such things from her home&#44; will<lb/> have in charge.</p>
+			<p rend="indent(1)">And now&#44; my dear cousin&#44; <del>write</del> it is<lb/> your turn to write to me about your private<lb/> situation.  A short while ago I heard you<lb/> had given up your position.  Is that really<lb/> so&#63;  Good luck&#44; many blessings to you<lb/> and your work.  With unchangeable&#44; loyal<lb/> friendship and love&#44; I remain&#44; your cousin</p>
+			<p rend="indent(9)"><persName role="author">Hayyim</persName>&#44; son of <persName>Jacob</persName>.</p>
+		</body>
+	</text>
+</TEI>

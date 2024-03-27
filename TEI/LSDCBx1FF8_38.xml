@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI [
+<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
+%teibase;
+<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
+%teiext;
+]>
+<TEI>
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>[no title given]</title>
+          <author attested="yes" accepted="yes" signature="yes">Ottinger, Nathan</author>
+          <editor></editor>
+          <sponsor></sponsor>
+          <funder></funder>
+          <principal></principal>
+          <respStmt>
+            <resp></resp>
+            <name></name>
+          </respStmt>
+        </titleStmt>
+        <editionStmt>
+          <edition></edition>
+          <respStmt>
+            <resp></resp>
+            <name></name>
+          </respStmt>
+        </editionStmt>
+        <extent>[information about file size goes here, information about extent of physical item comes later]</extent>
+        <publicationStmt>
+          <publisher>Unpublished manuscript</publisher>
+        </publicationStmt>
+        <seriesStmt>
+          <p>Not part of a series</p>
+        </seriesStmt>
+        <notesStmt>
+          <note></note>
+        </notesStmt>
+        <sourceDesc>
+          <biblStruct>
+            <!-- catalog entry goes here -->
+            <monogr>
+              <imprint>
+                <dateLet></dateLet>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <msDesc>
+            <msIdentifier>
+              <country>USA</country>
+              <region>PA</region>
+              <settlement>Philadelphia</settlement>
+              <institution></institution>
+              <repository>CAJS Isaac Leeser Collection</repository>
+              <collection>The Library of the Dropsie College for Hebrew and Cognate Learning</collection>
+              <idno>LSDCBx1FF8_38</idno>
+              <altIdentifier>
+                <idno></idno>
+              </altIdentifier>
+              <msName></msName>
+            </msIdentifier>
+            <head></head>
+            <letHeading>
+              <author attested="yes" accepted="yes" signature="yes">Ottinger, Nathan</author>
+              <addressee editor="false" attested="yes" accepted="yes">Leeser, I., Rev.</addressee>
+              <deliverer></deliverer>
+              <respStmt>
+                <resp></resp>
+                <name></name>
+              </respStmt>
+              <placeLet>New York, NY</placeLet>
+              <placeRec>Philadelphia, PA</placeRec>
+              <dateLet when="1851-04" source="" attested="yes">11 April 1851</dateLet>
+              <dateLet when="1851-04" source="" attested="yes">11 Nissan 1851</dateLet>
+            </letHeading>
+            <msContents>
+              <msItem>
+                <author></author>
+                <editor></editor>
+                <respStmt>
+                  <resp></resp>
+                  <name></name>
+                </respStmt>
+                <title></title>
+                <decoNote></decoNote>
+                <listBibl>
+                  <bibl></bibl>
+                </listBibl>
+                <filiation></filiation>
+                <textLang></textLang>
+                <figure>
+                  <graphic url="ilcajs_b1f8_0032_1r.jpg"/>
+                  <graphic url="ilcajs_b1f8_0032_2v.jpg"/>
+                </figure>
+              </msItem>
+            </msContents>
+            <physDesc>
+              <objectDesc>
+                <supportDesc>
+                  <support>
+                    <material color="" lined="true" paper_type="" size="Letter">letter</material>
+                  </support>
+                  <extent>4 pages on 4 sheets
+                    <dimensions></dimensions>
+                  </extent>
+                  <foliation></foliation>
+                  <collation></collation>
+                  <condition fragment="false"></condition>
+                </supportDesc>
+                <layoutDesc>
+                  <layout></layout>
+                </layoutDesc>
+              </objectDesc>
+              <handDesc script="manuscript">
+                  <handNote></handNote>
+              </handDesc>
+              <decoDesc>
+                <decoNote></decoNote>
+              </decoDesc>
+              <additions></additions>
+              <bindingDesc>
+                <binding>
+                  <decoNote></decoNote>
+                </binding>
+              </bindingDesc>
+              <sealDesc>
+                <seal>
+                  <p>Wax seal</p>
+                </seal>
+              </sealDesc>
+              <accMat></accMat>
+              <envDesc occ="false"></envDesc>
+            </physDesc>
+            <history>
+              <origin></origin>
+              <provenance></provenance>
+              <acquisition></acquisition>
+            </history>
+            <additional>
+              <adminInfo>
+                <recordHist>
+                  <source></source>
+                  <change></change>
+                </recordHist>
+                <availability status="free">
+                  <p>Unrestricted</p>
+                </availability>
+                <custodialHist>
+                  <custEvent></custEvent>
+                </custodialHist>
+              </adminInfo>
+              <surrogates></surrogates>
+              <listBibl>
+                <bibl></bibl>
+              </listBibl>
+            </additional>
+            <msPart>
+              <altIdentifier>
+                <idno></idno>
+              </altIdentifier>
+            </msPart>
+          </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <projectDesc>
+          <p></p>
+        </projectDesc>
+        <samplingDecl>
+          <p></p>
+        </samplingDecl>
+        <editorialDecl>
+          <correction>
+            <p></p>
+          </correction>
+          <normalization>
+            <p></p>
+          </normalization>
+          <quotation>
+            <p></p>
+          </quotation>
+          <hyphenation>
+            <p></p>
+          </hyphenation>
+          <segmentation>
+            <p></p>
+          </segmentation>
+          <stdVals>
+            <p></p>
+          </stdVals>
+          <interpretation>
+            <p></p>
+          </interpretation>
+        </editorialDecl>
+        <tagsDecl>
+          <rendition></rendition>
+          <namespace name="http://www.tei-c.org/ns/1.0">
+            <tagUsage gi=""></tagUsage>
+          </namespace>
+        </tagsDecl>
+        <refsDecl>
+          <cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
+        </refsDecl>
+        <refsDecl>
+          <refState unit=""/>
+        </refsDecl>
+        <classDecl>
+          <taxonomy>
+            <category>
+              <catDesc></catDesc>
+            </category>
+          </taxonomy>
+        </classDecl>
+        <appInfo>
+          <application ident="" version="">
+            <desc></desc>
+            <label></label>
+          </application>
+        </appInfo>
+      </encodingDesc>
+      <profileDesc>
+        <creation></creation>
+        <langUsage>
+          <language ident="en">English</language>
+          <language ident="yi">Yiddish</language>
+        </langUsage>
+        <textClass>
+          <keywords scheme="unknown">
+            <list>
+              <item></item>
+              <item></item>
+            </list>
+          </keywords>
+          <classCode scheme=""></classCode>
+          <catRef/>
+        </textClass>
+      </profileDesc>
+      <revisionDesc>
+        <change></change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+      
+		<pb n="1"/>
+			<p><add>Yiddish</add></p>
+			<p rend="align(right)"><addressee>Rev. I. Leeser</addressee></p>
+			<p><add>Yiddish</add></p>
+			<p><persName role="author">Nathan Ottinger</persName></p>
+		<pb n="2"/>
+			<p><sic><addressee>Rev Isak Leeser</addressee></sic></p>
+			<p rend="indent(1)"><placeName>Philadelphia</placeName></p>
+		<pb n="3"/>
+			<p><add>Yiddish</add></p>
+          <p rend="align(right)"><placeName>New York</placeName>&#44; <date>Sunday&#44; 11 Nissan &#40;Apr.&#41;</date></p> 
+          <p rend="align(right)"><date>1851</date></p>
+			<p><addressee>Rev. I. Leeser</addressee></p>
+          <p rend="indent(1)">On <date>Friday</date> I received your letter along<lb/> with seven prayer&#45;books&#44; though your letter<lb/> arrived in the evening. At your request<lb/> I am sending you the money for the<lb/> books sold&#44; namely &#36;12&#8212;&#44; since for<lb/> the previous two packages I had to pay<lb/> three shillings express charge for each&#44;<lb/> and for this last one&#44; four shillings. I<lb/> don&#39;t know why it should have cost<lb/> a shilling more this time. This makes 10<lb/> shillings and there is due me two shillings<lb/> which I shall deduct from the next<lb/> account. I still have in my possession<lb/> three Portuguese prayer books&#44; two sets<lb/> of Pentateuchs and the last package. As<lb/> soon as I have sold it&#44; I shall send you<lb/> what is due. With regard to the prayer<lb/> books&#44; I am grateful to you. I have given 50<lb/> copies to <persName>Mr. Sachs</persName>&#44; of Sefat Emet prayer<lb/> books. I am still the <sic>possesor</sic> of the most<lb/> books of every kind&#44; most of them of Por</p>
+		<pb n="4"/>
+			<p>tuguese&#44; Polish and Ashkenazic ritual&#44; in<lb/> excellent binding&#44; large and small. I<lb/> also have bought up many <del>of</del> Viennese books such as<lb/> Gemarrahs&#44; Mishna&#44; and pentateuchs&#44; as<lb/> well as a Portuguese prayer book printed in<lb/> <placeName>Vienna</placeName>. I desire that you again mention this in<lb/> the &#34;Occident&#34;. I also have a second&#45;hand<lb/> Torah&#44; and Tiphillin&#44; Mezzuzot&#44; Zizit&#44;<lb/> Talithin&#44; silk and woolen. I hope<lb/> you will soon let me know about the<lb/> receipt of the money.</p>
+          <p rend="indent(1)">Wishing you a happy holiday&#44;</p>
+          <p rend="indent(3)">Your friend&#44;</p>
+          <p rend="indent(4)"><persName role="author">Nathan Ottinger</persName></p>
+          
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI [
+<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
+%teibase;
+<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
+%teiext;
+]>
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>[no title given]</title>
+				<author attested="yes" accepted="yes" signature="unk"></author>
+				<editor></editor>
+				<sponsor></sponsor>
+				<funder></funder>
+				<principal></principal>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition></edition>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</editionStmt>
+			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
+			<publicationStmt>
+				<publisher>Unpublished manuscript</publisher>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Not part of a series</p>
+			</seriesStmt>
+			<notesStmt>
+				<note></note>
+			</notesStmt>
+			<sourceDesc>
+				<biblStruct>
+					<!-- catalog entry goes here -->
+					<monogr>
+						<imprint>
+							<dateLet></dateLet>
+						</imprint>
+					</monogr>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<country>USA</country>
+						<region>PA</region>
+						<settlement>Philadelphia</settlement>
+						<institution></institution>
+						<repository>LSKAP</repository>
+						<collection>The Arnold and Deanne Kaplan Collection of Early American Judaica</collection>
+						<idno>LSKAP_New_8</idno>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+						<msName></msName>
+					</msIdentifier>
+					<head></head>
+					<letHeading>
+						<author attested="yes" accepted="yes" signature="unk"></author>
+						<addressee editor="false" attested="yes" accepted="yes"></addressee>
+						<deliverer></deliverer>
+						<respStmt>
+							<resp></resp>
+							<name></name>
+						</respStmt>
+						<placeLet>Boston, MA</placeLet>
+						<placeRec>Philadelphia, PA</placeRec>
+						<dateLet when="1848-01" source="" attested="yes">January 11, 1848</dateLet>
+					</letHeading>
+					<msContents>
+						<msItem>
+							<author></author>
+							<editor></editor>
+							<respStmt>
+								<resp></resp>
+								<name></name>
+							</respStmt>
+							<title></title>
+							<decoNote></decoNote>
+							<listBibl>
+								<bibl></bibl>
+							</listBibl>
+							<filiation></filiation>
+							<textLang></textLang>
+							<figure>
+								<graphic url="leeser_05_2011_kaplan_new_8_1.jpg"></graphic>
+								<graphic url="leeser_05_2011_kaplan_new_8_2.jpg"></graphic>
+							</figure>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support>
+									<material color="" lined="false" paper_type="" size="">miscellany</material>
+								</support>
+								<extent>1 page on 1 sheet
+									<dimensions></dimensions>
+								</extent>
+								<foliation></foliation>
+								<collation></collation>
+								<condition fragment="false"></condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout></layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc script="typescript">
+							<handNote></handNote>
+						</handDesc>
+						<decoDesc>
+							<decoNote></decoNote>
+						</decoDesc>
+						<additions>Newspaper Clipping</additions>
+						<bindingDesc>
+							<binding>
+								<decoNote></decoNote>
+							</binding>
+						</bindingDesc>
+						<sealDesc>
+							<seal>
+								<p></p>
+							</seal>
+						</sealDesc>
+						<accMat></accMat>
+						<envDesc occ="false"></envDesc>
+					</physDesc>
+					<history>
+						<origin></origin>
+						<provenance></provenance>
+						<acquisition></acquisition>
+					</history>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source></source>
+								<change></change>
+							</recordHist>
+							<availability status="restricted">
+								<p>Restricted</p>
+							</availability>
+							<custodialHist>
+								<custEvent></custEvent>
+							</custodialHist>
+						</adminInfo>
+						<surrogates></surrogates>
+						<listBibl>
+							<bibl></bibl>
+						</listBibl>
+					</additional>
+					<msPart>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+					</msPart>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p></p>
+			</projectDesc>
+			<samplingDecl>
+				<p></p>
+			</samplingDecl>
+			<editorialDecl>
+				<correction>
+					<p></p>
+				</correction>
+				<normalization>
+					<p></p>
+				</normalization>
+				<quotation>
+					<p></p>
+				</quotation>
+				<hyphenation>
+					<p></p>
+				</hyphenation>
+				<segmentation>
+					<p></p>
+				</segmentation>
+				<stdVals>
+					<p></p>
+				</stdVals>
+				<interpretation>
+					<p></p>
+				</interpretation>
+			</editorialDecl>
+			<tagsDecl>
+				<rendition></rendition>
+				<namespace name="http://www.tei-c.org/ns/1.0">
+					<tagUsage gi=""></tagUsage>
+				</namespace>
+			</tagsDecl>
+			<refsDecl>
+				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
+			</refsDecl>
+			<refsDecl>
+				<refState unit=""/>
+			</refsDecl>
+			<classDecl>
+				<taxonomy>
+					<category>
+						<catDesc></catDesc>
+					</category>
+				</taxonomy>
+			</classDecl>
+			<appInfo>
+				<application ident="" version="">
+					<desc></desc>
+					<label></label>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<creation></creation>
+			<langUsage>
+				<language ident="en">English</language>
+			</langUsage>
+			<textClass>
+				<keywords scheme="unknown">
+					<list>
+						<item></item>
+						<item></item>
+					</list>
+				</keywords>
+				<classCode scheme=""></classCode>
+				<catRef/>
+			</textClass>
+		</profileDesc>
+		<revisionDesc>
+			<change></change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<pb n="1"/>
+				<p>shown themselves as capable of discharging their<lb/> duty as any of their competitors&#59; and that in various<lb/> other capacities&#44; as well as in the pursuit of science<lb/> and art&#44; they have shown themselves competent&#44; by<lb/> their intelligence&#44; to undertake the duties of any po&#45;<lb/>sition to which an Englishman may aspire.  &#40;Cheers.&#41;<lb/>  I will not urge these circumstances&#44; because&#44; by do&#45;<lb/>ing so I might seem to make this a matter of favor<lb/> and indulgence.  No&#33; I ask the Legislature to re&#45;<lb/>move the disabilities under which the Jews labor&#44;<lb/> not on account of any peculiar merits belonging to<lb/> Her Majesty&#39;s Jewish subjects&#44; but because&#44; being<lb/> subject to the burdens of the state&#44; being born in this<lb/> country&#44; being compelled to <sic>fulfil</sic> all those duties<lb/> which the state imposes on them&#44; I maintain that they<lb/> have a just claim to be admitted to its honors and re&#45;<lb/>wards.  &#40;Cheers.&#41;  I come&#44; then&#44; without press&#45;<lb/>ing any peculiar merits appertaining to the Jews&#44;<lb/> to consider the objections which are urged in<lb/> bar of the recognition of the rights which I claim<lb/> for them.  In the front of those objections this is<lb/> put&#8212;that it is proposed to un&#45;Christianize the coun&#45;<lb/>try&#8212;that it is proposed to take away the Christian<lb/> character of the country by admitting not only Jews&#44;<lb/> but every kind of infidel into Parliament and the of&#45;<lb/>fices of State.  &#40;Hear&#44; hear.&#41;  The hon. member<lb/> by that cheer seems to admit that I am correctly<lb/> stating the objections which are urged to the meas&#45;<lb/>ure I am advocating.  I will not say in answer to<lb/> such objections that the religion of man is a thing<lb/> apart from the business of man.  &#40;Hear&#44; hear.&#41;  I<lb/> certainly will not say otherwise than that I think<lb/> that in our private concerns&#8212;in our daily occupa&#45;<lb/>tions&#8212;in all those trades and professions which men<lb/> exercise&#44; religion should have influence and control.<lb/>  &#40;Hear&#44; hear.&#41;  Still more&#44; therefore&#44; when I am<lb/> speaking of the Legislature which has to dispose of<lb/> all the various interests of the country&#44; should I be<lb/> disposed to say that religion ought to influence and<lb/> control its decisions.  &#40;Hear&#44; hear.&#41;  I do not&#44;<lb/> therefore&#44; argue this question on the ground that<lb/> civil offices and seats in Parliament are totally sep&#45;<lb/>arate and apart from religion&#59; but what I do con&#45;<lb/>tend for is&#44; that it is entirely a mistake to suppose<lb/> that by the words of an act of Parliament&#44; by the<lb/> postscript of an oath or the fag&#45;end of a declaration&#44;<lb/> you can insure religious motives and religious obliga&#45;<lb/>tions.  &#40;Cheers.&#41;  I believe&#44; and I think I can<lb/> prove&#44; that by those declarations you do not obtain<lb/> the security which you pretend to obtain&#8212;that you<lb/> do by these means shut out men who are conscien&#45;<lb/>tious and deserving&#8212;men who would execute the<lb/> duties of civil offices&#44; and exercise the functions of<lb/> legislators with due regard to religious obligations&#8212;<lb/> and that you do not shut out those whom you profess<lb/> yourselves afraid of admitting&#44; I mean&#44; that class of<lb/> persons who&#44; having thrown off altogether the obli&#45;<lb/>gations of religion&#44; do not conceive themselves bound<lb/> to <sic>fulfil</sic> any of its duties.  &#40;Cheers.&#41;  I say that it<lb/> must depend upon the general opinion of the country<lb/>&#8212;it must depend on the state of things therein ex&#45;<lb/>isting&#8212;it must depend on the state of education&#8212;it<lb/> must depend on the religion existing in the country&#44;<lb/> whether or not you have a Christian Parliament.<lb/>  Let me&#44; for the sake of illustration&#44; refer to two very<lb/> different times.  In the reign of <persName>James I.</persName> and <persName>Charles<lb/> I.</persName> strong religious feeling existed in this country.<lb/>  Men were divided into different sects&#44; but nothing was<lb/> more remarkable than the deep religious fervor which<lb/> prevailed&#44; sometimes burning more fiercely in one sect&#44;<lb/> sometimes in another&#59; but all believed themselves<lb/> bound by Christian obligations.  Imagine that you<lb/> have before you the assembly in which <persName>Falkland</persName>&#44;<lb/> <persName>Hollis</persName>&#44; and <persName>Vane</persName> met&#8212;men differing from each<lb/> other in religious views&#44; but all sincerely religious&#44;<lb/> and professing the doctrine of Christianity&#59;&#8212;would<lb/> the Christian faith have been better secured in that<lb/> Parliament if no man had been permitted to enter it<lb/> without binding his conduct by a declaration &#34;on<lb/> the true faith of a Christian&#63;&#34;  &#40;Cheers.&#41;  Would<lb/> it have added in the slightest degree to the security<lb/> of Parliament&#44; and would you have believed more<lb/> strongly than you do now that those men were<lb/> Christians&#44; because they had stated the fact at the<lb/> end of a declaration&#63;  Let us take another period<lb/> and another country.  Let us imagine a Parliament<lb/> assembled in <placeName>France</placeName> towards the end of the last<lb/> century&#44; at a time when many among the aristocra&#45;<lb/>cy were the disciples of <persName>Voltaire</persName>&#44; and among the<lb/> democracy of <persName>Rousseau</persName>&#8212;let us suppose <persName>Mirabeau</persName>&#44;<lb/> <persName>Condorcet</persName>&#44; <persName>Robespierre</persName>&#44; and other men of that de&#45;<lb/>scription&#44; returned to that assembly&#59; can you believe<lb/> that any security would have been obtained by com&#45;<lb/>pelling every one of them to pledge himself to ob&#45;<lb/>serve the oath which he took &#34;on the true faith of a<lb/> Christian&#63;&#34;  &#40;Cheers.&#41;  I will refer to another<lb/> illustration&#44; which our own country furnishes me<lb/> with.  The complaint against the Jews is that they<lb/> are revilers of Christianity&#8212;that they make a mock&#45;<lb/>ery of the Christian religion&#8212;that they hold up<lb/> <persName>Christ</persName> as an impostor&#44; yet was there ever a man<lb/> who more sneered at Christianity&#8212;was there any<lb/> Jew of the last century who used such language with<lb/> the view of depreciating the doctrines of Christiani&#45;<lb/>ty and destroying the belief in it in the minds of the<lb/> people&#44; as <persName>Gibbon</persName>&#63;  &#40;Cheers.&#41;  Yet <persName>Gibbon</persName> took<lb/> your declaration.  &#40;Loud cheers.&#41;  He came to the<lb/> table and swore &#34;on the true faith of a Christian.&#34;<lb/>  &#40;Cheers and laughter.&#41;  He held office under <persName>George<lb/> III.</persName>&#8212;he sat on the Treasury bench&#44; under a Govern&#45;<lb/>ment which was more of a high church government<lb/> which was more disposed to raise the cry of &#34;Church<lb/> and King&#44;&#34; than perhaps any government which<lb/> ever existed during the reign of that monarch.<lb/>  &#40;Loud cheers.&#41;  Take the case of <persName>Mr. Hume</persName>.<lb/>  &#40;Hear&#44; hear.&#41;  He did not&#44; it is true&#44; have a seat in<lb/> Parliament&#59; but he held an office under Govern&#45;<lb/>ment&#44; and I believe that he held office for a short<lb/> time at the Court of <placeName>Paris</placeName>.  The right hon. gen&#45;<lb/>tleman the member for the University of <placeName>Oxford</placeName><lb/> must well know that there was no man in the last<lb/> century who wrote essays so much calculated to<lb/> undermine religion as <persName>Mr. Hume</persName>&#59; and yet&#44; if he had<lb/> been returned to Parliament&#44; and had to make the<lb/> declaration &#34;on the true faith of a Christian&#44;&#34; he<lb/> would have taken the oath with a smile or a sigh&#44;<lb/> as the case might be&#44; but he would have taken it&#44;<lb/> and the cobweb would have been swept away.  I<lb/> hold that it is not by a declaration of this kind that<lb/> you can obtain security.  You say that the Legis&#45;<lb/>lature ought to be a Christian Legislature&#59; that<lb/> the Parliament ought to be a Christian Parlia&#45;<lb/>ment&#59; but do you not say that the nation is a<lb/> Christian nation&#44; and that the British people are<lb/> a Christian people&#63;  Why&#44; in the same sense in<lb/> which you say that the nation is a Christian nation&#44;<lb/> though there may be 30&#44;000 Jews among them&#44; you<lb/> might say that the Parliament was a Christian Par&#45;<lb/>liament&#44; although among the 656 members of the<lb/> House of Commons there might be six persons pro&#45;<lb/>fessing the Jewish religion.  I therefore wish that<lb/> this ground of argument were not taken by those<lb/> whose object it is to prevent the Jews entering into<lb/> Parliament&#44; because the general character of the<lb/> Parliament must depend now&#44; as in former times&#44; on<lb/> the sentiments of the people at large&#44; and on the<lb/> sentiments of those who represent them&#59; and it is<lb/> not be inserting seven words in an act of Parliament<lb/>&#8212;it is not by a mechanical contrivance of this kind<lb/>&#8212;that you can secure religious obligation.  But I<lb/> have heard it said that&#44; although there might be<lb/> such instances as those of <persName>Mr. Gibbon</persName>&#44;&#8212;instances<lb/> of persons sitting in this house and subjecting them&#45;<lb/>selves to the required declaration&#44;&#8212;yet&#44; that this<lb/> Parliament has been from time immemorial a Chris&#45;<lb/>tian Parliament&#44; that Christianity is acknowledged<lb/> to be part and parcel of the law of the land&#44; and<lb/> that it would be a portentous innovation if we were<lb/> to quit that safe and secure ground of obligation.  It<lb/> appears to me that great mistakes are made by those<lb/> who thus regard the history of this country.  In the<lb/> early history of this country the Jews were perse&#45;<lb/>cuted in every mode and by every contrivance which<lb/> cruelty could suggest.  At one time they were forced<lb/> to surrender all their property&#44; at another time they<lb/> were sent to prison&#44; at another time they were tor&#45;<lb/>tured&#44; and at another time they were banished the</p>
+			<pb n="2"/>
+				<p>realm by a general act of the Legislature.  &#40;Hear&#44;<lb/> hear.&#41;  Such was the treatment of the Jews.  But&#44;<lb/> with respect to the theory under which this law<lb/> was adopted&#44; that theory was&#44; not that the Le&#45;<lb/>gislature should be open to all classes of Christians&#44;<lb/> but that every member of it should belong to the<lb/> church which was then universal&#44; the Roman Cath&#45;<lb/>olic church.  It is stated by <persName>Bracton</persName>&#44; that the statute<lb/> <emph rend="italics">De Haeretico Comburendo</emph> was supposed to be as<lb/> ancient as the common law itself.  Every heretic<lb/> was committed to the flames at once&#59; and I will<lb/> read to you the words of an ancient author &#40;<persName>Lvnde&#45;<lb/>wode</persName>&#41; to show what sort of a person a heretic was&#58;<lb/> &#34;Haereticus est qui dubitat de fide Catholica&#44; et qui<lb/> negligit servare ea quae Romana ecclesia statuit se<lb/> servare decreverat.&#34;  He thought that every man<lb/> was a heretic who did not adhere to the Roman<lb/> Catholic church&#44; or who departed from it in any<lb/> particular.  Such was the common law of this coun&#45;<lb/>try&#44; which was not framed in favor of Christianity&#44;<lb/> but for the protection of what was then the estab&#45;<lb/>lished church of the realm.  But in the course of<lb/> time the Reformation came&#59; various sects arose&#59; the<lb/> Reformation was triumphant&#44; and the church of<lb/> <placeName>England</placeName> became a Protestant church.  But heretics<lb/> still continued to be punished&#44; and in the reign of<lb/> <persName>Elizabeth</persName>&#44; I believe&#44; persons were sent to the flames<lb/> on account of heresy.  But at another time there<lb/> arose a new distinction&#8212;a distinction founded&#44; not<lb/> upon religious belief&#44; but very much upon political<lb/> differences.  The Roman Catholics of that day&#44;<lb/> thinking that they had no chance of supremacy un&#45;<lb/>der <persName>Elizabeth</persName> or <persName>James I.</persName>&#44; entered into repeated<lb/> conspiracies with a view to change the succession of<lb/> these realms.  I am asking your attention on this<lb/> point&#44; because it was at that time that the words<lb/> were introduced &#34;on the true faith of a Christian.&#34;<lb/>  In the time of <persName>Elizabeth</persName> it was necessary that the<lb/> oath of allegiance should be taken on the four evan&#45;<lb/>gelists&#44; which the Jews&#44; a despised and neglected<lb/> race&#44; could not take.  But I will beg to read to you<lb/> the preamble of an act which is the first which I can<lb/> discover in which the words &#34;on the true faith of a<lb/> Christian&#34; were introduced&#44; the act 3 <persName>James I.</persName>&#44; c.<lb/> 4&#44; entitled &#34;An Act for the better Discovering and<lb/> Repressing of Popish Recusants.&#34;</p>
+			<p rend="indent(1)">&#91;We here omit sundry references to acts of Par&#45;<lb/>liament.&#93;</p>
+			<p rend="indent(1)">When the ground of a political disqualification<lb/> was taken as a reason for exclusion from Parliament<lb/> or office&#44; it was either on the score of the Roman<lb/> Catholics failing in their allegiance to the king&#44; or<lb/> in the case of the Dissenters&#44; that they were so<lb/> averse to the ecclesiastical constitution of these<lb/> realms&#44; that the church could not be secure unless<lb/> they were excluded from office.  But&#44; whatever these<lb/> reasons might be&#44; in the years <date>1828</date> and <date>1829</date> we<lb/> removed all those disabilities.  Parliament declared&#44;<lb/> in its wisdom&#44; that the Roman Catholics should no<lb/> longer be subjected to the imputation to which they<lb/> had been exposed&#44; that of infidelity to their Sove&#45;<lb/>reign&#44; and that they were as well qualified as any<lb/> other persons to hold office&#44; with the exception of<lb/> some offices connected with the ecclesiastical consti&#45;<lb/>tution of the kingdom.  They declared&#44; likewise&#44;<lb/> that the Protestant Dissenters should not be subject<lb/> to the disqualification which excluded from corpora&#45;<lb/>tions and from office&#8212;for they were before eligible<lb/> to Parliament&#8212;because disaffection to the church<lb/> establishment was no sufficient ground for depriving<lb/> them of the honors and rewards which were the<lb/> right of every subject to these realms.  &#91;Hear&#44;<lb/> hear.&#93;  I submit&#44; then to the house&#44; that what is<lb/> called the Christian character of our constitution&#44; if<lb/> it ever had any existence at all&#44; has only existed<lb/> from the years <date>1828</date> to <date>1829</date>.  Previous to the first<lb/> of those years your constitution excluded certain per&#45;<lb/>sons from Parliament&#44; but it was on the ground of<lb/> their political and civil disability to perform the du&#45;<lb/>ties of good subjects and citizens.  With respect to<lb/> the words in the oath of abjuration&#44; I should say<lb/> that they were introduced&#44; not for the purpose of ex&#45;<lb/>clusion&#44; but for the purpose of giving a superior<lb/> sanction to that declaration.  If it had been intend&#45;<lb/>ed to exclude the Jews from Parliament on the<lb/> ground that their erroneous faith ought to deprive<lb/> them of the character of British subjects&#44; there would<lb/> have been introduced into that oath some declara&#45;<lb/>tion like that against the doctrine of transubstantia&#45;<lb/>tion&#44; or a declaration of a belief in the New Tes&#45;<lb/>tament&#44; or some such declaration.  You admit that<lb/> there are not direct words of exclusion&#44; but you leave<lb/> exclusion to be inferred.  It is said&#44; again&#44; that<lb/> Christianity is part and parcel of the law of the<lb/> land.  I have always understood the meaning<lb/> of that statement to be&#44; as I have heard it in&#45;<lb/>terpreted by several learned persons&#44; that any<lb/> writings reviling and blaspheming the Christian<lb/> religion&#44; the Scriptures being part of the law<lb/> of the land&#44; are illegal&#44; and that those who so revile<lb/> and blaspheme may be punished.  But I never<lb/> understood it to mean anything beyond that&#44; and I<lb/> think it would be quite a new interpretation of that<lb/> doctrine to assert that&#44; because Christianity is a part<lb/> of the law of the land&#44; every person is required&#44; on<lb/> taking the oath of office&#44; to make that declaration<lb/> &#34;on the true faith of a Christian.&#34;  I think now&#44;<lb/> therefore&#44; I have established that the law was in&#45;<lb/>tended and professed to exclude&#44; not persons of the<lb/> Jewish persuasion&#44; but persons whom it was deemed<lb/> advisable to keep out of Parliament on account of<lb/> political distinctions.  I have shown to you that&#44; as<lb/> the law is at present&#44; there is no security whatever<lb/> for preventing an infidel from sitting in Parliament.<lb/>  That declaration which the scruples of the Jew in&#45;<lb/>duce him to refuse is taken at once by the man who<lb/> believes nothing.  &#40;Hear&#44; hear.&#41;  If that be the<lb/> case&#44; let us see further whether there is any reason&#44;<lb/> not founded on our constitution&#44; not founded on the<lb/> laws of the country&#44; which should make you con&#45;<lb/>tinue to exclude the Jews from Parliament and of&#45;<lb/>fice.  One ground which has been stated for their<lb/> exclusion is&#44; that the Jews are a separate nation.<lb/>  But the Jews themselves utterly deny this allegation.<lb/>  They say that they are not attached to any foreign<lb/> state&#59; and that&#44; as the Jews in <placeName>France</placeName> are French<lb/> subjects&#44; those of <placeName>England</placeName> are English subjects&#59; and<lb/> that they are ready to do their duty as all good sub&#45;<lb/>jects should do&#44; either in time of war or otherwise.<lb/>  Again&#44; I say if they are aliens&#44; to what country do<lb/> they belong&#63;  An alien is one who has another king<lb/> and another country&#44; to whom his allegiance is ow&#45;<lb/>ing&#44; and therefore he cannot pay perfect obedience<lb/> to the laws of the state in which he lives&#44; and is<lb/> subjected to some necessary disabilities.  But those<lb/> Jews who have lived in this country for a century&#44;<lb/> or a century and a half&#44; who have their property in<lb/> <placeName>England</placeName>&#44; their wives and their families&#44; to what<lb/> other king or country can they resort in order to pay<lb/> their allegiance&#63;  To none whatever.  It is obvious<lb/> to all the world that their attachment is to <placeName>England</placeName>&#44;<lb/> and to no other country.  But then we are told&#44;<lb/> though it is rather an insult than argument&#44; that&#44; as<lb/> the late <persName>Mr. Cobbett</persName> used to say&#44; we do <sic>no</sic> see the<lb/> Jews following the trades which other persons fol&#45;<lb/>low.  Is there not a sufficient reason for this in<lb/> your own laws&#63;  You disqualify them from holding<lb/> land&#44; and in many cities from <sic>practising</sic> retail trades&#59;<lb/> and what right have you to turn round and say to<lb/> the Jews&#8212;&#34;You have no taste for the cultivation of<lb/> land&#44; or for trades which other Englishmen follow&#33;&#34;<lb/>  Is that justice&#63;  Is that argument&#63;  &#40;Cheers.&#41;  I<lb/> believe that in <placeName>France</placeName> the Jews enjoy all the honors<lb/> and emoluments which the state has to bestow&#59; and<lb/> <persName>M. Dupin</persName>&#44; and some other eminent persons who<lb/> have been elected to seats in the Legislature&#44; are of<lb/> that persuasion.  Do not&#44; therefore&#44; I beg of you&#44;<lb/> rest their disqualification upon your former proscrip&#45;<lb/>tion&#44; and do not argue that&#44; if you take it away&#44; you<lb/> will not find the Jews fulfilling the obligations of cit&#45;<lb/>izens like other men in similar circumstances.  But<lb/> we have been told also&#44; that there is a very solemn<lb/> denunciation in the prophecies&#44; which would prevent<lb/> our granting to the Jews the rights which they claim.<lb/>  It is obvious&#44; that if such be the meaning of the pro&#45;<lb/>phecies&#44; it is not for us to decide what should be<lb/> done&#44; but that Providence will accomplish by its</p>
+		</body>
+	</text>
+</TEI>

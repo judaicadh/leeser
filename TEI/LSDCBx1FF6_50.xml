@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI [
+<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
+%teibase;
+<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
+%teiext;
+]>
+<TEI>
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>[no title given]</title>
+          <author attested="yes" accepted="yes" signature="yes">Solomon, L.</author>
+          <editor></editor>
+          <sponsor></sponsor>
+          <funder></funder>
+          <principal></principal>
+          <respStmt>
+            <resp></resp>
+            <name></name>
+          </respStmt>
+        </titleStmt>
+        <editionStmt>
+          <edition></edition>
+          <respStmt>
+            <resp></resp>
+            <name></name>
+          </respStmt>
+        </editionStmt>
+        <extent>[information about file size goes here, information about extent of physical item comes later]</extent>
+        <publicationStmt>
+          <publisher>Unpublished manuscript</publisher>
+        </publicationStmt>
+        <seriesStmt>
+          <p>Not part of a series</p>
+        </seriesStmt>
+        <notesStmt>
+          <note></note>
+        </notesStmt>
+        <sourceDesc>
+          <biblStruct>
+            <!-- catalog entry goes here -->
+            <monogr>
+              <imprint>
+                <dateLet></dateLet>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <msDesc>
+            <msIdentifier>
+              <country>USA</country>
+              <region>PA</region>
+              <settlement>Philadelphia</settlement>
+              <institution></institution>
+              <repository>CAJS Isaac Leeser Collection</repository>
+              <collection>The Library of the Dropsie College for Hebrew and Cognate Learning</collection>
+              <idno>LSDCBx1FF6_50</idno>
+              <altIdentifier>
+                <idno></idno>
+              </altIdentifier>
+              <msName></msName>
+            </msIdentifier>
+            <head></head>
+            <letHeading>
+              <author attested="yes" accepted="yes" signature="yes">Solomon, L.</author>
+              <addressee editor="false" attested="yes" accepted="yes">Leeser, I., Rev.</addressee>
+              <deliverer></deliverer>
+              <respStmt>
+                <resp></resp>
+                <name></name>
+              </respStmt>
+              <placeLet>New York, NY</placeLet>
+              <placeRec>Philadelphia, PA</placeRec>
+              <dateLet when="1849-07" source="" attested="yes">17 July 1849</dateLet>
+            </letHeading>
+            <msContents>
+              <msItem>
+                <author></author>
+                <editor></editor>
+                <respStmt>
+                  <resp></resp>
+                  <name></name>
+                </respStmt>
+                <title></title>
+                <decoNote></decoNote>
+                <listBibl>
+                  <bibl></bibl>
+                </listBibl>
+                <filiation></filiation>
+                <textLang></textLang>
+                <figure>
+                  <graphic url="ilcajs_b1f6_0046_1r.jpg"/>
+                  <graphic url="ilcajs_b1f6_0046_1v.jpg"/>
+                  <graphic url="ilcajs_b1f6_0046_2v.jpg"/>
+                </figure>
+              </msItem>
+            </msContents>
+            <physDesc>
+              <objectDesc>
+                <supportDesc>
+                  <support>
+                    <material color="" lined="unk" paper_type="" size="Letter">letter</material>
+                  </support>
+                  <extent>5 pages on 4 sheets
+                    <dimensions></dimensions>
+                  </extent>
+                  <foliation></foliation>
+                  <collation></collation>
+                  <condition fragment="false"></condition>
+                </supportDesc>
+                <layoutDesc>
+                  <layout></layout>
+                </layoutDesc>
+              </objectDesc>
+              <handDesc script="manuscript">
+                  <handNote></handNote>
+              </handDesc>
+              <decoDesc>
+                <decoNote></decoNote>
+              </decoDesc>
+              <additions></additions>
+              <bindingDesc>
+                <binding>
+                  <decoNote></decoNote>
+                </binding>
+              </bindingDesc>
+              <sealDesc>
+                <seal>
+                  <p>Wax seal</p>
+                </seal>
+              </sealDesc>
+              <accMat></accMat>
+              <envDesc occ="false"></envDesc>
+            </physDesc>
+            <history>
+              <origin></origin>
+              <provenance></provenance>
+              <acquisition></acquisition>
+            </history>
+            <additional>
+              <adminInfo>
+                <recordHist>
+                  <source></source>
+                  <change></change>
+                </recordHist>
+                <availability status="free">
+                  <p>Unrestricted</p>
+                </availability>
+                <custodialHist>
+                  <custEvent></custEvent>
+                </custodialHist>
+              </adminInfo>
+              <surrogates></surrogates>
+              <listBibl>
+                <bibl></bibl>
+              </listBibl>
+            </additional>
+            <msPart>
+              <altIdentifier>
+                <idno></idno>
+              </altIdentifier>
+            </msPart>
+          </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <projectDesc>
+          <p></p>
+        </projectDesc>
+        <samplingDecl>
+          <p></p>
+        </samplingDecl>
+        <editorialDecl>
+          <correction>
+            <p></p>
+          </correction>
+          <normalization>
+            <p></p>
+          </normalization>
+          <quotation>
+            <p></p>
+          </quotation>
+          <hyphenation>
+            <p></p>
+          </hyphenation>
+          <segmentation>
+            <p></p>
+          </segmentation>
+          <stdVals>
+            <p></p>
+          </stdVals>
+          <interpretation>
+            <p></p>
+          </interpretation>
+        </editorialDecl>
+        <tagsDecl>
+          <rendition></rendition>
+          <namespace name="http://www.tei-c.org/ns/1.0">
+            <tagUsage gi=""></tagUsage>
+          </namespace>
+        </tagsDecl>
+        <refsDecl>
+          <cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
+        </refsDecl>
+        <refsDecl>
+          <refState unit=""/>
+        </refsDecl>
+        <classDecl>
+          <taxonomy>
+            <category>
+              <catDesc></catDesc>
+            </category>
+          </taxonomy>
+        </classDecl>
+        <appInfo>
+          <application ident="" version="">
+            <desc></desc>
+            <label></label>
+          </application>
+        </appInfo>
+      </encodingDesc>
+      <profileDesc>
+        <creation></creation>
+        <langUsage>
+          <language ident="en">English</language>
+          <language ident="he">Hebrew</language>
+        </langUsage>
+        <textClass>
+          <keywords scheme="unknown">
+            <list>
+              <item></item>
+              <item></item>
+            </list>
+          </keywords>
+          <classCode scheme=""></classCode>
+          <catRef/>
+        </textClass>
+      </profileDesc>
+      <revisionDesc>
+        <change></change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+      
+		<pb n="1"/>
+			<p><add>Hebrew</add></p>
+		<pb n="2"/>
+			<p><add>Hebrew</add></p>
+		<pb n="3"/>
+			<p>Revd</p>
+			<p><addressee>I. Leeser</addressee></p>
+			<p><placeName>Philadelphia</placeName></p>
+		<pb n="4"/>
+			<p><add><hi rend="underline">Yiddish&#45;Hebrew</hi></add></p>
+			<p rend="indent(9)"><placeName>New York</placeName>&#44; <date>July 17&#44; 1849</date>.</p>
+			<p>Life and peace to my friend <addressee>Rabbi Leeser</addressee>.....</p>
+          <p rend="indent(1)">We have dared to go into the holy courts<lb/> of God and pray that he might grant to you&#44; whose<lb/> name is well known in Judah and <placeName>Israel</placeName>&#44; long life.<lb/> I have presumed to speak&#44; and send my words to<lb/> you. I have heard through <persName>Mr. Morrison</persName> that you<lb/> will be good enough to listen to my words&#44; and I<lb/> therefore gave him &#36;15 with the earnest decision&#44; <del>that</del><lb/> at the end of two months&#44; to give you more until I<lb/> complete my payments. But now <del>my</del> I am afraid<lb/> I know very well all the good you have done for me&#44;<lb/> from the beginnings to this day. And now I am in<lb/> danger of being caught in a transgression&#59; not to be<lb/> able to fulfill my promise. For the cause of the<lb/> difficulties of the time and the confusion caused by<lb/> the cholera&#44; not only has the money and means of a<lb/> livelihood decreased&#44; but there is a lack of the utmost<lb/> necessities. That is the reason why my soul weeps<lb/> in hiding and I am concerned lest&#44; much to my<lb/> regret and pain&#44; I be unable to fulfill&#44; on the<lb/> appointed day&#44; that to which I see myself ob&#45;<lb/>ligated and I should very much like to accomplish.<lb/> I am anxious that you should think bitterly of me&#44;<lb/> for he&#44; who knows the hidden secrets of the heart&#44; to him<lb/> it is clear that my thought and desire is to pay&#44;<lb/> God willing. Only one thing I ask of you&#44; to give<lb/> permission to <persName>Mr. Morrison</persName> to wait a few weeks<lb/> until the disturbance caused by the sickness<lb/> passes. For&#44; thank God&#44; I have received news from<lb/> all my customers who have for years lodged<lb/> with me&#44; to hold their rooms in readiness<lb/> for them. They expect to come&#44; at the latest&#44;</p>
+		<pb n="5"/>
+			<p>towards the end of <date>August</date>. And&#44; if it<lb/> will be the will of the Creator&#44; to send his<lb/> complete cure even sooner&#44; and if he will<lb/> remove his anger from us&#44; They will come<lb/> here earlier. I stretch my hand out to<lb/> you and hope<add>&#63;</add> that for God&#39;s sake you do not<lb/> judge me harshly&#44; and to extend my<lb/> term for another four to six weeks. Be&#45;<lb/>cause of this our Father in heaven will<lb/> lengthen your days and your years in<lb/> goodness and sweetness. And nay this<lb/> be this will. Amen.</p>
+          <p rend="indent(1)">My wife and sons&#44; long life to them&#44;<lb/> send you greetings&#44; and especially my<lb/> son <persName>Nathan</persName>. Etc.</p>
+          <p rend="indent(2)">With greetings of Peace&#44;</p>
+          <p rend="indent(2)">Your friend&#44; who waits for your aid&#44;</p>
+          <p rend="indent(3)">&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95;</p>
+			<p>P. S. If you will honor me with an answer&#44;<lb/> it will be like cool water for a tired spirit.<lb/> My address is <persName role="author">L. Solomon</persName> <placeName>250 William St.<lb/> N.Y.</placeName></p>
+          
+        </body>
+    </text>
+</TEI>

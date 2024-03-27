@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI [
+<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
+%teibase;
+<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
+%teiext;
+]>
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>[no title given]</title>
+				<author attested="yes" accepted="yes" signature="unk">Jacobsohn?, Joseph</author>
+				<editor></editor>
+				<sponsor></sponsor>
+				<funder></funder>
+				<principal></principal>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition></edition>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</editionStmt>
+			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
+			<publicationStmt>
+				<publisher>Unpublished manuscript</publisher>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Not part of a series</p>
+			</seriesStmt>
+			<notesStmt>
+				<note></note>
+			</notesStmt>
+			<sourceDesc>
+				<biblStruct>
+					<!-- catalog entry goes here -->
+					<monogr>
+						<imprint>
+							<dateLet></dateLet>
+						</imprint>
+					</monogr>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<country>USA</country>
+						<region>PA</region>
+						<settlement>Philadelphia</settlement>
+						<institution></institution>
+						<repository>LSKAP</repository>
+						<collection>The Arnold and Deanne Kaplan Collection of Early American Judaica</collection>
+						<idno>LSKAP20-750</idno>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+						<msName></msName>
+					</msIdentifier>
+					<head></head>
+					<letHeading>
+						<author attested="yes" accepted="yes" signature="unk">Jacobsohn?, Joseph</author>
+						<addressee editor="true" attested="yes" accepted="yes">Leeser, Isaac</addressee>
+						<deliverer></deliverer>
+						<respStmt>
+							<resp></resp>
+							<name></name>
+						</respStmt>
+						<placeLet>New Orleans, LA</placeLet>
+						<placeRec>Philadelphia, PA</placeRec>
+						<dateLet when="1864-10" source="" attested="yes">October 24, 1864</dateLet>
+					</letHeading>
+					<msContents>
+						<msItem>
+							<author></author>
+							<editor></editor>
+							<respStmt>
+								<resp></resp>
+								<name></name>
+							</respStmt>
+							<title></title>
+							<decoNote></decoNote>
+							<listBibl>
+								<bibl></bibl>
+							</listBibl>
+							<filiation></filiation>
+							<textLang></textLang>
+							<figure>
+								<graphic url="leeser_20_750_001.jpg"></graphic>
+								<graphic url="leeser_20_750_002_and_003.jpg"></graphic>
+								<graphic url="leeser_20_750_004.jpg"></graphic>
+							</figure>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support>
+									<material color="" lined="true" paper_type="" size="">letter</material>
+								</support>
+								<extent>4 pages on 1 sheet
+									<dimensions></dimensions>
+								</extent>
+								<foliation></foliation>
+								<collation></collation>
+								<condition fragment="false"></condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout></layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc script="manuscript">
+							<handNote></handNote>
+						</handDesc>
+						<decoDesc>
+							<decoNote></decoNote>
+						</decoDesc>
+						<additions></additions>
+						<bindingDesc>
+							<binding>
+								<decoNote></decoNote>
+							</binding>
+						</bindingDesc>
+						<sealDesc>
+							<seal>
+								<p></p>
+							</seal>
+						</sealDesc>
+						<accMat></accMat>
+						<envDesc occ="false"></envDesc>
+					</physDesc>
+					<history>
+						<origin></origin>
+						<provenance></provenance>
+						<acquisition></acquisition>
+					</history>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source></source>
+								<change></change>
+							</recordHist>
+							<availability status="restricted">
+								<p>Restricted</p>
+							</availability>
+							<custodialHist>
+								<custEvent></custEvent>
+							</custodialHist>
+						</adminInfo>
+						<surrogates></surrogates>
+						<listBibl>
+							<bibl></bibl>
+						</listBibl>
+					</additional>
+					<msPart>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+					</msPart>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p></p>
+			</projectDesc>
+			<samplingDecl>
+				<p></p>
+			</samplingDecl>
+			<editorialDecl>
+				<correction>
+					<p></p>
+				</correction>
+				<normalization>
+					<p></p>
+				</normalization>
+				<quotation>
+					<p></p>
+				</quotation>
+				<hyphenation>
+					<p></p>
+				</hyphenation>
+				<segmentation>
+					<p></p>
+				</segmentation>
+				<stdVals>
+					<p></p>
+				</stdVals>
+				<interpretation>
+					<p></p>
+				</interpretation>
+			</editorialDecl>
+			<tagsDecl>
+				<rendition></rendition>
+				<namespace name="http://www.tei-c.org/ns/1.0">
+					<tagUsage gi=""></tagUsage>
+				</namespace>
+			</tagsDecl>
+			<refsDecl>
+				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
+			</refsDecl>
+			<refsDecl>
+				<refState unit=""/>
+			</refsDecl>
+			<classDecl>
+				<taxonomy>
+					<category>
+						<catDesc></catDesc>
+					</category>
+				</taxonomy>
+			</classDecl>
+			<appInfo>
+				<application ident="" version="">
+					<desc></desc>
+					<label></label>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<creation></creation>
+			<langUsage>
+				<language ident="en">English</language>
+				<language ident="he">Hebrew</language>
+			</langUsage>
+			<textClass>
+				<keywords scheme="unknown">
+					<list>
+						<item></item>
+						<item></item>
+					</list>
+				</keywords>
+				<classCode scheme=""></classCode>
+				<catRef/>
+			</textClass>
+		</profileDesc>
+		<revisionDesc>
+			<change></change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<pb n="1R"/>
+				<p rend="align(right)"><placeName>New Orleans</placeName> <date>Oct 24<hi rend="sup">th</hi>&#47;64</date>.</p>
+				<p>To the <sic>Rev<hi rend="sup">d</hi>. <addressee>Isaac Lesser</addressee></sic></p>
+			<p rend="indent(1)">Editor of the &#34;Occident&#34;</p>
+			<p rend="indent(2)"><placeName>Philadelphia</placeName></p>
+				<p>Rev<hi rend="sup">d</hi>. &#38; Dear Sir&#33;  It seems that you have no<lb/> regular correspondent in this city&#44; for otherwise he<lb/> could give you matter enough&#44; to have also &#34;<placeName>New Orleans</placeName>&#34;<lb/> mentioned in the domestic column of your valuable journal.<lb/>  I take <sic>therefor</sic> the liberty to forward you some<lb/> short items&#44; regarding religious affairs in <placeName>New Orleans</placeName>.</p>
+				<p>About two months ago D<hi rend="sup">r</hi> <persName>Illowy</persName> sent an<lb/> official letter to the <add>Hebrew</add> of this city&#44; in which&#44; he<lb/> requested them&#44; not to circumcise in future any male<lb/> child born from a christian mother though the father<lb/> be an Israelite&#44; for the following reasons&#58;</p>
+				<p>1<hi rend="sup">st</hi>&#47; It being evident that the circumcision is not performed<lb/> <add>Hebrew</add> but only for the purpose of being entitled to a<lb/> portion of ground on the Jewish burying place in case<lb/> of death&#44; and according to the law&#44; the ceremony of circum&#758;<lb/>cision can not be performed only <add>Hebrew</add> after which<lb/> the ceremony of <add>Hebrew</add> has to follow&#44; while among all those</p>
+			<pb n="1V"/>
+				<p>already circumcised children of christian mothers&#44;<lb/> of whom some have already reached the age of<lb/> five and others of six years&#44; is not one that had <add>Hebrew</add><lb/> Though <persName>Dr Illowy</persName> explained to some of the<lb/> parents that their children can not be regarded as<lb/> by law as Israelite as long as <add>Hebrew</add> is not performed&#44;<lb/> the father&#44; but not the mother would yield to the exigen&#758;<lb/>cy of the law.</p>
+				<p>2<hi rend="sup">ndly</hi>&#47; Since the circumcision is not performed <add>Hebrew</add><lb/> the <add>Hebrew</add> not only that he acts contrary to the law&#44;<lb/> but he also transgresses the prohibition <add>Hebrew</add> by making<lb/> a <add>Hebrew</add></p>
+				<p>3<hi rend="sup">rdly</hi>&#47;  Suppose every thing would be done according to the<lb/> law both <add>Hebrew</add> and <add>Hebrew</add>&#44; what however has Judaism to hope<lb/> of a child educated by a christian mother and an<lb/> irreligious father have we not enough <add>Hebrew</add> of our<lb/> own&#44; who would not know that they are Jews were they<lb/> not circumcised what for should we yet&#44; under the cover<lb/> of religion increase their number&#63;</p>
+				<p>D<hi rend="sup">r</hi> <persName>Illowy</persName> made the above explanation to the<lb/> Board of Trustees who assisted him&#44; and two of the<lb/> <add>Hebrew</add> who are members of the cong. were notified by them<lb/> that it is the desire of the Board that they would act</p>
+			<pb n="2R"/>
+				<p>according to the decision of the <sic>Rabby</sic>&#44; to which they<lb/> agreed.  But the 3rd <add>Hebrew</add> wrote&#44; two weeks after<lb/> he <sic>recieved</sic> <persName>Dr Illowy&#39;s</persName> answer letter&#44; a very insulting<lb/> answer&#44; in which he declared himself&#44; that he has done so<lb/> before and will continue so&#44; to circumcise all such<lb/> children born from christian mothers.</p>
+				<p>D<hi rend="sup">r</hi> <persName>Illowy</persName> after having <sic>recieved</sic> that insulting<lb/> answer of the <add>Hebrew</add> declared him publicly in the Synag.<lb/> as <add>Hebrew</add> having forfeited his right as <add>Hebrew</add> and being<lb/> in future unfit and unworthy for that holy office.</p>
+				<p>This event gave rise partly to a dissatisfaction among<lb/> the friends of the <add>Hebrew</add>&#44; and those whose <sic>wive</sic> are strangers<lb/> <add>Hebrew</add> to our nation&#44; and partly to a dispute among impartial<lb/> individuals about the correctness of <persName>Dr. I.&#39;s</persName> decision.</p>
+				<p>Permit me <sic>therefor</sic> Revd Sir to lay before you and<lb/> your learned readers 3 questions</p>
+				<p>1<hi rend="sup">st</hi>&#47; Is it permitted according to the law to circumcise<lb/> &#758;the son of a christian mother and an irreligious father<lb/> &#758;though we know <sic>aforehand</sic> that we have not a spark of hope<lb/> &#758;that the child will ever be brought up as a Jew&#63;</p>
+				<p>2<hi rend="sup">dly</hi>&#47; Suppose it be not permitted has any <sic>Rabby</sic> the right<lb/> &#758;to declare a <add>Hebrew</add> who acts contrary to his decision in<lb/> &#758;said question <add>Hebrew</add> and unfit in future to perform the<lb/> &#758;ceremony of circumcision&#63;</p>
+			<pb n="2V"/>
+				<p>3<hi rend="sup">rdly</hi>&#47; Suppose the <sic>Rabby</sic> has such a right&#44; to<lb/> &#758;declare a <add>Hebrew</add>&#44; is then the <add>Hebrew</add> resting<lb/> &#758; only upon the <add>Hebrew</add>&#44; or is it likewise sinful of every<lb/> &#758; individual who allows such a <add>Hebrew</add> to circumcise his child.</p>
+				<p>Hoping that you will grant these questions a space<lb/> in the columns of your valuable journal&#44; and let us hear at the<lb/> same time your own opinion as well as those of other learned<lb/> men in <placeName>Israel</placeName>&#59; I can assure you that by so doing you<lb/> will restore the peace into the hearts of those who are now<lb/> dissatisfied with the decision of <persName>Revd Dr Illowy</persName>.</p>
+				<p><add>Hebrew</add> There were this year over fifty <add>Hebrew</add> in our<lb/> City&#44; of which over forty were built by the members of<lb/> the Cong. &#34;Schaarey Chased&#34; <placeName>Rampart St.</placeName>&#44; whilst three<lb/> years ago when <persName>Dr I.</persName> arrived in this city there was not<lb/> more than one <add>Hebrew</add> built by the sexton of the <sic>Portoguese</sic><lb/> Cong. in the yard of their Synag.  Though it is true that<lb/> the Revd Gentleman worked indefatigably with patience<lb/> and perseverance to keep the word of God alive in his<lb/> community&#44; still it must be admitted that praise enough<lb/> cannot be bestowed on <persName>S. Friedlander Esqr.</persName> President<lb/> of the Cong. not alone for the powerful support&#44; he is<lb/> to the <sic>Rabby</sic>&#44; not alone for his able management<lb/> through which he made the Cong. flourish and increase<lb/> to such a number of members&#44; that the Synag. spacious</p>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI [
+<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
+%teibase;
+<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
+%teiext;
+]>
+<TEI>
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>[no title given]</title>
+          <author attested="yes" accepted="yes" signature="yes">Bush, Isidor</author>
+          <editor></editor>
+          <sponsor></sponsor>
+          <funder></funder>
+          <principal></principal>
+          <respStmt>
+            <resp></resp>
+            <name></name>
+          </respStmt>
+        </titleStmt>
+        <editionStmt>
+          <edition></edition>
+          <respStmt>
+            <resp></resp>
+            <name></name>
+          </respStmt>
+        </editionStmt>
+        <extent>[information about file size goes here, information about extent of physical item comes later]</extent>
+        <publicationStmt>
+          <publisher>Unpublished manuscript</publisher>
+        </publicationStmt>
+        <seriesStmt>
+          <p>Not part of a series</p>
+        </seriesStmt>
+        <notesStmt>
+          <note></note>
+        </notesStmt>
+        <sourceDesc>
+          <biblStruct>
+            <!-- catalog entry goes here -->
+            <monogr>
+              <imprint>
+                <dateLet></dateLet>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <msDesc>
+            <msIdentifier>
+              <country>USA</country>
+              <region>PA</region>
+              <settlement>Philadelphia</settlement>
+              <institution></institution>
+              <repository>CAJS Isaac Leeser Collection</repository>
+              <collection>The Library of the Dropsie College for Hebrew and Cognate Learning</collection>
+              <idno>LSDCBx1FF6_48</idno>
+              <altIdentifier>
+                <idno></idno>
+              </altIdentifier>
+              <msName></msName>
+            </msIdentifier>
+            <head></head>
+            <letHeading>
+              <author attested="yes" accepted="yes" signature="yes">Bush, Isidor</author>
+              <addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac</addressee>
+              <deliverer></deliverer>
+              <respStmt>
+                <resp></resp>
+                <name></name>
+              </respStmt>
+              <placeLet>New York, NY</placeLet>
+              <placeRec>Philadelphia, PA</placeRec>
+              <dateLet when="1849-07" source="" attested="yes">12 July 1849</dateLet>
+            </letHeading>
+            <msContents>
+              <msItem>
+                <author></author>
+                <editor></editor>
+                <respStmt>
+                  <resp></resp>
+                  <name></name>
+                </respStmt>
+                <title></title>
+                <decoNote></decoNote>
+                <listBibl>
+                  <bibl></bibl>
+                </listBibl>
+                <filiation></filiation>
+                <textLang></textLang>
+                <figure>
+                  <graphic url="ilcajs_b1f6_0044_1r.jpg"/>
+                  <graphic url="ilcajs_b1f6_0044_1v.jpg"/>
+                </figure>
+              </msItem>
+            </msContents>
+            <physDesc>
+              <objectDesc>
+                <supportDesc>
+                  <support>
+                    <material color="" lined="unk" paper_type="" size="Letter">letter</material>
+                  </support>
+                  <extent>4 pages on 3 sheets
+                    <dimensions></dimensions>
+                  </extent>
+                  <foliation></foliation>
+                  <collation></collation>
+                  <condition fragment="false"></condition>
+                </supportDesc>
+                <layoutDesc>
+                  <layout></layout>
+                </layoutDesc>
+              </objectDesc>
+              <handDesc script="manuscript">
+                  <handNote></handNote>
+              </handDesc>
+              <decoDesc>
+                <decoNote></decoNote>
+              </decoDesc>
+              <additions></additions>
+              <bindingDesc>
+                <binding>
+                  <decoNote></decoNote>
+                </binding>
+              </bindingDesc>
+              <sealDesc>
+                <seal>
+                  <p></p>
+                </seal>
+              </sealDesc>
+              <accMat></accMat>
+              <envDesc occ="false"></envDesc>
+            </physDesc>
+            <history>
+              <origin></origin>
+              <provenance></provenance>
+              <acquisition></acquisition>
+            </history>
+            <additional>
+              <adminInfo>
+                <recordHist>
+                  <source></source>
+                  <change></change>
+                </recordHist>
+                <availability status="free">
+                  <p>Unrestricted</p>
+                </availability>
+                <custodialHist>
+                  <custEvent></custEvent>
+                </custodialHist>
+              </adminInfo>
+              <surrogates></surrogates>
+              <listBibl>
+                <bibl></bibl>
+              </listBibl>
+            </additional>
+            <msPart>
+              <altIdentifier>
+                <idno></idno>
+              </altIdentifier>
+            </msPart>
+          </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <projectDesc>
+          <p></p>
+        </projectDesc>
+        <samplingDecl>
+          <p></p>
+        </samplingDecl>
+        <editorialDecl>
+          <correction>
+            <p></p>
+          </correction>
+          <normalization>
+            <p></p>
+          </normalization>
+          <quotation>
+            <p></p>
+          </quotation>
+          <hyphenation>
+            <p></p>
+          </hyphenation>
+          <segmentation>
+            <p></p>
+          </segmentation>
+          <stdVals>
+            <p></p>
+          </stdVals>
+          <interpretation>
+            <p></p>
+          </interpretation>
+        </editorialDecl>
+        <tagsDecl>
+          <rendition></rendition>
+          <namespace name="http://www.tei-c.org/ns/1.0">
+            <tagUsage gi=""></tagUsage>
+          </namespace>
+        </tagsDecl>
+        <refsDecl>
+          <cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
+        </refsDecl>
+        <refsDecl>
+          <refState unit=""/>
+        </refsDecl>
+        <classDecl>
+          <taxonomy>
+            <category>
+              <catDesc></catDesc>
+            </category>
+          </taxonomy>
+        </classDecl>
+        <appInfo>
+          <application ident="" version="">
+            <desc></desc>
+            <label></label>
+          </application>
+        </appInfo>
+      </encodingDesc>
+      <profileDesc>
+        <creation></creation>
+        <langUsage>
+         <language ident="en">English</language>
+         <language ident="he">Hebrew</language>
+        </langUsage>
+        <textClass>
+          <keywords scheme="unknown">
+            <list>
+              <item></item>
+              <item></item>
+            </list>
+          </keywords>
+          <classCode scheme=""></classCode>
+          <catRef/>
+        </textClass>
+      </profileDesc>
+      <revisionDesc>
+        <change></change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+      
+		<pb n="1"/>
+			<p rend="align(right)"><placeName>New York</placeName> <date>12 July 1849</date></p>
+			<p><add>Hebrew</add></p>
+		<pb n="2"/>
+			<p><add>Hebrew</add></p>
+		<pb n="3"/>
+          <p rend="indent(8)"><placeName>New York</placeName>&#44; <del><date>January</date></del> <date>July 12&#44; 1849</date></p>
+			<p>To the honorable and famous sage&#44; <addressee>Rabbi Isaac Leeser</addressee>&#58;</p>
+          <p rend="indent(1)">I again want to call your attention to the price of your<lb/> prayer books and ask whether you would consider lowering it&#44;<lb/> in view of the fact that <persName>Frank&#39;s</persName> will cost only &#36;1.00&#44; and thus<lb/> make sales impossible. I do not&#44; however&#44; desire to give you<lb/> any advice. Do whatever you like. It might be preferable to<lb/> leave it at the old price&#44; since people will see how much handso&#45;<lb/>mer and more complete your prayer books are&#44; and will not<lb/> mind the higher price</p>
+          <p rend="indent(1)">The chief reason for my letter of today is the handsome<lb/> Torah about which I forgot in my last letter. It is a beautiful<lb/> specimen&#44; and I know that in your hands it is worth &#36;180<lb/> The trouble is that I haven&#39;t the acquaintanceship&#44; nor<lb/> the necessary connections&#44; and I prefer to give it to you &#36;20<lb/> cheaper than I could possibly get from congregations in<lb/> the course of a few months. I want to offer it to you for<lb/> only &#36;130. Let it be viewed by an impartial person and you will see<lb/> what a tremendous difference there is between such a torah<lb/> and the kind sold by <persName>Ottinger</persName>. I also have some woolen and<lb/> silk &#8220;talithim<add>&#63;</add>&#8221;&#44; some of which even the <persName>Rev. Isaacs</persName> bought<lb/> although he usually imports his directly.</p>
+          <p rend="indent(1)">Through your correspondence and acquaintanceship through<lb/>out the <placeName>United States</placeName> even with such Christian scholars as interest<lb/> themselves in Jewish knowledge&#44; or the study of Hebrew literature<lb/> you could do more than anyone else for my book business.<lb/> I do not say that you should dispose&#44; for me&#44; of calendars&#44;<lb/> &#8220;Aggadahs&#8221;&#44; and children&#39;s prayer books. Such things<lb/> I would certainly not suggest to you. But my catalogue<lb/> contains works&#44; the dissemination of which will certainly not reflect<lb/> upon you&#44; even though you are not their publisher. Finally&#44;<lb/> I require no cash from you for such books. I should only take<lb/> something as an exchange account from your publications. I<lb/> shall give you these things to be sold during a period of four or<lb/> five months.</p>
+          <p rend="indent(1)">I have already printed the catalogue and cannot expend<lb/> such a sum again. Had we discussed this matter previously&#44;</p>
+			<p rend="align(center)"><date>7&#45;12&#45;1849</date></p>
+		<pb n="4"/>
+          <p>I should gladly have had this catalogue printed in<lb/> accordance with such an arrangement&#44; or through<lb/> <del>your</del> you. In view of the fact that the format of the catalogue<lb/> is the same as that of the Occident&#44; at least in the matter<lb/> of the size of the paper&#44; it can&#44; without harm&#44; be attached to<lb/> the next issue of the &#8220;Occident&#8221; without increasing<lb/> the postage cost&#44; or any other expense. On the cover one<lb/> might say that these books are obtainable through me or<lb/> through you. I hope you will agree to this.</p>
+          <p rend="indent(1)">If you&#44; yourself&#44; don&#39;t want to buy the Torah<lb/> or do not know of any customer and if you consider it<lb/> worthwhile&#44; please insert&#44; in my name&#44; a small advertise&#45;<lb/>ment about it on the cover of the &#8220;Occident&#8221;. The Torah is<lb/> 28 inches long without the &#8220;etz chaim&#8221;&#42; The parchment and<lb/> the script are unusually handsome and fine. Pardon me<lb/> for burdening you again with my poor writing.</p>
+          <p rend="indent(8)">most respectfully&#44;</p>
+          <p rend="indent(10)"><persName role="author">Isidor Bush</persName></p>
+			<p rend="align(center)"><date>7&#45;12&#45;1849</date></p>
+			<p>&#42;rollers</p>
+          
+        </body>
+    </text>
+</TEI>

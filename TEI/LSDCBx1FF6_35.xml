@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI [
+<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
+%teibase;
+<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
+%teiext;
+]>
+<TEI>
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>[no title given]</title>
+          <author attested="unk" accepted="unk" signature="unk"></author>
+          <editor></editor>
+          <sponsor></sponsor>
+          <funder></funder>
+          <principal></principal>
+          <respStmt>
+            <resp></resp>
+            <name></name>
+          </respStmt>
+        </titleStmt>
+        <editionStmt>
+          <edition></edition>
+          <respStmt>
+            <resp></resp>
+            <name></name>
+          </respStmt>
+        </editionStmt>
+        <extent>[information about file size goes here, information about extent of physical item comes later]</extent>
+        <publicationStmt>
+          <publisher>Unpublished manuscript</publisher>
+        </publicationStmt>
+        <seriesStmt>
+          <p>Not part of a series</p>
+        </seriesStmt>
+        <notesStmt>
+          <note></note>
+        </notesStmt>
+        <sourceDesc>
+          <biblStruct>
+            <!-- catalog entry goes here -->
+            <monogr>
+              <imprint>
+                <dateLet></dateLet>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <msDesc>
+            <msIdentifier>
+              <country>USA</country>
+              <region>PA</region>
+              <settlement>Philadelphia</settlement>
+              <institution></institution>
+              <repository>CAJS Isaac Leeser Collection</repository>
+              <collection>The Library of the Dropsie College for Hebrew and Cognate Learning</collection>
+              <idno>LSDCBx1FF6_35</idno>
+              <altIdentifier>
+                <idno></idno>
+              </altIdentifier>
+              <msName></msName>
+            </msIdentifier>
+            <head></head>
+            <letHeading>
+              <author attested="unk" accepted="unk" signature="unk"></author>
+              <addressee editor="false" attested="yes" accepted="yes"></addressee>
+              <deliverer></deliverer>
+              <respStmt>
+                <resp></resp>
+                <name></name>
+              </respStmt>
+              <placeLet>Kingston, Jamaica</placeLet>
+              <placeRec>Philadelphia, PA</placeRec>
+              <dateLet when="1849-05" source="" attested="yes">7 May 1849</dateLet>
+              <dateLet when="1849-05" source="" attested="yes">7 May 5609</dateLet>
+            </letHeading>
+            <msContents>
+              <msItem>
+                <author></author>
+                <editor></editor>
+                <respStmt>
+                  <resp></resp>
+                  <name></name>
+                </respStmt>
+                <title></title>
+                <decoNote></decoNote>
+                <listBibl>
+                  <bibl></bibl>
+                </listBibl>
+                <filiation></filiation>
+                <textLang></textLang>
+                <figure>
+                  <graphic url="ilcajs_b1f6_0033_1r.jpg"/>
+                  <graphic url="ilcajs_b1f6_0033_1v.jpg"/>
+                </figure>
+              </msItem>
+            </msContents>
+            <physDesc>
+              <objectDesc>
+                <supportDesc>
+                  <support>
+                    <material color="" lined="false" paper_type="" size="Letter">letter</material>
+                  </support>
+                  <extent>2 pages on 3 sheets
+                    <dimensions></dimensions>
+                  </extent>
+                  <foliation></foliation>
+                  <collation></collation>
+                  <condition fragment="true"></condition>
+                </supportDesc>
+                <layoutDesc>
+                  <layout></layout>
+                </layoutDesc>
+              </objectDesc>
+              <handDesc script="manuscript">
+                  <handNote></handNote>
+              </handDesc>
+              <decoDesc>
+                <decoNote></decoNote>
+              </decoDesc>
+              <additions></additions>
+              <bindingDesc>
+                <binding>
+                  <decoNote></decoNote>
+                </binding>
+              </bindingDesc>
+              <sealDesc>
+                <seal>
+                  <p></p>
+                </seal>
+              </sealDesc>
+              <accMat></accMat>
+              <envDesc occ="false"></envDesc>
+            </physDesc>
+            <history>
+              <origin></origin>
+              <provenance></provenance>
+              <acquisition></acquisition>
+            </history>
+            <additional>
+              <adminInfo>
+                <recordHist>
+                  <source></source>
+                  <change></change>
+                </recordHist>
+                <availability status="free">
+                  <p>Unrestricted</p>
+                </availability>
+                <custodialHist>
+                  <custEvent></custEvent>
+                </custodialHist>
+              </adminInfo>
+              <surrogates></surrogates>
+              <listBibl>
+                <bibl></bibl>
+              </listBibl>
+            </additional>
+            <msPart>
+              <altIdentifier>
+                <idno></idno>
+              </altIdentifier>
+            </msPart>
+          </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <projectDesc>
+          <p></p>
+        </projectDesc>
+        <samplingDecl>
+          <p></p>
+        </samplingDecl>
+        <editorialDecl>
+          <correction>
+            <p></p>
+          </correction>
+          <normalization>
+            <p></p>
+          </normalization>
+          <quotation>
+            <p></p>
+          </quotation>
+          <hyphenation>
+            <p></p>
+          </hyphenation>
+          <segmentation>
+            <p></p>
+          </segmentation>
+          <stdVals>
+            <p></p>
+          </stdVals>
+          <interpretation>
+            <p></p>
+          </interpretation>
+        </editorialDecl>
+        <tagsDecl>
+          <rendition></rendition>
+          <namespace name="http://www.tei-c.org/ns/1.0">
+            <tagUsage gi=""></tagUsage>
+          </namespace>
+        </tagsDecl>
+        <refsDecl>
+          <cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
+        </refsDecl>
+        <refsDecl>
+          <refState unit=""/>
+        </refsDecl>
+        <classDecl>
+          <taxonomy>
+            <category>
+              <catDesc></catDesc>
+            </category>
+          </taxonomy>
+        </classDecl>
+        <appInfo>
+          <application ident="" version="">
+            <desc></desc>
+            <label></label>
+          </application>
+        </appInfo>
+      </encodingDesc>
+      <profileDesc>
+        <creation></creation>
+        <langUsage>
+          <language ident="en">English</language>
+          <language ident="he">Hebrew</language>
+        </langUsage>
+        <textClass>
+          <keywords scheme="unknown">
+            <list>
+              <item></item>
+              <item></item>
+            </list>
+          </keywords>
+          <classCode scheme=""></classCode>
+          <catRef/>
+        </textClass>
+      </profileDesc>
+      <revisionDesc>
+        <change></change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+      
+		<pb n="1"/>
+			<p rend="align(center)"><placeName>Kingston Jamaica</placeName> <date>7<hi rend="sup">th</hi> May 5609</date>.</p>
+			<p>My dear Sir</p>
+          <p rend="indent(2)">I avail myself of the present opportunity<lb/> to acknowledge the receipt of your communication&#44; and<lb/> at the same time&#44; to express my warm thanks for the kind<lb/> sentiments which it breathes. Being aware how deeply at<lb/> heart&#44; I have the subject of our correspondence you need no<lb/> assurance on my part&#44; how earnestly I have taken into<lb/> consideration the contents of your esteemed letter. I readily<lb/> admit the desirability of being on the spot&#44; wherever a situation<lb/> should offer&#59; but as you <add>&#63;</add> second my situation&#59; I shall<lb/> briefly and openly place you in possession of my position. The<lb/> proceeds of my labor are far from being unremunerative&#44; but<lb/> having a family to maintain&#44; I could ill spare the<lb/> expense of <sic>travelling</sic>&#44; without the matter being definitely<lb/> settled before hand. I have no doubt of being able to<lb/> obtain leave of absence from the Directors of the Hebrew National<lb/> Institution&#44; yet&#44; this would but partly be of service&#44; for I would&#44;<lb/> of necessity&#44; have to relinquish many <hi rend="underline">private</hi> pupils&#44; the<lb/> emoluments arising from whom are about &#36;200 pr ann. This<lb/> is the sole reason which renders my repairing so <placeName><sic>Cincinatti</sic></placeName>&#44; im&#61;<lb/>&#61;practicable&#44; otherwise&#44; I would not fear the result. The fame<lb/> remarks apply to any other situation&#44; if my election be left to<lb/> chance. I do not however&#44; relinquish the hope of obtaining<lb/> a clerical situation in the <placeName>United States</placeName>&#44; as I can &#40;if required&#41;<lb/> procure testimonials of the most satisfactory nature.</p>
+          <p rend="indent(1)">Since my last communication&#44; I</p>
+		<pb n="2"/>
+			<p>have been elected <add>Hebrew</add> of the congregation <add>Hebrew</add> of <placeName>Spanish town</placeName>&#44;<lb/> so that I am de facto as this moment&#44; one of the Jewish Clergy.<lb/> I think it necessary&#44; However to premise&#44; that an understanding<lb/> exists that I am thereby unfettered in accepting any other<lb/> ministerial office. My object in responding to their call<lb/> has been solely with the view of reorganizing the Congregation<lb/> which&#44; in a religious sense&#44; has ceased to exist. The community<lb/> are not in a position to compensate a minister&#44; I am therefore<lb/> compelled to retain my situation as master of the school in<lb/> <placeName>Kingston</placeName>&#44; and on occasions of Service&#44; go to the <placeName>Spanish Town</placeName> by the<lb/> Train the afternoon previous. You will therefore not fail to<lb/> perceive that in this matter I have not been influenced by<lb/> pecuniary gain. In what I have done&#44; I have been actuated<lb/> merely by a desire to promote the cause of our Holy Religion&#44;<lb/> and to remove the stigma from a body of Israelites&#44; having<lb/> <hi rend="underline">two</hi> places of Worship&#44; and neither open for the service of the God<lb/> of <persName>Jacob</persName>. So far have I been successful. The taunting question<lb/> can no longer be uttered&#63; <add>Hebrew</add>. Under my superintendence<lb/> a Sunday School is also about being established&#44; as with scarcely<lb/> an exception the younger branches of the community are ignorant of<lb/> the very first principles of our faith&#44; much less of our national<lb/> Language. Thro&#39; the instruction I have received from Hazan <persName>Lopes</persName><lb/> of our city &#40;of whom you have perhaps heard&#41; I am enabled to<lb/> officiate in the Portuguese Minhag&#44; but I should&#44; nevertheless&#44; prefer<lb/> being attached as Minister to a German Congregation &#40;<add>Hebrew</add>&#41; in the<lb/> <placeName>United States</placeName>&#44; having had much more experience&#44; and being<lb/> <hi rend="underline">perfectly</hi> an fait at the duties of the latter. I therefore&#44; <hi rend="underline">do not</hi><lb/> relinquish the desire of obtaining a situation as Hazan in <placeName>America</placeName>.<lb/> May I rely on your continued good offices in forwarding my</p>
+		<pb n="3"/>
+			<p>views&#63; In contending <add>&#63;</add><lb/> think me unmindful <add>&#63;</add><lb/> you have manifested towa<add>&#63;</add><lb/> <hi rend="underline">immediate</hi> opportunity of <add>&#63;</add><lb/> works&#44; but should the <add>&#63;</add><lb/> in proving how fully <add>&#63;</add><lb/> me</p>
+			<p>they are indeed well <add>&#63;</add><lb/> well as the mechanic<add>&#63;</add><lb/> <hi rend="underline">as yet</hi> in procuring any<add>&#63;</add><lb/> many whose <hi rend="underline">names</hi> I could <add>&#63;</add><lb/> your losses in this report&#44; <add>&#63;</add><lb/> however despair of obtain<add>&#63;</add><lb/> placed&#44; in fact&#44; who wou<add>&#63;</add><lb/> At Present&#44; there is better<add>&#63;</add><lb/> here. The Directors <add>&#63;</add><lb/> Institution&#41; are <persName>P Lan<add>&#63;</add></persName><lb/> <persName>Alex</persName>. <persName>Aria Freas</persName>&#8212;L<add>&#63;</add><lb/> <persName>L Alexander</persName>&#44; <persName>D May<add>&#63;</add></persName><lb/> <persName>Abm Bravo</persName>&#44; &#38; <persName>M B He<add>&#63;</add></persName></p>
+			<p>Town&#44; are <persName>Abm. Judah</persName> Pre<add>&#63;</add><lb/> <persName>Elias Sangueretti</persName>&#44; <persName>George Ab<add>&#63;</add></persName><lb/> <persName>Melhado</persName> Hon Sec&#44; &#38; <persName>D D Soa<add>&#63;</add></persName><lb/> in the 1<hi rend="sup">st</hi> night of <date>Passover</date>&#44;<add>&#63;</add><lb/> it not for the postage&#44; I wo<add>&#63;</add><lb/> on malaihe<add>&#63;</add> 2<hi rend="sup">nd</hi> &#40;<add>Hebrew</add>&#41;<add>&#63;</add><lb/> will avail myself of the op<add>&#63;</add></p>
+			<p>remembered to you&#44; and so<add>&#63;</add><lb/> the assurance of my respect<add>&#63;</add><lb/> B<add>&#63;</add></p>
+          
+        </body>
+    </text>
+</TEI>

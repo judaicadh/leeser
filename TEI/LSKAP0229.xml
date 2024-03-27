@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI [
+<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
+%teibase;
+<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
+%teiext;
+]>
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>[no title given]</title>
+				<author attested="yes" accepted="yes" signature="yes">Illoway, Henry</author>
+				<editor></editor>
+				<sponsor></sponsor>
+				<funder></funder>
+				<principal></principal>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition></edition>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</editionStmt>
+			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
+			<publicationStmt>
+				<publisher>Unpublished manuscript</publisher>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Not part of a series</p>
+			</seriesStmt>
+			<notesStmt>
+				<note></note>
+			</notesStmt>
+			<sourceDesc>
+				<biblStruct>
+					<!-- catalog entry goes here -->
+					<monogr>
+						<imprint>
+							<dateLet></dateLet>
+						</imprint>
+					</monogr>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<country>USA</country>
+						<region>PA</region>
+						<settlement>Philadelphia</settlement>
+						<institution></institution>
+						<repository>LSKAP</repository>
+						<collection>The Arnold and Deanne Kaplan Collection of Early American Judaica</collection>
+						<idno>LSKAP0229</idno>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+						<msName></msName>
+					</msIdentifier>
+					<head></head>
+					<letHeading>
+						<author attested="yes" accepted="yes" signature="yes">Illoway, Henry</author>
+						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac</addressee>
+						<deliverer></deliverer>
+						<respStmt>
+							<resp></resp>
+							<name></name>
+						</respStmt>
+						<placeLet>New Orleans, LA</placeLet>
+						<placeRec>Philadelphia, PA</placeRec>
+						<dateLet when="1863-10" source="" attested="yes">October 24, 1863</dateLet>
+					</letHeading>
+					<msContents>
+						<msItem>
+							<author></author>
+							<editor></editor>
+							<respStmt>
+								<resp></resp>
+								<name></name>
+							</respStmt>
+							<title></title>
+							<decoNote></decoNote>
+							<listBibl>
+								<bibl></bibl>
+							</listBibl>
+							<filiation></filiation>
+							<textLang></textLang>
+							<figure>
+								<graphic url="LSKAP0229_1r.jpg"></graphic>
+								<graphic url="LSKAP0229_1v.jpg"></graphic>
+								<graphic url="LSKAP0229_2r.jpg"></graphic>
+								<graphic url="LSKAP0229_2v.jpg"></graphic>
+								<graphic url="LSKAP0229_3r.jpg"></graphic>
+							</figure>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support>
+									<material color="" lined="true" paper_type="" size="">letter</material>
+								</support>
+								<extent>6 pages on 3 sheets
+									<dimensions></dimensions>
+								</extent>
+								<foliation></foliation>
+								<collation></collation>
+								<condition fragment="false"></condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout></layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc script="manuscript">
+							<handNote></handNote>
+						</handDesc>
+						<decoDesc>
+							<decoNote></decoNote>
+						</decoDesc>
+						<additions></additions>
+						<bindingDesc>
+							<binding>
+								<decoNote></decoNote>
+							</binding>
+						</bindingDesc>
+						<sealDesc>
+							<seal>
+								<p></p>
+							</seal>
+						</sealDesc>
+						<accMat></accMat>
+						<envDesc occ="false"></envDesc>
+					</physDesc>
+					<history>
+						<origin></origin>
+						<provenance></provenance>
+						<acquisition></acquisition>
+					</history>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source></source>
+								<change></change>
+							</recordHist>
+							<availability status="restricted">
+								<p>Restricted</p>
+							</availability>
+							<custodialHist>
+								<custEvent></custEvent>
+							</custodialHist>
+						</adminInfo>
+						<surrogates></surrogates>
+						<listBibl>
+							<bibl></bibl>
+						</listBibl>
+					</additional>
+					<msPart>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+					</msPart>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p></p>
+			</projectDesc>
+			<samplingDecl>
+				<p></p>
+			</samplingDecl>
+			<editorialDecl>
+				<correction>
+					<p></p>
+				</correction>
+				<normalization>
+					<p></p>
+				</normalization>
+				<quotation>
+					<p></p>
+				</quotation>
+				<hyphenation>
+					<p></p>
+				</hyphenation>
+				<segmentation>
+					<p></p>
+				</segmentation>
+				<stdVals>
+					<p></p>
+				</stdVals>
+				<interpretation>
+					<p></p>
+				</interpretation>
+			</editorialDecl>
+			<tagsDecl>
+				<rendition></rendition>
+				<namespace name="http://www.tei-c.org/ns/1.0">
+					<tagUsage gi=""></tagUsage>
+				</namespace>
+			</tagsDecl>
+			<refsDecl>
+				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
+			</refsDecl>
+			<refsDecl>
+				<refState unit=""/>
+			</refsDecl>
+			<classDecl>
+				<taxonomy>
+					<category>
+						<catDesc></catDesc>
+					</category>
+				</taxonomy>
+			</classDecl>
+			<appInfo>
+				<application ident="" version="">
+					<desc></desc>
+					<label></label>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<creation></creation>
+			<langUsage>
+				<language ident="en">English</language>
+				<language ident="he">Hebrew</language>
+			</langUsage>
+			<textClass>
+				<keywords scheme="unknown">
+					<list>
+						<item></item>
+						<item></item>
+					</list>
+				</keywords>
+				<classCode scheme=""></classCode>
+				<catRef/>
+			</textClass>
+		</profileDesc>
+		<revisionDesc>
+			<change></change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<pb n="1R"/>
+				<p rend="align(right)"><placeName>New Orleans</placeName> <date>October 24<hi rend="sup">th</hi>&#47;63</date>.</p>
+				<p>To <addressee>Revd. Isaac Lesser</addressee></p>
+			<p rend="indent(1)">Editor &#8220;Occident&#8221;</p>
+			<p rend="indent(2)"><placeName>Philadelphia</placeName></p>
+				<p>Revd. Sir&#33;</p>
+			<p rend="indent(2)">Excuse my giving vent to painful feeling<lb/> which I can not restrain any longer.  Can a son be silent<lb/> when he sees his father slighted by one whose respect and<lb/> admiration he deserves&#63;  Remember Revd Sir&#44; how often<lb/> my venerable father appeared before the bar of public<lb/> opinion to advocate and defend you against the rude at&#61;<lb/>tacks of <persName>Dr. Wise</persName> &#38; Co.&#33;  Remember how often<lb/> my father proclaimed you in all the Jewish periodicals<lb/> as the only faithful advocate of true Judaism&#44; as the<lb/> restorer of our Religion and Gonfalonier<add>&#63;</add> of truth in this<lb/> country&#33;  But you have not a single word to say in<lb/> his favor&#44; when his enemies try to slander him by false<lb/> and unfounded reports.  You asked some time ago&#44; for the<lb/> reasons of his leaving <placeName>New Orleans</placeName>&#44; and I gave you<lb/> pure wine&#44; the pure truth&#44; without the least admixture<lb/> of untruth&#58; what did you however write about it&#63;  You only<lb/> heaped slander upon slander&#59; you wrote&#44; &#8220;you received a<lb/> communication in favor of <persName>Dr. Illowy</persName>&#44; but you have no<lb/> trust in it&#8221;&#44; this is the essence&#44; if not the words of your<lb/> report.  You have no trust in my father&#39;s good character&#44; &#40;may<lb/> I presume Revd Sir to inquire&#44; what is the cause of this doubt&#41;<lb/> though you had already been informed by the Secretary of<lb/> the Cong in <placeName>Cincinnati</placeName>&#44; that in spite of the malicious report</p>
+			<pb n="1V"/>
+				<p>published in the Deborah&#44; my father was unanimously&#44; not one<lb/> voice dissenting&#44; elected&#44; and not by vote but by acclamation.<lb/>  Why not one voice against him&#63;  Why so most honorably elected&#44;<lb/> Because the people in <placeName>Cincinnati</placeName> heard from most trustworthy<lb/> men from <placeName>New Orleans</placeName>&#44; that my father resigned his situa&#61;<lb/>tion for the only reason&#44; that he would not sell his conscience<lb/> for money.</p>
+			<p rend="indent(1)">You read the remarks of <persName>Revd. Isaacs</persName>&#59; still you<lb/> doubted.  It was not unknown to you that the friends of my<lb/> father in <placeName>New Orleans</placeName> had presented him when leaving this<lb/> City with a most costly silver pitcher and waiter&#59; still you<lb/> doubted&#44; ignoring all these evidences.  You know my father<lb/> since fifteen years&#44; you know him firm as a rock&#59; he never<lb/> changed or altered his principles from fear of losing or for the<lb/> sake of making money as your friends in <placeName>Hartford</placeName>&#44;<lb/> <placeName>Rochester</placeName> and other places have done.  No&#33;  My father<lb/> fears nothing&#44; he has his trust in God&#44; and when he trust&#61;<lb/>fully gave up his situation and my Dear mother lamented what<lb/> will we do now&#44; he said with <persName>King David</persName> <add>Hebrew</add><lb/> <add>Hebrew</add>.</p>
+			<p rend="indent(1)">Your remarks in the last number of the Occident did<lb/> not hurt neither me &#40;though I felt bad&#41; nor my honored fa&#61;<lb/>ther&#59; thank God&#44; he stands above the level of all his enemies<lb/> neither did they give you any credit for them<lb/> your best friends<lb/> blamed you and laughed at you saying&#58; &#8220;<persName>Mr <sic>Lesser</sic></persName> is afraid<lb/> of spoiling his game with either party&#44; especially with <persName>Gutheim</persName><lb/> though he is an <add>Hebrew</add>&#59; would <persName><sic>Lesser</sic></persName> be with twenty<lb/> years younger he would yet become the advocate of reform.</p>
+			<p rend="indent(1)">Let me ask you <persName>Mr<sic> Lesser</sic></persName>&#44; you congratulated <placeName>Hartford</placeName></p>
+			<pb n="2R"/>
+				<p>to the successful election of mayor&#44; <placeName>Rochester</placeName> of <persName>Grinsburg<add>&#63;</add></persName><lb/> <placeName>St Louis</placeName> of <persName>Vidaver</persName>&#44; though you know all these formen<lb/> well&#44; that they are men <add>Hebrew</add><lb/> <add>Hebrew</add>&#59; still you flattered these men&#44; promised the world a<lb/> great future which <sic>judaism</sic> had to expect from them&#44; and<lb/> how much good the respective congregations will derive from<lb/> the activity of these Rabbis.  You knew <persName>Vidaver</persName> better<lb/> than any man in <placeName>St. Louis</placeName>&#44; still you recommended him<lb/> as an <add>Hebrew</add>.  He is a strict <hi rend="underline">orthodox</hi><lb/> You had to advocate him.  Send your ears to <placeName>St. Louis</placeName> and<lb/> you will hear what he is&#59; a religion maker and a <add>Hebrew</add> he was<lb/> long ago for he fulfilled the word <add>Hebrew</add>.</p>
+			<p rend="indent(1)">How much had you to say and how much good did you promise<lb/> that the Cong. of <placeName>San Francisco</placeName> had to expect&#44; when they elected<lb/> <persName>Cohen</persName>&#44; who was well known as a <add>Hebrew</add>&#59; but you<lb/> had nothing&#44; not a single word to say when <persName>Dr. Illowy</persName> was elected<lb/> by the Cong. in <placeName>Cincinnati</placeName>&#44; and not alone that&#44; but in the secretary&#39;s<lb/> report published in your paper&#44; you malignantly left out the word<lb/> <hi rend="underline">&#8220;unanimously&#8221;</hi>.  You will find it in the &#8220;Messenger and Israelite&#44;&#8221;<lb/> and your remark on an other page was more slander than praise&#44;<lb/> it was such a praise as slanders bestow&#44; <add>Hebrew</add></p>
+			<p rend="indent(1)">Thank God my father is too well known in the old and<lb/> new word as to stand in need of the praise of <hi rend="underline">any</hi> american<lb/> journalist.</p>
+			<p rend="indent(1)">Yes my dear Sir&#44; if you had something to say against my<lb/> father&#44; you would be immediately at hand to condemn him or to<lb/> kindle the flame of discord against him.</p>
+			<p rend="indent(1)">When my father had the courage to declare a rich <add>Hebrew</add><lb/> you forgot yourself and dared set up your <sic>judgement</sic> against him.</p>
+			<pb n="2V"/>
+				<p>Still my father did not use the expression which <persName>Wise</persName><lb/> used several times against you and <persName>Isaacs</persName>&#59; my father is too<lb/> pious&#44; too honorable and too much of a gentleman.  It was<lb/> satisfaction enough for him if five <hi rend="underline">learned</hi> <sic>Rabbies</sic>&#44; the<lb/> greatest men in&#44; and the lights of&#44; <placeName>Israel</placeName>&#44; <persName>Seligman Bamberger</persName><lb/> of <placeName>W&#252;rzburg</placeName>&#44; <persName>Dr Hinsch</persName>&#44; <placeName><sic>Franfort</sic></placeName>&#44; <persName>Dr Lehman</persName> <placeName>Mainz</placeName><lb/> <persName>Dr Tilchenfeld</persName> <placeName>D&#252;sseldorf</placeName>&#44; and <persName>Dr Hildesheimer</persName> <placeName>Eisenstadt</placeName><lb/> all of them&#44; like one voice&#44; came out spontaneously&#44; without being<lb/> called upon&#44; and approved the action of my father in the most<lb/> laudable terms.</p>
+			<p rend="indent(1)">When my father wrote against the manufactory of <add>Hebrew</add>&#44; who<lb/> dared come out against him&#44; with argument founded not upon<lb/> <add>Hebrew</add>&#44; but upon &#8220;COMMON SENSE&#8221;&#8212;<persName>Isaac Lesser</persName>&#8221;.  Just as<lb/> if my father would be a thorn in your eye because he can say<lb/> with <persName>Elijah</persName> <add>Hebrew</add>&#59; because he is the only Ortho&#61;<lb/>dox <sic>Rabby</sic> in this country you would like to see him pushed<lb/> aside.  Oh&#33; great righteousness&#33;&#8212;</p>
+			<p rend="indent(1)">Believe me Sir&#44; that I am convinced that my worthy<lb/> father whom I expect home every day would not approve of<lb/> my letter&#44; for when he sent you just before leaving <placeName>N. O.</placeName><lb/> your &#36;20.00&#44; I told him to write you the cause of his<lb/> leaving <placeName>N. O.</placeName> since you once remarked that you would like<lb/> to know it&#44; he answered&#44; I do not wish to be heralded as <add>Hebrew</add><lb/> let the world think every one just as he pleases.  I however<lb/> can not see the man&#44; who pretends to be <add>the</add> advocate&#44; the champion<lb/> of Orthodoxy&#44; play a false game&#44; recommend <add>Hebrew</add> to orthodox<lb/> Congs. As if you would not know them better.</p>
+			<p rend="indent(1)">How great was your joy and hope when <persName>Cohen</persName> went to<lb/> <placeName>San Francisco</placeName>&#44; but you are stricken with blindness and deafness</p>
+			<pb n="3R"/>
+				<p>when you should come out with the truth.  I confess it&#44; that when<lb/> my father wrote us last week from <placeName>Cincinnati</placeName>&#59; that <persName>Dr. Wise</persName>&#44;<lb/> when seeing that the people in <placeName>Cincinnati</placeName> rush from all the Synagogues<lb/> to hear him and that the crowd in his synagogue is so great every<lb/> <date>Sabbath</date> that many must remain in the vestibule for want of room<lb/> within<del>g</del> and that his &#40;<persName>Wise&#39;s</persName>&#41; reports were declared&#44; by the most respectable<lb/> men of this city who passed through there&#44; as contrary to the truth<lb/> he began to make friendship with him and invited him to assist him<lb/> &#40;<persName>Dr. Wise</persName>&#41; in performing the marriage ceremonies at the wedding of his<lb/> daughter which will take place on the <date>1st.</date> inst. and which invitation<lb/> was accepted by my father should he be present in <placeName>Cincinnati</placeName>&#44; that<lb/> I thought at first of bringing this letter to your notice through<lb/> the columns of the Israelite&#44; but knowing that my father would<lb/> disapprove it&#44; for he never likes to come out publicly against any one&#44;<lb/> if it is only <add>Hebrew</add> and not for the sake of religion&#44; therefore<lb/> I took this method and speak to you like man to man.</p>
+			<p rend="indent(1)">Hoping that you may be able to answer satisfactorily<lb/> all these questions</p>
+			<p rend="indent(9)">I remain Revd Sir</p>
+			<p rend="indent(9)">your most obedient Servt.</p>
+			<p rend="indent(9)"><persName role="author">Henrry Illowy</persName></p>
+		</body>
+	</text>
+</TEI>

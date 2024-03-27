@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI [
+<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
+%teibase;
+<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
+%teiext;
+]>
+<TEI>
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>[no title given]</title>
+          <author attested="yes" accepted="yes" signature="yes">Jacobs, Henry S.</author>
+          <editor></editor>
+          <sponsor></sponsor>
+          <funder></funder>
+          <principal></principal>
+          <respStmt>
+            <resp></resp>
+            <name></name>
+          </respStmt>
+        </titleStmt>
+        <editionStmt>
+          <edition></edition>
+          <respStmt>
+            <resp></resp>
+            <name></name>
+          </respStmt>
+        </editionStmt>
+        <extent>[information about file size goes here, information about extent of physical item comes later]</extent>
+        <publicationStmt>
+          <publisher>Unpublished manuscript</publisher>
+        </publicationStmt>
+        <seriesStmt>
+          <p>Not part of a series</p>
+        </seriesStmt>
+        <notesStmt>
+          <note></note>
+        </notesStmt>
+        <sourceDesc>
+          <biblStruct>
+            <!-- catalog entry goes here -->
+            <monogr>
+              <imprint>
+                <dateLet></dateLet>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <msDesc>
+            <msIdentifier>
+              <country>USA</country>
+              <region>PA</region>
+              <settlement>Philadelphia</settlement>
+              <institution></institution>
+              <repository>CAJS Isaac Leeser Collection</repository>
+              <collection>The Library of the Dropsie College for Hebrew and Cognate Learning</collection>
+              <idno>LSDCBx1FF7_9</idno>
+              <altIdentifier>
+                <idno></idno>
+              </altIdentifier>
+              <msName></msName>
+            </msIdentifier>
+            <head></head>
+            <letHeading>
+              <author attested="yes" accepted="yes" signature="yes">Jacobs, Henry S.</author>
+              <addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac</addressee>
+              <deliverer></deliverer>
+              <respStmt>
+                <resp></resp>
+                <name></name>
+              </respStmt>
+              <placeLet>Kingston, Jamaica</placeLet>
+              <placeRec>Philadelphia, PA</placeRec>
+              <dateLet when="1850-04" source="" attested="unk">19 April 1850</dateLet>
+              <dateLet when="1850-04" source="" attested="yes">19 April 5610</dateLet>
+            </letHeading>
+            <msContents>
+              <msItem>
+                <author></author>
+                <editor></editor>
+                <respStmt>
+                  <resp></resp>
+                  <name></name>
+                </respStmt>
+                <title></title>
+                <decoNote></decoNote>
+                <listBibl>
+                  <bibl></bibl>
+                </listBibl>
+                <filiation></filiation>
+                <textLang></textLang>
+                <figure>
+                  <graphic url="ilcajs_b1f7_0009_1r.jpg"/>
+                  <graphic url="ilcajs_b1f7_0009_1v.jpg"/>
+                  <graphic url="ilcajs_b1f7_0009_2r.jpg"/>
+                </figure>
+              </msItem>
+            </msContents>
+            <physDesc>
+              <objectDesc>
+                <supportDesc>
+                  <support>
+                    <material color="" lined="false" paper_type="" size="">letter</material>
+                  </support>
+                  <extent>3 pages on 2 sheets
+                    <dimensions></dimensions>
+                  </extent>
+                  <foliation></foliation>
+                  <collation></collation>
+                  <condition fragment="false"></condition>
+                </supportDesc>
+                <layoutDesc>
+                  <layout></layout>
+                </layoutDesc>
+              </objectDesc>
+              <handDesc script="manuscript">
+                  <handNote></handNote>
+              </handDesc>
+              <decoDesc>
+                <decoNote></decoNote>
+              </decoDesc>
+              <additions></additions>
+              <bindingDesc>
+                <binding>
+                  <decoNote></decoNote>
+                </binding>
+              </bindingDesc>
+              <sealDesc>
+                <seal>
+                  <p></p>
+                </seal>
+              </sealDesc>
+              <accMat></accMat>
+              <envDesc occ="false"></envDesc>
+            </physDesc>
+            <history>
+              <origin></origin>
+              <provenance></provenance>
+              <acquisition></acquisition>
+            </history>
+            <additional>
+              <adminInfo>
+                <recordHist>
+                  <source></source>
+                  <change></change>
+                </recordHist>
+                <availability status="free">
+                  <p>Unrestricted</p>
+                </availability>
+                <custodialHist>
+                  <custEvent></custEvent>
+                </custodialHist>
+              </adminInfo>
+              <surrogates></surrogates>
+              <listBibl>
+                <bibl></bibl>
+              </listBibl>
+            </additional>
+            <msPart>
+              <altIdentifier>
+                <idno></idno>
+              </altIdentifier>
+            </msPart>
+          </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <projectDesc>
+          <p></p>
+        </projectDesc>
+        <samplingDecl>
+          <p></p>
+        </samplingDecl>
+        <editorialDecl>
+          <correction>
+            <p></p>
+          </correction>
+          <normalization>
+            <p></p>
+          </normalization>
+          <quotation>
+            <p></p>
+          </quotation>
+          <hyphenation>
+            <p></p>
+          </hyphenation>
+          <segmentation>
+            <p></p>
+          </segmentation>
+          <stdVals>
+            <p></p>
+          </stdVals>
+          <interpretation>
+            <p></p>
+          </interpretation>
+        </editorialDecl>
+        <tagsDecl>
+          <rendition></rendition>
+          <namespace name="http://www.tei-c.org/ns/1.0">
+            <tagUsage gi=""></tagUsage>
+          </namespace>
+        </tagsDecl>
+        <refsDecl>
+          <cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
+        </refsDecl>
+        <refsDecl>
+          <refState unit=""/>
+        </refsDecl>
+        <classDecl>
+          <taxonomy>
+            <category>
+              <catDesc></catDesc>
+            </category>
+          </taxonomy>
+        </classDecl>
+        <appInfo>
+          <application ident="" version="">
+            <desc></desc>
+            <label></label>
+          </application>
+        </appInfo>
+      </encodingDesc>
+      <profileDesc>
+        <creation></creation>
+        <langUsage>
+          <language ident="en">English</language>
+          <language ident="he">Hebrew</language>
+        </langUsage>
+        <textClass>
+          <keywords scheme="unknown">
+            <list>
+              <item></item>
+              <item></item>
+            </list>
+          </keywords>
+          <classCode scheme=""></classCode>
+          <catRef/>
+        </textClass>
+      </profileDesc>
+      <revisionDesc>
+        <change></change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+      
+		<pb n="1"/>
+			<p rend="align(right)"><placeName>Kingston Jamaica</placeName></p>
+			<p rend="align(right)"><date>19<hi rend="sup">th</hi> April 5610</date>.</p>
+			<p>My dear Sir&#44;</p>
+          <p rend="indent(2)">I duly received the<lb/> two parcels containing the <date>Jany</date>. <date>Feby</date><lb/> &#38; <date>March</date> Nos. of the &#8220;Occident&#8221; to&#45;<lb/>&#61;gether with your communications<lb/> accompanying them. I have col&#61;<lb/>&#61;lected the subscriptions and paid<lb/> your draft on me in favor of &#8220;<persName>Miss<lb/> Peixotto</persName>. The <persName>Revd. Mr. Jacob</persName> has<lb/> declined continuing as a subscriber on<lb/> the plea &#8220;that the Occident was of<lb/> &#8220;no use to him.&#8221; I have however<lb/> to request that you will still send<lb/> over the same quantity having<lb/> procured another subscriber &#40;<persName>Mr. J M<lb/> Lawrence</persName>&#41; who also requiring the 5th<lb/> 6<hi rend="sup">th</hi> &#38; 7<hi rend="sup">th</hi> volumes <hi rend="underline">Bound</hi>. Be good<lb/> enough to let me know the cost<lb/> thereof.</p>
+          <p rend="indent(2)">You are aware of <persName>Mr. Nathans</persName><lb/> appointment as <add>Hebrew</add> of <placeName>New Orleans</placeName></p>
+		<pb n="2"/>
+			<p>for which city he will leave on<lb/> <date>Sunday Evening the 21<hi rend="sup">st</hi></date> in the &#8220;Great<lb/> Western&#8221; via <placeName><sic>Havanna</sic></placeName>. I have<lb/> resigned the mastership of the<lb/> Hebrew National Institution&#44; and<lb/> taken the Academy of <persName>Mr. N</persName> who<lb/> has kindly handed it over to me<lb/> since the <date>1<hi rend="sup">st</hi> April</date>. In consequence<lb/> of this step&#44; I must&#44; &#40;for the present<lb/> at least&#41;&#8212;abandon the idea of<lb/> quitting <placeName>Jamaica</placeName>. Notwithstanding&#44;&#8212;<lb/> my sincere thanks are due to you<lb/> for the kind attention you have<lb/> shown in furnishing me with<lb/> confirmation and advice&#44; relative to<lb/> ministerial situations in the <placeName>U. S.</placeName><lb/> I have devoted my entire attention<lb/> to the Portuguese Minhag&#44; and&#44; without<lb/> vanity I have profited so well by<lb/> <persName>Hasan Lopez&#39;s</persName> tuition<add>&#63;</add> that no one<lb/> would believe that I had been<lb/> attached to a German Congregation. Of<lb/> course&#44; I officiate as a Portuguese Hazan<lb/> in <placeName>Spanish Town</placeName>&#44; from which congregation<lb/> I have received several addresses &#38;</p>
+		<pb n="3"/>
+			<p>testimonials&#44; <add>&#63;</add> <hi rend="underline">two</hi> from the<lb/> Director of the Hebrew National Insti&#61;<lb/>&#61;tution since my resignation.</p>
+          <p rend="indent(1)">Synagogue affairs in <placeName>Jamaica</placeName><lb/>&#8212;I regret to state&#8212;are not in a<lb/> flourishing condition. There seems<lb/> to be a feeling rising in <placeName>Falmouth</placeName><lb/> to establish a synagogue there. The<lb/> Jewish Community in that town numbers<lb/> about Seventy Souls who are&#44; with<lb/> scarcely an exception&#44; in good circum&#61;<lb/>&#61;stances. Perhaps you will lend your<lb/> pen towards stimulating them in the<lb/> &#8220;good <sic>cauce</sic>.&#8221;</p>
+          <p rend="indent(1)">The administration for the<lb/> &#8220;School&#8221; lately elected is</p>
+			<list type="simple">
+			<head></head>
+			  <item rend="indent(2)"><persName>P Laurence</persName>&#160;&#160;&#160;President</item>
+			  <item rend="indent(2)"><persName>G Delgado</persName>&#160;&#160;&#160;Vice</item>
+			  <item rend="indent(2)"><persName>Alex Aria</persName>&#160;&#160;&#160;&#160;&#160;Treas.</item>
+			</list>
+			<p></p>
+          <p rend="indent(1)">The number of Directors not being<lb/> yet complete&#44; I am unable to send<lb/> you a perfect list. I will however<lb/> do so at a future period &#40;Dr.&#41;</p>
+          <p rend="indent(5)">With best wishes.</p>
+          <p rend="indent(6)">Believe me</p>
+          <p rend="indent(7)">Yours Very Truly</p>
+          <p rend="indent(7)"><persName role="author">Henry S. Jacobs</persName>.</p>
+          
+        </body>
+    </text>
+</TEI>

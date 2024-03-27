@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI [
+<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
+%teibase;
+<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
+%teiext;
+]>
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>[no title given]</title>
+				<author attested="yes" accepted="yes" signature="yes">Wurmser, B.</author>
+				<editor></editor>
+				<sponsor></sponsor>
+				<funder></funder>
+				<principal></principal>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition></edition>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</editionStmt>
+			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
+			<publicationStmt>
+				<publisher>Unpublished manuscript</publisher>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Not part of a series</p>
+			</seriesStmt>
+			<notesStmt>
+				<note></note>
+			</notesStmt>
+			<sourceDesc>
+				<biblStruct>
+					<!-- catalog entry goes here -->
+					<monogr>
+						<imprint>
+							<dateLet></dateLet>
+						</imprint>
+					</monogr>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<country>USA</country>
+						<region>PA</region>
+						<settlement>Philadelphia</settlement>
+						<institution></institution>
+						<repository>LSKAP</repository>
+						<collection>The Arnold and Deanne Kaplan Collection of Early American Judaica</collection>
+						<idno>LSKAP0094</idno>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+						<msName></msName>
+					</msIdentifier>
+					<head></head>
+					<letHeading>
+						<author attested="yes" accepted="yes" signature="yes">Wurmser, B.</author>
+						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac</addressee>
+						<deliverer></deliverer>
+						<respStmt>
+							<resp></resp>
+							<name></name>
+						</respStmt>
+						<placeLet>Boston, MA</placeLet>
+						<placeRec>Philadelphia, PA</placeRec>
+						<dateLet when="1848-05" source="" attested="yes">May 14, 1848</dateLet>
+					</letHeading>
+					<msContents>
+						<msItem>
+							<author></author>
+							<editor></editor>
+							<respStmt>
+								<resp></resp>
+								<name></name>
+							</respStmt>
+							<title></title>
+							<decoNote></decoNote>
+							<listBibl>
+								<bibl></bibl>
+							</listBibl>
+							<filiation></filiation>
+							<textLang></textLang>
+							<figure>
+								<graphic url="LSKAP0094_1R.jpg"></graphic>
+								<graphic url="LSKAP0094_1V.jpg"></graphic>
+								<graphic url="LSKAP0094_2V.jpg"></graphic>
+							</figure>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support>
+									<material color="" lined="false" paper_type="" size="">letter</material>
+								</support>
+								<extent>4 pages on 2 sheets
+									<dimensions></dimensions>
+								</extent>
+								<foliation></foliation>
+								<collation></collation>
+								<condition fragment="false"></condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout></layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc script="manuscript">
+							<handNote></handNote>
+						</handDesc>
+						<decoDesc>
+							<decoNote></decoNote>
+						</decoDesc>
+						<additions></additions>
+						<bindingDesc>
+							<binding>
+								<decoNote></decoNote>
+							</binding>
+						</bindingDesc>
+						<sealDesc>
+							<seal>
+								<p></p>
+							</seal>
+						</sealDesc>
+						<accMat></accMat>
+						<envDesc occ="false"></envDesc>
+					</physDesc>
+					<history>
+						<origin></origin>
+						<provenance></provenance>
+						<acquisition></acquisition>
+					</history>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source></source>
+								<change></change>
+							</recordHist>
+							<availability status="restricted">
+								<p>Restricted</p>
+							</availability>
+							<custodialHist>
+								<custEvent></custEvent>
+							</custodialHist>
+						</adminInfo>
+						<surrogates></surrogates>
+						<listBibl>
+							<bibl></bibl>
+						</listBibl>
+					</additional>
+					<msPart>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+					</msPart>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p></p>
+			</projectDesc>
+			<samplingDecl>
+				<p></p>
+			</samplingDecl>
+			<editorialDecl>
+				<correction>
+					<p></p>
+				</correction>
+				<normalization>
+					<p></p>
+				</normalization>
+				<quotation>
+					<p></p>
+				</quotation>
+				<hyphenation>
+					<p></p>
+				</hyphenation>
+				<segmentation>
+					<p></p>
+				</segmentation>
+				<stdVals>
+					<p></p>
+				</stdVals>
+				<interpretation>
+					<p></p>
+				</interpretation>
+			</editorialDecl>
+			<tagsDecl>
+				<rendition></rendition>
+				<namespace name="http://www.tei-c.org/ns/1.0">
+					<tagUsage gi=""></tagUsage>
+				</namespace>
+			</tagsDecl>
+			<refsDecl>
+				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
+			</refsDecl>
+			<refsDecl>
+				<refState unit=""/>
+			</refsDecl>
+			<classDecl>
+				<taxonomy>
+					<category>
+						<catDesc></catDesc>
+					</category>
+				</taxonomy>
+			</classDecl>
+			<appInfo>
+				<application ident="" version="">
+					<desc></desc>
+					<label></label>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<creation></creation>
+			<langUsage>
+				<language ident="en">English</language>
+				<language ident="de">German</language>
+				<language ident="he">Hebrew</language>
+			</langUsage>
+			<textClass>
+				<keywords scheme="unknown">
+					<list>
+						<item></item>
+						<item></item>
+					</list>
+				</keywords>
+				<classCode scheme=""></classCode>
+				<catRef/>
+			</textClass>
+		</profileDesc>
+		<revisionDesc>
+			<change></change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<pb n="1R"/>
+				<p><addressee>Herrn I. Leeser</addressee> Wehlges.<add>&#63;</add> <placeName>Philadelphia</placeName></p>
+			<p rend="align(right)"><placeName>Boston</placeName>&#44; <date>Mai 15<hi rend="sup">th</hi> 1848</date>.</p>
+				<p>Eine Krankheit&#44; von welcher ich erst seit kurzem<lb/> ge<add>&#63;</add>&#44; hielt mich bis jetzt ab&#44; an Sie zu<lb/> schreiben.  Sehr Wichtiges hat sich bei aus hier<lb/> nicht zu getragen.  Bei der am <date>23ten April</date> Stahl<lb/> gehabten General Meeting wurden folgende Offs.<lb/> gew&#228;hlt&#58; <persName>Mr. M. Ehrlich</persName> Pres&#58; <persName>H. P. Spitz</persName> vice<lb/> Pres&#58; &#38; Treasurer&#44; <persName>G. W. Rosenfeld</persName>&#44; <persName>S. M. Peyser</persName>&#44; <persName>M.<lb/> Baiersdorfer</persName> &#38; <persName>M. Distiker</persName> <del>Trus</del> &#38; <persName>H. Selling</persName><lb/> Trustees &#38; endlich <persName role="author">B. Wurmser</persName> Secretary.  Mehrere<lb/> Mitglieder <add>&#63;</add>ver Gemeinde brachten die Einf&#252;hrung<lb/> des 3 j&#228;hrigen <add>&#63;</add> in Verschlag&#44; wer an sich<lb/> nat&#252;rlich die <add>&#63;</add> hoffung der 2 ten Feiertage<lb/> und andere Reformen k<add>&#63;</add>sen.  Dieses rief&#44;<lb/> wie zu erwarten&#44; scharfe debatten&#44; besonders von<lb/> Seite der &#8222;<hi rend="underline">Nichtdeutschen</hi>&#8221; herbei&#59; doch glaube<lb/> ich&#44; da&#223; besagter Plan bei n&#228;chster G. M.<lb/> &#40;am <date>2 ten July</date>&#41; durchgeht.  <del>In</del> Meine &#8222;Religions&#44;<lb/>schule.&#8221; schreitet ziemlich gut voran.  Seit 4<lb/> Wochen haben wir&#44; durch die g&#252;tige Mitwirk&#44;<lb/>ung einer Dame&#44; <persName>Miss Lazarus</persName> eine <del>Sett</del> Sunday<lb/> School&#44; von die wir nur Alle sehr viel<lb/> Gutes versprechen&#59; indem genannte Dame&#44; durch<lb/> gute kentnisse<add>&#63;</add>&#44; verbunden mit dem besten</p>
+			<pb n="1V"/>
+				<p>israelitischen Herzen &#38; einer besondere Vorliebe<lb/> zum Lehrberufe&#44; zu den besten Erwartungen<lb/> berechtigt.  M&#246;ge der herr ihr Beginnen sogare&#44;<lb/> und die von ihr aus zu streute Saat&#44; in den<lb/> Herzen unsere Kinder zur erquickenden Frucht<lb/> empor reifen lassen.  Gestern hielt <add>&#63;</add>&#8222; Ladies<lb/> hebrew Benevolent Society &#8220;<add>Hebrew</add>&#8221; G. M. &#40;dieselbe<lb/> besteht gerade 1 Jahr&#44; und ward<add>&#63;</add> von mir ins Leben<lb/> gerufen&#41; <persName>Mr. B Fox</persName> wart Pres. <persName>Mr. L. Lewingood</persName><lb/> vice Pr&#58; &#38; Treasurer&#44; <persName role="author">B. Wurmser</persName> Secrt.</p>
+			<p rend="indent(1)">Apropos&#8212;Wie keks mit ihren <add>Hebrew</add> according<lb/> the <add>Hebrew</add> of German Jew&#39;s&#63;  Ich erwarte solche sehnlichst<lb/> &#38; senden Sie mir direct noch Weltendung derselben<lb/> 10 St&#252;ck &#38; versteht sich von selbst 1 Frei Exem&#44;<lb/>plar.  Sie verga&#223;en&#44; bei den mir gesandten<lb/> Catechisms for younger children Ihre Rechnung<lb/> beizuf&#252;gen.  Senden Sie mir umgehend weitere<lb/> 3 Exemplare mit Rechnung f&#252;r Alle 6.</p>
+				<p>Wenn Sie <add>Hebrew</add> b&#252;chlein haben&#44; so m&#246;chte ich Sie<lb/> <add>&#63;</add>&#44; mir 6 St&#252;ck mitzusenden&#44; wo nicht&#44;<lb/> so zeigen Sie gef. an&#44; wo ich solche bekommen<lb/> kann.  So viel f&#252;r heute&#44; sp&#228;ter mehr<lb/> von Ihrem Freunde</p>
+			<p rend="indent(11)"><persName role="author">B. Wurmser</persName></p>
+			<p rend="indent(10)"><placeName>No 8 Pleasant St. Court</placeName>.</p>
+				<p>P.S. </p>
+				<p>I expect the Books by<lb/> <persName>Harnden&#39;s &#38; Cos.</persName> Express<lb/> in short time.</p>
+			<pb n="2V"/>
+				<p rend="align(center)"><addressee>Rev. I. Leeser</addressee></p>
+				<p rend="align(center)">Editor of <del>&#63;</del> Occident</p>
+				<p rend="align(center)indent(1)"><placeName>Philadelphia</placeName></p>
+				<p rend="align(center)indent(2)"><placeName>Pa.</placeName></p>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI [
+<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
+%teibase;
+<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
+%teiext;
+]>
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>[no title given]</title>
+				<author attested="yes" accepted="yes" signature="yes">Kohn, A.</author>
+				<editor></editor>
+				<sponsor></sponsor>
+				<funder></funder>
+				<principal></principal>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition></edition>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</editionStmt>
+			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
+			<publicationStmt>
+				<publisher>Unpublished manuscript</publisher>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Not part of a series</p>
+			</seriesStmt>
+			<notesStmt>
+				<note></note>
+			</notesStmt>
+			<sourceDesc>
+				<biblStruct>
+					<!-- catalog entry goes here -->
+					<monogr>
+						<imprint>
+							<dateLet></dateLet>
+						</imprint>
+					</monogr>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<country>USA</country>
+						<region>PA</region>
+						<settlement>Philadelphia</settlement>
+						<institution></institution>
+						<repository>LSKAP</repository>
+						<collection>The Arnold and Deanne Kaplan Collection of Early American Judaica</collection>
+						<idno>LSKAP0024</idno>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+						<msName></msName>
+					</msIdentifier>
+					<head></head>
+					<letHeading>
+						<author attested="yes" accepted="yes" signature="yes">Kohn, A.</author>
+						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac</addressee>
+						<deliverer></deliverer>
+						<respStmt>
+							<resp></resp>
+							<name></name>
+						</respStmt>
+						<placeLet>New York, NY</placeLet>
+						<placeRec>Philadelphia, PA</placeRec>
+						<dateLet when="1849-09" source="" attested="yes">Sept 23, 1849</dateLet>
+					</letHeading>
+					<msContents>
+						<msItem>
+							<author></author>
+							<editor></editor>
+							<respStmt>
+								<resp></resp>
+								<name></name>
+							</respStmt>
+							<title></title>
+							<decoNote></decoNote>
+							<listBibl>
+								<bibl></bibl>
+							</listBibl>
+							<filiation></filiation>
+							<textLang></textLang>
+							<figure>
+								<graphic url="LSKAP0024_1R.jpg"></graphic>
+								<graphic url="LSKAP0024_1V.jpg"></graphic>
+								<graphic url="LSKAP0024_2R.jpg"></graphic>
+								<graphic url="LSKAP0024_2V.jpg"></graphic>
+							</figure>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support>
+									<material color="" lined="false" paper_type="" size="">letter</material>
+								</support>
+								<extent>4 pages on 2 sheets
+									<dimensions></dimensions>
+								</extent>
+								<foliation></foliation>
+								<collation></collation>
+								<condition fragment="false"></condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout></layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc script="manuscript">
+							<handNote></handNote>
+						</handDesc>
+						<decoDesc>
+							<decoNote></decoNote>
+						</decoDesc>
+						<additions></additions>
+						<bindingDesc>
+							<binding>
+								<decoNote></decoNote>
+							</binding>
+						</bindingDesc>
+						<sealDesc>
+							<seal>
+								<p></p>
+							</seal>
+						</sealDesc>
+						<accMat></accMat>
+						<envDesc occ="false"></envDesc>
+					</physDesc>
+					<history>
+						<origin></origin>
+						<provenance></provenance>
+						<acquisition></acquisition>
+					</history>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source></source>
+								<change></change>
+							</recordHist>
+							<availability status="restricted">
+								<p>Restricted</p>
+							</availability>
+							<custodialHist>
+								<custEvent></custEvent>
+							</custodialHist>
+						</adminInfo>
+						<surrogates></surrogates>
+						<listBibl>
+							<bibl></bibl>
+						</listBibl>
+					</additional>
+					<msPart>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+					</msPart>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p></p>
+			</projectDesc>
+			<samplingDecl>
+				<p></p>
+			</samplingDecl>
+			<editorialDecl>
+				<correction>
+					<p></p>
+				</correction>
+				<normalization>
+					<p></p>
+				</normalization>
+				<quotation>
+					<p></p>
+				</quotation>
+				<hyphenation>
+					<p></p>
+				</hyphenation>
+				<segmentation>
+					<p></p>
+				</segmentation>
+				<stdVals>
+					<p></p>
+				</stdVals>
+				<interpretation>
+					<p></p>
+				</interpretation>
+			</editorialDecl>
+			<tagsDecl>
+				<rendition></rendition>
+				<namespace name="http://www.tei-c.org/ns/1.0">
+					<tagUsage gi=""></tagUsage>
+				</namespace>
+			</tagsDecl>
+			<refsDecl>
+				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
+			</refsDecl>
+			<refsDecl>
+				<refState unit=""/>
+			</refsDecl>
+			<classDecl>
+				<taxonomy>
+					<category>
+						<catDesc></catDesc>
+					</category>
+				</taxonomy>
+			</classDecl>
+			<appInfo>
+				<application ident="" version="">
+					<desc></desc>
+					<label></label>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<creation></creation>
+			<langUsage>
+				<language ident="en">English</language>
+				<language ident="he">Hebrew</language>
+			</langUsage>
+			<textClass>
+				<keywords scheme="unknown">
+					<list>
+						<item></item>
+						<item></item>
+					</list>
+				</keywords>
+				<classCode scheme=""></classCode>
+				<catRef/>
+			</textClass>
+		</profileDesc>
+		<revisionDesc>
+			<change></change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<pb n="1R"/>
+				<p><addressee>Rev. Mr I. Leeser</addressee>&#44; <placeName>Philadelphia</placeName></p>
+			<p rend="indent(3)"><placeName>New York</placeName> <date>Sept 23th 1849</date></p>
+				<p>Sir&#33;</p>
+			<p rend="indent(2)">It is a long time since I wanted to write to<lb/> you&#44; but circumstances of different nature prevented<lb/> me from doing so.  Being in this City for the<lb/> purpose of buying goods for fall trade&#44; I take to<lb/> day an hour to communicate with you.</p>
+			<p rend="indent(2)">I am sorry&#44; that I never could have the<lb/> pleasure of having a personal acquaintance with you<lb/> but as the old saying is&#44; by your works you shall<lb/> be known&#44; namely being a reader of your Occident<lb/> for the last 4 years&#44; I know you pretty near as well.<lb/>  For my part I confess to you I take pride in being<lb/> a descendant of our <sic>comon</sic> grandfather <persName>Jacob</persName>&#44; I feel<lb/> gratification in reading your Periodical&#44; &#38; the stand you<lb/> have taken in the <sic>defence</sic> of our holy Religion against<lb/> trespassers from amongst ourselves&#44; &#38; its columinators<lb/> from without.  I admire your perseverance &#38; <del>eng</del> energy<lb/> in pursuing your work for the welfare of <placeName>Israel</placeName>&#44; &#38; most<lb/> of all&#44; the adherency to one &#38; the same tendency of your<lb/> writings&#44; the looking ahead to the one glorious end of<lb/> enlightening our brethren in the sublime system of the<lb/> Mosaic law &#38; precepts&#44; as handed down to us by our forefathers<lb/> it being our duty&#44; to transmit the same to the next<lb/> generation unimpaired&#44; not <sic>modelled</sic>&#44; but remaining<lb/> the same&#44; as the God who gave it&#44; to the last end of time&#44;</p>
+			<pb n="1V"/>
+			<p rend="indent(2)">Being a German myself&#44; I am sorry to<lb/> confess&#44; that there is amongst that portion of <add>Hebrew</add> from<lb/> our Fatherland who are of the middle age very little<lb/> Intelligence or any wish at all to read a religious paper<lb/> or your work might have done more good already.</p>
+			<p rend="indent(2)">The younger portion&#44; those from 18<add>&#63;</add>&#8212;to 30<lb/> mostly think themselves Philosophers&#44; every one thinks<lb/> himself a great man&#44; what do we care about Religion<lb/> be a Gentleman&#44; make money&#44; &#38; mockery at those<lb/> who hold fast to the <sic>tenents</sic> of our holy Law&#44; most<lb/> of them ashamed to own themselves Jews&#44; &#38; here you<lb/> have got a Picture of the fathers of our next generation<lb/> to come.  Our rich men&#44; our men of Capital what<lb/> are they doing for the cause of Religion&#63;  They give<lb/> a 100 or so for to build a new Synagogue&#44; another<lb/> 100 towards benevolent purposes&#44; &#38; here is an end of it.</p>
+			<p rend="indent(2)">What will Judaism be in 50 years<lb/> in the great Republic&#44; if the mind of those young<lb/> would be Philosophers&#44; if the <sic>indifferentisness</sic> of our<lb/> rich men towards our holy law&#44; if the unintelligence<lb/> of the masses of the Jews is not aroused&#44; &#38; the<lb/> question agitated&#44; have we no other duty to perform<lb/> towards our almighty Father&#44; but to pray on <add>Hebrew</add><lb/> in the Synagogue&#44; pay a few Dollars for maintaining<lb/> the Congregation &#38; charitable Society&#44; &#38; then leave<lb/> the whole system to itself&#59;&#8212;</p>
+			<pb n="2R"/>
+			<p rend="indent(1)">Is the reform of our service in the Synagogue<lb/> all we can do&#44; to transmit our holy Law to generations<lb/> to come&#63;  Is it not necessary first to impress each &#38; every<lb/> one that the great gift of our heavenly Father the <add>Hebrew</add><lb/> should be strictly kept&#63;  Shall we not have a Union<lb/> of all the Congregations of the <placeName>U. S.</placeName> to contribute all<lb/> for the erection of a Jewish University &#38; seats of<lb/> learning&#44; to educate ministers teachers &#38; readers&#63;<lb/>  Should we not have a Jewish Hospital in the City<lb/> of <placeName>N York</placeName>&#44; paid &#38; kept by the Contributions of all the<lb/> Jews of the <placeName>U. States</placeName>&#63;  Could we not have <date>Sabbath</date><lb/> <sic>shool</sic> Societies in each &#38; ever congregation in the Land<lb/> as well as the Methodists&#63; &#8212;</p>
+			<p rend="indent(1)">Those were some of my ideas&#44; my friend&#44; when<lb/> I took the pen to write to you&#44; &#38; I hope that you will<lb/> excuse a layman for meddling in religious concerns&#44; which<lb/> belong more to the minister in the pulpit&#44; but I could<lb/> not forbear to write them down&#44; &#38; let you peruse them.<lb/>  Now to business of mine.  Those <add>Hebrew</add> you once<lb/> wrote to me of having send the <sic>trough</sic> a house in this<lb/> city &#38; another in <placeName>Chicago</placeName>&#44;  I never received&#44; please<lb/> to inquire about them&#44; or give me orders&#44; where to make<lb/> inquiry here.  I shall stay here about a fortnight longer<lb/> &#38; be pleased to tell me&#44; how much <persName>I Kohn &#38; Bros</persName><lb/> are in your debt for Occident&#44; I have once remitted<lb/> to you &#61; Ten Dollars.  I shall afford me<lb/> pleasure to receive a line or two from you&#44; meanwhile<lb/> I have the honor to remain respectfully <persName role="author">A Kohn</persName><lb/> from <placeName>Chicago</placeName> care of <persName>Schloss Heilbronn</persName> <placeName>47 Norfolk<lb/> str N. York</placeName></p>
+			<pb n="2V"/>
+				<p>paid</p>
+			<p rend="indent(3)"><addressee>Rev. I Leeser</addressee></p>
+			<p rend="indent(4)">Editor of the Occident&#44;</p>
+			<p rend="indent(5)"><placeName>Philadelphia</placeName></p>
+			<p rend="indent(6)"><placeName>Pa</placeName></p>
+		</body>
+	</text>
+</TEI>

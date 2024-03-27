@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI [
+<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
+%teibase;
+<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
+%teiext;
+]>
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>[no title given]</title>
+				<author attested="yes" accepted="yes" signature="yes">S. J.</author>
+				<editor></editor>
+				<sponsor></sponsor>
+				<funder></funder>
+				<principal></principal>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition></edition>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</editionStmt>
+			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
+			<publicationStmt>
+				<publisher>Unpublished manuscript</publisher>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Not part of a series</p>
+			</seriesStmt>
+			<notesStmt>
+				<note></note>
+			</notesStmt>
+			<sourceDesc>
+				<biblStruct>
+					<!-- catalog entry goes here -->
+					<monogr>
+						<imprint>
+							<dateLet></dateLet>
+						</imprint>
+					</monogr>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<country>USA</country>
+						<region>PA</region>
+						<settlement>Philadelphia</settlement>
+						<institution></institution>
+						<repository>LSKAP</repository>
+						<collection>The Arnold and Deanne Kaplan Collection of Early American Judaica</collection>
+						<idno>LSKAP0120</idno>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+						<msName></msName>
+					</msIdentifier>
+					<head></head>
+					<letHeading>
+						<author attested="yes" accepted="yes" signature="yes">S. J.</author>
+						<addressee editor="true" attested="yes" accepted="yes"></addressee>
+						<deliverer></deliverer>
+						<respStmt>
+							<resp></resp>
+							<name></name>
+						</respStmt>
+						<placeLet>New York, NY</placeLet>
+						<placeRec>Philadelphia, PA</placeRec>
+						<dateLet when="1858-02" source="" attested="yes">February 1858</dateLet>
+						<dateLet when="1858-02" source="" attested="yes">Adar 5618</dateLet>
+					</letHeading>
+					<msContents>
+						<msItem>
+							<author></author>
+							<editor></editor>
+							<respStmt>
+								<resp></resp>
+								<name></name>
+							</respStmt>
+							<title></title>
+							<decoNote></decoNote>
+							<listBibl>
+								<bibl></bibl>
+							</listBibl>
+							<filiation></filiation>
+							<textLang></textLang>
+							<figure>
+								<graphic url="LSKAP0120_1r.jpg"></graphic>
+								<graphic url="LSKAP0120_2r.jpg"></graphic>
+								<graphic url="LSKAP0120_3r.jpg"></graphic>
+								<graphic url="LSKAP0120_4r.jpg"></graphic>
+							</figure>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support>
+									<material color="" lined="true" paper_type="" size="">letter</material>
+								</support>
+								<extent>2 pages on 1 sheet
+									<dimensions></dimensions>
+								</extent>
+								<foliation></foliation>
+								<collation></collation>
+								<condition fragment="false"></condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout></layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc script="manuscript">
+							<handNote></handNote>
+						</handDesc>
+						<decoDesc>
+							<decoNote></decoNote>
+						</decoDesc>
+						<additions></additions>
+						<bindingDesc>
+							<binding>
+								<decoNote></decoNote>
+							</binding>
+						</bindingDesc>
+						<sealDesc>
+							<seal>
+								<p></p>
+							</seal>
+						</sealDesc>
+						<accMat></accMat>
+						<envDesc occ="false"></envDesc>
+					</physDesc>
+					<history>
+						<origin></origin>
+						<provenance></provenance>
+						<acquisition></acquisition>
+					</history>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source></source>
+								<change></change>
+							</recordHist>
+							<availability status="restricted">
+								<p>Restricted</p>
+							</availability>
+							<custodialHist>
+								<custEvent></custEvent>
+							</custodialHist>
+						</adminInfo>
+						<surrogates></surrogates>
+						<listBibl>
+							<bibl></bibl>
+						</listBibl>
+					</additional>
+					<msPart>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+					</msPart>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p></p>
+			</projectDesc>
+			<samplingDecl>
+				<p></p>
+			</samplingDecl>
+			<editorialDecl>
+				<correction>
+					<p></p>
+				</correction>
+				<normalization>
+					<p></p>
+				</normalization>
+				<quotation>
+					<p></p>
+				</quotation>
+				<hyphenation>
+					<p></p>
+				</hyphenation>
+				<segmentation>
+					<p></p>
+				</segmentation>
+				<stdVals>
+					<p></p>
+				</stdVals>
+				<interpretation>
+					<p></p>
+				</interpretation>
+			</editorialDecl>
+			<tagsDecl>
+				<rendition></rendition>
+				<namespace name="http://www.tei-c.org/ns/1.0">
+					<tagUsage gi=""></tagUsage>
+				</namespace>
+			</tagsDecl>
+			<refsDecl>
+				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
+			</refsDecl>
+			<refsDecl>
+				<refState unit=""/>
+			</refsDecl>
+			<classDecl>
+				<taxonomy>
+					<category>
+						<catDesc></catDesc>
+					</category>
+				</taxonomy>
+			</classDecl>
+			<appInfo>
+				<application ident="" version="">
+					<desc></desc>
+					<label></label>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<creation></creation>
+			<langUsage>
+				<language ident="en">English</language>
+				<language ident="he">Hebrew</language>
+			</langUsage>
+			<textClass>
+				<keywords scheme="unknown">
+					<list>
+						<item></item>
+						<item></item>
+					</list>
+				</keywords>
+				<classCode scheme=""></classCode>
+				<catRef/>
+			</textClass>
+		</profileDesc>
+		<revisionDesc>
+			<change></change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<pb n="1R"/>
+				<p rend="align(center)"><hi rend="underline">The Hazan</hi></p>
+				<p>A<add>&#63;</add> Editor</p>
+			<p rend="indent(2)">In your last number there appeared a<lb/> communication signed by the high sounding and bombastic<lb/> title of &#8220;<hi rend="underline">A Reader and Preacher indeed</hi>&#8221;&#44; <del>who</del> the writer of which after asking<lb/> your pardon for <sic>recomending</sic> to <persName>S. A.</persName> certain Optical Instruments&#44;<lb/> proceeds most learnedly &#40;as <hi rend="underline">he</hi> supposes&#41; to <sic>reccomend</sic> him &#40;<persName>S. A.</persName>&#41;<lb/> a few more &#40;pairs I suppose he meant.&#41;  Spectacles to find out in a<lb/> certain Book&#44; Chapter and Verse <add>given&#44;</add> that which he the man of &#8220;deeds&#8221;<lb/> must have known&#44; if he knew any thing about the matter&#44; was<lb/> not there to be found&#44; for he says&#44; &#8220;we shall recommend him to look<lb/> &#8220;through the first Spectacles &#40;did he mean pair&#63;&#41; and read the following words in<lb/> &#8220;Oracle Hayim Chap 53 Baer Hateb 16.&#8221; and then gives a hebrew quota&#61;<lb/>tion&#44; which he translates as follows&#44; as being found in the place<lb/> so learnedly mentioned by him namely &#8220;A Sheliach Zibbur<add>&#63;</add> has to pursua<lb/>&#8221;&#61;ade&#44; moralize&#44; and to advise the Congregation in God&#39;s words&#8221;<lb/> Now in the Bear Hateb which <del>whic</del> was compiled by the <del> b<add>&#63;</add> </del><lb/> learned and pious <persName>Rabbi Judah Askanazi</persName> who was a <add>Hebrew</add> in<lb/> <placeName>Lichen<add>&#63;</add> in Poland</placeName> in the 16 paragraph on the 53 Chapter <del>it says</del><lb/> instead of it saying any thing about his <sic>pursuading</sic>&#45;Moralizing<lb/> or <sic>adviseing</sic> them&#44; <del>it</del> says that the reader who endeavors to<lb/> <hi rend="underline"><sic>shew</sic> off</hi> too much&#44; be it either with or without the consult of<lb/> the Congregation&#44; will on <date>sabbaths</date> or Festivals renders himself<lb/> <sic>disgusing</sic> &#40;<add>Hebrew</add>&#41;</p>
+				<p>Now what induced your <sic>corrispondent</sic> to render himself<lb/> such an in&#45;&#8220;glorious spectacle&#8221; as he is&#44; but attempting</p>
+			<pb n="2R"/>
+				<p>to palm off such a statement&#44; must be but known to himself&#44;<lb/> but it would very much puzzle any honest and straightforward<lb/> man to account why one rejoicing in such high sounding<lb/> titles as he claims for himself&#44; and one who <del>should</del> ought to know.<lb/> <del>why</del> should make <hi rend="underline">such</hi> statements when either silence or truth<lb/> would have answered as well&#33;</p>
+				<p>The <placeName>Quebec</placeName> man not as yet satisfied with his first<lb/> demonstration makes a second attack&#44; and says&#44;<lb/> &#8220;We recommend him therefer<add>&#63;</add> to put on his second Spectacles and read<lb/> &#8220;in the above&#45;mentioned books Oracle Hayim Chap 53. 25.&#8221;<lb/> which he says reads as follows viz &#8220;The Sheliach Zibbux is called<lb/> &#8220;Hazan because he has to see how he shall read&#8221;</p>
+				<p>Now&#44; after with all due humility&#44; having put on two <hi rend="underline">pair</hi><lb/> of Spectacles&#44; and <del>have examined</del> having examined no less<lb/> than eleven editions of the Book named by him&#44; I have<lb/> been forced to the conclusion that all <del>that</del> he says <del>stands</del> about<lb/> <del>in</del> the 53 Chap 25 paragraph is nothing <add>else</add> but a tissue of<lb/> falsehoods&#44; for in everyone of the eleven different editions of<lb/> the &#8220;Oracle Hayen Chap 53. 26&#8221; instead of saying any thing<lb/> about why the Hazan is called this&#44; or that&#44; or any thing of<lb/> the Kind&#59; <add>it</add> simply says &#8220;that a Hazan should not be dismissed<lb/> &#8220;from his employment&#44; unless some blemish is found in him.&#8221;<lb/> and nothing more.</p>
+				<p>What has induced a &#8220;Reader and Preacher&#8221; thus voluntarily<lb/> to give false statements&#44; must be a matter of some surprise&#44;<lb/> but if all readers are as much given to such tricks as your<lb/> Provincial <sic>corrispondant</sic>&#44; then sooner their services are</p>
+			<pb n="3R"/>
+				<p rend="align(right)">3</p>
+				<p><sic>dispenced</sic> with&#44; the better for the cause of truth of religion&#59;<lb/> He then quotes a passage where according to <hi rend="underline">his</hi> translation<lb/> it says&#44; &#8220;A Congregation when they wish to engage a Rabbi and&#8221;<lb/> &#8220;a Reader&#44; and are unable to pay both&#44; shall <sic>enguage</sic> the Rabbi if he has&#8221;<lb/> &#8220;great learning and experience&#44; but if not they shall <sic>enguage</sic> the reader&#44;&#8221;<lb/> after which in great joy at the discovery&#44; he <add> <del>then</del> </add> says<lb/> &#8220;Here we see that the reader has a dignity equal to that of the Rabbi.&#8221;<lb/>  Now&#44; here he appears to have already forgotten what he had wrote<lb/> but a few moments before <add>&#63;</add> for there according to his<lb/> own shewing if a proper Rabbi can be obtained for the Congrega&#61;<lb/>&#61;tion he shall be employed&#44; but in case such a one cannot<lb/> be obtained&#44; there only&#8212;and not till then&#44; &#8220;shall they choose a reader.&#8221;<lb/>  Thus according to his own <del>shewing</del> theory the reader is <hi rend="underline">only</hi> to be<lb/> hired <hi rend="underline">because</hi> a proper Rabbi cannot be obtained&#44; making<lb/> the necessity of the <add>reader</add> depend on a mere chance&#44; instead<lb/> of his &#8220;having a dignity equal to that of the Rabbi.&#8221;</p>
+				<p><sic>Apearantly</sic> not as yet fully satisfied with the immense<lb/> amount of valuable information&#44; that he had supplied<lb/> your numerous readers with&#44; he says &#8220;I quote another&#8221;<lb/> and then <hi rend="underline">pretends</hi> to give a translation of the 581 Chap<lb/> 1st paragraph of the Oracle Hayam&#44; which he states says<lb/> &#8220;He &#40;the reader&#41; shall be so pious that he can acquit or discharge every one<lb/> with his prayers.&#8221;</p>
+				<p>Now this is exactly like his former attempts to palm off that<lb/> which he <del>knew</del> must have known to be untrue&#44; for instead<lb/> of that Book saying &#8220;He &#40;the reader&#41; shall be so pious&#8221; it<lb/> merely states that there is a custom of arising early&#44; from<lb/> <date>Rosh Hodesh Elul</date>. lite<add>&#63;</add> the day of Atonement to say</p>
+			<pb n="4R"/>
+				<p>certain prayers &#40;there M<add>&#63;</add>&#41; and nothing more.  Following this<lb/> short paragraph of only 13 words&#44; there is a commentary by <persName>Rabbi Myer<lb/> Israels</persName>&#44; who lays down a great many rules about readers during<lb/> <add>Hebrew</add>&#44; such as that they should be over thirty years of age&#44;<lb/> that they should be married mere <add>Hebrew</add> but even including the<lb/> Comment.  No such words as &#8220;He &#40;the reader&#41; should be so pious&#8221;<lb/> <add>ever</add> occurs&#44; and is only to be found in the <add>fertile</add> imagination of your<lb/> <sic>corrispondent</sic> from <placeName>Quebec</placeName>.</p>
+				<p>What has induced this &#8220;<hi rend="underline">Reader and Preacher indeed</hi>&#44;&#8221; thus<lb/> to attempt to impose on the readers of the Occident&#44;<lb/> is a matter of conjecture only&#44; but that the Editor<lb/> should allow such statements to appear in his journal&#44;<lb/> where the <sic>slighest</sic> glance over them&#44; would <add>at once</add> have exhibited<lb/> their falsity&#44; is truly a matter of astonishment.</p>
+				<p>Arguments to be convincing should have proberty for<lb/> their basis&#44; for it matters but little how pleasant<lb/> a theory may appear&#44; once known that falsehood and<lb/> not veracity is the means used&#44; the whole whoever<lb/> comely to the eye must fall&#44; and thus&#44; any one<lb/> under  the garb of religion using falsehood and deceit<lb/> renders himself an in&#45;&#8221;glorious Spectacle&#8221; and finally<lb/> <sic>injurs</sic> that which he attempts to benefit.</p>
+			<p rend="indent(9)"><persName role="author">S.J.</persName></p>
+				<p><placeName>New York</placeName> <date>Adax 5618</date>.</p>
+		</body>
+	</text>
+</TEI>

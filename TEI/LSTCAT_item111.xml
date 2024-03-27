@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI [
+<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
+%teibase;
+<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
+%teiext;
+]>
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>[no title given]</title>
+				<author attested="yes" accepted="yes" signature="yes">Mayer, A. L.</author>
+				<editor></editor>
+				<sponsor></sponsor>
+				<funder></funder>
+				<principal></principal>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition></edition>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</editionStmt>
+			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
+			<publicationStmt>
+				<publisher>Unpublished manuscript</publisher>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Not part of a series</p>
+			</seriesStmt>
+			<notesStmt>
+				<note></note>
+			</notesStmt>
+			<sourceDesc>
+				<biblStruct>
+					<!-- catalog entry goes here -->
+					<monogr>
+						<imprint>
+							<dateLet></dateLet>
+						</imprint>
+					</monogr>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<country>USA</country>
+						<region>PA</region>
+						<settlement>Philadelphia</settlement>
+						<institution></institution>
+						<repository>TCAT</repository>
+						<collection>Anonymous</collection>
+						<idno>LSTCAT_item111</idno>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+						<msName></msName>
+					</msIdentifier>
+					<head></head>
+					<letHeading>
+						<author attested="yes" accepted="yes" signature="yes">Mayer, A. L.</author>
+						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac</addressee>
+						<deliverer></deliverer>
+						<respStmt>
+							<resp></resp>
+							<name></name>
+						</respStmt>
+						<placeLet>Easton, PA</placeLet>
+						<placeRec>Philadelphia, PA</placeRec>
+						<dateLet when="1862-12" source="" attested="yes">December 2, 1862</dateLet>
+					</letHeading>
+					<msContents>
+						<msItem>
+							<author></author>
+							<editor></editor>
+							<respStmt>
+								<resp></resp>
+								<name></name>
+							</respStmt>
+							<title></title>
+							<decoNote></decoNote>
+							<listBibl>
+								<bibl></bibl>
+							</listBibl>
+							<filiation></filiation>
+							<textLang></textLang>
+							<figure>
+								<graphic url="il_tcat_item111_wk1_body0001.jpg"></graphic>
+								<graphic url="il_tcat_item111_wk1_body0002.jpg"></graphic>
+							</figure>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support>
+									<material color="" lined="false" paper_type="" size="">letter</material>
+								</support>
+								<extent>2 pages on 1 sheet
+									<dimensions></dimensions>
+								</extent>
+								<foliation></foliation>
+								<collation></collation>
+								<condition fragment="false"></condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout></layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc script="manuscript">
+							<handNote></handNote>
+						</handDesc>
+						<decoDesc>
+							<decoNote></decoNote>
+						</decoDesc>
+						<additions></additions>
+						<bindingDesc>
+							<binding>
+								<decoNote></decoNote>
+							</binding>
+						</bindingDesc>
+						<sealDesc>
+							<seal>
+								<p></p>
+							</seal>
+						</sealDesc>
+						<accMat></accMat>
+						<envDesc occ="false"></envDesc>
+					</physDesc>
+					<history>
+						<origin></origin>
+						<provenance></provenance>
+						<acquisition></acquisition>
+					</history>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source></source>
+								<change></change>
+							</recordHist>
+							<availability status="free">
+								<p>Unrestricted</p>
+							</availability>
+							<custodialHist>
+								<custEvent></custEvent>
+							</custodialHist>
+						</adminInfo>
+						<surrogates></surrogates>
+						<listBibl>
+							<bibl></bibl>
+						</listBibl>
+					</additional>
+					<msPart>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+					</msPart>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p></p>
+			</projectDesc>
+			<samplingDecl>
+				<p></p>
+			</samplingDecl>
+			<editorialDecl>
+				<correction>
+					<p></p>
+				</correction>
+				<normalization>
+					<p></p>
+				</normalization>
+				<quotation>
+					<p></p>
+				</quotation>
+				<hyphenation>
+					<p></p>
+				</hyphenation>
+				<segmentation>
+					<p></p>
+				</segmentation>
+				<stdVals>
+					<p></p>
+				</stdVals>
+				<interpretation>
+					<p></p>
+				</interpretation>
+			</editorialDecl>
+			<tagsDecl>
+				<rendition></rendition>
+				<namespace name="http://www.tei-c.org/ns/1.0">
+					<tagUsage gi=""></tagUsage>
+				</namespace>
+			</tagsDecl>
+			<refsDecl>
+				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
+			</refsDecl>
+			<refsDecl>
+				<refState unit=""/>
+			</refsDecl>
+			<classDecl>
+				<taxonomy>
+					<category>
+						<catDesc></catDesc>
+					</category>
+				</taxonomy>
+			</classDecl>
+			<appInfo>
+				<application ident="" version="">
+					<desc></desc>
+					<label></label>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<creation></creation>
+			<langUsage>
+				<language ident="de">German</language>
+			</langUsage>
+			<textClass>
+				<keywords scheme="unknown">
+					<list>
+						<item></item>
+						<item></item>
+					</list>
+				</keywords>
+				<classCode scheme=""></classCode>
+				<catRef/>
+			</textClass>
+		</profileDesc>
+		<revisionDesc>
+			<change></change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+				<p rend="align(center)">Sehr geehrter <addressee>Herr Leeser</addressee>&#33;</p>
+			<p rend="indent(1)">Was werden Sie von mir denken&#63;  Eine ger<add>&#63;</add>nen Zeit ist r&#252;hrend<add>&#63;</add> dem <add>&#63;</add>sch<add>&#63;</add>den und noch kein Zeile den Sie gerichtet zu haben Wenn Sie mich f&#252;r einen<lb/> Und<add>&#63;</add> <add>&#63;</add>clarirer&#44; so sind Sie in Ihrem voller Rechte&#59; allein h&#246;ren Sie mich an&#44; ich will Ihren einige Ent<lb/>schuldigungsgr&#252;nde vorligen und bei der Ueberzeugung gewissert&#44; da&#223; Sie ein gelinderes <sic>Urtheil</sic><lb/> &#252;ber mich f&#228;llen werden.&#8212;Es ist Ihnen mal noch bekommt&#44; da&#223; ich bei meinem D<add>&#63;</add>sein &#252;ber<lb/> Unwohlsein geklagt&#44; und dieses letzten hat mich noch einen ganzen Monat geg<add>&#63;</add>t&#44; da&#223; ich sehr oft<lb/> mich gezwungen sah&#44; einige Tage in der Woche das Bett zu h&#252;tten&#59; gleichzeitg wenn es die Festtage&#44;<lb/> die es nicht zubei&#223;en&#44; mich vollkommen der Flege zu &#252;bergehen&#44; <add>&#63;</add>lehe dieser Umstand erfordert.<lb/>  Nachdem ich nun wieder ganz hergestellt war&#44; so <add>&#63;</add> es meine Ab<add>&#63;</add>&#44; eine Ausfluss zu machen<lb/> und z<add>&#63;</add> nach <placeName>Philadelphia</placeName>&#59; allein jede Woche stellte sich ein anderes G<add>&#63;</add>derni&#223; mir entgegen.<lb/>  Hieraus ersehen Sie&#44; da&#223; wir Wille stark genug war und hoffe&#44; da&#223; Sie mich g&#252;tigs entschuldigen<lb/> <add>&#63;</add>rden&#44; seinen gleichzeitig die Verischerung von mir genesungen<add>&#63;</add> wollen&#44; da&#223; Alles s. z. wieder<lb/> einha<add>&#63;</add> werde.</p>
+				<p>Vor einigen Tagen erhielt ich durch die Pass die mir g&#252;tigs zugesandten Monathefte<add>&#63;</add>&#44; die <add>&#63;</add>isel&#44;<lb/> die doch meine Adresse ganz <add>&#63;</add> besitzen&#44; wu&#223;ten mich&#44; <add>&#63;</add> konnten es nicht begreifen&#44;<lb/> da&#223; es auch m&#246;glich sei&#44; da&#223; au&#223;er vor <placeName>Mainz</placeName> &#38; <placeName>N. Y.</placeName> von <placeName>Philadelphia</placeName> E<add>&#63;</add> an mich <sic>addressirt</sic><add>&#63;</add><lb/> werden k&#246;nne.<lb/>  Ich h&#228;tte nur sehr viel mit Ihnen zu reden&#44; allein schriftliches es vor die Hand nicht m&#246;glich&#44; und gedenke<lb/> ich b<add>&#63;</add> wenigen Wochen mir die Ehre zu geben&#44; Sie zu <add>&#63;</add>&#44; wo ich gleichzeitig meine Schuld<lb/> bei Ihnen abtragen werde.</p>
+				<p>Schlie&#223;lich bitte ich Sie die <persName>Herren Fr&#228;nkel</persName>&#44; <persName>Pap&#233;</persName> &#38; <persName>Morais</persName> von mir mir gr&#252;&#223;en zu wollen und<lb/> genehmigen Sie indessen dir Achtung&#44; mit welcher die Ehre hat sich Ihren bestand zu empfehlen</p>
+			<p rend="indent(7)">Ihr</p>
+			<p rend="indent(7)">ergebensten</p>
+			<p rend="indent(8)"><persName role="author">A L Moyer</persName></p>
+				<p><placeName>Easton</placeName>&#44; <add>&#63;</add> <date>2. December 1862</date>.</p>
+		</body>
+	</text>
+</TEI>

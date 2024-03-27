@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI [
+<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
+%teibase;
+<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
+%teiext;
+]>
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>[no title given]</title>
+				<author attested="yes" accepted="yes" signature="yes">Goldsmith, Jonas</author>
+				<editor></editor>
+				<sponsor></sponsor>
+				<funder></funder>
+				<principal></principal>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition></edition>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</editionStmt>
+			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
+			<publicationStmt>
+				<publisher>Unpublished manuscript</publisher>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Not part of a series</p>
+			</seriesStmt>
+			<notesStmt>
+				<note></note>
+			</notesStmt>
+			<sourceDesc>
+				<biblStruct>
+					<!-- catalog entry goes here -->
+					<monogr>
+						<imprint>
+							<dateLet></dateLet>
+						</imprint>
+					</monogr>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<country>USA</country>
+						<region>PA</region>
+						<settlement>Philadelphia</settlement>
+						<institution></institution>
+						<repository>LSKAP</repository>
+						<collection>The Arnold and Deanne Kaplan Collection of Early American Judaica</collection>
+						<idno>LSKAP0072</idno>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+						<msName></msName>
+					</msIdentifier>
+					<head></head>
+					<letHeading>
+						<author attested="yes" accepted="yes" signature="yes">Goldsmith, Jonas</author>
+						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac</addressee>
+						<deliverer></deliverer>
+						<respStmt>
+							<resp></resp>
+							<name></name>
+						</respStmt>
+						<placeLet>Baltimore, MD</placeLet>
+						<placeRec>Philadelphia, PA</placeRec>
+						<dateLet when="1861-11" source="" attested="yes">Novmeber 7, 1861</dateLet>
+					</letHeading>
+					<msContents>
+						<msItem>
+							<author></author>
+							<editor></editor>
+							<respStmt>
+								<resp></resp>
+								<name></name>
+							</respStmt>
+							<title></title>
+							<decoNote></decoNote>
+							<listBibl>
+								<bibl></bibl>
+							</listBibl>
+							<filiation></filiation>
+							<textLang></textLang>
+							<figure>
+								<graphic url="LSKAP0072_1R.jpg"></graphic>
+								<graphic url="LSKAP0072_2R.jpg"></graphic>
+							</figure>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support>
+									<material color="" lined="true" paper_type="" size="">letter</material>
+								</support>
+								<extent>4 pages on 2 sheets
+									<dimensions></dimensions>
+								</extent>
+								<foliation></foliation>
+								<collation></collation>
+								<condition fragment="false"></condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout></layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc script="manuscript">
+							<handNote></handNote>
+						</handDesc>
+						<decoDesc>
+							<decoNote></decoNote>
+						</decoDesc>
+						<additions></additions>
+						<bindingDesc>
+							<binding>
+								<decoNote></decoNote>
+							</binding>
+						</bindingDesc>
+						<sealDesc>
+							<seal>
+								<p></p>
+							</seal>
+						</sealDesc>
+						<accMat></accMat>
+						<envDesc occ="false"></envDesc>
+					</physDesc>
+					<history>
+						<origin></origin>
+						<provenance></provenance>
+						<acquisition></acquisition>
+					</history>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source></source>
+								<change></change>
+							</recordHist>
+							<availability status="restricted">
+								<p>Restricted</p>
+							</availability>
+							<custodialHist>
+								<custEvent></custEvent>
+							</custodialHist>
+						</adminInfo>
+						<surrogates></surrogates>
+						<listBibl>
+							<bibl></bibl>
+						</listBibl>
+					</additional>
+					<msPart>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+					</msPart>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p></p>
+			</projectDesc>
+			<samplingDecl>
+				<p></p>
+			</samplingDecl>
+			<editorialDecl>
+				<correction>
+					<p></p>
+				</correction>
+				<normalization>
+					<p></p>
+				</normalization>
+				<quotation>
+					<p></p>
+				</quotation>
+				<hyphenation>
+					<p></p>
+				</hyphenation>
+				<segmentation>
+					<p></p>
+				</segmentation>
+				<stdVals>
+					<p></p>
+				</stdVals>
+				<interpretation>
+					<p></p>
+				</interpretation>
+			</editorialDecl>
+			<tagsDecl>
+				<rendition></rendition>
+				<namespace name="http://www.tei-c.org/ns/1.0">
+					<tagUsage gi=""></tagUsage>
+				</namespace>
+			</tagsDecl>
+			<refsDecl>
+				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
+			</refsDecl>
+			<refsDecl>
+				<refState unit=""/>
+			</refsDecl>
+			<classDecl>
+				<taxonomy>
+					<category>
+						<catDesc></catDesc>
+					</category>
+				</taxonomy>
+			</classDecl>
+			<appInfo>
+				<application ident="" version="">
+					<desc></desc>
+					<label></label>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<creation></creation>
+			<langUsage>
+				<language ident="en">English</language>
+				<language ident="de">German</language>
+			</langUsage>
+			<textClass>
+				<keywords scheme="unknown">
+					<list>
+						<item></item>
+						<item></item>
+					</list>
+				</keywords>
+				<classCode scheme=""></classCode>
+				<catRef/>
+			</textClass>
+		</profileDesc>
+		<revisionDesc>
+			<change></change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<pb n="1R"/>
+				<p rend="align(center)"><addressee>Rever. Isaac Leeeser</addressee>&#59; <placeName>Philadelphia</placeName>.</p>
+				<p rend="align(right)"><placeName>Baltimore</placeName>&#44; <date>Novemb. 7<hi rend="sup">Th</hi> 1861</date></p>
+			<p rend="indent(1)">Von dem Bibliotheken Committer<lb/> der Jedidjah&#45;Loge dahier bin ich beauftragt&#44;<lb/> Ihnen &#36;1&#44;50 als halbj&#228;hrigen Pra<add>&#63;</add><lb/><add>&#63;</add> prei&#223; f&#252;r &#8222;The Occident&#8221;zu senden.<lb/>  Das Committer hat n&#228;mlich beschlossen in<lb/> Ber&#252;cksichtigung der kritischen Zeiten jetzt<lb/> alle priedischen Bl&#228;tter nur halb<add>&#63;</add><lb/> voraus zu bezahlen.</p>
+				<p>Ferner lege ich Ihren &#36;1&#44;50 f&#252;r mich<lb/> bei&#44; da ich glaube&#44; da&#223; Sie den Lehrere<lb/> ebenso wie <persName>Dr. Wise</persName> Ihr Blatt f&#252;r die<lb/> Halfte des Prei&#223;es ablassen.</p>
+				<p>Achtungsvoll &#38; ergebenst</p>
+			<p rend="indent(1)"><persName role="author">Jonas Goldsmith</persName>.</p>
+			<pb n="2R"/>
+				<p><addressee>Rev. Isaac Leeser</addressee> <placeName>Phila.</placeName></p>
+			<p rend="indent(2)"><placeName>Baltimore</placeName>&#44; <date>November 7<hi rend="sup">th</hi> <del>18</del> 1861</date></p>
+			<p rend="indent(1)">The <del>Li</del> library committee of the Jedidjah Lodge&#44;<lb/> this city&#44; asked me&#44; to send you &#36;1.50<lb/> <add>&#63;</add> to cover the half yearly dues for the<lb/> Occident.  With regard to the hard times<lb/> the committee decided to pay all periodicals only<lb/> half yearly in advance.</p>
+			<p rend="indent(1)">I also enclose &#36;1.50 for myself&#44;<lb/> because I believe that you will send<lb/> your journal to teachers for half the<lb/> price&#44; same as you do with <persName>Dr. Wise</persName>.</p>
+			<p rend="indent(2)">Yours very truly</p>
+			<p rend="indent(2)"><persName role="author">Jonas Goldsmith</persName></p>
+				<p rend="The following is written in red at the lower right."><hi rend="underline">Ger. La</hi></p>
+		</body>
+	</text>
+</TEI>

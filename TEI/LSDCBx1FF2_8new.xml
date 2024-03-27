@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI [
+<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
+%teibase;
+<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
+%teiext;
+]>
+<TEI>
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>[no title given]</title>
+          <author attested="yes" accepted="yes" signature="unk">Selig, son of Jacob</author>
+		  <author attested="yes" accepted="yes" signature="unk">Phillips, Z</author>
+		  <author attested="yes" accepted="yes" signature="unk">Gratz, Id.</author>
+          <editor></editor>
+          <sponsor></sponsor>
+          <funder></funder>
+          <principal></principal>
+          <respStmt>
+            <resp></resp>
+            <name></name>
+          </respStmt>
+        </titleStmt>
+        <editionStmt>
+          <edition></edition>
+          <respStmt>
+            <resp></resp>
+            <name></name>
+          </respStmt>
+        </editionStmt>
+        <extent>[information about file size goes here, information about extent of physical item comes later]</extent>
+        <publicationStmt>
+          <publisher>Unpublished manuscript</publisher>
+        </publicationStmt>
+        <seriesStmt>
+          <p>Not part of a series</p>
+        </seriesStmt>
+        <notesStmt>
+          <note></note>
+        </notesStmt>
+        <sourceDesc>
+          <biblStruct>
+            <!-- catalog entry goes here -->
+            <monogr>
+              <imprint>
+                <dateLet></dateLet>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <msDesc>
+            <msIdentifier>
+              <country>USA</country>
+              <region>PA</region>
+              <settlement>Philadelphia</settlement>
+              <institution></institution>
+              <repository>Box 1, FF2</repository>
+              <collection>The Library of the Dropsie College for Hebrew and Cognate Learning</collection>
+              <idno>LSDCBx1FF2_8</idno>
+              <altIdentifier>
+                <idno></idno>
+              </altIdentifier>
+              <msName></msName>
+            </msIdentifier>
+            <head></head>
+            <letHeading>
+              <author attested="yes" accepted="yes" signature="unk">Selig, son of Jacob</author>
+			  <author attested="yes" accepted="yes" signature="unk">Phillips, Z</author>
+			  <author attested="yes" accepted="yes" signature="unk">Gratz, Id.</author>
+              <addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac</addressee>
+              <deliverer></deliverer>
+              <respStmt>
+                <resp></resp>
+                <name></name>
+              </respStmt>
+              <placeLet>Dillman, IN</placeLet>
+              <placeRec>Philadelphia, PA</placeRec>
+              <dateLet when="1830-10" source="" attested="yes">13 October 1830</dateLet>
+              <dateLet when="1830-10" source="" attested="yes">13 Tishri 1830</dateLet>
+            </letHeading>
+            <msContents>
+              <msItem>
+                <author></author>
+                <editor></editor>
+                <respStmt>
+                  <resp></resp>
+                  <name></name>
+                </respStmt>
+                <title></title>
+                <decoNote></decoNote>
+                <listBibl>
+                  <bibl></bibl>
+                </listBibl>
+                <filiation></filiation>
+                <textLang></textLang>
+                <figure>
+                  <graphic url="ilcajs_b1f1_0006_1r.jpg"/>
+				  <graphic url="ilcajs_b1f1_0006_1v.jpg"/>
+                </figure>
+              </msItem>
+            </msContents>
+            <physDesc>
+              <objectDesc>
+                <supportDesc>
+                  <support>
+                    <material color="" lined="true" paper_type="" size="Letter">letter</material>
+                  </support>
+                  <extent>4 pages on 3 sheets
+                    <dimensions></dimensions>
+                  </extent>
+                  <foliation></foliation>
+                  <collation></collation>
+                  <condition fragment="false"></condition>
+                </supportDesc>
+                <layoutDesc>
+                  <layout></layout>
+                </layoutDesc>
+              </objectDesc>
+              <handDesc script="manuscript">
+                  <handNote></handNote>
+              </handDesc>
+              <decoDesc>
+                <decoNote></decoNote>
+              </decoDesc>
+              <additions></additions>
+              <bindingDesc>
+                <binding>
+                  <decoNote></decoNote>
+                </binding>
+              </bindingDesc>
+              <sealDesc>
+                <seal>
+                  <p></p>
+                </seal>
+              </sealDesc>
+              <accMat></accMat>
+              <envDesc occ="false"></envDesc>
+            </physDesc>
+            <history>
+              <origin></origin>
+              <provenance></provenance>
+              <acquisition></acquisition>
+            </history>
+            <additional>
+              <adminInfo>
+                <recordHist>
+                  <source></source>
+                  <change></change>
+                </recordHist>
+                <availability status="free">
+                  <p>Unrestricted</p>
+                </availability>
+                <custodialHist>
+                  <custEvent></custEvent>
+                </custodialHist>
+              </adminInfo>
+              <surrogates></surrogates>
+              <listBibl>
+                <bibl></bibl>
+              </listBibl>
+            </additional>
+            <msPart>
+              <altIdentifier>
+                <idno></idno>
+              </altIdentifier>
+            </msPart>
+          </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <projectDesc>
+          <p></p>
+        </projectDesc>
+        <samplingDecl>
+          <p></p>
+        </samplingDecl>
+        <editorialDecl>
+          <correction>
+            <p></p>
+          </correction>
+          <normalization>
+            <p></p>
+          </normalization>
+          <quotation>
+            <p></p>
+          </quotation>
+          <hyphenation>
+            <p></p>
+          </hyphenation>
+          <segmentation>
+            <p></p>
+          </segmentation>
+          <stdVals>
+            <p></p>
+          </stdVals>
+          <interpretation>
+            <p></p>
+          </interpretation>
+        </editorialDecl>
+        <tagsDecl>
+          <rendition></rendition>
+          <namespace name="http://www.tei-c.org/ns/1.0">
+            <tagUsage gi=""></tagUsage>
+          </namespace>
+        </tagsDecl>
+        <refsDecl>
+          <cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
+        </refsDecl>
+        <refsDecl>
+          <refState unit=""/>
+        </refsDecl>
+        <classDecl>
+          <taxonomy>
+            <category>
+              <catDesc></catDesc>
+            </category>
+          </taxonomy>
+        </classDecl>
+        <appInfo>
+          <application ident="" version="">
+            <desc></desc>
+            <label></label>
+          </application>
+        </appInfo>
+      </encodingDesc>
+      <profileDesc>
+        <creation></creation>
+        <langUsage>
+          <language ident="en">English</language>
+		  <language ident="yi">Yiddish?</language>
+        </langUsage>
+        <textClass>
+          <keywords scheme="unknown">
+            <list>
+              <item></item>
+              <item></item>
+            </list>
+          </keywords>
+          <classCode scheme=""></classCode>
+          <catRef/>
+        </textClass>
+      </profileDesc>
+      <revisionDesc>
+        <change></change>
+      </revisionDesc>
+    </teiHeader>
+        <text>
+		<body>
+		<pb n="1R"/>
+		
+			<p>[Yiddish&#63;]</p>
+
+		<pb n="1V"/>
+		
+			<p>[Yiddish&#63;]</p>
+
+		<pb n="2R"/>
+		
+			<p rend="align(right)"><placeName>Dillman</placeName>&#44; <date>Sunday 13<hi rend="sup">th</hi> Tishri</date></p>
+			<p rend="align(right)"><date>&#40;October&#41;&#44; 1830</date>.</p>
+			<p>Peace to my cousin&#44; <addressee>Itzik</addressee>.</p>
+		  <p rend="indent(1)">In view of this opportunity&#44; I cannot<lb/> omit writing several lines to you.  Don&#39;t take<lb/> it anisa[&#63;] that I write so briefly to you&#44; but<lb/> I promise you faithfully that I will do better<lb/> in the future.  As you will&#44; with God&#39;s help&#44; soon<lb/> hear from <persName>Jacob</persName>&#44; we are still in the best of health&#44;<lb/> as we hope is the case with you.  I am at<lb/> present at my mother&#39;s [&#63;] where I will<lb/> remain for a while.  I hope that you and our<lb/> <persName>Uncle Jacob</persName> are in the best of health.</p>
+		  <p rend="indent(1)">I remain your ever faithful cousin</p>
+		  <p rend="indent(2)"><persName role="author">Selig&#44; son of Jacob</persName></p>
+
+			<p>Addressed to my dear and beloved cousin&#44;<lb/> <addressee>Isaac</addressee>.  May God make his revd[&#63;] fortunate<lb/> and guard him from the storms of the<lb/> sea.</p>
+
+			<p>The last phrase must refer to the bearer of the<lb/> letter.</p>
+
+		<pb n="3R"/>
+		
+			<p>Sep. 31 <hi rend="indent(9)">3rd</hi></p>									
+			<p><sic>Reverand</sic> <addressee>Isaac Leeser</addressee></p>
+
+		  <p rend="indent(1)">Sir</p>
+
+		  <p rend="indent(2)">I have the honor to enclose you a resolution<lb/> of the <sic>Congregationadopted</sic> at the last stated meeting.<lb/>  In pursuance whereof I tender you on their part an en<lb/>gagement as Hazan for a term of five years at a salary<lb/> of one thousand Dollars per annum as you will [&#63;] to<lb/> say whether you will accept of the Same or whether you<lb/> desire any modification or to the number of years&#8211;<lb/>The words of the resolution are general but I do not<lb/> believe it to be the wish of the Congregation to oblige<lb/> you to serve for any longer period than would be every<lb/> way a agreeable or acceptable to yourself</p>
+		  <p rend="indent(9)">I am very respectfully</p>
+		  <p rend="indent(9)">Your Obedient Servant</p>
+		  <p rend="indent(10)"><persName role="author">Z Phillips</persName></p>
+		  <p rend="indent(8)">Copy <hi rend="indent(2)"><persName>Parnass K. K.</persName></hi></p>
+		  <p rend="indent(7)"><date>5592</date>	<hi rend="indent(3)">Mickve Israel</hi></p>
+			<p><date>Sep. 11&#8212;1831</date></p>
+			<p>Extract from the minutes of a Stated Meeting of the<lb/> K.K.M.I. Held on <date>4 September 1831</date></p>
+
+			<p>Resolved That <persName>Mr. Parnass</persName> be authorized to engage the<lb/> services of <persName>Isaac Leeser</persName> as Hazan for the Congregation<lb/> for a term of Five Years at a Salary of One Thousand<lb/> Dollars per annum&#8211;</p>
+		  <p rend="indent(8)"><persName role="author">Id. Gratz</persName>  Secretary</p>
+		  <p rend="indent(4)">Copy of the resolution enclosed</p>
+		  <p rend="indent(4)">The following appeared on the other side&#58;&#8211;</p>
+		  <p rend="indent(6)">No. 2</p>
+		  <p rend="indent(4)"><date>Sept. N&#39; 1831</date></p>
+		  <p rend="indent(4)">Copy of <add>letter to</add> <persName>Isaac Leeser</persName></p>
+		  <p rend="indent(4)">Enclosing resolution&#8211;</p>
+
+		  <p rend="indent(4)">relating to the engagement of</p>
+		  <p rend="indent(4)"><persName>Rev Isaac Leeser</persName> as Hazan</p>
+			</body>
+		</text>	
+	</TEI>		

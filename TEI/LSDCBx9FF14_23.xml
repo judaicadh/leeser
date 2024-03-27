@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI [
+<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
+%teibase;
+<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
+%teiext;
+]>
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>[no title given]</title>
+				<author attested="yes" accepted="yes" signature="yes">Gotthelf, B. H.; Kohn, Harmann</author>
+				<editor></editor>
+				<sponsor></sponsor>
+				<funder></funder>
+				<principal></principal>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition></edition>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</editionStmt>
+			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
+			<publicationStmt>
+				<publisher>Unpublished manuscript</publisher>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Not part of a series</p>
+			</seriesStmt>
+			<notesStmt>
+				<note></note>
+			</notesStmt>
+			<sourceDesc>
+				<biblStruct>
+					<!-- catalog entry goes here -->
+					<monogr>
+						<imprint>
+							<dateLet></dateLet>
+						</imprint>
+					</monogr>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<country>USA</country>
+						<region>PA</region>
+						<settlement>Philadelphia</settlement>
+						<institution></institution>
+						<repository>CAJS Isaac Leeser Collection</repository>
+						<collection>The Library of the Dropsie College for Hebrew and Cognate Learning</collection>
+						<idno>LSDCBx9FF14_23</idno>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+						<msName></msName>
+					</msIdentifier>
+					<head></head>
+					<letHeading>
+						<author attested="yes" accepted="yes" signature="yes">Gotthelf, B. H.; Kohn, Harmann</author>
+						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac</addressee>
+						<deliverer></deliverer>
+						<respStmt>
+							<resp></resp>
+							<name></name>
+						</respStmt>
+						<placeLet>Louisville, KY</placeLet>
+						<placeRec>Philadelphia, PA</placeRec>
+						<dateLet when="1853-08" source="" attested="yes">30 August 1853</dateLet>
+					</letHeading>
+					<msContents>
+						<msItem>
+							<author></author>
+							<editor></editor>
+							<respStmt>
+								<resp></resp>
+								<name></name>
+							</respStmt>
+							<title></title>
+							<decoNote></decoNote>
+							<listBibl>
+								<bibl></bibl>
+							</listBibl>
+							<filiation></filiation>
+							<textLang></textLang>
+							<figure>
+								<graphic url="ilcajs_b9f14_0023_1r.jpg"/>
+								<graphic url="ilcajs_b9f14_0023_1v.jpg"/>
+							</figure>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support>
+									<material color="" lined="unk" paper_type="" size="Legal">letter</material>
+								</support>
+								<extent>2 pages on 1 sheet
+									<dimensions></dimensions>
+								</extent>
+								<foliation></foliation>
+								<collation></collation>
+								<condition fragment="false"></condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout></layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc script="manuscript">
+							<handNote></handNote>
+						</handDesc>
+						<decoDesc>
+							<decoNote></decoNote>
+						</decoDesc>
+						<additions></additions>
+						<bindingDesc>
+							<binding>
+								<decoNote></decoNote>
+							</binding>
+						</bindingDesc>
+						<sealDesc>
+							<seal>
+								<p>Wax seal</p>
+							</seal>
+						</sealDesc>
+						<accMat></accMat>
+						<envDesc occ="false"></envDesc>
+					</physDesc>
+					<history>
+						<origin></origin>
+						<provenance></provenance>
+						<acquisition></acquisition>
+					</history>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source></source>
+								<change></change>
+							</recordHist>
+							<availability status="free">
+								<p>Unrestricted</p>
+							</availability>
+							<custodialHist>
+								<custEvent></custEvent>
+							</custodialHist>
+						</adminInfo>
+						<surrogates></surrogates>
+						<listBibl>
+							<bibl></bibl>
+						</listBibl>
+					</additional>
+					<msPart>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+					</msPart>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p></p>
+			</projectDesc>
+			<samplingDecl>
+				<p></p>
+			</samplingDecl>
+			<editorialDecl>
+				<correction>
+					<p></p>
+				</correction>
+				<normalization>
+					<p></p>
+				</normalization>
+				<quotation>
+					<p></p>
+				</quotation>
+				<hyphenation>
+					<p></p>
+				</hyphenation>
+				<segmentation>
+					<p></p>
+				</segmentation>
+				<stdVals>
+					<p></p>
+				</stdVals>
+				<interpretation>
+					<p></p>
+				</interpretation>
+			</editorialDecl>
+			<tagsDecl>
+				<rendition></rendition>
+				<namespace name="http://www.tei-c.org/ns/1.0">
+					<tagUsage gi=""></tagUsage>
+				</namespace>
+			</tagsDecl>
+			<refsDecl>
+				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
+			</refsDecl>
+			<refsDecl>
+				<refState unit=""/>
+			</refsDecl>
+			<classDecl>
+				<taxonomy>
+					<category>
+						<catDesc></catDesc>
+					</category>
+				</taxonomy>
+			</classDecl>
+			<appInfo>
+				<application ident="" version="">
+					<desc></desc>
+					<label></label>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<creation></creation>
+			<langUsage>
+				<language ident="en">English</language>
+				<language ident="de">German</language>
+			</langUsage>
+			<textClass>
+				<keywords scheme="unknown">
+					<list>
+						<item></item>
+						<item></item>
+					</list>
+				</keywords>
+				<classCode scheme=""></classCode>
+				<catRef/>
+			</textClass>
+		</profileDesc>
+		<revisionDesc>
+			<change></change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<pb n="1"/>
+				<p rend="align(right)"><placeName>Louisville Ky</placeName> <date>Aug. 30th 1853</date></p>
+				<p><addressee>Revd I. Leeser</addressee>.</p>
+			<p rend="indent(1)">Dear Sir</p>
+			<p rend="indent(1)">The bearer of this <persName role="author">Mr. H. Kohn</persName>&#44; whom you know already before&#44;<lb/> is on his way to <placeName>Europe</placeName>.  I <sic>dont</sic> think his means sufficient<lb/> to accomplish his object.  If it lay&#39;<sic>s</sic> in your power to<lb/> assist him <sic>trough</sic> your influence&#44; it will in my <sic>judgement</sic><lb/> be a great <add>Hebrew</add>.  He has toiled and labored hard this six<lb/> years and was never able to maintain his family&#8212;so it is<lb/> best for him to return with his wife &#38; child to his home.</p>
+			<p rend="indent(1)">I have not received and not seen the Occident from<lb/> last month yet&#8212;no other subscriber here received any.<lb/>  Why&#63;</p>
+			<p rend="indent(1)">Before <add>Hebrew</add> you will receive nearly &#40;if not all&#41;<lb/> the moneys due you in this city.  <persName>Dinkelspiel</persName> in <placeName>Madison</placeName><lb/> gave me &#36;6. <persName>Lewensohn</persName> in <placeName>Albany</placeName> &#36;3.  I got between<lb/> 50 &#38; 60 Dollars for you at the broker and hope to <add>&#63;</add><lb/> as much more&#8212;when I will send you all.</p>
+			<p rend="indent(1)">Next <date>Sunday</date> I will have a <add>Hebrew</add> my wife and<lb/> children are well&#44; praise God&#33;</p>
+			<p rend="indent(1)">I wrote you a letter in answer to yours to the<lb/> post master&#44; but have not had the pleasure to see it<lb/> <sic>aknowledged</sic> by you.  I also wrote one to <persName>Dr. Wise</persName> of <placeName>Albany</placeName>&#44;<lb/> and did not receive an answer.</p>
+			<p rend="indent(1)">You may depend <add>Hebrew</add> to receive money before <add>Hebrew</add>.</p>
+			<p rend="indent(5)">Respt</p>
+			<p rend="indent(6)">your friend &#38; servant</p>
+			<p rend="indent(6)"><persName role="author">B H. Gotthelf</persName></p>
+			<pb n="2"/>
+				<p><addressee>Mr. Leeser</addressee>&#33;  Ich bin so frei&#44; einige Zeilen an Sie zu richten.  <persName role="author">Herr Gotthelf</persName><add>&#63;</add><lb/> hat Ihnen alles <sic>mitzutheilt</sic>.  Ich bin hief&#44; u. bin Willens nach <placeName>Europa</placeName> zu gehen<lb/> <del>mei</del> nach meiner Ansicht ist es nicht nothwurdig nach <placeName>Phila.</placeName> ja reisen&#44; u.<lb/> k&#246;nnte <add>&#63;</add>ese Ankochten<add>&#63;</add> ersparen die Reise un kosten von <placeName>Louisville</placeName> hierher per<lb/> <add>&#63;</add>bahn waren auch h<add>&#63;</add>r dafur&#44; geehrter Herr&#44; bitte ich Sie&#44; mir beh<add>&#63;</add><lb/> zu sein da&#223; ich meinen Plan ausf&#252;hren kann.  Vielleicht es Ihnen mein <add>&#63;</add><lb/><persName>herr Julius Stern</persName> d<add>&#63;</add> beh&#252;lftige Leben Sie wohl&#44; u. verbleibe in L<add>&#63;</add><lb/> hochachtung Ihr <add>&#63;</add>benster</p>
+			<p rend="indent(10)"><persName role="author">Harmann Kohn</persName></p>
+			<p rend="indent(10)"><placeName>77. Avenue B.</placeName></p>
+				<p><addressee>Revd Isaac Leeser</addressee></p>
+				<p><placeName>371. <sic>walnut</sic> St.</placeName></p>
+			<p rend="indent(1)"><placeName><hi rend="underline">Philadelphia</hi></placeName></p>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI [
+<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
+%teibase;
+<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
+%teiext;
+]>
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>[no title given]</title>
+				<author attested="yes" accepted="yes" signature="yes">De Sola, Abraham</author>
+				<editor></editor>
+				<sponsor></sponsor>
+				<funder></funder>
+				<principal></principal>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition></edition>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</editionStmt>
+			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
+			<publicationStmt>
+				<publisher>Unpublished manuscript</publisher>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Not part of a series</p>
+			</seriesStmt>
+			<notesStmt>
+				<note></note>
+			</notesStmt>
+			<sourceDesc>
+				<biblStruct>
+					<!-- catalog entry goes here -->
+					<monogr>
+						<imprint>
+							<dateLet></dateLet>
+						</imprint>
+					</monogr>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<country>USA</country>
+						<region>PA</region>
+						<settlement>Philadelphia</settlement>
+						<institution></institution>
+						<repository>CAJS Isaac Leeser Collection</repository>
+						<collection>The Library of the Dropsie College for Hebrew and Cognate Learning</collection>
+						<idno>LSDCBx2FF9_12</idno>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+						<msName></msName>
+					</msIdentifier>
+					<head></head>
+					<letHeading>
+						<author attested="yes" accepted="yes" signature="yes">De Sola, Abraham</author>
+						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac, Rev.</addressee>
+						<deliverer></deliverer>
+						<respStmt>
+							<resp></resp>
+							<name></name>
+						</respStmt>
+						<placeLet>Montreal, </placeLet>
+						<placeRec>Philadelphia, PA</placeRec>
+						<dateLet when="1862-05" source="" attested="yes">27 May 1862</dateLet>
+					</letHeading>
+					<msContents>
+						<msItem>
+							<author></author>
+							<editor></editor>
+							<respStmt>
+								<resp></resp>
+								<name></name>
+							</respStmt>
+							<title></title>
+							<decoNote></decoNote>
+							<listBibl>
+								<bibl></bibl>
+							</listBibl>
+							<filiation></filiation>
+							<textLang></textLang>
+							<figure>
+								<graphic url="ilcajs_b2f9_0012_1r.jpg"></graphic>
+								<graphic url="ilcajs_b2f9_0012_1v.jpg"></graphic>
+								<graphic url="ilcajs_b2f9_0012_2r.jpg"></graphic>
+								<graphic url="ilcajs_b2f9_0012_2v.jpg"></graphic>
+							</figure>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support>
+									<material color="" lined="false" paper_type="" size="Letter">letter</material>
+								</support>
+								<extent>4 pages on 2 sheets
+									<dimensions></dimensions>
+								</extent>
+								<foliation></foliation>
+								<collation></collation>
+								<condition fragment="false"></condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout></layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc script="manuscript">
+							<handNote></handNote>
+						</handDesc>
+						<decoDesc>
+							<decoNote></decoNote>
+						</decoDesc>
+						<additions></additions>
+						<bindingDesc>
+							<binding>
+								<decoNote></decoNote>
+							</binding>
+						</bindingDesc>
+						<sealDesc>
+							<seal>
+								<p></p>
+							</seal>
+						</sealDesc>
+						<accMat></accMat>
+						<envDesc occ="false"></envDesc>
+					</physDesc>
+					<history>
+						<origin></origin>
+						<provenance></provenance>
+						<acquisition></acquisition>
+					</history>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source></source>
+								<change></change>
+							</recordHist>
+							<availability status="free">
+								<p>Unrestricted</p>
+							</availability>
+							<custodialHist>
+								<custEvent></custEvent>
+							</custodialHist>
+						</adminInfo>
+						<surrogates></surrogates>
+						<listBibl>
+							<bibl></bibl>
+						</listBibl>
+					</additional>
+					<msPart>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+					</msPart>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p></p>
+			</projectDesc>
+			<samplingDecl>
+				<p></p>
+			</samplingDecl>
+			<editorialDecl>
+				<correction>
+					<p></p>
+				</correction>
+				<normalization>
+					<p></p>
+				</normalization>
+				<quotation>
+					<p></p>
+				</quotation>
+				<hyphenation>
+					<p></p>
+				</hyphenation>
+				<segmentation>
+					<p></p>
+				</segmentation>
+				<stdVals>
+					<p></p>
+				</stdVals>
+				<interpretation>
+					<p></p>
+				</interpretation>
+			</editorialDecl>
+			<tagsDecl>
+				<rendition></rendition>
+				<namespace name="http://www.tei-c.org/ns/1.0">
+					<tagUsage gi=""></tagUsage>
+				</namespace>
+			</tagsDecl>
+			<refsDecl>
+				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
+			</refsDecl>
+			<refsDecl>
+				<refState unit=""/>
+			</refsDecl>
+			<classDecl>
+				<taxonomy>
+					<category>
+						<catDesc></catDesc>
+					</category>
+				</taxonomy>
+			</classDecl>
+			<appInfo>
+				<application ident="" version="">
+					<desc></desc>
+					<label></label>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<creation></creation>
+			<langUsage>
+				<language ident="en">English</language>
+			</langUsage>
+			<textClass>
+				<keywords scheme="unknown">
+					<list>
+						<item></item>
+						<item></item>
+					</list>
+				</keywords>
+				<classCode scheme=""></classCode>
+				<catRef/>
+			</textClass>
+		</profileDesc>
+		<revisionDesc>
+			<change></change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<pb n="1"/>
+				<p rend="align(right)"><placeName>Montreal</placeName> <date>27<hi rend="sup">th</hi> May 1862</date>.</p>
+				<p>The <addressee>Rev. Isaac Leeser</addressee></p>
+			<p rend="indent(1)"><placeName>Philadelphia</placeName></p>
+			<p rend="indent(2)">Dear Sir&#8212;</p>
+			<p rend="indent(3)">The commencement of the College<lb/> recess gives me leisure to attend some what to<lb/> correspondence too much neglected.  I have a<lb/> very respectable pile of letters before me of rather<lb/> antique date which testify and declare that I have<lb/> either been lazy these last few months&#44; or my time<lb/> has been much occupied.  I rather incline to the<lb/> latter supposition and I hope you will also&#8212;at<lb/> least I have had the wish to write you ere this.<lb/>  With the resolution of years I find I have new<lb/> duties and new claims on my time.  My <add>Hebrew</add><lb/> must be examined occasionally to see how he<lb/> &#8220;gets on&#8221; at school where he learns English<lb/> grammar&#44; arithmetic&#44; French &#38;c and as I am<lb/> his Hebrew pedagogue at home&#44; the young<lb/> gentleman &#40;now <add>&#63;</add> in his ninth year&#41;&#44;<lb/> takes up a little of my time.  The application<lb/> of this long interesting <add>Hebrew</add> I leave to yourself.<lb/>  I have commenced&#44; but not finished the Biography<lb/> of my late revered father <add>Hebrew</add> to which you</p>
+			<pb n="2"/>
+				<p>refer in your last.  I have before written you that<lb/> I was asked for it elsewhere&#59; though I should<lb/> be very pleased to see it in the Occident&#44; and<lb/> shall certainly send you a copy duly authenticated<lb/> as you request.  You are not&#44; you write&#44; a close<lb/> reader of the Jewish publications&#8212;neither am I.<lb/>  I give you&#44; as you requested me&#44; credit for<lb/> <persName>Mr J. H. J&#39;s</persName> &#36;3&#8212; Please inform me how our<lb/> account stands.  I regret to say I am not quite<lb/> sure as to the Calendars I sent you.  Besides<lb/> the dozen sent you per <persName>Miss S. J.</persName> &#40;<date>21 May &#39;61</date>&#41;<lb/> you had &#8220; I reckon&#8221; another dozen.  Please<lb/> let me know how the matter really is&#44; as<lb/> though I made an entry some where&#44; I cannot<lb/> remember where just now.</p>
+			<p rend="indent(1)">As items of news &#40;if such indeed<lb/> they be to you&#41; I might mention that our<lb/> synagogue was reopened for the late holy days<lb/> after having been thoroughly renovated<lb/> internally.  The cong. have been much<lb/> indebted to the pious zeal of <persName>Mrs Henry Benjamin</persName></p>
+			<pb n="3"/>
+				<p>and <persName>Miss Sarah Joseph</persName> for the re&#45;adornment<lb/> of their synagogue.  <persName>Mrs. J. H. Joseph</persName> contributed<lb/> a very elegant Sepher Mantle and even the<lb/> <add>&#63;</add> made a subscription among themselves<lb/> started by <persName>Miss D. Benjamin</persName><lb/> and procured for the occasion a very handsome<lb/> cover for the readers desk and cloak for<lb/> one of the Sepharim.  And those sums another time.</p>
+			<p rend="indent(1)">The troubles in your distracted<lb/> country have caused <persName>Poznanski</persName> of <placeName>Charleston</placeName><lb/> and his family to remain here for the last<lb/> eight months.  He is not the terrible fellow<lb/> I took him for&#59; and I fancy <persName>Messrs Lilienthal</persName><lb/> <persName>Einhorn</persName> <persName>Adler</persName> and one or two more are&#44;<lb/> more mischievous than he was or ever will<lb/> be.  <persName>Dr. Mayer</persName> of <placeName>Albany</placeName> has been in here<lb/> once or twice&#8212;his wife who was arrested<lb/> in <placeName>Burlington</placeName> by the U. S. authorities is staying<lb/> here for a couple of months.  I see no prospect<lb/> of a speedy reconstruction of the Union on<lb/> the old basis.  I have no knowledge of the<lb/> <placeName>south</placeName> much&#44; but I should scarcely think<lb/> they will allow themselves to be <hi rend="underline"><sic>whipt</sic></hi></p>
+			<pb n="4"/>
+				<p>back&#44; et afres<add>&#63;</add>&#63;  <sic>our</sic> turn will come I presume<lb/> and we shall have northern invincibles<lb/> occupying <placeName>Montreal</placeName> n&#39;est ce pas&#63;</p>
+			<p rend="indent(1)">When we meet we can discuss<lb/> these weighty matters.  Till then things&#44; I presume<lb/> will go their way uninfluenced by what we<lb/> may say&#44; so why vex ourselves therewith<add>&#63;</add></p>
+			<p rend="indent(1)">During my recent visit to <placeName>England</placeName><lb/> I found that it was rather more common than I<lb/> expected&#44; to <hi rend="underline">exchange</hi> publications.  So if every you<lb/> want a few English&#39;s&#44; Calendars&#44; &#38;c on these terms &#40;with<lb/> the usual discount&#44; I shall be glad to supply you&#44;<lb/> As I am sending on a parcel to <persName>Miss Gratz</persName>&#44; I will<lb/> enclose you a few numbers of Part 1 of Sanatary<add>&#63;</add><lb/> Institutions&#44; recently put in paper covers which you<lb/> perhaps could circulate without much trouble<lb/> among your friends Jewish or Christian&#8212;selling<lb/> price 25 cents a copy&#44; with 20&#37; off commission.</p>
+			<p rend="indent(1)">I have now pretty well covered my<lb/> paper&#44; and must therefore bid you adieu for the<lb/> present.  <persName>Mrs De Sola</persName> and family untie<lb/> in kind regards and with best wishes</p>
+			<p rend="indent(7)">I remain yours truly</p>
+			<p rend="indent(8)"><persName role="author">Abraham de Sola</persName></p>
+				<p>May I trouble you to send up to<lb/> <persName>Miss Gratz</persName> the copy<lb/> Sanatary<add>&#63;</add> Institutions and parcel enclosed no doubt<lb/> you can always summons a <add>&#63;</add><lb/> <add>&#63;</add>evil at your <add>&#63;</add></p>
+		</body>
+	</text>
+</TEI>

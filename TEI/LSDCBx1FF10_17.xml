@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI [
+<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
+%teibase;
+<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
+%teiext;
+]>
+<TEI>
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>[no title given]</title>
+          <author attested="yes" accepted="yes" signature="yes">Leo, Ansel; Schlesinger, David</author>
+          <editor></editor>
+          <sponsor></sponsor>
+          <funder></funder>
+          <principal></principal>
+          <respStmt>
+            <resp></resp>
+            <name></name>
+          </respStmt>
+        </titleStmt>
+        <editionStmt>
+          <edition></edition>
+          <respStmt>
+            <resp></resp>
+            <name></name>
+          </respStmt>
+        </editionStmt>
+        <extent>[information about file size goes here, information about extent of physical item comes later]</extent>
+        <publicationStmt>
+          <publisher>Unpublished manuscript</publisher>
+        </publicationStmt>
+        <seriesStmt>
+          <p>Not part of a series</p>
+        </seriesStmt>
+        <notesStmt>
+          <note></note>
+        </notesStmt>
+        <sourceDesc>
+          <biblStruct>
+            <!-- catalog entry goes here -->
+            <monogr>
+              <imprint>
+                <dateLet></dateLet>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <msDesc>
+            <msIdentifier>
+              <country>USA</country>
+              <region>PA</region>
+              <settlement>Philadelphia</settlement>
+              <institution></institution>
+              <repository>CAJS Isaac Leeser Collection</repository>
+              <collection>The Library of the Dropsie College for Hebrew and Cognate Learning</collection>
+              <idno>LSDCBx1FF10_17</idno>
+              <altIdentifier>
+                <idno></idno>
+              </altIdentifier>
+              <msName></msName>
+            </msIdentifier>
+            <head></head>
+            <letHeading>
+              <author attested="yes" accepted="yes" signature="yes">Leo, Ansel; Schlesinger, David</author>
+              <addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac, Rev.; Bach, Herr</addressee>
+              <deliverer></deliverer>
+              <respStmt>
+                <resp></resp>
+                <name></name>
+              </respStmt>
+              <placeLet>New York, NY</placeLet>
+              <placeRec>Philadelphia, PA</placeRec>
+              <dateLet when="1853-03" source="" attested="yes">21 March 1853</dateLet>
+              <dateLet when="1853-03" source="" attested="yes">21 March 5613</dateLet>
+            </letHeading>
+            <msContents>
+              <msItem>
+                <author></author>
+                <editor></editor>
+                <respStmt>
+                  <resp></resp>
+                  <name></name>
+                </respStmt>
+                <title></title>
+                <decoNote></decoNote>
+                <listBibl>
+                  <bibl></bibl>
+                </listBibl>
+                <filiation></filiation>
+                <textLang></textLang>
+                <figure>
+                  <graphic url="ilcajs_b1f10_0017_1r.jpg"/>
+                  <graphic url="ilcajs_b1f10_0017_1v.jpg"/>
+                  <graphic url="ilcajs_b1f10_0017_2r.jpg"/>
+                </figure>
+              </msItem>
+            </msContents>
+            <physDesc>
+              <objectDesc>
+                <supportDesc>
+                  <support>
+                    <material color="" lined="unk" paper_type="" size="Letter">letter</material>
+                  </support>
+                  <extent>4 pages on 4 sheets
+                    <dimensions></dimensions>
+                  </extent>
+                  <foliation></foliation>
+                  <collation></collation>
+                  <condition fragment="false"></condition>
+                </supportDesc>
+                <layoutDesc>
+                  <layout></layout>
+                </layoutDesc>
+              </objectDesc>
+              <handDesc script="manuscript">
+                  <handNote></handNote>
+              </handDesc>
+              <decoDesc>
+                <decoNote></decoNote>
+              </decoDesc>
+              <additions></additions>
+              <bindingDesc>
+                <binding>
+                  <decoNote></decoNote>
+                </binding>
+              </bindingDesc>
+              <sealDesc>
+                <seal>
+                  <p>Wax seal</p>
+                </seal>
+              </sealDesc>
+              <accMat></accMat>
+              <envDesc occ="false"></envDesc>
+            </physDesc>
+            <history>
+              <origin></origin>
+              <provenance></provenance>
+              <acquisition></acquisition>
+            </history>
+            <additional>
+              <adminInfo>
+                <recordHist>
+                  <source></source>
+                  <change></change>
+                </recordHist>
+                <availability status="free">
+                  <p>Unrestricted</p>
+                </availability>
+                <custodialHist>
+                  <custEvent></custEvent>
+                </custodialHist>
+              </adminInfo>
+              <surrogates></surrogates>
+              <listBibl>
+                <bibl></bibl>
+              </listBibl>
+            </additional>
+            <msPart>
+              <altIdentifier>
+                <idno></idno>
+              </altIdentifier>
+            </msPart>
+          </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <projectDesc>
+          <p></p>
+        </projectDesc>
+        <samplingDecl>
+          <p></p>
+        </samplingDecl>
+        <editorialDecl>
+          <correction>
+            <p></p>
+          </correction>
+          <normalization>
+            <p></p>
+          </normalization>
+          <quotation>
+            <p></p>
+          </quotation>
+          <hyphenation>
+            <p></p>
+          </hyphenation>
+          <segmentation>
+            <p></p>
+          </segmentation>
+          <stdVals>
+            <p></p>
+          </stdVals>
+          <interpretation>
+            <p></p>
+          </interpretation>
+        </editorialDecl>
+        <tagsDecl>
+          <rendition></rendition>
+          <namespace name="http://www.tei-c.org/ns/1.0">
+            <tagUsage gi=""></tagUsage>
+          </namespace>
+        </tagsDecl>
+        <refsDecl>
+          <cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
+        </refsDecl>
+        <refsDecl>
+          <refState unit=""/>
+        </refsDecl>
+        <classDecl>
+          <taxonomy>
+            <category>
+              <catDesc></catDesc>
+            </category>
+          </taxonomy>
+        </classDecl>
+        <appInfo>
+          <application ident="" version="">
+            <desc></desc>
+            <label></label>
+          </application>
+        </appInfo>
+      </encodingDesc>
+      <profileDesc>
+        <creation></creation>
+        <langUsage>
+          <language ident="en">English</language>
+          <language ident="he">Hebrew</language>
+        </langUsage>
+        <textClass>
+          <keywords scheme="unknown">
+            <list>
+              <item></item>
+              <item></item>
+            </list>
+          </keywords>
+          <classCode scheme=""></classCode>
+          <catRef/>
+        </textClass>
+      </profileDesc>
+      <revisionDesc>
+        <change></change>
+      </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+      
+		<pb n="1"/>
+			<p rend="align(right)"><placeName>New York 144 Thompson St</placeName></p>
+			<p rend="aling(right)"><date>March 21<hi rend="sup">st</hi> 5613. 1853</date></p>
+			<p>Dear Sir&#47;</p>
+          <p rend="indent(1)">The sealed enclosure addressed to you<lb/> my Brother brought from <placeName>California</placeName> and<lb/> the German paper is an extract from a<lb/> Letter recd by a resident of <placeName>New York</placeName><lb/> it was given to me by a very respectable<lb/> and truthful man who wishes you to translate<lb/> and insert it the &#8220;Occident&#8221; I believe<lb/> there is much truth in what is said<lb/> concerning the <add>Hebrew</add> but of course you<lb/> will exercise your own discretion&#8212;<lb/> wishing you every happiness you yourself<lb/> desire&#160;&#160;I am yours faithfully</p>
+			<p><persName role="author">Ansel Leo</persName></p>
+			<p>To</p>
+			<p><addressee>Revd Isaac Leeser</addressee></p>
+		<pb n="2"/>
+			<p><addressee>Revd Isaac Leeser</addressee></p>
+			<p><placeName>371&#8212;Walnut St</placeName></p>
+          <p rend="indent(1)"><placeName>Philadelphia</placeName></p>
+		<pb n="3"/>
+			<p><add>Hebrew</add></p>
+			<p><add>&#63;</add> <persName>Adolph Back</persName></p>
+			<p><placeName>275 William st&#58;</placeName></p>
+          <p rend="indent(2)"><placeName>N. Y.</placeName></p>
+		<pb n="4"/>
+          <p rend="indent(1)"><add><hi rend="underline">Yiddish</hi></add></p>
+			<p>copy</p>
+          <p rend="indent(1)">My dear friend <persName>Herr Bach</persName>&#44;</p>
+          <p rend="indent(2)">Large orders for Tifillin and Mazuzot<lb/> come over from there&#42;&#44; and people send out such as are<lb/> for the most part improper. The leather for the<lb/> thongs of the T&#39;fillin is bought here form such<lb/> animals which are forbidden in the Torah. In<lb/> the same way&#44; they make the cases for the T&#39;fillin<lb/> for head and arm in an improper manner. Much<lb/> less can the Parashoth contained in them be<lb/> Kosher since the scribe has them printed and<lb/> sells a complete pair of T&#39;fillin for 6 or 6 &#189;<lb/> groshen. Therefore&#44; I think it would be a great<lb/> &#8220;Mitzva&#8221; to have it announced there among the<lb/> pious and whole hearted that whatever T&#39;fillin and<lb/> Mezuzot arrive there&#44; without the seal of a legi&#45;<lb/>timate court&#44; should not be accepted as Kosher&#44;<lb/> and that a legitimate court will take care that<lb/> T&#39;fillin and Mezuzot as well as Torahs should be sent<lb/> out in a Kosher fashion.</p>
+          <p rend="indent(1)">Your friend who blesses you and<lb/> your house with all good</p>
+          <p rend="indent(6)"><persName role="author">David Schlesinger</persName></p>
+          <p rend="indent(6)">Dayyau of <placeName>Breslau</placeName></p>
+			<p>&#42;<placeName>America</placeName>&#44; presumably</p>
+			<p>&#8220;Judge&#8221;</p>
+          
+        </body>
+    </text>
+</TEI>

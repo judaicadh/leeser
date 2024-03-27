@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI [
+<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
+%teibase;
+<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
+%teiext;
+]>
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>[no title given]</title>
+				<author attested="yes" accepted="yes" signature="yes">Ridskopf, J., Dr.</author>
+				<editor></editor>
+				<sponsor></sponsor>
+				<funder></funder>
+				<principal></principal>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition></edition>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</editionStmt>
+			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
+			<publicationStmt>
+				<publisher>Unpublished manuscript</publisher>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Not part of a series</p>
+			</seriesStmt>
+			<notesStmt>
+				<note></note>
+			</notesStmt>
+			<sourceDesc>
+				<biblStruct>
+					<!-- catalog entry goes here -->
+					<monogr>
+						<imprint>
+							<dateLet></dateLet>
+						</imprint>
+					</monogr>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<country>USA</country>
+						<region>PA</region>
+						<settlement>Philadelphia</settlement>
+						<institution></institution>
+						<repository>LSKAP</repository>
+						<collection>The Arnold and Deanne Kaplan Collection of Early American Judaica</collection>
+						<idno>LSKAP20-316</idno>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+						<msName></msName>
+					</msIdentifier>
+					<head></head>
+					<letHeading>
+						<author attested="yes" accepted="yes" signature="yes">Ridskopf, J., Dr.</author>
+						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac</addressee>
+						<deliverer></deliverer>
+						<respStmt>
+							<resp></resp>
+							<name></name>
+						</respStmt>
+						<placeLet>New York, NY</placeLet>
+						<placeRec>Philadelphia, PA</placeRec>
+						<dateLet when="1860-02" source="" attested="yes">February 10, 1860</dateLet>
+					</letHeading>
+					<msContents>
+						<msItem>
+							<author></author>
+							<editor></editor>
+							<respStmt>
+								<resp></resp>
+								<name></name>
+							</respStmt>
+							<title></title>
+							<decoNote></decoNote>
+							<listBibl>
+								<bibl></bibl>
+							</listBibl>
+							<filiation></filiation>
+							<textLang></textLang>
+							<figure>
+								<graphic url="leeser_20_316_b001.jpg"></graphic>
+								<graphic url="leeser_20_316_b002.jpg"></graphic>
+								<graphic url="leeser_20_316_b003.jpg"></graphic>
+								<graphic url="leeser_20_316_b004.jpg"></graphic>
+								<graphic url="leeser_20_316_a001.jpg"></graphic>
+							</figure>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support>
+									<material color="" lined="false" paper_type="" size="">letter</material>
+								</support>
+								<extent>3 pages on 2 sheets
+									<dimensions></dimensions>
+								</extent>
+								<foliation></foliation>
+								<collation></collation>
+								<condition fragment="false"></condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout></layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc script="manuscript">
+							<handNote></handNote>
+						</handDesc>
+						<decoDesc>
+							<decoNote></decoNote>
+						</decoDesc>
+						<additions>Advertisement</additions>
+						<bindingDesc>
+							<binding>
+								<decoNote></decoNote>
+							</binding>
+						</bindingDesc>
+						<sealDesc>
+							<seal>
+								<p></p>
+							</seal>
+						</sealDesc>
+						<accMat></accMat>
+						<envDesc occ="false"></envDesc>
+					</physDesc>
+					<history>
+						<origin></origin>
+						<provenance></provenance>
+						<acquisition></acquisition>
+					</history>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source></source>
+								<change></change>
+							</recordHist>
+							<availability status="restricted">
+								<p>Restricted</p>
+							</availability>
+							<custodialHist>
+								<custEvent></custEvent>
+							</custodialHist>
+						</adminInfo>
+						<surrogates></surrogates>
+						<listBibl>
+							<bibl></bibl>
+						</listBibl>
+					</additional>
+					<msPart>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+					</msPart>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p></p>
+			</projectDesc>
+			<samplingDecl>
+				<p></p>
+			</samplingDecl>
+			<editorialDecl>
+				<correction>
+					<p></p>
+				</correction>
+				<normalization>
+					<p></p>
+				</normalization>
+				<quotation>
+					<p></p>
+				</quotation>
+				<hyphenation>
+					<p></p>
+				</hyphenation>
+				<segmentation>
+					<p></p>
+				</segmentation>
+				<stdVals>
+					<p></p>
+				</stdVals>
+				<interpretation>
+					<p></p>
+				</interpretation>
+			</editorialDecl>
+			<tagsDecl>
+				<rendition></rendition>
+				<namespace name="http://www.tei-c.org/ns/1.0">
+					<tagUsage gi=""></tagUsage>
+				</namespace>
+			</tagsDecl>
+			<refsDecl>
+				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
+			</refsDecl>
+			<refsDecl>
+				<refState unit=""/>
+			</refsDecl>
+			<classDecl>
+				<taxonomy>
+					<category>
+						<catDesc></catDesc>
+					</category>
+				</taxonomy>
+			</classDecl>
+			<appInfo>
+				<application ident="" version="">
+					<desc></desc>
+					<label></label>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<creation></creation>
+			<langUsage>
+				<language ident="en">English</language>
+				<language ident="de">German</language>
+			</langUsage>
+			<textClass>
+				<keywords scheme="unknown">
+					<list>
+						<item></item>
+						<item></item>
+					</list>
+				</keywords>
+				<classCode scheme=""></classCode>
+				<catRef/>
+			</textClass>
+		</profileDesc>
+		<revisionDesc>
+			<change></change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<pb n="1R"/>
+				<p rend="align(center)"><hi rend="bold"><persName role="author">DR. J. RIDSKOF&#39;S</persName></hi></p>
+				<p rend="align(center)">SELECT MALE AND FEMALE ACADEMY&#44;</p>
+				<p rend="align(center)">OR</p>
+				<p rend="align(center)">Classical English and Commercial Institute&#44;</p>
+				<p rend="align(center)">A DAY AND BOARDING SCHOOL&#44;</p>
+				<p rend="align(center)"><placeName><placeName>No. 88 West 25th Street&#44; near Seventh Avenue&#44; N. Y.</placeName></placeName></p>
+			<p rend="indent(1)">ALTHOUGH this is a new Institution&#44; it should be understood&#44; that the Principal who was formerly leader of one of the<lb/> best Schools in this city&#44; in which his services have been considered so valuable as to be retained for a series of years&#44; has been<lb/> thus accredited for his system of Instruction as to have received numerous testimonials of the most complimentary character<lb/> from gentlemen of the highest standing in the community&#44; inviting him to open a DAY AND BOARDING SCHOOL of the first<lb/> order.</p>
+			<p rend="indent(1)">The aim and scope of this Institute is the cultivation and development of  the youthful mind&#44; in all that pertains to the<lb/> embellishment of thought and language&#44; and the implanting of high moral principles as a guide to conduct and action&#58; nor<lb/> shall it yield to any in its character for thoroughness and efficiency in imparting instruction&#44; as well as securing good discipline&#44;<lb/> by encouraging the acquisition of knowledge&#44; without the application of coersive measures.</p>
+				<p rend="align(center)">FURTHER PARTICULARS.</p>
+			<p rend="indent(1)">The number of pupils is limited&#44; so as to procure the greatest perfection in instruction and general deportment&#44; thus<lb/> enabling the professors to comprehend fully the capacity and requirements of each Pupil.</p>
+			<p rend="indent(1)">The Class&#45;rooms are admirably constructed to secure health and comfort&#44; being spacious&#44; well&#45;lighted&#44; well&#45;ventilated and<lb/> provided with desks and seats suited to the height of the youth.</p>
+			<p rend="indent(1)">It is hoped that every Pupil will be as constant and punctual in his attendance as possible&#44; else the Principal would not<lb/> be responsible for the advancement of such as are placed under his care.</p>
+			<p rend="indent(1)">With a view to a more rapid progress&#44; as well as to inculcate habits of self&#45;reliance&#44; Day Pupils are required to study one<lb/> or two hours daily&#44; at home&#44; under the supervision of their parents.</p>
+			<p rend="indent(1)">A daily record is made of each pupil&#39;s attendance&#44; deportment and scholarship&#44; and the results are embodied in a monthly<lb/> report to the Patrons of the School.  The attention of the parents is particularly requested to these reports&#44; which will be sent<lb/> them regularly.</p>
+			<p rend="indent(1)">Tuition will be charged from the date of entrance&#44; <emph rend="italics">invariably in advance&#44;</emph> and no deduction will be made for absence unless<lb/> in case of protracted sickness&#44; when the loss will be divided equally between the Principal and Parents.</p>
+			<p rend="indent(1)">It is expected <sic>thar</sic> every Boarding Pupil will be furnished with bed and bedding&#44; including linen in full&#44; as also with table<lb/> napkins and a complete set of articles for the toilet.</p>
+			<p rend="indent(1)">The Course of Instruction affords facilities for the acquirement of complete <emph rend="italics">Mercantile</emph> accomplishments and for the pur&#45;<lb/>suit of those higher studies necessary for a polite education.</p>
+				<p>1. CLASSICS&#8212;Latin.<lb/> Greek.<lb/>  2. HEBREW.<lb/> 3. MODERN LANGUAGES&#8212;<lb/> English&#44;<lb/> French&#44;<lb/> German&#44;<lb/> Spanish&#44;<lb/> Italian.<lb/> 4. MATHEMATICS&#8212;<lb/> Mercantile Arithmetic.<lb/> &#40;Mental and Practical&#41;<lb/> Algebra&#44;<lb/> Plain Geometry&#44;<lb/> Solid &#34;<lb/> 5. NATURAL SCIENCES&#8212;<lb/> Natural Philosophy&#44;<lb/> &#34; History &#40;different branches.&#41;<lb/> 6. BOOK&#45;KEEPING.<lb/> 7. PENMANSHIP.<lb/> 8. ANCIENT AND MODERN HISTORY.<lb/> 9. GEOGRAPHY.<lb/> 10. ETYMOLOGY.<lb/> 11. ELOCUTION<lb/> 12. LITERATURE&#8212;<lb/> &#40;English&#44; French and German&#44;&#41;<lb/> 13. DRAWING.</p>
+				<p rend="align(center)">CHARGES.</p>
+				<p rend="align(center)">For Board&#44; Washing&#44; Lodging&#44; Fuel&#44; Light and Tuition&#44; per Year&#44; &#45; &#45; &#45; &#45; &#45; &#36;300 00</p>
+				<p rend="align(center)">For Day Pupils&#44; as follows&#58;</p>
+				<p rend="align(center)">For the First Class&#44; per Quarter&#44; &#45; &#45; &#45; &#45; &#45; &#45; &#45; &#45; &#45; &#45; &#36;20 50</p>
+				<p rend="align(center)">&#34; Second &#34; &#34; &#34; &#45; &#45; &#45; &#45; &#45; &#45; &#45; &#45; &#45; &#45; &#45; 17 50</p>
+				<p rend="align(center)">&#34; Third &#34; &#34; &#34; &#45; &#45; &#45; &#45; &#45; &#45; &#45; &#45; &#45; &#45; &#45; 15 00</p>
+				<p rend="align(center)">&#34; Fourth &#34; &#34; &#34; &#45; &#45; &#45; &#45; &#45; &#45; &#45; &#45; &#45; &#45; 12 50</p>
+				<p rend="align(center)"><add>hand symbol</add>No extra charges&#44; except for Music&#44; Stationery and Fuel.</p>
+				<p rend="align(center)">REMARKS.</p>
+			<p rend="indent(1)">The Principal assures his patrons that special attention will be given to the moral and religious culture as well as the<lb/> manners and habits of the youth entrusted to his care&#44; particularly of those who become members of his family.</p>
+			<p rend="indent(1)">Every facility will be afforded to the pupils in acquiring a thorough acquaintance with&#44; and a correct and finished pronun&#45;<lb/>ciation of&#44; the English French&#44; and German Languages&#59; all of which will be spoken both in the School and Family.</p>
+				<p rend="align(center)">REFERENCES.</p>
+			<p rend="indent(1)">With respect to References&#44; DR. RIDSKOPF need only say&#44; that all those distinguished names given&#44; generally&#44; by the<lb/> Jewish Private Schools of this city&#44; are given also by him.</p>
+			<pb n="1V"/>
+				<p rend="align(right)"><placeName><placeName>New&#58; York</placeName></placeName> <date>Febr. 10th 1860</date></p>
+				<p>Mein Herr&#33;</p>
+				<p>Der Anschlag dieses wird Sie sogleich mit den Ablicht vertraut machen&#44; die mir bei einem<lb/> Briefe an die verschriebt.  Eben nach erfolgten Er&#246;ffnung meinen Akademie Dann ich n&#228;ht um hin&#44;<lb/> <add>&#63;</add> zahlreichen Leserkreis bekannt werden zu wollen u. die dies auf dem Stege<add>&#63;</add> der<lb/> Ank&#252;ndigung den sichersten&#44; so bitte Sie nach genommener durchsicht die Programms eine<lb/> Bemerkung in <add>&#63;</add> gesch&#228;fgten Platte einzu flachten&#44; mir aber auch <hi rend="underline"><add>&#63;</add> anzuzeigen</hi>&#44;<lb/> wie billig Sie mire ein einfahriges Advertisement stellen k&#246;nnen.  Fein jeder Eichelteil<lb/> bin ich doch &#252;berzeugt&#44; da&#223; Ihren mein Name schon zu Geh&#246;r gekonnen&#44; woren Sie g&#252;t<add>&#63;</add><lb/> <add>&#63;</add> <add>&#63;</add> konnten&#59; ich lerke Ihre Aufmerksamkeit auf unter stehende S<add>&#63;</add>irung<lb/> der gew&#252;nschter Einrukung u. versichere Sie meiner hochrehtung Ergibst</p>
+				<p><persName role="author">D<hi rend="sup">r</hi> J. Ridskopf</persName>.</p>
+				<p>For the advertisement see the other page.</p>
+			<pb n="2"/>
+				<p rend="align(right)"><placeName><placeName>New York</placeName></placeName>&#44; <date>February 10th 1860</date></p>
+				<p>Sir&#58;</p>
+			<p rend="indent(1)">I send you this folder to make you<lb/> <del>ack</del> acquainted at once with the intention<lb/> which I have in writing this letter.  Now<lb/> that my Academy has been opened I want<lb/> to <del>get acquaint</del> make myself known to the<lb/> readers of your paper.  The best way to do that<lb/> would be to insert a note in your paper&#44; telling<lb/> of the opening of my Academy.  I also want<lb/> you to let me know as soon as possible<lb/> how much you would take for a one year<lb/> advertisement.  I am sure&#44; without<lb/> professing vanity that you have heard of my<lb/> name and took notice.  I call your<lb/> attention to the style of the advertisement<lb/> as I would like to see it in your paper.<lb/>  Very truly yours</p>
+				<p><persName role="author">Dr J Ridskopf</persName></p>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI [
+<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
+%teibase;
+<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
+%teiext;
+]>
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>[no title given]</title>
+				<author attested="yes" accepted="yes" signature="yes">Helmittold[?]</author>
+				<editor></editor>
+				<sponsor></sponsor>
+				<funder></funder>
+				<principal></principal>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition></edition>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</editionStmt>
+			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
+			<publicationStmt>
+				<publisher>Unpublished manuscript</publisher>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Not part of a series</p>
+			</seriesStmt>
+			<notesStmt>
+				<note></note>
+			</notesStmt>
+			<sourceDesc>
+				<biblStruct>
+					<!-- catalog entry goes here -->
+					<monogr>
+						<imprint>
+							<dateLet></dateLet>
+						</imprint>
+					</monogr>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<country>USA</country>
+						<region>PA</region>
+						<settlement>Philadelphia</settlement>
+						<institution></institution>
+						<repository>TCAT</repository>
+						<collection>Anonymous</collection>
+						<idno>LSTCAT_item83</idno>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+						<msName></msName>
+					</msIdentifier>
+					<head></head>
+					<letHeading>
+						<author attested="yes" accepted="yes" signature="yes">Helmittold[?]</author>
+						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac</addressee>
+						<deliverer></deliverer>
+						<respStmt>
+							<resp></resp>
+							<name></name>
+						</respStmt>
+						<placeLet>New York, NY</placeLet>
+						<placeRec>Philadelphia, PA</placeRec>
+						<dateLet when="1849-08" source="" attested="yes">August 2, 1849</dateLet>
+					</letHeading>
+					<msContents>
+						<msItem>
+							<author></author>
+							<editor></editor>
+							<respStmt>
+								<resp></resp>
+								<name></name>
+							</respStmt>
+							<title></title>
+							<decoNote></decoNote>
+							<listBibl>
+								<bibl></bibl>
+							</listBibl>
+							<filiation></filiation>
+							<textLang></textLang>
+							<figure>
+								<graphic url="il_tcat_item83_wk1_body0001.jpg"></graphic>
+								<graphic url="il_tcat_item83_wk1_body0002.jpg"></graphic>
+								<graphic url="il_tcat_item83_wk1_body0003.jpg"></graphic>
+								<graphic url="il_tcat_item83_wk1_body0004.jpg"></graphic>
+							</figure>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support>
+									<material color="" lined="false" paper_type="" size="">letter</material>
+								</support>
+								<extent>2 pages on 1 sheet
+									<dimensions></dimensions>
+								</extent>
+								<foliation></foliation>
+								<collation></collation>
+								<condition fragment="false"></condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout></layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc script="manuscript">
+							<handNote></handNote>
+						</handDesc>
+						<decoDesc>
+							<decoNote></decoNote>
+						</decoDesc>
+						<additions></additions>
+						<bindingDesc>
+							<binding>
+								<decoNote></decoNote>
+							</binding>
+						</bindingDesc>
+						<sealDesc>
+							<seal>
+								<p></p>
+							</seal>
+						</sealDesc>
+						<accMat></accMat>
+						<envDesc occ="false"></envDesc>
+					</physDesc>
+					<history>
+						<origin></origin>
+						<provenance></provenance>
+						<acquisition></acquisition>
+					</history>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source></source>
+								<change></change>
+							</recordHist>
+							<availability status="free">
+								<p>Unrestricted</p>
+							</availability>
+							<custodialHist>
+								<custEvent></custEvent>
+							</custodialHist>
+						</adminInfo>
+						<surrogates></surrogates>
+						<listBibl>
+							<bibl></bibl>
+						</listBibl>
+					</additional>
+					<msPart>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+					</msPart>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p></p>
+			</projectDesc>
+			<samplingDecl>
+				<p></p>
+			</samplingDecl>
+			<editorialDecl>
+				<correction>
+					<p></p>
+				</correction>
+				<normalization>
+					<p></p>
+				</normalization>
+				<quotation>
+					<p></p>
+				</quotation>
+				<hyphenation>
+					<p></p>
+				</hyphenation>
+				<segmentation>
+					<p></p>
+				</segmentation>
+				<stdVals>
+					<p></p>
+				</stdVals>
+				<interpretation>
+					<p></p>
+				</interpretation>
+			</editorialDecl>
+			<tagsDecl>
+				<rendition></rendition>
+				<namespace name="http://www.tei-c.org/ns/1.0">
+					<tagUsage gi=""></tagUsage>
+				</namespace>
+			</tagsDecl>
+			<refsDecl>
+				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
+			</refsDecl>
+			<refsDecl>
+				<refState unit=""/>
+			</refsDecl>
+			<classDecl>
+				<taxonomy>
+					<category>
+						<catDesc></catDesc>
+					</category>
+				</taxonomy>
+			</classDecl>
+			<appInfo>
+				<application ident="" version="">
+					<desc></desc>
+					<label></label>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<creation></creation>
+			<langUsage>
+				<language ident="de">German</language>
+			</langUsage>
+			<textClass>
+				<keywords scheme="unknown">
+					<list>
+						<item></item>
+						<item></item>
+					</list>
+				</keywords>
+				<classCode scheme=""></classCode>
+				<catRef/>
+			</textClass>
+		</profileDesc>
+		<revisionDesc>
+			<change></change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<pb n="1"/>
+			<p rend="align(right)"><placeName>New York</placeName> <add>&#63;</add> <date>2 August<lb/>1849</date>.</p>
+				<p>Rev. Dr. <addressee>Isaac Leeser</addressee></p>
+			<p rend="indent(1)"><placeName>Philadelphia</placeName></p>
+			<p rend="indent(1)">Wir erlauben uns eine gesch&#228;ftsverbindung<lb/> zwischen uns Ihnen vorzuschlagen.</p>
+				<p>Wir besitzen<lb/> <add>&#63;</add>lich ein vollst&#228;ndiges Lager des ihr<add>&#63;</add>ld<lb/> tisch<add>&#63;</add> Verlags von <persName>herrn I. Busch</persName> aus <placeName>Wien</placeName>&#44;<lb/> der wir Sie <add>&#63;</add> <add>&#63;</add> sp&#228;ter hier zur<add>&#63;</add> eintraf.<lb/>  B<add>&#63;</add> Verkauf jenes Werke <add>&#63;</add> t&#228;glich mehr<lb/> heeres<add>&#63;</add> da&#223; wir namentlich <add>&#63;</add> Ihne <add>&#63;</add>lische<lb/> Ausgaben der t&#228;glichen gebeten und des Machsor<lb/> <add>&#63;</add> beiden Riten bed&#252;rfen.</p>
+				<p>Wir fangen daher zun&#228;chste bei Ihnen an&#58;</p>
+				<list type="ordered">
+				<head></head>
+				<item n="1"> ob Sie uns ein kleines <add>&#63;</add>S<add>&#63;</add>s. Lager<lb/> zu geben bereit sind.</item>
+				<item n="2"> Welchen Rabatt Sie gew&#228;hren&#44;</item>
+				<item n="3"> Ob Sie nicht von uns dagegen ein<add>&#63;</add>s&#44;<lb/> <add>&#63;</add>lager des Busch <add>&#63;</add> Verlags &#252;berneh&#44;<lb/>men wollen zu welchem Ende wir gleich&#44;<lb/>zeitig der <add>&#63;</add> eine <add>&#63;</add> des Katalogs &#252;ber&#44;<lb/>geben.</item>
+				<item n="4"> Ob Ihnen ein <add>&#63;</add> <add>&#63;</add> und welche<lb/> Werke Sie zu erhalten w&#252;nschen.</item>
+				</list>
+				<p>Wir sind B. einverstanden Ihnen ein <add>&#63;</add>ler<lb/> des <add>&#63;</add> <add>&#63;</add> des <add>&#63;</add> gegen Ihren<lb/> Verlag gleich umzutauschen.</p>
+			<p rend="indent(1)">Lieb w&#228;re es <add>&#63;</add>s&#44; wenn Sie uns sofort pr&#44;<lb/> Adams Express &#252;bersendeten<lb/> ein <add>&#63;</add> &#8222;Daily prayers&#8222; <hi rend="underline">detuscher und</hi><lb/> 1 ge<add>&#63;</add> Ritus<lb/> 1&#8212;&#45;Machsor deutscher <hi rend="underline">und</hi> 1 do.<lb/> g<add>&#63;</add> Ritus.</p>
+				<p>Ihre <add>&#63;</add>f. Antwort erwartend&#44; zw<add>&#63;</add>ach&#44;<lb/>tungsvoll</p>
+			<p rend="indent(1)">Ihre</p>
+			<p rend="indent(1)"><add>&#63;</add></p>
+			<p rend="indent(1)"><persName role="author">Helmittold<add>&#63;</add></persName></p>
+			<p rend="indent(1)"><placeName>191 William</placeName></p>
+				<p><persName role="author">Helmitt<add>&#63;</add></persName></p>
+			<pb n="4"/>
+				<p>Rev. Dr. <addressee>Isaac Leeser</addressee></p>
+			<p rend="indent(2)"><placeName>Philadelphia</placeName></p>
+			<p rend="indent(3)"><placeName><hi rend="underline">Pa</hi></placeName></p>
+				<p><hi rend="underline">Paid</hi></p>
+		</body>
+	</text>
+</TEI>

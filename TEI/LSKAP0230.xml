@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI [
+<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
+%teibase;
+<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
+%teiext;
+]>
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>[no title given]</title>
+				<author attested="yes" accepted="yes" signature="yes">Jacobsohn, Joseph</author>
+				<editor></editor>
+				<sponsor></sponsor>
+				<funder></funder>
+				<principal></principal>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition></edition>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</editionStmt>
+			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
+			<publicationStmt>
+				<publisher>Unpublished manuscript</publisher>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Not part of a series</p>
+			</seriesStmt>
+			<notesStmt>
+				<note></note>
+			</notesStmt>
+			<sourceDesc>
+				<biblStruct>
+					<!-- catalog entry goes here -->
+					<monogr>
+						<imprint>
+							<dateLet></dateLet>
+						</imprint>
+					</monogr>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<country>USA</country>
+						<region>PA</region>
+						<settlement>Philadelphia</settlement>
+						<institution></institution>
+						<repository>LSKAP</repository>
+						<collection>The Arnold and Deanne Kaplan Collection of Early American Judaica</collection>
+						<idno>LSKAP0230</idno>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+						<msName></msName>
+					</msIdentifier>
+					<head></head>
+					<letHeading>
+						<author attested="yes" accepted="yes" signature="yes">Jacobsohn, Joseph</author>
+						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac</addressee>
+						<deliverer></deliverer>
+						<respStmt>
+							<resp></resp>
+							<name></name>
+						</respStmt>
+						<placeLet>New Orleans, LA</placeLet>
+						<placeRec>Philadelphia, PA</placeRec>
+						<dateLet when="1865-06" source="" attested="yes">June 28, 1865</dateLet>
+					</letHeading>
+					<msContents>
+						<msItem>
+							<author></author>
+							<editor></editor>
+							<respStmt>
+								<resp></resp>
+								<name></name>
+							</respStmt>
+							<title></title>
+							<decoNote></decoNote>
+							<listBibl>
+								<bibl></bibl>
+							</listBibl>
+							<filiation></filiation>
+							<textLang></textLang>
+							<figure>
+								<graphic url="LSKAP0230_1r.jpg"></graphic>
+								<graphic url="LSKAP0230_1v.jpg"></graphic>
+								<graphic url="LSKAP0230_2r.jpg"></graphic>
+								<graphic url="LSKAP0230_2v.jpg"></graphic>
+							</figure>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support>
+									<material color="" lined="true" paper_type="" size="">letter</material>
+								</support>
+								<extent>4 pages on 2 sheets
+									<dimensions></dimensions>
+								</extent>
+								<foliation></foliation>
+								<collation></collation>
+								<condition fragment="false"></condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout></layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc script="manuscript">
+							<handNote></handNote>
+						</handDesc>
+						<decoDesc>
+							<decoNote></decoNote>
+						</decoDesc>
+						<additions></additions>
+						<bindingDesc>
+							<binding>
+								<decoNote></decoNote>
+							</binding>
+						</bindingDesc>
+						<sealDesc>
+							<seal>
+								<p></p>
+							</seal>
+						</sealDesc>
+						<accMat></accMat>
+						<envDesc occ="false"></envDesc>
+					</physDesc>
+					<history>
+						<origin></origin>
+						<provenance></provenance>
+						<acquisition></acquisition>
+					</history>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source></source>
+								<change></change>
+							</recordHist>
+							<availability status="restricted">
+								<p>Restricted</p>
+							</availability>
+							<custodialHist>
+								<custEvent></custEvent>
+							</custodialHist>
+						</adminInfo>
+						<surrogates></surrogates>
+						<listBibl>
+							<bibl></bibl>
+						</listBibl>
+					</additional>
+					<msPart>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+					</msPart>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p></p>
+			</projectDesc>
+			<samplingDecl>
+				<p></p>
+			</samplingDecl>
+			<editorialDecl>
+				<correction>
+					<p></p>
+				</correction>
+				<normalization>
+					<p></p>
+				</normalization>
+				<quotation>
+					<p></p>
+				</quotation>
+				<hyphenation>
+					<p></p>
+				</hyphenation>
+				<segmentation>
+					<p></p>
+				</segmentation>
+				<stdVals>
+					<p></p>
+				</stdVals>
+				<interpretation>
+					<p></p>
+				</interpretation>
+			</editorialDecl>
+			<tagsDecl>
+				<rendition></rendition>
+				<namespace name="http://www.tei-c.org/ns/1.0">
+					<tagUsage gi=""></tagUsage>
+				</namespace>
+			</tagsDecl>
+			<refsDecl>
+				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
+			</refsDecl>
+			<refsDecl>
+				<refState unit=""/>
+			</refsDecl>
+			<classDecl>
+				<taxonomy>
+					<category>
+						<catDesc></catDesc>
+					</category>
+				</taxonomy>
+			</classDecl>
+			<appInfo>
+				<application ident="" version="">
+					<desc></desc>
+					<label></label>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<creation></creation>
+			<langUsage>
+				<language ident="en">English</language>
+				<language ident="he">Hebrew</language>
+			</langUsage>
+			<textClass>
+				<keywords scheme="unknown">
+					<list>
+						<item></item>
+						<item></item>
+					</list>
+				</keywords>
+				<classCode scheme=""></classCode>
+				<catRef/>
+			</textClass>
+		</profileDesc>
+		<revisionDesc>
+			<change></change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<pb n="1R"/>
+				<p rend="align(right)"><placeName>New Orleans</placeName> <date>June 28 1865</date></p>
+				<p>To <addressee>Revd Isaac Lesser</addressee></p>
+			<p rend="indent(1)">Editor &#8220;Occident</p>
+			<p rend="indent(1)"><placeName>Philadelphia</placeName></p>
+				<p>Revd &#38; Dear Sir</p>
+			<p rend="indent(2)">Though not your correspondent I still take the<lb/> liberty to gratify your desire and inform you of the reason of <persName>Dr<lb/> Illowy&#39;s</persName> refusing a reelection after he had affected so much good in<lb/> the Congregation.</p>
+			<p rend="indent(1)">In the outset I beg leave to make you acquainted with<lb/> the new circumstances as they are now prevailing in our midst.  Our<lb/> Cong. Schaarey Chased was originally founded <sic>a</sic> orthodox Cong.<lb/> still we had not more than the mere name in reality however we<lb/> were nothing <add>Hebrew</add> our fine Synagogue was empty on<lb/> <date>Sabbath</date> and Holydays and it was not seldom the case that<lb/> the reader had to stop and wait a considerable time before the<lb/> due number of <sic>worshippers</sic> was complete.  Over ten or eleven persons<lb/> never &#40;the <date>day of <sic>atonemet</sic></date> excepted&#41; attended divine service <add>Hebrew</add><lb/> were useless and unknown articles&#59; among several hundred children<lb/> there were not ten who could read a hebrew word and no religious<lb/> education was given to them&#59; the never pronounced the glorious name<lb/> of God except when swearing or cursing&#59; of the History of their<lb/> nation they knew no more than that they were jews&#44; and this<lb/> they only learned from their christian schoolmates who called them<lb/> so.  There was but one <add>Hebrew</add> for the four Congs. whose members live<lb/> scattered all over this large city.  The &#8222; ladies Gallery &#8220; was in such a<lb/> state that every decent <add>man</add> was bound to keep his eyes fixed to the ground<lb/> lest by an unintended glimpse on the gallery he should violate</p>
+			<pb n="1V"/>
+				<p>the laws of decency and respect due to the sacred abode.</p>
+				<p>Yes <placeName>New Orleans</placeName> was at time not much better than an <add>Hebrew</add><lb/> there was no religious <sic>superindendant</sic> and <del>the</del> <add>Hebrew</add> and butcher<lb/> acted just according to their pleasure.</p>
+				<p>From all these and a good many other evils <persName>Dr Illowy</persName> healed<lb/> the Cong. immediately at his arrival.  The President <persName>S. Fried<lb/>ler Esq</persName> supported him with all his<del> <add>&#63;</add> </del> might and influence and<lb/> in a very short time he succeeded in establishing <del>a</del> <date>Sabbath&#39;s</date><lb/> rest in the Cong&#59; over eighty wholesale and retail <add>merchants</add> closed at once<lb/> their places of business on <add>Hebrew</add>&#59; the house of worship was crowdedly<lb/> every <date>Sabbath</date>&#59; the railing around the Ladies Gallery was draped<lb/> from inside<lb/> and assistant <add>Hebrew</add> was engaged and peddler with<lb/> <add>Hebrew</add> commenced to make elegant business here.<lb/>  The <add>Hebrew</add> had to subject to the rules of their <sic>Superintendant</sic><lb/> and the butchers who sell on <add>Hebrew</add> had to have their meat sealed<lb/> with a seal procured by the Cong. for that purpose.</p>
+				<p>The word of God was taught and expounded every <date>Sabbath</date> by<lb/> <persName>Revd Dr Illowy</persName> in a very able and eloquent manner and his<lb/> words fell upon many a <del>bless</del> fertile heart and yielded blissful<lb/> fruits.  Besides a sunday <del>sunday</del> school&#44; we have yet two large day<lb/> schools in which besides all the higher school branches taught<lb/> therein by competent and experienced teachers&#44; the utmost care and<lb/> <sic>and</sic> attention are paid to the religious education of our children&#44; as<lb/> instruction in hebrew reading&#44; translating the bible and the prophets<lb/> the History of our Nation from the time of <persName>Abram</persName> to the<lb/> destruction of the second <add>temple</add>.  The great change in our religious life<lb/> could best be seen last <add>Hebrew</add> when there were <sic>ove</sic> fifty tabernacles<lb/> in the city whilst when <persName>Dr Illowy</persName> arrived here there was but one.</p>
+			<pb n="2R"/>
+				<p>But while we were greatly rejoiced at our great success&#44; our rapid<lb/> progress was suddenly checked by a party of young men the most<lb/> of them hailing from the <placeName>North</placeName>&#44; who came to this city a few years<lb/> ago and formed an association under the title of the &#8220;Deutche<lb/> Company.&#8221;  This society increased <sic>rapidle</sic> during the last two years<lb/> <add>Hebrew</add> and became numerous enough for the daring<lb/> enterprise to build a large and gorgeous reform Temple&#44; which should<lb/> eclipse in magnificence that of <placeName>Jerusalem</placeName> and in comparison to<lb/> which the great Temple of <placeName>New York</placeName> should be as the hut of the<lb/> esquimaux<add>&#63;</add>&#44; to the royal palace of <persName>Napoleon</persName>&#44; in the upper part<lb/> of this city.  Meetings were held for that purpose officers elected<lb/> committees appointed and circulars sent around to all the Hebrews<lb/> in this city&#44; and many reform friends and mal&#45;contents joined the<lb/> Association</p>
+				<p>Already every one young and old began to see gay visions of a<lb/> fashionable divine service.  Family pews Ladies and Gentleman<lb/> together&#44; beautiful choirs&#44; operatic music&#44; airs form &#8220;Robt Le Diable&#8221;<lb/> to the <add>Hebrew</add> airs from the &#8220;Barber of <placeName>Seville</placeName>&#8221; adapted to the<lb/> <add>Hebrew</add> and many other pleasant things too numerous to mention</p>
+				<p>But when after all the exerted efforts they discovered secession to<lb/> be a failure&#44; they gave up their first plan as <sic>empracticable</sic> &#38; a<lb/> new one and indeed a very ingenious one was formed.  The most<lb/> of their members tried and succeeded to become members of the Cong<lb/> Schaarey Chased. the board of officers who accepted them&#44; not<lb/> dreaming like <persName>Joshua</persName> when he made a treaty of peace<lb/> with the Gideonites&#44; that any harm was meant by their<lb/> joining <del>into</del> the Cong.&#44; and but too late the found out<lb/> that they had run into a snare.  The reform friends have no</p>
+			<pb n="2V"/>
+				<p>need any more of building a new Temple&#44; they will realize<lb/> all their fine visions without any expense&#44; they have now a<lb/> majority in the Cong. and will use the fine edifice of the<lb/> <placeName>Rampart St</placeName> Synagogue for their purpose&#44; and the old<lb/> members who will not agree <del>with the</del> to the new order of things<lb/> can build themselves another Synagogue.  Now they went to work<lb/> the meanest and foulest tricks were set in operation for the purpose<lb/> of removing all the faithfull men from the administration&#44; and<lb/> they succeeded.  <persName>Mr Friedlander</persName> who for 4 years worked indefatigab<lb/>ly for this Cong. was most ungratefully treated&#44; provoked and<lb/> constantly vexed <sic>untill</sic> he left with disgust the chair and resigned.<lb/>  This was <add>just</add> what they wanted.  <persName>Mr Klopman</persName> and <persName>Mr Lehman</persName><lb/> followed his example&#44; and the field being thus all at once evacuated<lb/> the invaders took possession of it elected as President the man of their<lb/> choice&#44; fully fit to answer their purposes&#44; and a certain individual<lb/> who since years past indulged in the habit of keeping his hand<lb/> in the pocket of the Cong. shouts and rejoices <add>now</add> at the great victory of<lb/> the liberals.</p>
+				<p><persName>Dr Illowy</persName> seeing the approaching storm brooding over the<lb/> orthodox party of our Cong. did not desire to wait <sic>untill</sic> it would<lb/> discharge its destructive contents&#44; for he foresaw that the people of the<lb/> would conquer and the old <del>and the old</del> Southerners be subjugated&#59;<lb/> he resigned therefore at the <del>at</del> proper time with the best satisfaction in his heart<lb/> of having faithfully discharged all his duties and with a firm<lb/> adherence to his principles and the doctrines of our fathers</p>
+			<p rend="indent(7)">I remain dear Sir</p>
+			<p rend="indent(8)">Your most obedient Servt.</p>
+			<p rend="indent(8)"><persName role="author">Joseph Jacobsohn</persName></p>
+			<p rend="indent(8)">Atty. At Law. <placeName>No 33 Exchange place</placeName>.</p>
+			
+			<div>
+				<p><ref target="Occident_PDFs/Occ_23_3.pdf">The above text refers to Occident Volume 23 No. 3 page 143. Click here to view.</ref></p>
+			</div>
+		</body>
+	</text>
+</TEI>

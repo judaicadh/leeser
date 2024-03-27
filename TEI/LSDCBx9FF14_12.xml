@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI [
+<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
+%teibase;
+<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
+%teiext;
+]>
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>[no title given]</title>
+				<author attested="yes" accepted="yes" signature="yes">Gotthelf, B. H.</author>
+				<editor></editor>
+				<sponsor></sponsor>
+				<funder></funder>
+				<principal></principal>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition></edition>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</editionStmt>
+			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
+			<publicationStmt>
+				<publisher>Unpublished manuscript</publisher>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Not part of a series</p>
+			</seriesStmt>
+			<notesStmt>
+				<note></note>
+			</notesStmt>
+			<sourceDesc>
+				<biblStruct>
+					<!-- catalog entry goes here -->
+					<monogr>
+						<imprint>
+							<dateLet></dateLet>
+						</imprint>
+					</monogr>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<country>USA</country>
+						<region>PA</region>
+						<settlement>Philadelphia</settlement>
+						<institution></institution>
+						<repository>CAJS Isaac Leeser Collection</repository>
+						<collection>The Library of the Dropsie College for Hebrew and Cognate Learning</collection>
+						<idno>LSDCBx9FF14_12</idno>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+						<msName></msName>
+					</msIdentifier>
+					<head></head>
+					<letHeading>
+						<author attested="yes" accepted="yes" signature="yes">Gotthelf, B. H.</author>
+						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac</addressee>
+						<deliverer></deliverer>
+						<respStmt>
+							<resp></resp>
+							<name></name>
+						</respStmt>
+						<placeLet>Louisville, KY</placeLet>
+						<placeRec>Philadelphia, PA</placeRec>
+						<dateLet when="1851-03" source="" attested="yes">30 March 1851</dateLet>
+					</letHeading>
+					<msContents>
+						<msItem>
+							<author></author>
+							<editor></editor>
+							<respStmt>
+								<resp></resp>
+								<name></name>
+							</respStmt>
+							<title></title>
+							<decoNote></decoNote>
+							<listBibl>
+								<bibl></bibl>
+							</listBibl>
+							<filiation></filiation>
+							<textLang></textLang>
+							<figure>
+								<graphic url="ilcajs_b9f14_0012_1r.jpg"/>
+								<graphic url="ilcajs_b9f14_0012_1v.jpg"/>
+							</figure>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support>
+									<material color="" lined="unk" paper_type="" size="Legal">letter</material>
+								</support>
+								<extent>2 pages on 2 sheets
+									<dimensions></dimensions>
+								</extent>
+								<foliation></foliation>
+								<collation></collation>
+								<condition fragment="false"></condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout></layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc script="manuscript">
+							<handNote></handNote>
+						</handDesc>
+						<decoDesc>
+							<decoNote></decoNote>
+						</decoDesc>
+						<additions></additions>
+						<bindingDesc>
+							<binding>
+								<decoNote></decoNote>
+							</binding>
+						</bindingDesc>
+						<sealDesc>
+							<seal>
+								<p>Wax seal</p>
+							</seal>
+						</sealDesc>
+						<accMat></accMat>
+						<envDesc occ="false"></envDesc>
+					</physDesc>
+					<history>
+						<origin></origin>
+						<provenance></provenance>
+						<acquisition></acquisition>
+					</history>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source></source>
+								<change></change>
+							</recordHist>
+							<availability status="free">
+								<p>Unrestricted</p>
+							</availability>
+							<custodialHist>
+								<custEvent></custEvent>
+							</custodialHist>
+						</adminInfo>
+						<surrogates></surrogates>
+						<listBibl>
+							<bibl></bibl>
+						</listBibl>
+					</additional>
+					<msPart>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+					</msPart>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p></p>
+			</projectDesc>
+			<samplingDecl>
+				<p></p>
+			</samplingDecl>
+			<editorialDecl>
+				<correction>
+					<p></p>
+				</correction>
+				<normalization>
+					<p></p>
+				</normalization>
+				<quotation>
+					<p></p>
+				</quotation>
+				<hyphenation>
+					<p></p>
+				</hyphenation>
+				<segmentation>
+					<p></p>
+				</segmentation>
+				<stdVals>
+					<p></p>
+				</stdVals>
+				<interpretation>
+					<p></p>
+				</interpretation>
+			</editorialDecl>
+			<tagsDecl>
+				<rendition></rendition>
+				<namespace name="http://www.tei-c.org/ns/1.0">
+					<tagUsage gi=""></tagUsage>
+				</namespace>
+			</tagsDecl>
+			<refsDecl>
+				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
+			</refsDecl>
+			<refsDecl>
+				<refState unit=""/>
+			</refsDecl>
+			<classDecl>
+				<taxonomy>
+					<category>
+						<catDesc></catDesc>
+					</category>
+				</taxonomy>
+			</classDecl>
+			<appInfo>
+				<application ident="" version="">
+					<desc></desc>
+					<label></label>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<creation></creation>
+			<langUsage>
+				<language ident="he">Hebrew</language>
+			</langUsage>
+			<textClass>
+				<keywords scheme="unknown">
+					<list>
+						<item></item>
+						<item></item>
+					</list>
+				</keywords>
+				<classCode scheme=""></classCode>
+				<catRef/>
+			</textClass>
+		</profileDesc>
+		<revisionDesc>
+			<change></change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+				<p rend="align(right)"><date>March&#44; 30&#44; 1851</date>.</p>
+				<p><placeName>Louisville</placeName>&#44; <date>Sunday&#44; <sic>25thof</sic> second Adar&#44; 5611</date></p>
+				<p>Very honored <addressee>Mr. Leeser</addressee>&#58;</p>
+			<p rend="indent(1)">On <date>Friday</date> morning I received your worthy prayer<lb/> books <sic>andhasten</sic> to notify you of this&#44; I shall try to sell as many as<lb/> possible of them between now and <date>Passover</date>&#44; and to collect for the &#8220;Oc&#45;<lb/>cident&#8221; during the middle days of <date>Passover</date>.  And then send you a check<lb/> for the entire sum because the few dollars that I have at present are<lb/> not worth the trouble.  I shall then also notify you what success there<lb/> is in the matter of advertising your bible as you wished.</p>
+			<p rend="indent(1)">When you send your &#8220;Occidents&#8221; here&#44; address the<lb/> following new subscribers&#58; <persName>M.Godshaw</persName>&#44; <persName>M.Goldberg</persName>&#44; <persName>H.Stern</persName>&#44; <persName>S.Maas</persName>&#44; <persName>Joseph<lb/> Lieber</persName>.  The last two I should not like to state outright as being certain<lb/> subscribers.  They simply want to try it for a few months.&#44; and then&#44; if<lb/> the newspaper attracts them they will continue to read it.  Above all&#44; I<lb/> must confess to you&#44; much to my regret&#44; that I have taken a great deal<lb/> of trouble to obtain new subscribers&#44; and that the success is comparative&#45;<lb/>ly very slight.  One element would gladly read it&#44; but is unable to&#59; an&#45;<lb/>other element is na&#239;ve enough to admit that they are not pious enough<lb/> and not religious enough&#59; one man has no time&#44; another must pay for<lb/> three local newspapers&#44; etc.  Only a small portion realizes that a worthy<lb/> undertaking ought to be supported.  Last year you sent me several copies<lb/> of which I distributed some to publishers of local newspapers&#44; and others<lb/> to private individuals.  This week I collected these loaned copies and<lb/> now place them at your disposal.  It will be better if&#44; in the future&#44;<lb/> you send me only one copy&#44; and thus spare yourself the trouble.</p>
+			<p rend="indent(1)">In my next letter I shall be in position to tell<lb/> you the cost of the various advertisements in the newspapers etc.</p>
+			<p rend="indent(1)">When you write to me again please have the kind&#45;<lb/>ness to let me know more exactly what you relations are toward your<lb/> former congregation.  I still have not given up the hope that in spite<lb/> of the intervention of other candidates&#44; you will be re&#45;elected.  In my<lb/> next letter I shall&#44; if possible&#44; permit myself to send something <del>&#63;</del><lb/> which may be accepted in the Occident&#44; for I do not know but that in<lb/> the course of time it may be desirable for me to become generally bet&#45;<lb/>ter known than I am at present.</p>
+			<p rend="indent(1)">My wife sends you her best greetings.  Accept the<lb/> assurance of my esteem&#44; with which I have the honor to sign&#44;</p>
+			<p rend="indent(1)">Your most devoted servant&#44;</p>
+			<p rend="indent(2)"><persName role="author">B.H.Gotthelf</persName>.</p>
+		</body>
+	</text>
+</TEI>

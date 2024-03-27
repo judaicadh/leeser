@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI [
+<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
+%teibase;
+<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
+%teiext;
+]>
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>[no title given]</title>
+				<author attested="yes" accepted="yes" signature="yes">Elkus, Jeannette; Elkus, Julia</author>
+				<editor></editor>
+				<sponsor></sponsor>
+				<funder></funder>
+				<principal></principal>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition></edition>
+				<respStmt>
+					<resp></resp>
+					<name></name>
+				</respStmt>
+			</editionStmt>
+			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
+			<publicationStmt>
+				<publisher>Unpublished manuscript</publisher>
+			</publicationStmt>
+			<seriesStmt>
+				<p>Not part of a series</p>
+			</seriesStmt>
+			<notesStmt>
+				<note></note>
+			</notesStmt>
+			<sourceDesc>
+				<biblStruct>
+					<!-- catalog entry goes here -->
+					<monogr>
+						<imprint>
+							<dateLet></dateLet>
+						</imprint>
+					</monogr>
+				</biblStruct>
+				<msDesc>
+					<msIdentifier>
+						<country>USA</country>
+						<region>PA</region>
+						<settlement>Philadelphia</settlement>
+						<institution></institution>
+						<repository>LSKAP</repository>
+						<collection>The Arnold and Deanne Kaplan Collection of Early American Judaica</collection>
+						<idno>LSKAP0266</idno>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+						<msName></msName>
+					</msIdentifier>
+					<head></head>
+					<letHeading>
+						<author attested="yes" accepted="yes" signature="yes">Elkus, Jeannette; Elkus, Julia</author>
+						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac</addressee>
+						<deliverer></deliverer>
+						<respStmt>
+							<resp></resp>
+							<name></name>
+						</respStmt>
+						<placeLet></placeLet>
+						<placeRec>Philadelphia, PA</placeRec>
+						<dateLet when="" source="" attested="unk"></dateLet>
+					</letHeading>
+					<msContents>
+						<msItem>
+							<author></author>
+							<editor></editor>
+							<respStmt>
+								<resp></resp>
+								<name></name>
+							</respStmt>
+							<title></title>
+							<decoNote></decoNote>
+							<listBibl>
+								<bibl></bibl>
+							</listBibl>
+							<filiation></filiation>
+							<textLang></textLang>
+							<figure>
+								<graphic url="il_kaplan_20_863_body0001.jpg"></graphic>
+								<graphic url="il_kaplan_20_863_body0002.jpg"></graphic>
+							</figure>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<objectDesc>
+							<supportDesc>
+								<support>
+									<material color="" lined="false" paper_type="" size="">letter</material>
+								</support>
+								<extent>2 pages on 1 sheet
+									<dimensions></dimensions>
+								</extent>
+								<foliation></foliation>
+								<collation></collation>
+								<condition fragment="false"></condition>
+							</supportDesc>
+							<layoutDesc>
+								<layout></layout>
+							</layoutDesc>
+						</objectDesc>
+						<handDesc script="manuscript">
+							<handNote></handNote>
+						</handDesc>
+						<decoDesc>
+							<decoNote></decoNote>
+						</decoDesc>
+						<additions></additions>
+						<bindingDesc>
+							<binding>
+								<decoNote></decoNote>
+							</binding>
+						</bindingDesc>
+						<sealDesc>
+							<seal>
+								<p></p>
+							</seal>
+						</sealDesc>
+						<accMat></accMat>
+						<envDesc occ="false"></envDesc>
+					</physDesc>
+					<history>
+						<origin></origin>
+						<provenance></provenance>
+						<acquisition></acquisition>
+					</history>
+					<additional>
+						<adminInfo>
+							<recordHist>
+								<source></source>
+								<change></change>
+							</recordHist>
+							<availability status="restricted">
+								<p>Restricted</p>
+							</availability>
+							<custodialHist>
+								<custEvent></custEvent>
+							</custodialHist>
+						</adminInfo>
+						<surrogates></surrogates>
+						<listBibl>
+							<bibl></bibl>
+						</listBibl>
+					</additional>
+					<msPart>
+						<altIdentifier>
+							<idno></idno>
+						</altIdentifier>
+					</msPart>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p></p>
+			</projectDesc>
+			<samplingDecl>
+				<p></p>
+			</samplingDecl>
+			<editorialDecl>
+				<correction>
+					<p></p>
+				</correction>
+				<normalization>
+					<p></p>
+				</normalization>
+				<quotation>
+					<p></p>
+				</quotation>
+				<hyphenation>
+					<p></p>
+				</hyphenation>
+				<segmentation>
+					<p></p>
+				</segmentation>
+				<stdVals>
+					<p></p>
+				</stdVals>
+				<interpretation>
+					<p></p>
+				</interpretation>
+			</editorialDecl>
+			<tagsDecl>
+				<rendition></rendition>
+				<namespace name="http://www.tei-c.org/ns/1.0">
+					<tagUsage gi=""></tagUsage>
+				</namespace>
+			</tagsDecl>
+			<refsDecl>
+				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
+			</refsDecl>
+			<refsDecl>
+				<refState unit=""/>
+			</refsDecl>
+			<classDecl>
+				<taxonomy>
+					<category>
+						<catDesc></catDesc>
+					</category>
+				</taxonomy>
+			</classDecl>
+			<appInfo>
+				<application ident="" version="">
+					<desc></desc>
+					<label></label>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<creation></creation>
+			<langUsage>
+				<language ident="en">English</language>
+				<language ident="de">German</language>
+			</langUsage>
+			<textClass>
+				<keywords scheme="unknown">
+					<list>
+						<item></item>
+						<item></item>
+					</list>
+				</keywords>
+				<classCode scheme=""></classCode>
+				<catRef/>
+			</textClass>
+		</profileDesc>
+		<revisionDesc>
+			<change></change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<pb n="1R"/>
+				<p rend="align(right)">My very dear uncle&#33;&#33;&#33;</p>
+				<p>Your letter and those from my dear<lb/> sisters have we all received in the<lb/> best health&#59; and hope that you may<lb/> receive this rules also in the best situation.<lb/>  Although I have read that you <sic>has</sic> been<lb/> indisposed&#59; which displeased me much&#44;<lb/> and wish you at the same time that you<lb/> are repaired again.</p>
+				<p>Now <sic>me</sic> dear uncle I will also congratulate<lb/> you with your anniversary &#40;although I am<lb/> not in your presence&#41; My wish is than that<lb/> the Almighty heavenly Father preserve<lb/> you yet many years for misfortune&#59; but that<lb/> He give you a series of happy days <add>Hebrew</add>.<lb/>  I thank you also heartily that you give many a pleasure to <sic>me</sic> sisters&#59; they are very<lb/> content <sic>till</sic> here I hope it will be also in<lb/> the continuation.  I pray you to take<lb/> farther care for them&#59; be thou their father<lb/> and their conductor upon all their ways.<lb/>  We have here no winter this year&#44; it<lb/> has no fusen&#44; so that we have not skated.</p>
+				<p rend="The following lines are written sideways down the left side of the page.">P. S. That the cheese is to your taste<lb/> does me a great joy&#59; eat then with a good appetite.  Farewell and think<lb/> on me.</p>
+			<pb n="1V"/>
+				<p>If my sisters send us their portraits in the<lb/> spring I beg you to send it also from you&#59;<lb/> you shall well think they have it already<lb/> from me&#59; but I would have it very willingly<lb/> for me alone&#44; I hope that you shall not fail.<lb/>  Also I pray thee to write me this time also<lb/> any rules&#44; If you cannot write a great letter<lb/> do than me the pleasure to write a little&#44;<lb/> I shall content with a few words from thee.<lb/>  Now <sic>me</sic> dear uncle <sic>life</sic> happy in the future<lb/> kiss my sisters for me&#59; and after having<lb/> saluted&#44; <del>you</del> and having kissed thee in my<lb/> thoughts I am with the most respect</p>
+			<p rend="indent(1)">Your affectionate niece till in eternity</p>
+			<p rend="indent(2)"><persName role="author">Jeannette Elkus</persName>.</p>
+				<p rend="align(center)">Geliebter Oheim&#33;</p>
+				<p>Mit freuden ergreif ich die Faden um dich auch<lb/> Zeilen zuzuf&#252;gen&#44; und hoffe da&#223; die dieselben in den<lb/> Wohlstand er<add>&#63;</add>brief&#44; welches ich dich von meiner Seite<lb/> auf mittheilen kann&#44; Du sagt vorl&#228;ngst dein 59te<lb/> Jahr angetreten so ist meinen herzl<add>&#63;</add>sten Wunsch<lb/> da&#223; der liebe Gott dich noch viele Jahren dein<lb/> <add>&#63;</add> Leben mag <add>&#63;</add>&#44; und <add>&#63;</add> auch das<lb/> du viele Freude an meinen Mehrheiten Schonester<lb/> <add>&#63;</add> beleben&#44; nun habe wohl ge<add>&#63;</add> Onkel und<lb/> gr&#252;&#223;e dich wie<add>&#63;</add>mahl deine <add>&#63;</add><lb/> <persName role="author">Julia Elkus</persName></p>
+		</body>
+	</text>
+</TEI>
