@@ -1,279 +1,333 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE TEI [
-<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
-%teibase;
-<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
-%teiext;
-]>
-<TEI>
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="yes">G&#252;nzburg, A., Dr.</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>LSKAP</repository>
-						<collection>The Arnold and Deanne Kaplan Collection of Early American Judaica</collection>
-						<idno>LSKAP0075</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="yes">G&#252;nzburg, A., Dr.</author>
-						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac</addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>Baltimore, MD</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1852-11" source="" attested="yes">November 28, 1852</dateLet>
-						<dateLet when="1852-11" source="" attested="yes">17 Kislev 5613</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="LSKAP0075_1R.jpg"></graphic>
-								<graphic url="LSKAP0075_1V.jpg"></graphic>
-								<graphic url="LSKAP0075_2R.jpg"></graphic>
-								<graphic url="LSKAP0075_3R.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="true" paper_type="" size="">letter</material>
-								</support>
-								<extent>6 pages on 3 sheets
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="manuscript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="restricted">
-								<p>Restricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-				<language ident="de">German</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1R"/>
-				<p rend="align(center)"><addressee>Rev. I. Leeser</addressee> in <placeName>Philadelphia</placeName>.</p>
-				<p rend="align(right)"><placeName><hi rend="underline">Baltimore</hi></placeName> <date>den 28t Nov. 5613</date></p>
-				<p rend="align(right)"><placeName>646. Fayette <hi rend="underline">Str.</hi></placeName></p>
-				<p>Geehrtester Herr&#33;</p>
-				<p>Sie haben mich vor l&#228;ngerer Zeit ersucht Ihnen Einsendun&#44;<lb/>gen zu machen da&#223; ich Ihrer Aufforderung bis her nicht<lb/> nachge&#223;ammen <sic>hievon</sic><add>&#63;</add> liegt die Schule mehr in den ver&#44;&#44;<lb/>h&#228;ltnissen&#44; als in mir&#59; da ich in Solge der <add>&#63;</add> zu er&#44;<lb/>f&#252;llende Berfuspflichten nur weniger Mu&#223;estunde mich<lb/> erfreue.  Doch nichts de<add>&#63;</add> wieder habe ich es mir<lb/> nur vorgenommen&#44; die bisher beebachtete zur&#252;ckgegagen&#44;<lb/>heit zu verlassen&#44; <add>&#63;</add> von Zeit zu Zeit der einen oder<lb/> den andere theologischen Gegenstand &#246;ssentlich zu besprechen.<lb/>  Ich erlaube mir nur an Sie die S<add>&#63;</add>&#58; ob Sie <add>&#63;</add>&#44;<lb/> die ich Ihnen einsende gef&#228;lligst &#252;bersetzen und auf&#44;<lb/>nehmen vollen&#63;</p>
-				<p>Ich richte dies S<add>&#63;</add> darum vor der Einsendung an Sie&#59;<lb/> da ich zu Jener geh&#246;re&#44; die t&#228;glich beten&#58; <add>Hebrew</add><lb/> da&#223; aber meine Einsendungen der der Aufnahme in Ihrem sch&#228;tz&#44;<lb/>baren Journale nicht unw&#252;rdig <add>&#63;</add> werde&#44; <add>&#63;</add> &#8222;Sie sich<lb/> versichert halten&#59; denn es ist mein Grundsatz&#58; &#8220;besser<lb/> <hi rend="underline">nicht</hi>&#44; als <hi rend="underline">Nichts</hi> schreiben&#8221;&#8212;.</p>
-			<pb n="1V"/>
-				<p>Ich be<add>&#63;</add>&#44; das es mir bisher nicht m&#246;glich war&#44; hinsichtlich<lb/> Ihrer Bibel &#252;bersetzung etwas f&#252;r Sie zu thun&#59;<lb/> leider sind die meisten hinsigen Jude zu sehr materiell&#45;<lb/>vielleicht wenn das ganze <add>&#63;</add> vollendst ist&#44; das sich<lb/> eher was anbringen l&#228;&#223;t<add>&#63;</add>.</p>
-				<p>Wenn ich mich recht erinnern&#44; so haben Sie auch <hi rend="underline">hebr&#228;ische</hi><lb/> <hi rend="underline">Leseb&#252;chel f&#252;r Anf&#228;nger</hi>.  Wenn es Ihnen beliebt&#44;<lb/> so k&#246;nnen Sie mir zur Ansicht 1 Exemplar schicken&#44; und<lb/> den Preis pr Dozend firm bemerken&#59; wo wenn selbe ent&#44;<lb/>sprechen ich f&#252;r meine Schule einige Dozend  nehmen<lb/> w&#252;rde.</p>
-				<p>Es g<add>&#63;</add> Sie <add>&#63;</add> empfiehlt sich<lb/> bestens</p>
-				<p>Ihr</p>
-				<p>Ergebenster</p>
-				<p><persName role="author">Dr. A. G&#252;nzburg</persName></p>
-			<pb n="2R"/>
-				<p>Rev. <add>&#63;</add> <add>&#63;</add> E. <addressee>Leeser</addressee> in <placeName>Philadelphia</placeName></p>
-				<p><placeName>Baltimore</placeName> <date>Nov. 28th 5613</date></p>
-				<p><placeName>64 E. Fayette St.</placeName></p>
-				<p>Dear Sir&#58;</p>
-				<p>A while ago&#44; you asked me to send you<lb/> articles.  Conditions are more to blame than myself<lb/> for having not <sic>fullfilled</sic> your request up to now.<lb/>  My business leaves me only a few hours for<lb/> myself.  But I have decided to get out of my<lb/> isolation and to discuss publicly every once in a<lb/> while a theological subject.  Will you<lb/> translate and print the articles <add>&#63;</add> I<lb/> will send you&#63;</p>
-				<p>I ask this question before I<lb/> send you anything because I belong to<lb/> &#124; &#124; &#124; those who pray daily&#58;</p>
-				<p>You may be assured that my articles <del>are</del><lb/> will not be unworthy of <del>printing</del> being<lb/> printed in your journal.  For it is<lb/> one of my principles better not to write at<lb/> all than to write meaningless words.<lb/>  Regarding your bible translation&#44; I regrets that I did not<lb/> have a chance to do anything for you</p>
-			<pb n="3R"/>
-				<p rend="align(center)">2</p>
-				<p><del>up to now</del> so far.  <add>&#63;</add> of the Jews here are<lb/> too materially inclined.  Maybe I can do some&#45;<lb/>thing after you have completed the whole<lb/> translation.</p>
-				<p>If I remember rightly&#44; you have<lb/> also Hebrew books for beginners.  If you wish<lb/> you may send me a copy for inspection and let me<lb/> know the price per dozen.</p>
-				<p>If they are suitable&#44; I will take<lb/> a few dozen for my school.</p>
-				<p>With kindest regards&#44;</p>
-				<p>Your</p>
-				<p><persName role="author">Dr. A. G&#252;nzburg</persName></p>
-		</body>
-	</text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="yes">Günzburg, A., Dr.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>LSKAP</repository>
+                        <collection>The Arnold and Deanne Kaplan Collection of Early American
+                            Judaica</collection>
+                        <idno>LSKAP0075</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="yes">Günzburg, A.,
+                            Dr.</author>
+                        <addressee accepted="yes" attested="yes" editor="false">Leeser,
+                            Isaac</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Baltimore, MD</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1852-11">November 28, 1852</dateLet>
+                        <dateLet attested="yes" source="" when="1852-11">17 Kislev 5613</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="LSKAP0075_1R.jpg"/>
+                                <graphic url="LSKAP0075_1V.jpg"/>
+                                <graphic url="LSKAP0075_2R.jpg"/>
+                                <graphic url="LSKAP0075_3R.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="true" paper_type="" size=""
+                                        >letter</material>
+                                </support>
+                                <extent>6 pages on 3 sheets <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="restricted">
+                                <p>Restricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="de">German</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1R"/>
+            <p rend="align(center)"><addressee>Rev. I. Leeser</addressee> in
+                    <placeName>Philadelphia</placeName>.</p>
+            <p rend="align(right)">
+                <placeName>
+                    <hi rend="underline">Baltimore</hi>
+                </placeName>
+                <date>den 28t Nov. 5613</date>
+            </p>
+            <p rend="align(right)">
+                <placeName>646. Fayette <hi rend="underline">Str.</hi></placeName>
+            </p>
+            <p>Geehrtester Herr!</p>
+            <p>Sie haben mich vor längerer Zeit ersucht Ihnen Einsendun,<lb/>gen zu machen daß ich
+                Ihrer Aufforderung bis her nicht<lb/> nachgeßammen <sic>hievon</sic><add>?</add>
+                liegt die Schule mehr in den ver,,<lb/>hältnissen, als in mir; da ich in Solge der
+                    <add>?</add> zu er,<lb/>füllende Berfuspflichten nur weniger Mußestunde
+                mich<lb/> erfreue. Doch nichts de<add>?</add> wieder habe ich es mir<lb/> nur
+                vorgenommen, die bisher beebachtete zurückgegagen,<lb/>heit zu verlassen,
+                    <add>?</add> von Zeit zu Zeit der einen oder<lb/> den andere theologischen
+                Gegenstand össentlich zu besprechen.<lb/> Ich erlaube mir nur an Sie die
+                    S<add>?</add>: ob Sie <add>?</add>,<lb/> die ich Ihnen einsende gefälligst
+                übersetzen und auf,<lb/>nehmen vollen?</p>
+            <p>Ich richte dies S<add>?</add> darum vor der Einsendung an Sie;<lb/> da ich zu Jener
+                gehöre, die täglich beten: <add>ולא ניגע לריק ולא נלד לבהלה</add><lb/> daß aber
+                meine Einsendungen der der Aufnahme in Ihrem schätz,<lb/>baren Journale nicht
+                unwürdig <add>?</add> werde, <add>?</add> „Sie sich<lb/> versichert halten; denn es
+                ist mein Grundsatz: “besser<lb/>
+                <hi rend="underline">nicht</hi>, als <hi rend="underline">Nichts</hi>
+                schreiben”—.</p>
+            <pb n="1V"/>
+            <p>Ich be<add>?</add>, das es mir bisher nicht möglich war, hinsichtlich<lb/> Ihrer
+                Bibel übersetzung etwas für Sie zu thun;<lb/> leider sind die meisten hinsigen Jude
+                zu sehr materiell-<lb/>vielleicht wenn das ganze <add>?</add> vollendst ist, das
+                sich<lb/> eher was anbringen läßt<add>?</add>.</p>
+            <p>Wenn ich mich recht erinnern, so haben Sie auch <hi rend="underline">hebräische</hi><lb/>
+                <hi rend="underline">Lesebüchel für Anfänger</hi>. Wenn es Ihnen beliebt,<lb/> so
+                können Sie mir zur Ansicht 1 Exemplar schicken, und<lb/> den Preis pr Dozend firm
+                bemerken; wo wenn selbe ent,<lb/>sprechen ich für meine Schule einige Dozend
+                nehmen<lb/> würde.</p>
+            <p>Es g<add>?</add> Sie <add>?</add> empfiehlt sich<lb/> bestens</p>
+            <p>Ihr</p>
+            <p>Ergebenster</p>
+            <p>
+                <persName role="author">Dr. A. Günzburg</persName>
+            </p>
+            <pb n="2R"/>
+            <p>Rev. <add>?</add>
+                <add>?</add> E. <addressee>Leeser</addressee> in
+                <placeName>Philadelphia</placeName></p>
+            <p>
+                <placeName>Baltimore</placeName>
+                <date>Nov. 28th 5613</date>
+            </p>
+            <p>
+                <placeName>64 E. Fayette St.</placeName>
+            </p>
+            <p>Dear Sir:</p>
+            <p>A while ago, you asked me to send you<lb/> articles. Conditions are more to blame
+                than myself<lb/> for having not <sic>fullfilled</sic> your request up to now.<lb/>
+                My business leaves me only a few hours for<lb/> myself. But I have decided to get
+                out of my<lb/> isolation and to discuss publicly every once in a<lb/> while a
+                theological subject. Will you<lb/> translate and print the articles <add>?</add>
+                I<lb/> will send you?</p>
+            <p>I ask this question before I<lb/> send you anything because I belong to<lb/> | | |
+                those who pray daily:</p>
+            <p>You may be assured that my articles <del>are</del><lb/> will not be unworthy of
+                    <del>printing</del> being<lb/> printed in your journal. For it is<lb/> one of my
+                principles better not to write at<lb/> all than to write meaningless words.<lb/>
+                Regarding your bible translation, I regrets that I did not<lb/> have a chance to do
+                anything for you</p>
+            <pb n="3R"/>
+            <p rend="align(center)">2</p>
+            <p><del>up to now</del> so far. <add>?</add> of the Jews here are<lb/> too materially
+                inclined. Maybe I can do some-<lb/>thing after you have completed the whole<lb/>
+                translation.</p>
+            <p>If I remember rightly, you have<lb/> also Hebrew books for beginners. If you
+                wish<lb/> you may send me a copy for inspection and let me<lb/> know the price per
+                dozen.</p>
+            <p>If they are suitable, I will take<lb/> a few dozen for my school.</p>
+            <p>With kindest regards,</p>
+            <p>Your</p>
+            <p>
+                <persName role="author">Dr. A. Günzburg</persName>
+            </p>
+        </body>
+    </text>
 </TEI>

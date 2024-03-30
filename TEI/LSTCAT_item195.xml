@@ -1,268 +1,301 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE TEI [
-<!ENTITY % teibase SYSTEM "UPENN_TEI_schema.dtd">
-%teibase;
-<!ENTITY % teiext SYSTEM "UPENN_TEI_schext.dtd">
-%teiext;
-]>
-<TEI>
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="yes">Daunt, M.</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>TCAT</repository>
-						<collection>Anonymous</collection>
-						<idno>LSTCAT_item195</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="yes">Daunt, M.</author>
-						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac</addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>Curacao, Netherlands Antilles</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1849-11" source="" attested="yes">1 November 1849</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="il_tcat_item195_wk1_body0001.jpg"></graphic>
-								<graphic url="il_tcat_item195_wk1_body0002.jpg"></graphic>
-								<graphic url="il_tcat_item195_wk1_body0003.jpg"></graphic>
-								<graphic url="il_tcat_item195_wk1_body0004.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="false" paper_type="" size="">letter</material>
-								</support>
-								<extent>2 pages on 4 sheets
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false">Fragile</condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="manuscript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="free">
-								<p>Unrestricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1"/>
-				<p rend="align(right)"><placeName>Curacao</placeName> <date>1 Nov. 1849</date></p>
-				<p><addressee>Mr. Isc Leeser</addressee></p>
-			<p rend="indent(1)"><placeName>Philadelphia</placeName></p>
-			<p rend="indent(3)">Dear Sir</p>
-			<p rend="indent(5)">I have before me yr favors<lb/> of <date>31<hi rend="sup">st</hi> July</date> and <date>5<hi rend="sup">th</hi> Sept</date> both accompanying the Occidents all <add>&#63;</add><lb/> I regret to state I have no new subscribers and I fear the next year<lb/> I shall still loose some of the few I have however I must hope<lb/> things will be better then nor have I been more lucky with<lb/> the prayer books&#44; the <sic>hollidays</sic> are always the time to sell but<lb/> not a single sell could I get off all alluding the books are<lb/> too heavy particularly the <date>kipoor</date>&#44; we have the service<lb/> recd from <placeName>England</placeName> in 3 Books which are much admired<lb/> every boy wants of that sort&#44; please send me 2 Dz each of the<lb/> Road to faith &#38; Hebrew spelling books they are wanted for the Sunday<lb/> School</p>
-			<p rend="indent(1)">I have just Recd a letter from my correspondent in <placeName>Boston</placeName> who<lb/> informs me he recd the <add>Hebrew</add> of Palm leafs and Citrons and frwa<add>&#63;</add><lb/> them to you but he does not say when I hope they arrived in time<lb/> and proved good <add>&#63;</add> answer to my <sic>enquiry</sic>&#44; <persName>Miss Joseph Trull</persName><lb/> <add>&#63;</add> inform me that 15 f<add>&#63;</add> were worth 94 c <add>&#63;</add></p>
-				<p rend="The final words on the page are obscured by a sticker."></p>
-			<pb n="2"/>
-				<p><add>&#63;</add> you dollars for 5 fr pieces that<add>&#63;</add> I have <sic>debitted</sic> you<lb/> <add>&#63;</add> 6c each on &#36;90.42 <add>&#63;</add> of 6 francs making &#36;5.42&#47;100 which please<lb/> remit<add>&#63;</add> me for our accts. to agree.</p>
-			<p rend="indent(1)">I am happy to inform you the school of <persName>Mr.<lb/> Casseres</persName> or rather the Sunday School is getting on famously and doing<lb/> <add>&#63;</add> of good&#44; the young ladies that joined as teachers are constant<lb/> and <sic>indefatagable</sic> in their <add>&#63;</add> attendance and exertions and well merit<lb/> the good will of the nation&#44; it would be well if in all parts where we<lb/> are spread our young ladies would <add>&#63;</add> as much for our poor children</p>
-			<p rend="indent(4)">I am Dear Sir</p>
-			<p rend="indent(5)">Your Obt. Sevt.</p>
-			<p rend="indent(6)"><persName role="author">M Daunt</persName></p>
-				<p>I forgot to <persName>Mr Nathans</persName> school is getting on as well as his fondest<lb/> <add>&#63;</add> could wish he has as many scholars as he can attend to<lb/> and I <sic>dont</sic> know if not more as he is obliged to refuse some</p>
-				<p rend="The paper is brittle and broken in places&#44; obscuring some words."></p>
-			<pb n="3"/>
-			<p rend="indent(2)"><addressee>Isaac Leeser Esqr.</addressee></p>
-			<p rend="indent(3)"><placeName><hi rend="underline">Philadelphia</hi></placeName>.</p>
-				<p>via &#8220;<placeName>New York</placeName>.&#8221;</p>
-				<p>per &#8220;<hi rend="underline"><persName>Abram</persName></hi>&#8221;.</p>
-		</body>
-	</text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="yes">Daunt, M.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>TCAT</repository>
+                        <collection>Anonymous</collection>
+                        <idno>LSTCAT_item195</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="yes">Daunt, M.</author>
+                        <addressee accepted="yes" attested="yes" editor="false">Leeser,
+                            Isaac</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Curacao, Netherlands Antilles</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1849-11">1 November 1849</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="il_tcat_item195_wk1_body0001.jpg"/>
+                                <graphic url="il_tcat_item195_wk1_body0002.jpg"/>
+                                <graphic url="il_tcat_item195_wk1_body0003.jpg"/>
+                                <graphic url="il_tcat_item195_wk1_body0004.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >letter</material>
+                                </support>
+                                <extent>2 pages on 4 sheets <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false">Fragile</condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <p rend="align(right)">
+                <placeName>Curacao</placeName>
+                <date>1 Nov. 1849</date>
+            </p>
+            <p>
+                <addressee>Mr. Isc Leeser</addressee>
+            </p>
+            <p rend="indent(1)">
+                <placeName>Philadelphia</placeName>
+            </p>
+            <p rend="indent(3)">Dear Sir</p>
+            <p rend="indent(5)">I have before me yr favors<lb/> of <date>31<hi rend="sup">st</hi>
+                    July</date> and <date>5<hi rend="sup">th</hi> Sept</date> both accompanying the
+                Occidents all <add>?</add><lb/> I regret to state I have no new subscribers and I
+                fear the next year<lb/> I shall still loose some of the few I have however I must
+                hope<lb/> things will be better then nor have I been more lucky with<lb/> the prayer
+                books, the <sic>hollidays</sic> are always the time to sell but<lb/> not a single
+                sell could I get off all alluding the books are<lb/> too heavy particularly the
+                    <date>kipoor</date>, we have the service<lb/> recd from
+                    <placeName>England</placeName> in 3 Books which are much admired<lb/> every boy
+                wants of that sort, please send me 2 Dz each of the<lb/> Road to faith &amp; Hebrew
+                spelling books they are wanted for the Sunday<lb/> School</p>
+            <p rend="indent(1)">I have just Recd a letter from my correspondent in
+                    <placeName>Boston</placeName> who<lb/> informs me he recd the <add>Hebrew</add>
+                of Palm leafs and Citrons and frwa<add>?</add><lb/> them to you but he does not say
+                when I hope they arrived in time<lb/> and proved good <add>?</add> answer to my
+                    <sic>enquiry</sic>, <persName>Miss Joseph Trull</persName><lb/>
+                <add>?</add> inform me that 15 f<add>?</add> were worth 94 c <add>?</add></p>
+            <p rend="The final words on the page are obscured by a sticker."/>
+            <pb n="2"/>
+            <p><add>?</add> you dollars for 5 fr pieces that<add>?</add> I have <sic>debitted</sic> you<lb/>
+                <add>?</add> 6c each on $90.42 <add>?</add> of 6 francs making $5.42/100 which
+                please<lb/> remit<add>?</add> me for our accts. to agree.</p>
+            <p rend="indent(1)">I am happy to inform you the school of <persName>Mr.<lb/>
+                    Casseres</persName> or rather the Sunday School is getting on famously and doing<lb/>
+                <add>?</add> of good, the young ladies that joined as teachers are constant<lb/> and
+                    <sic>indefatagable</sic> in their <add>?</add> attendance and exertions and well
+                merit<lb/> the good will of the nation, it would be well if in all parts where
+                we<lb/> are spread our young ladies would <add>?</add> as much for our poor
+                children</p>
+            <p rend="indent(4)">I am Dear Sir</p>
+            <p rend="indent(5)">Your Obt. Sevt.</p>
+            <p rend="indent(6)">
+                <persName role="author">M Daunt</persName>
+            </p>
+            <p>I forgot to <persName>Mr Nathans</persName> school is getting on as well as his fondest<lb/>
+                <add>?</add> could wish he has as many scholars as he can attend to<lb/> and I
+                    <sic>dont</sic> know if not more as he is obliged to refuse some</p>
+            <p rend="The paper is brittle and broken in places, obscuring some words."/>
+            <pb n="3"/>
+            <p rend="indent(2)">
+                <addressee>Isaac Leeser Esqr.</addressee>
+            </p>
+            <p rend="indent(3)"><placeName><hi rend="underline">Philadelphia</hi></placeName>.</p>
+            <p>via “<placeName>New York</placeName>.”</p>
+            <p>per “<hi rend="underline"><persName>Abram</persName></hi>”.</p>
+        </body>
+    </text>
 </TEI>

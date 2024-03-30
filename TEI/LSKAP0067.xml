@@ -1,263 +1,325 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="yes">Sampson, Emanuel</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>LSKAP</repository>
-						<collection>The Arnold and Deanne Kaplan Collection of Early American Judaica</collection>
-						<idno>LSKAP0067</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="yes">Sampson, Emanuel</author>
-						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac</addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>New Orleans, LA</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1847-07" source="" attested="yes">July 19, 1847</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="LSKAP0067_1R.jpg"></graphic>
-								<graphic url="LSKAP0067_1V.jpg"></graphic>
-								<graphic url="LSKAP0067_2V.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="false" paper_type="" size="">letter</material>
-								</support>
-								<extent>4 pages on 2 sheets
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="manuscript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="restricted">
-								<p>Restricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1R"/>
-				<p rend="align(right)"><placeName>New Orleans&#44; La.</placeName> <date>July 19<hi rend="sup">th</hi> 1847</date></p>
-				<p><addressee>Revd. I. Leeser</addressee></p>
-			<p rend="indent(1)"><placeName>Philadelphia</placeName></p>
-			<p rend="indent(2)">Dr Sir</p>
-			<p rend="indent(3)">Circumstances of an unavoidable<lb/> nature in my affairs having induced me to remove from <placeName>Columbia&#44;<lb/> So. Ca.</placeName> Since the <date>1st January</date> last&#44; and now being permanently<lb/> located in this city&#44; I am desirous of receiving the future<lb/> numbers of the &#8220;Occident&#8221; directed to me&#44; &#8220;care <persName>Messrs.<lb/> E. I. Hart &#38; Co.</persName> <placeName>New Orleans&#44; La.</placeName>&#8221;&#8212;  you will please for&#45;<lb/>&#45;ward me No. 3 of fourth vol. For <date>June 1846</date>&#44; and at the same<lb/> time inform me of my indebtedness to you&#44; when <hi rend="underline">in the<lb/> course of next fall</hi> the amount shall be remitted or sub&#45;<lb/>&#45;ject to your order</p>
-			<p rend="indent(3)">In hopes my request will be attended to</p>
-			<p rend="indent(4)">I remain Resptfy yrs</p>
-			<p rend="indent(5)"><persName role="author">Emanuel Sampson</persName></p>
-				<p>P.S.</p>
-			<p rend="indent(1)">Permit me here to record a worthy act of <add>an</add> esteemed<lb/> Israelite&#44; that should not pass unnoticed&#44; but whose example might<lb/> well be followed by our wealthy brethren situated in places<lb/> as isolated&#44; &#40;as far as Judaism is concerned&#44;&#41; as the place where it<lb/> transpired&#44; with honor to themselves&#44; and the happy reflection<lb/> that they have been the humble instruments through which<lb/> T.O.</p>
-			<pb n="1V"/>
-				<p><hi rend="underline">another</hi> ordinance of the God of <placeName>Israel</placeName> has been carried out&#44;<lb/> I refer to <hi rend="underline"><persName>Joseph J. Andrews&#44; Esq.</persName> Of <placeName>Memphis&#44; Tenn</placeName></hi>.</p>
-			<p rend="indent(1)">A few months ago my family were on a visit<lb/> to <placeName>Memphis</placeName>&#44; where the Destroying Angel deprived me of<lb/> my first born&#44; a promising Boy of 2 years old&#44; when<lb/> <persName>Mr. Andrews</persName> called on the family &#40;the writer being in this<lb/> city at the time&#41; and very kindly informed them that<lb/> he had appropriated a tract of land for a <hi rend="underline">Jewish</hi><lb/> <hi rend="underline">Burial Ground</hi> for all Israelites who may hereafter<lb/> require the right of sepulchre in <placeName>Memphis</placeName>&#44; &#40;previous to<lb/> which time they had no separate ground&#41;&#59; they declined ac&#45;<lb/>&#45;cepting of the generous offer&#44; being desirous of removing<lb/> the remains of my child to this city for interment in<lb/> the Portuguese <add>Jewish</add> Burial Ground&#44; where it now lies&#8212;Since<lb/> which time I am informed that the ground in <placeName>Memphis</placeName> has<lb/> been neatly enclosed at the expense of <persName>Mr. Andrews</persName>&#44; and<lb/> the remains of a young German Israelite recently deceased&#44;<lb/> interred therein&#8212;Had it been out of my power to<lb/> remove the corpse of my child&#44; I should have had the<lb/> melancholy satisfaction of knowing that at least it was<lb/> deposited in ground sacred to Israelites.</p>
-			<p rend="indent(1)">Not having observed any notice on the subject in<lb/> the &#8220;Occident&#8221;&#44; I have thought it a duty to suggest to you<lb/> the propriety of putting it in such a form that it may<lb/> have a beneficial effect</p>
-			<p rend="indent(9)">Very Respectfully</p>
-			<p rend="indent(10)">Yrs</p>
-			<p rend="indent(11)"><persName role="author">E Sampson</persName></p>
-			<pb n="2V"/>
-			<p rend="indent(4)"><hi rend="underline">Paid</hi></p>
-			<p rend="indent(4)"><addressee>Revd. Isaac Leeser</addressee></p>
-			<p rend="indent(5)"><placeName>No. 371 Walnut Street</placeName></p>
-			<p rend="indent(6)"><placeName>Philadelphia</placeName></p>
-			<p rend="indent(7)"><placeName>Penn.</placeName></p>
-		</body>
-	</text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="yes">Sampson, Emanuel</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>LSKAP</repository>
+                        <collection>The Arnold and Deanne Kaplan Collection of Early American
+                            Judaica</collection>
+                        <idno>LSKAP0067</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="yes">Sampson,
+                            Emanuel</author>
+                        <addressee accepted="yes" attested="yes" editor="false">Leeser,
+                            Isaac</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>New Orleans, LA</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1847-07">July 19, 1847</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="LSKAP0067_1R.jpg"/>
+                                <graphic url="LSKAP0067_1V.jpg"/>
+                                <graphic url="LSKAP0067_2V.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >letter</material>
+                                </support>
+                                <extent>4 pages on 2 sheets <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="restricted">
+                                <p>Restricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1R"/>
+            <p rend="align(right)">
+                <placeName>New Orleans, La.</placeName>
+                <date>July 19<hi rend="sup">th</hi> 1847</date>
+            </p>
+            <p>
+                <addressee>Revd. I. Leeser</addressee>
+            </p>
+            <p rend="indent(1)">
+                <placeName>Philadelphia</placeName>
+            </p>
+            <p rend="indent(2)">Dr Sir</p>
+            <p rend="indent(3)">Circumstances of an unavoidable<lb/> nature in my affairs having
+                induced me to remove from <placeName>Columbia,<lb/> So. Ca.</placeName> Since the
+                    <date>1st January</date> last, and now being permanently<lb/> located in this
+                city, I am desirous of receiving the future<lb/> numbers of the “Occident” directed
+                to me, “care <persName>Messrs.<lb/> E. I. Hart &amp; Co.</persName>
+                <placeName>New Orleans, La.</placeName>”— you will please for-<lb/>-ward me No. 3 of
+                fourth vol. For <date>June 1846</date>, and at the same<lb/> time inform me of my
+                indebtedness to you, when <hi rend="underline">in the<lb/> course of next fall</hi>
+                the amount shall be remitted or sub-<lb/>-ject to your order</p>
+            <p rend="indent(3)">In hopes my request will be attended to</p>
+            <p rend="indent(4)">I remain Resptfy yrs</p>
+            <p rend="indent(5)">
+                <persName role="author">Emanuel Sampson</persName>
+            </p>
+            <p>P.S.</p>
+            <p rend="indent(1)">Permit me here to record a worthy act of <add>an</add> esteemed<lb/>
+                Israelite, that should not pass unnoticed, but whose example might<lb/> well be
+                followed by our wealthy brethren situated in places<lb/> as isolated, (as far as
+                Judaism is concerned,) as the place where it<lb/> transpired, with honor to
+                themselves, and the happy reflection<lb/> that they have been the humble instruments
+                through which<lb/> T.O.</p>
+            <pb n="1V"/>
+            <p><hi rend="underline">another</hi> ordinance of the God of
+                    <placeName>Israel</placeName> has been carried out,<lb/> I refer to <hi
+                    rend="underline"><persName>Joseph J. Andrews, Esq.</persName> Of
+                        <placeName>Memphis, Tenn</placeName></hi>.</p>
+            <p rend="indent(1)">A few months ago my family were on a visit<lb/> to
+                    <placeName>Memphis</placeName>, where the Destroying Angel deprived me of<lb/>
+                my first born, a promising Boy of 2 years old, when<lb/>
+                <persName>Mr. Andrews</persName> called on the family (the writer being in this<lb/>
+                city at the time) and very kindly informed them that<lb/> he had appropriated a
+                tract of land for a <hi rend="underline">Jewish</hi><lb/>
+                <hi rend="underline">Burial Ground</hi> for all Israelites who may hereafter<lb/>
+                require the right of sepulchre in <placeName>Memphis</placeName>, (previous to<lb/>
+                which time they had no separate ground); they declined ac-<lb/>-cepting of the
+                generous offer, being desirous of removing<lb/> the remains of my child to this city
+                for interment in<lb/> the Portuguese <add>Jewish</add> Burial Ground, where it now
+                lies—Since<lb/> which time I am informed that the ground in
+                    <placeName>Memphis</placeName> has<lb/> been neatly enclosed at the expense of
+                    <persName>Mr. Andrews</persName>, and<lb/> the remains of a young German
+                Israelite recently deceased,<lb/> interred therein—Had it been out of my power
+                to<lb/> remove the corpse of my child, I should have had the<lb/> melancholy
+                satisfaction of knowing that at least it was<lb/> deposited in ground sacred to
+                Israelites.</p>
+            <p rend="indent(1)">Not having observed any notice on the subject in<lb/> the
+                “Occident”, I have thought it a duty to suggest to you<lb/> the propriety of putting
+                it in such a form that it may<lb/> have a beneficial effect</p>
+            <p rend="indent(9)">Very Respectfully</p>
+            <p rend="indent(10)">Yrs</p>
+            <p rend="indent(11)">
+                <persName role="author">E Sampson</persName>
+            </p>
+            <pb n="2V"/>
+            <p rend="indent(4)">
+                <hi rend="underline">Paid</hi>
+            </p>
+            <p rend="indent(4)">
+                <addressee>Revd. Isaac Leeser</addressee>
+            </p>
+            <p rend="indent(5)">
+                <placeName>No. 371 Walnut Street</placeName>
+            </p>
+            <p rend="indent(6)">
+                <placeName>Philadelphia</placeName>
+            </p>
+            <p rend="indent(7)">
+                <placeName>Penn.</placeName>
+            </p>
+        </body>
+    </text>
 </TEI>

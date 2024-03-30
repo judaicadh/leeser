@@ -1,268 +1,317 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE TEI [
-<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
-%teibase;
-<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
-%teiext;
-]>
-<TEI>
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="yes">Lenn, S.</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>LSKAP</repository>
-						<collection>The Arnold and Deanne Kaplan Collection of Early American Judaica</collection>
-						<idno>LSKAP0112</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="yes">Lenn, S.</author>
-						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac</addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>Syracuse, NY</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1852-10" source="" attested="yes">October 7, 1852</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="LSKAP0112_1r.jpg"></graphic>
-								<graphic url="LSKAP0112_1v.jpg"></graphic>
-								<graphic url="LSKAP0112_2r.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="false" paper_type="" size="">letter</material>
-								</support>
-								<extent>4 pages on 2 sheets
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="manuscript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="restricted">
-								<p>Restricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-				<language ident="de">German</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1R"/>
-				<p rend="align(right)"><placeName>Syracuse N. Y.</placeName> <date>7 October 1852</date></p>
-			<p rend="indent(2)">Dear Sir&#33;</p>
-				<p>In accordance to your request&#44; and deeming it<lb/> a duty&#44; I hereby tender you a report of the<lb/> proceedings of our congregation&#44; &#8220;Cheneseth Shalom&#8221;<lb/> within the late holidays.</p>
-				<p>The synagogue was well attended and two<lb/> sermons were delivered by out most worthy<lb/> minister <persName>Rev. H. A. Henry</persName>&#8212;one on Bimtenhal<add>&#63;</add><lb/> <date>Sabbath</date>&#44; &#38; the other during the festival of <date>Succoth</date>.<lb/>  They were delivered in a manner which delighted<lb/> the entire audience present&#44; &#38; give great<lb/> Credit&#44; to <persName>Mr. H.</persName>  The prayers were read<lb/> on <add>Hebrew</add> and <add>Hebrew</add> by <persName>Mr H</persName> in a very<lb/> impressive style which not only satisfied the con&#61;<lb/>gregation but impressed them with a feeling<lb/> of true devotion.  The synagogue was attended<lb/> by many strangers from different parts of the<lb/> state&#44; who in concert with our members have<lb/> contributed very liberally towards the support<lb/> of the Synagogue&#44; promoted as they declared<lb/> themselves highly pleased with our <sic>procedings</sic>.&#8212;<lb/> A<add>&#63;</add> few weeks ago our highly respected President<lb/> <persName>Jacob Stone</persName> resigned&#44; whereupon <persName>Mr Isaac H Bronner</persName></p>
-			<pb n="1V"/>
-				<p>was elected President &#38; <persName>Mr. M. Corre<add>&#63;</add></persName><lb/> V. Pres&#58;&#59; every thing in our congregation<lb/> appears to work well towards the prosperity<lb/> knowing how happy you are to record<lb/> the deserved merits of the ministers of<lb/> our Religion I have to inform You that<lb/> our Ministers time expired on the <date>1st<lb/> of October</date>&#44; &#38; he had signified his instructions<lb/> to retire from this City&#44; having had overtures<lb/> made to him&#44; to take an other office much<lb/> more lucrative than ours&#44; and a much<lb/> larger congregation.  But such is the estimation<lb/> in which he is held by our congregation &#38;<lb/> by the unani<del>n</del>mous voice of the members<lb/> he was prevailed upon to remain among<lb/> us to which he kindly consented.</p>
-				<p>The members acted <sic>jutisciarisly</sic> in their<lb/> choice&#44; convinced that the affairs of the<lb/> congregation have been materially <sic>beniffited</sic><lb/> during his administrations&#44; of which we<lb/> had sufficient proof during the late holidays.<lb/>  To show you what the feeling of the congregation<lb/> is towards <persName>Mr. H.</persName> I will say in short&#58;<lb/> that they wish to engage his services for as<lb/> long as teperiod<add>&#63;</add> as he may feel disposed&#59;<lb/> in opposition to the usual <sic>costinnes</sic> in<lb/> the states of electing minsters annually.<lb/>  I regret not to have been enabled to get</p>
-			<pb n="2R"/>
-				<p>any new subscribers for the Occident<lb/> I should feel obliged by your publishing<lb/> this letter if you think it worthy a<lb/> place in the next number of your magazine.</p>
-			<p rend="indent(4)">Yours truly</p>
-			<p rend="indent(5)"><persName role="author">S Lenn</persName></p>
-				<p><addressee>Isaac Leeser Esq.</addressee></p>
-			<p rend="indent(1)">Editor of the Occident</p>
-			<p rend="indent(2)"><placeName>Philadelphia</placeName>.</p>
-				<p>PS. Haben Sie Guts<add>&#63;</add> meinen Namen<lb/> nicht ins Volle zu ziechnen sondern<lb/> nur Z. &#38; solthen Sie Schreibfehler oder<lb/> sonstige unrechte ausdr&#252;cke darin finden<lb/> so verbessern Sie es gehs und bedenken<lb/> Sie da&#223; ich in der englischen Sprache keine<lb/> so gut Fortschritte zu machen in Hande bin<lb/> als Sie es in <persName>Herrn <add>&#63;</add>ugend</persName> waren.</p>
-				<p><date>Oct 11<hi rend="sup">th</hi></date>.&#44; <add>&#63;</add> sprech ich mit <add>&#63;</add><lb/> <persName>Jacob Stone</persName> welches mir sagte da&#223;<lb/> es Ihren in kurze selbst schreiben<lb/> wird<lb/> <persName>D.O.</persName></p>
-		
-			<div>
-				<p><ref target="Occident_PDFs/Occ_9_7.pdf">The above text refers to Occident Volume 9 No. 7 pages 372 through 380. Click here to view.</ref></p>
-			</div>
-		</body>
-	</text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="yes">Lenn, S.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>LSKAP</repository>
+                        <collection>The Arnold and Deanne Kaplan Collection of Early American
+                            Judaica</collection>
+                        <idno>LSKAP0112</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="yes">Lenn, S.</author>
+                        <addressee accepted="yes" attested="yes" editor="false">Leeser,
+                            Isaac</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Syracuse, NY</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1852-10">October 7, 1852</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="LSKAP0112_1r.jpg"/>
+                                <graphic url="LSKAP0112_1v.jpg"/>
+                                <graphic url="LSKAP0112_2r.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >letter</material>
+                                </support>
+                                <extent>4 pages on 2 sheets <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="restricted">
+                                <p>Restricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="de">German</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1R"/>
+            <p rend="align(right)">
+                <placeName>Syracuse N. Y.</placeName>
+                <date>7 October 1852</date>
+            </p>
+            <p rend="indent(2)">Dear Sir!</p>
+            <p>In accordance to your request, and deeming it<lb/> a duty, I hereby tender you a
+                report of the<lb/> proceedings of our congregation, “Cheneseth Shalom”<lb/> within
+                the late holidays.</p>
+            <p>The synagogue was well attended and two<lb/> sermons were delivered by out most
+                worthy<lb/> minister <persName>Rev. H. A. Henry</persName>—one on
+                    Bimtenhal<add>?</add><lb/>
+                <date>Sabbath</date>, &amp; the other during the festival of
+                <date>Succoth</date>.<lb/> They were delivered in a manner which delighted<lb/> the
+                entire audience present, &amp; give great<lb/> Credit, to <persName>Mr.
+                    H.</persName> The prayers were read<lb/> on <add>ראש השנה</add> and <add>יום
+                    כפור</add> by <persName>Mr H</persName> in a very<lb/> impressive style which
+                not only satisfied the con=<lb/>gregation but impressed them with a feeling<lb/> of
+                true devotion. The synagogue was attended<lb/> by many strangers from different
+                parts of the<lb/> state, who in concert with our members have<lb/> contributed very
+                liberally towards the support<lb/> of the Synagogue, promoted as they declared<lb/>
+                themselves highly pleased with our <sic>procedings</sic>.—<lb/> A<add>?</add> few
+                weeks ago our highly respected President<lb/>
+                <persName>Jacob Stone</persName> resigned, whereupon <persName>Mr Isaac H
+                    Bronner</persName></p>
+            <pb n="1V"/>
+            <p>was elected President &amp; <persName>Mr. M. Corre<add>?</add></persName><lb/> V.
+                Pres:; every thing in our congregation<lb/> appears to work well towards the
+                prosperity<lb/> knowing how happy you are to record<lb/> the deserved merits of the
+                ministers of<lb/> our Religion I have to inform You that<lb/> our Ministers time
+                expired on the <date>1st<lb/> of October</date>, &amp; he had signified his
+                instructions<lb/> to retire from this City, having had overtures<lb/> made to him,
+                to take an other office much<lb/> more lucrative than ours, and a much<lb/> larger
+                congregation. But such is the estimation<lb/> in which he is held by our
+                congregation &amp;<lb/> by the unani<del>n</del>mous voice of the members<lb/> he
+                was prevailed upon to remain among<lb/> us to which he kindly consented.</p>
+            <p>The members acted <sic>jutisciarisly</sic> in their<lb/> choice, convinced that the
+                affairs of the<lb/> congregation have been materially <sic>beniffited</sic><lb/>
+                during his administrations, of which we<lb/> had sufficient proof during the late
+                holidays.<lb/> To show you what the feeling of the congregation<lb/> is towards
+                    <persName>Mr. H.</persName> I will say in short:<lb/> that they wish to engage
+                his services for as<lb/> long as teperiod<add>?</add> as he may feel disposed;<lb/>
+                in opposition to the usual <sic>costinnes</sic> in<lb/> the states of electing
+                minsters annually.<lb/> I regret not to have been enabled to get</p>
+            <pb n="2R"/>
+            <p>any new subscribers for the Occident<lb/> I should feel obliged by your
+                publishing<lb/> this letter if you think it worthy a<lb/> place in the next number
+                of your magazine.</p>
+            <p rend="indent(4)">Yours truly</p>
+            <p rend="indent(5)">
+                <persName role="author">S Lenn</persName>
+            </p>
+            <p>
+                <addressee>Isaac Leeser Esq.</addressee>
+            </p>
+            <p rend="indent(1)">Editor of the Occident</p>
+            <p rend="indent(2)"><placeName>Philadelphia</placeName>.</p>
+            <p>PS. Haben Sie Guts<add>?</add> meinen Namen<lb/> nicht ins Volle zu ziechnen
+                sondern<lb/> nur Z. &amp; solthen Sie Schreibfehler oder<lb/> sonstige unrechte
+                ausdrücke darin finden<lb/> so verbessern Sie es gehs und bedenken<lb/> Sie daß ich
+                in der englischen Sprache keine<lb/> so gut Fortschritte zu machen in Hande bin<lb/>
+                als Sie es in <persName>Herrn <add>?</add>ugend</persName> waren.</p>
+            <p><date>Oct 11<hi rend="sup">th</hi></date>., <add>?</add> sprech ich mit <add>?</add><lb/>
+                <persName>Jacob Stone</persName> welches mir sagte daß<lb/> es Ihren in kurze selbst
+                schreiben<lb/> wird<lb/>
+                <persName>D.O.</persName></p>
+            <div>
+                <p>
+                    <ref target="Occident_PDFs/Occ_9_7.pdf">The above text refers to Occident Volume
+                        9 No. 7 pages 372 through 380. Click here to view.</ref>
+                </p>
+            </div>
+        </body>
+    </text>
 </TEI>

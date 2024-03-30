@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+
 		<fileDesc>
 			<titleStmt>
 				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="yes">Levy, D. C.</author>
+				<author accepted="yes" attested="yes" signature="yes">Levy, D. C.</author>
 				<editor/>
 				<sponsor/>
 				<funder/>
@@ -56,8 +58,8 @@
 					</msIdentifier>
 					<head/>
 					<letHeading>
-						<author attested="yes" accepted="yes" signature="yes">Levy, D. C.</author>
-						<addressee editor="false" attested="yes" accepted="yes">Leeser,
+						<author accepted="yes" attested="yes" signature="yes">Levy, D. C.</author>
+						<addressee accepted="yes" attested="yes" editor="false">Leeser,
 							Isaac</addressee>
 						<deliverer/>
 						<respStmt>
@@ -66,7 +68,7 @@
 						</respStmt>
 						<placeLet/>
 						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="" source="" attested="unk"/>
+						<dateLet attested="unk" source="" when=""/>
 					</letHeading>
 					<msContents>
 						<msItem>
@@ -95,8 +97,8 @@
 						<objectDesc>
 							<supportDesc>
 								<support>
-									<material color="" lined="false" paper_type="" size="">letter</material>letter
-								</support>
+									<material color="" lined="false" paper_type="" size=""
+										>letter</material>letter </support>
 								<extent>1 page on 4 sheets <dimensions/>
 								</extent>
 								<foliation/>
@@ -236,12 +238,16 @@
 	</teiHeader>
 	<text>
 		<body>
-			<p><addressee>Revd I Leeser</addressee></p>
+			<p>
+				<addressee>Revd I Leeser</addressee>
+			</p>
 			<p rend="indent(1)">My dear Sir</p>
-			<p rend="indent(3)">Please receive<lb/> the within&#44; in payment for a<lb/> Bible sent
-				my sister <persName>Isabel<lb/> a Moses</persName>&#44; who in a recent<lb/> letter
-				requested me to settle<lb/> with you &#32; Yrs Truly</p>
-			<p rend="indent(7)"><persName role="author">D C Levy</persName></p>
+			<p rend="indent(3)">Please receive<lb/> the within, in payment for a<lb/> Bible sent my
+				sister <persName>Isabel<lb/> a Moses</persName>, who in a recent<lb/> letter
+				requested me to settle<lb/> with you Yrs Truly</p>
+			<p rend="indent(7)">
+				<persName role="author">D C Levy</persName>
+			</p>
 		</body>
 	</text>
 </TEI>

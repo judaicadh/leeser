@@ -1,253 +1,298 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="yes">Nathan, M. N.</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>TCAT</repository>
-						<collection>Anonymous</collection>
-						<idno>LSTCAT_item172</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="yes">Nathan, M. N.</author>
-						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac</addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>London, United Kingdom</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1854-01" source="" attested="yes">24 January 1854</dateLet>
-						<dateLet when="1854-01" source="" attested="yes">24 January 5614</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="il_tcat_item172_wk1_body0001.jpg"></graphic>
-								<graphic url="il_tcat_item172_wk1_body0002.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="false" paper_type="" size="">letter</material>
-								</support>
-								<extent>1 page on 2 sheets
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="manuscript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="free">
-								<p>Unrestricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-				<p rend="align(right)"><placeName>London</placeName>. <date>Jany. 24<hi rend="sup">Th</hi> 5614&#47;1854</date></p>
-				<p><addressee>Revd. Isaac Leeser</addressee></p>
-			<p rend="indent(1)"><placeName>Philadelphia</placeName>.</p>
-			<p rend="indent(2)">Dear friend</p>
-			<p rend="indent(3)">I have long proposed to have this pleasure if<lb/> only to inform you of <persName>Mrs. Nathan</persName> and myself not having forgotten you&#44; but apart from<lb/> the disarrangement which moving from one country to another occasions&#44; and the unfixed<lb/> habits it creates&#44; my poor wife has&#44; I regret to say been an invalid for the last 11 weeks.<lb/>  Her sufferings have been so severe&#44; as to have debarred me from communicating with<lb/> even an old friend like you.  I wished particularly to send you my address&#44; having<lb/> noticed in the slip round the Occident directed to me&#44; and for which thoughtful<lb/> act I kindly thank you&#44; your request to <persName>Mrs Joel</persName> to ascertain my whereabouts<lb/> <persName>Mrs. N.</persName> is I am happy to say mending&#44; tho&#39; very slowly.  Her situation in a city<lb/> where friends are separated by such great distances as to render a friendly visit<lb/> a toil&#44; has confined me to the house to relieve the tediousness of her solitude&#44; so that<lb/> I know little or nothing of Jewish affairs&#44; and the pending controversy between<lb/> the Board of deputies and the country congregations&#44; the only subject I suppose<lb/> about which you care to know I have met with <persName>Dr. Adler</persName> twice&#44; and in my<lb/> next will offer a few observations respecting him and the Jews generally.</p>
-			<p rend="indent(1)">It was my intention to visit <placeName>America</placeName> on my way to <placeName>Europe</placeName>&#44; but<lb/> the steamers would have taken us first to <placeName>Aspinwall</placeName>&#44; and I feared going<lb/> to the <placeName>Isthmus</placeName> even for a few days after the experience I had of it last<lb/> <date>January</date>.  I wished especially to see <placeName>Philadelphia</placeName> once more for the sake<lb/> of seeing old friends again&#44; and ascertaining also whether it would have<lb/> suited us to live there.  &#8220;Man denkt aber Gott lenkt.&#8221;   Convey however to our numerous<lb/> friends there our warmest remembrances&#44; and our hopes that we may yet<lb/> meet again in this life.  How is your Bible getting on&#63;  When will it be ready&#63;</p>
-			<p rend="indent(1)">Did the translation I lent you of the Book of <persName>Job</persName> prove of any service&#44; in opening<lb/> up new readings &#38;c&#63;  What do you think of <persName>Gutheim&#39;s</persName> accepting my late situation<lb/> after resigning his former one on the plea of intention of quitting the ministry alto&#45;<lb/>gether&#63;  Rather strange the whole proceeding.  God be with you is the united<lb/> wish of <persName>Mrs. N</persName> and myself&#44; and hoping this will meet you and all friends<lb/> in good health</p>   
-			<p rend="indent(9)">I am</p>
-			<p rend="indent(9)">Your&#39;s as of old</p>
-			<p rend="indent(9)"><persName role="author">M N Nathan</persName></p>
-				<p>Direct to me care of <persName>Messrs Carvalho &#38; Delgado</persName></p>
-			<p rend="indent(1)"><placeName>8 &#189; Cross St.</placeName></p>
-			<p rend="indent(3)"><placeName>Finsbury</placeName></p>
-			<p rend="indent(4)"><placeName>London</placeName>.</p>
-		</body>
-	</text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="yes">Nathan, M. N.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>TCAT</repository>
+                        <collection>Anonymous</collection>
+                        <idno>LSTCAT_item172</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="yes">Nathan, M. N.</author>
+                        <addressee accepted="yes" attested="yes" editor="false">Leeser,
+                            Isaac</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>London, United Kingdom</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1854-01">24 January 1854</dateLet>
+                        <dateLet attested="yes" source="" when="1854-01">24 January 5614</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="il_tcat_item172_wk1_body0001.jpg"/>
+                                <graphic url="il_tcat_item172_wk1_body0002.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >letter</material>
+                                </support>
+                                <extent>1 page on 2 sheets <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p rend="align(right)"><placeName>London</placeName>. <date>Jany. 24<hi rend="sup"
+                        >Th</hi> 5614/1854</date></p>
+            <p>
+                <addressee>Revd. Isaac Leeser</addressee>
+            </p>
+            <p rend="indent(1)"><placeName>Philadelphia</placeName>.</p>
+            <p rend="indent(2)">Dear friend</p>
+            <p rend="indent(3)">I have long proposed to have this pleasure if<lb/> only to inform
+                you of <persName>Mrs. Nathan</persName> and myself not having forgotten you, but
+                apart from<lb/> the disarrangement which moving from one country to another
+                occasions, and the unfixed<lb/> habits it creates, my poor wife has, I regret to say
+                been an invalid for the last 11 weeks.<lb/> Her sufferings have been so severe, as
+                to have debarred me from communicating with<lb/> even an old friend like you. I
+                wished particularly to send you my address, having<lb/> noticed in the slip round
+                the Occident directed to me, and for which thoughtful<lb/> act I kindly thank you,
+                your request to <persName>Mrs Joel</persName> to ascertain my whereabouts<lb/>
+                <persName>Mrs. N.</persName> is I am happy to say mending, tho' very slowly. Her
+                situation in a city<lb/> where friends are separated by such great distances as to
+                render a friendly visit<lb/> a toil, has confined me to the house to relieve the
+                tediousness of her solitude, so that<lb/> I know little or nothing of Jewish
+                affairs, and the pending controversy between<lb/> the Board of deputies and the
+                country congregations, the only subject I suppose<lb/> about which you care to know
+                I have met with <persName>Dr. Adler</persName> twice, and in my<lb/> next will offer
+                a few observations respecting him and the Jews generally.</p>
+            <p rend="indent(1)">It was my intention to visit <placeName>America</placeName> on my
+                way to <placeName>Europe</placeName>, but<lb/> the steamers would have taken us
+                first to <placeName>Aspinwall</placeName>, and I feared going<lb/> to the
+                    <placeName>Isthmus</placeName> even for a few days after the experience I had of
+                it last<lb/>
+                <date>January</date>. I wished especially to see <placeName>Philadelphia</placeName>
+                once more for the sake<lb/> of seeing old friends again, and ascertaining also
+                whether it would have<lb/> suited us to live there. “Man denkt aber Gott lenkt.”
+                Convey however to our numerous<lb/> friends there our warmest remembrances, and our
+                hopes that we may yet<lb/> meet again in this life. How is your Bible getting on?
+                When will it be ready?</p>
+            <p rend="indent(1)">Did the translation I lent you of the Book of
+                    <persName>Job</persName> prove of any service, in opening<lb/> up new readings
+                &amp;c? What do you think of <persName>Gutheim's</persName> accepting my late
+                situation<lb/> after resigning his former one on the plea of intention of quitting
+                the ministry alto-<lb/>gether? Rather strange the whole proceeding. God be with you
+                is the united<lb/> wish of <persName>Mrs. N</persName> and myself, and hoping this
+                will meet you and all friends<lb/> in good health</p>
+            <p rend="indent(9)">I am</p>
+            <p rend="indent(9)">Your's as of old</p>
+            <p rend="indent(9)">
+                <persName role="author">M N Nathan</persName>
+            </p>
+            <p>Direct to me care of <persName>Messrs Carvalho &amp; Delgado</persName></p>
+            <p rend="indent(1)">
+                <placeName>8 ½ Cross St.</placeName>
+            </p>
+            <p rend="indent(3)">
+                <placeName>Finsbury</placeName>
+            </p>
+            <p rend="indent(4)"><placeName>London</placeName>.</p>
+        </body>
+    </text>
 </TEI>

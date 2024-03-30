@@ -1,261 +1,321 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
-      <fileDesc>
-        <titleStmt>
-          <title>[no title given]</title>
-          <author attested="unk" accepted="unk" signature="unk"></author>
-          <editor></editor>
-          <sponsor></sponsor>
-          <funder></funder>
-          <principal></principal>
-          <respStmt>
-            <resp></resp>
-            <name></name>
-          </respStmt>
-        </titleStmt>
-        <editionStmt>
-          <edition></edition>
-          <respStmt>
-            <resp></resp>
-            <name></name>
-          </respStmt>
-        </editionStmt>
-        <extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-        <publicationStmt>
-          <publisher>Unpublished manuscript</publisher>
-        </publicationStmt>
-        <seriesStmt>
-          <p>Not part of a series</p>
-        </seriesStmt>
-        <notesStmt>
-          <note></note>
-        </notesStmt>
-        <sourceDesc>
-          <biblStruct>
-            <!-- catalog entry goes here -->
-            <monogr>
-              <imprint>
-                <dateLet></dateLet>
-              </imprint>
-            </monogr>
-          </biblStruct>
-          <msDesc>
-            <msIdentifier>
-              <country>USA</country>
-              <region>PA</region>
-              <settlement>Philadelphia</settlement>
-              <institution></institution>
-              <repository>CAJS Isaac Leeser Collection</repository>
-              <collection>The Library of the Dropsie College for Hebrew and Cognate Learning</collection>
-              <idno>LSDCBx2FF1_37</idno>
-              <altIdentifier>
-                <idno></idno>
-              </altIdentifier>
-              <msName></msName>
-            </msIdentifier>
-            <head></head>
-            <letHeading>
-              <author attested="unk" accepted="unk" signature="unk"></author>
-              <addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac</addressee>
-              <deliverer></deliverer>
-              <respStmt>
-                <resp></resp>
-                <name></name>
-              </respStmt>
-              <placeLet>New York, NY</placeLet>
-              <placeRec>Philadelphia, PA</placeRec>
-              <dateLet when="1854-04" source="" attested="yes">23 April 1854</dateLet>
-            </letHeading>
-            <msContents>
-              <msItem>
-                <author></author>
-                <editor></editor>
-                <respStmt>
-                  <resp></resp>
-                  <name></name>
-                </respStmt>
-                <title></title>
-                <decoNote></decoNote>
-                <listBibl>
-                  <bibl></bibl>
-                </listBibl>
-                <filiation></filiation>
-                <textLang></textLang>
-                <figure>
-                  <graphic url="ilcajs_b2f1_0038_1r.jpg"/>
-                  <graphic url="ilcajs_b2f1_0038_1v.jpg"/>
-                </figure>
-              </msItem>
-            </msContents>
-            <physDesc>
-              <objectDesc>
-                <supportDesc>
-                  <support>
-                    <material color="" lined="true" paper_type="" size="Letter">letter</material>
-                  </support>
-                  <extent>4 pages on 1 sheet
-                    <dimensions></dimensions>
-                  </extent>
-                  <foliation></foliation>
-                  <collation></collation>
-                  <condition fragment="true"></condition>
-                </supportDesc>
-                <layoutDesc>
-                  <layout></layout>
-                </layoutDesc>
-              </objectDesc>
-              <handDesc script="manuscript">
-                  <handNote></handNote>
-              </handDesc>
-              <decoDesc>
-                <decoNote></decoNote>
-              </decoDesc>
-              <additions></additions>
-              <bindingDesc>
-                <binding>
-                  <decoNote></decoNote>
-                </binding>
-              </bindingDesc>
-              <sealDesc>
-                <seal>
-                  <p></p>
-                </seal>
-              </sealDesc>
-              <accMat></accMat>
-              <envDesc occ="false"></envDesc>
-            </physDesc>
-            <history>
-              <origin></origin>
-              <provenance></provenance>
-              <acquisition></acquisition>
-            </history>
-            <additional>
-              <adminInfo>
-                <recordHist>
-                  <source></source>
-                  <change></change>
-                </recordHist>
-                <availability status="free">
-                  <p>Unrestricted</p>
-                </availability>
-                <custodialHist>
-                  <custEvent></custEvent>
-                </custodialHist>
-              </adminInfo>
-              <surrogates></surrogates>
-              <listBibl>
-                <bibl></bibl>
-              </listBibl>
-            </additional>
-            <msPart>
-              <altIdentifier>
-                <idno></idno>
-              </altIdentifier>
-            </msPart>
-          </msDesc>
-        </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-        <projectDesc>
-          <p></p>
-        </projectDesc>
-        <samplingDecl>
-          <p></p>
-        </samplingDecl>
-        <editorialDecl>
-          <correction>
-            <p></p>
-          </correction>
-          <normalization>
-            <p></p>
-          </normalization>
-          <quotation>
-            <p></p>
-          </quotation>
-          <hyphenation>
-            <p></p>
-          </hyphenation>
-          <segmentation>
-            <p></p>
-          </segmentation>
-          <stdVals>
-            <p></p>
-          </stdVals>
-          <interpretation>
-            <p></p>
-          </interpretation>
-        </editorialDecl>
-        <tagsDecl>
-          <rendition></rendition>
-          <namespace name="http://www.tei-c.org/ns/1.0">
-            <tagUsage gi=""></tagUsage>
-          </namespace>
-        </tagsDecl>
-        <refsDecl>
-          <cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-        </refsDecl>
-        <refsDecl>
-          <refState unit=""/>
-        </refsDecl>
-        <classDecl>
-          <taxonomy>
-            <category>
-              <catDesc></catDesc>
-            </category>
-          </taxonomy>
-        </classDecl>
-        <appInfo>
-          <application ident="" version="">
-            <desc></desc>
-            <label></label>
-          </application>
-        </appInfo>
-      </encodingDesc>
-      <profileDesc>
-        <creation></creation>
-        <langUsage>
-          <language ident="en">English</language>
-        </langUsage>
-        <textClass>
-          <keywords scheme="unknown">
-            <list>
-              <item></item>
-              <item></item>
-            </list>
-          </keywords>
-          <classCode scheme=""></classCode>
-          <catRef/>
-        </textClass>
-      </profileDesc>
-      <revisionDesc>
-        <change></change>
-      </revisionDesc>
-    </teiHeader>
-    <text>
-        <body>
-      
-		<pb n="1"/>
-			<p rend="align(right)"><placeName>New York</placeName></p>
-			<p rend="align(right)"><date>April 23&#44; 54</date></p>
-			<p><addressee>Rabbi Leeser</addressee></p>
-          <p rend="indent(1)">Dear Sir</p>
-          <p rend="indent(1)">I forward the<lb/> <sic>inclosed</sic> which I have<lb/> just <sic>recieved</sic> in a letter<lb/> from my brother.<lb/> The prospects in <placeName>Pal&#45;<lb/>estine</placeName>&#8212;politically &#38; socially<lb/> are entirely favourable<lb/> to agricultural <sic>persuits</sic>.</p>
-          <p rend="indent(1)">Oh can you not<lb/> influence those who<lb/> have the control of the<lb/> funds which are in<lb/>tended for <placeName>Palestine</placeName> to<lb/> direct that a portion<lb/> of them be expended<lb/> in employing the</p>
-		<pb n="2"/>
-			<p>poor in learning agriculture&#44;<lb/> as you propose in the <date>Feb.</date><lb/> no of the &#8220;Occident.&#8221;</p>
-			<p>There can be no objection.<lb/> Your English brethren<lb/> approve&#8212;certainly our<lb/> practical &#38; economical<lb/> Americans will also.<lb/> They must disearn<add>&#63;</add> the<lb/> great advantage of<lb/> aiding their brethren<lb/> to earn their own sub&#45;<lb/>sistence in preference<lb/> to supporting them for<lb/>ever in idleness.</p>
-			<p>This place of appropri<lb/>ating your charities in<lb/> the <placeName>Holy Land</placeName>&#44; will cer<lb/>tainly become popular<lb/> in the minds of all<lb/> your reflecting brethren.</p>
-		<pb n="3"/>
-			<p>but as with any other<lb/> reform measure or new arrang<lb/>ment it will doubtless be<lb/> necessary to constantly<lb/> recommend and insist upon<lb/> its adoption.</p>
-			<p>Dear Sir&#8212;allow me to<lb/> express the hope that in<lb/> view of the certainty of an<lb/> ultimate success&#44; &#38; of the<lb/> superior good to be attained&#44;<lb/> you will persevere with<lb/> all possible energy &#38; dili<lb/>gence until the effort you<lb/> have so properly commenced<lb/> is fully <sic>consumated</sic>.<lb/> Until those of your brethren<lb/> who leave the power&#44;<lb/> decide fully to have their<lb/> funds expanded in learning<lb/> the destitute in <placeName>Palestine</placeName></p>
-		<pb n="4"/>
-			<p>how to maintain <hi rend="underline">themselves</hi><lb/> and thus become permanently<lb/> relieved from their poverty&#8212;<lb/> Our colony would not desire<lb/> to assume any responsibility<lb/> in relation to the direction<lb/> or control in the least<lb/> degree of your funds&#44; which<lb/> should be continued at the dis<lb/>posal of the R<add>&#63;</add>.</p>
-			<p>Our Farmers &#38; Mechanics<lb/> will afford the requisite in<lb/>struction &#38; gratis&#44; until<lb/> the men are sufficiently<lb/> advanced to support them<lb/>selves. Your Rabbis will<lb/> however disburse to them<lb/> their usual allowance in the<lb/> form of wages&#44; to enable them<lb/> as at present to support<lb/> their families while they</p>
-          
-          <div>
-            <p><ref target="Occident_PDFs/Occ_12_4.pdf">The above text refers to Occident Volume 12 No. 4 pages 200 through 206. Click here to view.</ref></p>
-            <p><ref target="Occident_PDFs/Occ_11_11.pdf">The above text refers to Occident Volume 11 No. 11 pages 541 through 552. Click here to view.</ref></p>
-          </div>
-        </body>
-    </text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+          <teiHeader>
+
+                    <fileDesc>
+                              <titleStmt>
+                                        <title>[no title given]</title>
+                                        <author accepted="unk" attested="unk" signature="unk"/>
+                                        <editor/>
+                                        <sponsor/>
+                                        <funder/>
+                                        <principal/>
+                                        <respStmt>
+                                                  <resp/>
+                                                  <name/>
+                                        </respStmt>
+                              </titleStmt>
+                              <editionStmt>
+                                        <edition/>
+                                        <respStmt>
+                                                  <resp/>
+                                                  <name/>
+                                        </respStmt>
+                              </editionStmt>
+                              <extent>[information about file size goes here, information about
+                                        extent of physical item comes later]</extent>
+                              <publicationStmt>
+                                        <publisher>Unpublished manuscript</publisher>
+                              </publicationStmt>
+                              <seriesStmt>
+                                        <p>Not part of a series</p>
+                              </seriesStmt>
+                              <notesStmt>
+                                        <note/>
+                              </notesStmt>
+                              <sourceDesc>
+                                        <biblStruct>
+                                                  <!-- catalog entry goes here -->
+                                                  <monogr>
+                                                  <imprint>
+                                                  <dateLet/>
+                                                  </imprint>
+                                                  </monogr>
+                                        </biblStruct>
+                                        <msDesc>
+                                                  <msIdentifier>
+                                                  <country>USA</country>
+                                                  <region>PA</region>
+                                                  <settlement>Philadelphia</settlement>
+                                                  <institution/>
+                                                  <repository>CAJS Isaac Leeser
+                                                  Collection</repository>
+                                                  <collection>The Library of the Dropsie College for
+                                                  Hebrew and Cognate Learning</collection>
+                                                  <idno>LSDCBx2FF1_37</idno>
+                                                  <altIdentifier>
+                                                  <idno/>
+                                                  </altIdentifier>
+                                                  <msName/>
+                                                  </msIdentifier>
+                                                  <head/>
+                                                  <letHeading>
+                                                  <author accepted="unk" attested="unk"
+                                                  signature="unk"/>
+                                                  <addressee accepted="yes" attested="yes"
+                                                  editor="false">Leeser, Isaac</addressee>
+                                                  <deliverer/>
+                                                  <respStmt>
+                                                  <resp/>
+                                                  <name/>
+                                                  </respStmt>
+                                                  <placeLet>New York, NY</placeLet>
+                                                  <placeRec>Philadelphia, PA</placeRec>
+                                                  <dateLet attested="yes" source="" when="1854-04"
+                                                  >23 April 1854</dateLet>
+                                                  </letHeading>
+                                                  <msContents>
+                                                  <msItem>
+                                                  <author/>
+                                                  <editor/>
+                                                  <respStmt>
+                                                  <resp/>
+                                                  <name/>
+                                                  </respStmt>
+                                                  <title/>
+                                                  <decoNote/>
+                                                  <listBibl>
+                                                  <bibl/>
+                                                  </listBibl>
+                                                  <filiation/>
+                                                  <textLang/>
+                                                  <figure>
+                                                  <graphic url="ilcajs_b2f1_0038_1r.jpg"/>
+                                                  <graphic url="ilcajs_b2f1_0038_1v.jpg"/>
+                                                  </figure>
+                                                  </msItem>
+                                                  </msContents>
+                                                  <physDesc>
+                                                  <objectDesc>
+                                                  <supportDesc>
+                                                  <support>
+                                                  <material color="" lined="true" paper_type=""
+                                                  size="Letter">letter</material>
+                                                  </support>
+                                                  <extent>4 pages on 1 sheet <dimensions/>
+                                                  </extent>
+                                                  <foliation/>
+                                                  <collation/>
+                                                  <condition fragment="true"/>
+                                                  </supportDesc>
+                                                  <layoutDesc>
+                                                  <layout/>
+                                                  </layoutDesc>
+                                                  </objectDesc>
+                                                  <handDesc script="manuscript">
+                                                  <handNote/>
+                                                  </handDesc>
+                                                  <decoDesc>
+                                                  <decoNote/>
+                                                  </decoDesc>
+                                                  <additions/>
+                                                  <bindingDesc>
+                                                  <binding>
+                                                  <decoNote/>
+                                                  </binding>
+                                                  </bindingDesc>
+                                                  <sealDesc>
+                                                  <seal>
+                                                  <p/>
+                                                  </seal>
+                                                  </sealDesc>
+                                                  <accMat/>
+                                                  <envDesc occ="false"/>
+                                                  </physDesc>
+                                                  <history>
+                                                  <origin/>
+                                                  <provenance/>
+                                                  <acquisition/>
+                                                  </history>
+                                                  <additional>
+                                                  <adminInfo>
+                                                  <recordHist>
+                                                  <source/>
+                                                  <change/>
+                                                  </recordHist>
+                                                  <availability status="free">
+                                                  <p>Unrestricted</p>
+                                                  </availability>
+                                                  <custodialHist>
+                                                  <custEvent/>
+                                                  </custodialHist>
+                                                  </adminInfo>
+                                                  <surrogates/>
+                                                  <listBibl>
+                                                  <bibl/>
+                                                  </listBibl>
+                                                  </additional>
+                                                  <msPart>
+                                                  <altIdentifier>
+                                                  <idno/>
+                                                  </altIdentifier>
+                                                  </msPart>
+                                        </msDesc>
+                              </sourceDesc>
+                    </fileDesc>
+                    <encodingDesc>
+                              <projectDesc>
+                                        <p/>
+                              </projectDesc>
+                              <samplingDecl>
+                                        <p/>
+                              </samplingDecl>
+                              <editorialDecl>
+                                        <correction>
+                                                  <p/>
+                                        </correction>
+                                        <normalization>
+                                                  <p/>
+                                        </normalization>
+                                        <quotation>
+                                                  <p/>
+                                        </quotation>
+                                        <hyphenation>
+                                                  <p/>
+                                        </hyphenation>
+                                        <segmentation>
+                                                  <p/>
+                                        </segmentation>
+                                        <stdVals>
+                                                  <p/>
+                                        </stdVals>
+                                        <interpretation>
+                                                  <p/>
+                                        </interpretation>
+                              </editorialDecl>
+                              <tagsDecl>
+                                        <rendition/>
+                                        <namespace name="http://www.tei-c.org/ns/1.0">
+                                                  <tagUsage gi=""/>
+                                        </namespace>
+                              </tagsDecl>
+                              <refsDecl>
+                                        <cRefPattern matchPattern="" replacementPattern=""/>
+                              </refsDecl>
+                              <refsDecl>
+                                        <refState unit=""/>
+                              </refsDecl>
+                              <classDecl>
+                                        <taxonomy>
+                                                  <category>
+                                                  <catDesc/>
+                                                  </category>
+                                        </taxonomy>
+                              </classDecl>
+                              <appInfo>
+                                        <application ident="" version="">
+                                                  <desc/>
+                                                  <label/>
+                                        </application>
+                              </appInfo>
+                    </encodingDesc>
+                    <profileDesc>
+                              <creation/>
+                              <langUsage>
+                                        <language ident="en">English</language>
+                              </langUsage>
+                              <textClass>
+                                        <keywords scheme="unknown">
+                                                  <list>
+                                                  <item/>
+                                                  <item/>
+                                                  </list>
+                                        </keywords>
+                                        <classCode scheme=""/>
+                                        <catRef/>
+                              </textClass>
+                    </profileDesc>
+                    <revisionDesc>
+                              <change/>
+                    </revisionDesc>
+          </teiHeader>
+          <text>
+                    <body>
+                              <pb n="1"/>
+                              <p rend="align(right)">
+                                        <placeName>New York</placeName>
+                              </p>
+                              <p rend="align(right)">
+                                        <date>April 23, 54</date>
+                              </p>
+                              <p>
+                                        <addressee>Rabbi Leeser</addressee>
+                              </p>
+                              <p rend="indent(1)">Dear Sir</p>
+                              <p rend="indent(1)">I forward the<lb/>
+                                        <sic>inclosed</sic> which I have<lb/> just
+                                                  <sic>recieved</sic> in a letter<lb/> from my
+                                        brother.<lb/> The prospects in
+                                                  <placeName>Pal-<lb/>estine</placeName>—politically
+                                        &amp; socially<lb/> are entirely favourable<lb/> to
+                                        agricultural <sic>persuits</sic>.</p>
+                              <p rend="indent(1)">Oh can you not<lb/> influence those who<lb/> have
+                                        the control of the<lb/> funds which are in<lb/>tended for
+                                                  <placeName>Palestine</placeName> to<lb/> direct
+                                        that a portion<lb/> of them be expended<lb/> in employing
+                                        the</p>
+                              <pb n="2"/>
+                              <p>poor in learning agriculture,<lb/> as you propose in the
+                                                  <date>Feb.</date><lb/> no of the “Occident.”</p>
+                              <p>There can be no objection.<lb/> Your English brethren<lb/>
+                                        approve—certainly our<lb/> practical &amp; economical<lb/>
+                                        Americans will also.<lb/> They must disearn<add>?</add>
+                                        the<lb/> great advantage of<lb/> aiding their brethren<lb/>
+                                        to earn their own sub-<lb/>sistence in preference<lb/> to
+                                        supporting them for<lb/>ever in idleness.</p>
+                              <p>This place of appropri<lb/>ating your charities in<lb/> the
+                                                  <placeName>Holy Land</placeName>, will
+                                        cer<lb/>tainly become popular<lb/> in the minds of all<lb/>
+                                        your reflecting brethren.</p>
+                              <pb n="3"/>
+                              <p>but as with any other<lb/> reform measure or new arrang<lb/>ment it
+                                        will doubtless be<lb/> necessary to constantly<lb/>
+                                        recommend and insist upon<lb/> its adoption.</p>
+                              <p>Dear Sir—allow me to<lb/> express the hope that in<lb/> view of the
+                                        certainty of an<lb/> ultimate success, &amp; of the<lb/>
+                                        superior good to be attained,<lb/> you will persevere
+                                        with<lb/> all possible energy &amp; dili<lb/>gence until the
+                                        effort you<lb/> have so properly commenced<lb/> is fully
+                                                  <sic>consumated</sic>.<lb/> Until those of your
+                                        brethren<lb/> who leave the power,<lb/> decide fully to have
+                                        their<lb/> funds expanded in learning<lb/> the destitute in
+                                                  <placeName>Palestine</placeName></p>
+                              <pb n="4"/>
+                              <p>how to maintain <hi rend="underline">themselves</hi><lb/> and thus
+                                        become permanently<lb/> relieved from their poverty—<lb/>
+                                        Our colony would not desire<lb/> to assume any
+                                        responsibility<lb/> in relation to the direction<lb/> or
+                                        control in the least<lb/> degree of your funds, which<lb/>
+                                        should be continued at the dis<lb/>posal of the
+                                                  R<add>?</add>.</p>
+                              <p>Our Farmers &amp; Mechanics<lb/> will afford the requisite
+                                        in<lb/>struction &amp; gratis, until<lb/> the men are
+                                        sufficiently<lb/> advanced to support them<lb/>selves. Your
+                                        Rabbis will<lb/> however disburse to them<lb/> their usual
+                                        allowance in the<lb/> form of wages, to enable them<lb/> as
+                                        at present to support<lb/> their families while they</p>
+                              <div>
+                                        <p>
+                                                  <ref target="Occident_PDFs/Occ_12_4.pdf">The above
+                                                  text refers to Occident Volume 12 No. 4 pages 200
+                                                  through 206. Click here to view.</ref>
+                                        </p>
+                                        <p>
+                                                  <ref target="Occident_PDFs/Occ_11_11.pdf">The
+                                                  above text refers to Occident Volume 11 No. 11
+                                                  pages 541 through 552. Click here to view.</ref>
+                                        </p>
+                              </div>
+                    </body>
+          </text>
 </TEI>

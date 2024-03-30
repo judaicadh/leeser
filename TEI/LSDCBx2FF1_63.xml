@@ -1,270 +1,320 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE TEI [
-<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
-%teibase;
-<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
-%teiext;
-]>
-<TEI>
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="yes">Levin, L. T.</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>CAJS Isaac Leeser Collection</repository>
-						<collection>The Library of the Dropsie College for Hebrew and Cognate Learning</collection>
-						<idno>LSDCBx2FF1_63</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="yes">Levin, L. T.</author>
-						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac, Rev.</addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>Columbia, SC</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1854-06" source="" attested="yes">28 June 1854</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="ilcajs_b2f1_0063_1r.jpg"></graphic>
-								<graphic url="ilcajs_b2f1_0063_1v.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="true" paper_type="" size="Letter">print</material>
-								</support>
-								<extent>2 pages on 1 sheet
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="manuscript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions>Newspaper Clipping included</additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="free">
-								<p>Unrestricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1"/>
-				<p rend="align(right)"><placeName>Columbia</placeName> <date>June 28<hi rend="sup">th</hi> 1854</date></p>
-				<p>Dear Sir</p>
-			<p rend="indent(1)">I have taken the liberty<lb/> of enclosing you the following slip&#44; cut<lb/> from one of our Daily Journals of this<lb/> State&#44; after perusing it&#44; you will understand<lb/> my motive in addressing you.</p>
-				<p rend="The following is the attached typewritten newspaper clipping"></p>
-				<p rend="align(center)">A card.</p>
-			<p rend="indent(1)">MESSRS. EDITORS&#58; I am informed that some<lb/> persons have spread the rumor that I am of<lb/> Israelitic origin.  Why they do so&#44; or what has<lb/> led to the rumor&#44; I do not know&#44; nor is it of any<lb/> consequence.  Perhaps it may even be thought<lb/> unimportant whether the story be believed or not&#44;<lb/> but truth is any day worth as much as error&#44; and<lb/> as we live here in a small and close community&#44; I<lb/> may as well state that there is not a shadow of truth in it.</p>
-			<p rend="indent(1)">I have known as honorable men&#44; and when I<lb/> was a soldier&#44; as brave men&#44; among the Jews as<lb/> among any other people&#59; but I have not the honor<lb/> of belonging to the <sic>Shemitic</sic> tribe&#44; for whom<lb/> <persName>Mr. D&#39;Israeli</persName> claims the highest rank among the<lb/> peoples of the earth.  I can only claim unadulte&#45;<lb/>rated Teutonic blood.  Neither I&#44; nor any of my<lb/> forefathers&#44; had ever any admixture of Hebrew<lb/> blood in his veins.  I am simply and plainly a<lb/> German by birth.  That is all&#59; and since it is a<lb/> fact&#44; I do not see that rumor has the right of cir&#45;<lb/>cumcising me without my consent.</p>
-			<p rend="indent(1)">There is a passage in my &#8220;Journal in Greece&#44;&#8221;<lb/> which&#44; at <persName>Niebuhr&#39;s</persName> advice&#44; I gave in Latin&#44; be&#45;<lb/>cause &#8220;a foreign language does not blush.&#8221;  Those<lb/> who have perused it will remember it as a very<lb/> curious incidental proof that I descend from the<lb/> Gentiles.</p>
-			<p rend="indent(1)">Not long ago I saw it stated that <persName>Niebuhr</persName> had<lb/> been of Jewish extraction.  This is no more the<lb/> truth.  If by chance this article should be seen<lb/> in <placeName>Germany</placeName>&#44; it would create a hearty laugh.</p>
-			<p rend="indent(1)">If I leave no imprint on &#8220;the shore of time&#44;&#8221; it<lb/> is utterly indifferent to talk of me or my extrac&#45;<lb/>tion&#59; if I succeed in doing that which others see<lb/> fit to claim as not unworthy of note&#44; then let it<lb/> simply be vindicated in the right quarter.  I am<lb/> a German emigrant&#44; and not ashamed of it&#59; I am<lb/> an American citizen&#44; &#40;and one that is <emph rend="italics">of age</emph>&#44; for I<lb/> have been a citizen more than twenty&#45;one years&#44;&#41;<lb/> and am proud of it&#44; and have always shown that<lb/> am so.&#160;&#160;&#160;&#160;Your obedient&#44;</p>
-			<p rend="indent(7)"><persName>FRANCIS LIEBER</persName>.</p>
-				<p><date>6&#45;28&#45;1854</date></p>
-				<p rend="End clipping"></p>
-			<p rend="indent(11)">Turn over</p>
-			<pb n="2"/>
-				<p>A friend mentioned to me that he was<lb/> inclined to think that you were acquainted<lb/> with <persName>Dr <sic>Liebersi</sic></persName> origin&#44; and that possibly<lb/> you might throw some light upon the<lb/> subject&#44; the fact of his being&#44; or not<lb/> being a Jew would not render it a<lb/> criminal <sic>offence</sic>&#44; he is a Professor in<lb/> the South Carolina College&#44; and I have<lb/> understood changed his religion&#44; as also<lb/> the spelling of his name.</p>
-			<p rend="indent(11)">If you can<lb/> give any information on the subject&#44; it<lb/> shall be considered <hi rend="underline">strictly confidential</hi><lb/> unless otherwise authorized by you&#44; and<lb/> you will confer a lasting obligation<lb/> upon all Israelites of this place.</p>
-			<p rend="indent(11)">Be pleased<lb/> to give me an early answer&#44; and by so<lb/> doing oblige</p>
-			<p rend="indent(7)">Your sincere friend</p>
-			<p rend="indent(8)"><persName role="author">L. T. Levin</persName></p>
-				<p><addressee>Rev Isaac Leeser</addressee></p>
-			<p rend="indent(1)"><placeName>Philadelphia</placeName></p>
-			<p rend="indent(2)"><placeName>Pa</placeName></p>
-			<p rend="indent(3)"><date>6&#45;28&#45;1854</date></p>
-		</body>
-	</text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="yes">Levin, L. T.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS Isaac Leeser Collection</repository>
+                        <collection>The Library of the Dropsie College for Hebrew and Cognate
+                            Learning</collection>
+                        <idno>LSDCBx2FF1_63</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="yes">Levin, L. T.</author>
+                        <addressee accepted="yes" attested="yes" editor="false">Leeser, Isaac,
+                            Rev.</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Columbia, SC</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1854-06">28 June 1854</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="ilcajs_b2f1_0063_1r.jpg"/>
+                                <graphic url="ilcajs_b2f1_0063_1v.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="true" paper_type="" size="Letter"
+                                        >print</material>
+                                </support>
+                                <extent>2 pages on 1 sheet <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions>Newspaper Clipping included</additions>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <p rend="align(right)">
+                <placeName>Columbia</placeName>
+                <date>June 28<hi rend="sup">th</hi> 1854</date>
+            </p>
+            <p>Dear Sir</p>
+            <p rend="indent(1)">I have taken the liberty<lb/> of enclosing you the following slip,
+                cut<lb/> from one of our Daily Journals of this<lb/> State, after perusing it, you
+                will understand<lb/> my motive in addressing you.</p>
+            <p rend="The following is the attached typewritten newspaper clipping"/>
+            <p rend="align(center)">A card.</p>
+            <p rend="indent(1)">MESSRS. EDITORS: I am informed that some<lb/> persons have spread
+                the rumor that I am of<lb/> Israelitic origin. Why they do so, or what has<lb/> led
+                to the rumor, I do not know, nor is it of any<lb/> consequence. Perhaps it may even
+                be thought<lb/> unimportant whether the story be believed or not,<lb/> but truth is
+                any day worth as much as error, and<lb/> as we live here in a small and close
+                community, I<lb/> may as well state that there is not a shadow of truth in it.</p>
+            <p rend="indent(1)">I have known as honorable men, and when I<lb/> was a soldier, as
+                brave men, among the Jews as<lb/> among any other people; but I have not the
+                honor<lb/> of belonging to the <sic>Shemitic</sic> tribe, for whom<lb/>
+                <persName>Mr. D'Israeli</persName> claims the highest rank among the<lb/> peoples of
+                the earth. I can only claim unadulte-<lb/>rated Teutonic blood. Neither I, nor any
+                of my<lb/> forefathers, had ever any admixture of Hebrew<lb/> blood in his veins. I
+                am simply and plainly a<lb/> German by birth. That is all; and since it is a<lb/>
+                fact, I do not see that rumor has the right of cir-<lb/>cumcising me without my
+                consent.</p>
+            <p rend="indent(1)">There is a passage in my “Journal in Greece,”<lb/> which, at
+                    <persName>Niebuhr's</persName> advice, I gave in Latin, be-<lb/>cause “a foreign
+                language does not blush.” Those<lb/> who have perused it will remember it as a
+                very<lb/> curious incidental proof that I descend from the<lb/> Gentiles.</p>
+            <p rend="indent(1)">Not long ago I saw it stated that <persName>Niebuhr</persName>
+                had<lb/> been of Jewish extraction. This is no more the<lb/> truth. If by chance
+                this article should be seen<lb/> in <placeName>Germany</placeName>, it would create
+                a hearty laugh.</p>
+            <p rend="indent(1)">If I leave no imprint on “the shore of time,” it<lb/> is utterly
+                indifferent to talk of me or my extrac-<lb/>tion; if I succeed in doing that which
+                others see<lb/> fit to claim as not unworthy of note, then let it<lb/> simply be
+                vindicated in the right quarter. I am<lb/> a German emigrant, and not ashamed of it;
+                I am<lb/> an American citizen, (and one that is <emph rend="italics">of age</emph>,
+                for I<lb/> have been a citizen more than twenty-one years,)<lb/> and am proud of it,
+                and have always shown that<lb/> am so.    Your obedient,</p>
+            <p rend="indent(7)"><persName>FRANCIS LIEBER</persName>.</p>
+            <p>
+                <date>6-28-1854</date>
+            </p>
+            <p rend="End clipping"/>
+            <p rend="indent(11)">Turn over</p>
+            <pb n="2"/>
+            <p>A friend mentioned to me that he was<lb/> inclined to think that you were
+                acquainted<lb/> with <persName>Dr <sic>Liebersi</sic></persName> origin, and that
+                possibly<lb/> you might throw some light upon the<lb/> subject, the fact of his
+                being, or not<lb/> being a Jew would not render it a<lb/> criminal
+                    <sic>offence</sic>, he is a Professor in<lb/> the South Carolina College, and I
+                have<lb/> understood changed his religion, as also<lb/> the spelling of his
+                name.</p>
+            <p rend="indent(11)">If you can<lb/> give any information on the subject, it<lb/> shall
+                be considered <hi rend="underline">strictly confidential</hi><lb/> unless otherwise
+                authorized by you, and<lb/> you will confer a lasting obligation<lb/> upon all
+                Israelites of this place.</p>
+            <p rend="indent(11)">Be pleased<lb/> to give me an early answer, and by so<lb/> doing
+                oblige</p>
+            <p rend="indent(7)">Your sincere friend</p>
+            <p rend="indent(8)">
+                <persName role="author">L. T. Levin</persName>
+            </p>
+            <p>
+                <addressee>Rev Isaac Leeser</addressee>
+            </p>
+            <p rend="indent(1)">
+                <placeName>Philadelphia</placeName>
+            </p>
+            <p rend="indent(2)">
+                <placeName>Pa</placeName>
+            </p>
+            <p rend="indent(3)">
+                <date>6-28-1854</date>
+            </p>
+        </body>
+    </text>
 </TEI>

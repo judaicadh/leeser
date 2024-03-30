@@ -1,282 +1,444 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="yes">Levin, N.</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>CAJS Isaac Leeser Collection</repository>
-						<collection>The Library of the Dropsie College for Hebrew and Cognate Learning</collection>
-						<idno>LSDCBx9FF14_1</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="yes">Levin, N.</author>
-						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac</addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>Charleston, SC</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1842-06" source="" attested="yes">12 June 1842</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="ilcajs_b9f14_0001_1r.jpg"/>
-								<graphic url="ilcajs_b9f14_0001_1v.jpg"/>
-								<graphic url="ilcajs_b9f14_0001_2r.jpg"/>
-								<graphic url="ilcajs_b9f14_0001_2v.jpg"/>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="unk" paper_type="" size="Legal">letter</material>
-								</support>
-								<extent>4 pages on 2 sheets
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="manuscript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p>Wax seal</p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="free">
-								<p>Unrestricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1"/>
-				<p rend="align(right)"><placeName>Charleston</placeName> <date>12th June 1842</date></p>
-				<p><addressee>Revd. Isaac Leeser</addressee></p>
-			<p rend="indent(1)">Dear Sir</p>
-			<p rend="indent(2)">Your esteemed favor of the <date>6th</date> inst came<lb/> duly to hand and I am much grieved to learn that you had been<lb/> seriously indisposed I trust that you are again restored to health<lb/> and sincerely hope that our Heavenly Father will bless your future<lb/> days with uninterrupted health and happiness.  You <hi rend="underline">are</hi> correct in<lb/> your estimate of the organ innovation&#44; and the motives which<lb/> inspired the invocation of the muses&#59; but I think you are wrong<lb/> in the sentiment that &#8220;the gentiles must be anxious for us to yield<lb/> as idle our expectation of a messiah &#38;c&#8222;.  If the doctrine were to be promul<lb/>gated that the Jewish prophecies did not justify the <sic>beleif</sic> in the advent<lb/> of a Personage would it not be a direct attack upon their fundamental<lb/> <sic>beleif</sic>&#63;  For they take the prophecies &#38; find them fulfilled in the persons<lb/> of their Messiah notwithstanding the palpable contradictions that instead<lb/> of the &#8220;Prince of peace&#8222; He has been the demon of strife war &#38; bloodshed<lb/> with all their train of sorrows and crime.&#61;If this idea prevailed<lb/> I think it would be a direct blow at the very foundation of<lb/> their Religion.  Do you concern with me now&#63;  The <hi rend="underline">new</hi> creed I herewith<lb/> transcribe for your edification&#44; it was concocted by <persName>Mr Poznanski</persName> &#38; <persName>Mr<lb/> Joshua Lazarus</persName> before the dedication of the synagogue &#38; placed upon<lb/> a Tablet in gilt letter on the right of the <hi rend="underline">achol</hi> on the left is placed<lb/> the 10 Commandments.  Before this excitement I presume no one read them<lb/> at least very few.  I myself never did read them while then feeling<lb/> confident that <persName>Mr P.</persName> had given us the Creed handed down to us by<lb/> <persName>Maimonides</persName>.  Inform me <hi rend="underline">if you can</hi>&#44; where he got his authority for<lb/> this version&#44; &#38; if it would be recognized by Jews&#63;  Here it is&#8212;</p>
-				<p>I We believe in the existence of a Supreme Being who created governs &#38; sustains the Universe.</p>
-				<p>II We believe that this Being is the only true &#38; living God&#44; the only Divine Being&#44; only<lb/> one in Unity&#44; and without plurality in any sense whatever.</p>
-				<p>III We believe that God is incorporeal &#38; incomprehensible that he has never put on the figure<lb/> or body of any thing in Creation &#38; that there is nothing like him in the Universe.&#8212;</p>
-				<p>IV We believe that God is without beginning &#38; without end &#38; that He is the only Eternal Being</p>
-				<p>V We believe that God reigns alone over the Universe&#59; that there exists no mediator between<lb/> man &#38; his maker &#38; that it is proper to pray to Him only&#44; &#38; not through the merits of any<lb/> other being</p>
-				<p>VI We believe that the Prophets were the only persons inspired by God&#44; &#38; that all their words are true</p>
-				<p>VII We believe that <del>the</del> <persName>Moses</persName> was the greatest of the Prophets &#38; that none has appeared like unto him</p>
-				<p>VIII We believe that the divine Law in our <sic>posession</sic> is that which was delivered to our<lb/> Fathers by <persName>Moses</persName>&#44; &#38; that all divine communication ceased with <persName>Malachi</persName> the last of<lb/> the Prophets</p>
-				<p>IX We believe that the divine Law delivered by <persName>Moses</persName>&#44; will never be changed&#44; nor altered</p>
-				<p>X We believe that God knows all our thoughts and actions.&#8212;</p>
-				<p>XI We believe that God rewards all who observes his commands &#38; punishes those who transgress them</p>
-				<p>XII We believe that the Messiah announced by the Prophets is <hi rend="underline">not</hi> come&#8212;<lb/> the Prophecies in relation to his coming <hi rend="underline">not being fulfilled</hi></p>
-				<p>XIII We believe that the soul is <hi rend="underline">Immortal</hi>&#44; and that we shall be<lb/> accountable for our actions in the life to come.&#8212;</p>
-			<p rend="indent(1)">This creed was also printed some time since &#38; used in the school for the instruction<lb/> of Jewish youth &#38; strange to say it passed the critical ordeal of all of us.  There<lb/> is much subtle wording in it &#38; several passages are blows dealt at the gentiles<lb/> and have no existence in the Text.  Let me have your views upon it.  How can<lb/> you advise the continuance of <persName>Mr Poznanski</persName> as Hazan when he laughs at the idea<lb/> of observing the second day of our Holidays.  We know his sentiments and can we<lb/> <sic>beleive</sic> in the <sic>effiacy</sic> or truth of prayer from the lips of him who does not<lb/> <sic>beleive</sic> in the occasion which calls us together to offer up that prayer.  You<lb/> might with the same propriety assert that there would be efficacy in the<lb/> prayers of an atheist.  You cannot have read our reply carefully&#59; read over<lb/> his second letter to the Trustees &#38; you will there find that he will preach<lb/> errors &#38; abuses until the people tell him through the Board of Trustees<lb/> to preach truths.  You must know that in addition to these circumstances <persName>Mr<lb/> Poznanski</persName> in conversation with several Christian Ministers of our<lb/> city asserted&#44; &#8220;That the Messiah had not come&#44; nor</p>
-			<pb n="2"/>
-				<p>did the Prophecies justify the belief that he was to come as a Personage&#44;<lb/> it was figurative&#44; an ideality&#44; &#38; meant a happy &#38; peaceful <del>stake</del> state<lb/> of things&#44; enlightenment peace &#38;c this was our messiah&#8222; alluding to<lb/> <placeName>Carolina</placeName> or the <placeName>U. states</placeName>.  In his dedicatory sermons he spoke<lb/> of the &#8220;<placeName>U. S.</placeName> as our <placeName>Palestine</placeName>&#59; <placeName>Charleston</placeName> our <placeName>Jerusalem</placeName> &#38; this &#40;alluding to the<lb/> synagogue&#41; our Temple.  I was induced by the solicitation of one of his<lb/> friends to ask him if this were true.  This <sic>occured</sic> a few days since<lb/> His reply was&#44; That the most amicable form of telling the question was<lb/> to submit it to the courts of the country although he regretted it much &#38;<lb/> declined to answer the question&#44; until he testified on the witness stand.<lb/>  This is what Lawyers would call a <hi rend="underline">negative pregnants</hi> or a denial<lb/> confirming the fact.  Why not deny it at once if untrue&#63; and I should<lb/> have been happy to have contradicted it&#8212;Take these facts in connection<lb/> with the <hi rend="underline">new creed</hi> &#38; let me have your opinion.  He told me moreover<lb/> that when the case came on for trial he would prove things countenanced<lb/> and enjoined upon us by the Rabbins which would tend to injure us in<lb/> the eyes of the christian community.  Not being versed in Talmudical lore<lb/> I am at a loss to know what grave charges he can bring before a<lb/> christian Tribunal to injure us.  The cause he espouses must be very<lb/> bad if it requires such disclosures to uphold it&#44; &#38; like <persName>Samson</persName> he<lb/> will have to be commingled in the ruin he would hurl upon us.<lb/>  He said he would also prove that the keeping of the second days of<lb/> the Holidays was not even <hi rend="underline">enjoined</hi> by the Rabbins and therefore an<lb/> abuse&#44; that we had now obtained the precise time &#38; it was folly to<lb/> keep more than one day.  Have the Rabbins advocated doctrines<lb/> subsequent to our ideas of charity &#38; good will&#63;  Rumor says that<lb/> he intends to prove that if a Gentile falls into the water &#38; a jew could<lb/> save him the Rabbis say let him drown&#8222;&#8212;&#38; may such barbarous<lb/> doctrines at which humanity shudders</p>
-			<p rend="indent(1)">I think it becomes your impervious duty to notice in<lb/> the Occident as early as possible the Rationale&#44; bearing and tenor of the<lb/> Pamphlet sent to you&#44; in a <hi rend="underline">direct manner</hi>&#44; come out boldly &#38;<lb/> manfully&#44; give us <hi rend="underline">orthodox views</hi> instead of the <hi rend="underline">neologistic</hi> reasoning<lb/> of <persName>Mr Poznanski</persName> &#38; his party&#44; but let them be tempered with charity<lb/> and brotherly love.  Your friends here expect this from you<lb/> and Judaism <hi rend="underline">demands</hi> this of you.  You cannot waver or falter<lb/> now&#44; you who have for 12 years been battling for what we<lb/> are now honestly &#38; zealously contending for&#44; must not<lb/> let us wage the war unassisted by your talents and experience.<lb/>  Our Jewish <sic>Bretheren</sic> throughout the world should know the<lb/> cause of the breach in our congregation through the medium of your<lb/> Periodical&#44; from the pen of one who is conversant with the<lb/> facts &#38; who has labored &#38; struggled to advance and establish<lb/> the moral &#38; Religious welfare of his people.  Nothing will afford<lb/> more pleasure to <sic>may</sic> of your <sic>Bretheren</sic> here &#38; elsewhere &#38; I<lb/> am confident you will p<add>&#63;</add> this crime.  In relation to<lb/> a conciliation&#8212;it is out of the question&#44; and as for inducing those<lb/> you named in your letter to join our ranks &#40;in public or private&#41;<lb/> it is worse than folly to think of it&#8212;each one &#40;excepting <persName>Hyam Cohen</persName>&#41;<lb/> is an ultra Reformer &#38; will support <persName>Mr Poznanski</persName> in all his<lb/> views.  <persName>Hayam Cohen</persName> is his staunch supporter <del>of him</del>.  The courts of<lb/> the Country will reconcile every thing I hope satisfactorily.</p>
-			<pb n="3"/>
-				<p>You have not answered that portion of my letter relating to<lb/> your coming on here if your presence is necessary which<lb/> I am confident will be the case.  I know that every<lb/> advantage will be taken from the circumstance of our not<lb/> having any Hebrew scholars here who can disprove any authority<lb/> he <persName>Mr P.</persName> may adduce.  The party have already <sic>comenced</sic> collating<lb/> facts&#44; authorities&#44; &#38;c for the trial which will positively take place<lb/> in <date>October</date> I have no doubt the Congregation of <placeName>Philadelphia</placeName><lb/> would grant you leave of absence for 8 or 10 days&#44; especially when<lb/> they reflect that an interest is involved effecting them as well<lb/> as us&#44; for we are endeavouring to uphold the faith of <placeName>Israel</placeName><lb/> transmitted to us by our Fathers &#38; preserved intact for<lb/> upwards of 5000 years.</p>
-			<p rend="indent(1)">I thank you for your flattering <add>&#63;</add>&#8212;upon<lb/> my humble effort&#44; and value it highly as I feel assured you<lb/> are not the person to say what you do not believe&#44; I shall<lb/> endeavour to contribute to the Occident but I am not at<lb/> all acquainted with Religious subjects and am endeavoring<lb/> by every possible means to make myself familiar with<lb/> them.  I have commenced studying our holy language<lb/> grammatically and as I before informed you am a<lb/> strict conformist&#44; <hi rend="underline">without losing the spirit of the Religion</hi><lb/> and in every sense of the term I am a better man.</p>
-			<p rend="indent(1)">Allow me to thank you for the promptness with which<lb/> you replied to my favors &#38; to desire from you an interchange<lb/> of sentiment which must both instruct and edify me&#44;<lb/> and commending you to the brightest blessings of health Happiness<lb/> &#38; prosperity I remain</p>
-			<p rend="indent(9)">Your sincere Friend</p>
-			<p rend="indent(10)"><persName role="author">N. Levin</persName></p>
-				<p><persName>Mrs Levin</persName> &#38; Mr &#38; <persName>Mrs Moses</persName> desire their remembrances</p>
-			<p rend="indent(1)">to you.</p>
-				<p>Please present my respects to <persName>Mr Hockenboy</persName> &#38; <persName>Mr Hart</persName> &#38; family Inquire of<lb/> <persName>Mr H</persName> whether he procured the Nos of the voice of <add>&#63;</add> for me.<lb/>  When I have more <sic>liesure</sic> I will send on you a&#47;c&#8212;</p>
-				<p>P. S.</p>
-			<p rend="indent(1)">If you conclude to come on &#40;which of course you will &#38; I beg<lb/> you will keep this fact <hi rend="underline">entirely confidential</hi> I mean you coming on&#41;<lb/> your expenses will all be defrayed.</p>
-			<p rend="indent(1)">Let me hear from you as early as possible</p>
-			<p rend="indent(6)"><persName role="author"><hi rend="underline">N. L.</hi></persName></p>
-				<p>I have only recd <hi rend="underline">2</hi> nos of the Occident<lb/> please send the others by <hi rend="underline">mail</hi></p>
-			<pb n="4"/>
-				<p><addressee>Revd. Isaac Leeser</addressee></p>
-			<p rend="indent(2)"><placeName>Philadelphia</placeName></p>
-			<p rend="indent(3)"><placeName>Pa</placeName></p>
-				<p>1 dear</p>
-			<p rend="indent(2)">Uncle</p>
-		</body>
-	</text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="yes">Levin, N.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS Isaac Leeser Collection</repository>
+                        <collection>The Library of the Dropsie College for Hebrew and Cognate
+                            Learning</collection>
+                        <idno>LSDCBx9FF14_1</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="yes">Levin, N.</author>
+                        <addressee accepted="yes" attested="yes" editor="false">Leeser,
+                            Isaac</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Charleston, SC</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1842-06">12 June 1842</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="ilcajs_b9f14_0001_1r.jpg"/>
+                                <graphic url="ilcajs_b9f14_0001_1v.jpg"/>
+                                <graphic url="ilcajs_b9f14_0001_2r.jpg"/>
+                                <graphic url="ilcajs_b9f14_0001_2v.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="unk" paper_type="" size="Legal"
+                                        >letter</material>
+                                </support>
+                                <extent>4 pages on 2 sheets <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p>Wax seal</p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <p rend="align(right)">
+                <placeName>Charleston</placeName>
+                <date>12th June 1842</date>
+            </p>
+            <p>
+                <addressee>Revd. Isaac Leeser</addressee>
+            </p>
+            <p rend="indent(1)">Dear Sir</p>
+            <p rend="indent(2)">Your esteemed favor of the <date>6th</date> inst came<lb/> duly to
+                hand and I am much grieved to learn that you had been<lb/> seriously indisposed I
+                trust that you are again restored to health<lb/> and sincerely hope that our
+                Heavenly Father will bless your future<lb/> days with uninterrupted health and
+                happiness. You <hi rend="underline">are</hi> correct in<lb/> your estimate of the
+                organ innovation, and the motives which<lb/> inspired the invocation of the muses;
+                but I think you are wrong<lb/> in the sentiment that “the gentiles must be anxious
+                for us to yield<lb/> as idle our expectation of a messiah &amp;c„. If the doctrine
+                were to be promul<lb/>gated that the Jewish prophecies did not justify the
+                    <sic>beleif</sic> in the advent<lb/> of a Personage would it not be a direct
+                attack upon their fundamental<lb/>
+                <sic>beleif</sic>? For they take the prophecies &amp; find them fulfilled in the
+                persons<lb/> of their Messiah notwithstanding the palpable contradictions that
+                instead<lb/> of the “Prince of peace„ He has been the demon of strife war &amp;
+                bloodshed<lb/> with all their train of sorrows and crime.=If this idea
+                prevailed<lb/> I think it would be a direct blow at the very foundation of<lb/>
+                their Religion. Do you concern with me now? The <hi rend="underline">new</hi> creed
+                I herewith<lb/> transcribe for your edification, it was concocted by <persName>Mr
+                    Poznanski</persName> &amp; <persName>Mr<lb/> Joshua Lazarus</persName> before
+                the dedication of the synagogue &amp; placed upon<lb/> a Tablet in gilt letter on
+                the right of the <hi rend="underline">achol</hi> on the left is placed<lb/> the 10
+                Commandments. Before this excitement I presume no one read them<lb/> at least very
+                few. I myself never did read them while then feeling<lb/> confident that
+                    <persName>Mr P.</persName> had given us the Creed handed down to us by<lb/>
+                <persName>Maimonides</persName>. Inform me <hi rend="underline">if you can</hi>,
+                where he got his authority for<lb/> this version, &amp; if it would be recognized by
+                Jews? Here it is—</p>
+            <p>I We believe in the existence of a Supreme Being who created governs &amp; sustains
+                the Universe.</p>
+            <p>II We believe that this Being is the only true &amp; living God, the only Divine
+                Being, only<lb/> one in Unity, and without plurality in any sense whatever.</p>
+            <p>III We believe that God is incorporeal &amp; incomprehensible that he has never put
+                on the figure<lb/> or body of any thing in Creation &amp; that there is nothing like
+                him in the Universe.—</p>
+            <p>IV We believe that God is without beginning &amp; without end &amp; that He is the
+                only Eternal Being</p>
+            <p>V We believe that God reigns alone over the Universe; that there exists no mediator
+                between<lb/> man &amp; his maker &amp; that it is proper to pray to Him only, &amp;
+                not through the merits of any<lb/> other being</p>
+            <p>VI We believe that the Prophets were the only persons inspired by God, &amp; that all
+                their words are true</p>
+            <p>VII We believe that <del>the</del>
+                <persName>Moses</persName> was the greatest of the Prophets &amp; that none has
+                appeared like unto him</p>
+            <p>VIII We believe that the divine Law in our <sic>posession</sic> is that which was
+                delivered to our<lb/> Fathers by <persName>Moses</persName>, &amp; that all divine
+                communication ceased with <persName>Malachi</persName> the last of<lb/> the
+                Prophets</p>
+            <p>IX We believe that the divine Law delivered by <persName>Moses</persName>, will never
+                be changed, nor altered</p>
+            <p>X We believe that God knows all our thoughts and actions.—</p>
+            <p>XI We believe that God rewards all who observes his commands &amp; punishes those who
+                transgress them</p>
+            <p>XII We believe that the Messiah announced by the Prophets is <hi rend="underline"
+                    >not</hi> come—<lb/> the Prophecies in relation to his coming <hi
+                    rend="underline">not being fulfilled</hi></p>
+            <p>XIII We believe that the soul is <hi rend="underline">Immortal</hi>, and that we
+                shall be<lb/> accountable for our actions in the life to come.—</p>
+            <p rend="indent(1)">This creed was also printed some time since &amp; used in the school
+                for the instruction<lb/> of Jewish youth &amp; strange to say it passed the critical
+                ordeal of all of us. There<lb/> is much subtle wording in it &amp; several passages
+                are blows dealt at the gentiles<lb/> and have no existence in the Text. Let me have
+                your views upon it. How can<lb/> you advise the continuance of <persName>Mr
+                    Poznanski</persName> as Hazan when he laughs at the idea<lb/> of observing the
+                second day of our Holidays. We know his sentiments and can we<lb/>
+                <sic>beleive</sic> in the <sic>effiacy</sic> or truth of prayer from the lips of him
+                who does not<lb/>
+                <sic>beleive</sic> in the occasion which calls us together to offer up that prayer.
+                You<lb/> might with the same propriety assert that there would be efficacy in
+                the<lb/> prayers of an atheist. You cannot have read our reply carefully; read
+                over<lb/> his second letter to the Trustees &amp; you will there find that he will
+                preach<lb/> errors &amp; abuses until the people tell him through the Board of
+                Trustees<lb/> to preach truths. You must know that in addition to these
+                circumstances <persName>Mr<lb/> Poznanski</persName> in conversation with several
+                Christian Ministers of our<lb/> city asserted, “That the Messiah had not come,
+                nor</p>
+            <pb n="2"/>
+            <p>did the Prophecies justify the belief that he was to come as a Personage,<lb/> it was
+                figurative, an ideality, &amp; meant a happy &amp; peaceful <del>stake</del>
+                state<lb/> of things, enlightenment peace &amp;c this was our messiah„ alluding to<lb/>
+                <placeName>Carolina</placeName> or the <placeName>U. states</placeName>. In his
+                dedicatory sermons he spoke<lb/> of the “<placeName>U. S.</placeName> as our
+                    <placeName>Palestine</placeName>; <placeName>Charleston</placeName> our
+                    <placeName>Jerusalem</placeName> &amp; this (alluding to the<lb/> synagogue) our
+                Temple. I was induced by the solicitation of one of his<lb/> friends to ask him if
+                this were true. This <sic>occured</sic> a few days since<lb/> His reply was, That
+                the most amicable form of telling the question was<lb/> to submit it to the courts
+                of the country although he regretted it much &amp;<lb/> declined to answer the
+                question, until he testified on the witness stand.<lb/> This is what Lawyers would
+                call a <hi rend="underline">negative pregnants</hi> or a denial<lb/> confirming the
+                fact. Why not deny it at once if untrue? and I should<lb/> have been happy to have
+                contradicted it—Take these facts in connection<lb/> with the <hi rend="underline"
+                    >new creed</hi> &amp; let me have your opinion. He told me moreover<lb/> that
+                when the case came on for trial he would prove things countenanced<lb/> and enjoined
+                upon us by the Rabbins which would tend to injure us in<lb/> the eyes of the
+                christian community. Not being versed in Talmudical lore<lb/> I am at a loss to know
+                what grave charges he can bring before a<lb/> christian Tribunal to injure us. The
+                cause he espouses must be very<lb/> bad if it requires such disclosures to uphold
+                it, &amp; like <persName>Samson</persName> he<lb/> will have to be commingled in the
+                ruin he would hurl upon us.<lb/> He said he would also prove that the keeping of the
+                second days of<lb/> the Holidays was not even <hi rend="underline">enjoined</hi> by
+                the Rabbins and therefore an<lb/> abuse, that we had now obtained the precise time
+                &amp; it was folly to<lb/> keep more than one day. Have the Rabbins advocated
+                doctrines<lb/> subsequent to our ideas of charity &amp; good will? Rumor says
+                that<lb/> he intends to prove that if a Gentile falls into the water &amp; a jew
+                could<lb/> save him the Rabbis say let him drown„—&amp; may such barbarous<lb/>
+                doctrines at which humanity shudders</p>
+            <p rend="indent(1)">I think it becomes your impervious duty to notice in<lb/> the
+                Occident as early as possible the Rationale, bearing and tenor of the<lb/> Pamphlet
+                sent to you, in a <hi rend="underline">direct manner</hi>, come out boldly
+                &amp;<lb/> manfully, give us <hi rend="underline">orthodox views</hi> instead of the
+                    <hi rend="underline">neologistic</hi> reasoning<lb/> of <persName>Mr
+                    Poznanski</persName> &amp; his party, but let them be tempered with charity<lb/>
+                and brotherly love. Your friends here expect this from you<lb/> and Judaism <hi
+                    rend="underline">demands</hi> this of you. You cannot waver or falter<lb/> now,
+                you who have for 12 years been battling for what we<lb/> are now honestly &amp;
+                zealously contending for, must not<lb/> let us wage the war unassisted by your
+                talents and experience.<lb/> Our Jewish <sic>Bretheren</sic> throughout the world
+                should know the<lb/> cause of the breach in our congregation through the medium of
+                your<lb/> Periodical, from the pen of one who is conversant with the<lb/> facts
+                &amp; who has labored &amp; struggled to advance and establish<lb/> the moral &amp;
+                Religious welfare of his people. Nothing will afford<lb/> more pleasure to
+                    <sic>may</sic> of your <sic>Bretheren</sic> here &amp; elsewhere &amp; I<lb/> am
+                confident you will p<add>?</add> this crime. In relation to<lb/> a conciliation—it
+                is out of the question, and as for inducing those<lb/> you named in your letter to
+                join our ranks (in public or private)<lb/> it is worse than folly to think of
+                it—each one (excepting <persName>Hyam Cohen</persName>)<lb/> is an ultra Reformer
+                &amp; will support <persName>Mr Poznanski</persName> in all his<lb/> views.
+                    <persName>Hayam Cohen</persName> is his staunch supporter <del>of him</del>. The
+                courts of<lb/> the Country will reconcile every thing I hope satisfactorily.</p>
+            <pb n="3"/>
+            <p>You have not answered that portion of my letter relating to<lb/> your coming on here
+                if your presence is necessary which<lb/> I am confident will be the case. I know
+                that every<lb/> advantage will be taken from the circumstance of our not<lb/> having
+                any Hebrew scholars here who can disprove any authority<lb/> he <persName>Mr
+                    P.</persName> may adduce. The party have already <sic>comenced</sic>
+                collating<lb/> facts, authorities, &amp;c for the trial which will positively take
+                place<lb/> in <date>October</date> I have no doubt the Congregation of
+                    <placeName>Philadelphia</placeName><lb/> would grant you leave of absence for 8
+                or 10 days, especially when<lb/> they reflect that an interest is involved effecting
+                them as well<lb/> as us, for we are endeavouring to uphold the faith of
+                    <placeName>Israel</placeName><lb/> transmitted to us by our Fathers &amp;
+                preserved intact for<lb/> upwards of 5000 years.</p>
+            <p rend="indent(1)">I thank you for your flattering <add>?</add>—upon<lb/> my humble
+                effort, and value it highly as I feel assured you<lb/> are not the person to say
+                what you do not believe, I shall<lb/> endeavour to contribute to the Occident but I
+                am not at<lb/> all acquainted with Religious subjects and am endeavoring<lb/> by
+                every possible means to make myself familiar with<lb/> them. I have commenced
+                studying our holy language<lb/> grammatically and as I before informed you am a<lb/>
+                strict conformist, <hi rend="underline">without losing the spirit of the
+                    Religion</hi><lb/> and in every sense of the term I am a better man.</p>
+            <p rend="indent(1)">Allow me to thank you for the promptness with which<lb/> you replied
+                to my favors &amp; to desire from you an interchange<lb/> of sentiment which must
+                both instruct and edify me,<lb/> and commending you to the brightest blessings of
+                health Happiness<lb/> &amp; prosperity I remain</p>
+            <p rend="indent(9)">Your sincere Friend</p>
+            <p rend="indent(10)">
+                <persName role="author">N. Levin</persName>
+            </p>
+            <p><persName>Mrs Levin</persName> &amp; Mr &amp; <persName>Mrs Moses</persName> desire
+                their remembrances</p>
+            <p rend="indent(1)">to you.</p>
+            <p>Please present my respects to <persName>Mr Hockenboy</persName> &amp; <persName>Mr
+                    Hart</persName> &amp; family Inquire of<lb/>
+                <persName>Mr H</persName> whether he procured the Nos of the voice of <add>?</add>
+                for me.<lb/> When I have more <sic>liesure</sic> I will send on you a/c—</p>
+            <p>P. S.</p>
+            <p rend="indent(1)">If you conclude to come on (which of course you will &amp; I
+                beg<lb/> you will keep this fact <hi rend="underline">entirely confidential</hi> I
+                mean you coming on)<lb/> your expenses will all be defrayed.</p>
+            <p rend="indent(1)">Let me hear from you as early as possible</p>
+            <p rend="indent(6)">
+                <persName role="author">
+                    <hi rend="underline">N. L.</hi>
+                </persName>
+            </p>
+            <p>I have only recd <hi rend="underline">2</hi> nos of the Occident<lb/> please send the
+                others by <hi rend="underline">mail</hi></p>
+            <pb n="4"/>
+            <p>
+                <addressee>Revd. Isaac Leeser</addressee>
+            </p>
+            <p rend="indent(2)">
+                <placeName>Philadelphia</placeName>
+            </p>
+            <p rend="indent(3)">
+                <placeName>Pa</placeName>
+            </p>
+            <p>1 dear</p>
+            <p rend="indent(2)">Uncle</p>
+        </body>
+    </text>
 </TEI>

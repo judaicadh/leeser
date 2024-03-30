@@ -1,260 +1,295 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="yes">Guinzburg, A.</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>TCAT</repository>
-						<collection>Anonymous</collection>
-						<idno>LSTCAT_item112</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="yes">Guinzburg, A.</author>
-						<addressee editor="false" attested="yes" accepted="yes">Hackenberg, William B.</addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>Rochester, NY</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1868-05" source="" attested="yes">18 May 1868</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="il_tcat_item112_wk1_body0001.jpg"></graphic>
-								<graphic url="il_tcat_item112_wk1_body0002.jpg"></graphic>
-								<graphic url="il_tcat_item112_wk1_body0003.jpg"></graphic>
-								<graphic url="il_tcat_item112_wk1_body0004.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="true" paper_type="" size="">letter</material>
-								</support>
-								<extent>4 pages on 4 sheets
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="manuscript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="free">
-								<p>Unrestricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1"/>
-				<p rend="align(right)"><placeName>Rochester</placeName> <date>May 18<hi rend="sup">th</hi> 1868</date>.</p>
-				<p><addressee>Wm. B. Hackenberg. Esq</addressee></p>
-			<p rend="indent(1)"><placeName>Philadelphia</placeName></p>
-			<p rend="indent(2)">Dear Sir&#44;</p>
-			<p rend="indent(3)">I have received<lb/> last <date>Friday</date>&#44; your note dated <date>April 1<hi rend="sup">st</hi></date>&#44;<lb/> in which you inform me&#44; that&#44; I owe<lb/> for Subscription to the Occident&#44; twenty&#45;<lb/>two &#40;22&#41; dollars.</p>
-			<p rend="indent(1)">I consider in my duty&#44;<lb/> out of respect to you&#44; and the other<lb/> Executors of the late <persName>Rev Mr Leeser</persName>&#59;<lb/> to state to you&#44; that&#44; this charge is<lb/> entirely mistaken&#44; and I am highly<lb/> <sic>suprised</sic> at this demand.</p>
-			<p rend="indent(1)">About nineteen years<lb/> ago&#44; when I was Rabbi of <placeName>Baltimore</placeName>&#44;<lb/> <persName>Rev. Mr Leeser</persName> paid me a visit&#59; we</p>
-			<pb n="2"/>
-				<p>became acquainted and befriended&#59;<lb/> and he offered to send me <hi rend="underline">gratu</hi>&#45;<lb/><hi rend="underline">ously</hi>&#44; his periodical&#59; and requested<lb/> me to send him&#44; now and then&#44; some<lb/> article&#44; which I did.  During<lb/> this whole time&#44; I never was asked<lb/> for any pay&#44; and never did pay<lb/> anything&#59; for otherwise my limited<lb/> income&#44; would not have allowed<lb/> me&#44; to be a subscriber.</p>
-			<p rend="indent(1)">When I read the sad<lb/> news&#44; that my good&#44; old friend&#44; was<lb/> taken from this life&#44; and his periodical<lb/> shall be continued by <persName>Mr Sulzberger</persName>&#44;<lb/> I thought&#44; first to inform that<lb/> gentleman to discontinue the sending<lb/> of it&#59; as I have not the pleasure of<lb/> being acquainted with him&#44; and of</p>
-			<pb n="3"/>
-				<p>course&#44; cannot expect of him&#44; to send<lb/> me as his predecessor did <sic>gratuously</sic>&#59;<lb/> but after mature reflection&#44; I thought<lb/> this might be considered as an<lb/> <sic>offence</sic>&#44; against the successor&#59; but<lb/> under no consideration&#44; would my<lb/> pecuniary circumstances allow me&#44;<lb/> to pay for all the Jewish papers&#44;<lb/> which are sent to me.</p>
-			<p rend="indent(1)">I hope this explanation<lb/> will satisfy you and your colleagues.</p>
-			<p rend="indent(3)">Most Respectfully &#38;c.</p>
-			<p rend="indent(4)"><persName role="author">A. Guinzburg</persName></p>
-			<p rend="indent(4)">per <persName>Tillie Guinzburg</persName></p>
-				<p rend="The following is added in pencil in a different handwriting.">all right<lb/> <persName>MBH</persName></p>
-			<pb n="4"/>
-				<p><hi rend="underline"><persName role="author">Guinzberg</persName></hi> was a<lb/> dead head</p>
-		</body>
-	</text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="yes">Guinzburg, A.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>TCAT</repository>
+                        <collection>Anonymous</collection>
+                        <idno>LSTCAT_item112</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="yes">Guinzburg, A.</author>
+                        <addressee accepted="yes" attested="yes" editor="false">Hackenberg, William
+                            B.</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Rochester, NY</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1868-05">18 May 1868</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="il_tcat_item112_wk1_body0001.jpg"/>
+                                <graphic url="il_tcat_item112_wk1_body0002.jpg"/>
+                                <graphic url="il_tcat_item112_wk1_body0003.jpg"/>
+                                <graphic url="il_tcat_item112_wk1_body0004.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="true" paper_type="" size=""
+                                        >letter</material>
+                                </support>
+                                <extent>4 pages on 4 sheets <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <p rend="align(right)"><placeName>Rochester</placeName>
+                <date>May 18<hi rend="sup">th</hi> 1868</date>.</p>
+            <p>
+                <addressee>Wm. B. Hackenberg. Esq</addressee>
+            </p>
+            <p rend="indent(1)">
+                <placeName>Philadelphia</placeName>
+            </p>
+            <p rend="indent(2)">Dear Sir,</p>
+            <p rend="indent(3)">I have received<lb/> last <date>Friday</date>, your note dated
+                    <date>April 1<hi rend="sup">st</hi></date>,<lb/> in which you inform me, that, I
+                owe<lb/> for Subscription to the Occident, twenty-<lb/>two (22) dollars.</p>
+            <p rend="indent(1)">I consider in my duty,<lb/> out of respect to you, and the
+                other<lb/> Executors of the late <persName>Rev Mr Leeser</persName>;<lb/> to state
+                to you, that, this charge is<lb/> entirely mistaken, and I am highly<lb/>
+                <sic>suprised</sic> at this demand.</p>
+            <p rend="indent(1)">About nineteen years<lb/> ago, when I was Rabbi of
+                    <placeName>Baltimore</placeName>,<lb/>
+                <persName>Rev. Mr Leeser</persName> paid me a visit; we</p>
+            <pb n="2"/>
+            <p>became acquainted and befriended;<lb/> and he offered to send me <hi rend="underline"
+                    >gratu</hi>-<lb/><hi rend="underline">ously</hi>, his periodical; and
+                requested<lb/> me to send him, now and then, some<lb/> article, which I did.
+                During<lb/> this whole time, I never was asked<lb/> for any pay, and never did
+                pay<lb/> anything; for otherwise my limited<lb/> income, would not have allowed<lb/>
+                me, to be a subscriber.</p>
+            <p rend="indent(1)">When I read the sad<lb/> news, that my good, old friend, was<lb/>
+                taken from this life, and his periodical<lb/> shall be continued by <persName>Mr
+                    Sulzberger</persName>,<lb/> I thought, first to inform that<lb/> gentleman to
+                discontinue the sending<lb/> of it; as I have not the pleasure of<lb/> being
+                acquainted with him, and of</p>
+            <pb n="3"/>
+            <p>course, cannot expect of him, to send<lb/> me as his predecessor did
+                    <sic>gratuously</sic>;<lb/> but after mature reflection, I thought<lb/> this
+                might be considered as an<lb/>
+                <sic>offence</sic>, against the successor; but<lb/> under no consideration, would
+                my<lb/> pecuniary circumstances allow me,<lb/> to pay for all the Jewish
+                papers,<lb/> which are sent to me.</p>
+            <p rend="indent(1)">I hope this explanation<lb/> will satisfy you and your
+                colleagues.</p>
+            <p rend="indent(3)">Most Respectfully &amp;c.</p>
+            <p rend="indent(4)">
+                <persName role="author">A. Guinzburg</persName>
+            </p>
+            <p rend="indent(4)">per <persName>Tillie Guinzburg</persName></p>
+            <p rend="The following is added in pencil in a different handwriting.">all right<lb/>
+                <persName>MBH</persName></p>
+            <pb n="4"/>
+            <p><hi rend="underline"><persName role="author">Guinzberg</persName></hi> was a<lb/>
+                dead head</p>
+        </body>
+    </text>
 </TEI>

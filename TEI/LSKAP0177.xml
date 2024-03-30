@@ -1,282 +1,325 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE TEI [
-<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
-%teibase;
-<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
-%teiext;
-]>
-<TEI>
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="yes">Leeser, Isaac</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>LSKAP</repository>
-						<collection>The Arnold and Deanne Kaplan Collection of Early American Judaica</collection>
-						<idno>LSKAP0177</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="yes">Leeser, Isaac</author>
-						<addressee editor="false" attested="yes" accepted="yes"></addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>Philadelphia, PA</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1849-02" source="" attested="yes">February 27, 1849</dateLet>
-						<dateLet when="1849-02" source="" attested="yes">Adar 5th, 5609</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="LSKAP0177_1r.jpg"></graphic>
-								<graphic url="LSKAP0177_2v.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="false" paper_type="" size="">print</material>
-								</support>
-								<extent>2 pages on 1 sheet
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="typescript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions>Circular</additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="restricted">
-								<p>Restricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-				<p rend="align(center)">CIRCULAR.</p>
-			<p rend="indent(1)">MANY persons and communities who have read in the Occident communications from <persName>Dr. Wise</persName>&#44; and others&#44; relative<lb/> to a meeting of our people&#44; having for its object the adoption of measures for our spiritual and temporal welfare&#44;<lb/> although highly approving of the suggestion&#44; still hold back from taking any active measures towards carrying it out&#44;<lb/> not being in possession of sufficiently definite information as to the nature of the objects contemplated.  It having&#44;<lb/> moreover&#44; been represented that the method at first suggested for bringing together the desired meeting&#44; is open to<lb/> various and weightly objections&#44; this circular is put forth&#44; which will be found to comprise&#44;</p>
-			<p rend="indent(1)">1<hi rend="sup">st</hi>. A brief exposition of the evils existing among us.</p>
-			<p rend="indent(1)">2d. Proposed measures of remedy.</p>
-			<p rend="indent(1)">3d. Mode of organization for the first meeting.</p>
-			<p rend="indent(1)">The evils existing among us will be found to consist of&#44;</p>
-			<p rend="indent(1)">1<hi rend="sup">st</hi>. A want of proper concert.</p>
-			<p rend="indent(1)">2d. The fact that our teachers have&#44; in many cases&#44; but few necessary qualifications.</p>
-			<p rend="indent(1)">3d. A great want of schools of any worth.</p>
-			<p rend="indent(1)">4<hi rend="sup">th</hi>. No means of correct information on our ancient and present history&#44; and on our religion.</p>
-			<p rend="indent(1)">5<hi rend="sup">th</hi>. No constituted authority to which we can refer questions of doubt of contingency.</p>
-			<p rend="indent(1)">6<hi rend="sup">th</hi>. No means or medium to supply our poor and our children with proper books of devotion and instruction.</p>
-			<p rend="indent(1)">7<hi rend="sup">th</hi>. A want of proper devotion&#44; alike in our houses and our Synagogues&#44; amounting in some cases to a departure<lb/> from the true principles of our faith.</p>
-			<p rend="indent(1)">The remedy proposed is to call a meeting or convention of Jews in the <placeName>United States</placeName>&#44; having for its object&#44;</p>
-			<p rend="indent(1)">1<hi rend="sup">st</hi>. A union of all the congregations by delegation&#44; and stated meetings.</p>
-			<p rend="indent(1)">2d. Education of youth.</p>
-			<p rend="indent(1)">3d. Instruction of all classes by the establishment of schools and publication of books&#44; informing our people of<lb/> their destiny&#44; their religion&#44; their duties&#44; and their history.</p>
-			<p rend="indent(1)">4<hi rend="sup">th</hi>. The discussion of such other subjects as may be brought to the notice of the assembly&#44; but petitions from<lb/> congregations.</p>
-			<p rend="indent(1)">The proper mode of representation and assembly&#44; is&#44;</p>
-			<p rend="indent(1)">1<hi rend="sup">st</hi>. A meeting of Jews shall be held in <placeName>New York</placeName>.</p>
-			<p rend="indent(1)">2d. It shall consist of none but delegates to be elected by any Jewish congregation in the <placeName>United States</placeName>&#44; each con&#45;<lb/>gregation sending one delegate&#59; and if more than one delegate should be present from any one body&#44; then such<lb/> whole delegation shall have but one vote.</p>
-			<p rend="indent(1)">3d. Every delegate shall bring a certificate of his election&#44; signed by the president and secretary of the congrega&#45;<lb/>tion sending him.</p>
-			<p rend="indent(1)">4<hi rend="sup">th</hi>. The number of delegates for the first meeting shall not be less than twenty.</p>
-			<p rend="indent(1)">5<hi rend="sup">th</hi>. Any congregation agreeing to his plan shall notify the same to the <persName role="author">Rev. Isaac Leeser</persName>&#44; who&#44; when twenty<lb/> congregations have so signified to him&#44; shall have power to appoint the day of meeting&#44; and arrange other required<lb/> preliminaries.</p>
-			<p rend="indent(1)">Arise&#44; O <placeName>Israel</placeName>&#33; you shall be unto me a kingdom of priests&#44; and a holy nation&#44; saith the Lord.</p>
-			<p rend="indent(1)">This circular is issued under the auspices of <persName>Rev. Dr. Wise</persName>&#44; of <placeName>Albany&#44; N. Y.</placeName>&#44; and <persName>Dr. Lilienthal</persName>&#44; of <placeName>New<lb/> York</placeName>&#44; and it is requested that all persons into whose hands it may fall&#44; will present it to their friends and ask the<lb/> co&#45;operation of their respective Synagogues.</p>
-			<p rend="indent(1)"><add>hand symbol</add> You will confer a favour by informing the subscriber&#44; Corresponding Secretary pro tempore&#44; of the determi&#45;<lb/>nation of your body with respect to the election of delegates&#44; whether favourable or not.  In case you resolve to<lb/> attend the proposed meeting&#44; you will then state the name of the person or persons elected to represent your con&#45;<lb/>gregation.  The subscriber will duly inform you whether a sufficient number of congregations have joined&#44; and it is<lb/> hoped that the meeting may convene at <placeName>NEW YORK</placeName> on the <date>THIRD MONDAY in SIVAN</date> next ensuing&#44; corresponding<lb/> with the <date>11<hi rend="sup">th</hi> of June</date>.</p>
-			<p rend="indent(8)"><persName role="author">ISAAC LEESER</persName>&#44; Cor. Sec. Pro tem.</p>
-				<p><placeName>Philadelphia</placeName>&#44; <date>Adar 5th&#44; 5609</date>.</p>
-				<p rend="Note&#58; ">Typewritten circular</p>
-			<pb n="2V"/>
-				<p>Memorial for a</p>
-				<p>Convention of Jews.</p>
-				<p><date>April 1<hi rend="sup">st</hi>. 1849</date>.</p>
-			<p rend="indent(1)">Teab</p>
-				<p rend="The following is circled in pencil at the right.">83</p>
-		</body>
-	</text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="yes">Leeser, Isaac</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>LSKAP</repository>
+                        <collection>The Arnold and Deanne Kaplan Collection of Early American
+                            Judaica</collection>
+                        <idno>LSKAP0177</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="yes">Leeser, Isaac</author>
+                        <addressee accepted="yes" attested="yes" editor="false"/>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1849-02">February 27, 1849</dateLet>
+                        <dateLet attested="yes" source="" when="1849-02">Adar 5th, 5609</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="LSKAP0177_1r.jpg"/>
+                                <graphic url="LSKAP0177_2v.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>2 pages on 1 sheet <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions>Circular</additions>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="restricted">
+                                <p>Restricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p rend="align(center)">CIRCULAR.</p>
+            <p rend="indent(1)">MANY persons and communities who have read in the Occident
+                communications from <persName>Dr. Wise</persName>, and others, relative<lb/> to a
+                meeting of our people, having for its object the adoption of measures for our
+                spiritual and temporal welfare,<lb/> although highly approving of the suggestion,
+                still hold back from taking any active measures towards carrying it out,<lb/> not
+                being in possession of sufficiently definite information as to the nature of the
+                objects contemplated. It having,<lb/> moreover, been represented that the method at
+                first suggested for bringing together the desired meeting, is open to<lb/> various
+                and weightly objections, this circular is put forth, which will be found to
+                comprise,</p>
+            <p rend="indent(1)">1<hi rend="sup">st</hi>. A brief exposition of the evils existing
+                among us.</p>
+            <p rend="indent(1)">2d. Proposed measures of remedy.</p>
+            <p rend="indent(1)">3d. Mode of organization for the first meeting.</p>
+            <p rend="indent(1)">The evils existing among us will be found to consist of,</p>
+            <p rend="indent(1)">1<hi rend="sup">st</hi>. A want of proper concert.</p>
+            <p rend="indent(1)">2d. The fact that our teachers have, in many cases, but few
+                necessary qualifications.</p>
+            <p rend="indent(1)">3d. A great want of schools of any worth.</p>
+            <p rend="indent(1)">4<hi rend="sup">th</hi>. No means of correct information on our
+                ancient and present history, and on our religion.</p>
+            <p rend="indent(1)">5<hi rend="sup">th</hi>. No constituted authority to which we can
+                refer questions of doubt of contingency.</p>
+            <p rend="indent(1)">6<hi rend="sup">th</hi>. No means or medium to supply our poor and
+                our children with proper books of devotion and instruction.</p>
+            <p rend="indent(1)">7<hi rend="sup">th</hi>. A want of proper devotion, alike in our
+                houses and our Synagogues, amounting in some cases to a departure<lb/> from the true
+                principles of our faith.</p>
+            <p rend="indent(1)">The remedy proposed is to call a meeting or convention of Jews in
+                the <placeName>United States</placeName>, having for its object,</p>
+            <p rend="indent(1)">1<hi rend="sup">st</hi>. A union of all the congregations by
+                delegation, and stated meetings.</p>
+            <p rend="indent(1)">2d. Education of youth.</p>
+            <p rend="indent(1)">3d. Instruction of all classes by the establishment of schools and
+                publication of books, informing our people of<lb/> their destiny, their religion,
+                their duties, and their history.</p>
+            <p rend="indent(1)">4<hi rend="sup">th</hi>. The discussion of such other subjects as
+                may be brought to the notice of the assembly, but petitions from<lb/>
+                congregations.</p>
+            <p rend="indent(1)">The proper mode of representation and assembly, is,</p>
+            <p rend="indent(1)">1<hi rend="sup">st</hi>. A meeting of Jews shall be held in
+                    <placeName>New York</placeName>.</p>
+            <p rend="indent(1)">2d. It shall consist of none but delegates to be elected by any
+                Jewish congregation in the <placeName>United States</placeName>, each
+                con-<lb/>gregation sending one delegate; and if more than one delegate should be
+                present from any one body, then such<lb/> whole delegation shall have but one
+                vote.</p>
+            <p rend="indent(1)">3d. Every delegate shall bring a certificate of his election, signed
+                by the president and secretary of the congrega-<lb/>tion sending him.</p>
+            <p rend="indent(1)">4<hi rend="sup">th</hi>. The number of delegates for the first
+                meeting shall not be less than twenty.</p>
+            <p rend="indent(1)">5<hi rend="sup">th</hi>. Any congregation agreeing to his plan shall
+                notify the same to the <persName role="author">Rev. Isaac Leeser</persName>, who,
+                when twenty<lb/> congregations have so signified to him, shall have power to appoint
+                the day of meeting, and arrange other required<lb/> preliminaries.</p>
+            <p rend="indent(1)">Arise, O <placeName>Israel</placeName>! you shall be unto me a
+                kingdom of priests, and a holy nation, saith the Lord.</p>
+            <p rend="indent(1)">This circular is issued under the auspices of <persName>Rev. Dr.
+                    Wise</persName>, of <placeName>Albany, N. Y.</placeName>, and <persName>Dr.
+                    Lilienthal</persName>, of <placeName>New<lb/> York</placeName>, and it is
+                requested that all persons into whose hands it may fall, will present it to their
+                friends and ask the<lb/> co-operation of their respective Synagogues.</p>
+            <p rend="indent(1)"><add>hand symbol</add> You will confer a favour by informing the
+                subscriber, Corresponding Secretary pro tempore, of the determi-<lb/>nation of your
+                body with respect to the election of delegates, whether favourable or not. In case
+                you resolve to<lb/> attend the proposed meeting, you will then state the name of the
+                person or persons elected to represent your con-<lb/>gregation. The subscriber will
+                duly inform you whether a sufficient number of congregations have joined, and it
+                is<lb/> hoped that the meeting may convene at <placeName>NEW YORK</placeName> on the
+                    <date>THIRD MONDAY in SIVAN</date> next ensuing, corresponding<lb/> with the
+                        <date>11<hi rend="sup">th</hi> of June</date>.</p>
+            <p rend="indent(8)"><persName role="author">ISAAC LEESER</persName>, Cor. Sec. Pro
+                tem.</p>
+            <p><placeName>Philadelphia</placeName>, <date>Adar 5th, 5609</date>.</p>
+            <p rend="Note: ">Typewritten circular</p>
+            <pb n="2V"/>
+            <p>Memorial for a</p>
+            <p>Convention of Jews.</p>
+            <p><date>April 1<hi rend="sup">st</hi>. 1849</date>.</p>
+            <p rend="indent(1)">Teab</p>
+            <p rend="The following is circled in pencil at the right.">83</p>
+        </body>
+    </text>
 </TEI>

@@ -1,276 +1,317 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE TEI [
-<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
-%teibase;
-<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
-%teiext;
-]>
-<TEI>
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="yes">Mayer, A. L.</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>LSKAP</repository>
-						<collection>The Arnold and Deanne Kaplan Collection of Early American Judaica</collection>
-						<idno>LSKAP20-758</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="yes">Mayer, A. L.</author>
-						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac</addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>Syracuse, NY</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1864-09" source="" attested="yes">September 23, 1864</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="leeser_20_758_a001.jpg"></graphic>
-								<graphic url="leeser_20_758_a002.jpg"></graphic>
-								<graphic url="leeser_20_758_a003.jpg"></graphic>
-								<graphic url="leeser_20_758_a004.jpg"></graphic>
-								<graphic url="leeser_20_758_c001.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="false" paper_type="" size="">letter</material>
-								</support>
-								<extent>3 pages on 2 sheets
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="manuscript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="restricted">
-								<p>Restricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-				<language ident="de">German</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1R"/>
-			<p rend="align(center)">Geehrter <addressee>Hr Leeser</addressee>&#33;</p>
-			<p rend="indent(1)">Anderseits steht die Annonce&#44; welche ich f&#252;r<lb/> <date>den October</date> &#38; <date>Nov.</date> einstweilen einger&#252;ckt<lb/> zu lehen w&#252;nschen Ich habe mit dem Direktor<lb/> der Anstalt R&#252;cksgrache<add>&#63;</add> grammer&#44; welcher<lb/> mit mir darin ganz &#252;bereinstimmend ist&#44;<lb/> da&#223; wir den Occidt. ebenfalls als unser Organ<lb/> <add>&#63;</add>&#59; allein es fall vor der Hand rest<lb/> das sein&#44; was anderseits steht.</p>
-				<p>K&#246;nnen Sie vielleicht einige Start nach<lb/> sagen&#44; w&#228;re es mir angenehm&#44; wir werden<lb/> s. Zeit es vergelten.</p>
-				<p>Bitte um die Note&#44; worauf Sie sofort<lb/> Ihre Zahlung erhalten.</p>
-				<p>Haben Sie das Blatt der Anstalt gesehen&#63;  Es<lb/> ist nichts Uebertriebenes.  Fur vorigen Winter<lb/> waren fest 500 Sch&#252;ler darin&#44; aus allen Theilen<lb/> d. <placeName>U. Sts.</placeName></p>
-				<p>Ich schreibe vor <add>&#63;</add> noch einmal Heute ist es<lb/> wegen <add>&#63;</add> zu sp&#228;t</p>
-				<p>Ihr <persName role="author">A L Mayer</persName></p>
-				<p><placeName>Syr N. Y.</placeName> <date>23. Sept. 64</date></p>
-			<pb n="2R"/>
-				<p rend="align(center)">National Commercial College&#44;</p>
-				<p>die gr&#246;&#223;te <add>&#63;</add> der <placeName>United States</placeName>&#44;<lb/> <placeName>Syracuse N. Y.</placeName></p>
-				<p>geleitet von 16 Professoren unter dem Pr&#228;sid. von<lb/> <persName>Prof. D. I. Ames</persName>. <del>Pr&#228;sident</del></p>
-				<p>Gegenst&#228;nde&#58; Englisch&#44; Franz&#246;sisch&#44; Deutsch&#44; Hebr&#228;isch&#44; Penman&#44;<lb/>ship &#40;business &#38; ornamental&#41;&#44; Telegraphie &#40;theoret. and<lb/> pract.&#41;&#44; busin. Arithmetic&#44; Co&#109;ercial Law etc.<lb/>  Aufnahmsf&#228;higkeit d. Anstalt 800 Studenten. die Anstalt<lb/> gibt monatl. ein Journal heraus&#44; das frei zugesendet wird.<lb/>  Man wurde sich gef. von <persName>Prof. D. I Ames</persName>&#44; Pr&#228;sident&#44; oder</p>
-				<p><persName role="author">Prof. A. L. Mayer</persName>.</p>
-			<pb n="3R"/>
-			<p rend="align(center)">Dear <addressee>Mr. Leeser</addressee></p>
-			<p rend="indent(1)">On the opposite page you will find <add>&#63;</add><lb/> whole t <del> <add>&#63;</add> </del> made to <add>&#63;</add> see printed in the<lb/> institute agrees with me that we should use the<lb/> <sic>occident</sic> as our medium.</p>
-			<p rend="indent(1)">I would appreciate if you would add a<lb/> few words.</p>
-			<p rend="indent(1)">Please send us your bill which shall be<lb/> paid promptly.  Did you read the journal of the<lb/> institute&#63;  There is nothing <sic>exagerated</sic>.  Last winter<lb/> we had almost 500 students from all parts of the <placeName>U. S.</placeName><lb/> I will write again before <add>&#63;</add><lb/> Because of the <add>&#63;</add> it is too late today.</p>
-			<p rend="indent(1)">Very truly yours&#44;</p>
-			<p rend="indent(2)"><persName role="author">A. L. Mayer</persName></p>
-				<p><placeName>Syracuse&#44; N. Y.</placeName> <date>Sept. 23rd 1864</date></p>
-				<p>National Commercial College</p>
-			<p rend="indent(1)">The largest and best recommended in the <placeName>U. S.</placeName><lb/> <placeName>Syracuse&#44; N. Y.</placeName></p>
-			<p rend="indent(1)"><sic>with</sic> 16 professors and the president <persName>Prof. A. T. Ames</persName>.<lb/>  <hi rend="underline">Subjects</hi>&#58; English&#44; French&#44; German&#44; Hebrew&#44; Penmanship&#44;<lb/> &#40;business &#38; ornamental &#40;&#33;&#33;&#33;&#33;&#33;&#33;&#41; Telegraphy &#40;theory and practic.&#41;<lb/> Business Arithmetic Commercial Law etc.<lb/>  <hi rend="underline">Capacity of the institute</hi>&#58; 800 students.  The institute <add>&#63;</add></p>
-				<p rend="The following is written sideways&#44; near the right center of the page.">x a monthly<lb/> journal which will<lb/> be sent upon request.<lb/> for information&#44; write<lb/> <persName>Prof. D. T. Ames</persName>&#44; president<lb/> or <persName role="author">Prof A. L. Mayer</persName>.</p>
-		</body>
-	</text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="yes">Mayer, A. L.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>LSKAP</repository>
+                        <collection>The Arnold and Deanne Kaplan Collection of Early American
+                            Judaica</collection>
+                        <idno>LSKAP20-758</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="yes">Mayer, A. L.</author>
+                        <addressee accepted="yes" attested="yes" editor="false">Leeser,
+                            Isaac</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Syracuse, NY</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1864-09">September 23,
+                            1864</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="leeser_20_758_a001.jpg"/>
+                                <graphic url="leeser_20_758_a002.jpg"/>
+                                <graphic url="leeser_20_758_a003.jpg"/>
+                                <graphic url="leeser_20_758_a004.jpg"/>
+                                <graphic url="leeser_20_758_c001.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >letter</material>
+                                </support>
+                                <extent>3 pages on 2 sheets <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="restricted">
+                                <p>Restricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="de">German</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1R"/>
+            <p rend="align(center)">Geehrter <addressee>Hr Leeser</addressee>!</p>
+            <p rend="indent(1)">Anderseits steht die Annonce, welche ich für<lb/>
+                <date>den October</date> &amp; <date>Nov.</date> einstweilen eingerückt<lb/> zu
+                lehen wünschen Ich habe mit dem Direktor<lb/> der Anstalt Rücksgrache<add>?</add>
+                grammer, welcher<lb/> mit mir darin ganz übereinstimmend ist,<lb/> daß wir den
+                Occidt. ebenfalls als unser Organ<lb/>
+                <add>?</add>; allein es fall vor der Hand rest<lb/> das sein, was anderseits
+                steht.</p>
+            <p>Können Sie vielleicht einige Start nach<lb/> sagen, wäre es mir angenehm, wir
+                werden<lb/> s. Zeit es vergelten.</p>
+            <p>Bitte um die Note, worauf Sie sofort<lb/> Ihre Zahlung erhalten.</p>
+            <p>Haben Sie das Blatt der Anstalt gesehen? Es<lb/> ist nichts Uebertriebenes. Fur
+                vorigen Winter<lb/> waren fest 500 Schüler darin, aus allen Theilen<lb/> d.
+                    <placeName>U. Sts.</placeName></p>
+            <p>Ich schreibe vor <add>?</add> noch einmal Heute ist es<lb/> wegen <add>?</add> zu
+                spät</p>
+            <p>Ihr <persName role="author">A L Mayer</persName></p>
+            <p>
+                <placeName>Syr N. Y.</placeName>
+                <date>23. Sept. 64</date>
+            </p>
+            <pb n="2R"/>
+            <p rend="align(center)">National Commercial College,</p>
+            <p>die größte <add>?</add> der <placeName>United States</placeName>,<lb/>
+                <placeName>Syracuse N. Y.</placeName></p>
+            <p>geleitet von 16 Professoren unter dem Präsid. von<lb/>
+                <persName>Prof. D. I. Ames</persName>. <del>Präsident</del></p>
+            <p>Gegenstände: Englisch, Französisch, Deutsch, Hebräisch, Penman,<lb/>ship (business
+                &amp; ornamental), Telegraphie (theoret. and<lb/> pract.), busin. Arithmetic,
+                Comercial Law etc.<lb/> Aufnahmsfähigkeit d. Anstalt 800 Studenten. die Anstalt<lb/>
+                gibt monatl. ein Journal heraus, das frei zugesendet wird.<lb/> Man wurde sich gef.
+                von <persName>Prof. D. I Ames</persName>, Präsident, oder</p>
+            <p><persName role="author">Prof. A. L. Mayer</persName>.</p>
+            <pb n="3R"/>
+            <p rend="align(center)">Dear <addressee>Mr. Leeser</addressee></p>
+            <p rend="indent(1)">On the opposite page you will find <add>?</add><lb/> whole t <del>
+                    <add>?</add>
+                </del> made to <add>?</add> see printed in the<lb/> institute agrees with me that we
+                should use the<lb/>
+                <sic>occident</sic> as our medium.</p>
+            <p rend="indent(1)">I would appreciate if you would add a<lb/> few words.</p>
+            <p rend="indent(1)">Please send us your bill which shall be<lb/> paid promptly. Did you
+                read the journal of the<lb/> institute? There is nothing <sic>exagerated</sic>. Last
+                winter<lb/> we had almost 500 students from all parts of the <placeName>U.
+                    S.</placeName><lb/> I will write again before <add>?</add><lb/> Because of the
+                    <add>?</add> it is too late today.</p>
+            <p rend="indent(1)">Very truly yours,</p>
+            <p rend="indent(2)">
+                <persName role="author">A. L. Mayer</persName>
+            </p>
+            <p>
+                <placeName>Syracuse, N. Y.</placeName>
+                <date>Sept. 23rd 1864</date>
+            </p>
+            <p>National Commercial College</p>
+            <p rend="indent(1)">The largest and best recommended in the <placeName>U. S.</placeName><lb/>
+                <placeName>Syracuse, N. Y.</placeName></p>
+            <p rend="indent(1)"><sic>with</sic> 16 professors and the president <persName>Prof. A.
+                    T. Ames</persName>.<lb/>
+                <hi rend="underline">Subjects</hi>: English, French, German, Hebrew,
+                Penmanship,<lb/> (business &amp; ornamental (!!!!!!) Telegraphy (theory and
+                practic.)<lb/> Business Arithmetic Commercial Law etc.<lb/>
+                <hi rend="underline">Capacity of the institute</hi>: 800 students. The institute
+                    <add>?</add></p>
+            <p rend="The following is written sideways, near the right center of the page.">x a
+                monthly<lb/> journal which will<lb/> be sent upon request.<lb/> for information, write<lb/>
+                <persName>Prof. D. T. Ames</persName>, president<lb/> or <persName role="author"
+                    >Prof A. L. Mayer</persName>.</p>
+        </body>
+    </text>
 </TEI>

@@ -1,262 +1,549 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="yes">Nathan, M. N.</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>TCAT</repository>
-						<collection>Anonymous</collection>
-						<idno>LSTCAT_item200</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="yes">Nathan, M. N.</author>
-						<addressee editor="false" attested="yes" accepted="yes"></addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>Anytown, St. Thomas</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1847-08" source="" attested="yes">5 August 1847</dateLet>
-						<dateLet when="1847-08" source="" attested="yes">5 August 5607</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="il_tcat_item200_wk1_body0001.jpg"></graphic>
-								<graphic url="il_tcat_item200_wk1_body0002.jpg"></graphic>
-								<graphic url="il_tcat_item200_wk1_body0003.jpg"></graphic>
-								<graphic url="il_tcat_item200_wk1_body0004.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="false" paper_type="" size="">letter</material>
-								</support>
-								<extent>4 pages on 4 sheets
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="manuscript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="free">
-								<p>Unrestricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1"/>
-				<p rend="align(right)"><placeName>St. Thomas</placeName>&#44; <date>August 5<hi rend="sup">th</hi>. 5607 &#40;1847&#41;</date></p>
-				<p>My dear Sir</p>
-			<p rend="indent(1)">You have just cause to be surprised at my silence&#44;<lb/> but my numerous duties and engagements prevent me from answering<lb/> both correspondents&#44; and even family letters.  To make up for lost<lb/> time I intend sending a long letter&#44; and will endeavor to continue writing<lb/> to one whom I hold in the highest esteem.  I send herewith the corrected<lb/> copy of the Road to faith and intend presenting it to your publication<lb/> society&#44; if it is worth their acceptance&#59; with this condition that they will<lb/> always supply me at the publication price.  I have added little or nothing<lb/> and made but few <sic>Emendations</sic>.  Of the former I specify the <del>ten com&#45;</del> maimonidean<lb/> <del>mandments</del> creed&#44; of the latter&#44; very little will meet your eye of an unsatisfac<lb/>tory nature.  You are at liberty to correct any text I have not translated<lb/> properly&#59; <add>Hebrew</add> has been rendered &#8220;I will turn the nations<lb/> to pray with pure lips&#8221; instead of the <sic>authorised</sic> version&#44; I will render pure<lb/> the lips of the people.&#8221;</p>
-			<p rend="indent(1)">It grieved me to notice the useless discussion&#44;<lb/> in the valuable pages of the Occident on the question of west Indian<lb/> citrons.  Had the writers who so dogmatically insisted upon their being<lb/> <add>Hebrew</add> grafted&#44; been at all acquainted with the <placeName>Antilles</placeName>&#44; they would<lb/> never have breached the matter.  In these <placeName>Islands</placeName> too much attention<lb/> is devoted to the staple production&#44; as sugar&#44; coffee &#38;c to allow a<lb/> laborer&#39;s time to be wasted on the improvement of fruit trees.  Of <placeName>Jamaica</placeName><lb/> especially I can assert most positively that the Citron grows in its<lb/> original state&#44; either where it was first planted&#44; or where the wind has<lb/> scattered the seed&#44; and it has taken root.  The same may be said of all<lb/> fruit trees&#44; they are met with on all the estates&#44; but no care is bestowed<lb/> on them.  The orange and shaddock and perhaps the line&#44; may&#44; now that<lb/> estates owners try to make every thing profitable on their lands&#44; receive<lb/> a share of attention&#44; but the citron and others of that family are useless <del>to</del><lb/> except for making preserves&#44; and grafting for that purpose would not pay<lb/> the cost of oranges&#44; shaddocks&#44; and lime juice are exported&#44; citrons grow and<lb/> rot on the trees they may be had for the asking.  The whole expense is confined<lb/> to gathering bringing them to town&#44; packing&#44; and freight to the states.  One<lb/> of our brethren in <placeName>Jamaica</placeName> used to send an annual supply to the syna&#45;<lb/>gogues by his slaves&#44; free of cost&#44; the present possessor of his estates<lb/> permits any one to pluck citrons&#44; who will send for them.  They grow only<lb/> in the mountainous districts&#44; and labor being high&#44; people demand good<lb/> wages to walk the distance&#44; and bring them to town.  Of late years&#44; <persName>Mr. Kursheedt</persName><lb/> was supplied from a quarter near<del>er</del> to <placeName>Kingston</placeName>&#59; but the citrons from that<lb/> place were neither as handsome nor of so good a quality as those from<lb/> the lofty <placeName>Port Royal</placeName> mountains.  <persName>Mr. Levy</persName>&#44; the gentleman who resides there&#44;<lb/> and his uncle before him&#44; were both men of strict religious principles.  As<lb/> natives of <placeName>Europe</placeName>&#44; and perfectly acquainted with the peculiar citrons<lb/> permitted to be used&#44; they never grafted the trees.  It must also be<lb/> recollected that our Portuguese brethren in <placeName>Jamaica</placeName> were presided over for many<lb/> years by eminent Chachamine<add>&#63;</add>&#59; the chief <persName>Chacham De Cordova</persName>&#44; an eminent<lb/> scholar in biblical and profane knowledge&#44; and whose manuscript<lb/> writings attest his profound acquirements.  Surely&#44; these pious &#38; orthodox<lb/> persons would not have sanctioned the use of grafted fruit.  Either then<lb/> the learned in <placeName>America</placeName> have passed an erroneous judgment&#44; or all the Chachamin<lb/> in <placeName>Jamaica</placeName> were wrong&#44; or spurious citrons have been shipped to your<lb/> congregations and packed off as genuine fruit.  One thing must be borne<lb/> in mind that in <placeName>Europe</placeName> the citron is well tended&#44; in the <placeName>west Indies</placeName><lb/> neglected&#44; and the difference of appearance has been imputed to grafting&#44;<lb/> which I again repeat is not <sic>practised</sic> in <placeName>Jamaica</placeName>&#44; whence you have<lb/> heretofore been supplied.  You are at liberty to make use of this information<lb/> and name me as the author.</p>
-			<p rend="indent(1)">You have written <persName>Mr. Wolff</persName> again on the<lb/> subject of my reply to the attack on confirmation&#44; but it has been</p>
-			<pb n="2"/>
-				<p>delayed so long&#44; that it has now lost its interest.&#8221;  At the time the<lb/> articles appeared&#44; it was my intention to have replied&#59; and the whole was<lb/> sketched out and only wanted writing <del>it</del> fully&#44; when the shameless conduct<lb/> of <persName>Mr. Naar</persName> and his confederates in attempting to discharge me from my<lb/> post called forth all my energies to defeat their machinations&#44; and left<lb/> me little leisure and less inclination for so trifling a matter.  Success<lb/> attended my efforts&#59; and an administration&#44; whose supporters only sought<lb/> to do the congregations as much mischief as possible&#59; was turned out to make<lb/> way for better men.  Whilst this was in progress&#44; and my daily bread at<lb/> stake&#44; when the prospect of having to go and seek a living elsewhere stared<lb/> me in the face&#44; could you suppose that I should sit down composedly<lb/> to reply to an opponent whose object and motive in assailing me arose<lb/> from malice&#63;  And had I done so&#44; would my words have been free from<lb/> asperity&#63;  Smarting under wrong&#44; would there not have been too much<lb/> bitterness in my reasoning&#63;  <placeName>Jamaica</placeName> was before me&#44; my resignation<lb/> there too recent to have been forgotten&#44; and the unhappy circumstances which<lb/> caused it were remembered.  And was I further to commit myself&#63;  Was I<lb/> to answer a man who is a model of infidelity and unbelief&#44; who does not<lb/> observe a single day in the year&#44; as tho&#39; he had been a sincere &#38; upright<lb/> Israelite&#63;  Must I not necessarily have exposed his hypocrisy&#44; and shown<lb/> that his solicitude <del>about</del> for our religion had its source in dislike to me<lb/> personally&#63;  I must have exposed the whole affair to vindicate confirmation<lb/> and myself&#44; and this step would have widened the breach in the congregation<lb/> and led to further aggravation and ill feeling.  <persName>Mr. Naar</persName> and I are now<lb/> reconciled and I hope soon by prudence and circumspection to restore<lb/> peace and good will among all parties&#44; except <persName>Mr. M. B. Simmonds</persName>&#44; whom<lb/> every one despises and dislikes&#44; and who is a bad hearted man.  All his<lb/> talent&#44; and he has much&#44; can never reestablish him in the favorable<lb/> opinion of the public.  Meanwhile I have not been idle&#44; but have been<lb/> preparing to strengthen and improve my position.  Again&#44; necessity has<lb/> compelled me to open a school&#44; to give me bread&#44; in case of rupture or<lb/> discontent in the congregation&#44; necessity&#44; not choice&#44; has driven me to it for<lb/> I had hoped to sit down here and labor for the welfare of my flock as in<lb/> <placeName>Jamaica</placeName>.  I have not been altogether unsuccessful.  In another quarter<lb/> also I have been endeavoring to make provision for future subsistence.  All<lb/> these projects trench upon my time&#44; and exclusively with the writing of sermons engage my attention.<lb/>  Depending on the faith of the congregation&#44; I sent for my mother in law and<lb/> her mother who is eighty years old&#44; and cannot easily move from place<lb/> to place.  Cares have multiplied you see and <del>have</del> restrain my will&#44; else<lb/> I would not be in <placeName>St. Thomas</placeName>.  I detail&#44; that you may make allowance<lb/> for my silence&#44; and not attribute it to indolence or indifference.  The good<lb/> effects of confirmation have more and more convinced me of its great<lb/> utility and tho&#39; I have altered some of the formalities&#44; I am not prepared<lb/> to abandon it.  But why&#44; let me ask&#44; were not your observations <sic>levelled</sic><lb/> against the ceremony&#44; <del>&#63;</del> replied to by <persName>Dr. Lilienthal</persName>&#63;  He is not incapable<lb/> of defending it&#44; and its advocacy concerns him who has the spiritual<lb/> care of thousands&#44; more than poor me who have only 3 or 4 hundred to guard.<lb/>  His reasons I cannot divine&#44; unless he thought <hi rend="underline">your arguments</hi> irrefutable&#44;<lb/> which&#44; in my opinion&#44; the are not.  It does not appear&#44; that in your long<lb/> ministry&#44; you have been able&#44; without confirmation&#44; to introduce a more<lb/> serious observance of the <date>sabbath</date> in <placeName>Philadelphia</placeName>&#44; or the abolition of<lb/> mixed marriages&#44; or the foundation of Jewish Schools.  In <placeName>Jamaica</placeName><lb/> I did not resort to confirmation&#59; I accomplished all these objects without<lb/> it&#59; here however I find it a useful instrument in keeping the sheep within<lb/> the fold&#59; and thro&#39; the children have wrought upon the parents so that some<lb/> determined <date>sabbath</date> breakers have been won from their evil courses.  That confirmation<lb/> has answered the purpose I intended it to serve&#44; knowledge of our religion to<lb/> the young&#44; reflection upon past misdeeds and serious resolutions to amend on<lb/> the path of the old.  Its value has been tested here&#44; and found beneficial&#44; and as the<lb/> most orthodox&#44; as <persName>Plessuer<add>&#63;</add></persName>&#44; say&#44; <persName>Adler</persName> and others are in its favor&#44; it cannot be<lb/> termed heterodoxical.  I do not pin my faith on it&#44; but with God&#39;s help&#44; I hope<lb/> to further its <del>already</del> usefulness.  No child shall be called to the sepher who is<lb/> ignorant of the fundamental principles of Judaism but yet <hi rend="underline">I</hi> will not make<lb/> confirmation compulsory&#44; the <persName>king</persName> of <placeName>Denmark</placeName> will however do so.  It may suit<lb/> the unbeliever to disapprove of it&#44; because he reveres nothing&#59; this cause&#44; added<lb/> to personal ill will to me and <persName>Mr. Wolff</persName>&#44; was the reason of <persName>Mr. Naar&#39;s</persName> philippic.<lb/>  It grieved me to find your powerful pen enlisted in the service of irreligion&#44;<lb/> but your dislike of any thing approaching reform instigated you to throw<lb/> disparagement on a valuable aid to our religion in these times when license</p>
-			<pb n="3"/>
-				<p>of speech&#44; thought&#44; and conduct is dignified by the name of liberty of<lb/> conscience and action.  I cannot account for your championship in any other<lb/> manner.  There were points in <persName>Mr. Naar&#39;s</persName> communication savoring of the grossest<lb/> infidelity&#59; whoever read it must have been convinced that it emanated from a<lb/> rank Deist&#59; yet how bland were your corrections of those points&#44; and how determined<lb/> your onslaught on confirmers and confirmation.  The pages of the Occident may yet&#44; on<lb/> some future occasion be open to my advocacy of confirmation&#44; when my mind is less<lb/> harassed&#59; and be assured that the past will not then be forgotten.  Till then&#44; I resume<lb/> my <sic>defence</sic> of the <hi rend="underline">promise</hi>&#44; not the <hi rend="underline">oath</hi> <del>taken</del> made at the first ceremony&#44; and shall be<lb/> able to produce the warrant of scripture for its introduction.  Polemics do not<lb/> appear to be <persName>Mr. Naar&#39;s</persName> forte&#59; politics whether discussed in caucus&#44; stage <sic>waggon</sic>&#44;<lb/> or groggery are more suited to his taste&#44; else he would not have made himself<lb/> so ridiculous by stating that the <hi rend="underline">Immortality of the Body</hi> instead of its <hi rend="underline">resurrection</hi><lb/> was one of the doctrines <hi rend="underline">he</hi> could not approve of.  Shade of <persName><sic>maimonides</sic></persName>&#33; dost<lb/> thou not feel rebuked <del>at</del> by the superior understanding of the Quondain<add>&#63;</add> mayor<lb/> of <placeName>Elizabeth Town</placeName>&#63;  But my dear <persName>Mr. Leeser</persName>&#44; you will never be able to write<lb/> down confirmation&#59; it will maintain its ground and spread itself in <placeName>America</placeName><lb/> as elsewhere&#44; and time may yet behold in you and of its warmest defenders<lb/> one word more on this subject&#59; refer to the 4<hi rend="sup">th</hi> no of the First Fruits&#44; and note<lb/> that confirmation had my best wishes&#44; before the thought of <placeName>St. Thomas</placeName> entered my<lb/> mind.  You will find an article headed Bar&#45;Mitzva or Confirmation in which<lb/> I expressed a desire for its adoption in <placeName>Jamaica</placeName>.</p>
-			<p rend="indent(1)">Your last letter was exceedingly interesting.  The sketch of<lb/> <persName>Rabbi Moshe Katzenellenbogen</persName> so graphic and illustrative of the Jewish charac&#45;<lb/>ter and studies in <placeName>Poland</placeName> and <placeName>Russia</placeName>.  Your opinion is correct of our people&#39;s<lb/> being the most clever among mankind.  Even if their studies are not practically<lb/> useful in a busy world&#44; they sharpen the intellect and fit <del>then</del> the mind for<lb/> understanding any thing.  A Polack or Russian Israelite having once obtained<lb/> a little refinement and polish is able to make his way in any pursuit whether<lb/> literary&#44; scientific&#44; or mercantile.  It yet remains to be seen what effect<lb/> the immense immigration of our people into the states will have on religion<lb/> generally.  The problem will be solved in the western world whether<lb/> Christianity shall not fall at the feet of Judaism.  On that continent where<lb/> the fullest liberty meets the most rigorous despotism of body and mind&#44; where<lb/> American and Russian institutions border on each other the truth of prophecy<lb/> will first enlighten man&#44; and its accomplishment take place.  Whilst every<lb/> Jewish heart bleeds at the miseries of our Russian brethren&#44; it is apparent<lb/> that some great change is at hand in the fortunes of our people.  <persName>Nicholas</persName><lb/> is not influenced by any other motive to act as he does towards them and<lb/> the Catholics&#44; than to acquire absolute <del>dominion</del> rule over the consciences<lb/> of his subjects and to make them all conform to one religion as they obey<lb/> one sovereign who is solo master of their lives <del>of his</del> and liberties.  It seems<lb/> as tho&#39; he spoke <del>in</del> the language of an ancient oppressor <add>Hebrew</add>.<lb/>  It is a mighty and gigantic project displaying his daring genius not even<lb/> <persName>Antiochus Epiphanes</persName> dared to go so far.  <persName>Nicholas</persName> wars not against<lb/> Judaism alone&#44; he takes <del>up</del> arms against Christendom &#38; mohammedan<lb/>ism.  Our generation will not witness his success or that of his successors&#59;<lb/> but how well does he realize <persName>Ezekiel&#39;s</persName> description of the &#8220;<persName>Prince of Rosh</persName><lb/> <placeName>Meshic</placeName> and <placeName>Tubal</placeName>&#8221; destined to be broken with his multitudes on the<lb/> mountains of <placeName>Israel</placeName>.  Really the longer we live&#44; the better do we<lb/> comprehend scripture&#44; and our ablest commentators were on these<lb/> historical revelations less enlightened than we who cannot hold a<lb/> candle to them in knowledge.  Prophecy sheds a stronger light the longer<lb/> it turns.  When <placeName>Russia</placeName> was an obscure and barbarous country which of<lb/> our commentators could have pointed to it unknown as <del>she</del> it was to be<lb/> the spot whence the last opponent to <placeName>Israel&#39;s</placeName> restoration and peace<lb/> should issue&#63;  At this day&#44; who can scruple to doubt that the <add>&#63;</add><lb/> dynasty was forseen by the prophet&#63;  Depend on it&#44; no prayers&#44; no<lb/> entreaties will sway <persName>Nicholas</persName> from his purpose&#44; no <persName>montefiores</persName> will<lb/> succeed&#59; he will promise&#44; but will not relax his iron determination.<lb/>  He will modify his <add>&#63;</add>&#44; but their end and intention will remain<lb/> the same.  He will possibly permit a larger emigration of those who<lb/> can afford to buy the privilege of departing&#44; but he will not the<lb/> less persevere in his oppression.  Martyred blood will be shed and perhaps<lb/> when that avails not&#44; he will drive <placeName>Israel</placeName> from his land as Pharoah<lb/> did.  In politics the danger is as imminent as in Religion&#44; <placeName>Turkey</placeName> is</p>
-			<pb n="4"/>
-				<p>already in his grasp.  <placeName>Austria</placeName> will succumb&#44; <placeName>Prussia</placeName> will follow&#44; unless<lb/> the German nations combine for common safety.  And whither shall the<lb/> millions of <placeName>Israel</placeName> in these countries fly to for refuge and protection save to <placeName>Western<lb/> Europe</placeName>&#44; or more probably to the <placeName>United States</placeName>&#63;  Therefore the hypothesis<lb/> that <placeName>America</placeName> is to be the chosen soil whereon mankind will first be<lb/> illumined is not so very extraordinary.  Meanwhile let us pray for the<lb/> messiah coming as did our pious forefathers&#44; and await it with devout<lb/> and confident hearts.</p>
-			<p rend="indent(1)">Have you yet broken a lance against <persName>Rabbi Wise</persName><lb/> as you anticipated&#63;  I was prepared for something more satisfactory<lb/> and convincing than his logical reasoning in the Occident.  Possibly his<lb/> words have suffered by translation but part of his arguments appear to me<lb/> very contradictory.  For example in page 160 <date>June</date> No of Occident he says.<lb/> &#8220;The chief precept of our religion is to be holy that is <hi rend="underline">to love God</hi> &#38;c.  <hi rend="underline">Inferior</hi><lb/> to this precept is the one to acknowledge God expressed in the first com<lb/>mandment &#38;  If one really acknowledge him we shall love Him and thereby<lb/> become holy&#33;  First <persName>Rabbi Wise</persName> makes the love of God paramount to the<lb/> acknowledgment of God&#44; and in the next line tells us that the <hi rend="underline">effect</hi> of<lb/> acknowledging him will lead us to love Him.  If love then be <hi rend="underline">the</hi> chief<lb/> it must lead to acknowledgment and not acknowledgment to love.  Beside<lb/> I was always taught that acknowledging the Divine Being is the first<lb/> principle <del>to be taught</del>.  In the <add>Hebrew</add> it is so&#59; love of God being a consequence<lb/> of recognizing and acknowledging him the same in the Decalogue&#44; in<lb/> the Creed of <persName>Maimonides</persName> and <persName>Albo</persName>.  The neo&#45;judaical opinions of <persName>Rabbi<lb/> Wise</persName> are not in harmony&#44; on this point&#44; with the law and prophets.<lb/>  Prayers&#44; generally&#44; is subjective&#59; but surely scripture presents many of an<lb/> objective character <persName>Moses</persName> on behalf of <persName>Miriam</persName>&#44; <persName>Samuel</persName> for the people &#38;c &#38;c<lb/> Persons pray for each other disinterestedly hoping that the effect may<lb/> be objective.  &#8220;If the proper object and purpose of prayer&#8221; I quote page 158<lb/> be the reflective effect upon the spirit and heart of him who prays&#8221;<lb/> thus one should never pray for our fellow creatures&#59; all our ideas would<lb/> be confined&#44; in prayer&#44; to our own spiritual and temporal improvement.<lb/>  The subjective and objective effect of prayer is too refined a distinction<lb/> to be understood by the generality of our people&#44; and <persName>Rabbi W.</persName> has not<lb/> explained this difficult point clearly.  Your emphatic objection in<lb/> page 158 has my cordial support.  Of course&#44; <persName>Rabbi W.</persName> wants no temple<lb/> no national restoration&#44; no messiah&#44; he only wants a <add>Hebrew</add>.  Why not<lb/> recommend the mutilation of the prophecies&#44; or the leaving out&#44; when<lb/> revising the law&#44; all such passages as relate to <placeName>Israel&#39;s</placeName> redemption and<lb/> restoration&#44; such as <add>Hebrew</add>.  <persName>Rabbi W&#39;s</persName> opinions are not new to<lb/> me.  The modern reformers generally have attached to the removal<lb/> of evil disabilities and the recognition of Israelites to the rights of<lb/> citizenship&#44; their views of messiah&#39;s coming.  They do not ask much&#44;<lb/> but what conception can they have of the prophecies&#44; if they thus<lb/> confine the future glory of <placeName>Israel</placeName> to the enjoyment of such doubtful<lb/> good&#63;  The conclave of American Rabbins are right however in<lb/> seeking to establish a minhag <placeName>America</placeName>.  It is most necessary<lb/> if only to make Judaism and synagogue worship understood<lb/> by Christians.  I almost shudder at the prejudices which the<lb/> conduct in some synagogues must excite in the Christian mind.<lb/>  Whilst therefore condemning some of the principles evolved by<lb/> <persName>Rabbi Wise</persName> as the mouthpiece of the conclave&#44; the project<lb/> has my best wishes.  Why do you not start up and effect the<lb/> same for the Sephardim of whom you are the head&#44; both by<lb/> length of service&#44; talent &#38;c.  They require it their synagogue<lb/> discipline is exceedingly lax&#44; and needs restoration.</p>
-			<p rend="indent(1)">I am compelled to conclude abruptly as a vessel<lb/> is just about to sail.  My health is so bad that this letter has</p>
-				<p rend="The letter continues written sideways over the previous text&#44; at the left side of the page."></p>
-				<p>been taken up 5 or 6 times to be completed.  I enclose the corrected copy of the &#8220;Road to faith&#8221;<lb/> and present it in my name to your publication society.  <persName>Mrs. Nathan</persName> sends her love to you<lb/> and regards to all friends whom I will name another time.  Hoping that the Almighty<lb/> will give you health and strength to discharge your ministerial duties during the<lb/> Holidays&#44; and that your prayers on behalf of your congregation and self may<lb/> be heard on high</p>
-			<p rend="indent(6)">I am</p>
-			<p rend="indent(7)">Yours Truly</p>
-			<p rend="indent(7)"><persName role="author">MNNathan</persName></p>
-				<p>If you see my friend <persName>Vaz<add>&#63;</add></persName> of <placeName>Jamaica</placeName>&#44; tell him not to be angry for I will<lb/> write him very soon.  I hope he is well.</p>
-		</body>
-	</text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="yes">Nathan, M. N.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>TCAT</repository>
+                        <collection>Anonymous</collection>
+                        <idno>LSTCAT_item200</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="yes">Nathan, M. N.</author>
+                        <addressee accepted="yes" attested="yes" editor="false"/>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Anytown, St. Thomas</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1847-08">5 August 1847</dateLet>
+                        <dateLet attested="yes" source="" when="1847-08">5 August 5607</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="il_tcat_item200_wk1_body0001.jpg"/>
+                                <graphic url="il_tcat_item200_wk1_body0002.jpg"/>
+                                <graphic url="il_tcat_item200_wk1_body0003.jpg"/>
+                                <graphic url="il_tcat_item200_wk1_body0004.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >letter</material>
+                                </support>
+                                <extent>4 pages on 4 sheets <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <p rend="align(right)"><placeName>St. Thomas</placeName>, <date>August 5<hi rend="sup"
+                        >th</hi>. 5607 (1847)</date></p>
+            <p>My dear Sir</p>
+            <p rend="indent(1)">You have just cause to be surprised at my silence,<lb/> but my
+                numerous duties and engagements prevent me from answering<lb/> both correspondents,
+                and even family letters. To make up for lost<lb/> time I intend sending a long
+                letter, and will endeavor to continue writing<lb/> to one whom I hold in the highest
+                esteem. I send herewith the corrected<lb/> copy of the Road to faith and intend
+                presenting it to your publication<lb/> society, if it is worth their acceptance;
+                with this condition that they will<lb/> always supply me at the publication price. I
+                have added little or nothing<lb/> and made but few <sic>Emendations</sic>. Of the
+                former I specify the <del>ten com-</del> maimonidean<lb/>
+                <del>mandments</del> creed, of the latter, very little will meet your eye of an
+                unsatisfac<lb/>tory nature. You are at liberty to correct any text I have not
+                translated<lb/> properly; <add>כי אז אהפך אל עמים שפה ברורה צפניה ג, ט</add> has
+                been rendered “I will turn the nations<lb/> to pray with pure lips” instead of the
+                    <sic>authorised</sic> version, I will render pure<lb/> the lips of the
+                people.”</p>
+            <p rend="indent(1)">It grieved me to notice the useless discussion,<lb/> in the valuable
+                pages of the Occident on the question of west Indian<lb/> citrons. Had the writers
+                who so dogmatically insisted upon their being<lb/>
+                <add>מרכבים</add> grafted, been at all acquainted with the
+                    <placeName>Antilles</placeName>, they would<lb/> never have breached the matter.
+                In these <placeName>Islands</placeName> too much attention<lb/> is devoted to the
+                staple production, as sugar, coffee &amp;c to allow a<lb/> laborer's time to be
+                wasted on the improvement of fruit trees. Of <placeName>Jamaica</placeName><lb/>
+                especially I can assert most positively that the Citron grows in its<lb/> original
+                state, either where it was first planted, or where the wind has<lb/> scattered the
+                seed, and it has taken root. The same may be said of all<lb/> fruit trees, they are
+                met with on all the estates, but no care is bestowed<lb/> on them. The orange and
+                shaddock and perhaps the line, may, now that<lb/> estates owners try to make every
+                thing profitable on their lands, receive<lb/> a share of attention, but the citron
+                and others of that family are useless <del>to</del><lb/> except for making
+                preserves, and grafting for that purpose would not pay<lb/> the cost of oranges,
+                shaddocks, and lime juice are exported, citrons grow and<lb/> rot on the trees they
+                may be had for the asking. The whole expense is confined<lb/> to gathering bringing
+                them to town, packing, and freight to the states. One<lb/> of our brethren in
+                    <placeName>Jamaica</placeName> used to send an annual supply to the
+                syna-<lb/>gogues by his slaves, free of cost, the present possessor of his
+                estates<lb/> permits any one to pluck citrons, who will send for them. They grow
+                only<lb/> in the mountainous districts, and labor being high, people demand
+                good<lb/> wages to walk the distance, and bring them to town. Of late years,
+                    <persName>Mr. Kursheedt</persName><lb/> was supplied from a quarter
+                    near<del>er</del> to <placeName>Kingston</placeName>; but the citrons from
+                that<lb/> place were neither as handsome nor of so good a quality as those from<lb/>
+                the lofty <placeName>Port Royal</placeName> mountains. <persName>Mr.
+                Levy</persName>, the gentleman who resides there,<lb/> and his uncle before him,
+                were both men of strict religious principles. As<lb/> natives of
+                    <placeName>Europe</placeName>, and perfectly acquainted with the peculiar
+                citrons<lb/> permitted to be used, they never grafted the trees. It must also
+                be<lb/> recollected that our Portuguese brethren in <placeName>Jamaica</placeName>
+                were presided over for many<lb/> years by eminent Chachamine<add>?</add>; the chief
+                    <persName>Chacham De Cordova</persName>, an eminent<lb/> scholar in biblical and
+                profane knowledge, and whose manuscript<lb/> writings attest his profound
+                acquirements. Surely, these pious &amp; orthodox<lb/> persons would not have
+                sanctioned the use of grafted fruit. Either then<lb/> the learned in
+                    <placeName>America</placeName> have passed an erroneous judgment, or all the
+                Chachamin<lb/> in <placeName>Jamaica</placeName> were wrong, or spurious citrons
+                have been shipped to your<lb/> congregations and packed off as genuine fruit. One
+                thing must be borne<lb/> in mind that in <placeName>Europe</placeName> the citron is
+                well tended, in the <placeName>west Indies</placeName><lb/> neglected, and the
+                difference of appearance has been imputed to grafting,<lb/> which I again repeat is
+                not <sic>practised</sic> in <placeName>Jamaica</placeName>, whence you have<lb/>
+                heretofore been supplied. You are at liberty to make use of this information<lb/>
+                and name me as the author.</p>
+            <p rend="indent(1)">You have written <persName>Mr. Wolff</persName> again on the<lb/>
+                subject of my reply to the attack on confirmation, but it has been</p>
+            <pb n="2"/>
+            <p>delayed so long, that it has now lost its interest.” At the time the<lb/> articles
+                appeared, it was my intention to have replied; and the whole was<lb/> sketched out
+                and only wanted writing <del>it</del> fully, when the shameless conduct<lb/> of
+                    <persName>Mr. Naar</persName> and his confederates in attempting to discharge me
+                from my<lb/> post called forth all my energies to defeat their machinations, and
+                left<lb/> me little leisure and less inclination for so trifling a matter.
+                Success<lb/> attended my efforts; and an administration, whose supporters only
+                sought<lb/> to do the congregations as much mischief as possible; was turned out to
+                make<lb/> way for better men. Whilst this was in progress, and my daily bread
+                at<lb/> stake, when the prospect of having to go and seek a living elsewhere
+                stared<lb/> me in the face, could you suppose that I should sit down composedly<lb/>
+                to reply to an opponent whose object and motive in assailing me arose<lb/> from
+                malice? And had I done so, would my words have been free from<lb/> asperity?
+                Smarting under wrong, would there not have been too much<lb/> bitterness in my
+                reasoning? <placeName>Jamaica</placeName> was before me, my resignation<lb/> there
+                too recent to have been forgotten, and the unhappy circumstances which<lb/> caused
+                it were remembered. And was I further to commit myself? Was I<lb/> to answer a man
+                who is a model of infidelity and unbelief, who does not<lb/> observe a single day in
+                the year, as tho' he had been a sincere &amp; upright<lb/> Israelite? Must I not
+                necessarily have exposed his hypocrisy, and shown<lb/> that his solicitude
+                    <del>about</del> for our religion had its source in dislike to me<lb/>
+                personally? I must have exposed the whole affair to vindicate confirmation<lb/> and
+                myself, and this step would have widened the breach in the congregation<lb/> and led
+                to further aggravation and ill feeling. <persName>Mr. Naar</persName> and I are
+                now<lb/> reconciled and I hope soon by prudence and circumspection to restore<lb/>
+                peace and good will among all parties, except <persName>Mr. M. B.
+                    Simmonds</persName>, whom<lb/> every one despises and dislikes, and who is a bad
+                hearted man. All his<lb/> talent, and he has much, can never reestablish him in the
+                favorable<lb/> opinion of the public. Meanwhile I have not been idle, but have
+                been<lb/> preparing to strengthen and improve my position. Again, necessity has<lb/>
+                compelled me to open a school, to give me bread, in case of rupture or<lb/>
+                discontent in the congregation, necessity, not choice, has driven me to it for<lb/>
+                I had hoped to sit down here and labor for the welfare of my flock as in<lb/>
+                <placeName>Jamaica</placeName>. I have not been altogether unsuccessful. In another
+                quarter<lb/> also I have been endeavoring to make provision for future subsistence.
+                All<lb/> these projects trench upon my time, and exclusively with the writing of
+                sermons engage my attention.<lb/> Depending on the faith of the congregation, I sent
+                for my mother in law and<lb/> her mother who is eighty years old, and cannot easily
+                move from place<lb/> to place. Cares have multiplied you see and <del>have</del>
+                restrain my will, else<lb/> I would not be in <placeName>St. Thomas</placeName>. I
+                detail, that you may make allowance<lb/> for my silence, and not attribute it to
+                indolence or indifference. The good<lb/> effects of confirmation have more and more
+                convinced me of its great<lb/> utility and tho' I have altered some of the
+                formalities, I am not prepared<lb/> to abandon it. But why, let me ask, were not
+                your observations <sic>levelled</sic><lb/> against the ceremony, <del>?</del>
+                replied to by <persName>Dr. Lilienthal</persName>? He is not incapable<lb/> of
+                defending it, and its advocacy concerns him who has the spiritual<lb/> care of
+                thousands, more than poor me who have only 3 or 4 hundred to guard.<lb/> His reasons
+                I cannot divine, unless he thought <hi rend="underline">your arguments</hi>
+                irrefutable,<lb/> which, in my opinion, the are not. It does not appear, that in
+                your long<lb/> ministry, you have been able, without confirmation, to introduce a
+                more<lb/> serious observance of the <date>sabbath</date> in
+                    <placeName>Philadelphia</placeName>, or the abolition of<lb/> mixed marriages,
+                or the foundation of Jewish Schools. In <placeName>Jamaica</placeName><lb/> I did
+                not resort to confirmation; I accomplished all these objects without<lb/> it; here
+                however I find it a useful instrument in keeping the sheep within<lb/> the fold; and
+                thro' the children have wrought upon the parents so that some<lb/> determined
+                    <date>sabbath</date> breakers have been won from their evil courses. That
+                confirmation<lb/> has answered the purpose I intended it to serve, knowledge of our
+                religion to<lb/> the young, reflection upon past misdeeds and serious resolutions to
+                amend on<lb/> the path of the old. Its value has been tested here, and found
+                beneficial, and as the<lb/> most orthodox, as
+                    <persName>Plessuer<add>?</add></persName>, say, <persName>Adler</persName> and
+                others are in its favor, it cannot be<lb/> termed heterodoxical. I do not pin my
+                faith on it, but with God's help, I hope<lb/> to further its <del>already</del>
+                usefulness. No child shall be called to the sepher who is<lb/> ignorant of the
+                fundamental principles of Judaism but yet <hi rend="underline">I</hi> will not
+                make<lb/> confirmation compulsory, the <persName>king</persName> of
+                    <placeName>Denmark</placeName> will however do so. It may suit<lb/> the
+                unbeliever to disapprove of it, because he reveres nothing; this cause, added<lb/>
+                to personal ill will to me and <persName>Mr. Wolff</persName>, was the reason of
+                    <persName>Mr. Naar's</persName> philippic.<lb/> It grieved me to find your
+                powerful pen enlisted in the service of irreligion,<lb/> but your dislike of any
+                thing approaching reform instigated you to throw<lb/> disparagement on a valuable
+                aid to our religion in these times when license</p>
+            <pb n="3"/>
+            <p>of speech, thought, and conduct is dignified by the name of liberty of<lb/>
+                conscience and action. I cannot account for your championship in any other<lb/>
+                manner. There were points in <persName>Mr. Naar's</persName> communication savoring
+                of the grossest<lb/> infidelity; whoever read it must have been convinced that it
+                emanated from a<lb/> rank Deist; yet how bland were your corrections of those
+                points, and how determined<lb/> your onslaught on confirmers and confirmation. The
+                pages of the Occident may yet, on<lb/> some future occasion be open to my advocacy
+                of confirmation, when my mind is less<lb/> harassed; and be assured that the past
+                will not then be forgotten. Till then, I resume<lb/> my <sic>defence</sic> of the
+                    <hi rend="underline">promise</hi>, not the <hi rend="underline">oath</hi>
+                <del>taken</del> made at the first ceremony, and shall be<lb/> able to produce the
+                warrant of scripture for its introduction. Polemics do not<lb/> appear to be
+                    <persName>Mr. Naar's</persName> forte; politics whether discussed in caucus,
+                stage <sic>waggon</sic>,<lb/> or groggery are more suited to his taste, else he
+                would not have made himself<lb/> so ridiculous by stating that the <hi
+                    rend="underline">Immortality of the Body</hi> instead of its <hi
+                    rend="underline">resurrection</hi><lb/> was one of the doctrines <hi
+                    rend="underline">he</hi> could not approve of. Shade of
+                        <persName><sic>maimonides</sic></persName>! dost<lb/> thou not feel rebuked
+                    <del>at</del> by the superior understanding of the Quondain<add>?</add>
+                mayor<lb/> of <placeName>Elizabeth Town</placeName>? But my dear <persName>Mr.
+                    Leeser</persName>, you will never be able to write<lb/> down confirmation; it
+                will maintain its ground and spread itself in <placeName>America</placeName><lb/> as
+                elsewhere, and time may yet behold in you and of its warmest defenders<lb/> one word
+                more on this subject; refer to the 4<hi rend="sup">th</hi> no of the First Fruits,
+                and note<lb/> that confirmation had my best wishes, before the thought of
+                    <placeName>St. Thomas</placeName> entered my<lb/> mind. You will find an article
+                headed Bar-Mitzva or Confirmation in which<lb/> I expressed a desire for its
+                adoption in <placeName>Jamaica</placeName>.</p>
+            <p rend="indent(1)">Your last letter was exceedingly interesting. The sketch of<lb/>
+                <persName>Rabbi Moshe Katzenellenbogen</persName> so graphic and illustrative of the
+                Jewish charac-<lb/>ter and studies in <placeName>Poland</placeName> and
+                    <placeName>Russia</placeName>. Your opinion is correct of our people's<lb/>
+                being the most clever among mankind. Even if their studies are not practically<lb/>
+                useful in a busy world, they sharpen the intellect and fit <del>then</del> the mind
+                for<lb/> understanding any thing. A Polack or Russian Israelite having once
+                obtained<lb/> a little refinement and polish is able to make his way in any pursuit
+                whether<lb/> literary, scientific, or mercantile. It yet remains to be seen what
+                effect<lb/> the immense immigration of our people into the states will have on
+                religion<lb/> generally. The problem will be solved in the western world
+                whether<lb/> Christianity shall not fall at the feet of Judaism. On that continent
+                where<lb/> the fullest liberty meets the most rigorous despotism of body and mind,
+                where<lb/> American and Russian institutions border on each other the truth of
+                prophecy<lb/> will first enlighten man, and its accomplishment take place. Whilst
+                every<lb/> Jewish heart bleeds at the miseries of our Russian brethren, it is
+                apparent<lb/> that some great change is at hand in the fortunes of our people.
+                    <persName>Nicholas</persName><lb/> is not influenced by any other motive to act
+                as he does towards them and<lb/> the Catholics, than to acquire absolute
+                    <del>dominion</del> rule over the consciences<lb/> of his subjects and to make
+                them all conform to one religion as they obey<lb/> one sovereign who is solo master
+                of their lives <del>of his</del> and liberties. It seems<lb/> as tho' he spoke
+                    <del>in</del> the language of an ancient oppressor <add>אעלה על במתי עב אדמה
+                    לעליון ישעי' יד יד</add>.<lb/> It is a mighty and gigantic project displaying
+                his daring genius not even<lb/>
+                <persName>Antiochus Epiphanes</persName> dared to go so far.
+                    <persName>Nicholas</persName> wars not against<lb/> Judaism alone, he takes
+                    <del>up</del> arms against Christendom &amp; mohammedan<lb/>ism. Our generation
+                will not witness his success or that of his successors;<lb/> but how well does he
+                realize <persName>Ezekiel's</persName> description of the “<persName>Prince of
+                    Rosh</persName><lb/>
+                <placeName>Meshic</placeName> and <placeName>Tubal</placeName>” destined to be
+                broken with his multitudes on the<lb/> mountains of <placeName>Israel</placeName>.
+                Really the longer we live, the better do we<lb/> comprehend scripture, and our
+                ablest commentators were on these<lb/> historical revelations less enlightened than
+                we who cannot hold a<lb/> candle to them in knowledge. Prophecy sheds a stronger
+                light the longer<lb/> it turns. When <placeName>Russia</placeName> was an obscure
+                and barbarous country which of<lb/> our commentators could have pointed to it
+                unknown as <del>she</del> it was to be<lb/> the spot whence the last opponent to
+                    <placeName>Israel's</placeName> restoration and peace<lb/> should issue? At this
+                day, who can scruple to doubt that the <add>?</add><lb/> dynasty was forseen by the
+                prophet? Depend on it, no prayers, no<lb/> entreaties will sway
+                    <persName>Nicholas</persName> from his purpose, no
+                    <persName>montefiores</persName> will<lb/> succeed; he will promise, but will
+                not relax his iron determination.<lb/> He will modify his <add>?</add>, but their
+                end and intention will remain<lb/> the same. He will possibly permit a larger
+                emigration of those who<lb/> can afford to buy the privilege of departing, but he
+                will not the<lb/> less persevere in his oppression. Martyred blood will be shed and
+                perhaps<lb/> when that avails not, he will drive <placeName>Israel</placeName> from
+                his land as Pharoah<lb/> did. In politics the danger is as imminent as in Religion,
+                    <placeName>Turkey</placeName> is</p>
+            <pb n="4"/>
+            <p>already in his grasp. <placeName>Austria</placeName> will succumb,
+                    <placeName>Prussia</placeName> will follow, unless<lb/> the German nations
+                combine for common safety. And whither shall the<lb/> millions of
+                    <placeName>Israel</placeName> in these countries fly to for refuge and
+                protection save to <placeName>Western<lb/> Europe</placeName>, or more probably to
+                the <placeName>United States</placeName>? Therefore the hypothesis<lb/> that
+                    <placeName>America</placeName> is to be the chosen soil whereon mankind will
+                first be<lb/> illumined is not so very extraordinary. Meanwhile let us pray for
+                the<lb/> messiah coming as did our pious forefathers, and await it with devout<lb/>
+                and confident hearts.</p>
+            <p rend="indent(1)">Have you yet broken a lance against <persName>Rabbi
+                Wise</persName><lb/> as you anticipated? I was prepared for something more
+                satisfactory<lb/> and convincing than his logical reasoning in the Occident.
+                Possibly his<lb/> words have suffered by translation but part of his arguments
+                appear to me<lb/> very contradictory. For example in page 160 <date>June</date> No
+                of Occident he says.<lb/> “The chief precept of our religion is to be holy that is
+                    <hi rend="underline">to love God</hi> &amp;c. <hi rend="underline"
+                >Inferior</hi><lb/> to this precept is the one to acknowledge God expressed in the
+                first com<lb/>mandment &amp; If one really acknowledge him we shall love Him and
+                thereby<lb/> become holy! First <persName>Rabbi Wise</persName> makes the love of
+                God paramount to the<lb/> acknowledgment of God, and in the next line tells us that
+                the <hi rend="underline">effect</hi> of<lb/> acknowledging him will lead us to love
+                Him. If love then be <hi rend="underline">the</hi> chief<lb/> it must lead to
+                acknowledgment and not acknowledgment to love. Beside<lb/> I was always taught that
+                acknowledging the Divine Being is the first<lb/> principle <del>to be taught</del>.
+                In the <add>שמע</add> it is so; love of God being a consequence<lb/> of recognizing
+                and acknowledging him the same in the Decalogue, in<lb/> the Creed of
+                    <persName>Maimonides</persName> and <persName>Albo</persName>. The neo-judaical
+                opinions of <persName>Rabbi<lb/> Wise</persName> are not in harmony, on this point,
+                with the law and prophets.<lb/> Prayers, generally, is subjective; but surely
+                scripture presents many of an<lb/> objective character <persName>Moses</persName> on
+                behalf of <persName>Miriam</persName>, <persName>Samuel</persName> for the people
+                &amp;c &amp;c<lb/> Persons pray for each other disinterestedly hoping that the
+                effect may<lb/> be objective. “If the proper object and purpose of prayer” I quote
+                page 158<lb/> be the reflective effect upon the spirit and heart of him who
+                prays”<lb/> thus one should never pray for our fellow creatures; all our ideas
+                would<lb/> be confined, in prayer, to our own spiritual and temporal
+                improvement.<lb/> The subjective and objective effect of prayer is too refined a
+                distinction<lb/> to be understood by the generality of our people, and
+                    <persName>Rabbi W.</persName> has not<lb/> explained this difficult point
+                clearly. Your emphatic objection in<lb/> page 158 has my cordial support. Of course,
+                    <persName>Rabbi W.</persName> wants no temple<lb/> no national restoration, no
+                messiah, he only wants a <add>שארית</add>. Why not<lb/> recommend the mutilation of
+                the prophecies, or the leaving out, when<lb/> revising the law, all such passages as
+                relate to <placeName>Israel's</placeName> redemption and<lb/> restoration, such as
+                    <add>ולב"ה אלהיך את שבותך</add>. <persName>Rabbi W's</persName> opinions are not
+                new to<lb/> me. The modern reformers generally have attached to the removal<lb/> of
+                evil disabilities and the recognition of Israelites to the rights of<lb/>
+                citizenship, their views of messiah's coming. They do not ask much,<lb/> but what
+                conception can they have of the prophecies, if they thus<lb/> confine the future
+                glory of <placeName>Israel</placeName> to the enjoyment of such doubtful<lb/> good?
+                The conclave of American Rabbins are right however in<lb/> seeking to establish a
+                minhag <placeName>America</placeName>. It is most necessary<lb/> if only to make
+                Judaism and synagogue worship understood<lb/> by Christians. I almost shudder at the
+                prejudices which the<lb/> conduct in some synagogues must excite in the Christian
+                mind.<lb/> Whilst therefore condemning some of the principles evolved by<lb/>
+                <persName>Rabbi Wise</persName> as the mouthpiece of the conclave, the project<lb/>
+                has my best wishes. Why do you not start up and effect the<lb/> same for the
+                Sephardim of whom you are the head, both by<lb/> length of service, talent &amp;c.
+                They require it their synagogue<lb/> discipline is exceedingly lax, and needs
+                restoration.</p>
+            <p rend="indent(1)">I am compelled to conclude abruptly as a vessel<lb/> is just about
+                to sail. My health is so bad that this letter has</p>
+            <p
+                rend="The letter continues written sideways over the previous text, at the left side of the page."/>
+            <p>been taken up 5 or 6 times to be completed. I enclose the corrected copy of the “Road
+                to faith”<lb/> and present it in my name to your publication society. <persName>Mrs.
+                    Nathan</persName> sends her love to you<lb/> and regards to all friends whom I
+                will name another time. Hoping that the Almighty<lb/> will give you health and
+                strength to discharge your ministerial duties during the<lb/> Holidays, and that
+                your prayers on behalf of your congregation and self may<lb/> be heard on high</p>
+            <p rend="indent(6)">I am</p>
+            <p rend="indent(7)">Yours Truly</p>
+            <p rend="indent(7)">
+                <persName role="author">MNNathan</persName>
+            </p>
+            <p>If you see my friend <persName>Vaz<add>?</add></persName> of
+                    <placeName>Jamaica</placeName>, tell him not to be angry for I will<lb/> write
+                him very soon. I hope he is well.</p>
+        </body>
+    </text>
 </TEI>

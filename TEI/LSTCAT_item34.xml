@@ -1,263 +1,385 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="yes">Nathan, M. N.</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>TCAT</repository>
-						<collection>Anonymous</collection>
-						<idno>LSTCAT_item34</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="yes">Nathan, M. N.</author>
-						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac</addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>Anytown, St. Thomas</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1864-07" source="" attested="yes">3 July 1864</dateLet>
-						<dateLet when="1864-07" source="" attested="yes">5624</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="il_tcat_item34_wk1_body0001.jpg"></graphic>
-								<graphic url="il_tcat_item34_wk1_body0002.jpg"></graphic>
-								<graphic url="il_tcat_item34_wk1_body0003.jpg"></graphic>
-								<graphic url="il_tcat_item34_wk1_body0004.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="false" paper_type="" size="">letter</material>
-								</support>
-								<extent>4 pages on 4 sheets
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="manuscript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="free">
-								<p>Unrestricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1"/>
-				<p rend="align(right)"><placeName>St. Thomas</placeName> <date>3<hi rend="sup">rd</hi> July 1864 &#40;5624&#41;</date></p>
-				<p><addressee>Revd. Isaac Leeser</addressee></p>
-			<p rend="indent(1)"><placeName>Philadelphia</placeName></p>
-			<p rend="indent(2)">My dear <addressee>Mr. Leeser</addressee></p>
-			<p rend="indent(4)">I am in receipt of your various favors<lb/> and also <date>June</date> Occident with my sermon on the &#8220;Citizen <persName>King</persName>.&#8221;  Your heading it<lb/> thus is no misnomer&#44; and is satisfactory.  It is very exactly reprinted&#44; and afforded&#44;<lb/> let me hope&#44; pleasure to your numerous readers.  I am glad you have spoken out plainly<lb/> on the subject of a &#8220;personal messiah.&#8221;  The events of the past&#44; and those looming out of the<lb/> future do not present anything so favorable to the Jewish mind that it should adopt the<lb/> opinions of <persName>Maunheimer</persName> and <persName>Horwitz</persName> on the subject.  I&#44; for one&#44; am undesirous of abandoning<lb/> the rich hopes of <placeName>Israel&#39;s</placeName> return to <placeName>Palestine</placeName>&#44; and the universal belief in monotheism among<lb/> the families of the earth&#44; together with the reign of absolute peace throughout the world&#44;<lb/> and all the priceless blessings attendant thereon&#44; for the vague ideas and generalities of<lb/> Jewish neologists.  I am for <add>Hebrew</add> content to die hopefully <add>Hebrew</add></p>
-			<p rend="indent(1)">What say you to the &#8220;Powenir<add>&#63;</add> party of <placeName>Cura&#231;ao</placeName> issuing their shameless caliency<add>&#63;</add><lb/> against their brethren&#33;  It is very painful to find Jews thus venting their spite&#44; in the<lb/> heat of local dissension&#44; to the detriment and perhaps future evil of all <placeName>Israel</placeName>.  I allude<lb/> to their publishing the libel that <add>Hebrew</add> is directed against Christians.  May the<lb/> consequences of disseminating this falsehood not recoil on themselves.  The pastoral<lb/> letter of <persName>Rabbi Chumaceiro</persName> you must have seen by this time&#44; as well as the &#8220;dingy<lb/> sheet&#8221; containing the slander.  You surely will not suffer your pen to be idle in this<lb/> emergency&#44; we all expect to see a scathing answer from you on the whole question.<lb/>  I had already in the pulpit exposed&#44; in part&#44; its other falsity&#59; and intend going on till the<lb/> subject be exhausted.  The head and front of the party was here a week ago&#44;<lb/> but I declined meeting him or extending him any courtesy.  I told his friends that</p>
-			<pb n="2"/>
-				<p><del>with</del> to his and party&#39;s views on the subject of synagogal and other reforms I would<lb/> not have attacked&#44; but when he and they issued a slanderous impretation<add>&#63;</add> against<lb/> their own flesh and blood&#44; it was time&#44; since it affected the reputations of every<lb/> individual Israelite&#44; that their ignorance and malevolence should be exposed.<lb/>  His name is <persName>Abraham Cohen Henriques</persName>.  His chief collaborators and his brother<lb/> <persName>Solomon Cohen Henriques</persName>&#44; his brother in law <persName>Augel Jessuron<add>&#63;</add></persName>&#44; a <persName>Doctor Henriques</persName><lb/> and a <persName>Doctor Senior</persName>.  These are the <add>Hebrew</add>.  <persName>A. C. H.</persName> writes in Dutch.  His<lb/> effusions are then translated into French by <persName>Dr. H</persName>&#44; and <persName>Augel Jessuron</persName> then<lb/> puts the precious ideas into Spanish.  But the filtration does not purify the<lb/> feculent matter which gutters<add>&#63;</add> from their pens.  It is said that <persName>A. C. H.</persName> came on<lb/> here on a speculative trip to obtain subscribers to the party&#44; and contributions to<lb/> their <del>new</del> proposed new Synagogue&#44; the worship in which is&#44; sans doute&#44; to eclipse&#44; in its bold<lb/> departure from the ancient standards of practice&#44; and that the German and<lb/> American Reformers have hitherto established.  I do not think he gained<lb/> either subscribers or subscriptions and as his attack on the Jews was<lb/> generally denounced in no unmeasured terms by even nominal Israelites&#44;<lb/> he could not have gone home rejoicing.</p>
-				<p>My post here is not an easy one&#44; but I am disposed to accept the<lb/> difficulties it presents.  Fortunately the By Laws which stipulate that<lb/> the worship shall be according to that followed by the Spa. &#38; Portug. Jews&#44; and<lb/> the power the Laws invest me with of directing and conducting the whole<lb/> economy of public worship&#44; <del>is</del> are obstacles to any sudden or ill considered<lb/> changes in the ritual or worship.  I can take my stand on these protecting<lb/> defenses&#44; and refuse to sanction what the majority of <placeName>Israel</placeName> disapproves of.  Quietness however reigns at present&#44; yet the time may not be so distant for<lb/> the outbreak of disturbances.  But I do not apprehend such violence as<lb/> the Porrenir<add>&#63;</add> party have exhibited.</p>
-			<p rend="indent(1)">We have had some little display of irreligion not withstanding.  Your old</p>
-			<pb n="3"/>
-				<p>correspondent <persName>M B. Simmonds</persName>&#44; now poor no longer&#44; but rich in worldly goods&#44;<lb/> has been staggered by <persName>Colenso</persName>&#44; and openly declares himself a <hi rend="underline">Unitarian</hi>&#33;&#33; <add>&#63;</add> his<lb/> disbelief in the Bible&#33;  On my election&#44; people were taxed more highly to pay my salary&#44; among<lb/> others himself.  To get rid of this demand of the Synagogue&#44; he applied to be admitted a<lb/> member of the Lutheran church&#59; the<del>y</del> authorities consented to take his money&#44; taxed him<lb/> &#36;32 <add>&#63;</add> allotted him a seat in  church &#38;c&#44; but the Govermt. told him he must<lb/> pay his finta<add>&#63;</add> to the Synagogue also&#44; unless he became a Christian.  Of course if <persName>Colenso</persName><lb/> unsettled his belief as a Jew&#44; he did not predispose him to to take up xleavity<add>&#63;</add><lb/> instead&#44; so at the present moment he contributed to Shool and Church&#44; and belongs<lb/> to neither.  Another German <persName>Shofel</persName> likewise refused to pay the whole of his<lb/> tax and sent a letter to the representatives that if they did not reduce it to half<lb/> he would <hi rend="underline">apostatise</hi>.  They sent him no answer&#44; but recorded a strong resolution<lb/> on their minutes condemnatory of his conduct.  He went to the Moravians&#44; and applied<lb/> to become a member&#59; but on being told that he must learn certain test books by<lb/> heart&#44; and he examined on them in open assembly prior to being <sic>baptised</sic>&#44; he withdrew in disgust.  So<lb/> you see I do not repose on a bed of roses</p>
-			<p rend="indent(1)">I <sic>inclose</sic> herewith the receipt of the Captn. of the Responsible<lb/> and your Invoice Amtg to &#36;78.50  The books have not come to hand&#44;<lb/> they must have been amongst that part of the cargo condemned and<lb/> sold at <placeName>Bermuda</placeName>.  I want the small Bibles and Roads to Faith<lb/> badly&#44; and Prayer Books too.  I wrote all about them in the<lb/> letter I gave my brother&#44; and which I suppose he has handed you.</p>
-			<p rend="indent(1)">Well the Great <persName>General Grant</persName> perhaps may not turn out<lb/> a <persName>Ulysses</persName> after all&#44; and the <placeName>south</placeName> <hi rend="underline">may yet conquer a peace</hi>.  I<lb/> fervently hope and pray they may&#44; and tho&#39; I would be <sic>loth</sic> to see any<lb/> part of the Federal territory ravaged and despoiled as the Union soldiery<lb/> treated the Confederate territory&#44; yet little commiseration would be felt<lb/> if northern soil were made to feel what it is to be trodden by the armed</p>
-			<pb n="4"/>
-				<p>heel of the invader.  Down to date the southerners appear to have<lb/> the best of it.  The deserve success&#44; for they have sacrificed their<lb/> own lives to achieve it&#44; and not hired mercenaries to fight their<lb/> battles.  My brother has frightful northern proclivities.  His opinion<lb/> of northern honor and political honesty is lofty and grand.  We<lb/> are widely different in our Estimate of the result&#44; and the<lb/> ability as well as inclination of the Federal states to pay the<lb/> public creditor.  I hope he will not be one of the sufferers&#59;<lb/> I have urged him till I am weary to sell out&#44; and have<lb/> nothing to do with Greenbacks and 5&#47;20s&#44; and on the finely<lb/> engraved promises to pay of <persName>Mr. Chase</persName>&#44; but all my entreaties<lb/> have been of no avail.</p>
-			<p rend="indent(1)">I will write you soon again.  I delivered your<lb/> message to <persName>Mr. Osorio</persName> about the &#163;14.  The <persName>Revd. Dr. Myers</persName> of<lb/> <placeName>Kingston Ja</placeName> has received notice that his services will not be<lb/> required after his term of engagement expires&#44; this time next year.<lb/>  <persName>Mrs. Nathan</persName> and her mother send their kind regards to you<lb/> and all old friends.  <persName>Mayor Wolff&#39;s</persName> golden wedding will<lb/> take place on <date>31<hi rend="sup">st</hi> August</date>&#44; Grand preparations are being made<lb/> for the event.  I will write you all about it when it comes<lb/> off.  <persName>Chamacero</persName> is coming over for the occasion.</p>
-			<p rend="indent(1)">God bless and protect you prays</p>
-			<p rend="indent(2)">yours sincerely</p>
-			<p rend="indent(3)"><persName role="author">M N Nathan</persName></p>
-				<p>The heat is dreadful.  It is really a great effort to write<lb/> a long letter&#44; and I am sure you will appreciate it.<lb/>  Tell my brother&#44; if with you&#44; that I will write soon<lb/> <add>Hebrew</add></p>
-		</body>
-	</text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="yes">Nathan, M. N.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>TCAT</repository>
+                        <collection>Anonymous</collection>
+                        <idno>LSTCAT_item34</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="yes">Nathan, M. N.</author>
+                        <addressee accepted="yes" attested="yes" editor="false">Leeser,
+                            Isaac</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Anytown, St. Thomas</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1864-07">3 July 1864</dateLet>
+                        <dateLet attested="yes" source="" when="1864-07">5624</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="il_tcat_item34_wk1_body0001.jpg"/>
+                                <graphic url="il_tcat_item34_wk1_body0002.jpg"/>
+                                <graphic url="il_tcat_item34_wk1_body0003.jpg"/>
+                                <graphic url="il_tcat_item34_wk1_body0004.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >letter</material>
+                                </support>
+                                <extent>4 pages on 4 sheets <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <p rend="align(right)">
+                <placeName>St. Thomas</placeName>
+                <date>3<hi rend="sup">rd</hi> July 1864 (5624)</date>
+            </p>
+            <p>
+                <addressee>Revd. Isaac Leeser</addressee>
+            </p>
+            <p rend="indent(1)">
+                <placeName>Philadelphia</placeName>
+            </p>
+            <p rend="indent(2)">My dear <addressee>Mr. Leeser</addressee></p>
+            <p rend="indent(4)">I am in receipt of your various favors<lb/> and also
+                    <date>June</date> Occident with my sermon on the “Citizen
+                    <persName>King</persName>.” Your heading it<lb/> thus is no misnomer, and is
+                satisfactory. It is very exactly reprinted, and afforded,<lb/> let me hope, pleasure
+                to your numerous readers. I am glad you have spoken out plainly<lb/> on the subject
+                of a “personal messiah.” The events of the past, and those looming out of the<lb/>
+                future do not present anything so favorable to the Jewish mind that it should adopt
+                the<lb/> opinions of <persName>Maunheimer</persName> and
+                    <persName>Horwitz</persName> on the subject. I, for one, am undesirous of
+                abandoning<lb/> the rich hopes of <placeName>Israel's</placeName> return to
+                    <placeName>Palestine</placeName>, and the universal belief in monotheism
+                among<lb/> the families of the earth, together with the reign of absolute peace
+                throughout the world,<lb/> and all the priceless blessings attendant thereon, for
+                the vague ideas and generalities of<lb/> Jewish neologists. I am for <add>לתורה
+                    ולתעודה</add> content to die hopefully <add>אף על פי לתמהיה</add></p>
+            <p rend="indent(1)">What say you to the “Powenir<add>?</add> party of
+                    <placeName>Curaçao</placeName> issuing their shameless caliency<add>?</add><lb/>
+                against their brethren! It is very painful to find Jews thus venting their spite, in
+                the<lb/> heat of local dissension, to the detriment and perhaps future evil of all
+                    <placeName>Israel</placeName>. I allude<lb/> to their publishing the libel that
+                    <add>ולמלשנים</add> is directed against Christians. May the<lb/> consequences of
+                disseminating this falsehood not recoil on themselves. The pastoral<lb/> letter of
+                    <persName>Rabbi Chumaceiro</persName> you must have seen by this time, as well
+                as the “dingy<lb/> sheet” containing the slander. You surely will not suffer your
+                pen to be idle in this<lb/> emergency, we all expect to see a scathing answer from
+                you on the whole question.<lb/> I had already in the pulpit exposed, in part, its
+                other falsity; and intend going on till the<lb/> subject be exhausted. The head and
+                front of the party was here a week ago,<lb/> but I declined meeting him or extending
+                him any courtesy. I told his friends that</p>
+            <pb n="2"/>
+            <p><del>with</del> to his and party's views on the subject of synagogal and other
+                reforms I would<lb/> not have attacked, but when he and they issued a slanderous
+                    impretation<add>?</add> against<lb/> their own flesh and blood, it was time,
+                since it affected the reputations of every<lb/> individual Israelite, that their
+                ignorance and malevolence should be exposed.<lb/> His name is <persName>Abraham
+                    Cohen Henriques</persName>. His chief collaborators and his brother<lb/>
+                <persName>Solomon Cohen Henriques</persName>, his brother in law <persName>Augel
+                        Jessuron<add>?</add></persName>, a <persName>Doctor
+                Henriques</persName><lb/> and a <persName>Doctor Senior</persName>. These are the
+                    <add>חמשה טובי עיר</add>. <persName>A. C. H.</persName> writes in Dutch.
+                His<lb/> effusions are then translated into French by <persName>Dr. H</persName>,
+                and <persName>Augel Jessuron</persName> then<lb/> puts the precious ideas into
+                Spanish. But the filtration does not purify the<lb/> feculent matter which
+                    gutters<add>?</add> from their pens. It is said that <persName>A. C.
+                    H.</persName> came on<lb/> here on a speculative trip to obtain subscribers to
+                the party, and contributions to<lb/> their <del>new</del> proposed new Synagogue,
+                the worship in which is, sans doute, to eclipse, in its bold<lb/> departure from the
+                ancient standards of practice, and that the German and<lb/> American Reformers have
+                hitherto established. I do not think he gained<lb/> either subscribers or
+                subscriptions and as his attack on the Jews was<lb/> generally denounced in no
+                unmeasured terms by even nominal Israelites,<lb/> he could not have gone home
+                rejoicing.</p>
+            <p>My post here is not an easy one, but I am disposed to accept the<lb/> difficulties it
+                presents. Fortunately the By Laws which stipulate that<lb/> the worship shall be
+                according to that followed by the Spa. &amp; Portug. Jews, and<lb/> the power the
+                Laws invest me with of directing and conducting the whole<lb/> economy of public
+                worship, <del>is</del> are obstacles to any sudden or ill considered<lb/> changes in
+                the ritual or worship. I can take my stand on these protecting<lb/> defenses, and
+                refuse to sanction what the majority of <placeName>Israel</placeName> disapproves
+                of. Quietness however reigns at present, yet the time may not be so distant for<lb/>
+                the outbreak of disturbances. But I do not apprehend such violence as<lb/> the
+                    Porrenir<add>?</add> party have exhibited.</p>
+            <p rend="indent(1)">We have had some little display of irreligion not withstanding. Your
+                old</p>
+            <pb n="3"/>
+            <p>correspondent <persName>M B. Simmonds</persName>, now poor no longer, but rich in
+                worldly goods,<lb/> has been staggered by <persName>Colenso</persName>, and openly
+                declares himself a <hi rend="underline">Unitarian</hi>!! <add>?</add> his<lb/>
+                disbelief in the Bible! On my election, people were taxed more highly to pay my
+                salary, among<lb/> others himself. To get rid of this demand of the Synagogue, he
+                applied to be admitted a<lb/> member of the Lutheran church; the<del>y</del>
+                authorities consented to take his money, taxed him<lb/> $32 <add>?</add> allotted
+                him a seat in church &amp;c, but the Govermt. told him he must<lb/> pay his
+                    finta<add>?</add> to the Synagogue also, unless he became a Christian. Of course
+                if <persName>Colenso</persName><lb/> unsettled his belief as a Jew, he did not
+                predispose him to to take up xleavity<add>?</add><lb/> instead, so at the present
+                moment he contributed to Shool and Church, and belongs<lb/> to neither. Another
+                German <persName>Shofel</persName> likewise refused to pay the whole of his<lb/> tax
+                and sent a letter to the representatives that if they did not reduce it to half<lb/>
+                he would <hi rend="underline">apostatise</hi>. They sent him no answer, but recorded
+                a strong resolution<lb/> on their minutes condemnatory of his conduct. He went to
+                the Moravians, and applied<lb/> to become a member; but on being told that he must
+                learn certain test books by<lb/> heart, and he examined on them in open assembly
+                prior to being <sic>baptised</sic>, he withdrew in disgust. So<lb/> you see I do not
+                repose on a bed of roses</p>
+            <p rend="indent(1)">I <sic>inclose</sic> herewith the receipt of the Captn. of the
+                Responsible<lb/> and your Invoice Amtg to $78.50 The books have not come to
+                hand,<lb/> they must have been amongst that part of the cargo condemned and<lb/>
+                sold at <placeName>Bermuda</placeName>. I want the small Bibles and Roads to
+                Faith<lb/> badly, and Prayer Books too. I wrote all about them in the<lb/> letter I
+                gave my brother, and which I suppose he has handed you.</p>
+            <p rend="indent(1)">Well the Great <persName>General Grant</persName> perhaps may not
+                turn out<lb/> a <persName>Ulysses</persName> after all, and the
+                    <placeName>south</placeName>
+                <hi rend="underline">may yet conquer a peace</hi>. I<lb/> fervently hope and pray
+                they may, and tho' I would be <sic>loth</sic> to see any<lb/> part of the Federal
+                territory ravaged and despoiled as the Union soldiery<lb/> treated the Confederate
+                territory, yet little commiseration would be felt<lb/> if northern soil were made to
+                feel what it is to be trodden by the armed</p>
+            <pb n="4"/>
+            <p>heel of the invader. Down to date the southerners appear to have<lb/> the best of it.
+                The deserve success, for they have sacrificed their<lb/> own lives to achieve it,
+                and not hired mercenaries to fight their<lb/> battles. My brother has frightful
+                northern proclivities. His opinion<lb/> of northern honor and political honesty is
+                lofty and grand. We<lb/> are widely different in our Estimate of the result, and
+                the<lb/> ability as well as inclination of the Federal states to pay the<lb/> public
+                creditor. I hope he will not be one of the sufferers;<lb/> I have urged him till I
+                am weary to sell out, and have<lb/> nothing to do with Greenbacks and 5/20s, and on
+                the finely<lb/> engraved promises to pay of <persName>Mr. Chase</persName>, but all
+                my entreaties<lb/> have been of no avail.</p>
+            <p rend="indent(1)">I will write you soon again. I delivered your<lb/> message to
+                    <persName>Mr. Osorio</persName> about the £14. The <persName>Revd. Dr.
+                    Myers</persName> of<lb/>
+                <placeName>Kingston Ja</placeName> has received notice that his services will not
+                be<lb/> required after his term of engagement expires, this time next year.<lb/>
+                <persName>Mrs. Nathan</persName> and her mother send their kind regards to you<lb/>
+                and all old friends. <persName>Mayor Wolff's</persName> golden wedding will<lb/>
+                take place on <date>31<hi rend="sup">st</hi> August</date>, Grand preparations are
+                being made<lb/> for the event. I will write you all about it when it comes<lb/> off.
+                    <persName>Chamacero</persName> is coming over for the occasion.</p>
+            <p rend="indent(1)">God bless and protect you prays</p>
+            <p rend="indent(2)">yours sincerely</p>
+            <p rend="indent(3)">
+                <persName role="author">M N Nathan</persName>
+            </p>
+            <p>The heat is dreadful. It is really a great effort to write<lb/> a long letter, and I
+                am sure you will appreciate it.<lb/> Tell my brother, if with you, that I will write soon<lb/>
+                <add>בברכה</add></p>
+        </body>
+    </text>
 </TEI>

@@ -1,254 +1,327 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
-      <fileDesc>
-        <titleStmt>
-          <title>[no title given]</title>
-          <author attested="yes" accepted="yes" signature="yes">Block, A.</author>
-          <editor></editor>
-          <sponsor></sponsor>
-          <funder></funder>
-          <principal></principal>
-          <respStmt>
-            <resp></resp>
-            <name></name>
-          </respStmt>
-        </titleStmt>
-        <editionStmt>
-          <edition></edition>
-          <respStmt>
-            <resp></resp>
-            <name></name>
-          </respStmt>
-        </editionStmt>
-        <extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-        <publicationStmt>
-          <publisher>Unpublished manuscript</publisher>
-        </publicationStmt>
-        <seriesStmt>
-          <p>Not part of a series</p>
-        </seriesStmt>
-        <notesStmt>
-          <note></note>
-        </notesStmt>
-        <sourceDesc>
-          <biblStruct>
-            <!-- catalog entry goes here -->
-            <monogr>
-              <imprint>
-                <dateLet></dateLet>
-              </imprint>
-            </monogr>
-          </biblStruct>
-          <msDesc>
-            <msIdentifier>
-              <country>USA</country>
-              <region>PA</region>
-              <settlement>Philadelphia</settlement>
-              <institution></institution>
-              <repository>CAJS Isaac Leeser Collection</repository>
-              <collection>The Library of the Dropsie College for Hebrew and Cognate Learning</collection>
-              <idno>LSDCBx1FF5_8</idno>
-              <altIdentifier>
-                <idno></idno>
-              </altIdentifier>
-              <msName></msName>
-            </msIdentifier>
-            <head></head>
-            <letHeading>
-              <author attested="yes" accepted="yes" signature="yes">Block, A.</author>
-              <addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac, Rev.</addressee>
-              <deliverer></deliverer>
-              <respStmt>
-                <resp></resp>
-                <name></name>
-              </respStmt>
-              <placeLet>Baltimore, MD</placeLet>
-              <placeRec>Philadelphia, PA</placeRec>
-              <dateLet when="1848-01" source="" attested="yes">23 January 1848</dateLet>
-            </letHeading>
-            <msContents>
-              <msItem>
-                <author></author>
-                <editor></editor>
-                <respStmt>
-                  <resp></resp>
-                  <name></name>
-                </respStmt>
-                <title></title>
-                <decoNote></decoNote>
-                <listBibl>
-                  <bibl></bibl>
-                </listBibl>
-                <filiation></filiation>
-                <textLang></textLang>
-                <figure>
-                  <graphic url="ilcajs_b1f5_0007_1r.jpg"/>
-                  <graphic url="ilcajs_b1f5_0007_1v.jpg"/>
-                  <graphic url="ilcajs_b1f5_0007_2v.jpg"/>
-                </figure>
-              </msItem>
-            </msContents>
-            <physDesc>
-              <objectDesc>
-                <supportDesc>
-                  <support>
-                    <material color="" lined="false" paper_type="" size="Letter">letter</material>
-                  </support>
-                  <extent>3 pages on 1 sheet
-                    <dimensions></dimensions>
-                  </extent>
-                  <foliation></foliation>
-                  <collation></collation>
-                  <condition fragment="false"></condition>
-                </supportDesc>
-                <layoutDesc>
-                  <layout></layout>
-                </layoutDesc>
-              </objectDesc>
-              <handDesc script="manuscript">
-                  <handNote></handNote>
-              </handDesc>
-              <decoDesc>
-                <decoNote></decoNote>
-              </decoDesc>
-              <additions></additions>
-              <bindingDesc>
-                <binding>
-                  <decoNote></decoNote>
-                </binding>
-              </bindingDesc>
-              <sealDesc>
-                <seal>
-                  <p>Wax seal</p>
-                </seal>
-              </sealDesc>
-              <accMat></accMat>
-              <envDesc occ="false"></envDesc>
-            </physDesc>
-            <history>
-              <origin></origin>
-              <provenance></provenance>
-              <acquisition></acquisition>
-            </history>
-            <additional>
-              <adminInfo>
-                <recordHist>
-                  <source></source>
-                  <change></change>
-                </recordHist>
-                <availability status="free">
-                  <p>Unrestricted</p>
-                </availability>
-                <custodialHist>
-                  <custEvent></custEvent>
-                </custodialHist>
-              </adminInfo>
-              <surrogates></surrogates>
-              <listBibl>
-                <bibl></bibl>
-              </listBibl>
-            </additional>
-            <msPart>
-              <altIdentifier>
-                <idno></idno>
-              </altIdentifier>
-            </msPart>
-          </msDesc>
-        </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-        <projectDesc>
-          <p></p>
-        </projectDesc>
-        <samplingDecl>
-          <p></p>
-        </samplingDecl>
-        <editorialDecl>
-          <correction>
-            <p></p>
-          </correction>
-          <normalization>
-            <p></p>
-          </normalization>
-          <quotation>
-            <p></p>
-          </quotation>
-          <hyphenation>
-            <p></p>
-          </hyphenation>
-          <segmentation>
-            <p></p>
-          </segmentation>
-          <stdVals>
-            <p></p>
-          </stdVals>
-          <interpretation>
-            <p></p>
-          </interpretation>
-        </editorialDecl>
-        <tagsDecl>
-          <rendition></rendition>
-          <namespace name="http://www.tei-c.org/ns/1.0">
-            <tagUsage gi=""></tagUsage>
-          </namespace>
-        </tagsDecl>
-        <refsDecl>
-          <cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-        </refsDecl>
-        <refsDecl>
-          <refState unit=""/>
-        </refsDecl>
-        <classDecl>
-          <taxonomy>
-            <category>
-              <catDesc></catDesc>
-            </category>
-          </taxonomy>
-        </classDecl>
-        <appInfo>
-          <application ident="" version="">
-            <desc></desc>
-            <label></label>
-          </application>
-        </appInfo>
-      </encodingDesc>
-      <profileDesc>
-        <creation></creation>
-        <langUsage>
-          <language ident="en">English</language>
-        </langUsage>
-        <textClass>
-          <keywords scheme="unknown">
-            <list>
-              <item></item>
-              <item></item>
-            </list>
-          </keywords>
-          <classCode scheme=""></classCode>
-          <catRef/>
-        </textClass>
-      </profileDesc>
-      <revisionDesc>
-        <change></change>
-      </revisionDesc>
-    </teiHeader>
-    <text>
-        <body>
-      
-		<pb n="1"/>
-          <p rend="align(center)"><placeName>Baltimore</placeName> <date>January 23<hi rend="sup">rd</hi> 1848</date></p>
-          <p>Dear Friend <addressee>Isaac&#59;</addressee></p>
-          <p rend="indent(2)">&#39;tis a very long time since I have written<lb/> to you&#44; and you care very little about it I dare say for the<lb/> letters of an old married woman possess very little<lb/> interest to young unmarried <hi rend="underline">gents</hi>&#44; however full of human<lb/> frailty and the vanity all predominant in woman I<lb/> for truth send you another one of my scrawls&#44; but fear me<lb/> &#39;twill meet the same treatment as the last&#8212;in the first<lb/> place my rapience<add>&#63;</add>&#44; I imagine you are unlike those sun&#45;<lb/>shine friends which sheds a &#39;lustre on our way when we are<lb/> prosperous and adds to the darkness when adversity<lb/> surrounds us&#8212;therefore I am induced to make known our<lb/> deplorable situation&#8212;you know my husband is striving in<lb/> <placeName>New York</placeName> to get up a school&#44; and that he has met with<lb/> little encouragement&#44; ten scholars is all he has not enough<lb/> to pay his expenses there&#44; and I am left with my family<lb/> without the means of support&#44; I have wished and tried<lb/> to procure some boarders but I cannot hear of any who<lb/> care about <sic>cosher</sic> living and as to christians I fear<lb/> they would not be satisfied with our mode of living now<lb/> I wish you to tell me <hi rend="underline">candidly</hi> what you think will<lb/> be the result of <persName>Eleaser&#39;s</persName> undertaking is there a prospect<lb/> of an increase from any other quarter than the people<lb/> of <placeName>New York</placeName>&#44; all such matters take time but unfortunately<lb/> we are so poor that time cannot be spared in an&#45;<lb/>ticipation. I think perhaps were he to ask less price</p>
-		<pb n="2"/>
-          <p>for younger children he might do better&#95;do dear <persName>Isaac</persName><lb/> interest yourself for us and if you think there is a better<lb/> opening in your city or elsewhere let us know and if<lb/> a boarding house would succeed in either place. I cannot but believe that our merciful Father will not<lb/> suffer those to want who so <sic>confidantly</sic> depend in<lb/> his mercy to relieve their necessities and actively strive<lb/> with all their energies to live&#8212;I regret my inability<lb/> at present to pay you for those two prayer books&#44; but<lb/> hope to do so at some future day&#44; and also that I<lb/> cannot afford to be any longer a subscriber to the<lb/> publication society&#8212;when I can renew it I will let you<lb/> know&#8212;should any one come this way who wishes to<lb/> live <sic>cosher</sic> whilst <sic>her</sic> I <sic>shold</sic> be glad to have them<lb/> stop with us&#8212;your Cousin <persName>Myer</persName> reports he was engaged<lb/> to me and that I am his Cousin&#44; so of course am yours<lb/> he has quite a pretty daughter I am told&#8212;I need not<lb/> <sic>as</sic> you not to expose the contents of this as I well<lb/> know you will only do that which will be right&#8212;</p>
-          <p rend="indent(1)">God bless and send you better health and better<lb/> fortune than your poor friend</p>
-          <p rend="indent(11)"><persName role="author">A. Block</persName></p>
-          <p rend="indent(1)">remembrance to all friends&#8212;love <sic>&#8220;</sic>to my Aunt<lb/> <persName>Mark&#39;s</persName> and A new house and offer my congratulations<lb/> to them&#8212;I just recollected that I told <persName>Rosalie</persName><lb/> to pay you for those books did she do<lb/> so&#63;</p>
-     <pb n="3"/>
-          <p><addressee>Revd. Isaac Leeser</addressee></p>
-          <p rend="indent(1)"><placeName>Philadelphia</placeName></p>
-          <p rend="indent(1)"><placeName>P<hi rend="underline">a</hi></placeName></p>
-        
-         </body>
-    </text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+          <teiHeader>
+
+                    <fileDesc>
+                              <titleStmt>
+                                        <title>[no title given]</title>
+                                        <author accepted="yes" attested="yes" signature="yes">Block,
+                                                  A.</author>
+                                        <editor/>
+                                        <sponsor/>
+                                        <funder/>
+                                        <principal/>
+                                        <respStmt>
+                                                  <resp/>
+                                                  <name/>
+                                        </respStmt>
+                              </titleStmt>
+                              <editionStmt>
+                                        <edition/>
+                                        <respStmt>
+                                                  <resp/>
+                                                  <name/>
+                                        </respStmt>
+                              </editionStmt>
+                              <extent>[information about file size goes here, information about
+                                        extent of physical item comes later]</extent>
+                              <publicationStmt>
+                                        <publisher>Unpublished manuscript</publisher>
+                              </publicationStmt>
+                              <seriesStmt>
+                                        <p>Not part of a series</p>
+                              </seriesStmt>
+                              <notesStmt>
+                                        <note/>
+                              </notesStmt>
+                              <sourceDesc>
+                                        <biblStruct>
+                                                  <!-- catalog entry goes here -->
+                                                  <monogr>
+                                                  <imprint>
+                                                  <dateLet/>
+                                                  </imprint>
+                                                  </monogr>
+                                        </biblStruct>
+                                        <msDesc>
+                                                  <msIdentifier>
+                                                  <country>USA</country>
+                                                  <region>PA</region>
+                                                  <settlement>Philadelphia</settlement>
+                                                  <institution/>
+                                                  <repository>CAJS Isaac Leeser
+                                                  Collection</repository>
+                                                  <collection>The Library of the Dropsie College for
+                                                  Hebrew and Cognate Learning</collection>
+                                                  <idno>LSDCBx1FF5_8</idno>
+                                                  <altIdentifier>
+                                                  <idno/>
+                                                  </altIdentifier>
+                                                  <msName/>
+                                                  </msIdentifier>
+                                                  <head/>
+                                                  <letHeading>
+                                                  <author accepted="yes" attested="yes"
+                                                  signature="yes">Block, A.</author>
+                                                  <addressee accepted="yes" attested="yes"
+                                                  editor="false">Leeser, Isaac, Rev.</addressee>
+                                                  <deliverer/>
+                                                  <respStmt>
+                                                  <resp/>
+                                                  <name/>
+                                                  </respStmt>
+                                                  <placeLet>Baltimore, MD</placeLet>
+                                                  <placeRec>Philadelphia, PA</placeRec>
+                                                  <dateLet attested="yes" source="" when="1848-01"
+                                                  >23 January 1848</dateLet>
+                                                  </letHeading>
+                                                  <msContents>
+                                                  <msItem>
+                                                  <author/>
+                                                  <editor/>
+                                                  <respStmt>
+                                                  <resp/>
+                                                  <name/>
+                                                  </respStmt>
+                                                  <title/>
+                                                  <decoNote/>
+                                                  <listBibl>
+                                                  <bibl/>
+                                                  </listBibl>
+                                                  <filiation/>
+                                                  <textLang/>
+                                                  <figure>
+                                                  <graphic url="ilcajs_b1f5_0007_1r.jpg"/>
+                                                  <graphic url="ilcajs_b1f5_0007_1v.jpg"/>
+                                                  <graphic url="ilcajs_b1f5_0007_2v.jpg"/>
+                                                  </figure>
+                                                  </msItem>
+                                                  </msContents>
+                                                  <physDesc>
+                                                  <objectDesc>
+                                                  <supportDesc>
+                                                  <support>
+                                                  <material color="" lined="false" paper_type=""
+                                                  size="Letter">letter</material>
+                                                  </support>
+                                                  <extent>3 pages on 1 sheet <dimensions/>
+                                                  </extent>
+                                                  <foliation/>
+                                                  <collation/>
+                                                  <condition fragment="false"/>
+                                                  </supportDesc>
+                                                  <layoutDesc>
+                                                  <layout/>
+                                                  </layoutDesc>
+                                                  </objectDesc>
+                                                  <handDesc script="manuscript">
+                                                  <handNote/>
+                                                  </handDesc>
+                                                  <decoDesc>
+                                                  <decoNote/>
+                                                  </decoDesc>
+                                                  <additions/>
+                                                  <bindingDesc>
+                                                  <binding>
+                                                  <decoNote/>
+                                                  </binding>
+                                                  </bindingDesc>
+                                                  <sealDesc>
+                                                  <seal>
+                                                  <p>Wax seal</p>
+                                                  </seal>
+                                                  </sealDesc>
+                                                  <accMat/>
+                                                  <envDesc occ="false"/>
+                                                  </physDesc>
+                                                  <history>
+                                                  <origin/>
+                                                  <provenance/>
+                                                  <acquisition/>
+                                                  </history>
+                                                  <additional>
+                                                  <adminInfo>
+                                                  <recordHist>
+                                                  <source/>
+                                                  <change/>
+                                                  </recordHist>
+                                                  <availability status="free">
+                                                  <p>Unrestricted</p>
+                                                  </availability>
+                                                  <custodialHist>
+                                                  <custEvent/>
+                                                  </custodialHist>
+                                                  </adminInfo>
+                                                  <surrogates/>
+                                                  <listBibl>
+                                                  <bibl/>
+                                                  </listBibl>
+                                                  </additional>
+                                                  <msPart>
+                                                  <altIdentifier>
+                                                  <idno/>
+                                                  </altIdentifier>
+                                                  </msPart>
+                                        </msDesc>
+                              </sourceDesc>
+                    </fileDesc>
+                    <encodingDesc>
+                              <projectDesc>
+                                        <p/>
+                              </projectDesc>
+                              <samplingDecl>
+                                        <p/>
+                              </samplingDecl>
+                              <editorialDecl>
+                                        <correction>
+                                                  <p/>
+                                        </correction>
+                                        <normalization>
+                                                  <p/>
+                                        </normalization>
+                                        <quotation>
+                                                  <p/>
+                                        </quotation>
+                                        <hyphenation>
+                                                  <p/>
+                                        </hyphenation>
+                                        <segmentation>
+                                                  <p/>
+                                        </segmentation>
+                                        <stdVals>
+                                                  <p/>
+                                        </stdVals>
+                                        <interpretation>
+                                                  <p/>
+                                        </interpretation>
+                              </editorialDecl>
+                              <tagsDecl>
+                                        <rendition/>
+                                        <namespace name="http://www.tei-c.org/ns/1.0">
+                                                  <tagUsage gi=""/>
+                                        </namespace>
+                              </tagsDecl>
+                              <refsDecl>
+                                        <cRefPattern matchPattern="" replacementPattern=""/>
+                              </refsDecl>
+                              <refsDecl>
+                                        <refState unit=""/>
+                              </refsDecl>
+                              <classDecl>
+                                        <taxonomy>
+                                                  <category>
+                                                  <catDesc/>
+                                                  </category>
+                                        </taxonomy>
+                              </classDecl>
+                              <appInfo>
+                                        <application ident="" version="">
+                                                  <desc/>
+                                                  <label/>
+                                        </application>
+                              </appInfo>
+                    </encodingDesc>
+                    <profileDesc>
+                              <creation/>
+                              <langUsage>
+                                        <language ident="en">English</language>
+                              </langUsage>
+                              <textClass>
+                                        <keywords scheme="unknown">
+                                                  <list>
+                                                  <item/>
+                                                  <item/>
+                                                  </list>
+                                        </keywords>
+                                        <classCode scheme=""/>
+                                        <catRef/>
+                              </textClass>
+                    </profileDesc>
+                    <revisionDesc>
+                              <change/>
+                    </revisionDesc>
+          </teiHeader>
+          <text>
+                    <body>
+                              <pb n="1"/>
+                              <p rend="align(center)">
+                                        <placeName>Baltimore</placeName>
+                                        <date>January 23<hi rend="sup">rd</hi> 1848</date>
+                              </p>
+                              <p>Dear Friend <addressee>Isaac;</addressee></p>
+                              <p rend="indent(2)">'tis a very long time since I have written<lb/> to
+                                        you, and you care very little about it I dare say for
+                                        the<lb/> letters of an old married woman possess very
+                                        little<lb/> interest to young unmarried <hi rend="underline"
+                                                  >gents</hi>, however full of human<lb/> frailty
+                                        and the vanity all predominant in woman I<lb/> for truth
+                                        send you another one of my scrawls, but fear me<lb/> 'twill
+                                        meet the same treatment as the last—in the first<lb/> place
+                                        my rapience<add>?</add>, I imagine you are unlike those
+                                        sun-<lb/>shine friends which sheds a 'lustre on our way when
+                                        we are<lb/> prosperous and adds to the darkness when
+                                        adversity<lb/> surrounds us—therefore I am induced to make
+                                        known our<lb/> deplorable situation—you know my husband is
+                                        striving in<lb/>
+                                        <placeName>New York</placeName> to get up a school, and that
+                                        he has met with<lb/> little encouragement, ten scholars is
+                                        all he has not enough<lb/> to pay his expenses there, and I
+                                        am left with my family<lb/> without the means of support, I
+                                        have wished and tried<lb/> to procure some boarders but I
+                                        cannot hear of any who<lb/> care about <sic>cosher</sic>
+                                        living and as to christians I fear<lb/> they would not be
+                                        satisfied with our mode of living now<lb/> I wish you to
+                                        tell me <hi rend="underline">candidly</hi> what you think
+                                        will<lb/> be the result of <persName>Eleaser's</persName>
+                                        undertaking is there a prospect<lb/> of an increase from any
+                                        other quarter than the people<lb/> of <placeName>New
+                                                  York</placeName>, all such matters take time but
+                                        unfortunately<lb/> we are so poor that time cannot be spared
+                                        in an-<lb/>ticipation. I think perhaps were he to ask less
+                                        price</p>
+                              <pb n="2"/>
+                              <p>for younger children he might do better_do dear
+                                                  <persName>Isaac</persName><lb/> interest yourself
+                                        for us and if you think there is a better<lb/> opening in
+                                        your city or elsewhere let us know and if<lb/> a boarding
+                                        house would succeed in either place. I cannot but believe
+                                        that our merciful Father will not<lb/> suffer those to want
+                                        who so <sic>confidantly</sic> depend in<lb/> his mercy to
+                                        relieve their necessities and actively strive<lb/> with all
+                                        their energies to live—I regret my inability<lb/> at present
+                                        to pay you for those two prayer books, but<lb/> hope to do
+                                        so at some future day, and also that I<lb/> cannot afford to
+                                        be any longer a subscriber to the<lb/> publication
+                                        society—when I can renew it I will let you<lb/> know—should
+                                        any one come this way who wishes to<lb/> live
+                                                  <sic>cosher</sic> whilst <sic>her</sic> I
+                                                  <sic>shold</sic> be glad to have them<lb/> stop
+                                        with us—your Cousin <persName>Myer</persName> reports he was
+                                        engaged<lb/> to me and that I am his Cousin, so of course am
+                                        yours<lb/> he has quite a pretty daughter I am told—I need not<lb/>
+                                        <sic>as</sic> you not to expose the contents of this as I
+                                        well<lb/> know you will only do that which will be
+                                        right—</p>
+                              <p rend="indent(1)">God bless and send you better health and
+                                        better<lb/> fortune than your poor friend</p>
+                              <p rend="indent(11)">
+                                        <persName role="author">A. Block</persName>
+                              </p>
+                              <p rend="indent(1)">remembrance to all friends—love <sic>“</sic>to my Aunt<lb/>
+                                        <persName>Mark's</persName> and A new house and offer my
+                                        congratulations<lb/> to them—I just recollected that I told
+                                                  <persName>Rosalie</persName><lb/> to pay you for
+                                        those books did she do<lb/> so?</p>
+                              <pb n="3"/>
+                              <p>
+                                        <addressee>Revd. Isaac Leeser</addressee>
+                              </p>
+                              <p rend="indent(1)">
+                                        <placeName>Philadelphia</placeName>
+                              </p>
+                              <p rend="indent(1)">
+                                        <placeName>P<hi rend="underline">a</hi></placeName>
+                              </p>
+                    </body>
+          </text>
 </TEI>

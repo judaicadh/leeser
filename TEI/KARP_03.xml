@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
         <fileDesc>
             <titleStmt>
                 <title>[no title given]</title>
-                <author attested="yes" accepted="yes" signature="yes">Sulzberger, Mayer</author>
+                <author accepted="yes" attested="yes" signature="yes">Sulzberger, Mayer</author>
                 <editor/>
                 <sponsor/>
                 <funder/>
@@ -47,7 +49,9 @@
                         <settlement>New York</settlement>
                         <institution>Jewish Theological Seminary</institution>
                         <repository/>
-                        <collection>The Abraham and Deborah Karp Collection of Early American Judaica at the Library of the Jewish Theological Seminary of America</collection>
+                        <collection>The Abraham and Deborah Karp Collection of Early American
+                            Judaica at the Library of the Jewish Theological Seminary of
+                            America</collection>
                         <idno/>
                         <altIdentifier>
                             <idno/>
@@ -56,9 +60,9 @@
                     </msIdentifier>
                     <head/>
                     <letHeading>
-                        <author attested="yes" accepted="yes" signature="yes">Sulzberger,
+                        <author accepted="yes" attested="yes" signature="yes">Sulzberger,
                             Mayer</author>
-                        <addressee editor="false" attested="no" accepted="no"/>
+                        <addressee accepted="no" attested="no" editor="false"/>
                         <deliverer/>
                         <respStmt>
                             <resp/>
@@ -66,7 +70,7 @@
                         </respStmt>
                         <placeLet>Philadelphia, PA</placeLet>
                         <placeRec/>
-                        <dateLet when="1887-05" source="" attested="yes">09 May 1887</dateLet>
+                        <dateLet attested="yes" source="" when="1887-05">09 May 1887</dateLet>
                     </letHeading>
                     <msContents>
                         <msItem>
@@ -92,7 +96,8 @@
                         <objectDesc>
                             <supportDesc>
                                 <support>
-                                    <material color="" lined="false" paper_type="" size="Letter">letter</material>
+                                    <material color="" lined="false" paper_type="" size="Letter"
+                                        >letter</material>
                                 </support>
                                 <extent>1 page on 1 sheet <dimensions/>
                                 </extent>
@@ -233,13 +238,11 @@
     </teiHeader>
     <text>
         <body>
-
             <pb n="1"/>
-
             <p>This copy from an edition of the<lb/> book in the <persName>Leeser</persName> Library
                 was<lb/> commenced by <persName>Abraham Sulzberger</persName><lb/> on <date>October
-                        12<hi rend="sup">th</hi> 1886</date>&#44; he being then<lb/> very ill&#44;
-                feeble and despondent&#44;<lb/> but from time to time he wrote portions<lb/> until
+                        12<hi rend="sup">th</hi> 1886</date>, he being then<lb/> very ill, feeble
+                and despondent,<lb/> but from time to time he wrote portions<lb/> until
                     <date>December 15<hi rend="sup">th</hi> 1886</date> when he was<lb/> no longer
                 able. Having retired on<lb/> the night of <date>December 16<hi rend="sup"
                     >th</hi></date> he was<lb/> unable to rise the next morning and<lb/> never again
@@ -247,7 +250,6 @@
                         rend="sup">th</hi> 1886</date> at 10.12 am.<lb/>
                 <persName role="author">Mayer Sulzberger</persName><lb/>
                 <date>May 9. 1887</date>. </p>
-
         </body>
     </text>
 </TEI>

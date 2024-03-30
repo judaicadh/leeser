@@ -1,271 +1,335 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="yes">Emanuel, [?]</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>LSKAP</repository>
-						<collection>The Arnold and Deanne Kaplan Collection of Early American Judaica</collection>
-						<idno>LSKAP0009</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="yes">Emanuel, [?]</author>
-						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac</addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>San Francisco, CA</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1854-03" source="" attested="yes">March 16, 1854</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="LSKAP0009_1R.jpg"></graphic>
-								<graphic url="LSKAP0009_1V.jpg"></graphic>
-								<graphic url="LSKAP0009_2R.jpg"></graphic>
-								<graphic url="LSKAP0009_2V.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="false" paper_type="" size="">letter</material>
-								</support>
-								<extent>4 pages on 2 sheets
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="manuscript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="restricted">
-								<p>Restricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1R"/>
-				<p rend="align(right)"><placeName>San Francisco</placeName> <date>March 16&#44; &#39;54</date></p>
-				<p>Reverend Sir</p>
-			<p rend="indent(2)">We address you upon a<lb/> subject&#44; the selection of a minister for<lb/> the German Congregation of <placeName>San Francisco</placeName><lb/> upon which&#44; we desire to elicit your<lb/> assistance as the superior advantages<lb/> acquired by your position places you<lb/> within reach of all the attendant facts of<lb/> any importance.</p>
-			<p rend="indent(2)">We send you an advertise&#45;<lb/>ment for insertion &#38; take the Liberty<lb/> of referring <add>to</add> you which you can omit<lb/> in the columns of your Occident if you<lb/> deem we have no right to intrude upon<lb/> your privacy &#38; claim your assistance in<lb/> our cause&#8212;</p>
-			<p rend="indent(2)">Its tone <del>much</del> will inform you<lb/> generally of our want but particularly<lb/> bear in mind we are a young&#44; an honest<lb/> energetic&#44; frank <add>congregation</add> &#38; <add>we</add> <del>I</del> might add somewhat<lb/> tinctured of the moderate reforms of the age<lb/> &#38; desire to select a minister compatible<lb/> with these views.  With these ideas we<lb/> offered the <persName>Revd J K Gutheim</persName> this position<lb/> but circumstances well known to you<lb/> prevented his acceptance.  He would<lb/> be a true model of what we desire to obtain</p>
-			<pb n="1V"/>
-				<p>We write these facts &#38; others as a committee<lb/> appointed for that purpose to correspond<lb/> with you &#38; you may use such as in<lb/> your judgment&#44; you deem proper for an<lb/> Editorial notice on the subject.</p>
-			<p rend="indent(1)">We are far removed from the seat<lb/> of similar applications with a lazy &#38; uncertain communication between us &#38;<lb/> necessarily must leave the matter in<lb/> the hands of some one who like yourself<lb/> well understands our want &#38; can refer<lb/> us some excellent person&#8212;</p>
-			<p rend="indent(1)">We do not want an old man if<lb/> we can avoid it&#44; for we conceive that<lb/> there will not be the Harmony existing as<lb/> between congregation &#38; a young minister<lb/> of about 35 years of age&#44; whose youth will<lb/> blend him to the errors of his young flock.</p>
-			<p rend="indent(1)">Should the minister please us<lb/> he will undoubtedly be elected for life<lb/> as soon as his first term expires&#44; we<lb/> want an English Scholar by all<lb/> means&#44; but one conversant with German<lb/> also will suit us better&#8212;</p>
-			<p rend="indent(1)">The people here are very liberal<lb/> &#38; have contributed in a fortnight about<lb/> &#36;20&#44;000 to erect a brick synagogue on</p>
-			<pb n="2R"/>
-				<p>a lot in one of our principal <sic>street</sic><lb/> in size 65 ft x 137<hi rend="underline">6</hi> feet.</p>
-			<p rend="indent(1)">We have about two Hundred families<lb/> one half of whom belong to our synagogue<lb/> &#38; many <hi rend="underline">promising</hi> young men who will<lb/> do much to increase the community.<lb/>  There are about 50 children &#38; a number<lb/> of them who would attend school in the<lb/> basement of the proposed synagogue&#8212;</p>
-			<p rend="indent(1)">Our attendants are many at divine<lb/> service&#44; considering our officiating Hazon<lb/> &#38; we never have less than 25 or 30 present.</p>
-			<p rend="indent(1)">The building is to be a handsome<lb/> Gothic brick structure &#38; to be paid for<lb/> fully out of our funds so that we may<lb/> have it unencumbered&#8212;</p>
-			<p rend="indent(1)">We have again of members to our<lb/> synagogue of about 33 per cent in the<lb/> last six months &#38; now number about<lb/> 100 contributing members.</p>
-			<p rend="indent(1)">A minister would be necessarily<lb/> exposed to heavy expenses &#38; could not<lb/> possibly subsist upon less than &#36;40<lb/> a week&#44; were he to supply himself<lb/> amply with necessaries.  Of course<lb/> he could curtail these expenses but<lb/> it would not suit the people to have<lb/> a penurious minister.</p>
-			<pb n="2V"/>
-				<p>The perquisites are &#36;10 for a marriage of<lb/> which he might reckon upon <hi rend="underline">2</hi> a month<lb/> at least.  For school children &#38;c in<lb/> proportion &#38; when teaching the Parassah &#38;c.</p>
-			<p rend="indent(1)">Will you please inform us very<lb/> privately concerning the applicants as<lb/> to their abilities&#44; qualifications characters<lb/> &#38; should you wish your name kept<lb/> secret in the correspondence we shall<lb/> do so.  Let us hear from you if you<lb/> desire any further information in the<lb/> subject &#38; we will forthwith furnish it.</p>
-			<p rend="indent(1)">We will pay the expenses here<lb/> of any minister recommended by you<lb/> as fully competent &#38; extremely praise<lb/> worthy&#44; in case he should be elected<lb/> to the probationary term by the congregation</p>
-			<p rend="indent(1)">We have the Honor to be</p>
-			<p rend="indent(2)">Yrs <sic>Every</sic> Respy.</p>
-			<p rend="indent(3)"><persName role="author"><add>&#63;</add> Emanuel</persName></p>
-			<p rend="indent(4)"><persName><add>&#63;</add> Labatt</persName></p>
-			<p rend="indent(4)"><persName>Ann</persName></p>
-				<p>To the Reverend</p>
-			<p rend="indent(1)"><addressee>Isaac Leeser</addressee></p>
-			<p rend="indent(1)"><placeName>Philadelphia</placeName></p>
-		</body>
-	</text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="yes">Emanuel, [?]</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>LSKAP</repository>
+                        <collection>The Arnold and Deanne Kaplan Collection of Early American
+                            Judaica</collection>
+                        <idno>LSKAP0009</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="yes">Emanuel, [?]</author>
+                        <addressee accepted="yes" attested="yes" editor="false">Leeser,
+                            Isaac</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>San Francisco, CA</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1854-03">March 16, 1854</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="LSKAP0009_1R.jpg"/>
+                                <graphic url="LSKAP0009_1V.jpg"/>
+                                <graphic url="LSKAP0009_2R.jpg"/>
+                                <graphic url="LSKAP0009_2V.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >letter</material>
+                                </support>
+                                <extent>4 pages on 2 sheets <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="restricted">
+                                <p>Restricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1R"/>
+            <p rend="align(right)">
+                <placeName>San Francisco</placeName>
+                <date>March 16, '54</date>
+            </p>
+            <p>Reverend Sir</p>
+            <p rend="indent(2)">We address you upon a<lb/> subject, the selection of a minister
+                for<lb/> the German Congregation of <placeName>San Francisco</placeName><lb/> upon
+                which, we desire to elicit your<lb/> assistance as the superior advantages<lb/>
+                acquired by your position places you<lb/> within reach of all the attendant facts
+                of<lb/> any importance.</p>
+            <p rend="indent(2)">We send you an advertise-<lb/>ment for insertion &amp; take the
+                Liberty<lb/> of referring <add>to</add> you which you can omit<lb/> in the columns
+                of your Occident if you<lb/> deem we have no right to intrude upon<lb/> your privacy
+                &amp; claim your assistance in<lb/> our cause—</p>
+            <p rend="indent(2)">Its tone <del>much</del> will inform you<lb/> generally of our want
+                but particularly<lb/> bear in mind we are a young, an honest<lb/> energetic, frank
+                    <add>congregation</add> &amp; <add>we</add>
+                <del>I</del> might add somewhat<lb/> tinctured of the moderate reforms of the
+                age<lb/> &amp; desire to select a minister compatible<lb/> with these views. With
+                these ideas we<lb/> offered the <persName>Revd J K Gutheim</persName> this
+                position<lb/> but circumstances well known to you<lb/> prevented his acceptance. He
+                would<lb/> be a true model of what we desire to obtain</p>
+            <pb n="1V"/>
+            <p>We write these facts &amp; others as a committee<lb/> appointed for that purpose to
+                correspond<lb/> with you &amp; you may use such as in<lb/> your judgment, you deem
+                proper for an<lb/> Editorial notice on the subject.</p>
+            <p rend="indent(1)">We are far removed from the seat<lb/> of similar applications with a
+                lazy &amp; uncertain communication between us &amp;<lb/> necessarily must leave the
+                matter in<lb/> the hands of some one who like yourself<lb/> well understands our
+                want &amp; can refer<lb/> us some excellent person—</p>
+            <p rend="indent(1)">We do not want an old man if<lb/> we can avoid it, for we conceive
+                that<lb/> there will not be the Harmony existing as<lb/> between congregation &amp;
+                a young minister<lb/> of about 35 years of age, whose youth will<lb/> blend him to
+                the errors of his young flock.</p>
+            <p rend="indent(1)">Should the minister please us<lb/> he will undoubtedly be elected
+                for life<lb/> as soon as his first term expires, we<lb/> want an English Scholar by
+                all<lb/> means, but one conversant with German<lb/> also will suit us better—</p>
+            <p rend="indent(1)">The people here are very liberal<lb/> &amp; have contributed in a
+                fortnight about<lb/> $20,000 to erect a brick synagogue on</p>
+            <pb n="2R"/>
+            <p>a lot in one of our principal <sic>street</sic><lb/> in size 65 ft x 137<hi
+                    rend="underline">6</hi> feet.</p>
+            <p rend="indent(1)">We have about two Hundred families<lb/> one half of whom belong to
+                our synagogue<lb/> &amp; many <hi rend="underline">promising</hi> young men who
+                will<lb/> do much to increase the community.<lb/> There are about 50 children &amp;
+                a number<lb/> of them who would attend school in the<lb/> basement of the proposed
+                synagogue—</p>
+            <p rend="indent(1)">Our attendants are many at divine<lb/> service, considering our
+                officiating Hazon<lb/> &amp; we never have less than 25 or 30 present.</p>
+            <p rend="indent(1)">The building is to be a handsome<lb/> Gothic brick structure &amp;
+                to be paid for<lb/> fully out of our funds so that we may<lb/> have it
+                unencumbered—</p>
+            <p rend="indent(1)">We have again of members to our<lb/> synagogue of about 33 per cent
+                in the<lb/> last six months &amp; now number about<lb/> 100 contributing
+                members.</p>
+            <p rend="indent(1)">A minister would be necessarily<lb/> exposed to heavy expenses &amp;
+                could not<lb/> possibly subsist upon less than $40<lb/> a week, were he to supply
+                himself<lb/> amply with necessaries. Of course<lb/> he could curtail these expenses
+                but<lb/> it would not suit the people to have<lb/> a penurious minister.</p>
+            <pb n="2V"/>
+            <p>The perquisites are $10 for a marriage of<lb/> which he might reckon upon <hi
+                    rend="underline">2</hi> a month<lb/> at least. For school children &amp;c
+                in<lb/> proportion &amp; when teaching the Parassah &amp;c.</p>
+            <p rend="indent(1)">Will you please inform us very<lb/> privately concerning the
+                applicants as<lb/> to their abilities, qualifications characters<lb/> &amp; should
+                you wish your name kept<lb/> secret in the correspondence we shall<lb/> do so. Let
+                us hear from you if you<lb/> desire any further information in the<lb/> subject
+                &amp; we will forthwith furnish it.</p>
+            <p rend="indent(1)">We will pay the expenses here<lb/> of any minister recommended by
+                you<lb/> as fully competent &amp; extremely praise<lb/> worthy, in case he should be
+                elected<lb/> to the probationary term by the congregation</p>
+            <p rend="indent(1)">We have the Honor to be</p>
+            <p rend="indent(2)">Yrs <sic>Every</sic> Respy.</p>
+            <p rend="indent(3)">
+                <persName role="author"><add>?</add> Emanuel</persName>
+            </p>
+            <p rend="indent(4)">
+                <persName><add>?</add> Labatt</persName>
+            </p>
+            <p rend="indent(4)">
+                <persName>Ann</persName>
+            </p>
+            <p>To the Reverend</p>
+            <p rend="indent(1)">
+                <addressee>Isaac Leeser</addressee>
+            </p>
+            <p rend="indent(1)">
+                <placeName>Philadelphia</placeName>
+            </p>
+        </body>
+    </text>
 </TEI>

@@ -1,258 +1,347 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="yes">Block, E.</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>LSKAP</repository>
-						<collection>The Arnold and Deanne Kaplan Collection of Early American Judaica</collection>
-						<idno>LSKAP0116</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="yes">Block, E.</author>
-						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac</addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>New York, NY</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1849-09" source="" attested="yes">September 5, 1849</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="LSKAP0116_1r.jpg"></graphic>
-								<graphic url="LSKAP0116_1v.jpg"></graphic>
-								<graphic url="LSKAP0116_2r.jpg"></graphic>
-								<graphic url="LSKAP0116_2v.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="false" paper_type="" size="">letter</material>
-								</support>
-								<extent>2 pages on 1 sheet
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="manuscript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="restricted">
-								<p>Restricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1R"/>
-				<p rend="align(right)"><placeName>N. York.</placeName> <date>Sep 5. 1849</date></p>
-			<p rend="indent(1)">Dear <addressee>Isaac</addressee></p>
-			<p rend="indent(2)">I owe you an apology for<lb/> my neglect in failing to inform you earlier<lb/> of my design to relinquish my school.<lb/>  You know too well my friendship &#38; esteem for<lb/> you and how highly I estimate your good opinion<lb/> to believe for a moment that my silence could<lb/> be owing to any cause unpleasant or offensive<lb/> to you the fact is simply that altho I have<lb/> for a month past contemplated writing you a long<lb/> letter on the subject&#44; various things have<lb/> occurred to cause me to defer it from day to day<lb/> the last was the fact of your absence in <placeName>Bali.<add>&#63;</add></placeName></p>
-				<p>I am grieved and mortified to have to state that<lb/> my endeavors to establish a classical school for<lb/> the Jews of <placeName>N York</placeName> have completely failed&#8212;<lb/> whether the cause of my want of capacity or moral<lb/> unfitness or simply from the want of proper<lb/> patronage &#38; support.  That portion of the Jewish<lb/> public who feel any interest in the matter will judge<lb/> and of course for the greater part unfavorably to<lb/> me&#44; the unfortunate are always in fault.<lb/>  I have never as any time during the two years of my<lb/> probation had more than 14 pupils never during the<lb/> first six months more than 7 and those of all ages&#8212;from</p>
-			<pb n="1V"/>
-				<p>the child of 7. sent to learn to spell &#38; read thro all the intermediate<lb/> ages to the boy of 12 who was somewhat prepared to<lb/> receive the kind of instruction I contemplated in my plan.<lb/>  I of course had as many classes nearly as pupils&#44; and apart<lb/> from Hebrew &#38; German had to undertake personally<lb/> all the various branches of instruction&#44; to <sic>organise</sic><lb/> a school properly&#44; under these circumstances&#44; without<lb/> the aid of assistant teachers&#44; was impracticable<lb/> <del>under such</del> the incapacity of some&#44; the indolence<lb/> and obstinacy of others were serious obstacles&#44; but I<lb/> bore up against all discouragement and during the last<lb/> year my school was supplied with capable teachers<lb/> in Hebrew in German in Music in <sic>latin</sic>.  French<lb/> algebra and geometry and the English branches&#8212;<lb/> thus affording at least the groundwork of a system of<lb/> useful and practical education&#44; well for the higher branches<lb/> I had three boys&#44; of whom one alone applied himself<lb/> with tolerable <sic>dilijince</sic>&#44; and he is the only one of my<lb/> pupils to whom I can point with any pride to<lb/> illustrate the advantages of my tuition&#44; altho&#39; others have<lb/> in some branches made very satisfactory progress.<lb/>  I have to add to the list of discouragements&#44; the want<lb/> of punctuality in payment.  There is yet due for tuition or<lb/> near &#36;200. which I may never  get.  You thus see<lb/> that my failure is not the result of any want of perseverance<lb/> I held on as long as possible.</p>
-			<p rend="indent(1)">I regret that I must<lb/> necessarily remain your debtor for the bill you have<lb/> against me for <add>&#63;</add>.  I have on hand belonging</p>
-				<p rend="The following is written at the bottom of the page in pencil."><date>9&#45;5&#45;1849</date></p>
-			<pb n="2R"/>
-				<p>to you the Tephiloth sent to <persName>A Dittenhoffer</persName> which he<lb/> did not take as his.  Father tho&#39;t his old one would answer<lb/> and 3 spellers.  I will either await an opportunity of<lb/> disposing of them for you&#44; or hand them to your agt as you may<lb/> desire.&#8212;</p>
-			<p rend="indent(1)">I have on consultation with <persName>Mr Jonas</persName> my Brother<lb/> <persName>Mr Judah</persName> &#38; other friends concluded to resume my former<lb/> avocation&#44; and with strong promises of their support<lb/> I am now established in an office <placeName>No 120 Water St</placeName><lb/> where I am awaiting business as a commission merchant.<lb/>  I do not flatter myself with hopes of immediate success&#44;<lb/> and expect to encounter many difficulties.  &#8220;mais <sic>boque</sic><lb/> la gal&#232;re avec patience et courage on accomplit tout.&#8221;</p>
-			<p rend="indent(1)"><del>My</del> I <add>&#63;</add> remember that I have another apology to make in not<lb/> informing you directly of <persName>Sarah&#39;s</persName> engagement&#44; but allowing<lb/> the information to reach you thro&#39; general rumor.<lb/>  You have seen the gentleman I believe&#44; he stands very<lb/> high in <placeName>Charleston</placeName> as a rising member of his profession&#8212;and<lb/> is esteemed for his private worth as a good son&#44; brother<lb/> and citizen.  We are all much pleased with him.<lb/>  My house at present is very full&#44; besides <persName>Rosalie&#39;s</persName> children<lb/> and <persName>Mrs. Solomon</persName> &#38; Son&#44; we have <persName>Zonny Labat</persName> during<lb/> his vacation from Yale&#44; and <persName>Mrs. &#38; Miss Jacobs</persName>.  The<lb/> cantatrice&#44; it will not do to use plain english<lb/> little schozu<add>&#63;</add> one of my pupils is yet with us.<lb/>  <persName>Rosalie</persName> will not leave us till late in <date>October</date>&#44;<lb/> we have all continued to enjoy good health during the<lb/> season except myself.  Mine has been bad&#44; but</p>
-				<p rend="The following is written at the bottom of the page."><date>9&#45;5&#45;1849</date></p>
-			<pb n="2V"/>
-				<p>is much improved since I have entered upon my new<lb/> business.  All of us write in best regards to you.<lb/>  Your <persName>Aunt Rehine</persName> is well <persName>Ben</persName> recovered&#8212;you have<lb/> doubtless heard of <persName>Rachel&#39;s</persName> loss of her youngest boy&#8212;<lb/> of congregational news this may interest you I know<lb/> nothing.  I have been to two or three funerals recently<lb/> and have been struck by the narrow and confined<lb/> appearance of the burial place of one of the richest<lb/> and most numerous congregations of this great metropolis&#44;<lb/> apart from the certainty of the necessity of removal<lb/> in a few years away from a continually encroaching<lb/> population&#44; it seems like a desecration of the remains<lb/> of the dead to huddle them together in such a spot<lb/> surrounded as it is and overlooked by houses that<lb/> resemble barracks&#44; teeming as they do with that<lb/> description of population that swarms upon the<lb/> outskirts of a large city&#8212;can you not in your<lb/> next Occident suggest the idea of a general<lb/> Jewish cemetery&#44; located upon <placeName>Long Island</placeName>&#44; and guarded by state charter perpetually against<lb/> desecration by any possible charge of destination<lb/> to be provided with lots suitable for family burial<lb/> to be sold in f<add>&#63;</add> only to those of Jewish ritual<lb/> and to be exempt from seizure or sale on execution.<lb/>  Why cannot we as Jews <sic>avails</sic> ourselves of the<lb/> general improvements of the age in which we live&#63;</p>
-			<p rend="indent(1)">Yours</p>
-			<p rend="indent(2)"><persName role="author">E. Block</persName>.</p>
-		</body>
-	</text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="yes">Block, E.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>LSKAP</repository>
+                        <collection>The Arnold and Deanne Kaplan Collection of Early American
+                            Judaica</collection>
+                        <idno>LSKAP0116</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="yes">Block, E.</author>
+                        <addressee accepted="yes" attested="yes" editor="false">Leeser,
+                            Isaac</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>New York, NY</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1849-09">September 5, 1849</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="LSKAP0116_1r.jpg"/>
+                                <graphic url="LSKAP0116_1v.jpg"/>
+                                <graphic url="LSKAP0116_2r.jpg"/>
+                                <graphic url="LSKAP0116_2v.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >letter</material>
+                                </support>
+                                <extent>2 pages on 1 sheet <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="restricted">
+                                <p>Restricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1R"/>
+            <p rend="align(right)">
+                <placeName>N. York.</placeName>
+                <date>Sep 5. 1849</date>
+            </p>
+            <p rend="indent(1)">Dear <addressee>Isaac</addressee></p>
+            <p rend="indent(2)">I owe you an apology for<lb/> my neglect in failing to inform you
+                earlier<lb/> of my design to relinquish my school.<lb/> You know too well my
+                friendship &amp; esteem for<lb/> you and how highly I estimate your good
+                opinion<lb/> to believe for a moment that my silence could<lb/> be owing to any
+                cause unpleasant or offensive<lb/> to you the fact is simply that altho I have<lb/>
+                for a month past contemplated writing you a long<lb/> letter on the subject, various
+                things have<lb/> occurred to cause me to defer it from day to day<lb/> the last was
+                the fact of your absence in <placeName>Bali.<add>?</add></placeName></p>
+            <p>I am grieved and mortified to have to state that<lb/> my endeavors to establish a
+                classical school for<lb/> the Jews of <placeName>N York</placeName> have completely
+                failed—<lb/> whether the cause of my want of capacity or moral<lb/> unfitness or
+                simply from the want of proper<lb/> patronage &amp; support. That portion of the
+                Jewish<lb/> public who feel any interest in the matter will judge<lb/> and of course
+                for the greater part unfavorably to<lb/> me, the unfortunate are always in
+                fault.<lb/> I have never as any time during the two years of my<lb/> probation had
+                more than 14 pupils never during the<lb/> first six months more than 7 and those of
+                all ages—from</p>
+            <pb n="1V"/>
+            <p>the child of 7. sent to learn to spell &amp; read thro all the intermediate<lb/> ages
+                to the boy of 12 who was somewhat prepared to<lb/> receive the kind of instruction I
+                contemplated in my plan.<lb/> I of course had as many classes nearly as pupils, and
+                apart<lb/> from Hebrew &amp; German had to undertake personally<lb/> all the various
+                branches of instruction, to <sic>organise</sic><lb/> a school properly, under these
+                circumstances, without<lb/> the aid of assistant teachers, was impracticable<lb/>
+                <del>under such</del> the incapacity of some, the indolence<lb/> and obstinacy of
+                others were serious obstacles, but I<lb/> bore up against all discouragement and
+                during the last<lb/> year my school was supplied with capable teachers<lb/> in
+                Hebrew in German in Music in <sic>latin</sic>. French<lb/> algebra and geometry and
+                the English branches—<lb/> thus affording at least the groundwork of a system
+                of<lb/> useful and practical education, well for the higher branches<lb/> I had
+                three boys, of whom one alone applied himself<lb/> with tolerable
+                    <sic>dilijince</sic>, and he is the only one of my<lb/> pupils to whom I can
+                point with any pride to<lb/> illustrate the advantages of my tuition, altho' others
+                have<lb/> in some branches made very satisfactory progress.<lb/> I have to add to
+                the list of discouragements, the want<lb/> of punctuality in payment. There is yet
+                due for tuition or<lb/> near $200. which I may never get. You thus see<lb/> that my
+                failure is not the result of any want of perseverance<lb/> I held on as long as
+                possible.</p>
+            <p rend="indent(1)">I regret that I must<lb/> necessarily remain your debtor for the
+                bill you have<lb/> against me for <add>?</add>. I have on hand belonging</p>
+            <p rend="The following is written at the bottom of the page in pencil.">
+                <date>9-5-1849</date>
+            </p>
+            <pb n="2R"/>
+            <p>to you the Tephiloth sent to <persName>A Dittenhoffer</persName> which he<lb/> did
+                not take as his. Father tho't his old one would answer<lb/> and 3 spellers. I will
+                either await an opportunity of<lb/> disposing of them for you, or hand them to your
+                agt as you may<lb/> desire.—</p>
+            <p rend="indent(1)">I have on consultation with <persName>Mr Jonas</persName> my Brother<lb/>
+                <persName>Mr Judah</persName> &amp; other friends concluded to resume my former<lb/>
+                avocation, and with strong promises of their support<lb/> I am now established in an
+                office <placeName>No 120 Water St</placeName><lb/> where I am awaiting business as a
+                commission merchant.<lb/> I do not flatter myself with hopes of immediate
+                success,<lb/> and expect to encounter many difficulties. “mais <sic>boque</sic><lb/>
+                la galère avec patience et courage on accomplit tout.”</p>
+            <p rend="indent(1)"><del>My</del> I <add>?</add> remember that I have another apology to
+                make in not<lb/> informing you directly of <persName>Sarah's</persName> engagement,
+                but allowing<lb/> the information to reach you thro' general rumor.<lb/> You have
+                seen the gentleman I believe, he stands very<lb/> high in
+                    <placeName>Charleston</placeName> as a rising member of his profession—and<lb/>
+                is esteemed for his private worth as a good son, brother<lb/> and citizen. We are
+                all much pleased with him.<lb/> My house at present is very full, besides
+                    <persName>Rosalie's</persName> children<lb/> and <persName>Mrs.
+                    Solomon</persName> &amp; Son, we have <persName>Zonny Labat</persName>
+                during<lb/> his vacation from Yale, and <persName>Mrs. &amp; Miss Jacobs</persName>.
+                The<lb/> cantatrice, it will not do to use plain english<lb/> little
+                    schozu<add>?</add> one of my pupils is yet with us.<lb/>
+                <persName>Rosalie</persName> will not leave us till late in
+                <date>October</date>,<lb/> we have all continued to enjoy good health during
+                the<lb/> season except myself. Mine has been bad, but</p>
+            <p rend="The following is written at the bottom of the page.">
+                <date>9-5-1849</date>
+            </p>
+            <pb n="2V"/>
+            <p>is much improved since I have entered upon my new<lb/> business. All of us write in
+                best regards to you.<lb/> Your <persName>Aunt Rehine</persName> is well
+                    <persName>Ben</persName> recovered—you have<lb/> doubtless heard of
+                    <persName>Rachel's</persName> loss of her youngest boy—<lb/> of congregational
+                news this may interest you I know<lb/> nothing. I have been to two or three funerals
+                recently<lb/> and have been struck by the narrow and confined<lb/> appearance of the
+                burial place of one of the richest<lb/> and most numerous congregations of this
+                great metropolis,<lb/> apart from the certainty of the necessity of removal<lb/> in
+                a few years away from a continually encroaching<lb/> population, it seems like a
+                desecration of the remains<lb/> of the dead to huddle them together in such a
+                spot<lb/> surrounded as it is and overlooked by houses that<lb/> resemble barracks,
+                teeming as they do with that<lb/> description of population that swarms upon
+                the<lb/> outskirts of a large city—can you not in your<lb/> next Occident suggest
+                the idea of a general<lb/> Jewish cemetery, located upon <placeName>Long
+                    Island</placeName>, and guarded by state charter perpetually against<lb/>
+                desecration by any possible charge of destination<lb/> to be provided with lots
+                suitable for family burial<lb/> to be sold in f<add>?</add> only to those of Jewish
+                ritual<lb/> and to be exempt from seizure or sale on execution.<lb/> Why cannot we
+                as Jews <sic>avails</sic> ourselves of the<lb/> general improvements of the age in
+                which we live?</p>
+            <p rend="indent(1)">Yours</p>
+            <p rend="indent(2)"><persName role="author">E. Block</persName>.</p>
+        </body>
+    </text>
 </TEI>

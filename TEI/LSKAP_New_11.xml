@@ -1,289 +1,448 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE TEI [
-<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
-%teibase;
-<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
-%teiext;
-]>
-<TEI>
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="unk"></author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>LSKAP</repository>
-						<collection>The Arnold and Deanne Kaplan Collection of Early American Judaica</collection>
-						<idno>LSKAP_New_11</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="unk"></author>
-						<addressee editor="false" attested="yes" accepted="yes"></addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>New York, NY</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1863-01" source="" attested="yes">January 9, 1863</dateLet>
-						<dateLet when="1863-01" source="" attested="yes">5623</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="leeser_05_2011_kaplan_new_11.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="false" paper_type="" size="">miscellany</material>
-								</support>
-								<extent>1 page on 1 sheet
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="typescript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions>Newspaper Clipping</additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="restricted">
-								<p>Restricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<p rend="align(center)"><hi rend="bold">Board of Delegates of American Israel&#45;<lb/>ites.</hi></p>
-				<p rend="indent(1)">At a special meeting of the Executive Committee of<lb/> the Board of Delegates of American Israelites&#44; held at<lb/> the city of <placeName>New&#45;York</placeName>&#44; on <date>Thursday evening&#44; January<lb/> 8th&#44; 1863</date>&#44; <persName>Henry I. Hart&#44; Esq.</persName>&#44; President in the chair&#58;</p>
-			<p rend="indent(1)">The president laid before the committee a copy of<lb/> General Order No. 11&#44; issued by <persName>General U. S. Grant</persName>&#44;<lb/> commanding Department of the <placeName>Tennessee</placeName>&#44; <date>December<lb/> 17th&#44; 1862</date>&#44; and also communications received by him<lb/> from <placeName>Washington</placeName>&#44; with reference to the revocation of<lb/> the same.  Whereupon the following preamble and<lb/> resolutions were proposed&#44; seconded and unanimously<lb/> adopted&#58;</p>
-			<p rend="indent(1)"><emph rend="italics">Whereas</emph>&#44; The attention of this committee has been<lb/> called by the chairman to the following &#34;General Or&#45;<lb/>der No. 11&#34;&#58;</p>
-				<p rend="align(center)">HEADQUARTERS THIRTEENTH ARMY CORPS&#44;</p>
-				<p rend="align(center)">DEPARTMENT OF THE <placeName>TENNESSEE</placeName>&#44;</p>
-				<p rend="align(center)"><placeName>OXFORD&#44; MISS.</placeName>&#44; <date>DEC. 17&#44; 1862</date>.</p>
-				<p>General Order No. 11.</p>
-			<p rend="indent(1)">The Jews&#44; as a class&#44; violating every regulation of<lb/> trade established by the Treasury Department&#44; also<lb/> department orders&#44; are hereby expelled from the de&#45;<lb/>partment within twenty&#45;four hours from the receipt<lb/> of this order by post commanders.</p>
-			<p rend="indent(1)">They will see that all this class of people are fur&#45;<lb/>nished with passes and required to leave&#59; and any<lb/> one returning after such notification will be arrested<lb/> and held in confinement until an opportunity occurs of<lb/> sending them out as prisoners&#44; unless furnished with<lb/> permits from these headquarters.</p>
-			<p rend="indent(1)">No passes will be given these people to visit head&#45;<lb/>quarters for the purpose of making personal applica&#45;<lb/>tion for trade permits.</p>
-			<p rend="indent(1)">By order of   <persName>MAJOR&#45;GENERAL GRANT</persName>.</p>
-			<p rend="indent(1)"><persName>John A. Rawlins</persName>&#44; A. A. G.</p>
-			<p rend="indent(1)">Be it therefore</p>
-			<p rend="indent(1)"><emph rend="italics">Resolved</emph>&#44; That we have heard with surprise and<lb/> indignation the intelligence that in the present century<lb/> and in this land of freedom and equality&#44; an officer of<lb/> the <placeName>United States</placeName> should have promulgated an order<lb/> worthy of despotic <placeName>Europe</placeName> in the dark ages of the<lb/> world&#39;s history.</p>
-			<p rend="indent(1)"><emph rend="italics">Resolved</emph>&#44; That in behalf of the Israelites of the<lb/> <placeName>United States</placeName>&#44; we enter our firm and determined pro&#45;<lb/>test against this illegal&#44; unjust and tyrannical man&#45;<lb/>date&#44; depriving American citizens of the Jewish<lb/> faith&#44; of their precious rights&#44; driving them&#44; because<lb/> of their religious profession&#44; from their business and<lb/> homes by the military authority and in pursuance of<lb/> an inequitable proscription.</p>
-			<p rend="indent(1)"><emph rend="italics">Resolved</emph>&#44; That the Israelites of the <placeName>United States</placeName><lb/> expect no more and will be content with no less than<lb/> equal privileges with their fellow citizens&#44; in the en&#45;<lb/>joyment of &#34;life&#44; liberty&#44; and the pursuit of happi&#45;<lb/>ness&#44;&#34; as guaranteed by the Constitution of this<lb/> republic.</p>
-			<p rend="indent(1)"><emph rend="italics">Resolved</emph>&#44; That it is peculiarly painful for the Israel&#45;<lb/>ites of the <placeName>United States</placeName>&#44; who have freely tendered<lb/> their blood and treasure in defense of the Union they<lb/> love&#44; to observe this uncalled for and inequitable<lb/> discrimination against them.  Claiming to be second<lb/> to no class of citizens in support of the constitutional<lb/> government&#44; they regard with sadness and indignation<lb/> this contumely upon the Jewish name&#44; this insult to<lb/> them as a community&#44; on the ostensible ground that<lb/> individuals supposed to be &#34;Jews&#34; have violated re&#45;<lb/>gulations of trade&#44; established by the Treasury De&#45;<lb/>partment &#34;and department orders.&#34;</p>
-			<p rend="indent(1)"><emph rend="italics">Resolved</emph>.  That it is in the highest degree obnoxious<lb/> to them&#44; as it must be to all fair&#45;minded American cit&#45;<lb/>izens&#44; for the general body to be made accountable<lb/> for acts of particular persons <emph rend="italics">supposed</emph> to belong to<lb/> their denomination&#44; but&#44; as has been frequently de&#45;<lb/>monstrated&#44; in many cases really professing other<lb/> creeds.  That if an individual be guilty of an infrac&#45;<lb/>tion of discipline or offense against military law or<lb/> treasury regulations&#44; punishment should be visited<lb/> upon him alone&#44; and the religious community to<lb/> which he is presumed to be attached should not be<lb/> subjected to insult&#44; obloquy&#44; or disregard of its rights<lb/> as a penalty for individual offenses.</p>
-			<p rend="indent(1)"><emph rend="italics">Resolved</emph>&#44; That the thanks of this committee and of<lb/> the Israelites of the <placeName>United States</placeName>&#44; be and they are<lb/> hereby tendered to <persName>Major&#45;General H. W. Halleck</persName>&#44;<lb/> General&#45;in&#45;Chief <placeName>U. S. A.</placeName>&#44; for the promptitude with<lb/> which he revoked <persName>General Grant&#39;s</persName> unjust and out&#45;<lb/>rageous order&#44; as soon as it was brought to his atten&#45;<lb/>tion.</p>
-			<p rend="indent(1)"><emph rend="italics">Resolved</emph>&#44; That a copy of these resolutions&#44; duly<lb/> attested&#44; be transmitted to the President of the <placeName>United<lb/> States</placeName>&#44; the Secretary of War&#44; <persName>Major&#45;General Halleck</persName>&#44;<lb/> and <persName>Major&#45;General Grant</persName>&#44; and that the same be com&#45;<lb/>municated to the press for publication.</p>
-			<p rend="indent(1)">&#91;From the minutes.&#93;</p>
-			<p rend="indent(3)"><persName>MYER S. ISAACS</persName>&#44; Secretary.</p>
-				<p><placeName>New&#45;York</placeName>&#44; <date>January 9&#44; 5623&#44; 1863</date>.</p>
-				<p></p>
-				<p rend="align(center)"><hi rend="bold"><persName>GRANT&#39;S</persName> ORDER EXPELLING THE</hi></p>
-				<p rend="align(center)"><hi rend="bold">JEWS.</hi></p>
-				<p rend="align(center)"><hi rend="bold">Why It was Issued&#8212;The History of a Cot&#45;<lb/>&#45;ton Speculation.</hi></p>
-				<p rend="align(center)"><emph rend="italics">From the <placeName>Philadelphia</placeName> Notional Democrat</emph>.</p>
-			<p rend="indent(1)">We have already published <persName>General Grant&#39;s</persName> in&#45;<lb/>famous order expelling the Jews from his mili&#45;<lb/>tary department.  We now give the published<lb/> record of the <placeName>Cincinnati</placeName> Superior Court in re&#45;<lb/>ference to the suit brought by <persName>Jesse Grant</persName>&#44; father<lb/> of <persName>General Grant</persName>&#44; to recover his share of the<lb/> profits of the cotton speculation in which he<lb/> was engaged with the <persName>Mack Brothers</persName>&#44; his Hebrew<lb/> partners.</p>
-				<p rend="align(center)">SUPERIOR COURT.</p>
-			<p rend="indent(1)">&#34;General Term&#45;<persName>Jesse R. Grant</persName> vs. <persName>Mack<lb/> Brothers</persName>.  <persName>Judge Hoadly</persName> delivered the opinion.<lb/>  The case was reserved from special term on<lb/> demurer to the petition.  The action was insti&#45;<lb/>tuted for the settlement of a partnership ac&#45;<lb/>count.</p>
-			<p rend="indent(1)">&#34;The plaintiff avers that in <date>December&#44; 1862</date>&#44; he<lb/> entered into partnership with defendants&#44; for the<lb/> purchase of  cotton in the Military Department<lb/> of <persName>U. S. Grant</persName>&#59; the condition of the agreement<lb/> that defendants were to furnish the capital and<lb/> the men to purchase and ship the cotton&#44; and<lb/> the plaintiff to procure at the headquarters of<lb/> <persName>General Grant</persName> a permit to purchase it&#44; secure the<lb/> transportation&#44; and such other facilities as might<lb/> be consistent with the usages and interests of<lb/> the army.  The plaintiff was to receive one&#45;fourth<lb/> share of the net profits of sales after deducting<lb/> fro mgross proceeds the necessary expenses.<lb/>  The petition further states that there was a real&#45;<lb/>ized profit in the defendants&#39; favor of not less<lb/> than &#36;40&#44;000&#44; and that they refuse to render an<lb/> account&#44; or pay the plaintiff his proportion.</p>
-			<p rend="indent(1)">&#34;The defendants claim that the plaintiff con&#45;<lb/>tributed by his own showing neither capital nor<lb/> lawful service to the copartnership&#44; and that<lb/> their agreement to pay him a share of the<lb/> profits is&#44; therefore&#44; without sufficient consider&#45;<lb/>ation.</p>
-			<p rend="indent(1)">&#34;The Court cannot presume that the plaintiff<lb/> intended to allege that he undertook that which<lb/> was prohibited by law.  His acts and promises<lb/> may have been illegal&#44; and the partnership one<lb/> for a forbidden enterprise&#59; but in the absence of<lb/> an answer so averring the Court cannot assume<lb/> it&#44; unless the averments are inconsistent with<lb/> any other theory.</p>
-			<p rend="indent(1)">&#34;The purchase of cotton in the military de&#45;<lb/>partment commanded by <persName>General Grant</persName> was il&#45;<lb/>legal&#44; unless carried on by permission of the<lb/> President&#44; obtained through the Treasury De&#45;<lb/>partment.</p>
-			<p rend="indent(1)">&#34;The plaintiff avers that he was to go to the<lb/> headquarters of <persName>General Grant</persName> and procure a<lb/> permit to purchase cotton.  Whether this was<lb/> expected to be obtained from the General<lb/> himself&#44; from some member of his staff&#44; or a<lb/> Treasury agent at headquarters&#44; is not stated.<lb/>  Whether the plaintiff was to procure it as a per&#45;<lb/>sonal favor&#44; or by the use of personal influence&#44;<lb/> or in the ordinary mode of business&#44; is not<lb/> shown.  The Court could not presume he was to<lb/> get his permit from an officer not authorized by<lb/> law to give it&#44; or that he was to procure it as the<lb/> reward of personal&#44; political or other illegiti&#45;<lb/>mate influence.  They must rather infer that he<lb/> proposed to solicit and procure a permit in the<lb/> ordinary and proper way&#44; from a Treasury agent<lb/> having authority to issue it.</p>
-			<p rend="indent(1)">&#34;Again.  It is averred that plaintiff was to and<lb/> did secure transportation.  This may have been<lb/> done by procuring from some quartermaster&#44; or<lb/> other officer controlling it&#44; the improper and ille&#45;<lb/>gal use of Government horses and wagons&#44; or<lb/> steamboats&#59; or he may have hired horses and<lb/> wagons from the people of the country&#44; and se&#45;<lb/>cured steamboat transportation in the usual<lb/> way.  The mere fact that he was to procure<lb/> transportation at the headquarters of <persName>General<lb/> Grant</persName> is not decisive.</p>
-			<p rend="indent(1)">&#34;The other item of service&#44; the &#39;procuring of<lb/> such other facilities as might be consistent with<lb/> the usages and interests of the army&#44;&#39; is open to<lb/> the same double reading.  The facilities&#44; what&#45;<lb/>ever they were&#44; may <emph rend="italics">have been procured by honest<lb/> or dishonest influences</emph>.</p>
-			<p rend="indent(1)">&#34;For these reasons&#44; the <sic>defence</sic> suggested must<lb/> be presented by answer.  The theory that the em&#45;<lb/>ployment of the plaintiff was to procure the ille&#45;<lb/>gal co operation of the military in a private en&#45;<lb/>terprise must be alleged by sworn answer.  If<lb/> true&#44; it was equally disgraceful to the defendants<lb/> and the plaintiff&#44; and&#44; if proven&#44; would insure<lb/> the dismissal of the petition with reprobation to<lb/> the two parties&#44; upon the principle&#44; among oth&#45;<lb/>ers&#44; <emph rend="italics">in pari delicto&#44; potior est condito defendentis</emph>.<lb/>  Demurrer overruled and leave to answer.&#34;</p>
-			<p rend="indent(1)"><persName>Judge Storer</persName> agreed with the other members of<lb/> the Court on the question of the pleadings&#44; &#34;and<lb/> felt constrained to say that the whole of the<lb/> trade&#44; as disclosed in this proceeding&#44; was not<lb/> only disgraceful&#44; but tends directly to disgrace<lb/> the country.  It is the price of blood.&#34;</p>
-			<p rend="indent(1)">The following comments from the <placeName>New York</placeName><lb/> <emph rend="italics">World</emph> will show the enormity of the infamy of<lb/> this cotton speculation&#44; and the reason why <persName>Gen&#45;<lb/>eral Grant</persName> expelled the Jews&#58;</p>
-			<p rend="indent(1)">&#34;Even if it should turn out that <persName>Jesse Grant</persName><lb/> had a Treasury permit for this particular specula&#45;<lb/>tion&#44; that fact would not relieve the reputation<lb/> of <persName>General Grant</persName>.  If <persName>Jesse Grant</persName> had such a<lb/> permit&#44; he must have got it through his son&#39;s in&#45;<lb/>fluence.  By his own showing&#44; he obtained it at<lb/> his son&#39;s headquarters.  Except for his relation&#45;<lb/>ship to the Commanding General&#44; any other citi&#45;<lb/>zen could have procured it as easily as he.  What<lb/> he made a matter of bargain and sale was his in&#45;<lb/>fluence with <persName>General Grant</persName>&#59; what he stipulated<lb/> to receive for it was one&#45;fourth of the net profits&#44;<lb/> although he put in no capital and ran no risk.</p>
-			<p rend="indent(1)">&#34;There is still a darker shade to this transac&#45;<lb/>tion&#44; but it is not yet so well authenticated.  A<lb/> correspondent writes to us upon information<lb/> which he received of one of <persName>Jesse Grant&#39;s</persName> neigh&#45;<lb/>bors&#44; that when <persName>Grant</persName> the father told <persName>Grant</persName> the<lb/> son that the <persName>Macks</persName> refused to settle with him&#44;<lb/> the General sent them word that unless they<lb/> promptly did so he would expel all the Jews<lb/> from his department&#44; a threat which he soon<lb/> after made good by his well&#45;known order for the<lb/> expulsion of the Jews.  This is the first explana&#45;<lb/>tion we have ever seen of the motive of that un&#45;<lb/>accountable and discreditable order&#44; and if <persName>Mack<lb/> Brothers</persName> are really Jews&#44; the explanation is not<lb/> incredible&#44; considering that the main fact of the<lb/> cotton speculation is fully established.&#34;</p>
-		</body>
-	</text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="unk"/>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>LSKAP</repository>
+                        <collection>The Arnold and Deanne Kaplan Collection of Early American
+                            Judaica</collection>
+                        <idno>LSKAP_New_11</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="unk"/>
+                        <addressee accepted="yes" attested="yes" editor="false"/>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>New York, NY</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1863-01">January 9, 1863</dateLet>
+                        <dateLet attested="yes" source="" when="1863-01">5623</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="leeser_05_2011_kaplan_new_11.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >miscellany</material>
+                                </support>
+                                <extent>1 page on 1 sheet <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions>Newspaper Clipping</additions>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="restricted">
+                                <p>Restricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p rend="align(center)">
+                <hi rend="bold">Board of Delegates of American Israel-<lb/>ites.</hi>
+            </p>
+            <p rend="indent(1)">At a special meeting of the Executive Committee of<lb/> the Board of
+                Delegates of American Israelites, held at<lb/> the city of
+                    <placeName>New-York</placeName>, on <date>Thursday evening, January<lb/> 8th,
+                    1863</date>, <persName>Henry I. Hart, Esq.</persName>, President in the
+                chair:</p>
+            <p rend="indent(1)">The president laid before the committee a copy of<lb/> General Order
+                No. 11, issued by <persName>General U. S. Grant</persName>,<lb/> commanding
+                Department of the <placeName>Tennessee</placeName>, <date>December<lb/> 17th,
+                    1862</date>, and also communications received by him<lb/> from
+                    <placeName>Washington</placeName>, with reference to the revocation of<lb/> the
+                same. Whereupon the following preamble and<lb/> resolutions were proposed, seconded
+                and unanimously<lb/> adopted:</p>
+            <p rend="indent(1)"><emph rend="italics">Whereas</emph>, The attention of this committee
+                has been<lb/> called by the chairman to the following "General Or-<lb/>der No.
+                11":</p>
+            <p rend="align(center)">HEADQUARTERS THIRTEENTH ARMY CORPS,</p>
+            <p rend="align(center)">DEPARTMENT OF THE <placeName>TENNESSEE</placeName>,</p>
+            <p rend="align(center)"><placeName>OXFORD, MISS.</placeName>, <date>DEC. 17,
+                1862</date>.</p>
+            <p>General Order No. 11.</p>
+            <p rend="indent(1)">The Jews, as a class, violating every regulation of<lb/> trade
+                established by the Treasury Department, also<lb/> department orders, are hereby
+                expelled from the de-<lb/>partment within twenty-four hours from the receipt<lb/> of
+                this order by post commanders.</p>
+            <p rend="indent(1)">They will see that all this class of people are fur-<lb/>nished with
+                passes and required to leave; and any<lb/> one returning after such notification
+                will be arrested<lb/> and held in confinement until an opportunity occurs of<lb/>
+                sending them out as prisoners, unless furnished with<lb/> permits from these
+                headquarters.</p>
+            <p rend="indent(1)">No passes will be given these people to visit head-<lb/>quarters for
+                the purpose of making personal applica-<lb/>tion for trade permits.</p>
+            <p rend="indent(1)">By order of <persName>MAJOR-GENERAL GRANT</persName>.</p>
+            <p rend="indent(1)"><persName>John A. Rawlins</persName>, A. A. G.</p>
+            <p rend="indent(1)">Be it therefore</p>
+            <p rend="indent(1)"><emph rend="italics">Resolved</emph>, That we have heard with
+                surprise and<lb/> indignation the intelligence that in the present century<lb/> and
+                in this land of freedom and equality, an officer of<lb/> the <placeName>United
+                    States</placeName> should have promulgated an order<lb/> worthy of despotic
+                    <placeName>Europe</placeName> in the dark ages of the<lb/> world's history.</p>
+            <p rend="indent(1)"><emph rend="italics">Resolved</emph>, That in behalf of the
+                Israelites of the<lb/>
+                <placeName>United States</placeName>, we enter our firm and determined pro-<lb/>test
+                against this illegal, unjust and tyrannical man-<lb/>date, depriving American
+                citizens of the Jewish<lb/> faith, of their precious rights, driving them,
+                because<lb/> of their religious profession, from their business and<lb/> homes by
+                the military authority and in pursuance of<lb/> an inequitable proscription.</p>
+            <p rend="indent(1)"><emph rend="italics">Resolved</emph>, That the Israelites of the
+                    <placeName>United States</placeName><lb/> expect no more and will be content
+                with no less than<lb/> equal privileges with their fellow citizens, in the
+                en-<lb/>joyment of "life, liberty, and the pursuit of happi-<lb/>ness," as
+                guaranteed by the Constitution of this<lb/> republic.</p>
+            <p rend="indent(1)"><emph rend="italics">Resolved</emph>, That it is peculiarly painful
+                for the Israel-<lb/>ites of the <placeName>United States</placeName>, who have
+                freely tendered<lb/> their blood and treasure in defense of the Union they<lb/>
+                love, to observe this uncalled for and inequitable<lb/> discrimination against them.
+                Claiming to be second<lb/> to no class of citizens in support of the
+                constitutional<lb/> government, they regard with sadness and indignation<lb/> this
+                contumely upon the Jewish name, this insult to<lb/> them as a community, on the
+                ostensible ground that<lb/> individuals supposed to be "Jews" have violated
+                re-<lb/>gulations of trade, established by the Treasury De-<lb/>partment "and
+                department orders."</p>
+            <p rend="indent(1)"><emph rend="italics">Resolved</emph>. That it is in the highest
+                degree obnoxious<lb/> to them, as it must be to all fair-minded American
+                cit-<lb/>izens, for the general body to be made accountable<lb/> for acts of
+                particular persons <emph rend="italics">supposed</emph> to belong to<lb/> their
+                denomination, but, as has been frequently de-<lb/>monstrated, in many cases really
+                professing other<lb/> creeds. That if an individual be guilty of an infrac-<lb/>tion
+                of discipline or offense against military law or<lb/> treasury regulations,
+                punishment should be visited<lb/> upon him alone, and the religious community
+                to<lb/> which he is presumed to be attached should not be<lb/> subjected to insult,
+                obloquy, or disregard of its rights<lb/> as a penalty for individual offenses.</p>
+            <p rend="indent(1)"><emph rend="italics">Resolved</emph>, That the thanks of this
+                committee and of<lb/> the Israelites of the <placeName>United States</placeName>, be
+                and they are<lb/> hereby tendered to <persName>Major-General H. W.
+                    Halleck</persName>,<lb/> General-in-Chief <placeName>U. S. A.</placeName>, for
+                the promptitude with<lb/> which he revoked <persName>General Grant's</persName>
+                unjust and out-<lb/>rageous order, as soon as it was brought to his
+                atten-<lb/>tion.</p>
+            <p rend="indent(1)"><emph rend="italics">Resolved</emph>, That a copy of these
+                resolutions, duly<lb/> attested, be transmitted to the President of the
+                    <placeName>United<lb/> States</placeName>, the Secretary of War,
+                    <persName>Major-General Halleck</persName>,<lb/> and <persName>Major-General
+                    Grant</persName>, and that the same be com-<lb/>municated to the press for
+                publication.</p>
+            <p rend="indent(1)">[From the minutes.]</p>
+            <p rend="indent(3)"><persName>MYER S. ISAACS</persName>, Secretary.</p>
+            <p><placeName>New-York</placeName>, <date>January 9, 5623, 1863</date>.</p>
+            <p/>
+            <p rend="align(center)">
+                <hi rend="bold"><persName>GRANT'S</persName> ORDER EXPELLING THE</hi>
+            </p>
+            <p rend="align(center)">
+                <hi rend="bold">JEWS.</hi>
+            </p>
+            <p rend="align(center)">
+                <hi rend="bold">Why It was Issued—The History of a Cot-<lb/>-ton Speculation.</hi>
+            </p>
+            <p rend="align(center)"><emph rend="italics">From the
+                        <placeName>Philadelphia</placeName> Notional Democrat</emph>.</p>
+            <p rend="indent(1)">We have already published <persName>General Grant's</persName>
+                in-<lb/>famous order expelling the Jews from his mili-<lb/>tary department. We now
+                give the published<lb/> record of the <placeName>Cincinnati</placeName> Superior
+                Court in re-<lb/>ference to the suit brought by <persName>Jesse Grant</persName>,
+                father<lb/> of <persName>General Grant</persName>, to recover his share of the<lb/>
+                profits of the cotton speculation in which he<lb/> was engaged with the
+                    <persName>Mack Brothers</persName>, his Hebrew<lb/> partners.</p>
+            <p rend="align(center)">SUPERIOR COURT.</p>
+            <p rend="indent(1)">"General Term-<persName>Jesse R. Grant</persName> vs.
+                    <persName>Mack<lb/> Brothers</persName>. <persName>Judge Hoadly</persName>
+                delivered the opinion.<lb/> The case was reserved from special term on<lb/> demurer
+                to the petition. The action was insti-<lb/>tuted for the settlement of a partnership
+                ac-<lb/>count.</p>
+            <p rend="indent(1)">"The plaintiff avers that in <date>December, 1862</date>, he<lb/>
+                entered into partnership with defendants, for the<lb/> purchase of cotton in the
+                Military Department<lb/> of <persName>U. S. Grant</persName>; the condition of the
+                agreement<lb/> that defendants were to furnish the capital and<lb/> the men to
+                purchase and ship the cotton, and<lb/> the plaintiff to procure at the headquarters of<lb/>
+                <persName>General Grant</persName> a permit to purchase it, secure the<lb/>
+                transportation, and such other facilities as might<lb/> be consistent with the
+                usages and interests of<lb/> the army. The plaintiff was to receive one-fourth<lb/>
+                share of the net profits of sales after deducting<lb/> fro mgross proceeds the
+                necessary expenses.<lb/> The petition further states that there was a real-<lb/>ized
+                profit in the defendants' favor of not less<lb/> than $40,000, and that they refuse
+                to render an<lb/> account, or pay the plaintiff his proportion.</p>
+            <p rend="indent(1)">"The defendants claim that the plaintiff con-<lb/>tributed by his
+                own showing neither capital nor<lb/> lawful service to the copartnership, and
+                that<lb/> their agreement to pay him a share of the<lb/> profits is, therefore,
+                without sufficient consider-<lb/>ation.</p>
+            <p rend="indent(1)">"The Court cannot presume that the plaintiff<lb/> intended to allege
+                that he undertook that which<lb/> was prohibited by law. His acts and promises<lb/>
+                may have been illegal, and the partnership one<lb/> for a forbidden enterprise; but
+                in the absence of<lb/> an answer so averring the Court cannot assume<lb/> it, unless
+                the averments are inconsistent with<lb/> any other theory.</p>
+            <p rend="indent(1)">"The purchase of cotton in the military de-<lb/>partment commanded
+                by <persName>General Grant</persName> was il-<lb/>legal, unless carried on by
+                permission of the<lb/> President, obtained through the Treasury
+                De-<lb/>partment.</p>
+            <p rend="indent(1)">"The plaintiff avers that he was to go to the<lb/> headquarters of
+                    <persName>General Grant</persName> and procure a<lb/> permit to purchase cotton.
+                Whether this was<lb/> expected to be obtained from the General<lb/> himself, from
+                some member of his staff, or a<lb/> Treasury agent at headquarters, is not
+                stated.<lb/> Whether the plaintiff was to procure it as a per-<lb/>sonal favor, or
+                by the use of personal influence,<lb/> or in the ordinary mode of business, is
+                not<lb/> shown. The Court could not presume he was to<lb/> get his permit from an
+                officer not authorized by<lb/> law to give it, or that he was to procure it as
+                the<lb/> reward of personal, political or other illegiti-<lb/>mate influence. They
+                must rather infer that he<lb/> proposed to solicit and procure a permit in the<lb/>
+                ordinary and proper way, from a Treasury agent<lb/> having authority to issue
+                it.</p>
+            <p rend="indent(1)">"Again. It is averred that plaintiff was to and<lb/> did secure
+                transportation. This may have been<lb/> done by procuring from some quartermaster,
+                or<lb/> other officer controlling it, the improper and ille-<lb/>gal use of
+                Government horses and wagons, or<lb/> steamboats; or he may have hired horses
+                and<lb/> wagons from the people of the country, and se-<lb/>cured steamboat
+                transportation in the usual<lb/> way. The mere fact that he was to procure<lb/>
+                transportation at the headquarters of <persName>General<lb/> Grant</persName> is not
+                decisive.</p>
+            <p rend="indent(1)">"The other item of service, the 'procuring of<lb/> such other
+                facilities as might be consistent with<lb/> the usages and interests of the army,'
+                is open to<lb/> the same double reading. The facilities, what-<lb/>ever they were,
+                may <emph rend="italics">have been procured by honest<lb/> or dishonest
+                    influences</emph>.</p>
+            <p rend="indent(1)">"For these reasons, the <sic>defence</sic> suggested must<lb/> be
+                presented by answer. The theory that the em-<lb/>ployment of the plaintiff was to
+                procure the ille-<lb/>gal co operation of the military in a private en-<lb/>terprise
+                must be alleged by sworn answer. If<lb/> true, it was equally disgraceful to the
+                defendants<lb/> and the plaintiff, and, if proven, would insure<lb/> the dismissal
+                of the petition with reprobation to<lb/> the two parties, upon the principle, among
+                oth-<lb/>ers, <emph rend="italics">in pari delicto, potior est condito
+                    defendentis</emph>.<lb/> Demurrer overruled and leave to answer."</p>
+            <p rend="indent(1)"><persName>Judge Storer</persName> agreed with the other members
+                of<lb/> the Court on the question of the pleadings, "and<lb/> felt constrained to
+                say that the whole of the<lb/> trade, as disclosed in this proceeding, was not<lb/>
+                only disgraceful, but tends directly to disgrace<lb/> the country. It is the price
+                of blood."</p>
+            <p rend="indent(1)">The following comments from the <placeName>New York</placeName><lb/>
+                <emph rend="italics">World</emph> will show the enormity of the infamy of<lb/> this
+                cotton speculation, and the reason why <persName>Gen-<lb/>eral Grant</persName>
+                expelled the Jews:</p>
+            <p rend="indent(1)">"Even if it should turn out that <persName>Jesse
+                Grant</persName><lb/> had a Treasury permit for this particular specula-<lb/>tion,
+                that fact would not relieve the reputation<lb/> of <persName>General
+                    Grant</persName>. If <persName>Jesse Grant</persName> had such a<lb/> permit, he
+                must have got it through his son's in-<lb/>fluence. By his own showing, he obtained
+                it at<lb/> his son's headquarters. Except for his relation-<lb/>ship to the
+                Commanding General, any other citi-<lb/>zen could have procured it as easily as he.
+                What<lb/> he made a matter of bargain and sale was his in-<lb/>fluence with
+                    <persName>General Grant</persName>; what he stipulated<lb/> to receive for it
+                was one-fourth of the net profits,<lb/> although he put in no capital and ran no
+                risk.</p>
+            <p rend="indent(1)">"There is still a darker shade to this transac-<lb/>tion, but it is
+                not yet so well authenticated. A<lb/> correspondent writes to us upon
+                information<lb/> which he received of one of <persName>Jesse Grant's</persName>
+                neigh-<lb/>bors, that when <persName>Grant</persName> the father told
+                    <persName>Grant</persName> the<lb/> son that the <persName>Macks</persName>
+                refused to settle with him,<lb/> the General sent them word that unless they<lb/>
+                promptly did so he would expel all the Jews<lb/> from his department, a threat which
+                he soon<lb/> after made good by his well-known order for the<lb/> expulsion of the
+                Jews. This is the first explana-<lb/>tion we have ever seen of the motive of that
+                un-<lb/>accountable and discreditable order, and if <persName>Mack<lb/>
+                    Brothers</persName> are really Jews, the explanation is not<lb/> incredible,
+                considering that the main fact of the<lb/> cotton speculation is fully
+                established."</p>
+        </body>
+    </text>
 </TEI>

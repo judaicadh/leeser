@@ -1,263 +1,292 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE TEI [
-<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
-%teibase;
-<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
-%teiext;
-]>
-<TEI>
-    <teiHeader>
-      <fileDesc>
-        <titleStmt>
-          <title>[no title given]</title>
-          <author attested="yes" accepted="yes" signature="yes">Nussbaum, S.</author>
-          <editor></editor>
-          <sponsor></sponsor>
-          <funder></funder>
-          <principal></principal>
-          <respStmt>
-            <resp></resp>
-            <name></name>
-          </respStmt>
-        </titleStmt>
-        <editionStmt>
-          <edition></edition>
-          <respStmt>
-            <resp></resp>
-            <name></name>
-          </respStmt>
-        </editionStmt>
-        <extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-        <publicationStmt>
-          <publisher>Unpublished manuscript</publisher>
-        </publicationStmt>
-        <seriesStmt>
-          <p>Not part of a series</p>
-        </seriesStmt>
-        <notesStmt>
-          <note></note>
-        </notesStmt>
-        <sourceDesc>
-          <biblStruct>
-            <!-- catalog entry goes here -->
-            <monogr>
-              <imprint>
-                <dateLet></dateLet>
-              </imprint>
-            </monogr>
-          </biblStruct>
-          <msDesc>
-            <msIdentifier>
-              <country>USA</country>
-              <region>PA</region>
-              <settlement>Philadelphia</settlement>
-              <institution></institution>
-              <repository>CAJS Isaac Leeser Collection</repository>
-              <collection>The Library of the Dropsie College for Hebrew and Cognate Learning</collection>
-              <idno>LSDCBx1FF6_32</idno>
-              <altIdentifier>
-                <idno></idno>
-              </altIdentifier>
-              <msName></msName>
-            </msIdentifier>
-            <head></head>
-            <letHeading>
-              <author attested="yes" accepted="yes" signature="yes">Nussbaum, S.</author>
-              <addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac, Rev.</addressee>
-              <deliverer></deliverer>
-              <respStmt>
-                <resp></resp>
-                <name></name>
-              </respStmt>
-              <placeLet></placeLet>
-              <placeRec>Philadelphia, PA</placeRec>
-              <dateLet when="1849-05" source="" attested="yes">May 1849</dateLet>
-            </letHeading>
-            <msContents>
-              <msItem>
-                <author></author>
-                <editor></editor>
-                <respStmt>
-                  <resp></resp>
-                  <name></name>
-                </respStmt>
-                <title></title>
-                <decoNote></decoNote>
-                <listBibl>
-                  <bibl></bibl>
-                </listBibl>
-                <filiation></filiation>
-                <textLang></textLang>
-                <figure>
-                  <graphic url="ilcajs_b1f6_0030_1r.jpg"/>
-                  <graphic url="ilcajs_b1f6_0030_1v.jpg"/>
-                   </figure>
-              </msItem>
-            </msContents>
-            <physDesc>
-              <objectDesc>
-                <supportDesc>
-                  <support>
-                    <material color="" lined="unk" paper_type="" size="Letter">letter</material>
-                  </support>
-                  <extent>3 pages on 3 sheets
-                    <dimensions></dimensions>
-                  </extent>
-                  <foliation></foliation>
-                  <collation></collation>
-                  <condition fragment="false">Fragile</condition>
-                </supportDesc>
-                <layoutDesc>
-                  <layout></layout>
-                </layoutDesc>
-              </objectDesc>
-              <handDesc script="manuscript">
-                  <handNote></handNote>
-              </handDesc>
-              <decoDesc>
-                <decoNote></decoNote>
-              </decoDesc>
-              <additions></additions>
-              <bindingDesc>
-                <binding>
-                  <decoNote></decoNote>
-                </binding>
-              </bindingDesc>
-              <sealDesc>
-                <seal>
-                  <p>Wax seal</p>
-                </seal>
-              </sealDesc>
-              <accMat></accMat>
-              <envDesc occ="false"></envDesc>
-            </physDesc>
-            <history>
-              <origin></origin>
-              <provenance></provenance>
-              <acquisition></acquisition>
-            </history>
-            <additional>
-              <adminInfo>
-                <recordHist>
-                  <source></source>
-                  <change></change>
-                </recordHist>
-                <availability status="free">
-                  <p>Unrestricted</p>
-                </availability>
-                <custodialHist>
-                  <custEvent></custEvent>
-                </custodialHist>
-              </adminInfo>
-              <surrogates></surrogates>
-              <listBibl>
-                <bibl></bibl>
-              </listBibl>
-            </additional>
-            <msPart>
-              <altIdentifier>
-                <idno></idno>
-              </altIdentifier>
-            </msPart>
-          </msDesc>
-        </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-        <projectDesc>
-          <p></p>
-        </projectDesc>
-        <samplingDecl>
-          <p></p>
-        </samplingDecl>
-        <editorialDecl>
-          <correction>
-            <p></p>
-          </correction>
-          <normalization>
-            <p></p>
-          </normalization>
-          <quotation>
-            <p></p>
-          </quotation>
-          <hyphenation>
-            <p></p>
-          </hyphenation>
-          <segmentation>
-            <p></p>
-          </segmentation>
-          <stdVals>
-            <p></p>
-          </stdVals>
-          <interpretation>
-            <p></p>
-          </interpretation>
-        </editorialDecl>
-        <tagsDecl>
-          <rendition></rendition>
-          <namespace name="http://www.tei-c.org/ns/1.0">
-            <tagUsage gi=""></tagUsage>
-          </namespace>
-        </tagsDecl>
-        <refsDecl>
-          <cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-        </refsDecl>
-        <refsDecl>
-          <refState unit=""/>
-        </refsDecl>
-        <classDecl>
-          <taxonomy>
-            <category>
-              <catDesc></catDesc>
-            </category>
-          </taxonomy>
-        </classDecl>
-        <appInfo>
-          <application ident="" version="">
-            <desc></desc>
-            <label></label>
-          </application>
-        </appInfo>
-      </encodingDesc>
-      <profileDesc>
-        <creation></creation>
-        <langUsage>
-         <language ident="en">English</language>
-         <language ident="he">Hebrew</language>
-        </langUsage>
-        <textClass>
-          <keywords scheme="unknown">
-            <list>
-              <item></item>
-              <item></item>
-            </list>
-          </keywords>
-          <classCode scheme=""></classCode>
-          <catRef/>
-        </textClass>
-      </profileDesc>
-      <revisionDesc>
-        <change></change>
-      </revisionDesc>
-    </teiHeader>
-    <text>
-        <body>
-      
-		<pb n="1"/>
-			<p><addressee>Rev. Mr. Leeser</addressee> <add>Hebrew</add></p>
-			<p><add>Hebrew</add></p>
-		<pb n="2"/>
-			<p>Rev <addressee>Mr. Isaac Leeser</addressee></p>
-          <p rend="indent(2)"><placeName>Philadelphia</placeName></p>
-		<pb n="3"/>
-			<p><add><hi rend="underline">Yiddish</hi></add></p>
-			<p rend="align(right)"><placeName>N. Y.</placeName> <date>Friday&#44; Pericosse Behar&#44;</date></p>
-			<p rend="align(right)"><date>&#40;May&#41;&#44; 1849</date>.</p>
-			<p>Rev. Mr. Leeser&#58;</p>
-          <p rend="indent(2)">By express I received <add>back</add> this morning the<lb/> Torah&#44; and just now I received your letter. &#8220;Since<lb/> &#42;I would rather give it to you than to another man&#8221;&#44;<lb/> I take this opportunity&#44; <del>to</del> since another one presents<lb/> itself for sale&#44; at the price of &#36;80. to offer you this one<lb/> at a reduction of &#36;5&#44; namely at &#36;85. It is certainly<lb/> worth more&#44; although the other one is also a handsome<lb/> Torah and also belongs to me. If you want it&#44; I shall<lb/> see that it is transferred to you. The other party is not<lb/> particularly to give it on commission. For my own&#44; I<lb/> have a buyer. I am convinced that I could get<lb/> more for it&#44; nevertheless&#44; &#39;first come&#44; first served&#44;&#39;<lb/> I am awaiting your answer. Greetings from my<lb/> dear wife&#44; who&#44; with God&#39;s help&#44; will soon recover.</p>
-          <p rend="indent(6)">Respectfully&#44;</p>
-          <p rend="indent(6)">Schnaor<add>&#63;</add> <persName role="author">Nussbaum</persName></p>
-			<p>&#42;Genesis 29.19</p>
-          
-        </body>
-    </text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+          <teiHeader>
+
+                    <fileDesc>
+                              <titleStmt>
+                                        <title>[no title given]</title>
+                                        <author accepted="yes" attested="yes" signature="yes"
+                                                  >Nussbaum, S.</author>
+                                        <editor/>
+                                        <sponsor/>
+                                        <funder/>
+                                        <principal/>
+                                        <respStmt>
+                                                  <resp/>
+                                                  <name/>
+                                        </respStmt>
+                              </titleStmt>
+                              <editionStmt>
+                                        <edition/>
+                                        <respStmt>
+                                                  <resp/>
+                                                  <name/>
+                                        </respStmt>
+                              </editionStmt>
+                              <extent>[information about file size goes here, information about
+                                        extent of physical item comes later]</extent>
+                              <publicationStmt>
+                                        <publisher>Unpublished manuscript</publisher>
+                              </publicationStmt>
+                              <seriesStmt>
+                                        <p>Not part of a series</p>
+                              </seriesStmt>
+                              <notesStmt>
+                                        <note/>
+                              </notesStmt>
+                              <sourceDesc>
+                                        <biblStruct>
+                                                  <!-- catalog entry goes here -->
+                                                  <monogr>
+                                                  <imprint>
+                                                  <dateLet/>
+                                                  </imprint>
+                                                  </monogr>
+                                        </biblStruct>
+                                        <msDesc>
+                                                  <msIdentifier>
+                                                  <country>USA</country>
+                                                  <region>PA</region>
+                                                  <settlement>Philadelphia</settlement>
+                                                  <institution/>
+                                                  <repository>CAJS Isaac Leeser
+                                                  Collection</repository>
+                                                  <collection>The Library of the Dropsie College for
+                                                  Hebrew and Cognate Learning</collection>
+                                                  <idno>LSDCBx1FF6_32</idno>
+                                                  <altIdentifier>
+                                                  <idno/>
+                                                  </altIdentifier>
+                                                  <msName/>
+                                                  </msIdentifier>
+                                                  <head/>
+                                                  <letHeading>
+                                                  <author accepted="yes" attested="yes"
+                                                  signature="yes">Nussbaum, S.</author>
+                                                  <addressee accepted="yes" attested="yes"
+                                                  editor="false">Leeser, Isaac, Rev.</addressee>
+                                                  <deliverer/>
+                                                  <respStmt>
+                                                  <resp/>
+                                                  <name/>
+                                                  </respStmt>
+                                                  <placeLet/>
+                                                  <placeRec>Philadelphia, PA</placeRec>
+                                                  <dateLet attested="yes" source="" when="1849-05"
+                                                  >May 1849</dateLet>
+                                                  </letHeading>
+                                                  <msContents>
+                                                  <msItem>
+                                                  <author/>
+                                                  <editor/>
+                                                  <respStmt>
+                                                  <resp/>
+                                                  <name/>
+                                                  </respStmt>
+                                                  <title/>
+                                                  <decoNote/>
+                                                  <listBibl>
+                                                  <bibl/>
+                                                  </listBibl>
+                                                  <filiation/>
+                                                  <textLang/>
+                                                  <figure>
+                                                  <graphic url="ilcajs_b1f6_0030_1r.jpg"/>
+                                                  <graphic url="ilcajs_b1f6_0030_1v.jpg"/>
+                                                  </figure>
+                                                  </msItem>
+                                                  </msContents>
+                                                  <physDesc>
+                                                  <objectDesc>
+                                                  <supportDesc>
+                                                  <support>
+                                                  <material color="" lined="unk" paper_type=""
+                                                  size="Letter">letter</material>
+                                                  </support>
+                                                  <extent>3 pages on 3 sheets <dimensions/>
+                                                  </extent>
+                                                  <foliation/>
+                                                  <collation/>
+                                                  <condition fragment="false">Fragile</condition>
+                                                  </supportDesc>
+                                                  <layoutDesc>
+                                                  <layout/>
+                                                  </layoutDesc>
+                                                  </objectDesc>
+                                                  <handDesc script="manuscript">
+                                                  <handNote/>
+                                                  </handDesc>
+                                                  <decoDesc>
+                                                  <decoNote/>
+                                                  </decoDesc>
+                                                  <additions/>
+                                                  <bindingDesc>
+                                                  <binding>
+                                                  <decoNote/>
+                                                  </binding>
+                                                  </bindingDesc>
+                                                  <sealDesc>
+                                                  <seal>
+                                                  <p>Wax seal</p>
+                                                  </seal>
+                                                  </sealDesc>
+                                                  <accMat/>
+                                                  <envDesc occ="false"/>
+                                                  </physDesc>
+                                                  <history>
+                                                  <origin/>
+                                                  <provenance/>
+                                                  <acquisition/>
+                                                  </history>
+                                                  <additional>
+                                                  <adminInfo>
+                                                  <recordHist>
+                                                  <source/>
+                                                  <change/>
+                                                  </recordHist>
+                                                  <availability status="free">
+                                                  <p>Unrestricted</p>
+                                                  </availability>
+                                                  <custodialHist>
+                                                  <custEvent/>
+                                                  </custodialHist>
+                                                  </adminInfo>
+                                                  <surrogates/>
+                                                  <listBibl>
+                                                  <bibl/>
+                                                  </listBibl>
+                                                  </additional>
+                                                  <msPart>
+                                                  <altIdentifier>
+                                                  <idno/>
+                                                  </altIdentifier>
+                                                  </msPart>
+                                        </msDesc>
+                              </sourceDesc>
+                    </fileDesc>
+                    <encodingDesc>
+                              <projectDesc>
+                                        <p/>
+                              </projectDesc>
+                              <samplingDecl>
+                                        <p/>
+                              </samplingDecl>
+                              <editorialDecl>
+                                        <correction>
+                                                  <p/>
+                                        </correction>
+                                        <normalization>
+                                                  <p/>
+                                        </normalization>
+                                        <quotation>
+                                                  <p/>
+                                        </quotation>
+                                        <hyphenation>
+                                                  <p/>
+                                        </hyphenation>
+                                        <segmentation>
+                                                  <p/>
+                                        </segmentation>
+                                        <stdVals>
+                                                  <p/>
+                                        </stdVals>
+                                        <interpretation>
+                                                  <p/>
+                                        </interpretation>
+                              </editorialDecl>
+                              <tagsDecl>
+                                        <rendition/>
+                                        <namespace name="http://www.tei-c.org/ns/1.0">
+                                                  <tagUsage gi=""/>
+                                        </namespace>
+                              </tagsDecl>
+                              <refsDecl>
+                                        <cRefPattern matchPattern="" replacementPattern=""/>
+                              </refsDecl>
+                              <refsDecl>
+                                        <refState unit=""/>
+                              </refsDecl>
+                              <classDecl>
+                                        <taxonomy>
+                                                  <category>
+                                                  <catDesc/>
+                                                  </category>
+                                        </taxonomy>
+                              </classDecl>
+                              <appInfo>
+                                        <application ident="" version="">
+                                                  <desc/>
+                                                  <label/>
+                                        </application>
+                              </appInfo>
+                    </encodingDesc>
+                    <profileDesc>
+                              <creation/>
+                              <langUsage>
+                                        <language ident="en">English</language>
+                                        <language ident="he">Hebrew</language>
+                              </langUsage>
+                              <textClass>
+                                        <keywords scheme="unknown">
+                                                  <list>
+                                                  <item/>
+                                                  <item/>
+                                                  </list>
+                                        </keywords>
+                                        <classCode scheme=""/>
+                                        <catRef/>
+                              </textClass>
+                    </profileDesc>
+                    <revisionDesc>
+                              <change/>
+                    </revisionDesc>
+          </teiHeader>
+          <text>
+                    <body>
+                              <pb n="1"/>
+                              <p>
+                                        <addressee>Rev. Mr. Leeser</addressee>
+                                        <add>Hebrew</add>
+                              </p>
+                              <p>
+                                        <add>Hebrew</add>
+                              </p>
+                              <pb n="2"/>
+                              <p>Rev <addressee>Mr. Isaac Leeser</addressee></p>
+                              <p rend="indent(2)">
+                                        <placeName>Philadelphia</placeName>
+                              </p>
+                              <pb n="3"/>
+                              <p>
+                                        <add>
+                                                  <hi rend="underline">Yiddish</hi>
+                                        </add>
+                              </p>
+                              <p rend="align(right)">
+                                        <placeName>N. Y.</placeName>
+                                        <date>Friday, Pericosse Behar,</date>
+                              </p>
+                              <p rend="align(right)"><date>(May), 1849</date>.</p>
+                              <p>Rev. Mr. Leeser:</p>
+                              <p rend="indent(2)">By express I received <add>back</add> this morning
+                                        the<lb/> Torah, and just now I received your letter.
+                                        “Since<lb/> *I would rather give it to you than to another
+                                        man”,<lb/> I take this opportunity, <del>to</del> since
+                                        another one presents<lb/> itself for sale, at the price of
+                                        $80. to offer you this one<lb/> at a reduction of $5, namely
+                                        at $85. It is certainly<lb/> worth more, although the other
+                                        one is also a handsome<lb/> Torah and also belongs to me. If
+                                        you want it, I shall<lb/> see that it is transferred to you.
+                                        The other party is not<lb/> particularly to give it on
+                                        commission. For my own, I<lb/> have a buyer. I am convinced
+                                        that I could get<lb/> more for it, nevertheless, 'first
+                                        come, first served,'<lb/> I am awaiting your answer.
+                                        Greetings from my<lb/> dear wife, who, with God's help, will
+                                        soon recover.</p>
+                              <p rend="indent(6)">Respectfully,</p>
+                              <p rend="indent(6)">Schnaor<add>?</add>
+                                        <persName role="author">Nussbaum</persName></p>
+                              <p>*Genesis 29.19</p>
+                    </body>
+          </text>
 </TEI>

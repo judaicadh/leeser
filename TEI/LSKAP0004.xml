@@ -1,265 +1,293 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="yes">J &#38; G Myer, Mrss.</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>LSKAP</repository>
-						<collection>The Arnold and Deanne Kaplan Collection of Early American Judaica</collection>
-						<idno>LSKAP0004</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="yes">J &#38; G Myer, Mrss.</author>
-						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac</addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>Montgomery, AL</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1848-12" source="" attested="yes">December 6, 1848</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="LSKAP0004R.jpg"></graphic>
-								<graphic url="LSKAP0004V.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="false" paper_type="" size="">letter</material>
-								</support>
-								<extent>2 pages on 1 sheet
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="manuscript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="restricted">
-								<p>Restricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1R"/>
-				<p rend="align(right)"><placeName>Montgomery</placeName> <date>Decb. 6 &#8220;48</date></p>
-				<p>The Chefra Mef. Cholim</p>
-			<p rend="indent(1)">to <addressee>Mr Isaac Leeser</addressee> &#8220; <placeName>Philadelphia</placeName></p>
-			<p rend="indent(2)">Dear Sir</p>
-			<p rend="indent(3)">We send you<lb/> enclosed Three Dollars for the Occident from<lb/> last year&#44; and you will please direct<lb/> the Same the next time to</p>
-			<p rend="indent(6)"><persName role="author">Mrss J &#38; G Myer</persName></p>
-			<p rend="indent(7)"><placeName>Montgy. Ala</placeName></p>
-				<p>About our Chefra we have to write you&#44;<lb/> that she is going on very well&#44; we have<lb/> now <add>Hebrew</add> <add>&#8220;Beit Hakvachot&#8221; JE transliteration</add>&#44; and have rented<lb/> a Synagogue&#44; also the Election of<lb/> our Officers took place on the <date>5th of<lb/> November 48</date>.  and it is elected</p>
-				<list type="ordered">
-				<head></head>
-				<item n="1"><persName>Jacob Myer</persName> President</item>
-				<item n="2"><persName>P. Krans</persName>&#44; Vice president</item>
-				<item n="3"><persName>Emanuel Lehman</persName>&#44; Secretary</item>
-				<item n="4"><persName>Henry Weil</persName>&#44; Treasurer</item>
-				<item n="5"><persName>M. Englander</persName>&#44; Trustee</item>
-				<item n="6"><persName>Charles Levy</persName>&#44; <add>&#63;</add></item>
-				</list>
-				<p>Please inset this in your next Occident&#44;<lb/> and write me please an <sic>answere</sic>&#44; &#38;<lb/> by so doing we are respectf.</p>
-			<p rend="indent(9)">The President</p>
-			<p rend="indent(9)"><persName role="author">J Myer</persName>   <persName>Em. Lehman</persName></p>
-				<p rend="align(right)">Secret&#58;</p>
-			<pb n="1V"/>
-			<p rend="indent(5)"><addressee>Mr Isaac Leeser</addressee></p>
-			<p rend="indent(6)"><placeName>Philadelphia</placeName></p>
-			<p rend="indent(7)"><placeName>Pa</placeName>&#124;</p>
-				<p rend="Note&#58;">&#8220;Hevra Mevaker Holim&#8221; written in right margin&#59; &#35;001 6.6.94 circled and [?] Judaica Alabama [?] written in left margin</p>
-		</body>
-	</text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="yes">J &amp; G Myer, Mrss.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>LSKAP</repository>
+                        <collection>The Arnold and Deanne Kaplan Collection of Early American
+                            Judaica</collection>
+                        <idno>LSKAP0004</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="yes">J &amp; G Myer,
+                            Mrss.</author>
+                        <addressee accepted="yes" attested="yes" editor="false">Leeser,
+                            Isaac</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Montgomery, AL</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1848-12">December 6, 1848</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="LSKAP0004R.jpg"/>
+                                <graphic url="LSKAP0004V.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >letter</material>
+                                </support>
+                                <extent>2 pages on 1 sheet <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="restricted">
+                                <p>Restricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1R"/>
+            <p rend="align(right)">
+                <placeName>Montgomery</placeName>
+                <date>Decb. 6 “48</date>
+            </p>
+            <p>The Chefra Mef. Cholim</p>
+            <p rend="indent(1)">to <addressee>Mr Isaac Leeser</addressee> “
+                    <placeName>Philadelphia</placeName></p>
+            <p rend="indent(2)">Dear Sir</p>
+            <p rend="indent(3)">We send you<lb/> enclosed Three Dollars for the Occident from<lb/>
+                last year, and you will please direct<lb/> the Same the next time to</p>
+            <p rend="indent(6)">
+                <persName role="author">Mrss J &amp; G Myer</persName>
+            </p>
+            <p rend="indent(7)">
+                <placeName>Montgy. Ala</placeName>
+            </p>
+            <p>About our Chefra we have to write you,<lb/> that she is going on very well, we
+                have<lb/> now <add>בית הקברות</add>
+                <add>“Beit Hakvachot” JE transliteration</add>, and have rented<lb/> a Synagogue,
+                also the Election of<lb/> our Officers took place on the <date>5th of<lb/> November
+                    48</date>. and it is elected</p>
+            <list type="ordered">
+                <head/>
+                <item n="1"><persName>Jacob Myer</persName> President</item>
+                <item n="2"><persName>P. Krans</persName>, Vice president</item>
+                <item n="3"><persName>Emanuel Lehman</persName>, Secretary</item>
+                <item n="4"><persName>Henry Weil</persName>, Treasurer</item>
+                <item n="5"><persName>M. Englander</persName>, Trustee</item>
+                <item n="6"><persName>Charles Levy</persName>, <add>?</add></item>
+            </list>
+            <p>Please inset this in your next Occident,<lb/> and write me please an
+                    <sic>answere</sic>, &amp;<lb/> by so doing we are respectf.</p>
+            <p rend="indent(9)">The President</p>
+            <p rend="indent(9)">
+                <persName role="author">J Myer</persName>
+                <persName>Em. Lehman</persName>
+            </p>
+            <p rend="align(right)">Secret:</p>
+            <pb n="1V"/>
+            <p rend="indent(5)">
+                <addressee>Mr Isaac Leeser</addressee>
+            </p>
+            <p rend="indent(6)">
+                <placeName>Philadelphia</placeName>
+            </p>
+            <p rend="indent(7)"><placeName>Pa</placeName>|</p>
+            <p rend="Note:">“Hevra Mevaker Holim” written in right margin; #001 6.6.94 circled and
+                [?] Judaica Alabama [?] written in left margin</p>
+        </body>
+    </text>
 </TEI>

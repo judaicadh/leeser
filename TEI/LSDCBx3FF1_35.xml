@@ -1,267 +1,320 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE TEI [
-<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
-%teibase;
-<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
-%teiext;
-]>
-<TEI>
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="yes">Phillips, Eliezar</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>CAJS Isaac Leeser Collection</repository>
-						<collection>The Library of the Dropsie College for Hebrew and Cognate Learning</collection>
-						<idno>LSDCBx3FF1_35</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="yes">Phillips, Eliezar</author>
-						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac, Mr.</addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>New York, NY</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1866-06" source="" attested="yes">June 1866</dateLet>
-						<dateLet when="1866-06" source="" attested="yes">2 Tammuz</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="ilcajs_b3f1_0035_1r.jpg"></graphic>
-								<graphic url="ilcajs_b3f1_0035_1v.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="true" paper_type="" size="Letter">letter</material>
-								</support>
-								<extent>3 pages on 2 sheets
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="manuscript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="free">
-								<p>Unrestricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="he">Hebrew</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1"/>
-				<p rend="align(right)"><placeName>N.Y.</placeName> <date>Sunday</date>&#44; The</p>
-			<p rend="align(right)"><date>2nd of Tammuz</date></p>
-			<p rend="align(right)"><date>&#40;June&#41; 1866</date>.</p>
-				<p><add>Hebrew</add></p>
-				<p>Greetings&#44; etc. to my<lb/> friend&#44; etc. <persName>Isaac</persName> son of <persName>Uri Leeser</persName>&#58;</p>
-			<p rend="indent(1)">After my greetings of peace&#44; I want<lb/> to ask you for one favor&#44; and I am<lb/> ready to pay for your trouble&#44; as<lb/> much as you will justly impose upon<lb/> me. God is my witness that it is not<lb/> for my own glory but for Him and his<lb/> Torah that I do this. There is a time<lb/> for silence and a time for speech.<lb/> We should not permit The final mish&#45;<lb/>nah of Chapter IX of the Treatise Sotah<lb/> to come true&#44; &#8220;The wisdom of the Scribes<lb/> grows stale&#44; and the righteous become<lb/> despised&#44; then truth is lacking.&#8221;</p>
-			<p rend="indent(1)">It is now three days since an old<lb/> man died here and departed this life<lb/> from us and all <placeName>Israel</placeName>. His name was<lb/> <persName>Rabbi Isaac</persName>&#44; called <persName>Isaac Ha Kohen</persName>&#44;<lb/> a righteous and pious man as you will<lb/> see in the newspaper of <persName>Rev Isaac&#39;s</persName> of</p>
-			<pb n="2"/>
-				<p>last week. His son&#44; <persName>Mr. Cohen</persName>&#44; The<lb/> Parass of Rodaphei Zedek&#44; asked me<lb/> to pronounce an appropriate eulogy<lb/> for his father&#44; since I was a frequent<lb/> visitor to his house and a loyal<lb/> friend. I did as he told me and de&#45;<lb/>cided to pronounce the eulogy in<lb/> his home after he had been prepared<lb/> for burial&#44; because in that house he<lb/> used to sit and study for many years.<lb/> I uttered words that came from the<lb/> heart. Everyone wept for him and<lb/> every eye was moist with tears. But<lb/> I shall give you only a small portion<lb/> of it. I began with a quotation from<lb/> the Treatise &#8220;Mored<add>&#63;</add> Katan<add>&#63;</add>&#8221;.  &#40;The<lb/> quotation from the eulogy takes up &#189; <lb/> page. The point of it is that this old<lb/> man was very useful to the community<lb/> and was comparable to the sun at its<lb/> height. Hence this death is a universal<lb/> misfortune&#44; comparable to the setting of<lb/> the sun at midday&#41;. The letter then continues&#58;</p>
-			<pb n="3"/>
-				<p>But <persName>Rev. Issacs</persName> was evidently en&#45;<lb/>vious for he did not mention my name<lb/> in his newspaper. He did mention all<lb/> the mourners&#44; and who do you think<lb/> was at their head&#63; <persName>Rev. Isaacs</persName>.<lb/> That is why I ask you to do me a favor<lb/> and mention my name in the &#8220;Occident&#8221;<lb/> and I shall compensate you whatever<lb/> you say for mentioning my name in a<lb/> good sense. Also send me The &#8220;Occident&#8221;<lb/> and I will consider it an act of <lb/> righteousness. Everyone here is angry<lb/> that he neglected to mention my name.<lb/> I shall be forever indebted to you and<lb/> I hope to do something in return. For<lb/> truth must stand forever.</p>
-			<p rend="indent(1)">I also should like to have you<lb/> let me know what you did with the<lb/> Sefer Torah in which the first chapter<lb/> of the portion &#8220;Mi&#45;Ketz&#8221; &#40;Genesis&#44; 41&#41; is<lb/> missing&#44; and whether you corrected the<lb/> Sefer Torah. Has much correcting neces&#45;</p>
-			<pb n="4"/>
-				<p>sary as you wrote in your letter<lb/> when I was in <placeName>Philadelphia</placeName>&#44; and I<lb/> send greetings to my friend <persName>Mrs. Papfer</persName>.<lb/>  Now I want to tell you my good news that<lb/> my son in <placeName>Stalpe</placeName> in <placeName>Pomerania</placeName> became<lb/> engaged and the wedding will be very<lb/> soon with Mazel Tov.</p>
-			<p rend="indent(1)">Again I ask you not to be<lb/> angry at me.</p>
-			<p rend="indent(6)"><persName role="author">Eliezar Phillips</persName></p>
-			<p rend="indent(6)">&#40;Scribe in <placeName>N.Y.</placeName>&#41;</p>
-				<p>If you want to honor me with a<lb/> few lines my address is<lb/> <persName>L. Phillips</persName>&#44; <placeName>203 Broome St.&#44; N.Y.</placeName></p>
-			<pb n="5"/>
-				<p><del><persName>MRS. SOLOMON GRAYZEL</persName><lb/> <placeName>THE SHELBURNE<lb/> 13TH STREET AND LINDLEY AVENUE<lb/> PHILADELPHIA&#44; PA.</placeName></del></p>
-		</body>
-	</text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="yes">Phillips, Eliezar</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS Isaac Leeser Collection</repository>
+                        <collection>The Library of the Dropsie College for Hebrew and Cognate
+                            Learning</collection>
+                        <idno>LSDCBx3FF1_35</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="yes">Phillips,
+                            Eliezar</author>
+                        <addressee accepted="yes" attested="yes" editor="false">Leeser, Isaac,
+                            Mr.</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>New York, NY</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1866-06">June 1866</dateLet>
+                        <dateLet attested="yes" source="" when="1866-06">2 Tammuz</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="ilcajs_b3f1_0035_1r.jpg"/>
+                                <graphic url="ilcajs_b3f1_0035_1v.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="true" paper_type="" size="Letter"
+                                        >letter</material>
+                                </support>
+                                <extent>3 pages on 2 sheets <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="he">Hebrew</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <p rend="align(right)"><placeName>N.Y.</placeName>
+                <date>Sunday</date>, The</p>
+            <p rend="align(right)">
+                <date>2nd of Tammuz</date>
+            </p>
+            <p rend="align(right)"><date>(June) 1866</date>.</p>
+            <p>
+                <add>צ"ה ניוארק אור ליום ב' תמוז ברכת ד' לפ"ע</add>
+            </p>
+            <p>Greetings, etc. to my<lb/> friend, etc. <persName>Isaac</persName> son of
+                    <persName>Uri Leeser</persName>:</p>
+            <p rend="indent(1)">After my greetings of peace, I want<lb/> to ask you for one favor,
+                and I am<lb/> ready to pay for your trouble, as<lb/> much as you will justly impose
+                upon<lb/> me. God is my witness that it is not<lb/> for my own glory but for Him and
+                his<lb/> Torah that I do this. There is a time<lb/> for silence and a time for
+                speech.<lb/> We should not permit The final mish-<lb/>nah of Chapter IX of the
+                Treatise Sotah<lb/> to come true, “The wisdom of the Scribes<lb/> grows stale, and
+                the righteous become<lb/> despised, then truth is lacking.”</p>
+            <p rend="indent(1)">It is now three days since an old<lb/> man died here and departed
+                this life<lb/> from us and all <placeName>Israel</placeName>. His name was<lb/>
+                <persName>Rabbi Isaac</persName>, called <persName>Isaac Ha Kohen</persName>,<lb/> a
+                righteous and pious man as you will<lb/> see in the newspaper of <persName>Rev
+                    Isaac's</persName> of</p>
+            <pb n="2"/>
+            <p>last week. His son, <persName>Mr. Cohen</persName>, The<lb/> Parass of Rodaphei
+                Zedek, asked me<lb/> to pronounce an appropriate eulogy<lb/> for his father, since I
+                was a frequent<lb/> visitor to his house and a loyal<lb/> friend. I did as he told
+                me and de-<lb/>cided to pronounce the eulogy in<lb/> his home after he had been
+                prepared<lb/> for burial, because in that house he<lb/> used to sit and study for
+                many years.<lb/> I uttered words that came from the<lb/> heart. Everyone wept for
+                him and<lb/> every eye was moist with tears. But<lb/> I shall give you only a small
+                portion<lb/> of it. I began with a quotation from<lb/> the Treatise
+                    “Mored<add>?</add> Katan<add>?</add>”. (The<lb/> quotation from the eulogy takes
+                up ½ <lb/> page. The point of it is that this old<lb/> man was very useful to the
+                community<lb/> and was comparable to the sun at its<lb/> height. Hence this death is
+                a universal<lb/> misfortune, comparable to the setting of<lb/> the sun at midday).
+                The letter then continues:</p>
+            <pb n="3"/>
+            <p>But <persName>Rev. Issacs</persName> was evidently en-<lb/>vious for he did not
+                mention my name<lb/> in his newspaper. He did mention all<lb/> the mourners, and who
+                do you think<lb/> was at their head? <persName>Rev. Isaacs</persName>.<lb/> That is
+                why I ask you to do me a favor<lb/> and mention my name in the “Occident”<lb/> and I
+                shall compensate you whatever<lb/> you say for mentioning my name in a<lb/> good
+                sense. Also send me The “Occident”<lb/> and I will consider it an act of <lb/>
+                righteousness. Everyone here is angry<lb/> that he neglected to mention my
+                name.<lb/> I shall be forever indebted to you and<lb/> I hope to do something in
+                return. For<lb/> truth must stand forever.</p>
+            <p rend="indent(1)">I also should like to have you<lb/> let me know what you did with
+                the<lb/> Sefer Torah in which the first chapter<lb/> of the portion “Mi-Ketz”
+                (Genesis, 41) is<lb/> missing, and whether you corrected the<lb/> Sefer Torah. Has
+                much correcting neces-</p>
+            <pb n="4"/>
+            <p>sary as you wrote in your letter<lb/> when I was in
+                    <placeName>Philadelphia</placeName>, and I<lb/> send greetings to my friend
+                    <persName>Mrs. Papfer</persName>.<lb/> Now I want to tell you my good news
+                that<lb/> my son in <placeName>Stalpe</placeName> in
+                    <placeName>Pomerania</placeName> became<lb/> engaged and the wedding will be
+                very<lb/> soon with Mazel Tov.</p>
+            <p rend="indent(1)">Again I ask you not to be<lb/> angry at me.</p>
+            <p rend="indent(6)">
+                <persName role="author">Eliezar Phillips</persName>
+            </p>
+            <p rend="indent(6)">(Scribe in <placeName>N.Y.</placeName>)</p>
+            <p>If you want to honor me with a<lb/> few lines my address is<lb/>
+                <persName>L. Phillips</persName>, <placeName>203 Broome St., N.Y.</placeName></p>
+            <pb n="5"/>
+            <p>
+                <del>
+                    <persName>MRS. SOLOMON GRAYZEL</persName>
+                    <lb/>
+                    <placeName>THE SHELBURNE<lb/> 13TH STREET AND LINDLEY AVENUE<lb/> PHILADELPHIA,
+                        PA.</placeName>
+                </del>
+            </p>
+        </body>
+    </text>
 </TEI>

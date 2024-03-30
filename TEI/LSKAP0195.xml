@@ -1,262 +1,359 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="yes">Carvalho, J. N.</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>LSKAP</repository>
-						<collection>The Arnold and Deanne Kaplan Collection of Early American Judaica</collection>
-						<idno>LSKAP0195</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="yes">Carvalho, J. N.</author>
-						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac</addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>Charleston, SC</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1852-04" source="" attested="yes">April 20, 1852</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="LSKAP0195_1r.jpg"></graphic>
-								<graphic url="LSKAP0195_1v.jpg"></graphic>
-								<graphic url="LSKAP0195_2r.jpg"></graphic>
-								<graphic url="LSKAP0195_2v.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="false" paper_type="" size="">letter</material>
-								</support>
-								<extent>4 pages on 2 sheets
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="manuscript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="restricted">
-								<p>Restricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1R"/>
-				<p rend="align(right)"><placeName>Charleston</placeName> <date>20h. April 1852</date>.</p>
-				<p>My dear Sir.</p>
-			<p rend="indent(2)">Your esteemed favors p <persName>Mr Nathans</persName>. and p mail<lb/> <date>16th</date> met on at hand.  <persName>Euripides</persName> says.</p>
-			<quote rend="indent(1)">&#8220;The Wise with hope&#44; support the pains of life.&#8221;</quote>
-				<p>Not to quote the number less passages from scripture where<lb/> the same lesson is inculcated.  take consolation my good sir.<lb/> and do not despond&#8212;I see through the thin vapour which<lb/> is insufficient to obscure the brightness of the orb beyond.<lb/>  And as I do not possess more keenery of vision than<lb/> the rest of the community who use <hi rend="underline">these eyes</hi>&#44; <hi rend="underline">without</hi><lb/> the use of <hi rend="underline">yellow</hi> <add>or green</add> glasses.  depend upon it <persName>Caesar</persName> will get<lb/> his due in proper time&#44; only for the future bear in mind<lb/> the quotation from <persName>Horace</persName> Epistles XVIII.36..lib1.</p>
-			<quote rend="indent(1)">&#8220;command not&#44; till a man is thoroughly known<lb/> Qualem commendes etiam atque etiam adspice&#44; ne<lb/> <add>a rascal trained&#44; you make his fault your own</add> <lb/> mox&#44; Incutiant aliena tibi peccata pudorem.&#8221; </quote>
-				<p>What you could not do less than give <persName>Mr Myer</persName> such a<lb/> letter as you have described and which agrees with the<lb/> original.  Seen by <persName>Mr Moise</persName>&#44; I am perfectly satisfied and<lb/> so is <persName>Mr Moise</persName>&#44; There is no doubt but it made a<lb/> favorable impression altho it did not speak of his religious<lb/> principles&#8212;which <sic>ave</sic> developed in a letter to <persName>Mr Poznanski</persName><lb/> his belief in the bible subject to criticism&#8212;and that it also<lb/> contains&#44; &#8220;<hi rend="underline">Myths</hi>&#8221;&#8212;I suppose from mythos&#44; &#8220;<hi rend="underline">fables</hi><lb/> a fine teacher in <placeName><sic>Isaul</sic></placeName>&#44; who is to select the<lb/> <hi rend="underline">fables</hi> from the <hi rend="underline">Truths</hi>&#44; I should like to get hold of<lb/> a copy of the letter&#44; to send to you for publication.  These<lb/> ought to be a standard for Jewish belief if it is only</p>
-			<pb n="1V"/>
-				<p><sic>compized</sic> in only a full faith in the Bible.  If a man<lb/> cannot fully subscribe to this&#44; he is not fit to be a teacher<lb/> in <placeName>Israel</placeName>.  I do not think that all these things<lb/> being known you would have given him the paper&#44;<lb/> Resolutions were passed at the meeting on <date>Sunday</date> that<lb/> if the Gent came on they would be happy to see him<lb/> but made no appropriation to pay his expenses&#44; or<lb/> in other words a left handed sort of way of <sic>insiting</sic> him<lb/> on to take a look at the animal&#44; without incurring<lb/> any <sic>expence</sic>&#8212;I have not heard if he will come&#44;&#8212;<lb/> whenever I hear this letter of yours spoken of I shall<lb/> take the pains to set you right before the public&#44;<lb/>  It is not a <sic>parrellel</sic> care with <persName>Dr Raphael</persName>.  do not<lb/> let this worry you.  take things <sic>coolly</sic>&#44;&#8212;</p>
-				<p>with regard to <persName>Mr Henry</persName> since I wrote you I learned<lb/> that <persName>Rev Ellis Lyons</persName> had recd a letter from <persName>Henry</persName>. Requesting<lb/> <persName>Lyons</persName> to give him the names in full of such persons who<lb/> know any thing about the affair.  <persName>Mr Valentine</persName> tells me<lb/> this and also that they wanted his name which he gave at<lb/> the same time stating that he knew nothing at all about<lb/> the matter.  <persName>Sam Hart Sr</persName> says if they call on him by<lb/> commission.  he knows nothing and if he did know he would<lb/> not say&#8212;as he is not compelled to testify out of the state<lb/> I shall see <persName>Mr Levin</persName> to day and get some particulars about it<lb/> <persName>Mrs Carter</persName> thinks you have done wrong and she uses this<lb/> argument&#44;&#8212;&#8221;If <persName>Mr Henry</persName> &#8220;<hi rend="underline">poor man</hi>&#8221; were not basely slandered<lb/> would he <add>&#63;</add> <persName>Mr Leeser</persName> and have all the particulars before<lb/> the public.  I am sure he is innocent.&#8221;  Now this pretended<lb/> production is only got up to create Sympathy for the</p>
-			<pb n="2R"/>
-				<p>poor man&#44; &#8220;who came here to sell his books to support his<lb/> family.&#8221;&#8212;the public are not to know that the suit is not<lb/> brought&#44;&#8212;they <sic>learnd</sic> that he intends or has sued you<lb/> which he would <hi rend="underline">not</hi> do if he could <hi rend="underline">not prove</hi> his <hi rend="underline">innocence</hi>&#44;</p>
-			<p rend="indent(1)">When I see <persName>Mr Levin</persName> I will learn the truth about the<lb/> summons.  The Lawyer for <persName>Henry</persName> is also known here.<lb/>  Your friend <persName>Henry Phillips</persName> is the man&#44; this is also to give<lb/> <sic>plausibily</sic> to the report&#8212;now it may be true but I<lb/> do not believe that he will bring suit&#44; and if he does<lb/> not&#8212;where does <persName>Mr Henry</persName> stand&#44; if he is innocent<lb/>  I am sure you will do him justice&#44;</p>
-				<p>with regard to yourself you are &#40;being a public man&#41;<lb/> free game for all to shoot at&#59; and at same time you<lb/> have the full privilege to clothe your self in such<lb/> a panoply of virtue that the shafts are turned harmless<lb/> away.  &#8220;For those are hated that <sic>exel</sic> the most<lb/> Altho when dead the are beloved&#44; and blest&#8221;</p>
-				<p><date>22d</date> last night I saw <persName>Mr Lyons</persName> and asked him<lb/> if he had been summoned.&#8212;he replied not yet&#8212;that<lb/> he had recd a letter from <persName>Mr Henry</persName> <add>stating that he intended to summon him and</add> requesting him to<lb/> find out who did know any thing about the report&#44; and<lb/> to send him their names in full.  <persName>Mr Lyons</persName> says he does<lb/> not know any thing about it and is very sorry that<lb/> <persName>Mr Henry</persName> wrote to him.  <persName>Mr Henry</persName> states that he intends<lb/> to bring suit against you for defamation&#44; and that he<lb/> has obtained Counsel&#44; but does <hi rend="underline">not</hi> state how&#44; altho<lb/> as I wrote above I heard it was <persName>H.P.</persName>&#8212;<persName>Mr Lyons</persName> can<lb/> send him <hi rend="underline">no</hi> information&#44; so for want of it he will not</p>
-			<pb n="2V"/>
-				<p>be able to bring suit&#8212;I think this is the last you<lb/> will hear about it&#44; the Gent evidently wanted to create<lb/> a sympathy&#44; for himself in <placeName>Charleston</placeName>.</p>
-			<p rend="indent(1)">There is a <add>private</add> letter here lately recd from <placeName>Cincinnati</placeName> which<lb/> <hi rend="underline">endorses</hi> all you said and more beside&#8212;I have not seen<lb/> it but <persName>Mr Valentine</persName>&#44; <hi rend="underline">has&#8212;</hi>he told me so.</p>
-			<p rend="indent(1)">I am anxious to learn if <persName>Solomon Solis</persName> has<lb/> arrived in <placeName>Europe</placeName>.  I notice the arrival of the<lb/> vessels he went out in and dates to <placeName>Asia</placeName> 10 days after<lb/> his arrival but we have recd no letter and<lb/> Dear <persName>Sarah</persName> is very unhappy&#44; if you know<lb/> the real state of his health please let me know<lb/> and <hi rend="underline">enclose it to <persName>Mr Levin</persName> if unfavorable</hi>&#44; as all<lb/> my letters are delivered at my Residence and I<lb/> do not wish my wife to be too suddenly informed of<lb/> any ill news&#44; which I hope there will be no occasion for</p>
-			<p rend="indent(6)">Yours Truly</p>
-			<p rend="indent(7)"><persName role="author">J N Carvalho</persName>.</p>
-		</body>
-	</text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="yes">Carvalho, J. N.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>LSKAP</repository>
+                        <collection>The Arnold and Deanne Kaplan Collection of Early American
+                            Judaica</collection>
+                        <idno>LSKAP0195</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="yes">Carvalho, J.
+                            N.</author>
+                        <addressee accepted="yes" attested="yes" editor="false">Leeser,
+                            Isaac</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Charleston, SC</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1852-04">April 20, 1852</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="LSKAP0195_1r.jpg"/>
+                                <graphic url="LSKAP0195_1v.jpg"/>
+                                <graphic url="LSKAP0195_2r.jpg"/>
+                                <graphic url="LSKAP0195_2v.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >letter</material>
+                                </support>
+                                <extent>4 pages on 2 sheets <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="restricted">
+                                <p>Restricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1R"/>
+            <p rend="align(right)"><placeName>Charleston</placeName>
+                <date>20h. April 1852</date>.</p>
+            <p>My dear Sir.</p>
+            <p rend="indent(2)">Your esteemed favors p <persName>Mr Nathans</persName>. and p mail<lb/>
+                <date>16th</date> met on at hand. <persName>Euripides</persName> says.</p>
+            <quote rend="indent(1)">“The Wise with hope, support the pains of life.”</quote>
+            <p>Not to quote the number less passages from scripture where<lb/> the same lesson is
+                inculcated. take consolation my good sir.<lb/> and do not despond—I see through the
+                thin vapour which<lb/> is insufficient to obscure the brightness of the orb
+                beyond.<lb/> And as I do not possess more keenery of vision than<lb/> the rest of
+                the community who use <hi rend="underline">these eyes</hi>, <hi rend="underline"
+                    >without</hi><lb/> the use of <hi rend="underline">yellow</hi>
+                <add>or green</add> glasses. depend upon it <persName>Caesar</persName> will
+                get<lb/> his due in proper time, only for the future bear in mind<lb/> the quotation
+                from <persName>Horace</persName> Epistles XVIII.36..lib1.</p>
+            <quote rend="indent(1)">“command not, till a man is thoroughly known<lb/> Qualem
+                commendes etiam atque etiam adspice, ne<lb/>
+                <add>a rascal trained, you make his fault your own</add>
+                <lb/> mox, Incutiant aliena tibi peccata pudorem.” </quote>
+            <p>What you could not do less than give <persName>Mr Myer</persName> such a<lb/> letter
+                as you have described and which agrees with the<lb/> original. Seen by <persName>Mr
+                    Moise</persName>, I am perfectly satisfied and<lb/> so is <persName>Mr
+                    Moise</persName>, There is no doubt but it made a<lb/> favorable impression
+                altho it did not speak of his religious<lb/> principles—which <sic>ave</sic>
+                developed in a letter to <persName>Mr Poznanski</persName><lb/> his belief in the
+                bible subject to criticism—and that it also<lb/> contains, “<hi rend="underline"
+                    >Myths</hi>”—I suppose from mythos, “<hi rend="underline">fables</hi><lb/> a
+                fine teacher in <placeName><sic>Isaul</sic></placeName>, who is to select the<lb/>
+                <hi rend="underline">fables</hi> from the <hi rend="underline">Truths</hi>, I should
+                like to get hold of<lb/> a copy of the letter, to send to you for publication.
+                These<lb/> ought to be a standard for Jewish belief if it is only</p>
+            <pb n="1V"/>
+            <p><sic>compized</sic> in only a full faith in the Bible. If a man<lb/> cannot fully
+                subscribe to this, he is not fit to be a teacher<lb/> in
+                    <placeName>Israel</placeName>. I do not think that all these things<lb/> being
+                known you would have given him the paper,<lb/> Resolutions were passed at the
+                meeting on <date>Sunday</date> that<lb/> if the Gent came on they would be happy to
+                see him<lb/> but made no appropriation to pay his expenses, or<lb/> in other words a
+                left handed sort of way of <sic>insiting</sic> him<lb/> on to take a look at the
+                animal, without incurring<lb/> any <sic>expence</sic>—I have not heard if he will
+                come,—<lb/> whenever I hear this letter of yours spoken of I shall<lb/> take the
+                pains to set you right before the public,<lb/> It is not a <sic>parrellel</sic> care
+                with <persName>Dr Raphael</persName>. do not<lb/> let this worry you. take things
+                    <sic>coolly</sic>,—</p>
+            <p>with regard to <persName>Mr Henry</persName> since I wrote you I learned<lb/> that
+                    <persName>Rev Ellis Lyons</persName> had recd a letter from
+                    <persName>Henry</persName>. Requesting<lb/>
+                <persName>Lyons</persName> to give him the names in full of such persons who<lb/>
+                know any thing about the affair. <persName>Mr Valentine</persName> tells me<lb/>
+                this and also that they wanted his name which he gave at<lb/> the same time stating
+                that he knew nothing at all about<lb/> the matter. <persName>Sam Hart Sr</persName>
+                says if they call on him by<lb/> commission. he knows nothing and if he did know he
+                would<lb/> not say—as he is not compelled to testify out of the state<lb/> I shall
+                see <persName>Mr Levin</persName> to day and get some particulars about it<lb/>
+                <persName>Mrs Carter</persName> thinks you have done wrong and she uses this<lb/>
+                argument,—”If <persName>Mr Henry</persName> “<hi rend="underline">poor man</hi>”
+                were not basely slandered<lb/> would he <add>?</add>
+                <persName>Mr Leeser</persName> and have all the particulars before<lb/> the public.
+                I am sure he is innocent.” Now this pretended<lb/> production is only got up to
+                create Sympathy for the</p>
+            <pb n="2R"/>
+            <p>poor man, “who came here to sell his books to support his<lb/> family.”—the public
+                are not to know that the suit is not<lb/> brought,—they <sic>learnd</sic> that he
+                intends or has sued you<lb/> which he would <hi rend="underline">not</hi> do if he
+                could <hi rend="underline">not prove</hi> his <hi rend="underline"
+                >innocence</hi>,</p>
+            <p rend="indent(1)">When I see <persName>Mr Levin</persName> I will learn the truth
+                about the<lb/> summons. The Lawyer for <persName>Henry</persName> is also known
+                here.<lb/> Your friend <persName>Henry Phillips</persName> is the man, this is also
+                to give<lb/>
+                <sic>plausibily</sic> to the report—now it may be true but I<lb/> do not believe
+                that he will bring suit, and if he does<lb/> not—where does <persName>Mr
+                    Henry</persName> stand, if he is innocent<lb/> I am sure you will do him
+                justice,</p>
+            <p>with regard to yourself you are (being a public man)<lb/> free game for all to shoot
+                at; and at same time you<lb/> have the full privilege to clothe your self in
+                such<lb/> a panoply of virtue that the shafts are turned harmless<lb/> away. “For
+                those are hated that <sic>exel</sic> the most<lb/> Altho when dead the are beloved,
+                and blest”</p>
+            <p><date>22d</date> last night I saw <persName>Mr Lyons</persName> and asked him<lb/> if
+                he had been summoned.—he replied not yet—that<lb/> he had recd a letter from
+                    <persName>Mr Henry</persName>
+                <add>stating that he intended to summon him and</add> requesting him to<lb/> find
+                out who did know any thing about the report, and<lb/> to send him their names in
+                full. <persName>Mr Lyons</persName> says he does<lb/> not know any thing about it
+                and is very sorry that<lb/>
+                <persName>Mr Henry</persName> wrote to him. <persName>Mr Henry</persName> states
+                that he intends<lb/> to bring suit against you for defamation, and that he<lb/> has
+                obtained Counsel, but does <hi rend="underline">not</hi> state how, altho<lb/> as I
+                wrote above I heard it was <persName>H.P.</persName>—<persName>Mr Lyons</persName>
+                can<lb/> send him <hi rend="underline">no</hi> information, so for want of it he
+                will not</p>
+            <pb n="2V"/>
+            <p>be able to bring suit—I think this is the last you<lb/> will hear about it, the Gent
+                evidently wanted to create<lb/> a sympathy, for himself in
+                    <placeName>Charleston</placeName>.</p>
+            <p rend="indent(1)">There is a <add>private</add> letter here lately recd from
+                    <placeName>Cincinnati</placeName> which<lb/>
+                <hi rend="underline">endorses</hi> all you said and more beside—I have not seen<lb/>
+                it but <persName>Mr Valentine</persName>, <hi rend="underline">has—</hi>he told me
+                so.</p>
+            <p rend="indent(1)">I am anxious to learn if <persName>Solomon Solis</persName> has<lb/>
+                arrived in <placeName>Europe</placeName>. I notice the arrival of the<lb/> vessels
+                he went out in and dates to <placeName>Asia</placeName> 10 days after<lb/> his
+                arrival but we have recd no letter and<lb/> Dear <persName>Sarah</persName> is very
+                unhappy, if you know<lb/> the real state of his health please let me know<lb/> and
+                    <hi rend="underline">enclose it to <persName>Mr Levin</persName> if
+                    unfavorable</hi>, as all<lb/> my letters are delivered at my Residence and
+                I<lb/> do not wish my wife to be too suddenly informed of<lb/> any ill news, which I
+                hope there will be no occasion for</p>
+            <p rend="indent(6)">Yours Truly</p>
+            <p rend="indent(7)"><persName role="author">J N Carvalho</persName>.</p>
+        </body>
+    </text>
 </TEI>

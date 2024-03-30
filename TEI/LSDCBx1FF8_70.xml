@@ -1,266 +1,359 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE TEI [
-<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
-%teibase;
-<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
-%teiext;
-]>
-<TEI>
-    <teiHeader>
-      <fileDesc>
-        <titleStmt>
-          <title>[no title given]</title>
-          <author attested="yes" accepted="yes" signature="yes">Meldola, David</author>
-          <editor></editor>
-          <sponsor></sponsor>
-          <funder></funder>
-          <principal></principal>
-          <respStmt>
-            <resp></resp>
-            <name></name>
-          </respStmt>
-        </titleStmt>
-        <editionStmt>
-          <edition></edition>
-          <respStmt>
-            <resp></resp>
-            <name></name>
-          </respStmt>
-        </editionStmt>
-        <extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-        <publicationStmt>
-          <publisher>Unpublished manuscript</publisher>
-        </publicationStmt>
-        <seriesStmt>
-          <p>Not part of a series</p>
-        </seriesStmt>
-        <notesStmt>
-          <note></note>
-        </notesStmt>
-        <sourceDesc>
-          <biblStruct>
-            <!-- catalog entry goes here -->
-            <monogr>
-              <imprint>
-                <dateLet></dateLet>
-              </imprint>
-            </monogr>
-          </biblStruct>
-          <msDesc>
-            <msIdentifier>
-              <country>USA</country>
-              <region>PA</region>
-              <settlement>Philadelphia</settlement>
-              <institution></institution>
-              <repository>CAJS Isaac Leeser Collection</repository>
-              <collection>The Library of the Dropsie College for Hebrew and Cognate Learning</collection>
-              <idno>LSDCBx1FF8_70</idno>
-              <altIdentifier>
-                <idno></idno>
-              </altIdentifier>
-              <msName></msName>
-            </msIdentifier>
-            <head></head>
-            <letHeading>
-              <author attested="yes" accepted="yes" signature="yes">Meldola, David</author>
-              <addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac, Rev.</addressee>
-              <deliverer></deliverer>
-              <respStmt>
-                <resp></resp>
-                <name></name>
-              </respStmt>
-              <placeLet>London, United Kingdom</placeLet>
-              <placeRec>Philadelphia, PA</placeRec>
-              <dateLet when="1851-11" source="" attested="unk">29 November 1851</dateLet>
-              <dateLet when="1851-11" source="" attested="yes">29 November 5611</dateLet>
-            </letHeading>
-            <msContents>
-              <msItem>
-                <author></author>
-                <editor></editor>
-                <respStmt>
-                  <resp></resp>
-                  <name></name>
-                </respStmt>
-                <title></title>
-                <decoNote></decoNote>
-                <listBibl>
-                  <bibl></bibl>
-                </listBibl>
-                <filiation></filiation>
-                <textLang></textLang>
-                <figure>
-                  <graphic url="ilcajs_b1f8_0063_1r.jpg"/>
-                  <graphic url="ilcajs_b1f8_0063_1v.jpg"/>
-                </figure>
-              </msItem>
-            </msContents>
-            <physDesc>
-              <objectDesc>
-                <supportDesc>
-                  <support>
-                    <material color="" lined="false" paper_type="" size="Letter">letter</material>
-                  </support>
-                  <extent>2 pages on 2 sheets
-                    <dimensions></dimensions>
-                  </extent>
-                  <foliation></foliation>
-                  <collation></collation>
-                  <condition fragment="false">Fragile</condition>
-                </supportDesc>
-                <layoutDesc>
-                  <layout></layout>
-                </layoutDesc>
-              </objectDesc>
-              <handDesc script="manuscript">
-                  <handNote></handNote>
-              </handDesc>
-              <decoDesc>
-                <decoNote></decoNote>
-              </decoDesc>
-              <additions></additions>
-              <bindingDesc>
-                <binding>
-                  <decoNote></decoNote>
-                </binding>
-              </bindingDesc>
-              <sealDesc>
-                <seal>
-                  <p>Wax seal</p>
-                </seal>
-              </sealDesc>
-              <accMat></accMat>
-              <envDesc occ="false"></envDesc>
-            </physDesc>
-            <history>
-              <origin></origin>
-              <provenance></provenance>
-              <acquisition></acquisition>
-            </history>
-            <additional>
-              <adminInfo>
-                <recordHist>
-                  <source></source>
-                  <change></change>
-                </recordHist>
-                <availability status="free">
-                  <p>Unrestricted</p>
-                </availability>
-                <custodialHist>
-                  <custEvent></custEvent>
-                </custodialHist>
-              </adminInfo>
-              <surrogates></surrogates>
-              <listBibl>
-                <bibl></bibl>
-              </listBibl>
-            </additional>
-            <msPart>
-              <altIdentifier>
-                <idno></idno>
-              </altIdentifier>
-            </msPart>
-          </msDesc>
-        </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-        <projectDesc>
-          <p></p>
-        </projectDesc>
-        <samplingDecl>
-          <p></p>
-        </samplingDecl>
-        <editorialDecl>
-          <correction>
-            <p></p>
-          </correction>
-          <normalization>
-            <p></p>
-          </normalization>
-          <quotation>
-            <p></p>
-          </quotation>
-          <hyphenation>
-            <p></p>
-          </hyphenation>
-          <segmentation>
-            <p></p>
-          </segmentation>
-          <stdVals>
-            <p></p>
-          </stdVals>
-          <interpretation>
-            <p></p>
-          </interpretation>
-        </editorialDecl>
-        <tagsDecl>
-          <rendition></rendition>
-          <namespace name="http://www.tei-c.org/ns/1.0">
-            <tagUsage gi=""></tagUsage>
-          </namespace>
-        </tagsDecl>
-        <refsDecl>
-          <cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-        </refsDecl>
-        <refsDecl>
-          <refState unit=""/>
-        </refsDecl>
-        <classDecl>
-          <taxonomy>
-            <category>
-              <catDesc></catDesc>
-            </category>
-          </taxonomy>
-        </classDecl>
-        <appInfo>
-          <application ident="" version="">
-            <desc></desc>
-            <label></label>
-          </application>
-        </appInfo>
-      </encodingDesc>
-      <profileDesc>
-        <creation></creation>
-        <langUsage>
-          <language ident="en">English</language>
-          <language ident="he">Hebrew</language>
-        </langUsage>
-        <textClass>
-          <keywords scheme="unknown">
-            <list>
-              <item></item>
-              <item></item>
-            </list>
-          </keywords>
-          <classCode scheme=""></classCode>
-          <catRef/>
-        </textClass>
-      </profileDesc>
-      <revisionDesc>
-        <change></change>
-      </revisionDesc>
-    </teiHeader>
-    <text>
-        <body>
-      
-		<pb n="1"/>
-          <p rend="indent(9)"><placeName>London</placeName> <date>29th Novr 5611</date></p>
-          <p rend="indent(10)"><placeName>6 Great Alie St. Goodman&#39;s fields</placeName></p>
-          <p rend="indent(8)"><add>Hebrew</add></p>
-          <p rend="indent(1)">Revd &#38; Dear Sir&#47;</p>
-          <p rend="indent(4)">I am quite ashamed of my conduct towards<lb/> you and do confess <add>Hebrew</add> for not replying to your last communication<lb/> to me&#44; as well as for the review of the &#34;way of Faith&#34; and for your friendly expressions<lb/> I feel indebted to you&#44; but sufficient is to express my sorrow&#44; and that an alarming<lb/> complaint was my preventative for so doing to a man of that high esteem&#44; regard&#44;<lb/> &#38; veneration I hold for your high talents and true learning &#40;<add>Hebrew</add>&#41;&#44; ever since I first had<lb/> the satisfaction of perusing your scientific writings&#44; but since <add>Hebrew</add> <date>5610</date> I was attacked<lb/> with a severe cold which gradually brought on an attack in the wind&#45;pipe &#38; which<lb/> actually despaired me causing some alarm till very lately which with care &#38; attention<lb/> blessed be God am quite recover&#39;d&#44; however for the present we must leave further details&#44; it is to<lb/> me a more important subject on which I address you now&#44; With truly painful sorrows<lb/> I have seen in the Jewish Chronicle the place of <add>Hebrew</add> vacant advertising for one&#44; I must<lb/> solemnly declare to you that I know nothing of the matter in any way whatever&#44;</p>
-			<p rend="align center">but some time since <sic>learnt</sic> that there were some trifling</p> 
-			<p rend="align center">differences but matters would be arranged which gave</p> 
-			<p rend="align center">me much gratification&#59; of course this newly advertisement astonished</p> 
-			<p>me&#44; now dear sir it has ever been with me a maxim <add>Hebrew</add> but in the present<lb/> case I must&#44; it is most sacred with me <add>Hebrew</add> and as having been for a number<lb/> of years <add>Hebrew</add> of the first Portuguese Congregation in <placeName>Europe</placeName>&#44; also recognized by all<lb/> universities <placeName>Italy</placeName>&#44; <placeName>Germany</placeName>&#44; <placeName>Turkey</placeName>&#44; <placeName>Holy land</placeName>&#44; as <add>Hebrew</add>&#44;<lb/> and&#44; as the descendant of that family which for the last 500 years have been I consider<lb/> myself in duty bound to interfere &#38; settle matters in your favour&#44; after you have served<lb/> them so many years sown the seed of knowledge &#38; wisdom&#44; such an action ought not<lb/> to be done to a great man of your valuable erudition&#44; would my health permit I<lb/> would most willingly cross the <placeName>Great Sea</placeName> to serve you &#38; put them to rights <del>and</del><lb/> <sic>shewing</sic> them <add>Hebrew</add> pray without any loss of time as a brother Israelite&#44; &#38; friend in the<lb/> field of literature reply to my letter&#44; and in the greatest confidence let me know how I can<lb/> serve you and to be of use to you&#44; I beg that you&#44; &#38; they&#44; will give in a little in the existing differences&#44;</p>
-		<pb n="2"/>
-			<p>I have laid before me many important cases from all parts to decide upon <add>Hebrew</add><lb/> and I am not fearful that this will also be one I may succeed <add>Hebrew</add>&#44; they may advertise here but<lb/> they <del>will</del> can only find as <persName>Leeser&#39;s</persName> old shoes&#44; <hi rend="underline">all I say is in confidence</hi>. You may make use of my<lb/> name in any way it can be of use to you. You may mention to a <persName>Mr A&#58; Hart</persName> &#38; another<lb/> gent<hi rend="sup">n</hi>. whom I have seen that application must be made to them&#44; not to be in such a hurry<lb/> and to allow me to address them a truly pastoral letter in your favour&#44; as a true disciple<lb/> of <persName>Aaron</persName> <add>Hebrew</add> and as the son and Disciple of that immortal father acknowledged<lb/> by all in 4 parts of the globe <add>Hebrew</add>. I am determined to serve you &#38; seek this important<lb/> blessing <add>Hebrew</add> and not to be allowed for the sake of a few tempers to <sic>supress</sic> it. Favour me<lb/> with an immediate answer &#38; trust you will hearken unto my voice do not abandon it&#44;<lb/> wishing you with all my heart every blessing <add>Hebrew</add> with all esteem<lb/> I am Revd. &#38; Dear Sir</p>
-          <p rend="indent(1)">Yours very faithfully</p>
-          <p rend="indent(2)"><persName role="author">David Meldola</persName></p>
-			<p>It is peace and peace only I seek for&#44;<lb/> trusting that as a gent<hi rend="sup">n</hi>. you will keep a secret such&#44;<lb/> terms which I wrote you confidentially&#59; our friend<lb/> <persName>Hasone Pisa&#39;s</persName> best respects to you &#38; shall be happy to hear from you <add>Hebrew</add></p>
-			<p><addressee>Revd. Isaac Leeser</addressee></p>
-          <p rend="indent(1)"><placeName>Philadelphia</placeName></p>
-          
-        </body>
-    </text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+          <teiHeader>
+
+                    <fileDesc>
+                              <titleStmt>
+                                        <title>[no title given]</title>
+                                        <author accepted="yes" attested="yes" signature="yes"
+                                                  >Meldola, David</author>
+                                        <editor/>
+                                        <sponsor/>
+                                        <funder/>
+                                        <principal/>
+                                        <respStmt>
+                                                  <resp/>
+                                                  <name/>
+                                        </respStmt>
+                              </titleStmt>
+                              <editionStmt>
+                                        <edition/>
+                                        <respStmt>
+                                                  <resp/>
+                                                  <name/>
+                                        </respStmt>
+                              </editionStmt>
+                              <extent>[information about file size goes here, information about
+                                        extent of physical item comes later]</extent>
+                              <publicationStmt>
+                                        <publisher>Unpublished manuscript</publisher>
+                              </publicationStmt>
+                              <seriesStmt>
+                                        <p>Not part of a series</p>
+                              </seriesStmt>
+                              <notesStmt>
+                                        <note/>
+                              </notesStmt>
+                              <sourceDesc>
+                                        <biblStruct>
+                                                  <!-- catalog entry goes here -->
+                                                  <monogr>
+                                                  <imprint>
+                                                  <dateLet/>
+                                                  </imprint>
+                                                  </monogr>
+                                        </biblStruct>
+                                        <msDesc>
+                                                  <msIdentifier>
+                                                  <country>USA</country>
+                                                  <region>PA</region>
+                                                  <settlement>Philadelphia</settlement>
+                                                  <institution/>
+                                                  <repository>CAJS Isaac Leeser
+                                                  Collection</repository>
+                                                  <collection>The Library of the Dropsie College for
+                                                  Hebrew and Cognate Learning</collection>
+                                                  <idno>LSDCBx1FF8_70</idno>
+                                                  <altIdentifier>
+                                                  <idno/>
+                                                  </altIdentifier>
+                                                  <msName/>
+                                                  </msIdentifier>
+                                                  <head/>
+                                                  <letHeading>
+                                                  <author accepted="yes" attested="yes"
+                                                  signature="yes">Meldola, David</author>
+                                                  <addressee accepted="yes" attested="yes"
+                                                  editor="false">Leeser, Isaac, Rev.</addressee>
+                                                  <deliverer/>
+                                                  <respStmt>
+                                                  <resp/>
+                                                  <name/>
+                                                  </respStmt>
+                                                  <placeLet>London, United Kingdom</placeLet>
+                                                  <placeRec>Philadelphia, PA</placeRec>
+                                                  <dateLet attested="unk" source="" when="1851-11"
+                                                  >29 November 1851</dateLet>
+                                                  <dateLet attested="yes" source="" when="1851-11"
+                                                  >29 November 5611</dateLet>
+                                                  </letHeading>
+                                                  <msContents>
+                                                  <msItem>
+                                                  <author/>
+                                                  <editor/>
+                                                  <respStmt>
+                                                  <resp/>
+                                                  <name/>
+                                                  </respStmt>
+                                                  <title/>
+                                                  <decoNote/>
+                                                  <listBibl>
+                                                  <bibl/>
+                                                  </listBibl>
+                                                  <filiation/>
+                                                  <textLang/>
+                                                  <figure>
+                                                  <graphic url="ilcajs_b1f8_0063_1r.jpg"/>
+                                                  <graphic url="ilcajs_b1f8_0063_1v.jpg"/>
+                                                  </figure>
+                                                  </msItem>
+                                                  </msContents>
+                                                  <physDesc>
+                                                  <objectDesc>
+                                                  <supportDesc>
+                                                  <support>
+                                                  <material color="" lined="false" paper_type=""
+                                                  size="Letter">letter</material>
+                                                  </support>
+                                                  <extent>2 pages on 2 sheets <dimensions/>
+                                                  </extent>
+                                                  <foliation/>
+                                                  <collation/>
+                                                  <condition fragment="false">Fragile</condition>
+                                                  </supportDesc>
+                                                  <layoutDesc>
+                                                  <layout/>
+                                                  </layoutDesc>
+                                                  </objectDesc>
+                                                  <handDesc script="manuscript">
+                                                  <handNote/>
+                                                  </handDesc>
+                                                  <decoDesc>
+                                                  <decoNote/>
+                                                  </decoDesc>
+                                                  <additions/>
+                                                  <bindingDesc>
+                                                  <binding>
+                                                  <decoNote/>
+                                                  </binding>
+                                                  </bindingDesc>
+                                                  <sealDesc>
+                                                  <seal>
+                                                  <p>Wax seal</p>
+                                                  </seal>
+                                                  </sealDesc>
+                                                  <accMat/>
+                                                  <envDesc occ="false"/>
+                                                  </physDesc>
+                                                  <history>
+                                                  <origin/>
+                                                  <provenance/>
+                                                  <acquisition/>
+                                                  </history>
+                                                  <additional>
+                                                  <adminInfo>
+                                                  <recordHist>
+                                                  <source/>
+                                                  <change/>
+                                                  </recordHist>
+                                                  <availability status="free">
+                                                  <p>Unrestricted</p>
+                                                  </availability>
+                                                  <custodialHist>
+                                                  <custEvent/>
+                                                  </custodialHist>
+                                                  </adminInfo>
+                                                  <surrogates/>
+                                                  <listBibl>
+                                                  <bibl/>
+                                                  </listBibl>
+                                                  </additional>
+                                                  <msPart>
+                                                  <altIdentifier>
+                                                  <idno/>
+                                                  </altIdentifier>
+                                                  </msPart>
+                                        </msDesc>
+                              </sourceDesc>
+                    </fileDesc>
+                    <encodingDesc>
+                              <projectDesc>
+                                        <p/>
+                              </projectDesc>
+                              <samplingDecl>
+                                        <p/>
+                              </samplingDecl>
+                              <editorialDecl>
+                                        <correction>
+                                                  <p/>
+                                        </correction>
+                                        <normalization>
+                                                  <p/>
+                                        </normalization>
+                                        <quotation>
+                                                  <p/>
+                                        </quotation>
+                                        <hyphenation>
+                                                  <p/>
+                                        </hyphenation>
+                                        <segmentation>
+                                                  <p/>
+                                        </segmentation>
+                                        <stdVals>
+                                                  <p/>
+                                        </stdVals>
+                                        <interpretation>
+                                                  <p/>
+                                        </interpretation>
+                              </editorialDecl>
+                              <tagsDecl>
+                                        <rendition/>
+                                        <namespace name="http://www.tei-c.org/ns/1.0">
+                                                  <tagUsage gi=""/>
+                                        </namespace>
+                              </tagsDecl>
+                              <refsDecl>
+                                        <cRefPattern matchPattern="" replacementPattern=""/>
+                              </refsDecl>
+                              <refsDecl>
+                                        <refState unit=""/>
+                              </refsDecl>
+                              <classDecl>
+                                        <taxonomy>
+                                                  <category>
+                                                  <catDesc/>
+                                                  </category>
+                                        </taxonomy>
+                              </classDecl>
+                              <appInfo>
+                                        <application ident="" version="">
+                                                  <desc/>
+                                                  <label/>
+                                        </application>
+                              </appInfo>
+                    </encodingDesc>
+                    <profileDesc>
+                              <creation/>
+                              <langUsage>
+                                        <language ident="en">English</language>
+                                        <language ident="he">Hebrew</language>
+                              </langUsage>
+                              <textClass>
+                                        <keywords scheme="unknown">
+                                                  <list>
+                                                  <item/>
+                                                  <item/>
+                                                  </list>
+                                        </keywords>
+                                        <classCode scheme=""/>
+                                        <catRef/>
+                              </textClass>
+                    </profileDesc>
+                    <revisionDesc>
+                              <change/>
+                    </revisionDesc>
+          </teiHeader>
+          <text>
+                    <body>
+                              <pb n="1"/>
+                              <p rend="indent(9)">
+                                        <placeName>London</placeName>
+                                        <date>29th Novr 5611</date>
+                              </p>
+                              <p rend="indent(10)">
+                                        <placeName>6 Great Alie St. Goodman's fields</placeName>
+                              </p>
+                              <p rend="indent(8)">
+                                        <add>כ"ד כסלו ש' לא תיר"א מהם</add>
+                              </p>
+                              <p rend="indent(1)">Revd &amp; Dear Sir/</p>
+                              <p rend="indent(4)">I am quite ashamed of my conduct towards<lb/> you
+                                        and do confess <add>בושתי וגם נכלמתי</add> for not replying
+                                        to your last communication<lb/> to me, as well as for the
+                                        review of the "way of Faith" and for your friendly
+                                        expressions<lb/> I feel indebted to you, but sufficient is
+                                        to express my sorrow, and that an alarming<lb/> complaint
+                                        was my preventative for so doing to a man of that high
+                                        esteem, regard,<lb/> &amp; veneration I hold for your high
+                                        talents and true learning (<add>חטאתי</add>), ever since I
+                                        first had<lb/> the satisfaction of perusing your scientific
+                                        writings, but since <add>מוצאי כפור</add>
+                                        <date>5610</date> I was attacked<lb/> with a severe cold
+                                        which gradually brought on an attack in the wind-pipe &amp;
+                                        which<lb/> actually despaired me causing some alarm till
+                                        very lately which with care &amp; attention<lb/> blessed be
+                                        God am quite recover'd, however for the present we must
+                                        leave further details, it is to<lb/> me a more important
+                                        subject on which I address you now, With truly painful
+                                        sorrows<lb/> I have seen in the Jewish Chronicle the place
+                                        of <add>חזן</add> vacant advertising for one, I must<lb/>
+                                        solemnly declare to you that I know nothing of the matter in
+                                        any way whatever,</p>
+                              <p rend="align center">but some time since <sic>learnt</sic> that
+                                        there were some trifling</p>
+                              <p rend="align center">differences but matters would be arranged which
+                                        gave</p>
+                              <p rend="align center">me much gratification; of course this newly
+                                        advertisement astonished</p>
+                              <p>me, now dear sir it has ever been with me a maxim <add>אלא ליבכם
+                                                  בתחום שאינו שלי</add> but in the present<lb/> case
+                                        I must, it is most sacred with me <add>איש את רעהו יעזרו
+                                                  ולאחיו יאמר חזק</add> and as having been for a
+                                        number<lb/> of years <add>אב בית דין ומ"ז</add> of the first
+                                        Portuguese Congregation in <placeName>Europe</placeName>,
+                                        also recognized by all<lb/> universities
+                                                  <placeName>Italy</placeName>,
+                                                  <placeName>Germany</placeName>,
+                                                  <placeName>Turkey</placeName>, <placeName>Holy
+                                                  land</placeName>, as <add>מוחזק לבר אוריין ובר
+                                                  אבהן ומורה בישראל</add>,<lb/> and, as the
+                                        descendant of that family which for the last 500 years have
+                                        been I consider<lb/> myself in duty bound to interfere &amp;
+                                        settle matters in your favour, after you have served<lb/>
+                                        them so many years sown the seed of knowledge &amp; wisdom,
+                                        such an action ought not<lb/> to be done to a great man of
+                                        your valuable erudition, would my health permit I<lb/> would
+                                        most willingly cross the <placeName>Great Sea</placeName> to
+                                        serve you &amp; put them to rights <del>and</del><lb/>
+                                        <sic>shewing</sic> them <add>and, as the descendant of that
+                                                  family which for the last 500 years have been I
+                                                  consider רבני הדור</add> pray without any loss of
+                                        time as a brother Israelite, &amp; friend in the<lb/> field
+                                        of literature reply to my letter, and in the greatest
+                                        confidence let me know how I can<lb/> serve you and to be of
+                                        use to you, I beg that you, &amp; they, will give in a
+                                        little in the existing differences,</p>
+                              <pb n="2"/>
+                              <p>I have laid before me many important cases from all parts to decide
+                                        upon <add>כי כן לא יעשה בישראל</add><lb/> and I am not
+                                        fearful that this will also be one I may succeed <add>לפשר
+                                                  דבר ולתווך השלום</add>, they may advertise here
+                                        but<lb/> they <del>will</del> can only find as
+                                                  <persName>Leeser's</persName> old shoes, <hi
+                                                  rend="underline">all I say is in confidence</hi>.
+                                        You may make use of my<lb/> name in any way it can be of use
+                                        to you. You may mention to a <persName>Mr A: Hart</persName>
+                                        &amp; another<lb/> gent<hi rend="sup">n</hi>. whom I have
+                                        seen that application must be made to them, not to be in
+                                        such a hurry<lb/> and to allow me to address them a truly
+                                        pastoral letter in your favour, as a true disciple<lb/> of
+                                                  <persName>Aaron</persName>
+                                        <add>בע"ה</add> and as the son and Disciple of that immortal
+                                        father acknowledged<lb/> by all in 4 parts of the globe
+                                                  <add>אוהב שלום ורודף שלום</add>. I am determined
+                                        to serve you &amp; seek this important<lb/> blessing <add>א'
+                                                  מיחידי וגדולי הדור הישן</add> and not to be
+                                        allowed for the sake of a few tempers to <sic>supress</sic>
+                                        it. Favour me<lb/> with an immediate answer &amp; trust you
+                                        will hearken unto my voice do not abandon it,<lb/> wishing
+                                        you with all my heart every blessing <add>שלום</add> with
+                                        all esteem<lb/> I am Revd. &amp; Dear Sir</p>
+                              <p rend="indent(1)">Yours very faithfully</p>
+                              <p rend="indent(2)">
+                                        <persName role="author">David Meldola</persName>
+                              </p>
+                              <p>It is peace and peace only I seek for,<lb/> trusting that as a
+                                                  gent<hi rend="sup">n</hi>. you will keep a secret
+                                        such,<lb/> terms which I wrote you confidentially; our friend<lb/>
+                                        <persName>Hasone Pisa's</persName> best respects to you
+                                        &amp; shall be happy to hear from you <add>וכל אשר אתה עושה
+                                                  ה' מצליח</add></p>
+                              <p>
+                                        <addressee>Revd. Isaac Leeser</addressee>
+                              </p>
+                              <p rend="indent(1)">
+                                        <placeName>Philadelphia</placeName>
+                              </p>
+                    </body>
+          </text>
 </TEI>

@@ -1,267 +1,349 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="yes">Leeser, Isaac</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>LSKAP</repository>
-						<collection>The Arnold and Deanne Kaplan Collection of Early American Judaica</collection>
-						<idno>LSKAP0178</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="yes">Leeser, Isaac</author>
-						<addressee editor="false" attested="yes" accepted="yes">Rehine, Zalma</addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>Philadelphia, PA</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1837-05" source="" attested="yes">May 1, 1837</dateLet>
-						<dateLet when="1837-05" source="" attested="yes">Nisan 26, 5597</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="LSKAP0178_1r.jpg"></graphic>
-								<graphic url="LSKAP0178_1v.jpg"></graphic>
-								<graphic url="LSKAP0178_2r.jpg"></graphic>
-								<graphic url="LSKAP0178_2v.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="false" paper_type="" size="">letter</material>
-								</support>
-								<extent>4 pages on 2 sheets
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="manuscript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="restricted">
-								<p>Restricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1R"/>
-				<p rend="align(right)"><placeName>Philadelphia</placeName> <date>May 1<hi rend="sup">st</hi>. <sic>nisan</sic> 26th. 5597</date></p>
-				<p>Dear Uncle.</p>
-			<p rend="indent(1)">I had intended to write to you yesterday and today&#44; but<lb/> have been so much hurried as to determine me to defer<lb/> it till I could write at some length&#59; but a passage in your<lb/> letter just received stating that <persName>Mr E. P. Cohen</persName> intended being<lb/> here on <date>Thursday</date> compels me to write you at once&#44; although it is<lb/> near ten&#44; and I have just returned home.  The book was as I<lb/> told you&#44; it would be&#44; sent off by <persName>Mr. Barrington</persName> in a parcel<lb/> directed to <persName>Mr. Herman</persName>&#44; who received the first books.  It<lb/> is wrapped up in white printing paper&#44; directed to <persName>Mr E. P.<lb/> Cohen</persName> <placeName>Baltimore</placeName>&#59; do try to get it at once&#44; and hand it over<lb/> to <persName>Mr Cohen</persName>&#44; or else give him another copy&#44; and no<lb/> doubt an opportunity will offer to send off the fine copy at<lb/> some future day.  I trust however that it is safe and sound<lb/> in your place.  If I can I will see <persName>Mr Cohen</persName> at the warf&#44;<lb/> but there is some doubt whether I can be in time.  This<lb/> letter will be in <placeName>Bal.</placeName> tomorrow afternoon&#44; in time to look for<lb/> the book&#44; and I really regret that it should have had so<lb/> unfortunate a time reaching its destination.  Recollect <hi rend="underline">Human</hi><lb/> sent by <persName>Haswell&#44; Barrington &#38; Haswell</persName>.  No doubt it<lb/> can readily be found.&#95;&#95;Of the images book 112 leaves an<lb/> up&#44; and by <date>Thursday</date> I expect to have 130&#44; or thereabouts.&#95;&#95;A gene<lb/>ral feeling of sympathy is expressed for <persName>Mr Cohen</persName>&#59; for the loss<lb/> of his wife&#59; the family seem indeed to have had their troubles lately.<lb/>  What can one say to console them&#63;  let us hope that the Lord of Consola<lb/>tion will send his spirit to comfort them and to uphold them in their<lb/> afflictions.  Amen</p>
-			<pb n="1V"/>
-				<p><persName>Samuel Etting</persName> is in town&#44; and intends leaving on <date>Wednesday</date> morning with his family<lb/> I thought of sending a letter by him but fearing it would be too late.  I <sic>sentet</sic> these<lb/> few lines&#44; in order to have sent off by the morning&#39;s mail.</p>
-			<p rend="indent(1)">I have been in the fashion&#44; and had a cold&#44; but it appears to be wearing away.<lb/>  When are you coming on&#63;  Let it be soon&#44; as many are anxious to see you&#44;<lb/> <add>&#63;</add> of failures in town&#44; some for heavy amounts&#44; one Comely for 3 &#189; mill&#58;<lb/> As young <persName>YehuR</persName>&#44; <persName>Sol. Andrews</persName>&#44; it appears has made a great swindle<lb/> for &#188; Million in <placeName>Mobile</placeName>.  His house&#44; consisting of <add>himself &#38;</add> <persName>Hyman Andrews</persName>&#44; who mar<lb/>ried <persName>Clarissa King</persName>&#44; lately snapped in <placeName>New York</placeName>&#44; and he perhaps thought to<lb/> indemnify himself&#59; he has been caught&#44; &#38; I believe&#44; locked up in <placeName>New<lb/> Orleans</placeName>.  So much for high justice.&#95;&#95;Good news are rather scarce<lb/> here and in <placeName>New York</placeName>&#59; money very dear&#44; even for the best notes two<lb/> to three per cent northern asked&#59; curious indeed.  I hope that the<lb/> <persName>Cohens</persName> will stand it though I fear they will have a hard trip as<lb/> so many private bankers all over the country have failed.  Particularly<lb/> I fear&#44; that <persName>St. John</persName> in <placeName>New York</placeName> owes them much&#44; too much<lb/> for safety.  I see but few people&#44; but yet I believe that I guess right.<lb/>  <persName>Joseph Moss</persName> I told you promised to pay me &#36;200 per annum&#44; payable<lb/> <date>1 May</date> &#38; <date>November</date>&#44; but as he has failed&#44; I shall not present my bill<lb/> now&#44; at least I shall wait&#44; whether he will send me word or not.<lb/>  Even in my little way I stand a chance of losing a little&#44; but as I have<lb/> not built much hope upon his word&#44; I do not think any thing of<lb/> it.  He used to say so much against <persName>David</persName>&#44; and now he has come to the</p>
-			<pb n="2R"/>
-				<p>same himself.  He has perhaps forgotten&#44; but I have not.<lb/>  Now has the above forgotten&#33;  Retribution&#33;&#95;&#95;You need not mention<lb/> the contents of this to any one&#44; but amt&#59; as I do not wish my<lb/> <hi rend="underline">opinions</hi> to be made more public than necessary.&#95;&#95;</p>
-			<p rend="indent(1)">I have not spoken since my book was published&#44; and<lb/> I have not yet resolved how to do.  What is your opinion&#63;</p>
-			<p rend="indent(1)">Wishing you a perfect restoration to health</p>
-			<p rend="indent(6)">I remain</p>
-			<p rend="indent(6)">your ob. Neph</p>
-			<p rend="indent(6)"><persName role="author">Isaac Le</persName></p>
-				<p>N.B. I have payt. to make till<lb/> <date>July 4</date>&#59; and I hope to collect enough<lb/> before then to meet my engagements&#59; if not I will<lb/> know&#44; as you told me 100.</p>
-				<p>My love to aunty &#38; <persName>Mrs Dr P.</persName> <persName>Mrssrs Judah &#38; Block</persName>&#44; <add>&#63;</add><lb/> <persName>Block</persName> and the girls.  Give my best regards to <persName>Mr Etting</persName><lb/> and his daughters&#44; also to the <persName>Messrs Cohen</persName>&#44; with the expression<lb/> of my sympathy for their bereavement.</p>
-			<p rend="indent(6)"><persName role="author">I L.</persName></p>
-				<p rend="Note&#58; "> Paper torn near center right, obscuring some words or parts of words.</p>
-			<pb n="2V"/>
-				<p><addressee>Mr. Zalma Rehine</addressee></p>
-				<p>Care of <persName>Mrssrs Judah &#38; Block</persName></p>
-			<p rend="indent(2)">Merchants</p>
-			<p rend="indent(2)"><placeName>Baltimore</placeName></p>
-			<p rend="indent(2)"><placeName>Md.</placeName></p>
-				<p>Single.</p>
-				<p rend="The following is circled at top right corner of the page.">&#35;18</p>
-		</body>
-	</text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="yes">Leeser, Isaac</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>LSKAP</repository>
+                        <collection>The Arnold and Deanne Kaplan Collection of Early American
+                            Judaica</collection>
+                        <idno>LSKAP0178</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="yes">Leeser, Isaac</author>
+                        <addressee accepted="yes" attested="yes" editor="false">Rehine,
+                            Zalma</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1837-05">May 1, 1837</dateLet>
+                        <dateLet attested="yes" source="" when="1837-05">Nisan 26, 5597</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="LSKAP0178_1r.jpg"/>
+                                <graphic url="LSKAP0178_1v.jpg"/>
+                                <graphic url="LSKAP0178_2r.jpg"/>
+                                <graphic url="LSKAP0178_2v.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >letter</material>
+                                </support>
+                                <extent>4 pages on 2 sheets <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="restricted">
+                                <p>Restricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1R"/>
+            <p rend="align(right)">
+                <placeName>Philadelphia</placeName>
+                <date>May 1<hi rend="sup">st</hi>. <sic>nisan</sic> 26th. 5597</date>
+            </p>
+            <p>Dear Uncle.</p>
+            <p rend="indent(1)">I had intended to write to you yesterday and today, but<lb/> have
+                been so much hurried as to determine me to defer<lb/> it till I could write at some
+                length; but a passage in your<lb/> letter just received stating that <persName>Mr E.
+                    P. Cohen</persName> intended being<lb/> here on <date>Thursday</date> compels me
+                to write you at once, although it is<lb/> near ten, and I have just returned home.
+                The book was as I<lb/> told you, it would be, sent off by <persName>Mr.
+                    Barrington</persName> in a parcel<lb/> directed to <persName>Mr.
+                    Herman</persName>, who received the first books. It<lb/> is wrapped up in white
+                printing paper, directed to <persName>Mr E. P.<lb/> Cohen</persName>
+                <placeName>Baltimore</placeName>; do try to get it at once, and hand it over<lb/> to
+                    <persName>Mr Cohen</persName>, or else give him another copy, and no<lb/> doubt
+                an opportunity will offer to send off the fine copy at<lb/> some future day. I trust
+                however that it is safe and sound<lb/> in your place. If I can I will see
+                    <persName>Mr Cohen</persName> at the warf,<lb/> but there is some doubt whether
+                I can be in time. This<lb/> letter will be in <placeName>Bal.</placeName> tomorrow
+                afternoon, in time to look for<lb/> the book, and I really regret that it should
+                have had so<lb/> unfortunate a time reaching its destination. Recollect <hi
+                    rend="underline">Human</hi><lb/> sent by <persName>Haswell, Barrington &amp;
+                    Haswell</persName>. No doubt it<lb/> can readily be found.__Of the images book
+                112 leaves an<lb/> up, and by <date>Thursday</date> I expect to have 130, or
+                thereabouts.__A gene<lb/>ral feeling of sympathy is expressed for <persName>Mr
+                    Cohen</persName>; for the loss<lb/> of his wife; the family seem indeed to have
+                had their troubles lately.<lb/> What can one say to console them? let us hope that
+                the Lord of Consola<lb/>tion will send his spirit to comfort them and to uphold them
+                in their<lb/> afflictions. Amen</p>
+            <pb n="1V"/>
+            <p><persName>Samuel Etting</persName> is in town, and intends leaving on
+                    <date>Wednesday</date> morning with his family<lb/> I thought of sending a
+                letter by him but fearing it would be too late. I <sic>sentet</sic> these<lb/> few
+                lines, in order to have sent off by the morning's mail.</p>
+            <p rend="indent(1)">I have been in the fashion, and had a cold, but it appears to be
+                wearing away.<lb/> When are you coming on? Let it be soon, as many are anxious to
+                see you,<lb/>
+                <add>?</add> of failures in town, some for heavy amounts, one Comely for 3 ½
+                mill:<lb/> As young <persName>YehuR</persName>, <persName>Sol. Andrews</persName>,
+                it appears has made a great swindle<lb/> for ¼ Million in
+                    <placeName>Mobile</placeName>. His house, consisting of <add>himself &amp;</add>
+                <persName>Hyman Andrews</persName>, who mar<lb/>ried <persName>Clarissa
+                    King</persName>, lately snapped in <placeName>New York</placeName>, and he
+                perhaps thought to<lb/> indemnify himself; he has been caught, &amp; I believe,
+                locked up in <placeName>New<lb/> Orleans</placeName>. So much for high
+                justice.__Good news are rather scarce<lb/> here and in <placeName>New
+                    York</placeName>; money very dear, even for the best notes two<lb/> to three per
+                cent northern asked; curious indeed. I hope that the<lb/>
+                <persName>Cohens</persName> will stand it though I fear they will have a hard trip
+                as<lb/> so many private bankers all over the country have failed. Particularly<lb/>
+                I fear, that <persName>St. John</persName> in <placeName>New York</placeName> owes
+                them much, too much<lb/> for safety. I see but few people, but yet I believe that I
+                guess right.<lb/>
+                <persName>Joseph Moss</persName> I told you promised to pay me $200 per annum, payable<lb/>
+                <date>1 May</date> &amp; <date>November</date>, but as he has failed, I shall not
+                present my bill<lb/> now, at least I shall wait, whether he will send me word or
+                not.<lb/> Even in my little way I stand a chance of losing a little, but as I
+                have<lb/> not built much hope upon his word, I do not think any thing of<lb/> it. He
+                used to say so much against <persName>David</persName>, and now he has come to
+                the</p>
+            <pb n="2R"/>
+            <p>same himself. He has perhaps forgotten, but I have not.<lb/> Now has the above
+                forgotten! Retribution!__You need not mention<lb/> the contents of this to any one,
+                but amt; as I do not wish my<lb/>
+                <hi rend="underline">opinions</hi> to be made more public than necessary.__</p>
+            <p rend="indent(1)">I have not spoken since my book was published, and<lb/> I have not
+                yet resolved how to do. What is your opinion?</p>
+            <p rend="indent(1)">Wishing you a perfect restoration to health</p>
+            <p rend="indent(6)">I remain</p>
+            <p rend="indent(6)">your ob. Neph</p>
+            <p rend="indent(6)">
+                <persName role="author">Isaac Le</persName>
+            </p>
+            <p>N.B. I have payt. to make till<lb/>
+                <date>July 4</date>; and I hope to collect enough<lb/> before then to meet my
+                engagements; if not I will<lb/> know, as you told me 100.</p>
+            <p>My love to aunty &amp; <persName>Mrs Dr P.</persName>
+                <persName>Mrssrs Judah &amp; Block</persName>, <add>?</add><lb/>
+                <persName>Block</persName> and the girls. Give my best regards to <persName>Mr
+                    Etting</persName><lb/> and his daughters, also to the <persName>Messrs
+                    Cohen</persName>, with the expression<lb/> of my sympathy for their
+                bereavement.</p>
+            <p rend="indent(6)">
+                <persName role="author">I L.</persName>
+            </p>
+            <p rend="Note: "> Paper torn near center right, obscuring some words or parts of
+                words.</p>
+            <pb n="2V"/>
+            <p>
+                <addressee>Mr. Zalma Rehine</addressee>
+            </p>
+            <p>Care of <persName>Mrssrs Judah &amp; Block</persName></p>
+            <p rend="indent(2)">Merchants</p>
+            <p rend="indent(2)">
+                <placeName>Baltimore</placeName>
+            </p>
+            <p rend="indent(2)">
+                <placeName>Md.</placeName>
+            </p>
+            <p>Single.</p>
+            <p rend="The following is circled at top right corner of the page.">#18</p>
+        </body>
+    </text>
 </TEI>

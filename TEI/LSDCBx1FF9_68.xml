@@ -1,272 +1,367 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE TEI [
-<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
-%teibase;
-<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
-%teiext;
-]>
-<TEI>
-    <teiHeader>
-      <fileDesc>
-        <titleStmt>
-          <title>[no title given]</title>
-          <author attested="yes" accepted="yes" signature="yes">Leo, Ansel</author>
-          <editor></editor>
-          <sponsor></sponsor>
-          <funder></funder>
-          <principal></principal>
-          <respStmt>
-            <resp></resp>
-            <name></name>
-          </respStmt>
-        </titleStmt>
-        <editionStmt>
-          <edition></edition>
-          <respStmt>
-            <resp></resp>
-            <name></name>
-          </respStmt>
-        </editionStmt>
-        <extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-        <publicationStmt>
-          <publisher>Unpublished manuscript</publisher>
-        </publicationStmt>
-        <seriesStmt>
-          <p>Not part of a series</p>
-        </seriesStmt>
-        <notesStmt>
-          <note></note>
-        </notesStmt>
-        <sourceDesc>
-          <biblStruct>
-            <!-- catalog entry goes here -->
-            <monogr>
-              <imprint>
-                <dateLet></dateLet>
-              </imprint>
-            </monogr>
-          </biblStruct>
-          <msDesc>
-            <msIdentifier>
-              <country>USA</country>
-              <region>PA</region>
-              <settlement>Philadelphia</settlement>
-              <institution></institution>
-              <repository>CAJS Isaac Leeser Collection</repository>
-              <collection>The Library of the Dropsie College for Hebrew and Cognate Learning</collection>
-              <idno>LSDCBx1FF9_68</idno>
-              <altIdentifier>
-                <idno></idno>
-              </altIdentifier>
-              <msName></msName>
-            </msIdentifier>
-            <head></head>
-            <letHeading>
-              <author attested="yes" accepted="yes" signature="yes">Leo, Ansel</author>
-              <addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac, Rev.</addressee>
-              <deliverer></deliverer>
-              <respStmt>
-                <resp></resp>
-                <name></name>
-              </respStmt>
-              <placeLet>New York, NY</placeLet>
-              <placeRec>Philadelphia, PA</placeRec>
-              <dateLet when="1852-10" source="" attested="unk">13 October 1852</dateLet>
-              <dateLet when="1852-10" source="" attested="yes">13 October 5612</dateLet>
-            </letHeading>
-            <msContents>
-              <msItem>
-                <author></author>
-                <editor></editor>
-                <respStmt>
-                  <resp></resp>
-                  <name></name>
-                </respStmt>
-                <title></title>
-                <decoNote></decoNote>
-                <listBibl>
-                  <bibl></bibl>
-                </listBibl>
-                <filiation></filiation>
-                <textLang></textLang>
-                <figure>
-                  <graphic url="ilcajs_b1f9_0065_1r.tif"/>
-                  <graphic url="ilcajs_b1f9_0065_1v.tif"/>
-                  <graphic url="ilcajs_b1f9_0065_2r.tif"/>
-                  <graphic url="ilcajs_b1f9_0065_2v.tif"/>
-                </figure>
-              </msItem>
-            </msContents>
-            <physDesc>
-              <objectDesc>
-                <supportDesc>
-                  <support>
-                    <material color="" lined="true" paper_type="" size="Letter">letter</material>
-                  </support>
-                  <extent>4 pages on 2 sheets
-                    <dimensions></dimensions>
-                  </extent>
-                  <foliation></foliation>
-                  <collation></collation>
-                  <condition fragment="false"></condition>
-                </supportDesc>
-                <layoutDesc>
-                  <layout></layout>
-                </layoutDesc>
-              </objectDesc>
-              <handDesc script="manuscript">
-                  <handNote></handNote>
-              </handDesc>
-              <decoDesc>
-                <decoNote></decoNote>
-              </decoDesc>
-              <additions></additions>
-              <bindingDesc>
-                <binding>
-                  <decoNote></decoNote>
-                </binding>
-              </bindingDesc>
-              <sealDesc>
-                <seal>
-                  <p></p>
-                </seal>
-              </sealDesc>
-              <accMat></accMat>
-              <envDesc occ="false"></envDesc>
-            </physDesc>
-            <history>
-              <origin></origin>
-              <provenance></provenance>
-              <acquisition></acquisition>
-            </history>
-            <additional>
-              <adminInfo>
-                <recordHist>
-                  <source></source>
-                  <change></change>
-                </recordHist>
-                <availability status="free">
-                  <p>Unrestricted</p>
-                </availability>
-                <custodialHist>
-                  <custEvent></custEvent>
-                </custodialHist>
-              </adminInfo>
-              <surrogates></surrogates>
-              <listBibl>
-                <bibl></bibl>
-              </listBibl>
-            </additional>
-            <msPart>
-              <altIdentifier>
-                <idno></idno>
-              </altIdentifier>
-            </msPart>
-          </msDesc>
-        </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-        <projectDesc>
-          <p></p>
-        </projectDesc>
-        <samplingDecl>
-          <p></p>
-        </samplingDecl>
-        <editorialDecl>
-          <correction>
-            <p></p>
-          </correction>
-          <normalization>
-            <p></p>
-          </normalization>
-          <quotation>
-            <p></p>
-          </quotation>
-          <hyphenation>
-            <p></p>
-          </hyphenation>
-          <segmentation>
-            <p></p>
-          </segmentation>
-          <stdVals>
-            <p></p>
-          </stdVals>
-          <interpretation>
-            <p></p>
-          </interpretation>
-        </editorialDecl>
-        <tagsDecl>
-          <rendition></rendition>
-          <namespace name="http://www.tei-c.org/ns/1.0">
-            <tagUsage gi=""></tagUsage>
-          </namespace>
-        </tagsDecl>
-        <refsDecl>
-          <cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-        </refsDecl>
-        <refsDecl>
-          <refState unit=""/>
-        </refsDecl>
-        <classDecl>
-          <taxonomy>
-            <category>
-              <catDesc></catDesc>
-            </category>
-          </taxonomy>
-        </classDecl>
-        <appInfo>
-          <application ident="" version="">
-            <desc></desc>
-            <label></label>
-          </application>
-        </appInfo>
-      </encodingDesc>
-      <profileDesc>
-        <creation></creation>
-        <langUsage>
-          <language ident="en">English</language>
-          <language ident="he">Hebrew</language>
-        </langUsage>
-        <textClass>
-          <keywords scheme="unknown">
-            <list>
-              <item></item>
-              <item></item>
-            </list>
-          </keywords>
-          <classCode scheme=""></classCode>
-          <catRef/>
-        </textClass>
-      </profileDesc>
-      <revisionDesc>
-        <change></change>
-      </revisionDesc>
-    </teiHeader>
-    <text>
-        <body>
-      
-		<pb n="1"/>
-			<p rend="align(right)"><placeName>New York 144 Thompson St.</placeName></p>
-			<p rend="align(right)"><date>Oct 13<hi rend="sup">th</hi> 5612</date></p>
-			<p>Dear Sir&#47;</p>
-          <p rend="indent(1)">I missed you at the consecration of our<lb/> new synagogue. I believe had you been present you<lb/> would have been pleased with the ceremony. I enclose<lb/> you a Book containing the form of service for the<lb/> occasion&#44; and will also give you a short description<lb/> in the way of criticism upon the whole according to the<lb/> best of my <sic>judgement</sic>. The Building I am told is Gothic<lb/> but as I do not understand architectural terms I will not<lb/> attempt a description of it&#44; it is however according to my<lb/> taste the most beautiful synagogue I have ever seen. It<lb/> is yet in an unfinished state this in a measure marred<lb/> the effect on the day of consecration yet still under this<lb/> great disadvantage it was a most beautiful picture&#44; the<lb/> Ladies Gallery was so <sic>crouded</sic> that it was found necessary<lb/> to seat many <del>Ladies</del> below in the body of the building<lb/> which was very full without being <sic>crouded</sic>. The Mayor<lb/> and authorities of the city were all present But the<lb/> <add>Hebrew</add> of the synagogues various &#40;who were all invited&#41; were nearly<lb/> all absent. I however noticed that <persName>Doctor Lilienthal</persName> was<lb/> there. The orchestra which were composed of the most<lb/> eminent Professional men in the city was truly beautiful<lb/> the opening symphony or overture called Joseph composed<lb/> by <persName>Mehul</persName> was most splendidly performed. The chorus<lb/> composed of Boys &#38; men numbering 25 were exceedingly well</p>
-		<pb n="2"/>
-			<p>drilled and performed their parts admirably&#8212;the six<lb/> first <add>Hebrew</add> were all <sic>chaunted</sic> by me which was not<lb/> according to my original intention as each <add>Hebrew</add> had been<lb/> presented with a <add>Hebrew</add> but as they were not present I<lb/> was obliged to undertake the whole. The <sic>chaunting</sic> was<lb/> in the old style by verse and next verse <del>answered</del> by chorus<lb/> accompanied by the organ until the few concluding verses<lb/> which were sang by the <add>Hebrew</add> to original music composed<lb/> by my Brother <persName>Louis Leo</persName> of <placeName>London</placeName>&#8212;accompanied either by<lb/> the organ or the Band. The 7<hi rend="sup">th</hi> <add>Hebrew</add> was arranged<lb/> as a Trio&#8212;sang by <persName>Mr Lichtenstein</persName> <persName>Master Hecht</persName> and<lb/> myself&#8212;<add>Hebrew</add> was sang by myself and chorus<lb/> accompanied by the full band&#8212;next came <persName>Dr <sic>Raphhalls</sic></persName><lb/> sermon &#40;no doubt you have seen it published as a composition of its merit<lb/> I will not speak but it occupied too long a time and<lb/> the long prayer composed by the late <persName>Dr Herschel</persName> read in<lb/> Hebrew by the Doctor and the long list of Donations<lb/> which amounted to nearly &#36;2000 so completely tired<lb/> the congregation that many left&#8212;next came that<lb/> splendid composition of the late <persName>professor Harwitz</persName> one<lb/> verse of which was adapted by <persName>Dr Raphall</persName> for the<lb/> occasion&#8212;next the <add>Hebrew</add> sung by me accompanied by the<lb/> full orchestra&#44; and the Finale <add>Hebrew</add> by the chorus<lb/> and full orchestra&#8212;the whole occupied about<lb/> three hours and a half and I suppose the sermon<lb/> the prayer &#38; the <add>Hebrew</add> occupied at least 2 hours<lb/> and &#188; this great length of the sermon &#38;c &#38;c added<lb/> to the one hours delay before commencing was the<lb/> only reasonable fault that could be found with the</p>
-		<pb n="3"/>
-			<p>ceremony. Upon the whole the congregation were<lb/> highly delighted&#44; and I rec<hi rend="sup">d</hi> many flattering compliments<lb/> from members as well as strangers for the manner<lb/> in which I had <sic>superinteded</sic> the whole&#8212;the Gentlemen<lb/> of the orchestra were delighted with the music<lb/> composed by my Brother who wrote it about 20<lb/> years ago for the consecration of the London Synagogue<lb/> in <placeName>St Albans Place&#44; Haymarket</placeName>&#44; where my late Father<lb/> was <add>Hebrew</add> the ode by the late <persName>Professor Hurwitz</persName> was also<lb/> written for the same occasion.</p>
-          <p rend="indent(1)">The Trustees being impressed by the great labor<lb/> I had in getting up this ceremony presented<lb/> me with a very liberal sum of money as a<lb/> mark of their approbation for the service I had<lb/> rendered them.</p>
-          <p rend="indent(1)">This my dear Sir is a rough sketch which<lb/> you can make use of or not just as it suits<lb/> you&#8212;and if you please to insert the<lb/> particulars in the Occident rest assured<lb/> there is no exaggeration or prejudice in<lb/> any one of the facts stated</p>
-			<p>Trusting that this will find you in excellent<lb/> health</p> 
-          <p rend="indent(8)">I am Dear Sir</p>
-          <p rend="indent(8)">yours faithfully</p>	
-          <p rend="indent(8)"><persName role="author">Ansel Leo</persName></p>
-			<p>To</p>
-          <p rend="indent(1)"><addressee>Revd I. Leeser</addressee></p>
-          <p rend="indent(1)">&#38;c &#38;c &#38;c</p>
-			<pb n="4"/>
-			<p><addressee>Revd Isaac Leeser</addressee></p>
-          <p rend="indent(1)">&#38;c &#38;c &#38;c</p>
-          
-        </body>
-    </text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+          <teiHeader>
+
+                    <fileDesc>
+                              <titleStmt>
+                                        <title>[no title given]</title>
+                                        <author accepted="yes" attested="yes" signature="yes">Leo,
+                                                  Ansel</author>
+                                        <editor/>
+                                        <sponsor/>
+                                        <funder/>
+                                        <principal/>
+                                        <respStmt>
+                                                  <resp/>
+                                                  <name/>
+                                        </respStmt>
+                              </titleStmt>
+                              <editionStmt>
+                                        <edition/>
+                                        <respStmt>
+                                                  <resp/>
+                                                  <name/>
+                                        </respStmt>
+                              </editionStmt>
+                              <extent>[information about file size goes here, information about
+                                        extent of physical item comes later]</extent>
+                              <publicationStmt>
+                                        <publisher>Unpublished manuscript</publisher>
+                              </publicationStmt>
+                              <seriesStmt>
+                                        <p>Not part of a series</p>
+                              </seriesStmt>
+                              <notesStmt>
+                                        <note/>
+                              </notesStmt>
+                              <sourceDesc>
+                                        <biblStruct>
+                                                  <!-- catalog entry goes here -->
+                                                  <monogr>
+                                                  <imprint>
+                                                  <dateLet/>
+                                                  </imprint>
+                                                  </monogr>
+                                        </biblStruct>
+                                        <msDesc>
+                                                  <msIdentifier>
+                                                  <country>USA</country>
+                                                  <region>PA</region>
+                                                  <settlement>Philadelphia</settlement>
+                                                  <institution/>
+                                                  <repository>CAJS Isaac Leeser
+                                                  Collection</repository>
+                                                  <collection>The Library of the Dropsie College for
+                                                  Hebrew and Cognate Learning</collection>
+                                                  <idno>LSDCBx1FF9_68</idno>
+                                                  <altIdentifier>
+                                                  <idno/>
+                                                  </altIdentifier>
+                                                  <msName/>
+                                                  </msIdentifier>
+                                                  <head/>
+                                                  <letHeading>
+                                                  <author accepted="yes" attested="yes"
+                                                  signature="yes">Leo, Ansel</author>
+                                                  <addressee accepted="yes" attested="yes"
+                                                  editor="false">Leeser, Isaac, Rev.</addressee>
+                                                  <deliverer/>
+                                                  <respStmt>
+                                                  <resp/>
+                                                  <name/>
+                                                  </respStmt>
+                                                  <placeLet>New York, NY</placeLet>
+                                                  <placeRec>Philadelphia, PA</placeRec>
+                                                  <dateLet attested="unk" source="" when="1852-10"
+                                                  >13 October 1852</dateLet>
+                                                  <dateLet attested="yes" source="" when="1852-10"
+                                                  >13 October 5612</dateLet>
+                                                  </letHeading>
+                                                  <msContents>
+                                                  <msItem>
+                                                  <author/>
+                                                  <editor/>
+                                                  <respStmt>
+                                                  <resp/>
+                                                  <name/>
+                                                  </respStmt>
+                                                  <title/>
+                                                  <decoNote/>
+                                                  <listBibl>
+                                                  <bibl/>
+                                                  </listBibl>
+                                                  <filiation/>
+                                                  <textLang/>
+                                                  <figure>
+                                                  <graphic url="ilcajs_b1f9_0065_1r.tif"/>
+                                                  <graphic url="ilcajs_b1f9_0065_1v.tif"/>
+                                                  <graphic url="ilcajs_b1f9_0065_2r.tif"/>
+                                                  <graphic url="ilcajs_b1f9_0065_2v.tif"/>
+                                                  </figure>
+                                                  </msItem>
+                                                  </msContents>
+                                                  <physDesc>
+                                                  <objectDesc>
+                                                  <supportDesc>
+                                                  <support>
+                                                  <material color="" lined="true" paper_type=""
+                                                  size="Letter">letter</material>
+                                                  </support>
+                                                  <extent>4 pages on 2 sheets <dimensions/>
+                                                  </extent>
+                                                  <foliation/>
+                                                  <collation/>
+                                                  <condition fragment="false"/>
+                                                  </supportDesc>
+                                                  <layoutDesc>
+                                                  <layout/>
+                                                  </layoutDesc>
+                                                  </objectDesc>
+                                                  <handDesc script="manuscript">
+                                                  <handNote/>
+                                                  </handDesc>
+                                                  <decoDesc>
+                                                  <decoNote/>
+                                                  </decoDesc>
+                                                  <additions/>
+                                                  <bindingDesc>
+                                                  <binding>
+                                                  <decoNote/>
+                                                  </binding>
+                                                  </bindingDesc>
+                                                  <sealDesc>
+                                                  <seal>
+                                                  <p/>
+                                                  </seal>
+                                                  </sealDesc>
+                                                  <accMat/>
+                                                  <envDesc occ="false"/>
+                                                  </physDesc>
+                                                  <history>
+                                                  <origin/>
+                                                  <provenance/>
+                                                  <acquisition/>
+                                                  </history>
+                                                  <additional>
+                                                  <adminInfo>
+                                                  <recordHist>
+                                                  <source/>
+                                                  <change/>
+                                                  </recordHist>
+                                                  <availability status="free">
+                                                  <p>Unrestricted</p>
+                                                  </availability>
+                                                  <custodialHist>
+                                                  <custEvent/>
+                                                  </custodialHist>
+                                                  </adminInfo>
+                                                  <surrogates/>
+                                                  <listBibl>
+                                                  <bibl/>
+                                                  </listBibl>
+                                                  </additional>
+                                                  <msPart>
+                                                  <altIdentifier>
+                                                  <idno/>
+                                                  </altIdentifier>
+                                                  </msPart>
+                                        </msDesc>
+                              </sourceDesc>
+                    </fileDesc>
+                    <encodingDesc>
+                              <projectDesc>
+                                        <p/>
+                              </projectDesc>
+                              <samplingDecl>
+                                        <p/>
+                              </samplingDecl>
+                              <editorialDecl>
+                                        <correction>
+                                                  <p/>
+                                        </correction>
+                                        <normalization>
+                                                  <p/>
+                                        </normalization>
+                                        <quotation>
+                                                  <p/>
+                                        </quotation>
+                                        <hyphenation>
+                                                  <p/>
+                                        </hyphenation>
+                                        <segmentation>
+                                                  <p/>
+                                        </segmentation>
+                                        <stdVals>
+                                                  <p/>
+                                        </stdVals>
+                                        <interpretation>
+                                                  <p/>
+                                        </interpretation>
+                              </editorialDecl>
+                              <tagsDecl>
+                                        <rendition/>
+                                        <namespace name="http://www.tei-c.org/ns/1.0">
+                                                  <tagUsage gi=""/>
+                                        </namespace>
+                              </tagsDecl>
+                              <refsDecl>
+                                        <cRefPattern matchPattern="" replacementPattern=""/>
+                              </refsDecl>
+                              <refsDecl>
+                                        <refState unit=""/>
+                              </refsDecl>
+                              <classDecl>
+                                        <taxonomy>
+                                                  <category>
+                                                  <catDesc/>
+                                                  </category>
+                                        </taxonomy>
+                              </classDecl>
+                              <appInfo>
+                                        <application ident="" version="">
+                                                  <desc/>
+                                                  <label/>
+                                        </application>
+                              </appInfo>
+                    </encodingDesc>
+                    <profileDesc>
+                              <creation/>
+                              <langUsage>
+                                        <language ident="en">English</language>
+                                        <language ident="he">Hebrew</language>
+                              </langUsage>
+                              <textClass>
+                                        <keywords scheme="unknown">
+                                                  <list>
+                                                  <item/>
+                                                  <item/>
+                                                  </list>
+                                        </keywords>
+                                        <classCode scheme=""/>
+                                        <catRef/>
+                              </textClass>
+                    </profileDesc>
+                    <revisionDesc>
+                              <change/>
+                    </revisionDesc>
+          </teiHeader>
+          <text>
+                    <body>
+                              <pb n="1"/>
+                              <p rend="align(right)">
+                                        <placeName>New York 144 Thompson St.</placeName>
+                              </p>
+                              <p rend="align(right)">
+                                        <date>Oct 13<hi rend="sup">th</hi> 5612</date>
+                              </p>
+                              <p>Dear Sir/</p>
+                              <p rend="indent(1)">I missed you at the consecration of our<lb/> new
+                                        synagogue. I believe had you been present you<lb/> would
+                                        have been pleased with the ceremony. I enclose<lb/> you a
+                                        Book containing the form of service for the<lb/> occasion,
+                                        and will also give you a short description<lb/> in the way
+                                        of criticism upon the whole according to the<lb/> best of my
+                                                  <sic>judgement</sic>. The Building I am told is
+                                        Gothic<lb/> but as I do not understand architectural terms I
+                                        will not<lb/> attempt a description of it, it is however
+                                        according to my<lb/> taste the most beautiful synagogue I
+                                        have ever seen. It<lb/> is yet in an unfinished state this
+                                        in a measure marred<lb/> the effect on the day of
+                                        consecration yet still under this<lb/> great disadvantage it
+                                        was a most beautiful picture, the<lb/> Ladies Gallery was so
+                                                  <sic>crouded</sic> that it was found
+                                        necessary<lb/> to seat many <del>Ladies</del> below in the
+                                        body of the building<lb/> which was very full without being
+                                                  <sic>crouded</sic>. The Mayor<lb/> and authorities
+                                        of the city were all present But the<lb/>
+                                        <add>חזנים</add> of the synagogues various (who were all
+                                        invited) were nearly<lb/> all absent. I however noticed that
+                                                  <persName>Doctor Lilienthal</persName> was<lb/>
+                                        there. The orchestra which were composed of the most<lb/>
+                                        eminent Professional men in the city was truly
+                                        beautiful<lb/> the opening symphony or overture called
+                                        Joseph composed<lb/> by <persName>Mehul</persName> was most
+                                        splendidly performed. The chorus<lb/> composed of Boys &amp;
+                                        men numbering 25 were exceedingly well</p>
+                              <pb n="2"/>
+                              <p>drilled and performed their parts admirably—the six<lb/> first
+                                                  <add>מזמורים</add> were all <sic>chaunted</sic> by
+                                        me which was not<lb/> according to my original intention as
+                                        each <add>חזן</add> had been<lb/> presented with a
+                                                  <add>מזמור</add> but as they were not present
+                                        I<lb/> was obliged to undertake the whole. The
+                                                  <sic>chaunting</sic> was<lb/> in the old style by
+                                        verse and next verse <del>answered</del> by chorus<lb/>
+                                        accompanied by the organ until the few concluding
+                                        verses<lb/> which were sang by the <add>in the old style by
+                                                  חזן verse and next verse</add> to original music
+                                        composed<lb/> by my Brother <persName>Louis Leo</persName>
+                                        of <placeName>London</placeName>—accompanied either by<lb/>
+                                        the organ or the Band. The 7<hi rend="sup">th</hi>
+                                        <add>חזן</add> was arranged<lb/> as a Trio—sang by
+                                                  <persName>Mr Lichtenstein</persName>
+                                        <persName>Master Hecht</persName> and<lb/>
+                                                  myself—<add>מזמור</add> was sang by myself and
+                                        chorus<lb/> accompanied by the full band—next came
+                                                  <persName>Dr <sic>Raphhalls</sic></persName><lb/>
+                                        sermon (no doubt you have seen it published as a composition
+                                        of its merit<lb/> I will not speak but it occupied too long
+                                        a time and<lb/> the long prayer composed by the late
+                                                  <persName>Dr Herschel</persName> read in<lb/>
+                                        Hebrew by the Doctor and the long list of Donations<lb/>
+                                        which amounted to nearly $2000 so completely tired<lb/> the
+                                        congregation that many left—next came that<lb/> splendid
+                                        composition of the late <persName>professor
+                                                  Harwitz</persName> one<lb/> verse of which was
+                                        adapted by <persName>Dr Raphall</persName> for the<lb/>
+                                        occasion—next the <add>מזמור לדוד</add> sung by me
+                                        accompanied by the<lb/> full orchestra, and the Finale
+                                                  <add>נותן תשועה</add> by the chorus<lb/> and full
+                                        orchestra—the whole occupied about<lb/> three hours and a
+                                        half and I suppose the sermon<lb/> the prayer &amp; the
+                                                  <add>הללויה</add> occupied at least 2 hours<lb/>
+                                        and ¼ this great length of the sermon &amp;c &amp;c
+                                        added<lb/> to the one hours delay before commencing was
+                                        the<lb/> only reasonable fault that could be found with
+                                        the</p>
+                              <pb n="3"/>
+                              <p>ceremony. Upon the whole the congregation were<lb/> highly
+                                        delighted, and I rec<hi rend="sup">d</hi> many flattering
+                                        compliments<lb/> from members as well as strangers for the
+                                        manner<lb/> in which I had <sic>superinteded</sic> the
+                                        whole—the Gentlemen<lb/> of the orchestra were delighted
+                                        with the music<lb/> composed by my Brother who wrote it
+                                        about 20<lb/> years ago for the consecration of the London
+                                        Synagogue<lb/> in <placeName>St Albans Place,
+                                                  Haymarket</placeName>, where my late Father<lb/>
+                                        was <add>מי שברך</add> the ode by the late
+                                                  <persName>Professor Hurwitz</persName> was
+                                        also<lb/> written for the same occasion.</p>
+                              <p rend="indent(1)">The Trustees being impressed by the great
+                                        labor<lb/> I had in getting up this ceremony presented<lb/>
+                                        me with a very liberal sum of money as a<lb/> mark of their
+                                        approbation for the service I had<lb/> rendered them.</p>
+                              <p rend="indent(1)">This my dear Sir is a rough sketch which<lb/> you
+                                        can make use of or not just as it suits<lb/> you—and if you
+                                        please to insert the<lb/> particulars in the Occident rest
+                                        assured<lb/> there is no exaggeration or prejudice in<lb/>
+                                        any one of the facts stated</p>
+                              <p>Trusting that this will find you in excellent<lb/> health</p>
+                              <p rend="indent(8)">I am Dear Sir</p>
+                              <p rend="indent(8)">yours faithfully</p>
+                              <p rend="indent(8)">
+                                        <persName role="author">Ansel Leo</persName>
+                              </p>
+                              <p>To</p>
+                              <p rend="indent(1)">
+                                        <addressee>Revd I. Leeser</addressee>
+                              </p>
+                              <p rend="indent(1)">&amp;c &amp;c &amp;c</p>
+                              <pb n="4"/>
+                              <p>
+                                        <addressee>Revd Isaac Leeser</addressee>
+                              </p>
+                              <p rend="indent(1)">&amp;c &amp;c &amp;c</p>
+                    </body>
+          </text>
 </TEI>

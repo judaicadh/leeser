@@ -1,254 +1,319 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="yes">Ezekiel, Jacob</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>TCAT</repository>
-						<collection>Anonymous</collection>
-						<idno>LSTCAT_item122</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="yes">Ezekiel, Jacob</author>
-						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac</addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>Richmond, VA</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1849-06" source="" attested="yes">14 June 1849</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="il_tcat_item122_wk1_body0001.jpg"></graphic>
-								<graphic url="il_tcat_item122_wk1_body0002.jpg"></graphic>
-								<graphic url="il_tcat_item122_wk1_body0003.jpg"></graphic>
-								<graphic url="il_tcat_item122_wk1_body0004.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="false" paper_type="" size="">letter</material>
-								</support>
-								<extent>3 pages on 4 sheets
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="manuscript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="free">
-								<p>Unrestricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1"/>
-				<p rend="align(right)"><placeName>Richmond</placeName> <date>June 14.1849</date></p>
-				<p>Valued Friend</p>
-			<p rend="indent(1)">I perceived in the last no of<lb/> the &#8220;Occident&#8221; an article written by<lb/> <persName>Mr Brown</persName> relative to the <date>Sunday</date><lb/> Laws of <placeName>Pennsylvania</placeName>&#44; and I regret<lb/> much that every effort has been in<lb/> vain to modify that obnoxious Law<lb/> in your state&#44; a session before the<lb/> last of our Legislature when they revis&#45;<lb/>ed our Criminal Laws I had the<lb/> matter under consideration in the<lb/> Senate nearly two days relative to<lb/> the <date>Sabbath</date> Laws here in which<lb/> <persName>Mr <sic>Stanard</sic></persName> and others took a very<lb/> active part.  I think that I sent you<lb/> the papers containing the remarks<lb/> on the subject&#44; they were however only<lb/> slightly modified and that only by<lb/> the casting vote of the speaker&#44; the law<lb/> as reported by the revisers read thus<lb/> &#8220;If any person on <date>Sabbath</date> day shall<lb/> himself be found labouring &#38;c &#38;c&#8221; and<lb/> the amendment asked for in the Senate<lb/> was a proviso for persons who had<lb/> kept the <date>Sabbath</date> day of the congregation<lb/> to which they may have belonged to be<lb/> exempt from the penalty of the law</p>
-			<pb n="2"/>
-				<p>which was lost by a vote of 20 to 5<lb/> the amendment was then asked for to<lb/> insert the word &#8220;a&#8221; so as to read &#8220;If any<lb/> person on <hi rend="underline">a</hi> <date>sabbath</date> day &#8220;&#38;c &#38;c&#8221; and in order<lb/> to get that slight amendment it was<lb/> a tie vote the speaker giving the casting<lb/> vote.  You will perceive that the<lb/> law as reported was done to recognize<lb/> a <date>Sabbath</date> day and not to leave it dis&#45;<lb/>cretionary with the magistrate to say<lb/> which was the <date>sabbath</date> day&#44; the title<lb/> of the Chapter in which this law may<lb/> be found in Chap VIII &#8220;Of <sic>offences</sic><lb/> against Chastity Morality and Decency&#8221;<lb/> Revised Code <date>1848</date> page III.  <persName>Mr Mays</persName><lb/> and <persName>Standard</persName> told me then that if<lb/> we had have had any &#39;<sic>competant</sic><lb/> person to have argued the point before<lb/> the committee we would have had<lb/> matters fixed our own way&#44; but in<lb/> this particular we were minus.</p>
-			<p rend="indent(1)">We have now an extra session<lb/> of the Legislature for the purpose of<lb/> revising the Civil Code and I believe<lb/> the Criminal also.  I regret that they<lb/> have adjourned from here to the<lb/> springs.  I did intend to use my eff<lb/>orts to get this matter set right in</p>
-			<pb n="3"/>
-				<p>regard to that law&#44; I <sic>seen</sic> <persName>Mr Standard</persName><lb/> to day and I had a long talk with<lb/> him on the subject and presented him<lb/> with a copy of the last &#39;Occident&#8221; he<lb/> assures me that he will use his efforts<lb/> to have it modified.  I am sure were<lb/> you here and present at the legislature<lb/> you could urge our claims in such lan<lb/>guage before the committees that could<lb/> not be easily mis&#45;understood&#44; would to<lb/> God I had the ability I would do<lb/> my utmost to have things right&#44; as they<lb/> ought to be I feel a great interest in<lb/> the matter and have enlisted many of<lb/> <sic>of</sic> the members of the Legislature from<lb/> time to time in our favour&#44; I wish<lb/> you would write an article relative<lb/> to the matter&#44; and if to the purpose<lb/> I am sure it will have the desired<lb/> effect I will have it published and<lb/> well distributed among the members&#44;<lb/> you know that the petition you wrote<lb/> for me to the common Hall of this city<lb/> was the means of the repeal of the<lb/> <date>Sabbath</date> law of <placeName>Richmond</placeName>&#44; and I am<lb/> sure with a little work we can accomplish<lb/> our end.  Truly yours.  <hi rend="underline"><persName role="author">Jacob Ezekiel</persName></hi></p>
-				<p>Love to sister and all relatives</p>
-			<pb n="4"/>
-				<p><addressee>Rev. Isaac Leeser</addressee></p>
-			<p rend="indent(1)"><placeName><hi rend="underline">Philadelphia</hi></placeName></p>
-			<p rend="indent(2)"><placeName><hi rend="underline">Pa</hi></placeName></p>
-		</body>
-	</text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="yes">Ezekiel, Jacob</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>TCAT</repository>
+                        <collection>Anonymous</collection>
+                        <idno>LSTCAT_item122</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="yes">Ezekiel,
+                            Jacob</author>
+                        <addressee accepted="yes" attested="yes" editor="false">Leeser,
+                            Isaac</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Richmond, VA</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1849-06">14 June 1849</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="il_tcat_item122_wk1_body0001.jpg"/>
+                                <graphic url="il_tcat_item122_wk1_body0002.jpg"/>
+                                <graphic url="il_tcat_item122_wk1_body0003.jpg"/>
+                                <graphic url="il_tcat_item122_wk1_body0004.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >letter</material>
+                                </support>
+                                <extent>3 pages on 4 sheets <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <p rend="align(right)">
+                <placeName>Richmond</placeName>
+                <date>June 14.1849</date>
+            </p>
+            <p>Valued Friend</p>
+            <p rend="indent(1)">I perceived in the last no of<lb/> the “Occident” an article written by<lb/>
+                <persName>Mr Brown</persName> relative to the <date>Sunday</date><lb/> Laws of
+                    <placeName>Pennsylvania</placeName>, and I regret<lb/> much that every effort
+                has been in<lb/> vain to modify that obnoxious Law<lb/> in your state, a session
+                before the<lb/> last of our Legislature when they revis-<lb/>ed our Criminal Laws I
+                had the<lb/> matter under consideration in the<lb/> Senate nearly two days relative
+                to<lb/> the <date>Sabbath</date> Laws here in which<lb/>
+                <persName>Mr <sic>Stanard</sic></persName> and others took a very<lb/> active part.
+                I think that I sent you<lb/> the papers containing the remarks<lb/> on the subject,
+                they were however only<lb/> slightly modified and that only by<lb/> the casting vote
+                of the speaker, the law<lb/> as reported by the revisers read thus<lb/> “If any
+                person on <date>Sabbath</date> day shall<lb/> himself be found labouring &amp;c
+                &amp;c” and<lb/> the amendment asked for in the Senate<lb/> was a proviso for
+                persons who had<lb/> kept the <date>Sabbath</date> day of the congregation<lb/> to
+                which they may have belonged to be<lb/> exempt from the penalty of the law</p>
+            <pb n="2"/>
+            <p>which was lost by a vote of 20 to 5<lb/> the amendment was then asked for to<lb/>
+                insert the word “a” so as to read “If any<lb/> person on <hi rend="underline">a</hi>
+                <date>sabbath</date> day “&amp;c &amp;c” and in order<lb/> to get that slight
+                amendment it was<lb/> a tie vote the speaker giving the casting<lb/> vote. You will
+                perceive that the<lb/> law as reported was done to recognize<lb/> a
+                    <date>Sabbath</date> day and not to leave it dis-<lb/>cretionary with the
+                magistrate to say<lb/> which was the <date>sabbath</date> day, the title<lb/> of the
+                Chapter in which this law may<lb/> be found in Chap VIII “Of
+                <sic>offences</sic><lb/> against Chastity Morality and Decency”<lb/> Revised Code
+                    <date>1848</date> page III. <persName>Mr Mays</persName><lb/> and
+                    <persName>Standard</persName> told me then that if<lb/> we had have had any
+                    '<sic>competant</sic><lb/> person to have argued the point before<lb/> the
+                committee we would have had<lb/> matters fixed our own way, but in<lb/> this
+                particular we were minus.</p>
+            <p rend="indent(1)">We have now an extra session<lb/> of the Legislature for the purpose
+                of<lb/> revising the Civil Code and I believe<lb/> the Criminal also. I regret that
+                they<lb/> have adjourned from here to the<lb/> springs. I did intend to use my
+                eff<lb/>orts to get this matter set right in</p>
+            <pb n="3"/>
+            <p>regard to that law, I <sic>seen</sic>
+                <persName>Mr Standard</persName><lb/> to day and I had a long talk with<lb/> him on
+                the subject and presented him<lb/> with a copy of the last 'Occident” he<lb/>
+                assures me that he will use his efforts<lb/> to have it modified. I am sure
+                were<lb/> you here and present at the legislature<lb/> you could urge our claims in
+                such lan<lb/>guage before the committees that could<lb/> not be easily
+                mis-understood, would to<lb/> God I had the ability I would do<lb/> my utmost to
+                have things right, as they<lb/> ought to be I feel a great interest in<lb/> the
+                matter and have enlisted many of<lb/>
+                <sic>of</sic> the members of the Legislature from<lb/> time to time in our favour, I
+                wish<lb/> you would write an article relative<lb/> to the matter, and if to the
+                purpose<lb/> I am sure it will have the desired<lb/> effect I will have it published
+                and<lb/> well distributed among the members,<lb/> you know that the petition you
+                wrote<lb/> for me to the common Hall of this city<lb/> was the means of the repeal
+                of the<lb/>
+                <date>Sabbath</date> law of <placeName>Richmond</placeName>, and I am<lb/> sure with
+                a little work we can accomplish<lb/> our end. Truly yours. <hi rend="underline"
+                        ><persName role="author">Jacob Ezekiel</persName></hi></p>
+            <p>Love to sister and all relatives</p>
+            <pb n="4"/>
+            <p>
+                <addressee>Rev. Isaac Leeser</addressee>
+            </p>
+            <p rend="indent(1)">
+                <placeName>
+                    <hi rend="underline">Philadelphia</hi>
+                </placeName>
+            </p>
+            <p rend="indent(2)">
+                <placeName>
+                    <hi rend="underline">Pa</hi>
+                </placeName>
+            </p>
+        </body>
+    </text>
 </TEI>

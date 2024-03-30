@@ -1,272 +1,351 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE TEI [
-<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
-%teibase;
-<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
-%teiext;
-]>
-<TEI>
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="unk">Frischman, Kalman</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>LSKAP</repository>
-						<collection>The Arnold and Deanne Kaplan Collection of Early American Judaica</collection>
-						<idno>LSKAP_NC-27</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="unk">Frischman, Kalman</author>
-						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac</addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>Boston, MA</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1855-12" source="" attested="yes">December 23, 1855</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="leeser_05_2011_nc_27_1.jpg"></graphic>
-								<graphic url="leeser_05_2011_nc_27_2.jpg"></graphic>
-								<graphic url="leeser_05_2011_nc_27_3.jpg"></graphic>
-								<graphic url="leeser_05_2011_nc_27_4.jpg"></graphic>
-								<graphic url="leeser_05_2011_nc_27_5.jpg"></graphic>
-								<graphic url="leeser_05_2011_nc_27_6.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="false" paper_type="" size="">letter</material>
-								</support>
-								<extent>5 pages on 5 sheets
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="manuscript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="restricted">
-								<p>Restricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-				<language ident="he">Hebrew</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1"/>
-				<p><persName><sic>Zalman</sic> Frischman</persName></p>
-			<p rend="align(right)"><placeName>Boston</placeName>. <date>Dec. 23&#44; 1855</date></p>
-				<p><sic><addressee>Mr. Isai Leeser</addressee></sic>&#58;</p>
-			<p rend="indent(1)">Very honored Sir&#44; I certainly <del>do not want</del> would not<lb/> be compelled you&#44; dear sir&#44; to be burdened with this<lb/> letter&#44; had I not heard from many people of your<lb/> straight forwardness and true humanitarianism as<lb/> you <del>spread it before the masses</del> fully exemplify it in<lb/> your preaching.  That is what encouraged me to write.<lb/>  I&#44; therefore&#44; presume to rely upon your good under&#45;<lb/>standing and your subsequent conviction and present<lb/> to you my most humble request.  I want to do so<lb/> as briefly as possible and not burden you with many<lb/> words and therefore this is my story&#58;</p>
-			<p rend="indent(1)">About five years ago I was forced by misfortune<lb/> to leave my fatherland&#44; <placeName>Hungary</placeName>&#44; along with<lb/> my family.  Quite depressed and without any<lb/> thing&#44; I arrived in <placeName>Boston</placeName>.  A terrible misfortune might have<lb/> over taken me had not <persName>Herr Jacob Sachs</persName> and<lb/> his wife exerted all their powers and protected<lb/> me and my six small children from destruction.  That therefore<lb/> is the scene and some what more elaborate picture in<lb/> which several characters are portrayed.  I transmitted<lb/> to <persName>Herr Isaac Wise</persName> in <placeName>Cincinnati</placeName> with the<lb/> urgent request that he use it in his German<lb/> newspaper.  I am enclosing herewith a copy of<lb/> my two letters to <persName>Herr Wise</persName> for your<lb/> reading.  &#34;And behold the reaping season is<lb/> past&#44; the summer is ended&#44; and I have<lb/> waited in vain&#34;.  I sent another letter to<lb/> <persName>Herr Wise</persName> in which I most politely requested</p>
-			<pb n="2"/>
-				<p>him to return to me my short work&#44; &#34;And behold<lb/> the autumn passed&#44; and that which I sought I found not.<lb/>  And I said&#44; &#39;To whom among the holy shall i turn&#63;&#39;&#34;<lb/>  For&#44; had he sent <del>it back empt</del> the work of my hands back<lb/> empty handed&#44; I would have kept quiet&#8212;<hi rend="underline">but</hi><lb/> I am like a man who has not heard and there<lb/> are no arguments in his mouth&#44; but now let<lb/> me speak and I shall feel relieved.  I shall open<lb/> my lips and thou shalt answer.  And let my<lb/> master decide between my brother and your brother<lb/> and settle the matter between us.  As to you&#44;<lb/> <persName>Isaac Laban</persName> &#40;<persName>Wise</persName>&#41;&#44; listen to my words&#44; I will<lb/> not be partial to any man&#44; nor call you by a<lb/> man&#39;s name&#44; for according to your name such<lb/> is your praise&#42;.  Let your own mouth condemn<lb/> you and not I.  And your lips give testimony<lb/> against you.  Admit in front of the people<lb/> whether you have done this...<lb/>...or<lb/> that you are partial to princes&#44; and if you say&#44;<lb/> &#34;Did this man come to dwell and raised himself<lb/> to the dignity of Judges&#34;&#44; in this you are wrong&#44;<lb/> for the former is justified in argument.  But<lb/> admit that this is a grievous sin&#44; that you<lb/> have placed your trust in gold&#44; and had not...<lb/> etc&#44; etc</p>
-				<p><persName role="author">Kalman <del>Dak</del> Frischman</persName></p>
-				<p>&#42;The reference&#44; I suppose&#44; is to <persName>Labon</persName> and his<lb/> characteristics.</p>
-			<pb n="3"/>
-				<p>Here follow the two letters which I sent to<lb/> <persName>Herr Wise</persName>&#44; and please include them with<lb/> my entire correspondence in your well&#45;known<lb/> Occident.  Devotedly yours&#44; <persName role="author">Kalman Frischman</persName></p>
-				<p>My address&#8212;<persName role="author">Karl Frischman</persName>&#44; <placeName>Elliott<lb/> Street&#44; No. 101&#44; Boston</placeName>.</p>
-				<p>Addressed to <persName>I. Wise</persName>&#44; Honored Sir&#58;&#45;</p>
-			<p rend="indent(1)">Permit me a very urgent wish&#8212;to appear<lb/> before you.  I am encouraged by the thought<lb/> that your very kindly disposition will forgive<lb/> this step of mine.  Three moons have<lb/> passed since I left my fatherland <placeName>Hungary</placeName>.<lb/>  Providence directed my steps to <placeName>America</placeName>&#44;<lb/> that is to <placeName>Boston</placeName>.  The bitterness of my<lb/> fortune and the suffering of my entire family<lb/> was so great that I can barely describe<lb/> it.  In a word&#44; nothing was left us.  We<lb/> were completely without means.  We were<lb/> starving.  I was not afraid of death&#44; nor<lb/> of the passing from one type of life into<lb/> another.  For whoever bethought himself of<lb/> earthly life&#44; what he is and what he can be&#44;<lb/> whoever has constantly and willingly occupied</p>
-			<pb n="4"/>
-				<p>himself with such thought&#44; he can<lb/> appreciate the comfort which religion<lb/> gives to the human spirit.  This strength&#45;<lb/>ens his mind and heart.  Whoever has<lb/> implicit trust in God&#44; does not fear<lb/> death.  In this respect I was quite con&#45;<lb/>tent&#44; <del>by</del> but my duty to my family circle<lb/> still had to be fulfilled.  That is what<lb/> tortured me within&#44; and that is how I<lb/> stood upon a foreign soil&#44; namely in <placeName>Boston</placeName>&#44;<lb/> wringing my hands and calling for help.<lb/>  And who is it who <del>fr</del> saved me and my<lb/> family from annihilation&#63;  <persName>Herr Joseph<lb/> Sachs</persName>&#44; the preacher and teacher of the<lb/> German congregation in <placeName>Boston</placeName>.  Yes&#44; this<lb/> sympathetic friend of humanity is the<lb/> one who rescued my family.  To this<lb/> kindly man I therefore feel myself<lb/> completed indebted to thank openly for his noble action.<lb/>  &#34;Therefore&#44;&#39; said I&#44; &#39;I shall go to commune<lb/> with <persName>Isaac</persName>&#44; to bring the story of my<lb/> murmuring lips in the collection of<lb/> <persName>Isaac</persName>&#44; and through <persName>Isaac</persName> he may</p>
-			<pb n="5"/>
-				<p>find fruit for himself&#44; and if my hand<lb/> makes an error in explaining in dear<lb/> language all these occurrences which can<lb/> barely be imagined.&#34;  Etc&#44; etc. ......</p>
-			<p rend="indent(1)">He ends the letter with the<lb/> request that <persName>Wise</persName> find him a position<lb/> somewhere &#40;despite his inability to<lb/> speak the language&#41; and that he print<lb/> his elaborate story in his German news&#45;<lb/>paper.</p>
-				<p>2<hi rend="sup">nd</hi> letter to <persName>Dr. Wise.</persName>  &#40;in Hebrew&#44; with a<lb/> string of quotations from the Bible&#44; begging<lb/> him to print his article&#44; or return it.&#41;.</p>
-				<p>Then follows an extract from the article which<lb/> he sent to <persName>Dr. Wise</persName>.  It consists of rhymed<lb/> lines on the style of the prayers in the Ashke&#45;<lb/>nazic holiday prayer book&#44; with indirect<lb/> references to Biblical heroes and ex&#45;<lb/>pressions&#59; also an acrostic poem with<lb/> the name of <persName>Joseph</persName>.</p>
-		</body>
-	</text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="unk">Frischman, Kalman</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>LSKAP</repository>
+                        <collection>The Arnold and Deanne Kaplan Collection of Early American
+                            Judaica</collection>
+                        <idno>LSKAP_NC-27</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="unk">Frischman,
+                            Kalman</author>
+                        <addressee accepted="yes" attested="yes" editor="false">Leeser,
+                            Isaac</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Boston, MA</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1855-12">December 23, 1855</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="leeser_05_2011_nc_27_1.jpg"/>
+                                <graphic url="leeser_05_2011_nc_27_2.jpg"/>
+                                <graphic url="leeser_05_2011_nc_27_3.jpg"/>
+                                <graphic url="leeser_05_2011_nc_27_4.jpg"/>
+                                <graphic url="leeser_05_2011_nc_27_5.jpg"/>
+                                <graphic url="leeser_05_2011_nc_27_6.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >letter</material>
+                                </support>
+                                <extent>5 pages on 5 sheets <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="restricted">
+                                <p>Restricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="he">Hebrew</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <p>
+                <persName><sic>Zalman</sic> Frischman</persName>
+            </p>
+            <p rend="align(right)"><placeName>Boston</placeName>. <date>Dec. 23, 1855</date></p>
+            <p><sic><addressee>Mr. Isai Leeser</addressee></sic>:</p>
+            <p rend="indent(1)">Very honored Sir, I certainly <del>do not want</del> would not<lb/>
+                be compelled you, dear sir, to be burdened with this<lb/> letter, had I not heard
+                from many people of your<lb/> straight forwardness and true humanitarianism as<lb/>
+                you <del>spread it before the masses</del> fully exemplify it in<lb/> your
+                preaching. That is what encouraged me to write.<lb/> I, therefore, presume to rely
+                upon your good under-<lb/>standing and your subsequent conviction and present<lb/>
+                to you my most humble request. I want to do so<lb/> as briefly as possible and not
+                burden you with many<lb/> words and therefore this is my story:</p>
+            <p rend="indent(1)">About five years ago I was forced by misfortune<lb/> to leave my
+                fatherland, <placeName>Hungary</placeName>, along with<lb/> my family. Quite
+                depressed and without any<lb/> thing, I arrived in <placeName>Boston</placeName>. A
+                terrible misfortune might have<lb/> over taken me had not <persName>Herr Jacob
+                    Sachs</persName> and<lb/> his wife exerted all their powers and protected<lb/>
+                me and my six small children from destruction. That therefore<lb/> is the scene and
+                some what more elaborate picture in<lb/> which several characters are portrayed. I
+                transmitted<lb/> to <persName>Herr Isaac Wise</persName> in
+                    <placeName>Cincinnati</placeName> with the<lb/> urgent request that he use it in
+                his German<lb/> newspaper. I am enclosing herewith a copy of<lb/> my two letters to
+                    <persName>Herr Wise</persName> for your<lb/> reading. "And behold the reaping
+                season is<lb/> past, the summer is ended, and I have<lb/> waited in vain". I sent
+                another letter to<lb/>
+                <persName>Herr Wise</persName> in which I most politely requested</p>
+            <pb n="2"/>
+            <p>him to return to me my short work, "And behold<lb/> the autumn passed, and that which
+                I sought I found not.<lb/> And I said, 'To whom among the holy shall i turn?'"<lb/>
+                For, had he sent <del>it back empt</del> the work of my hands back<lb/> empty
+                handed, I would have kept quiet—<hi rend="underline">but</hi><lb/> I am like a man
+                who has not heard and there<lb/> are no arguments in his mouth, but now let<lb/> me
+                speak and I shall feel relieved. I shall open<lb/> my lips and thou shalt answer.
+                And let my<lb/> master decide between my brother and your brother<lb/> and settle
+                the matter between us. As to you,<lb/>
+                <persName>Isaac Laban</persName> (<persName>Wise</persName>), listen to my words, I
+                will<lb/> not be partial to any man, nor call you by a<lb/> man's name, for
+                according to your name such<lb/> is your praise*. Let your own mouth condemn<lb/>
+                you and not I. And your lips give testimony<lb/> against you. Admit in front of the
+                people<lb/> whether you have done this...<lb/>...or<lb/> that you are partial to
+                princes, and if you say,<lb/> "Did this man come to dwell and raised himself<lb/> to
+                the dignity of Judges", in this you are wrong,<lb/> for the former is justified in
+                argument. But<lb/> admit that this is a grievous sin, that you<lb/> have placed your
+                trust in gold, and had not...<lb/> etc, etc</p>
+            <p>
+                <persName role="author">Kalman <del>Dak</del> Frischman</persName>
+            </p>
+            <p>*The reference, I suppose, is to <persName>Labon</persName> and his<lb/>
+                characteristics.</p>
+            <pb n="3"/>
+            <p>Here follow the two letters which I sent to<lb/>
+                <persName>Herr Wise</persName>, and please include them with<lb/> my entire
+                correspondence in your well-known<lb/> Occident. Devotedly yours, <persName
+                    role="author">Kalman Frischman</persName></p>
+            <p>My address—<persName role="author">Karl Frischman</persName>, <placeName>Elliott<lb/>
+                    Street, No. 101, Boston</placeName>.</p>
+            <p>Addressed to <persName>I. Wise</persName>, Honored Sir:-</p>
+            <p rend="indent(1)">Permit me a very urgent wish—to appear<lb/> before you. I am
+                encouraged by the thought<lb/> that your very kindly disposition will forgive<lb/>
+                this step of mine. Three moons have<lb/> passed since I left my fatherland
+                    <placeName>Hungary</placeName>.<lb/> Providence directed my steps to
+                    <placeName>America</placeName>,<lb/> that is to <placeName>Boston</placeName>.
+                The bitterness of my<lb/> fortune and the suffering of my entire family<lb/> was so
+                great that I can barely describe<lb/> it. In a word, nothing was left us. We<lb/>
+                were completely without means. We were<lb/> starving. I was not afraid of death,
+                nor<lb/> of the passing from one type of life into<lb/> another. For whoever
+                bethought himself of<lb/> earthly life, what he is and what he can be,<lb/> whoever
+                has constantly and willingly occupied</p>
+            <pb n="4"/>
+            <p>himself with such thought, he can<lb/> appreciate the comfort which religion<lb/>
+                gives to the human spirit. This strength-<lb/>ens his mind and heart. Whoever
+                has<lb/> implicit trust in God, does not fear<lb/> death. In this respect I was
+                quite con-<lb/>tent, <del>by</del> but my duty to my family circle<lb/> still had to
+                be fulfilled. That is what<lb/> tortured me within, and that is how I<lb/> stood
+                upon a foreign soil, namely in <placeName>Boston</placeName>,<lb/> wringing my hands
+                and calling for help.<lb/> And who is it who <del>fr</del> saved me and my<lb/>
+                family from annihilation? <persName>Herr Joseph<lb/> Sachs</persName>, the preacher
+                and teacher of the<lb/> German congregation in <placeName>Boston</placeName>. Yes,
+                this<lb/> sympathetic friend of humanity is the<lb/> one who rescued my family. To
+                this<lb/> kindly man I therefore feel myself<lb/> completed indebted to thank openly
+                for his noble action.<lb/> "Therefore,' said I, 'I shall go to commune<lb/> with
+                    <persName>Isaac</persName>, to bring the story of my<lb/> murmuring lips in the
+                collection of<lb/>
+                <persName>Isaac</persName>, and through <persName>Isaac</persName> he may</p>
+            <pb n="5"/>
+            <p>find fruit for himself, and if my hand<lb/> makes an error in explaining in dear<lb/>
+                language all these occurrences which can<lb/> barely be imagined." Etc, etc.
+                ......</p>
+            <p rend="indent(1)">He ends the letter with the<lb/> request that
+                    <persName>Wise</persName> find him a position<lb/> somewhere (despite his
+                inability to<lb/> speak the language) and that he print<lb/> his elaborate story in
+                his German news-<lb/>paper.</p>
+            <p>2<hi rend="sup">nd</hi> letter to <persName>Dr. Wise.</persName> (in Hebrew, with
+                a<lb/> string of quotations from the Bible, begging<lb/> him to print his article,
+                or return it.).</p>
+            <p>Then follows an extract from the article which<lb/> he sent to <persName>Dr.
+                    Wise</persName>. It consists of rhymed<lb/> lines on the style of the prayers in
+                the Ashke-<lb/>nazic holiday prayer book, with indirect<lb/> references to Biblical
+                heroes and ex-<lb/>pressions; also an acrostic poem with<lb/> the name of
+                    <persName>Joseph</persName>.</p>
+        </body>
+    </text>
 </TEI>

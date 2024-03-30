@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
         <fileDesc>
             <titleStmt>
                 <title>[no title given]</title>
-                <author attested="yes" accepted="yes" signature="yes">Micheller, Gabriel; Noot,
+                <author accepted="yes" attested="yes" signature="yes">Micheller, Gabriel; Noot,
                     Simon C.</author>
                 <editor/>
                 <sponsor/>
@@ -48,7 +50,9 @@
                         <settlement>New York</settlement>
                         <institution>Jewish Theological Seminary</institution>
                         <repository/>
-                        <collection>The Abraham and Deborah Karp Collection of Early American Judaica at the Library of the Jewish Theological Seminary of America</collection>
+                        <collection>The Abraham and Deborah Karp Collection of Early American
+                            Judaica at the Library of the Jewish Theological Seminary of
+                            America</collection>
                         <idno/>
                         <altIdentifier>
                             <idno/>
@@ -57,9 +61,9 @@
                     </msIdentifier>
                     <head/>
                     <letHeading>
-                        <author attested="yes" accepted="yes" signature="yes">Micheller, Gabriel;
+                        <author accepted="yes" attested="yes" signature="yes">Micheller, Gabriel;
                             Noot, Simon C.</author>
-                        <addressee editor="false" attested="yes" accepted="yes">Leeser,
+                        <addressee accepted="yes" attested="yes" editor="false">Leeser,
                             Isaac</addressee>
                         <deliverer/>
                         <respStmt>
@@ -68,7 +72,7 @@
                         </respStmt>
                         <placeLet>New York, NY</placeLet>
                         <placeRec>Philadelphia, PA</placeRec>
-                        <dateLet when="18??-03" source="" attested="yes">March 18??</dateLet>
+                        <dateLet attested="yes" source="" when="18??-03">March 18??</dateLet>
                     </letHeading>
                     <msContents>
                         <msItem>
@@ -94,7 +98,8 @@
                         <objectDesc>
                             <supportDesc>
                                 <support>
-                                    <material color="" lined="false" paper_type="" size="Letter">letter</material>
+                                    <material color="" lined="false" paper_type="" size="Letter"
+                                        >letter</material>
                                 </support>
                                 <extent>1 page on 1 sheet <dimensions/>
                                 </extent>
@@ -235,36 +240,33 @@
     </teiHeader>
     <text>
         <body>
-
             <pb n="1"/>
-
-            <p rend="align(right)"><placeName>N. Y.</placeName> Monday&#44; eve of Rah<add>&#63;</add><lb/> <date>Hodesh Adar &#40;March&#41; 18<add>&#63;</add></date></p>
-            <p>Peace&#44; etc&#44; to my friend <addressee>Rabbi Eliezar</addressee>&#58;</p>
-            <p rend="indent(1)">Will you have the kindness to send me&#44; on co<add>m</add><lb/>mission&#44; several
-                Holiday prayer books which with Engl<add>ish</add><lb/> translation&#44; as well as
-                several prayer books and t<add>&#63;</add><lb/> pentateuchs. These have on several
-                occasions been asked fo<add>r</add><lb/> and I peddle such goods. I believe if you
-                grant me<lb/> under the regular price I shall be able to do a brisk to
-                    <add>&#63;</add><lb/> with you. Since you do not yet know me very well&#44; I
-                    s<add>&#63;</add><lb/> look for someone who knows both of us well&#44; so that I
-                    migh<add>t</add><lb/> gain some credit with you for the future. In the hope
-                    th<add>&#63;</add><lb/> shall establish business relation with you in the matter
-                of <add>&#63;</add><lb/> I extend to you my greetings.<lb/> Yours&#44; ready to
-                serve you&#44;<lb/>
-                <persName role="author">Gabriel Micheller</persName>&#44; Ser<add>&#63;</add><lb/>
-                My address is <persName role="author">Gabriel Micheller<lb/>
-                Godschmidt</persName>&#44; Norfolk St&#44; no. 8<lb/>
+            <p rend="align(right)"><placeName>N. Y.</placeName> Monday, eve of Rah<add>?</add><lb/>
+                <date>Hodesh Adar (March) 18<add>?</add></date></p>
+            <p>Peace, etc, to my friend <addressee>Rabbi Eliezar</addressee>:</p>
+            <p rend="indent(1)">Will you have the kindness to send me, on
+                co<add>m</add><lb/>mission, several Holiday prayer books which with
+                    Engl<add>ish</add><lb/> translation, as well as several prayer books and
+                    t<add>?</add><lb/> pentateuchs. These have on several occasions been asked
+                    fo<add>r</add><lb/> and I peddle such goods. I believe if you grant me<lb/>
+                under the regular price I shall be able to do a brisk to <add>?</add><lb/> with you.
+                Since you do not yet know me very well, I s<add>?</add><lb/> look for someone who
+                knows both of us well, so that I migh<add>t</add><lb/> gain some credit with you for
+                the future. In the hope th<add>?</add><lb/> shall establish business relation with
+                you in the matter of <add>?</add><lb/> I extend to you my greetings.<lb/> Yours,
+                ready to serve you,<lb/>
+                <persName role="author">Gabriel Micheller</persName>, Ser<add>?</add><lb/> My
+                address is <persName role="author">Gabriel Micheller<lb/> Godschmidt</persName>,
+                Norfolk St, no. 8<lb/>
             </p>
             <p>Hebrew</p>
             <p>Peace, etc. etc./</p>
-            <p rend="indent(1)"><persName>Mr. Gabriel Sopher</persName> asked me to grant him my
-                tes<add>ti</add><lb/>mony about his business&#44; and so on. I know for
+            <p rend="indent(1)">Mr. <persName>Gabriel Sopher</persName> asked me to grant him my
+                    tes<add>ti</add><lb/>mony about his business, and so on. I know for
                     certa<add>in</add><lb/> that he is a pious man who walks in the way of
                     righe<add>ous</add><lb/>ness and that you can do whatever he desires. You can
-                in<lb/>quire about him from <persName>Joseph Schwartz</persName>.<lb/> Your friend&#44;<lb/>
+                in<lb/>quire about him from <persName>Joseph Schwartz</persName>.<lb/> Your friend,<lb/>
                 <persName role="author">Simon C. Noot</persName>.</p>
-
-
         </body>
     </text>
 </TEI>

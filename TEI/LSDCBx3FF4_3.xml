@@ -1,262 +1,305 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="unk">Leeser, Isaac</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>CAJS Isaac Leeser Collection</repository>
-						<collection>The Library of the Dropsie College for Hebrew and Cognate Learning</collection>
-						<idno>LSDCBx3FF4_3</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="unk">Leeser, Isaac</author>
-						<addressee editor="false" attested="yes" accepted="yes">Allen, Lewis</addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>Philadelphia, PA</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1831-08" source="" attested="yes">23 August 1837</dateLet>
-						<dateLet when="1831-08" source="" attested="yes">22 Ab 5591</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url=""/>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="unk" paper_type="" size="Letter">letter</material>
-								</support>
-								<extent>2 pages on 2 sheets
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="typescript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="free">
-								<p>Unrestricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1"/>
-				<p rend="align(center)">3<hi rend="sup">rd</hi> <hi rend="indent(2)"><date>Aug 37</date></hi></p>
-				<p rend="align(center)"><placeName>Philadelphia</placeName> <hi rend="indent(1)"><date>Ab 22nd 5597</date></hi></p>
-				<p>&#40;<date>Aug. 23&#44; 1837</date>&#41;</p>
-				<p><addressee>Lewis Allen Esq.</addressee></p>
-			<p rend="indent(1)">Parnass K.K.M.I.</p>
-			<p rend="indent(1)">Dear Sir&#58;</p>
-				<p>Understanding that the <persName>Rev. Jacques Judah Lyons</persName>. Hazan<lb/> of a Congregation of Israelites in <placeName>Paramaribo&#44; <sic>Surinan</sic> Dutch<lb/> Guiana&#44; South America</placeName>&#44; is desirous of reading the Prayers<lb/> for an entire <date>Sabbath</date>&#44; and you having submitted to my inspec&#45;<lb/>tion his credentials&#44; which prove that he has been Hazan for<lb/> a space of five years&#44; and that his conduct has uniformly<lb/> been religious&#58; I yield cheerfully to him the right of so<lb/> reading the entire service&#44; I doing this however <sic>however</sic> I<lb/> utterly disclaim the power of the congregation&#44; unless by a<lb/> majority in meeting <sic>ssembled</sic> of compelling the Hazan for the<lb/> time being&#44; to admit any other person to officiate upon any<lb/> occasion&#44; or for any purpose whatever&#44; by yielding the right<lb/> of the Tebah to him is owing a mere spirit of courtesy&#44; as<lb/> I could not well refuse one who has been in office&#44; to read<lb/> the service&#44; if he is earnestly desirous to do so&#59; although I<lb/> must at the same time express my surprise at the unusual re&#45;<lb/>quest&#44; especially as no communication whatever from the appli&#45;<lb/>cant himself has up to this moment reached me. In conversa&#45;<lb/>tion with Sundry persons I express myself before <persName>Mr. Lyons</persName><lb/> arrival&#44; that if he had been Hazan&#44; I would permit him to<lb/> read&#59; I trust therefore that my compliance with the Revd.<lb/> gentleman&#39;s implied wishes may not be ascribed to motives<lb/> which I do not entertain.</p>
-			<p rend="indent(7)">Yours respectfully</p>
-			<p rend="indent(7)">&#40;over&#41;<persName role="author">Isaac Leeser</persName></p>
-			<pb n="2"/>
-				<p>This follows signature</p>
-				<p>This note is not private&#44; you may therefore show it to<lb/> any one you please.</p>
-				<p>Addr. <addressee>Lewis Allen Esq.</addressee>&#44; Parnass K.K.M.I <placeName>Philadelphia</placeName></p>
-				<p>Note &#40;on same page as address&#41;</p>
-				<p><persName role="author">Revd I Leeser</persName> <date>22&#47;37 Augt.</date> <placeName>Phila.</placeName></p>
-				<p>His permission to let <persName>Revd I Lyons</persName> to say <date>Saturday</date> prayers<lb/> do it out of Courtesy &#38;c. &#38;c.  Can make this public&#8212;</p>
-			<p rend="indent(1)">Enclosing my reply to the same.</p>
-				<p>Dear Sir&#58;</p>
-			<p rend="indent(1)">As you have taken the liberty to address a letter to me<lb/> explaining your motives for allowing the <persName>Revd. I. Lyons</persName> to<lb/> read prayers&#44; which explanation I never asked for I take this<lb/> method to tell you I have neither time nor do I choose to make<lb/> your sentiments known to the Congregation.</p>
-			<p rend="indent(1)">And the next time you address a letter to me I wish<lb/> first to read the contents</p>
-			<p rend="indent(10)">I am Yours resp</p>
-				<p>To <persName role="author">Revd. I. Leeser</persName></p>
-			<p rend="indent(1)">&#40;enclosed with the above letter&#41;</p>
-		</body>
-	</text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="unk">Leeser, Isaac</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS Isaac Leeser Collection</repository>
+                        <collection>The Library of the Dropsie College for Hebrew and Cognate
+                            Learning</collection>
+                        <idno>LSDCBx3FF4_3</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="unk">Leeser, Isaac</author>
+                        <addressee accepted="yes" attested="yes" editor="false">Allen,
+                            Lewis</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1831-08">23 August 1837</dateLet>
+                        <dateLet attested="yes" source="" when="1831-08">22 Ab 5591</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url=""/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="unk" paper_type="" size="Letter"
+                                        >letter</material>
+                                </support>
+                                <extent>2 pages on 2 sheets <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <p rend="align(center)">3<hi rend="sup">rd</hi>
+                <hi rend="indent(2)"><date>Aug 37</date></hi></p>
+            <p rend="align(center)">
+                <placeName>Philadelphia</placeName>
+                <hi rend="indent(1)">
+                    <date>Ab 22nd 5597</date>
+                </hi>
+            </p>
+            <p>(<date>Aug. 23, 1837</date>)</p>
+            <p>
+                <addressee>Lewis Allen Esq.</addressee>
+            </p>
+            <p rend="indent(1)">Parnass K.K.M.I.</p>
+            <p rend="indent(1)">Dear Sir:</p>
+            <p>Understanding that the <persName>Rev. Jacques Judah Lyons</persName>. Hazan<lb/> of a
+                Congregation of Israelites in <placeName>Paramaribo, <sic>Surinan</sic> Dutch<lb/>
+                    Guiana, South America</placeName>, is desirous of reading the Prayers<lb/> for
+                an entire <date>Sabbath</date>, and you having submitted to my inspec-<lb/>tion his
+                credentials, which prove that he has been Hazan for<lb/> a space of five years, and
+                that his conduct has uniformly<lb/> been religious: I yield cheerfully to him the
+                right of so<lb/> reading the entire service, I doing this however <sic>however</sic>
+                I<lb/> utterly disclaim the power of the congregation, unless by a<lb/> majority in
+                meeting <sic>ssembled</sic> of compelling the Hazan for the<lb/> time being, to
+                admit any other person to officiate upon any<lb/> occasion, or for any purpose
+                whatever, by yielding the right<lb/> of the Tebah to him is owing a mere spirit of
+                courtesy, as<lb/> I could not well refuse one who has been in office, to read<lb/>
+                the service, if he is earnestly desirous to do so; although I<lb/> must at the same
+                time express my surprise at the unusual re-<lb/>quest, especially as no
+                communication whatever from the appli-<lb/>cant himself has up to this moment
+                reached me. In conversa-<lb/>tion with Sundry persons I express myself before
+                    <persName>Mr. Lyons</persName><lb/> arrival, that if he had been Hazan, I would
+                permit him to<lb/> read; I trust therefore that my compliance with the Revd.<lb/>
+                gentleman's implied wishes may not be ascribed to motives<lb/> which I do not
+                entertain.</p>
+            <p rend="indent(7)">Yours respectfully</p>
+            <p rend="indent(7)">(over)<persName role="author">Isaac Leeser</persName></p>
+            <pb n="2"/>
+            <p>This follows signature</p>
+            <p>This note is not private, you may therefore show it to<lb/> any one you please.</p>
+            <p>Addr. <addressee>Lewis Allen Esq.</addressee>, Parnass K.K.M.I
+                    <placeName>Philadelphia</placeName></p>
+            <p>Note (on same page as address)</p>
+            <p>
+                <persName role="author">Revd I Leeser</persName>
+                <date>22/37 Augt.</date>
+                <placeName>Phila.</placeName>
+            </p>
+            <p>His permission to let <persName>Revd I Lyons</persName> to say <date>Saturday</date>
+                prayers<lb/> do it out of Courtesy &amp;c. &amp;c. Can make this public—</p>
+            <p rend="indent(1)">Enclosing my reply to the same.</p>
+            <p>Dear Sir:</p>
+            <p rend="indent(1)">As you have taken the liberty to address a letter to me<lb/>
+                explaining your motives for allowing the <persName>Revd. I. Lyons</persName> to<lb/>
+                read prayers, which explanation I never asked for I take this<lb/> method to tell
+                you I have neither time nor do I choose to make<lb/> your sentiments known to the
+                Congregation.</p>
+            <p rend="indent(1)">And the next time you address a letter to me I wish<lb/> first to
+                read the contents</p>
+            <p rend="indent(10)">I am Yours resp</p>
+            <p>To <persName role="author">Revd. I. Leeser</persName></p>
+            <p rend="indent(1)">(enclosed with the above letter)</p>
+        </body>
+    </text>
 </TEI>

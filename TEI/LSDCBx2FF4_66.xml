@@ -1,269 +1,309 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="yes">Wolff, A.</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>CAJS Isaac Leeser Collection</repository>
-						<collection>The Library of the Dropsie College for Hebrew and Cognate Learning</collection>
-						<idno>LSDCBx2FF4_66</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="yes">Wolff, A.</author>
-						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac, Rev.</addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>Anytown, St. Thomas</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1857-09" source="" attested="yes">14 September 1857</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="ilcajs_b2f4_0063_1r.jpg"></graphic>
-								<graphic url="ilcajs_b2f4_0063_1v.jpg"></graphic>
-								<graphic url="ilcajs_b2f4_0063_2r.jpg"></graphic>
-								<graphic url="ilcajs_b2f4_0063_2v.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="false" paper_type="" size="">letter</material>
-								</support>
-								<extent>4 pages on 2 sheets
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="manuscript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="true"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="free">
-								<p>Unrestricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1"/>
-			<p rend="indent(1)"><placeName>St Thomas</placeName> <date>14 Sept 1857</date></p>
-				<p><addressee>Revd Mr Leeser</addressee></p>
-				<p><placeName>Phila</placeName></p>
-			<p rend="indent(1)">My Dr Sir</p>
-			<p rend="indent(2)">I received your<lb/> favor of the <date>2d Dec</date></p>
-			<p rend="indent(1)">I was glad to find that<lb/> the congregation of your late<lb/> ministry had at length done<lb/> the act of justice that they so<lb/> long defined&#44; by sending you<lb/> a copy of the annal of the<lb/> con<add>&#63;</add> so improperly <sic>passid</sic> on<lb/> you&#8212;on your part it is your<lb/> <hi rend="underline">duty</hi> to attend the Synagogue<lb/> frequently&#44; &#38; thereby <add>&#63;</add> to</p>
-			<pb n="2"/>
-				<p>them that no truce of ill will<lb/> exists.</p>
-			<p rend="indent(1)">I have collected 2 years<lb/> subscription from three subscribers<lb/> myself being one&#44; &#38; have sold<lb/> the last set of the Pentateuch<lb/> &#38; daily &#38; festival prayers&#44; no<lb/> more remain&#8212;my Son has sold<lb/> the set of the Pentateuch received<lb/> with the Bibles&#44; the money for<lb/> which will be paid later.  I<lb/> would recommend you to send<lb/> him three sets of the Daily &#38;<lb/> Festival prayers&#44; finely bound<lb/> provided you can Invoice them<lb/> at about &#36;20 three sets of the</p>
-			<pb n="3"/>
-				<p><add>&#63;</add> like last &#38; three sets<lb/> of the Pentateuch they are now<lb/> &#38; then conquered after</p>
-			<p rend="indent(1)">Enclosed the Bank of St<lb/> Thomas&#39; Bell No 8235 at sight<lb/> on <persName>J C Whitmore</persName> for &#36;42&#8212;as<lb/> payment in fall for</p>
-				<p>1 set of the Pentateuch &#36;12</p>
-				<p>1 &#8220; of D &#38; F Prayer&#160;&#160;&#160;&#160;12</p>
-				<p>2 year subscription of</p>
-				<p>3 subscribers to Occident <hi rend="underline">18</hi></p>
-				<p>&#160;&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160;&#160;&#36;42&#8212;</p>
-				<p>I regret I cannot prevail on<lb/> our people to subscribe&#44; those that<lb/> are appertain to my family</p>
-			<p rend="indent(1)"><persName>Mrs W</persName> joins in kind regards<lb/> &#38; we beg you to also give them<lb/> our friends the <persName>Florences</persName></p>
-			<p rend="indent(9)">Yours truly</p>
-			<p rend="indent(9)"><persName role="author">A. Wolff</persName></p>
-				<p>I have collected &#163;35 towards<lb/> the testimonial to the late<lb/> Lord Mayor of <placeName>London</placeName> <persName>D.<lb/> Solomons</persName></p>
-			<pb n="Envelope&#44; Recto"/>
-				<p><addressee>Revd Mr I Leeser</addressee></p>
-			<p rend="indent(1)"><placeName>Philada.</placeName></p>
-			<pb n="Envelope&#44; Verso"/>
-				<p><add>&#63;</add><lb/> forward by <persName>Mr<lb/> <add>&#63;</add></persName> &#38;c</p>
-			<p rend="indent(2)"><hi rend="underline"><persName>D Wolff</persName></hi></p>
-		</body>
-	</text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="yes">Wolff, A.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS Isaac Leeser Collection</repository>
+                        <collection>The Library of the Dropsie College for Hebrew and Cognate
+                            Learning</collection>
+                        <idno>LSDCBx2FF4_66</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="yes">Wolff, A.</author>
+                        <addressee accepted="yes" attested="yes" editor="false">Leeser, Isaac,
+                            Rev.</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Anytown, St. Thomas</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1857-09">14 September 1857</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="ilcajs_b2f4_0063_1r.jpg"/>
+                                <graphic url="ilcajs_b2f4_0063_1v.jpg"/>
+                                <graphic url="ilcajs_b2f4_0063_2r.jpg"/>
+                                <graphic url="ilcajs_b2f4_0063_2v.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >letter</material>
+                                </support>
+                                <extent>4 pages on 2 sheets <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="true"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <p rend="indent(1)">
+                <placeName>St Thomas</placeName>
+                <date>14 Sept 1857</date>
+            </p>
+            <p>
+                <addressee>Revd Mr Leeser</addressee>
+            </p>
+            <p>
+                <placeName>Phila</placeName>
+            </p>
+            <p rend="indent(1)">My Dr Sir</p>
+            <p rend="indent(2)">I received your<lb/> favor of the <date>2d Dec</date></p>
+            <p rend="indent(1)">I was glad to find that<lb/> the congregation of your late<lb/>
+                ministry had at length done<lb/> the act of justice that they so<lb/> long defined,
+                by sending you<lb/> a copy of the annal of the<lb/> con<add>?</add> so improperly
+                    <sic>passid</sic> on<lb/> you—on your part it is your<lb/>
+                <hi rend="underline">duty</hi> to attend the Synagogue<lb/> frequently, &amp;
+                thereby <add>?</add> to</p>
+            <pb n="2"/>
+            <p>them that no truce of ill will<lb/> exists.</p>
+            <p rend="indent(1)">I have collected 2 years<lb/> subscription from three
+                subscribers<lb/> myself being one, &amp; have sold<lb/> the last set of the
+                Pentateuch<lb/> &amp; daily &amp; festival prayers, no<lb/> more remain—my Son has
+                sold<lb/> the set of the Pentateuch received<lb/> with the Bibles, the money
+                for<lb/> which will be paid later. I<lb/> would recommend you to send<lb/> him three
+                sets of the Daily &amp;<lb/> Festival prayers, finely bound<lb/> provided you can
+                Invoice them<lb/> at about $20 three sets of the</p>
+            <pb n="3"/>
+            <p><add>?</add> like last &amp; three sets<lb/> of the Pentateuch they are now<lb/>
+                &amp; then conquered after</p>
+            <p rend="indent(1)">Enclosed the Bank of St<lb/> Thomas' Bell No 8235 at sight<lb/> on
+                    <persName>J C Whitmore</persName> for $42—as<lb/> payment in fall for</p>
+            <p>1 set of the Pentateuch $12</p>
+            <p>1 “ of D &amp; F Prayer    12</p>
+            <p>2 year subscription of</p>
+            <p>3 subscribers to Occident <hi rend="underline">18</hi></p>
+            <p>                 $42—</p>
+            <p>I regret I cannot prevail on<lb/> our people to subscribe, those that<lb/> are
+                appertain to my family</p>
+            <p rend="indent(1)"><persName>Mrs W</persName> joins in kind regards<lb/> &amp; we beg
+                you to also give them<lb/> our friends the <persName>Florences</persName></p>
+            <p rend="indent(9)">Yours truly</p>
+            <p rend="indent(9)">
+                <persName role="author">A. Wolff</persName>
+            </p>
+            <p>I have collected £35 towards<lb/> the testimonial to the late<lb/> Lord Mayor of
+                    <placeName>London</placeName>
+                <persName>D.<lb/> Solomons</persName></p>
+            <pb n="Envelope, Recto"/>
+            <p>
+                <addressee>Revd Mr I Leeser</addressee>
+            </p>
+            <p rend="indent(1)">
+                <placeName>Philada.</placeName>
+            </p>
+            <pb n="Envelope, Verso"/>
+            <p><add>?</add><lb/> forward by <persName>Mr<lb/>
+                    <add>?</add></persName> &amp;c</p>
+            <p rend="indent(2)">
+                <hi rend="underline">
+                    <persName>D Wolff</persName>
+                </hi>
+            </p>
+        </body>
+    </text>
 </TEI>

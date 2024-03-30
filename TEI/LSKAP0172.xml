@@ -1,265 +1,347 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="yes">Leeser, Isaac</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>LSKAP</repository>
-						<collection>The Arnold and Deanne Kaplan Collection of Early American Judaica</collection>
-						<idno>LSKAP0172</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="yes">Leeser, Isaac</author>
-						<addressee editor="false" attested="yes" accepted="yes">Rehine, Zalma</addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>Philadelphia, PA</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1836-01" source="" attested="yes">January 5, 1836</dateLet>
-						<dateLet when="1836-01" source="" attested="yes">Tebeth 15, 5596</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="LSKAP0172_1r.jpg"></graphic>
-								<graphic url="LSKAP0172_1v.jpg"></graphic>
-								<graphic url="LSKAP0172_2r.jpg"></graphic>
-								<graphic url="LSKAP0172_2v.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="false" paper_type="" size="">letter</material>
-								</support>
-								<extent>6 pages on 3 sheets
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="manuscript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="restricted">
-								<p>Restricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1R"/>
-				<p rend="align(right)"><placeName>Philadelphia</placeName> <date>January 5<hi rend="sup">th</hi> Tebeth &#41; 15&#44;5596</date></p>
-			<p rend="indent(1)">dear uncle</p>
-			<p rend="indent(2)">What is the reason that I hear so seldom from you lately&#63;  People ask<lb/> me how is your uncle&#63;  I tell them I hope he is well but in truth I cannot tell<lb/> since I hear so little from you&#44; and then you write such short letters that I<lb/> really do not learn many particulars.  Do let us know how you feel and all the folks<lb/> at home.  The short winter days are pretty much spent by <sic>e</sic> in constant  occupation<lb/> as I rise about half past seven&#44; read the paper&#44; say my prayers&#44; eat my breakfast<lb/> go up to my boys at 9&#44; stay with them till half past 12&#44; go about my little<lb/> business&#44; <add>&#63;</add> &#189; before three&#44; again at my lessons till<lb/> dark&#44; and now as the clock is striking fore<add>&#63;</add> my boys have been gone about fifteen<lb/> minutes.  My school now consists of two sons of <persName>Mr. Allen</persName>&#44; paying 10&#45;20&#59; and<lb/> one of <persName>Mr. Heickenbury</persName> 10&#59; of <persName>Mr. D. Tobisson</persName> 10&#59; one of the late Hazan <persName>Keys</persName> 10&#59;<lb/> two of <persName>Mr. Spier</persName> at 6&#45;12&#59; one of <persName>Mr. Zachariah</persName> 6&#59; one of <persName>Mr. Mansheim</persName> &#40;came<lb/> yesterday&#41; at 5&#59; one of <persName>Mr. Sweetzer</persName> at 7&#44; one of <persName>Mr. Isaacs</persName> at 7&#44; of <persName>Mr. Asch</persName><lb/> &#40;under 5 years&#41; at 6 &#188; equal to 93 &#188; Dollars per quarter&#59; <persName>Mr. Goldsmits</persName> sons has<lb/> been sick for some days&#44; and his father found fault with the price&#44; but would<lb/> not ask for an abatement&#44; on account of inability to pay&#44; &#40;being able if<lb/> willing&#41; I do not <sic>kno w</sic> whether he will return or not&#59; if he should return<lb/> and also <persName>Henry Spyers</persName> the gratis scholar I shall have 14 in all paying about<lb/> 103 Dollars&#59; I have lst 2 sons of <persName>Mr. Stork</persName>&#59; one of <persName>Mr. Weil</persName> and one of<lb/> <persName>Mr. Van Allen</persName>&#44; the three first because parents took offence at nothing&#44; and the<lb/> last because he would not come to school&#44; and being past thirteen his father<lb/> thinks of putting him to a severe master who will teach him a trade and make<lb/> him behave.  If even the whole were now here it would be but 18&#44; and so you<lb/> can see what uphill work my school is in this place.  <persName>Mr. Peixotto&#39;s</persName> newphs<add>&#63;</add> has<lb/> not yet come&#59; I presume he has not yet heard from <placeName>Jamaica</placeName>.  <persName>Mr. Allen&#39;s</persName><lb/> younger son also has been sent to a girl&#39;s school my charges being too high&#44;<lb/> and other people have not yet made up their mind whether to encourage my<lb/> undertaking or not.  However having once begun&#44; I mean to continue for the<lb/> present&#44; as I have nothing to do and I may as well do that as n<add>&#63;</add>ing&#44; even if<lb/> I cannot succeed in doing any good.</p>
-			<p rend="indent(1)">I see by the <placeName>New York</placeName> <sic>Courrier</sic> yesterday morning that <persName>Prentiss<lb/> Chubb</persName> died there&#44; I believe on <date>Saturday</date>&#59; his age stated at 30 but this<lb/> must be a mistake&#44; I should rather judge 36 or 8.</p>
-			<p rend="indent(1)">Among our congregation nothing of importance has occurred&#44; we have<lb/> had 6 funerals since <date>Rosh Hashannah</date>&#44; and 6 Berits and 6 girls were born.  I<lb/> married 3 couples <persName>Mr. Mordecai</persName> one and the German congregation married 4&#59;<lb/> how many funerals and namings they had I do not know&#44; as those honorable <sic>gentlemn</sic><lb/> with few exceptions seldom do me the honour of an invitation.  You can see from<lb/> this short view that there must be a considerable number of Jews in this place.</p>
-			<p rend="indent(1)"><persName>Mrs Cozens</persName> sends her best regards to you and wishes to know when you<lb/> intend paying us a visit.  <persName>Mrs Joseph</persName> told me when last seen by me to give her<lb/> love to you whenever I write&#59; charming woman that&#44; quite a lady &#38; so on.  She is<lb/> much like her brother and looks a great deal like him.  <persName>Mrs. Carvalho&#39;s</persName> little boy<lb/> &#40;about 9 months old&#41; died on <date>Friday</date> week of dropsy in the head.  At the same time<lb/> that the above child was <sic>burried</sic> another of <persName>Mr. Isaac</persName> <add>&#63;</add>. <persName>Phillips</persName> &#40;who<lb/> formerly lived in <placeName>Richmond</placeName>&#41; was also interred.  The second one out of three<lb/> children that died since last <date>September</date>.  Only one of his three sons is now<lb/> living&#44; and he was sick at the time the other died but I believe he is now<lb/> better.</p>
-			<p rend="indent(1)">I have not made nay further stir about my discourses&#44; but I think<lb/> that in a few days I shall <sic>bee</sic> more about it.  You may be sure that I shall<lb/> endeavor to see my way clear before I have a touched or a ream of<lb/> paper bought&#44; and I shall send prospectuses to others besides our Rev. friend</p>
-			<pb n="1V"/>
-				<p>I.B.S.  I last <date>Sabbatt</date> the 3 rd <del> <add>&#63;</add> </del> sermon of the series on the Messiah&#59;<lb/> finding I do not see the first ones as I go on&#44; I shall endeavor to send you those<lb/> finished as soon as I can&#44; in about three weeks when I hope to have a<lb/> safe opportunity.  My ladies class for learning Hebrew had not yet been formed<lb/> as <hi rend="underline">six</hi> the number wished cannot wait to learn what they all profess to be so<lb/> anxious to know.</p>
-			<p rend="indent(1)">How is <persName>Aunt R</persName>&#63;  Has she quite recovered&#63;  Please to give my love<lb/> to her and to all the family.  Are all well there&#63;</p>
-			<p rend="indent(1)">new with them  <placeName>Baltimore</placeName> in general&#63;</p>
-				<p>Wishing you much health and enjoyment.</p>
-			<p rend="indent(4)">I am</p>
-			<p rend="indent(5)">Your</p>
-			<p rend="indent(6)"><sic>obident</sic> Nephew&#44;</p>
-			<p rend="indent(8)"><addressee>Isaac Lesser</addressee>.</p>
-				<p rend="The following is circled in pencil near the bottom of the page.">&#35;182</p>
-			<pb n="2V"/>
-				<p><persName role="author">Mr. Zalma Rehine</persName></p>
-				<p>Care of <persName>Messrs. Judah Block</persName></p>
-			<p rend="indent(2)"><placeName>Baltimore</placeName></p>
-			<p rend="indent(2)"><placeName>Md</placeName></p>
-				<p><hi rend="underline">Single</hi>.</p>
-		</body>
-	</text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="yes">Leeser, Isaac</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>LSKAP</repository>
+                        <collection>The Arnold and Deanne Kaplan Collection of Early American
+                            Judaica</collection>
+                        <idno>LSKAP0172</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="yes">Leeser, Isaac</author>
+                        <addressee accepted="yes" attested="yes" editor="false">Rehine,
+                            Zalma</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1836-01">January 5, 1836</dateLet>
+                        <dateLet attested="yes" source="" when="1836-01">Tebeth 15, 5596</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="LSKAP0172_1r.jpg"/>
+                                <graphic url="LSKAP0172_1v.jpg"/>
+                                <graphic url="LSKAP0172_2r.jpg"/>
+                                <graphic url="LSKAP0172_2v.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >letter</material>
+                                </support>
+                                <extent>6 pages on 3 sheets <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="restricted">
+                                <p>Restricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1R"/>
+            <p rend="align(right)">
+                <placeName>Philadelphia</placeName>
+                <date>January 5<hi rend="sup">th</hi> Tebeth ) 15,5596</date>
+            </p>
+            <p rend="indent(1)">dear uncle</p>
+            <p rend="indent(2)">What is the reason that I hear so seldom from you lately? People
+                ask<lb/> me how is your uncle? I tell them I hope he is well but in truth I cannot
+                tell<lb/> since I hear so little from you, and then you write such short letters
+                that I<lb/> really do not learn many particulars. Do let us know how you feel and
+                all the folks<lb/> at home. The short winter days are pretty much spent by
+                    <sic>e</sic> in constant occupation<lb/> as I rise about half past seven, read
+                the paper, say my prayers, eat my breakfast<lb/> go up to my boys at 9, stay with
+                them till half past 12, go about my little<lb/> business, <add>?</add> ½ before
+                three, again at my lessons till<lb/> dark, and now as the clock is striking
+                    fore<add>?</add> my boys have been gone about fifteen<lb/> minutes. My school
+                now consists of two sons of <persName>Mr. Allen</persName>, paying 10-20; and<lb/>
+                one of <persName>Mr. Heickenbury</persName> 10; of <persName>Mr. D.
+                    Tobisson</persName> 10; one of the late Hazan <persName>Keys</persName> 10;<lb/>
+                two of <persName>Mr. Spier</persName> at 6-12; one of <persName>Mr.
+                    Zachariah</persName> 6; one of <persName>Mr. Mansheim</persName> (came<lb/>
+                yesterday) at 5; one of <persName>Mr. Sweetzer</persName> at 7, one of <persName>Mr.
+                    Isaacs</persName> at 7, of <persName>Mr. Asch</persName><lb/> (under 5 years) at
+                6 ¼ equal to 93 ¼ Dollars per quarter; <persName>Mr. Goldsmits</persName> sons
+                has<lb/> been sick for some days, and his father found fault with the price, but
+                would<lb/> not ask for an abatement, on account of inability to pay, (being able
+                if<lb/> willing) I do not <sic>kno w</sic> whether he will return or not; if he
+                should return<lb/> and also <persName>Henry Spyers</persName> the gratis scholar I
+                shall have 14 in all paying about<lb/> 103 Dollars; I have lst 2 sons of
+                    <persName>Mr. Stork</persName>; one of <persName>Mr. Weil</persName> and one of<lb/>
+                <persName>Mr. Van Allen</persName>, the three first because parents took offence at
+                nothing, and the<lb/> last because he would not come to school, and being past
+                thirteen his father<lb/> thinks of putting him to a severe master who will teach him
+                a trade and make<lb/> him behave. If even the whole were now here it would be but
+                18, and so you<lb/> can see what uphill work my school is in this place.
+                    <persName>Mr. Peixotto's</persName> newphs<add>?</add> has<lb/> not yet come; I
+                presume he has not yet heard from <placeName>Jamaica</placeName>. <persName>Mr.
+                    Allen's</persName><lb/> younger son also has been sent to a girl's school my
+                charges being too high,<lb/> and other people have not yet made up their mind
+                whether to encourage my<lb/> undertaking or not. However having once begun, I mean
+                to continue for the<lb/> present, as I have nothing to do and I may as well do that
+                as n<add>?</add>ing, even if<lb/> I cannot succeed in doing any good.</p>
+            <p rend="indent(1)">I see by the <placeName>New York</placeName>
+                <sic>Courrier</sic> yesterday morning that <persName>Prentiss<lb/> Chubb</persName>
+                died there, I believe on <date>Saturday</date>; his age stated at 30 but this<lb/>
+                must be a mistake, I should rather judge 36 or 8.</p>
+            <p rend="indent(1)">Among our congregation nothing of importance has occurred, we
+                have<lb/> had 6 funerals since <date>Rosh Hashannah</date>, and 6 Berits and 6 girls
+                were born. I<lb/> married 3 couples <persName>Mr. Mordecai</persName> one and the
+                German congregation married 4;<lb/> how many funerals and namings they had I do not
+                know, as those honorable <sic>gentlemn</sic><lb/> with few exceptions seldom do me
+                the honour of an invitation. You can see from<lb/> this short view that there must
+                be a considerable number of Jews in this place.</p>
+            <p rend="indent(1)"><persName>Mrs Cozens</persName> sends her best regards to you and
+                wishes to know when you<lb/> intend paying us a visit. <persName>Mrs
+                    Joseph</persName> told me when last seen by me to give her<lb/> love to you
+                whenever I write; charming woman that, quite a lady &amp; so on. She is<lb/> much
+                like her brother and looks a great deal like him. <persName>Mrs.
+                    Carvalho's</persName> little boy<lb/> (about 9 months old) died on
+                    <date>Friday</date> week of dropsy in the head. At the same time<lb/> that the
+                above child was <sic>burried</sic> another of <persName>Mr. Isaac</persName>
+                <add>?</add>. <persName>Phillips</persName> (who<lb/> formerly lived in
+                    <placeName>Richmond</placeName>) was also interred. The second one out of
+                three<lb/> children that died since last <date>September</date>. Only one of his
+                three sons is now<lb/> living, and he was sick at the time the other died but I
+                believe he is now<lb/> better.</p>
+            <p rend="indent(1)">I have not made nay further stir about my discourses, but I
+                think<lb/> that in a few days I shall <sic>bee</sic> more about it. You may be sure
+                that I shall<lb/> endeavor to see my way clear before I have a touched or a ream
+                of<lb/> paper bought, and I shall send prospectuses to others besides our Rev.
+                friend</p>
+            <pb n="1V"/>
+            <p>I.B.S. I last <date>Sabbatt</date> the 3 rd <del>
+                    <add>?</add>
+                </del> sermon of the series on the Messiah;<lb/> finding I do not see the first ones
+                as I go on, I shall endeavor to send you those<lb/> finished as soon as I can, in
+                about three weeks when I hope to have a<lb/> safe opportunity. My ladies class for
+                learning Hebrew had not yet been formed<lb/> as <hi rend="underline">six</hi> the
+                number wished cannot wait to learn what they all profess to be so<lb/> anxious to
+                know.</p>
+            <p rend="indent(1)">How is <persName>Aunt R</persName>? Has she quite recovered? Please
+                to give my love<lb/> to her and to all the family. Are all well there?</p>
+            <p rend="indent(1)">new with them <placeName>Baltimore</placeName> in general?</p>
+            <p>Wishing you much health and enjoyment.</p>
+            <p rend="indent(4)">I am</p>
+            <p rend="indent(5)">Your</p>
+            <p rend="indent(6)"><sic>obident</sic> Nephew,</p>
+            <p rend="indent(8)"><addressee>Isaac Lesser</addressee>.</p>
+            <p rend="The following is circled in pencil near the bottom of the page.">#182</p>
+            <pb n="2V"/>
+            <p>
+                <persName role="author">Mr. Zalma Rehine</persName>
+            </p>
+            <p>Care of <persName>Messrs. Judah Block</persName></p>
+            <p rend="indent(2)">
+                <placeName>Baltimore</placeName>
+            </p>
+            <p rend="indent(2)">
+                <placeName>Md</placeName>
+            </p>
+            <p><hi rend="underline">Single</hi>.</p>
+        </body>
+    </text>
 </TEI>

@@ -1,259 +1,297 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE TEI [
-<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
-%teibase;
-<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
-%teiext;
-]>
-<TEI>
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="yes">Eisner, C. I.</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>LSKAP</repository>
-						<collection>The Arnold and Deanne Kaplan Collection of Early American Judaica</collection>
-						<idno>LSKAP0105</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="yes">Eisner, C. I.</author>
-						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac</addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>St. Louis, MO</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1838-07" source="" attested="yes">July 20, 1838</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="LSKAP0105_1r.jpg"></graphic>
-								<graphic url="LSKAP0105_1v.jpg"></graphic>
-								<graphic url="LSKAP0105_2r.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="true" paper_type="" size="">letter</material>
-								</support>
-								<extent>2 pages on 1 sheet
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="manuscript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="restricted">
-								<p>Restricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-				<language ident="he">Hebrew</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1R"/>
-				<p rend="align(right)"><placeName>St. Louis</placeName> <date>July 20<hi rend="sup">th</hi>. 1838</date>.</p>
-				<p><addressee>Revd. Dr I. Leeser</addressee></p>
-			<p rend="indent(2)">Dr Sir I hope you will<lb/> excuse the liberty by writing to you in the<lb/> <sic>mannor</sic> I do <sic>althow</sic> I <sic>entrode</sic> on your<lb/> <sic>endulgens</sic> I am certain you will take it<lb/> from me as a good will in a good cause<lb/> I <sic>intand</sic> of giving you oultine<add>&#63;</add> of business<lb/> <sic>transactit</sic> in over <sic>unitet</sic> hebrew congregation<lb/> and leave it <sic>entierly</sic> to your masterly hand<lb/> to give as a great <hi rend="underline">pass</hi> in your Occident.<lb/> the enclosed is taken from the <sic>dayle</sic> <placeName>Mo.</placeName><lb/> Republican of the <date>18th</date>.  We are building the<lb/> <sic>Shool</sic> <sic>werry</sic> fast in part <sic>to</sic> fast meaning<lb/> <hi rend="underline">the payments come up on us <sic>to</sic> fast</hi><lb/> at the last quarterly meeting a finance<lb/> <sic>comity</sic> was <sic>apointit</sic> consisting of <persName>Mrs.<lb/> R Keiler</persName>&#44; <persName>M Keim</persName>&#44; <persName>A Fisher</persName>&#44; <persName>H. Lion</persName> and<lb/> <persName role="author">C. I. Eisner</persName> and upon us Hesolroes<add>&#63;</add> the greatest<lb/> part meaning the <sic>monny</sic> matters&#8212;</p>
-				<p>To help this we would like to have your<lb/> masterly hand to give us a pass in your monthly</p>
-			<pb n="1V"/>
-				<p><sic>wich</sic> may help us a graddil<add>&#63;</add>&#44; as the most<lb/> of us are coming <placeName>East</placeName> and will <sic>tri</sic> to<lb/> <add>Hebrew</add> some <sic>monny</sic> then I was <sic>apointit</sic> to<lb/> write to you and have the article in your<lb/> monthly but as I am not qualified enough<lb/> to write for your monthly an article I beg<lb/> and leave it <sic>entierly</sic> to you to do it You<lb/> may <del>j</del>use my name on the article as signa&#45;<lb/>ture if you choose.  <persName>Mr A J Lutz</persName> will be shortly<lb/> in your city and so will I. when we will be<lb/> <sic>hapy</sic> to call on you and give you more <sic>peticu&#45;<lb/>lars</sic> should you want some <sic>peticulars</sic> before<lb/> that time you let me know and I will<lb/> give you all I can&#8212;the building is fast<lb/> progressing and will be all under roof by<lb/> the end of <date>August</date>.  I hope you will pardon<lb/> my s<add>&#63;</add> remarks&#44; <sic>gramaticall</sic> errors and<lb/> <sic>occiupieing</sic> so much of your time.</p>
-				<p>You will please forward me <del> <add>&#63;</add> </del> the hill of<lb/> this and oblige Yours <sic>werry</sic> respectfully</p>
-			<p rend="indent(8)"><persName role="author">C. I. Eisner</persName></p>
-			<p rend="indent(8)">Secretary of finance<lb/> <sic>comity</sic></p>
-			<pb n="2R"/>
-				<p><sic>Dayliy</sic> <placeName>Mo</placeName> Republican</p>
-		</body>
-	</text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="yes">Eisner, C. I.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>LSKAP</repository>
+                        <collection>The Arnold and Deanne Kaplan Collection of Early American
+                            Judaica</collection>
+                        <idno>LSKAP0105</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="yes">Eisner, C. I.</author>
+                        <addressee accepted="yes" attested="yes" editor="false">Leeser,
+                            Isaac</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>St. Louis, MO</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1838-07">July 20, 1838</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="LSKAP0105_1r.jpg"/>
+                                <graphic url="LSKAP0105_1v.jpg"/>
+                                <graphic url="LSKAP0105_2r.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="true" paper_type="" size=""
+                                        >letter</material>
+                                </support>
+                                <extent>2 pages on 1 sheet <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="restricted">
+                                <p>Restricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="he">Hebrew</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1R"/>
+            <p rend="align(right)"><placeName>St. Louis</placeName>
+                <date>July 20<hi rend="sup">th</hi>. 1838</date>.</p>
+            <p>
+                <addressee>Revd. Dr I. Leeser</addressee>
+            </p>
+            <p rend="indent(2)">Dr Sir I hope you will<lb/> excuse the liberty by writing to you in the<lb/>
+                <sic>mannor</sic> I do <sic>althow</sic> I <sic>entrode</sic> on your<lb/>
+                <sic>endulgens</sic> I am certain you will take it<lb/> from me as a good will in a
+                good cause<lb/> I <sic>intand</sic> of giving you oultine<add>?</add> of business<lb/>
+                <sic>transactit</sic> in over <sic>unitet</sic> hebrew congregation<lb/> and leave
+                it <sic>entierly</sic> to your masterly hand<lb/> to give as a great <hi
+                    rend="underline">pass</hi> in your Occident.<lb/> the enclosed is taken from the
+                    <sic>dayle</sic>
+                <placeName>Mo.</placeName><lb/> Republican of the <date>18th</date>. We are building the<lb/>
+                <sic>Shool</sic>
+                <sic>werry</sic> fast in part <sic>to</sic> fast meaning<lb/>
+                <hi rend="underline">the payments come up on us <sic>to</sic> fast</hi><lb/> at the
+                last quarterly meeting a finance<lb/>
+                <sic>comity</sic> was <sic>apointit</sic> consisting of <persName>Mrs.<lb/> R
+                    Keiler</persName>, <persName>M Keim</persName>, <persName>A Fisher</persName>,
+                    <persName>H. Lion</persName> and<lb/>
+                <persName role="author">C. I. Eisner</persName> and upon us Hesolroes<add>?</add>
+                the greatest<lb/> part meaning the <sic>monny</sic> matters—</p>
+            <p>To help this we would like to have your<lb/> masterly hand to give us a pass in your
+                monthly</p>
+            <pb n="1V"/>
+            <p><sic>wich</sic> may help us a graddil<add>?</add>, as the most<lb/> of us are coming
+                    <placeName>East</placeName> and will <sic>tri</sic> to<lb/>
+                <add>שנאר</add> some <sic>monny</sic> then I was <sic>apointit</sic> to<lb/> write
+                to you and have the article in your<lb/> monthly but as I am not qualified
+                enough<lb/> to write for your monthly an article I beg<lb/> and leave it
+                    <sic>entierly</sic> to you to do it You<lb/> may <del>j</del>use my name on the
+                article as signa-<lb/>ture if you choose. <persName>Mr A J Lutz</persName> will be
+                shortly<lb/> in your city and so will I. when we will be<lb/>
+                <sic>hapy</sic> to call on you and give you more <sic>peticu-<lb/>lars</sic> should
+                you want some <sic>peticulars</sic> before<lb/> that time you let me know and I
+                will<lb/> give you all I can—the building is fast<lb/> progressing and will be all
+                under roof by<lb/> the end of <date>August</date>. I hope you will pardon<lb/> my
+                    s<add>?</add> remarks, <sic>gramaticall</sic> errors and<lb/>
+                <sic>occiupieing</sic> so much of your time.</p>
+            <p>You will please forward me <del>
+                    <add>?</add>
+                </del> the hill of<lb/> this and oblige Yours <sic>werry</sic> respectfully</p>
+            <p rend="indent(8)">
+                <persName role="author">C. I. Eisner</persName>
+            </p>
+            <p rend="indent(8)">Secretary of finance<lb/>
+                <sic>comity</sic></p>
+            <pb n="2R"/>
+            <p><sic>Dayliy</sic>
+                <placeName>Mo</placeName> Republican</p>
+        </body>
+    </text>
 </TEI>

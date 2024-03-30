@@ -1,258 +1,328 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="yes">Kursheedt, Gershom</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>LSKAP</repository>
-						<collection>The Arnold and Deanne Kaplan Collection of Early American Judaica</collection>
-						<idno>LSKAP0055</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="yes">Kursheedt, Gershom</author>
-						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac</addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>New Orleans, LA</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1853-05" source="" attested="yes">May 3, 1853</dateLet>
-						<dateLet when="1853-05" source="" attested="yes">5613</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="LSKAP0055_1R.jpg"></graphic>
-								<graphic url="LSKAP0055_1V.jpg"></graphic>
-								<graphic url="LSKAP0055_2R.jpg"></graphic>
-								<graphic url="LSKAP0055_2V.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="false" paper_type="" size="">letter</material>
-								</support>
-								<extent>2 pages on 1 sheet
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="manuscript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="restricted">
-								<p>Restricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1R"/>
-				<p rend="align(right)"><placeName>New Orleans</placeName> <date>May 3.5613</date></p>
-				<p>My dear friend</p>
-			<p rend="indent(2)">Yours <date>20<hi rend="sup">th</hi></date> <add>&#63;</add> came to hand a<lb/> couple of days ago and I proceed to answer<lb/> its most important portion viz.  I spoke<lb/> for a considerable length of time to <persName>Mr. Touro</persName> in your behalf stating what I<lb/> think he ought to do for you and other<lb/> as is my practice with him&#44; left him<lb/> to ponder the matter.  Meeting<lb/> with him again next day I asked<lb/> him if he had come to any conclu<lb/>sion in the premises upon which<lb/> he replied that &#40;as I happen to know<lb/> to be the case <hi rend="underline">just now</hi>&#41; he had not<lb/> enough money on hand to pay pressing<lb/> demands&#44; but he added that he had<lb/> a balance of &#36;300 in the hands of <persName>David<lb/> Hart Esq</persName> <placeName>New York</placeName> which he would order him<lb/> to remit to you.  Now whether he intends<lb/> to send you &#36;700 from here or not I can<lb/> not say.  I did not like to press him<lb/> on this point because you know<lb/> he is a strange man&#44; and intending to<lb/> serve you&#44; I might have injured your<lb/> claims.  I choose to infer that he<lb/> will send you the 700 and after some</p>
-			<pb n="1V"/>
-				<p>little time elapses I shall inquire<lb/> of him if he has written to <persName>Mr<lb/> Hart</persName> &#38; if he has sent you the 700.<lb/>  I think he will do it sooner or<lb/> later.</p>
-			<p rend="indent(1)">I thank you for the information<lb/> given in your letter.  Your note to<lb/> <persName>Mr Isaac Hart</persName> I duly delivered.<lb/>  With regard to publishing <persName>Dias&#39;s</persName> letter<lb/> you will meet with poor support<lb/> here.  I suppose 20 <del>or 30</del> copies could<lb/> be disposed of here in both congregations<lb/> provided the price does not exceed<lb/> 50 to 75 cents.</p>
-			<p rend="indent(1)"><persName>Mr de Sola </persName>of <placeName>Canada</placeName> sent some<lb/> 40 copies of <persName>English&#39;s</persName> work <add>&#63;</add> and<lb/> a number of pamphlets on the Sermon<lb/> on the <placeName>Mount</placeName>.  I believe about <hi rend="underline">10</hi><lb/> of the former only have been sold altho&#39;<lb/> <persName>Gutheim</persName> &#38; myself have tried to keep the sale.</p>
-			<p rend="indent(1)">Your Book&#44; <add>Bible</add>left with me by <persName>Mr<lb/> Nathan</persName> I will bear in mind<lb/> altho&#39; I fear it will be a long time<lb/> before I can sell them.</p>
-				<p>When your new Bible comes out<lb/> have the copy which I ordered for<lb/> myself strongly and handsomely bound<lb/> and my name printed on the cover</p>
-			<pb n="2R"/>
-				<p>a few dollars more or less you need<lb/> not consider in my case.</p>
-			<p rend="indent(1)">I am still in correspondence with<lb/> <persName>Mr Eckman</persName> about <placeName>China</placeName>.  His<lb/> advices from <persName>Dr. Adler</persName> are unsatisfactory<lb/> and yet I think I know the Jews<lb/> in this country too well&#44; to believe<lb/> that anything will be done on this<lb/> side of the <placeName>Atlantic</placeName>.  There are some<lb/> disturbances in <placeName>China</placeName> &#38; throughout<lb/> the <placeName>East</placeName> &#38; I pray the finger of Providence<lb/> may yet point out a release for the<lb/> unfortunate of our faith in the<lb/> Chinese Empire.  Oh <persName>Leeser</persName> if I had<lb/> the wealth of some of my intimate<lb/> friends.  What can I do&#63;  I assure<lb/> you no one knows how much I<lb/> have to do here in every way&#44; in<lb/> everything connected with Judaism<lb/> many are the hours that I feel<lb/> so sick at heart that if I could<lb/> I would go and live beyond the reach<lb/> of man or at least of my own people.<lb/>  I am poor and as yet have not<lb/> been able to pay off debts honorably<lb/> incurred in my previous unfortunate<lb/> business.  It is a great question in my<lb/> mind if I have the right to do the<lb/> little charity which I do whilst I</p>
-			<pb n="2V"/>
-				<p>am in debt&#59; and then my very<lb/> manner of living&#44; which is some&#45;<lb/> what expensive and which nevertheless<lb/> I ought to continue for very many<lb/> good reasons&#44; compels me to curtail<lb/> at times the amounts which I would<lb/> otherwise give away.  But I hope<lb/> to continue to prosper in the world<lb/> in order to extend the benefits which<lb/> I ought bestow on others.</p>
-			<p rend="indent(7)">If I do not hear before long of a<lb/> proper person to fill the office of<lb/> Minister to our congregation&#44; I think<lb/> I shall propose to the men here to alter<lb/> our advertisement simply to call<lb/> for a first rate Portuguese Hazan and<lb/> this I will do because I see now<lb/> that the majority care more for the<lb/> <hi rend="underline">singing</hi> than for the preaching&#8212;<lb/>  I have found it imperative upon me<lb/> even at this late day to pursue the course<lb/> recommended by <persName>Mr Calhoun</persName> <add>&#63;</add> &#8220;Masterly inac<lb/>tivity.&#8221;  I have too much <hi rend="underline">dead weight</hi> to<lb/> contend against &#38; after struggling for<lb/> an end for nearly a score of years I have<lb/> now to yield&#44; till a new generation arises<lb/> which so far as I can I am impregnating with the broad views &#38; philanthropy of the<lb/> Mosaic teachings.  My sister&#44; Brother &#38; theirs send you fond greetings.  I am yours as ever faithfully&#44;</p>
-			<p rend="indent(7)"><persName role="author">Gershom K.</persName></p>
-		</body>
-	</text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="yes">Kursheedt, Gershom</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>LSKAP</repository>
+                        <collection>The Arnold and Deanne Kaplan Collection of Early American
+                            Judaica</collection>
+                        <idno>LSKAP0055</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="yes">Kursheedt,
+                            Gershom</author>
+                        <addressee accepted="yes" attested="yes" editor="false">Leeser,
+                            Isaac</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>New Orleans, LA</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1853-05">May 3, 1853</dateLet>
+                        <dateLet attested="yes" source="" when="1853-05">5613</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="LSKAP0055_1R.jpg"/>
+                                <graphic url="LSKAP0055_1V.jpg"/>
+                                <graphic url="LSKAP0055_2R.jpg"/>
+                                <graphic url="LSKAP0055_2V.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >letter</material>
+                                </support>
+                                <extent>2 pages on 1 sheet <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="restricted">
+                                <p>Restricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1R"/>
+            <p rend="align(right)">
+                <placeName>New Orleans</placeName>
+                <date>May 3.5613</date>
+            </p>
+            <p>My dear friend</p>
+            <p rend="indent(2)">Yours <date>20<hi rend="sup">th</hi></date>
+                <add>?</add> came to hand a<lb/> couple of days ago and I proceed to answer<lb/> its
+                most important portion viz. I spoke<lb/> for a considerable length of time to
+                    <persName>Mr. Touro</persName> in your behalf stating what I<lb/> think he ought
+                to do for you and other<lb/> as is my practice with him, left him<lb/> to ponder the
+                matter. Meeting<lb/> with him again next day I asked<lb/> him if he had come to any
+                conclu<lb/>sion in the premises upon which<lb/> he replied that (as I happen to
+                know<lb/> to be the case <hi rend="underline">just now</hi>) he had not<lb/> enough
+                money on hand to pay pressing<lb/> demands, but he added that he had<lb/> a balance
+                of $300 in the hands of <persName>David<lb/> Hart Esq</persName>
+                <placeName>New York</placeName> which he would order him<lb/> to remit to you. Now
+                whether he intends<lb/> to send you $700 from here or not I can<lb/> not say. I did
+                not like to press him<lb/> on this point because you know<lb/> he is a strange man,
+                and intending to<lb/> serve you, I might have injured your<lb/> claims. I choose to
+                infer that he<lb/> will send you the 700 and after some</p>
+            <pb n="1V"/>
+            <p>little time elapses I shall inquire<lb/> of him if he has written to
+                    <persName>Mr<lb/> Hart</persName> &amp; if he has sent you the 700.<lb/> I think
+                he will do it sooner or<lb/> later.</p>
+            <p rend="indent(1)">I thank you for the information<lb/> given in your letter. Your note to<lb/>
+                <persName>Mr Isaac Hart</persName> I duly delivered.<lb/> With regard to publishing
+                    <persName>Dias's</persName> letter<lb/> you will meet with poor support<lb/>
+                here. I suppose 20 <del>or 30</del> copies could<lb/> be disposed of here in both
+                congregations<lb/> provided the price does not exceed<lb/> 50 to 75 cents.</p>
+            <p rend="indent(1)"><persName>Mr de Sola </persName>of <placeName>Canada</placeName>
+                sent some<lb/> 40 copies of <persName>English's</persName> work <add>?</add>
+                and<lb/> a number of pamphlets on the Sermon<lb/> on the
+                    <placeName>Mount</placeName>. I believe about <hi rend="underline">10</hi><lb/>
+                of the former only have been sold altho'<lb/>
+                <persName>Gutheim</persName> &amp; myself have tried to keep the sale.</p>
+            <p rend="indent(1)">Your Book, <add>Bible</add>left with me by <persName>Mr<lb/>
+                    Nathan</persName> I will bear in mind<lb/> altho' I fear it will be a long
+                time<lb/> before I can sell them.</p>
+            <p>When your new Bible comes out<lb/> have the copy which I ordered for<lb/> myself
+                strongly and handsomely bound<lb/> and my name printed on the cover</p>
+            <pb n="2R"/>
+            <p>a few dollars more or less you need<lb/> not consider in my case.</p>
+            <p rend="indent(1)">I am still in correspondence with<lb/>
+                <persName>Mr Eckman</persName> about <placeName>China</placeName>. His<lb/> advices
+                from <persName>Dr. Adler</persName> are unsatisfactory<lb/> and yet I think I know
+                the Jews<lb/> in this country too well, to believe<lb/> that anything will be done
+                on this<lb/> side of the <placeName>Atlantic</placeName>. There are some<lb/>
+                disturbances in <placeName>China</placeName> &amp; throughout<lb/> the
+                    <placeName>East</placeName> &amp; I pray the finger of Providence<lb/> may yet
+                point out a release for the<lb/> unfortunate of our faith in the<lb/> Chinese
+                Empire. Oh <persName>Leeser</persName> if I had<lb/> the wealth of some of my
+                intimate<lb/> friends. What can I do? I assure<lb/> you no one knows how much I<lb/>
+                have to do here in every way, in<lb/> everything connected with Judaism<lb/> many
+                are the hours that I feel<lb/> so sick at heart that if I could<lb/> I would go and
+                live beyond the reach<lb/> of man or at least of my own people.<lb/> I am poor and
+                as yet have not<lb/> been able to pay off debts honorably<lb/> incurred in my
+                previous unfortunate<lb/> business. It is a great question in my<lb/> mind if I have
+                the right to do the<lb/> little charity which I do whilst I</p>
+            <pb n="2V"/>
+            <p>am in debt; and then my very<lb/> manner of living, which is some-<lb/> what
+                expensive and which nevertheless<lb/> I ought to continue for very many<lb/> good
+                reasons, compels me to curtail<lb/> at times the amounts which I would<lb/>
+                otherwise give away. But I hope<lb/> to continue to prosper in the world<lb/> in
+                order to extend the benefits which<lb/> I ought bestow on others.</p>
+            <p rend="indent(7)">If I do not hear before long of a<lb/> proper person to fill the
+                office of<lb/> Minister to our congregation, I think<lb/> I shall propose to the men
+                here to alter<lb/> our advertisement simply to call<lb/> for a first rate Portuguese
+                Hazan and<lb/> this I will do because I see now<lb/> that the majority care more for the<lb/>
+                <hi rend="underline">singing</hi> than for the preaching—<lb/> I have found it
+                imperative upon me<lb/> even at this late day to pursue the course<lb/> recommended
+                by <persName>Mr Calhoun</persName>
+                <add>?</add> “Masterly inac<lb/>tivity.” I have too much <hi rend="underline">dead
+                    weight</hi> to<lb/> contend against &amp; after struggling for<lb/> an end for
+                nearly a score of years I have<lb/> now to yield, till a new generation arises<lb/>
+                which so far as I can I am impregnating with the broad views &amp; philanthropy of
+                the<lb/> Mosaic teachings. My sister, Brother &amp; theirs send you fond greetings.
+                I am yours as ever faithfully,</p>
+            <p rend="indent(7)">
+                <persName role="author">Gershom K.</persName>
+            </p>
+        </body>
+    </text>
 </TEI>

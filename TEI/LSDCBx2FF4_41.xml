@@ -1,264 +1,300 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE TEI [
-<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
-%teibase;
-<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
-%teiext;
-]>
-<TEI>
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="yes">Delevante, A.</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>CAJS Isaac Leeser Collection</repository>
-						<collection>The Library of the Dropsie College for Hebrew and Cognate Learning</collection>
-						<idno>LSDCBx2FF4_41</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="yes">Delevante, A.</author>
-						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac, Rev.</addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet></placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1857-05" source="" attested="yes">19 May 1857</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="ilcajs_b2f4_0038_1r.jpg"></graphic>
-								<graphic url="ilcajs_b2f4_0038_1v.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="false" paper_type="" size="Letter">letter</material>
-								</support>
-								<extent>2 pages on 1 sheet
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="manuscript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="free">
-								<p>Unrestricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-				<language ident="he">Hebrew</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1"/>
-				<p rend="align(right)"><add>Hebrew</add></p>
-				<p rend="align(right)"><date>May 19<hi rend="sup">th</hi> 1857</date></p>
-				<p>My Dear Sir&#44;</p>
-			<p rend="indent(2)">I expected ere this my last commu<lb/>nication would have appeared in your periodical<lb/> as the one of the Jewish Chronicle which was <lb/>sent same time after yours has already met<lb/> with attention.  I am at a loss to know the<lb/> cause as I replied to your note also relative<lb/> to my being appointed your agent here and<lb/> my views thereon.</p>
-			<p rend="indent(1)">There is nothing of importance<lb/> stirring here in Jewish matters&#44; the sister con<lb/>gregation is expecting the <persName>Revd Alexr B. Davis</persName><lb/> from <placeName>London</placeName>&#44; lately of <placeName>Portsea&#44; Portsmouth</placeName><lb/> to undertake the duties of the ministry&#44; he is<lb/> said to be in the expected packet due on <date>Sun<lb/>day the 21<hi rend="sup">st</hi></date>.</p>
-			<p rend="indent(1)">In my last letter I took the liber<lb/>ty of soliciting the aid of your services to procure<lb/> for me a few books for which on my being<lb/> acquainted with the cost I shall remit you the<lb/> money through a house in <placeName>New York</placeName>. Viz.<lb/> <persName>Salomon&#39;s</persName> Lectures</p>
-				<p><persName>Dias&#39;s</persName> Letters in the evidences of Christianity 3 sets the<lb/> Hebrew spelling Books 6 copies whole series in each <sic>sett</sic><lb/> Catechisms for young children 6 <add>&#63;</add></p>
-			<p rend="indent(1)">I have sent you <del>a</del> newspaper<lb/> reports of my sermon on <add>Hebrew</add> which you can<lb/> make use of&#44; and as a friend and brother in<lb/> <placeName>Israel</placeName>&#44; should you know of any works calcula</p>
-			<pb n="2"/>
-				<p>ted to benefit me in my new sphere of duties I<lb/> should feel it an obligation should you advise me<lb/> of them.  I shall in return be most happy to render<lb/> you what service I can in <placeName>Jamaica</placeName> as far<lb/> as lies in my power to do so.</p>
-			<p rend="indent(1)">I am endeavoring as much as<lb/> possible to bring round Synagogue matters&#44; and<lb/> there seems to be some visible improvements&#44; but<lb/> it requires active labors to be at all times pre<lb/>pared to satisfy <hi rend="underline">all parties</hi>.  I have given up<lb/> the school&#44; as my desire is to give all my<lb/> attention to my ministerial duties&#44; which are<lb/> rather arduous&#44; as I have now added to them<lb/> since the old Hazan&#39;s death</p>
-			<p rend="indent(1)">Let me hear speedily from you<lb/> as I should like my order satisfied at your very<lb/> earliest convenience.  Accept my devoted regards<lb/> for your welfare and prosperity and believe<lb/> me to be</p>
-			<p rend="indent(10)">Your faithful Servant</p>
-			<p rend="indent(11)"><persName role="author">A Delevante</persName></p>
-				<p>To the <addressee>Revrd. Is&#58; Leeser</addressee></p>
-			<p rend="indent(3)"><placeName>Philadelphia</placeName></p>
-				<p>PS. I have had no Occident for the last three months<lb/> this you will be pleased to notice and en<lb/>deavor to remedy as should I get an<lb/> answer to <hi rend="underline">my letter of 3 months past with Jewish</hi><lb/> <hi rend="underline">intelligence</hi> I should look about seeking subscribers</p>
-		</body>
-	</text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="yes">Delevante, A.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS Isaac Leeser Collection</repository>
+                        <collection>The Library of the Dropsie College for Hebrew and Cognate
+                            Learning</collection>
+                        <idno>LSDCBx2FF4_41</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="yes">Delevante, A.</author>
+                        <addressee accepted="yes" attested="yes" editor="false">Leeser, Isaac,
+                            Rev.</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet/>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1857-05">19 May 1857</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="ilcajs_b2f4_0038_1r.jpg"/>
+                                <graphic url="ilcajs_b2f4_0038_1v.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size="Letter"
+                                        >letter</material>
+                                </support>
+                                <extent>2 pages on 1 sheet <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="he">Hebrew</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <p rend="align(right)">
+                <add>י"ד באייר התרי"ך</add>
+            </p>
+            <p rend="align(right)">
+                <date>May 19<hi rend="sup">th</hi> 1857</date>
+            </p>
+            <p>My Dear Sir,</p>
+            <p rend="indent(2)">I expected ere this my last commu<lb/>nication would have appeared
+                in your periodical<lb/> as the one of the Jewish Chronicle which was <lb/>sent same
+                time after yours has already met<lb/> with attention. I am at a loss to know
+                the<lb/> cause as I replied to your note also relative<lb/> to my being appointed
+                your agent here and<lb/> my views thereon.</p>
+            <p rend="indent(1)">There is nothing of importance<lb/> stirring here in Jewish matters,
+                the sister con<lb/>gregation is expecting the <persName>Revd Alexr B.
+                    Davis</persName><lb/> from <placeName>London</placeName>, lately of
+                    <placeName>Portsea, Portsmouth</placeName><lb/> to undertake the duties of the
+                ministry, he is<lb/> said to be in the expected packet due on <date>Sun<lb/>day the
+                        21<hi rend="sup">st</hi></date>.</p>
+            <p rend="indent(1)">In my last letter I took the liber<lb/>ty of soliciting the aid of
+                your services to procure<lb/> for me a few books for which on my being<lb/>
+                acquainted with the cost I shall remit you the<lb/> money through a house in
+                    <placeName>New York</placeName>. Viz.<lb/>
+                <persName>Salomon's</persName> Lectures</p>
+            <p><persName>Dias's</persName> Letters in the evidences of Christianity 3 sets the<lb/>
+                Hebrew spelling Books 6 copies whole series in each <sic>sett</sic><lb/> Catechisms
+                for young children 6 <add>?</add></p>
+            <p rend="indent(1)">I have sent you <del>a</del> newspaper<lb/> reports of my sermon on
+                    <add>שבת אמור</add> which you can<lb/> make use of, and as a friend and brother in<lb/>
+                <placeName>Israel</placeName>, should you know of any works calcula</p>
+            <pb n="2"/>
+            <p>ted to benefit me in my new sphere of duties I<lb/> should feel it an obligation
+                should you advise me<lb/> of them. I shall in return be most happy to render<lb/>
+                you what service I can in <placeName>Jamaica</placeName> as far<lb/> as lies in my
+                power to do so.</p>
+            <p rend="indent(1)">I am endeavoring as much as<lb/> possible to bring round Synagogue
+                matters, and<lb/> there seems to be some visible improvements, but<lb/> it requires
+                active labors to be at all times pre<lb/>pared to satisfy <hi rend="underline">all
+                    parties</hi>. I have given up<lb/> the school, as my desire is to give all
+                my<lb/> attention to my ministerial duties, which are<lb/> rather arduous, as I have
+                now added to them<lb/> since the old Hazan's death</p>
+            <p rend="indent(1)">Let me hear speedily from you<lb/> as I should like my order
+                satisfied at your very<lb/> earliest convenience. Accept my devoted regards<lb/> for
+                your welfare and prosperity and believe<lb/> me to be</p>
+            <p rend="indent(10)">Your faithful Servant</p>
+            <p rend="indent(11)">
+                <persName role="author">A Delevante</persName>
+            </p>
+            <p>To the <addressee>Revrd. Is: Leeser</addressee></p>
+            <p rend="indent(3)">
+                <placeName>Philadelphia</placeName>
+            </p>
+            <p>PS. I have had no Occident for the last three months<lb/> this you will be pleased to
+                notice and en<lb/>deavor to remedy as should I get an<lb/> answer to <hi
+                    rend="underline">my letter of 3 months past with Jewish</hi><lb/>
+                <hi rend="underline">intelligence</hi> I should look about seeking subscribers</p>
+        </body>
+    </text>
 </TEI>

@@ -1,33 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE TEI [
-<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
-%teibase;
-<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
-%teiext;
-]>
-<TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 	<teiHeader>
+
 		<fileDesc>
 			<titleStmt>
 				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="yes">Goldsmith, Henry</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
+				<author accepted="yes" attested="yes" signature="yes">Goldsmith, Henry</author>
+				<editor/>
+				<sponsor/>
+				<funder/>
+				<principal/>
 				<respStmt>
-					<resp></resp>
-					<name></name>
+					<resp/>
+					<name/>
 				</respStmt>
 			</titleStmt>
 			<editionStmt>
-				<edition></edition>
+				<edition/>
 				<respStmt>
-					<resp></resp>
-					<name></name>
+					<resp/>
+					<name/>
 				</respStmt>
 			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
+			<extent>[information about file size goes here, information about extent of physical
+				item comes later]</extent>
 			<publicationStmt>
 				<publisher>Unpublished manuscript</publisher>
 			</publicationStmt>
@@ -35,14 +31,14 @@
 				<p>Not part of a series</p>
 			</seriesStmt>
 			<notesStmt>
-				<note></note>
+				<note/>
 			</notesStmt>
 			<sourceDesc>
 				<biblStruct>
 					<!-- catalog entry goes here -->
 					<monogr>
 						<imprint>
-							<dateLet></dateLet>
+							<dateLet/>
 						</imprint>
 					</monogr>
 				</biblStruct>
@@ -51,49 +47,52 @@
 						<country>USA</country>
 						<region>PA</region>
 						<settlement>Philadelphia</settlement>
-						<institution></institution>
+						<institution/>
 						<repository>LSKAP</repository>
-						<collection>The Arnold and Deanne Kaplan Collection of Early American Judaica</collection>
+						<collection>The Arnold and Deanne Kaplan Collection of Early American
+							Judaica</collection>
 						<idno>LSKAP0247</idno>
 						<altIdentifier>
-							<idno></idno>
+							<idno/>
 						</altIdentifier>
-						<msName></msName>
+						<msName/>
 					</msIdentifier>
-					<head></head>
+					<head/>
 					<letHeading>
-						<author attested="yes" accepted="yes" signature="yes">Goldsmith, Henry</author>
-						<addressee editor="true" attested="yes" accepted="yes">Leeser, Isaac</addressee>
-						<deliverer></deliverer>
+						<author accepted="yes" attested="yes" signature="yes">Goldsmith,
+							Henry</author>
+						<addressee accepted="yes" attested="yes" editor="true">Leeser,
+							Isaac</addressee>
+						<deliverer/>
 						<respStmt>
-							<resp></resp>
-							<name></name>
+							<resp/>
+							<name/>
 						</respStmt>
 						<placeLet>New York, NY</placeLet>
 						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1847-05" source="" attested="yes">May 9, 1847</dateLet>
-						<dateLet when="1847-05" source="" attested="yes">5607</dateLet>
+						<dateLet attested="yes" source="" when="1847-05">May 9, 1847</dateLet>
+						<dateLet attested="yes" source="" when="1847-05">5607</dateLet>
 					</letHeading>
 					<msContents>
 						<msItem>
-							<author></author>
-							<editor></editor>
+							<author/>
+							<editor/>
 							<respStmt>
-								<resp></resp>
-								<name></name>
+								<resp/>
+								<name/>
 							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
+							<title/>
+							<decoNote/>
 							<listBibl>
-								<bibl></bibl>
+								<bibl/>
 							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
+							<filiation/>
+							<textLang/>
 							<figure>
-								<graphic url="LSKAP0247_1r.jpg"></graphic>
-								<graphic url="LSKAP0247_1v.jpg"></graphic>
-								<graphic url="LSKAP0247_2r.jpg"></graphic>
-								<graphic url="LSKAP0247_2v.jpg"></graphic>
+								<graphic url="LSKAP0247_1r.jpg"/>
+								<graphic url="LSKAP0247_1v.jpg"/>
+								<graphic url="LSKAP0247_2r.jpg"/>
+								<graphic url="LSKAP0247_2v.jpg"/>
 							</figure>
 						</msItem>
 					</msContents>
@@ -101,65 +100,65 @@
 						<objectDesc>
 							<supportDesc>
 								<support>
-									<material color="" lined="false" paper_type="" size="">letter</material>
+									<material color="" lined="false" paper_type="" size=""
+										>letter</material>
 								</support>
-								<extent>4 pages on 2 sheets
-									<dimensions></dimensions>
+								<extent>4 pages on 2 sheets <dimensions/>
 								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
+								<foliation/>
+								<collation/>
+								<condition fragment="false"/>
 							</supportDesc>
 							<layoutDesc>
-								<layout></layout>
+								<layout/>
 							</layoutDesc>
 						</objectDesc>
 						<handDesc script="manuscript">
-							<handNote></handNote>
+							<handNote/>
 						</handDesc>
 						<decoDesc>
-							<decoNote></decoNote>
+							<decoNote/>
 						</decoDesc>
-						<additions></additions>
+						<additions/>
 						<bindingDesc>
 							<binding>
-								<decoNote></decoNote>
+								<decoNote/>
 							</binding>
 						</bindingDesc>
 						<sealDesc>
 							<seal>
-								<p></p>
+								<p/>
 							</seal>
 						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
+						<accMat/>
+						<envDesc occ="false"/>
 					</physDesc>
 					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
+						<origin/>
+						<provenance/>
+						<acquisition/>
 					</history>
 					<additional>
 						<adminInfo>
 							<recordHist>
-								<source></source>
-								<change></change>
+								<source/>
+								<change/>
 							</recordHist>
 							<availability status="restricted">
 								<p>Restricted</p>
 							</availability>
 							<custodialHist>
-								<custEvent></custEvent>
+								<custEvent/>
 							</custodialHist>
 						</adminInfo>
-						<surrogates></surrogates>
+						<surrogates/>
 						<listBibl>
-							<bibl></bibl>
+							<bibl/>
 						</listBibl>
 					</additional>
 					<msPart>
 						<altIdentifier>
-							<idno></idno>
+							<idno/>
 						</altIdentifier>
 					</msPart>
 				</msDesc>
@@ -167,42 +166,42 @@
 		</fileDesc>
 		<encodingDesc>
 			<projectDesc>
-				<p></p>
+				<p/>
 			</projectDesc>
 			<samplingDecl>
-				<p></p>
+				<p/>
 			</samplingDecl>
 			<editorialDecl>
 				<correction>
-					<p></p>
+					<p/>
 				</correction>
 				<normalization>
-					<p></p>
+					<p/>
 				</normalization>
 				<quotation>
-					<p></p>
+					<p/>
 				</quotation>
 				<hyphenation>
-					<p></p>
+					<p/>
 				</hyphenation>
 				<segmentation>
-					<p></p>
+					<p/>
 				</segmentation>
 				<stdVals>
-					<p></p>
+					<p/>
 				</stdVals>
 				<interpretation>
-					<p></p>
+					<p/>
 				</interpretation>
 			</editorialDecl>
 			<tagsDecl>
-				<rendition></rendition>
+				<rendition/>
 				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
+					<tagUsage gi=""/>
 				</namespace>
 			</tagsDecl>
 			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
+				<cRefPattern matchPattern="" replacementPattern=""/>
 			</refsDecl>
 			<refsDecl>
 				<refState unit=""/>
@@ -210,19 +209,19 @@
 			<classDecl>
 				<taxonomy>
 					<category>
-						<catDesc></catDesc>
+						<catDesc/>
 					</category>
 				</taxonomy>
 			</classDecl>
 			<appInfo>
 				<application ident="" version="">
-					<desc></desc>
-					<label></label>
+					<desc/>
+					<label/>
 				</application>
 			</appInfo>
 		</encodingDesc>
 		<profileDesc>
-			<creation></creation>
+			<creation/>
 			<langUsage>
 				<language ident="en">English</language>
 				<language ident="he">Hebrew</language>
@@ -230,43 +229,151 @@
 			<textClass>
 				<keywords scheme="unknown">
 					<list>
-						<item></item>
-						<item></item>
+						<item/>
+						<item/>
 					</list>
 				</keywords>
-				<classCode scheme=""></classCode>
+				<classCode scheme=""/>
 				<catRef/>
 			</textClass>
 		</profileDesc>
 		<revisionDesc>
-			<change></change>
+			<change/>
 		</revisionDesc>
 	</teiHeader>
 	<text>
 		<body>
 			<pb n="1R"/>
-			<p>Pollilt <hi rend="align(center)">Studies in the Bible</hi> <hi rend="align(right)">The printed Heb. To</hi></p>
-			<p>Longprimer <hi rend="align(center)">No 1.</hi> <hi rend="align(right)">hr<add>&#63;</add></hi></p>
-			<p rend="align(center)"><placeName>New York</placeName> <date>May the 9<hi rend="sup">th</hi> 5607</date></p>
-				<p>To the Editor of the Occident</p>
-				<p>Rev Sir.  I have for several years been anxious to see some<lb/> literary matter <del>f</del> grace the pages of your periodical<lb/> seeing however that your learned correspondents have<lb/> hitherto kept themselves aloof I &#40;although not one of<lb/> the number&#41; have resolved to send you from time<lb/> to time some <hi rend="underline">random notes on the holy scriptures</hi><lb/> more with a view to entice our <add>Hebrew</add> from their<lb/> hiding places <sic>then</sic> to gain popularity from anything<lb/> that <del>might</del> may issue from <del>p</del> my pen.</p>
-			<p rend="indent(2)">I am Dear &#38; Rev Sir</p>
+			<p>Pollilt <hi rend="align(center)">Studies in the Bible</hi>
+				<hi rend="align(right)">The printed Heb. To</hi></p>
+			<p>Longprimer <hi rend="align(center)">No 1.</hi>
+				<hi rend="align(right)">hr<add>?</add></hi></p>
+			<p rend="align(center)">
+				<placeName>New York</placeName>
+				<date>May the 9<hi rend="sup">th</hi> 5607</date>
+			</p>
+			<p>To the Editor of the Occident</p>
+			<p>Rev Sir. I have for several years been anxious to see some<lb/> literary matter
+					<del>f</del> grace the pages of your periodical<lb/> seeing however that your
+				learned correspondents have<lb/> hitherto kept themselves aloof I (although not one
+				of<lb/> the number) have resolved to send you from time<lb/> to time some <hi
+					rend="underline">random notes on the holy scriptures</hi><lb/> more with a view
+				to entice our <add>לומדים</add> from their<lb/> hiding places <sic>then</sic> to
+				gain popularity from anything<lb/> that <del>might</del> may issue from <del>p</del>
+				my pen.</p>
+			<p rend="indent(2)">I am Dear &amp; Rev Sir</p>
 			<p rend="indent(3)">Yours most respectfully</p>
-			<p rend="indent(3)"><persName role="author">Henry Goldsmith</persName></p>
+			<p rend="indent(3)">
+				<persName role="author">Henry Goldsmith</persName>
+			</p>
 			<p rend="indent(2)">Gen III.22.</p>
-			<p rend="indent(2)"><del>Gen III 22</del> <add>Hebrew</add></p>
-			<p rend="indent(2)"><del> <add>Hebrew</add> </del> </p>
-				<p>According to the authorized English version &#8220;Behold<lb/> the man is become as one of us to know good and evil.&#8221;<lb/> <persName>Mendelssohn</persName> translates it in the same manner.  This<lb/> passage always appeared to me very difficult &#38; obscure<lb/>  The difficulty consists in the term <add>Hebrew</add> &#8220;one of us&#8221;<lb/> which plainly implies a <hi rend="underline">divisible plurality</hi>.  In consul&#61;<lb/>ting the various commentators I find that <persName>Rashi</persName> quotes<lb/> the following remark from the Bereshith Rabbah<lb/> <add>Hebrew</add><lb/> &#8220;Behold he is an <hi rend="underline">only one</hi> below &#40;or among the lower creation&#41;<lb/> as well as I am an <hi rend="underline">only one</hi> above&#44; and in what consists</p>
+			<p rend="indent(2)">
+				<del>Gen III 22</del>
+				<add>הן האדם היה אחד ממנו לדעת טוב מרע</add>
+			</p>
+			<p rend="indent(2)">
+				<del>
+					<add>הן האדם היה אחד ממנו לדעת טוב מרע וכו</add>
+				</del>
+			</p>
+			<p>According to the authorized English version “Behold<lb/> the man is become as one of
+				us to know good and evil.”<lb/>
+				<persName>Mendelssohn</persName> translates it in the same manner. This<lb/> passage
+				always appeared to me very difficult &amp; obscure<lb/> The difficulty consists in
+				the term <add>הרי הוא יחיד בתחתונים כמו שאני יחיד בעליונים, ומה היא יחידתו, לדעת טוב
+					ורע מה שאין כן בבהמה ובחיה</add> “one of us”<lb/> which plainly implies a <hi
+					rend="underline">divisible plurality</hi>. In consul=<lb/>ting the various
+				commentators I find that <persName>Rashi</persName> quotes<lb/> the following remark
+				from the Bereshith Rabbah<lb/>
+				<add>אחד</add><lb/> “Behold he is an <hi rend="underline">only one</hi> below (or
+				among the lower creation)<lb/> as well as I am an <hi rend="underline">only one</hi>
+				above, and in what consists</p>
 			<pb n="1V"/>
-				<p>&#42;In <add>&#63;</add> Bibles the word has always the Dahgesh&#59; but our correspondent refer to the opinion<lb/> of unfair grammarians merely who <sic>actualy</sic> make this <add>&#63;</add>.  But without<lb/> this his institution maybe the correct my as at <add>&#63;</add> the kind person has always that.<lb/> Ed. Oc</p>
-				<p>his unity&#63; in knowing good and evil&#44; which is not<lb/> the case with the brute creation&#8221;  Although this remark<lb/> of <persName>Rashi</persName> may appear very simple in itself it yet &#40;in<lb/> my humble opinion&#41; contains the only true interpretation<lb/> of the text in question.  But in order to arrive at the<lb/> proper meaning of the above quotations it is necessary<lb/> to notice two things.  1<hi rend="underline">o</hi>  According to <persName>Rashi&#39;s</persName> opinion<lb/> there is a great difference between <add>Hebrew</add> and <add>Hebrew</add>&#44; in as<lb/> much as <add>Hebrew</add> means simply <hi rend="underline">one</hi> where as the <add>Hebrew</add> signifies something<lb/> that is <hi rend="underline">singled out</hi> or <hi rend="underline">unique</hi> see for example&#44; Gen XXVI 10<lb/> <add>Hebrew</add> &#8220;Well night one of the people Etc&#8221; <persName>Rashi</persName> there<lb/> remarks <add>Hebrew</add> &#8220;the peculiar one of the people this is<lb/> the thing&#8221;Gens 49.16 <add>Hebrew</add> &#8220;like one of the tribes of<lb/> <placeName>Israel</placeName>&#8221; <persName>Rashi</persName> there says <del> <add>Hebrew</add> </del><lb/> <del> <add>Hebrew</add> </del></p>
-				<p>&#8220;All <placeName>Israel</placeName> shall be as <hi rend="underline">one</hi> with <add>&#63;</add> and he shall<lb/> Judge all of them and he <sic>prophecied</sic> this on <persName>Samson</persName>.<lb/>  The term <add>Hebrew</add> may also be interpreted &#8220;like<lb/> <hi rend="underline">the peculiar one</hi> of the tribes&#8221; this is <persName>David</persName> who issued<lb/> from <persName>Judah</persName>&#8221;  In short where&#45;ever we meet with the<lb/> word <add>Hebrew</add> I find that <persName>Rashi</persName> invariably interprets it<lb/> to mean something peculiar&#44; singled out &#40;or of<lb/> want of a better expression&#41; <hi rend="underline">unique</hi>  2<hi rend="underline">o</hi>  Some grammarians<lb/> <del>all agree</del> contend that the word <add>Hebrew</add> with a Dahgesh in the <add>Hebrew</add> is<lb/> the 3d pers mase Sing. and <add>Hebrew</add> without the Dahgesh is<lb/> the 1st pers plural  The word <add>Hebrew</add> in our text<lb/> has the Dahgesh it <del>mus</del> can therefore not be the 1st<lb/> person.  Taking these two points into consideration we</p>
+			<p>*In <add>?</add> Bibles the word has always the Dahgesh; but our correspondent refer
+				to the opinion<lb/> of unfair grammarians merely who <sic>actualy</sic> make this
+					<add>?</add>. But without<lb/> this his institution maybe the correct my as at
+					<add>?</add> the kind person has always that.<lb/> Ed. Oc</p>
+			<p>his unity? in knowing good and evil, which is not<lb/> the case with the brute
+				creation” Although this remark<lb/> of <persName>Rashi</persName> may appear very
+				simple in itself it yet (in<lb/> my humble opinion) contains the only true
+				interpretation<lb/> of the text in question. But in order to arrive at the<lb/>
+				proper meaning of the above quotations it is necessary<lb/> to notice two things.
+					1<hi rend="underline">o</hi> According to <persName>Rashi's</persName>
+				opinion<lb/> there is a great difference between <add>אחד</add> and <add>אחד</add>,
+				in as<lb/> much as <add>אחד</add> means simply <hi rend="underline">one</hi> where
+				as the <add>המיוחד בעם זה המלך כמעט שכב אחד העם את אשתך</add> signifies
+				something<lb/> that is <hi rend="underline">singled out</hi> or <hi rend="underline"
+					>unique</hi> see for example, Gen XXVI 10<lb/>
+				<add>המיוחד בעם זה המלך</add> “Well night one of the people Etc”
+					<persName>Rashi</persName> there<lb/> remarks <add>כאחד שבטי ישראל</add> “the
+				peculiar one of the people this is<lb/> the thing”Gens 49.16 <add>כל ישראל יהיו כאחד
+					עמו ואת כולם ידין ועל שמשון נבא נבואה זו ועוד יש לפרש כאחד שבטי ישראל כמיוחד
+					שבשבטים הוא דוד שבא מיהודה</add> “like one of the tribes of<lb/>
+				<placeName>Israel</placeName>” <persName>Rashi</persName> there says <del>
+					<add>כאחד שבטי ישראל כאחד שבטי ישראל</add>
+				</del><lb/>
+				<del>
+					<add>אחד</add>
+				</del></p>
+			<p>“All <placeName>Israel</placeName> shall be as <hi rend="underline">one</hi> with
+					<add>?</add> and he shall<lb/> Judge all of them and he <sic>prophecied</sic>
+				this on <persName>Samson</persName>.<lb/> The term <add>ממנו</add> may also be
+				interpreted “like<lb/>
+				<hi rend="underline">the peculiar one</hi> of the tribes” this is
+					<persName>David</persName> who issued<lb/> from <persName>Judah</persName>” In
+				short where-ever we meet with the<lb/> word <add>נ</add> I find that
+					<persName>Rashi</persName> invariably interprets it<lb/> to mean something
+				peculiar, singled out (or of<lb/> want of a better expression) <hi rend="underline"
+					>unique</hi> 2<hi rend="underline">o</hi> Some grammarians<lb/>
+				<del>all agree</del> contend that the word <add>ממנו</add> with a Dahgesh in the
+					<add>ממנ</add> is<lb/> the 3d pers mase Sing. and <add>הא אדם יחידי בעלמא מיניה
+					למירע טיב וביש</add> without the Dahgesh is<lb/> the 1st pers plural The word
+					<add>אוהב גר</add> in our text<lb/> has the Dahgesh it <del>mus</del> can
+				therefore not be the 1st<lb/> person. Taking these two points into consideration
+				we</p>
 			<pb n="2R"/>
-				<p>may come to a satisfactory solution by rendering<lb/> the text in question according to <persName>Rashi&#39;s</persName> views thus<lb/> &#8220;Behold man has become as an only one of his<lb/> own specie &#40;namely in the material world&#41; to know<lb/> good and evil &#40;which is not the case with the<lb/> brute creation.  The meaning of which is that since<lb/> his eating of the tree of knowledge he <del>obtained</del> ac&#61;<lb/>quired that distinction.  I verily believe that<lb/> <persName>Onkelos</persName> intended to convey the same idea in his<lb/> translation&#44; he renders it <add>Hebrew</add><lb/>  It appears that <persName>Onkelos&#39;</persName> translation has caused as<lb/> much difficulty as the <del>tex</del> original.  <persName>Rabbi<lb/> Samuel David Luzzato</persName> in his work <del> <add>Hebrew</add> </del> <hi rend="underline">Oheb Gare</hi><lb/> finds fault with some editors where the disjunc&#61;<lb/>tive accent &#40;<add>Hebrew</add>&#41; is placed on <add>Hebrew</add>&#44; he says it<lb/> ought to be placed on <add>Hebrew</add>&#59; he therefore understands<lb/> the <add>&#63;</add> thus &#8220;Behold man is now an <hi rend="underline">only one</hi><lb/> in this world&#44; of himself <del>he know</del> to know good<lb/> and evil.&#8221;  But if I were allowed to differ with<lb/> this most learned of modern critics I would<lb/> certainly read it <add>Hebrew</add> and translate it&#44; &#8220;Behold<lb/> man has become an only one in this world of his&#8221;<lb/> &#40;meaning the lower creation&#41;.  Since writing the above<lb/> I found my opinions substantiated by two very res&#61;<lb/>pectable witnesses namely <persName>Buxdorph&#39;s</persName> edition</p>
+			<p>may come to a satisfactory solution by rendering<lb/> the text in question according
+				to <persName>Rashi's</persName> views thus<lb/> “Behold man has become as an only
+				one of his<lb/> own specie (namely in the material world) to know<lb/> good and evil
+				(which is not the case with the<lb/> brute creation. The meaning of which is that
+				since<lb/> his eating of the tree of knowledge he <del>obtained</del> ac=<lb/>quired
+				that distinction. I verily believe that<lb/>
+				<persName>Onkelos</persName> intended to convey the same idea in his<lb/>
+				translation, he renders it <add>זקף קטון</add><lb/> It appears that
+					<persName>Onkelos'</persName> translation has caused as<lb/> much difficulty as
+				the <del>tex</del> original. <persName>Rabbi<lb/> Samuel David Luzzato</persName> in
+				his work <del>
+					<add>מיניה</add>
+				</del>
+				<hi rend="underline">Oheb Gare</hi><lb/> finds fault with some editors where the
+				disjunc=<lb/>tive accent (<add>בעלמא</add>) is placed on <add>בעלמא מיניה</add>, he
+				says it<lb/> ought to be placed on <add>מיניה</add>; he therefore understands<lb/>
+				the <add>?</add> thus “Behold man is now an <hi rend="underline">only one</hi><lb/>
+				in this world, of himself <del>he know</del> to know good<lb/> and evil.” But if I
+				were allowed to differ with<lb/> this most learned of modern critics I would<lb/>
+				certainly read it <add>מיניה</add> and translate it, “Behold<lb/> man has become an
+				only one in this world of his”<lb/> (meaning the lower creation). Since writing the
+				above<lb/> I found my opinions substantiated by two very res=<lb/>pectable witnesses
+				namely <persName>Buxdorph's</persName> edition</p>
 			<pb n="2V"/>
-				<p>wherein the disjunctive accent is on <add>Hebrew</add> and the Polyglott<lb/> bible where <del>the accent is</del> not only the accent is on<lb/> <add>Hebrew</add> but the words <add>Hebrew</add> are formed together<lb/> with a hyphen&#44; and where they give the Latin<lb/> translation of <persName>Onkelos</persName> &#8220;Ecce Ad&#257; unicus est in<lb/> Seculo ex Se&#44; Seiens bonn et mal&#363;.&#44; from which<lb/> it will be seen that <persName>Onkelos</persName> has generally been<lb/> understood as I stated.  Now Mr Editor what I<lb/> here advance is merely a suggestion and if I am<lb/> wrong I shall be very happy to be convicted by<lb/> some of your learned correspondents.  Should<lb/> this article prove palatable to <del>some of</del> your<lb/> readers I shall from time to time communi&#61;<lb/>cate more of my reflections in the holy crip<lb/>tures hoping that our erudite<del>s</del> men will rouse them<lb/>selves from their lethargy and give us all<lb/> the benefit of their secret meditations</p>
-			<p rend="indent(6)"><persName role="author">H. G.</persName></p>
-				<p rend="The following is written in pencil in the bottom right corner."> Published in Occ. V.5 <date>1847</date><lb/> rerevised form. </p>
+			<p>wherein the disjunctive accent is on <add>בעלמא מיניה</add> and the Polyglott<lb/>
+				bible where <del>the accent is</del> not only the accent is on<lb/>
+				<add>Hebrew</add> but the words <add>Hebrew</add> are formed together<lb/> with a
+				hyphen, and where they give the Latin<lb/> translation of
+					<persName>Onkelos</persName> “Ecce Adā unicus est in<lb/> Seculo ex Se, Seiens
+				bonn et malū., from which<lb/> it will be seen that <persName>Onkelos</persName> has
+				generally been<lb/> understood as I stated. Now Mr Editor what I<lb/> here advance
+				is merely a suggestion and if I am<lb/> wrong I shall be very happy to be convicted
+				by<lb/> some of your learned correspondents. Should<lb/> this article prove
+				palatable to <del>some of</del> your<lb/> readers I shall from time to time
+				communi=<lb/>cate more of my reflections in the holy crip<lb/>tures hoping that our
+					erudite<del>s</del> men will rouse them<lb/>selves from their lethargy and give
+				us all<lb/> the benefit of their secret meditations</p>
+			<p rend="indent(6)">
+				<persName role="author">H. G.</persName>
+			</p>
+			<p rend="The following is written in pencil in the bottom right corner."> Published in
+				Occ. V.5 <date>1847</date><lb/> rerevised form. </p>
 		</body>
 	</text>
 </TEI>

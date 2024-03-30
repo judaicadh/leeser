@@ -1,242 +1,356 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="unk"></author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>LSKAP</repository>
-						<collection>The Arnold and Deanne Kaplan Collection of Early American Judaica</collection>
-						<idno>LSKAP_New_6</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="unk"></author>
-						<addressee editor="false" attested="yes" accepted="yes"></addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>Boston, MA</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1848-01" source="" attested="yes">January 11, 1848</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="leeser_05_2011_kaplan_new_6.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="false" paper_type="" size="">miscellany</material>
-								</support>
-								<extent>1 page on 1 sheet
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="typescript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions>Newspaper Clipping</additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="restricted">
-								<p>Restricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-				<p rend="align(center)">DAILY ADVERTISER.</p>
-				<p rend="align(center)"><placeName>BOSTON</placeName>&#58;</p>
-				<p rend="align(center)"><date>TUESDAY MORNING&#44; JAN. 11&#44; 1848</date>.</p>
-			<p rend="indent(1)">ADMISSION OF JEWS TO PARLIAMENT.&#8212;In<lb/> the House of Commons on the <date>15th</date> ult. <persName>Lord John<lb/> Russell</persName> introduced the anticipated motion for the re&#45;<lb/>moval of the civil and political disabilities of Jewish<lb/> subjects&#44; with a view to such an amendment of the<lb/> oath which is required to be taken by members of<lb/> the House&#44; that it may not exclude <persName>Mr. Rothschild</persName>&#44;<lb/> who was chosen at the late election as a member for<lb/> one of the districts of the city of <placeName>London</placeName>.  This su&#45;<lb/>ject has been earnestly discussed in some of the Brit&#45;<lb/>ish reviews&#44; and it is in various points of view one of<lb/> considerable interest.  We therefore copy the speech<lb/> of <persName>Lord John Russell</persName> on introducing his motion&#44; in<lb/> which he has treated the subject with great ability<lb/> and skill.  We copy the speech from the <placeName>London</placeName><lb/> Times&#58;&#8212;</p>
-			<p rend="indent(1)">REMOVAL OF JEWISH DISABILITIES.&#8212;<persName>Lord<lb/> J. Russell</persName>.&#8212;As I understand that my honorable<lb/>friend the member for the University of <placeName>Oxford</placeName> means<lb/> to oppose the motion for the house resolving itself<lb/> into a committee of the whole house to consider the<lb/> disabilities at present affecting Her Majesty&#39;s Jewish<lb/> subjects&#44; I feel myself compelled&#44; before making that<lb/> motion&#44; to state to the house the general grounds on<lb/> which I intend to rest it.  I am&#44; at the same time&#44;<lb/> given to understand by my honorable friend&#44; that if<lb/> a majority of the house should agree to go into com&#45;<lb/>mittee on the subject&#44; he does not mean to carry his<lb/> opposition to the point of refusing to consent to the<lb/> committee adopting the resolution which is necessa&#45;<lb/>ry to the introduction of a bill.  That being the case&#44;<lb/> it will be as convenient to the house to take the dis&#45;<lb/>cussion at this stage as to reserve it&#44; as was done on<lb/> former occasions&#44; till the house had resolved itself<lb/> into committee.  In bringing forward this subject I<lb/> feel that I cannot avail myself of many of the topics<lb/> which those who formerly proposed the removal of<lb/> disabilities on account of religious tenets were able<lb/> to appeal to for the purpose of inducing this house to<lb/> comply with their propositions.  I cannot say&#8212;as I<lb/> did in proposing the repeal of the Test and Corpora&#45;<lb/>tion Acts&#8212;&#34;Here are some three millions of Her<lb/> Majesty&#39;s subjects&#44; engaged in all the pursuits of in&#45;<lb/>dustry in your cities and towns&#44; forming a most im&#45;<lb/>portant portion of the community&#44; and distinguished<lb/> for their loyalty to the house of <placeName>Hanover</placeName>&#44; undevia&#45;<lb/>tingly maintained ever since that illustrious family<lb/> was seated on the throne of these realms.&#34;  I can&#45;<lb/>not&#44; like the great orator who introduced the ques&#45;<lb/>tion of Catholic disabilities&#44; refer to the state of a<lb/> neighboring country as a potent motive to induce the<lb/> house to remove the cause of discontent and dissat&#45;<lb/>isfaction.  I cannot speak&#44; as he did&#44; of the indigna&#45;<lb/>tion felt by a whole people at the deprivation of their<lb/> rights&#59; nor can I point to the dangers which would<lb/> menace the peace and welfare of the country from<lb/> refusing the claim to relief.  I can employ none of<lb/> those arguments in favor of my proposition.  I feel<lb/> that this is a question which does not affect a very<lb/> large portion of the people of this country&#44; and does<lb/> not involve in its acceptance or rejection the momen&#45;<lb/>tous consequences which were justly apprehended on<lb/> former occasions.  I am prepared to argue this ques&#45;<lb/>tion as one of principle&#44; not of political expediency&#8212;<lb/> as a question involving&#44; indeed&#44; the political liberties<lb/> of the country&#44; but involving them only as they con&#45;<lb/>ern 30&#44;000 or 40&#44;000 people&#44; members of a commu&#45;<lb/>nity which is not disposed&#44; nor indeed able&#44; if it<lb/> were disposed&#44; to excite clamor and tumult&#44; to agi&#45;<lb/>tate the country by means of public meetings&#44; or to<lb/> produce a social convulsion&#44; if its demands should<lb/> not be conceded.  But&#44; although I am unable to ap&#45;<lb/>peal to the topics to which I have referred&#44; I must&#44;<lb/> nevertheless&#44; take the liberty of informing the house<lb/> that there may be danger&#44; not affecting the public<lb/> tranquility indeed&#44; but affecting the character and<lb/> dignity of the Legislature&#44; if the claims of our Jew&#45;<lb/>ish fellow subjects continue longer to be refused.  It<lb/> may then be said that the Legislature is unwilling to<lb/> concede the claim of religious liberty&#44; that Parlia&#45;<lb/>ment has never adopted those just principles of equal&#45;<lb/>ity which ought to be applied to all the subjects of<lb/> Her Majesty&#59; but that when the question regarded<lb/> vast bodies of men&#44; important from their numbers<lb/> and wealth&#44; or threatening from their dissatisfaction<lb/> and discontent&#44; the Legislature yielded a reluctant<lb/> assent to their claims for the sake of immediate<lb/> peace&#59; and that when an opportunity presented itself<lb/> of doing an act of justice without any danger&#44; and<lb/> without inconvenience to public interests&#44; the Par&#45;<lb/>liament acted on the principle of religious perse&#45;<lb/>cution&#44; and was determined to show the world<lb/> that it was not from any willingness to adopt en&#45;<lb/>larged and liberal principles as the rule of its<lb/> conduct that it had on former occasions yield&#45;<lb/>ed to the petitions of its fellow subjects.&#8212;<lb/> &#40;Cheers.&#41;  I venture to say&#44; that if such an opinion<lb/> as that should become prevalent&#44; it must have a<lb/> very injurious effect on the character of this<lb/> house.  There is&#44; as I have before said&#44; but little<lb/> risk of danger to the public peace involved in the re&#45;<lb/>jection or adoption of my proposition.  One danger<lb/> was pointed out as likely to arise from its adoption&#44;<lb/> many years ago&#44; by my hon. friend who intends to<lb/> oppose me on the present occasion&#44; but he is not in a<lb/> position to repeat his warning now.  In <date>1830</date> my<lb/> hon. friend took upon himself the character of a<lb/> prophet&#44; and said &#34;You may depend upon it that if<lb/> you admit the Jews to civil offices and seats in Par&#45;<lb/>liament&#44; it will follow that in less than seven years<lb/> you will have a reform of Parliament.&#34;  &#40;&#34;Hear&#44;&#34;<lb/> and laughter.&#41;  But&#44; without the admission of Jews<lb/> to Parliament&#44; as the precursor of the so much dread&#45;<lb/>ed event&#44; within two years of the time when my<lb/> hon. friend used those words I have referred to the<lb/> reform of Parliament was effected.  &#40;Hear&#44; hear.&#41;<lb/>  Therefore&#44; there is&#44; at least&#44; one danger which it<lb/> will be unnecessary to take into consideration in dis&#45;<lb/>cussing this question.  &#40;&#34;Hear&#44;&#34; and laughter.&#41;  I<lb/> place the question upon this simple&#44; but I think&#44;<lb/> solid ground&#8212;that every Englishman is entitled to<lb/> the honors and advantages which the British consti&#45;<lb/>tution gives him.  &#40;Cheers.&#41;  I state further&#44; that<lb/> religious opinion of itself ought to be no disqualifica&#45;<lb/>tion for the enjoyment of those rights.  &#40;Renewed<lb/> cheers.&#41;  I found myself on a declaration in one of<lb/> the statutes of the law of <placeName>England</placeName>&#8212;&#34;It is the birth&#45;<lb/>right of the people to enjoy the privileges common to<lb/> all.&#34;  I found myself on a declaration made in the<lb/> House of Lords during the discussions on the Con&#45;<lb/>formity Bill&#44;&#8212;&#34;The Lords think that an English&#45;<lb/>man cannot be reduced to a more unhappy condition<lb/> than to be put by law under an incapacity of serving<lb/> his prince and country&#59; and therefore nothing but a<lb/> crime of the most detestable nature ought to put him<lb/> under such a disability.&#34;  I say&#44; then&#44; that on this<lb/> ground&#44; unless something shall be proved to disqual&#45;<lb/>ify Jews&#44; they stand in the position of persons born<lb/> in this country&#44; bearing all the burdens which are<lb/> imposed on them&#44; and ready to serve their prince<lb/> and their country in any capacity in which they may<lb/> be called upon&#44; and that&#44; therefore&#44; they are entitled<lb/> to all the rights and privileges enjoyed by their fel&#45;<lb/>low&#45;subjects.  &#40;Cheers.&#41;  I state this with confi&#45;<lb/>dence&#44; and I will not attempt to ask your favor by<lb/> anything which I might urge in behalf of the merits<lb/> of the Jews.  I think this is not a matter of favor to&#45;<lb/>ward the Jews&#44; but that&#44; unless some strong ground<lb/> of disqualification be proved against them&#44; it is a<lb/> matter of right.  &#40;Cheers.&#41;  I&#44; therefore&#44; will not<lb/> urge that even those who have opposed the claims of<lb/> the Jews have admitted their peaceable conduct and<lb/> their moral character as subjects&#8212;that they are gov&#45;<lb/>erned by that moral law which is adopted by and is<lb/> binding on us&#8212;that there are among them many per&#45;<lb/>sons distinguished for eminent talents&#8212;that in the<lb/> offices of which they have been admitted they have</p>
-		</body>
-	</text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="unk"/>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>LSKAP</repository>
+                        <collection>The Arnold and Deanne Kaplan Collection of Early American
+                            Judaica</collection>
+                        <idno>LSKAP_New_6</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="unk"/>
+                        <addressee accepted="yes" attested="yes" editor="false"/>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Boston, MA</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1848-01">January 11, 1848</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="leeser_05_2011_kaplan_new_6.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >miscellany</material>
+                                </support>
+                                <extent>1 page on 1 sheet <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions>Newspaper Clipping</additions>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="restricted">
+                                <p>Restricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p rend="align(center)">DAILY ADVERTISER.</p>
+            <p rend="align(center)"><placeName>BOSTON</placeName>:</p>
+            <p rend="align(center)"><date>TUESDAY MORNING, JAN. 11, 1848</date>.</p>
+            <p rend="indent(1)">ADMISSION OF JEWS TO PARLIAMENT.—In<lb/> the House of Commons on the
+                    <date>15th</date> ult. <persName>Lord John<lb/> Russell</persName> introduced
+                the anticipated motion for the re-<lb/>moval of the civil and political disabilities
+                of Jewish<lb/> subjects, with a view to such an amendment of the<lb/> oath which is
+                required to be taken by members of<lb/> the House, that it may not exclude
+                    <persName>Mr. Rothschild</persName>,<lb/> who was chosen at the late election as
+                a member for<lb/> one of the districts of the city of <placeName>London</placeName>.
+                This su-<lb/>ject has been earnestly discussed in some of the Brit-<lb/>ish reviews,
+                and it is in various points of view one of<lb/> considerable interest. We therefore
+                copy the speech<lb/> of <persName>Lord John Russell</persName> on introducing his
+                motion, in<lb/> which he has treated the subject with great ability<lb/> and skill.
+                We copy the speech from the <placeName>London</placeName><lb/> Times:—</p>
+            <p rend="indent(1)">REMOVAL OF JEWISH DISABILITIES.—<persName>Lord<lb/> J.
+                    Russell</persName>.—As I understand that my honorable<lb/>friend the member for
+                the University of <placeName>Oxford</placeName> means<lb/> to oppose the motion for
+                the house resolving itself<lb/> into a committee of the whole house to consider
+                the<lb/> disabilities at present affecting Her Majesty's Jewish<lb/> subjects, I
+                feel myself compelled, before making that<lb/> motion, to state to the house the
+                general grounds on<lb/> which I intend to rest it. I am, at the same time,<lb/>
+                given to understand by my honorable friend, that if<lb/> a majority of the house
+                should agree to go into com-<lb/>mittee on the subject, he does not mean to carry
+                his<lb/> opposition to the point of refusing to consent to the<lb/> committee
+                adopting the resolution which is necessa-<lb/>ry to the introduction of a bill. That
+                being the case,<lb/> it will be as convenient to the house to take the
+                dis-<lb/>cussion at this stage as to reserve it, as was done on<lb/> former
+                occasions, till the house had resolved itself<lb/> into committee. In bringing
+                forward this subject I<lb/> feel that I cannot avail myself of many of the
+                topics<lb/> which those who formerly proposed the removal of<lb/> disabilities on
+                account of religious tenets were able<lb/> to appeal to for the purpose of inducing
+                this house to<lb/> comply with their propositions. I cannot say—as I<lb/> did in
+                proposing the repeal of the Test and Corpora-<lb/>tion Acts—"Here are some three
+                millions of Her<lb/> Majesty's subjects, engaged in all the pursuits of
+                in-<lb/>dustry in your cities and towns, forming a most im-<lb/>portant portion of
+                the community, and distinguished<lb/> for their loyalty to the house of
+                    <placeName>Hanover</placeName>, undevia-<lb/>tingly maintained ever since that
+                illustrious family<lb/> was seated on the throne of these realms." I can-<lb/>not,
+                like the great orator who introduced the ques-<lb/>tion of Catholic disabilities,
+                refer to the state of a<lb/> neighboring country as a potent motive to induce
+                the<lb/> house to remove the cause of discontent and dissat-<lb/>isfaction. I cannot
+                speak, as he did, of the indigna-<lb/>tion felt by a whole people at the deprivation
+                of their<lb/> rights; nor can I point to the dangers which would<lb/> menace the
+                peace and welfare of the country from<lb/> refusing the claim to relief. I can
+                employ none of<lb/> those arguments in favor of my proposition. I feel<lb/> that
+                this is a question which does not affect a very<lb/> large portion of the people of
+                this country, and does<lb/> not involve in its acceptance or rejection the
+                momen-<lb/>tous consequences which were justly apprehended on<lb/> former occasions.
+                I am prepared to argue this ques-<lb/>tion as one of principle, not of political
+                expediency—<lb/> as a question involving, indeed, the political liberties<lb/> of
+                the country, but involving them only as they con-<lb/>ern 30,000 or 40,000 people,
+                members of a commu-<lb/>nity which is not disposed, nor indeed able, if it<lb/> were
+                disposed, to excite clamor and tumult, to agi-<lb/>tate the country by means of
+                public meetings, or to<lb/> produce a social convulsion, if its demands should<lb/>
+                not be conceded. But, although I am unable to ap-<lb/>peal to the topics to which I
+                have referred, I must,<lb/> nevertheless, take the liberty of informing the
+                house<lb/> that there may be danger, not affecting the public<lb/> tranquility
+                indeed, but affecting the character and<lb/> dignity of the Legislature, if the
+                claims of our Jew-<lb/>ish fellow subjects continue longer to be refused. It<lb/>
+                may then be said that the Legislature is unwilling to<lb/> concede the claim of
+                religious liberty, that Parlia-<lb/>ment has never adopted those just principles of
+                equal-<lb/>ity which ought to be applied to all the subjects of<lb/> Her Majesty;
+                but that when the question regarded<lb/> vast bodies of men, important from their
+                numbers<lb/> and wealth, or threatening from their dissatisfaction<lb/> and
+                discontent, the Legislature yielded a reluctant<lb/> assent to their claims for the
+                sake of immediate<lb/> peace; and that when an opportunity presented itself<lb/> of
+                doing an act of justice without any danger, and<lb/> without inconvenience to public
+                interests, the Par-<lb/>liament acted on the principle of religious
+                perse-<lb/>cution, and was determined to show the world<lb/> that it was not from
+                any willingness to adopt en-<lb/>larged and liberal principles as the rule of
+                its<lb/> conduct that it had on former occasions yield-<lb/>ed to the petitions of
+                its fellow subjects.—<lb/> (Cheers.) I venture to say, that if such an opinion<lb/>
+                as that should become prevalent, it must have a<lb/> very injurious effect on the
+                character of this<lb/> house. There is, as I have before said, but little<lb/> risk
+                of danger to the public peace involved in the re-<lb/>jection or adoption of my
+                proposition. One danger<lb/> was pointed out as likely to arise from its
+                adoption,<lb/> many years ago, by my hon. friend who intends to<lb/> oppose me on
+                the present occasion, but he is not in a<lb/> position to repeat his warning now. In
+                    <date>1830</date> my<lb/> hon. friend took upon himself the character of a<lb/>
+                prophet, and said "You may depend upon it that if<lb/> you admit the Jews to civil
+                offices and seats in Par-<lb/>liament, it will follow that in less than seven
+                years<lb/> you will have a reform of Parliament." ("Hear,"<lb/> and laughter.) But,
+                without the admission of Jews<lb/> to Parliament, as the precursor of the so much
+                dread-<lb/>ed event, within two years of the time when my<lb/> hon. friend used
+                those words I have referred to the<lb/> reform of Parliament was effected. (Hear,
+                hear.)<lb/> Therefore, there is, at least, one danger which it<lb/> will be
+                unnecessary to take into consideration in dis-<lb/>cussing this question. ("Hear,"
+                and laughter.) I<lb/> place the question upon this simple, but I think,<lb/> solid
+                ground—that every Englishman is entitled to<lb/> the honors and advantages which the
+                British consti-<lb/>tution gives him. (Cheers.) I state further, that<lb/> religious
+                opinion of itself ought to be no disqualifica-<lb/>tion for the enjoyment of those
+                rights. (Renewed<lb/> cheers.) I found myself on a declaration in one of<lb/> the
+                statutes of the law of <placeName>England</placeName>—"It is the birth-<lb/>right of
+                the people to enjoy the privileges common to<lb/> all." I found myself on a
+                declaration made in the<lb/> House of Lords during the discussions on the
+                Con-<lb/>formity Bill,—"The Lords think that an English-<lb/>man cannot be reduced
+                to a more unhappy condition<lb/> than to be put by law under an incapacity of
+                serving<lb/> his prince and country; and therefore nothing but a<lb/> crime of the
+                most detestable nature ought to put him<lb/> under such a disability." I say, then,
+                that on this<lb/> ground, unless something shall be proved to disqual-<lb/>ify Jews,
+                they stand in the position of persons born<lb/> in this country, bearing all the
+                burdens which are<lb/> imposed on them, and ready to serve their prince<lb/> and
+                their country in any capacity in which they may<lb/> be called upon, and that,
+                therefore, they are entitled<lb/> to all the rights and privileges enjoyed by their
+                fel-<lb/>low-subjects. (Cheers.) I state this with confi-<lb/>dence, and I will not
+                attempt to ask your favor by<lb/> anything which I might urge in behalf of the
+                merits<lb/> of the Jews. I think this is not a matter of favor to-<lb/>ward the
+                Jews, but that, unless some strong ground<lb/> of disqualification be proved against
+                them, it is a<lb/> matter of right. (Cheers.) I, therefore, will not<lb/> urge that
+                even those who have opposed the claims of<lb/> the Jews have admitted their
+                peaceable conduct and<lb/> their moral character as subjects—that they are
+                gov-<lb/>erned by that moral law which is adopted by and is<lb/> binding on us—that
+                there are among them many per-<lb/>sons distinguished for eminent talents—that in
+                the<lb/> offices of which they have been admitted they have</p>
+        </body>
+    </text>
 </TEI>

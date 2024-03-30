@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE TEI [
-<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
-%teibase;
-<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
-%teiext;
-]>
-<TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 	<teiHeader>
+
 		<fileDesc>
 			<titleStmt>
 				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="unk">Leeser, Isaac ?</author>
+				<author accepted="yes" attested="yes" signature="unk">Leeser, Isaac ?</author>
 				<editor/>
 				<sponsor/>
 				<funder/>
@@ -54,7 +49,8 @@
 						<settlement>Philadelphia</settlement>
 						<institution/>
 						<repository>LSKAP</repository>
-						<collection>The Arnold and Deanne Kaplan Collection of Early American Judaica</collection>
+						<collection>The Arnold and Deanne Kaplan Collection of Early American
+							Judaica</collection>
 						<idno>LSKAP_NC-6</idno>
 						<altIdentifier>
 							<idno/>
@@ -63,9 +59,9 @@
 					</msIdentifier>
 					<head/>
 					<letHeading>
-						<author attested="yes" accepted="yes" signature="unk">Leeser, Isaac
+						<author accepted="yes" attested="yes" signature="unk">Leeser, Isaac
 							?</author>
-						<addressee editor="false" attested="yes" accepted="yes"/>
+						<addressee accepted="yes" attested="yes" editor="false"/>
 						<deliverer/>
 						<respStmt>
 							<resp/>
@@ -73,8 +69,8 @@
 						</respStmt>
 						<placeLet/>
 						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1861-10" source="" attested="yes">October 1861</dateLet>
-						<dateLet when="1861-10" source="" attested="yes">13 Heshvan</dateLet>
+						<dateLet attested="yes" source="" when="1861-10">October 1861</dateLet>
+						<dateLet attested="yes" source="" when="1861-10">13 Heshvan</dateLet>
 					</letHeading>
 					<msContents>
 						<msItem>
@@ -106,8 +102,8 @@
 						<objectDesc>
 							<supportDesc>
 								<support>
-									<material color="" lined="false" paper_type="" size="">letter</material>letter
-								</support>
+									<material color="" lined="false" paper_type="" size=""
+										>letter</material>letter </support>
 								<extent>6 pages on 6 sheets <dimensions/>
 								</extent>
 								<foliation/>
@@ -249,81 +245,75 @@
 	<text>
 		<body>
 			<pb n="1"/>
-			<p>&#40;Hebrew&#41;</p>
-			<p>Peace and blessing from the God of the Universe<lb/> for our master and teacher&#44;
-				the candle of<lb/>
-				<placeName>Israel</placeName>&#44; the glory of his generation and its<lb/>
-				beauty&#44; the great <persName>Gaon</persName>&#44; the truthful<lb/> searcher&#44;
-				who reveals <del>wh</del> the depths of the<lb/> Torah and of wisdom&#44; his honor
-				and his glory&#44;<lb/>
-				<persName>Rabbi Shlomo Judah Leib Rap<del>p</del>oport</persName>&#44; a<lb/> priest
-				to the high God&#44; may his light continue<lb/> to burn with shining
-				brightness&#44; Chief Rabbi of<lb/> the community of <placeName>Prague</placeName>
-				and its district.</p>
-			<p>&#1513; May the kindly God increase the years of<lb/> your life</p>
-			<p>&#1500; To the Jews may you continue to be a<lb/> light&#44; till the moon is no
-				more</p>
-			<p>&#1502; May the source of your wisdom drip<lb/> down like the gentle rain from
-				heaven</p>
-			<p>&#1492; Be a blessing forever&#44; revealer of<lb/> the hidden&#33;</p>
+			<p>(Hebrew)</p>
+			<p>Peace and blessing from the God of the Universe<lb/> for our master and teacher, the
+				candle of<lb/>
+				<placeName>Israel</placeName>, the glory of his generation and its<lb/> beauty, the
+				great <persName>Gaon</persName>, the truthful<lb/> searcher, who reveals
+					<del>wh</del> the depths of the<lb/> Torah and of wisdom, his honor and his glory,<lb/>
+				<persName>Rabbi Shlomo Judah Leib Rap<del>p</del>oport</persName>, a<lb/> priest to
+				the high God, may his light continue<lb/> to burn with shining brightness, Chief
+				Rabbi of<lb/> the community of <placeName>Prague</placeName> and its district.</p>
+			<p>ש May the kindly God increase the years of<lb/> your life</p>
+			<p>ל To the Jews may you continue to be a<lb/> light, till the moon is no more</p>
+			<p>מ May the source of your wisdom drip<lb/> down like the gentle rain from heaven</p>
+			<p>ה Be a blessing forever, revealer of<lb/> the hidden!</p>
 			<p>The acrostic spells <hi rend="underline"><persName>Solomon</persName></hi>.</p>
 			<pb n="2"/>
 			<p>How glorious is the day when the honored<lb/> men of <placeName>Israel</placeName>
 				appear before your glory each<lb/> with <del>the</del> his gift in his hand. The day
-				you attained<lb/> a ripe old age&#44; when you reached the age of<lb/> seventy. The
-				heart of all <placeName>Israel</placeName> murmurs<lb/> a prayer to God&#44; to
-				renew your youth like<lb/> the eagle&#44; that you may continue to be for<lb/> many
-				years a prop to the house of <persName>Judah</persName><lb/> and a tower of strength
-				to the wisdom of<lb/>
+				you attained<lb/> a ripe old age, when you reached the age of<lb/> seventy. The
+				heart of all <placeName>Israel</placeName> murmurs<lb/> a prayer to God, to renew
+				your youth like<lb/> the eagle, that you may continue to be for<lb/> many years a
+				prop to the house of <persName>Judah</persName><lb/> and a tower of strength to the
+				wisdom of<lb/>
 				<placeName>Jeshurun</placeName>. Pure as the heavens have your<lb/> years been to
 				this day. Like shining stars<lb/> you have shed light upon all the borders<lb/> of
-					<placeName>Israel</placeName>. You first began to show to every&#45;<lb/>one the
+					<placeName>Israel</placeName>. You first began to show to every-<lb/>one the
 				strong hand of the ancient sages of<lb/>
-				<placeName>Israel</placeName>. You were the first to remove from<lb/> our
-				people&#39;s sages&#44; the shame cast upon<lb/> them by their traducers&#44; when
-				you revealed<lb/> to us and to the gentiles which way<lb/> to find the light which
-				dwelt in an&#45;<lb/>cient palaces and the hoary halls of<lb/>
+				<placeName>Israel</placeName>. You were the first to remove from<lb/> our people's
+				sages, the shame cast upon<lb/> them by their traducers, when you revealed<lb/> to
+				us and to the gentiles which way<lb/> to find the light which dwelt in an-<lb/>cient
+				palaces and the hoary halls of<lb/>
 				<placeName>Israel</placeName>. The spirit of investigation which<lb/> you have
 				chosen <del>was like a</del> combed out<lb/> the mountains of folly and
 				religious</p>
 			<pb n="3"/>
-			<p>hatred&#44; and broke the rocks of foolish&#45;<lb/>ness. The fruits of your wisdom
-				have<lb/> become ripe and risen like a flowering<lb/> tree&#44; over investigations
-				of times past&#44; and<lb/> have become like an enclosing vine which
-					<del>clothes</del> rejoices<lb/> God and man <del>who</del> in its vineyard of
-				beauty.<lb/> You have accomplished much good for the<lb/> house of
-					<persName>Jacob</persName> from that day to this. There&#45;<lb/>fore when
-					<placeName>Israel</placeName> heard this news <del>it said</del><lb/> announcing
-				that God had blessed you&#44; our master&#44;<lb/> and gave you life and strength to
-				this day&#44; for<lb/> your seventieth year&#44; they all hurried to<lb/> bring to
-				you their blessing&#44; so that&#44; from<lb/> the ends of the earth&#44; their song
-				is heard<lb/> and thanksgiving and praise to God for<lb/> having granted you life
-				till now. All<lb/> the lovers of the wisdom of <placeName>Israel</placeName>&#44;
-				like one<lb/> man&#44; express their thanks and their<lb/> praise in your honor&#44;
-				for all the <hi rend="underline">good</hi><lb/> which you have done for our
-				brothers&#44;<lb/> the children of <placeName>Israel</placeName> in general.</p>
+			<p>hatred, and broke the rocks of foolish-<lb/>ness. The fruits of your wisdom have<lb/>
+				become ripe and risen like a flowering<lb/> tree, over investigations of times past,
+				and<lb/> have become like an enclosing vine which <del>clothes</del> rejoices<lb/>
+				God and man <del>who</del> in its vineyard of beauty.<lb/> You have accomplished
+				much good for the<lb/> house of <persName>Jacob</persName> from that day to this.
+				There-<lb/>fore when <placeName>Israel</placeName> heard this news <del>it
+					said</del><lb/> announcing that God had blessed you, our master,<lb/> and gave
+				you life and strength to this day, for<lb/> your seventieth year, they all hurried
+				to<lb/> bring to you their blessing, so that, from<lb/> the ends of the earth, their
+				song is heard<lb/> and thanksgiving and praise to God for<lb/> having granted you
+				life till now. All<lb/> the lovers of the wisdom of <placeName>Israel</placeName>,
+				like one<lb/> man, express their thanks and their<lb/> praise in your honor, for all
+				the <hi rend="underline">good</hi><lb/> which you have done for our brothers,<lb/>
+				the children of <placeName>Israel</placeName> in general.</p>
 			<p rend="indent(1)">With <del>some</del> a cry of joy they call<lb/> before you</p>
 			<pb n="4"/>
 			<p>long live the <persName>King Solomon</persName><lb/> And may his Kingdom be
-				established<lb/> forever&#44;<lb/> And let his priestly service continue<lb/> in its
+				established<lb/> forever,<lb/> And let his priestly service continue<lb/> in its
 				peaceful way forever.</p>
 			<p>The wide sea which separates the old world<lb/> from the new has not separated
-				the<lb/> hearts of an Israelite&#44; from his brethren.<lb/> Our ear&#44; too&#44;
-				recognizes the value of<lb/> your words. <hi rend="underline">We</hi>&#44; too&#44;
-				claim our share of<lb/> their glory. For our head also are you a<lb/> crown.
-				American Israel&#44; too&#44; is proud<lb/> of you.</p>
-			<p>And shall we have nothing in our hand&#44;<lb/> now that the Israelites who live in
+				the<lb/> hearts of an Israelite, from his brethren.<lb/> Our ear, too, recognizes
+				the value of<lb/> your words. <hi rend="underline">We</hi>, too, claim our share
+				of<lb/> their glory. For our head also are you a<lb/> crown. American Israel, too,
+				is proud<lb/> of you.</p>
+			<p>And shall we have nothing in our hand,<lb/> now that the Israelites who live in
 					<placeName>Europe</placeName><lb/> come forward to greet you with blessings<lb/>
-				and praises&#63; Shall we be the last to<lb/> greet your honored countenance
-				and<lb/> bless you in the midst of the throng<lb/> of your admirers. One thing we
-				know<lb/> for certain&#44; that we are incapable<lb/> of bringing to you a greeting
-				be&#45;</p>
+				and praises? Shall we be the last to<lb/> greet your honored countenance and<lb/>
+				bless you in the midst of the throng<lb/> of your admirers. One thing we know<lb/>
+				for certain, that we are incapable<lb/> of bringing to you a greeting be-</p>
 			<pb n="5"/>
-			<p>fitting your glory. There is no in&#45;<lb/>terpreter in our midst who could<lb/>
-				express the feelings of our heart.<lb/> But let not the greeting of an ordinary<lb/>
-				man to light in your eyes. Listen to<lb/> us&#44; for from the depths of our
-				hearts<lb/> we speak to you.</p>
-			<p rend="indent(1)">May God renew your youth&#59;</p>
+			<p>fitting your glory. There is no in-<lb/>terpreter in our midst who could<lb/> express
+				the feelings of our heart.<lb/> But let not the greeting of an ordinary<lb/> man to
+				light in your eyes. Listen to<lb/> us, for from the depths of our hearts<lb/> we
+				speak to you.</p>
+			<p rend="indent(1)">May God renew your youth;</p>
 			<p rend="indent(1)">righteous priest</p>
 			<p rend="indent(1)">That your days may increase and</p>
 			<p rend="indent(1)">your wisdom be multiplied</p>
@@ -331,21 +321,22 @@
 			<p rend="indent(1)">To strengthen all that is just</p>
 			<p rend="indent(1)">That you have been always and</p>
 			<p rend="indent(1)">that you will be all your days.</p>
-			<p>Receive&#44; o master&#44; our unworthy greeting&#44;<lb/> which comes from the
-				deepest recesses of<lb/> our heart&#44; and when you cast your eyes<lb/> upon the
-				gifts brought to you from<lb/>
-				<placeName>North</placeName>&#44; <placeName>South</placeName>&#44; and
-					<placeName>East</placeName> be good<lb/> enough to remember us&#44; your
-				servants&#44;</p>
+			<p>Receive, o master, our unworthy greeting,<lb/> which comes from the deepest recesses
+				of<lb/> our heart, and when you cast your eyes<lb/> upon the gifts brought to you from<lb/>
+				<placeName>North</placeName>, <placeName>South</placeName>, and
+					<placeName>East</placeName> be good<lb/> enough to remember us, your
+				servants,</p>
 			<pb n="6"/>
-			<p>who dwell across the seas in the<lb/> land of the setting sun&#44; who bow<lb/> from
-				a distance in your honor.</p>
-			<p><date>Wednesday<lb/> 13<hi rend="sup">th</hi> of Heshvan<lb/> &#40;October&#41;&#44;
-					1861</date></p>
-			<p rend="align(right)">Probably in <persName role="author">Leeser&#39;s</persName> own hand.</p>
+			<p>who dwell across the seas in the<lb/> land of the setting sun, who bow<lb/> from a
+				distance in your honor.</p>
+			<p>
+				<date>Wednesday<lb/> 13<hi rend="sup">th</hi> of Heshvan<lb/> (October), 1861</date>
+			</p>
+			<p rend="align(right)">Probably in <persName role="author">Leeser's</persName> own
+				hand.</p>
 			<p rend="align(right)">Must have been included in the</p>
-			<p rend="align(right)">current issue of the &#34;Occident.&#34;</p>
-			<p rend="align(right)">For <persName>Rapoport</persName>&#44; see Jewish Encyclo&#45;</p>
+			<p rend="align(right)">current issue of the "Occident."</p>
+			<p rend="align(right)">For <persName>Rapoport</persName>, see Jewish Encyclo-</p>
 			<p rend="align(right)">pedia.</p>
 		</body>
 	</text>

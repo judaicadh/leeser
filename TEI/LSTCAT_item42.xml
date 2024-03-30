@@ -1,265 +1,325 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="yes">Leo, Ansel</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>TCAT</repository>
-						<collection>Anonymous</collection>
-						<idno>LSTCAT_item42</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="yes">Leo, Ansel</author>
-						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac</addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>New York, NY</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1848-02" source="" attested="yes">16 February 1848</dateLet>
-						<dateLet when="1848-02" source="" attested="yes">5608</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="il_tcat_item42_wk1_body0001.jpg"></graphic>
-								<graphic url="il_tcat_item42_wk1_body0002.jpg"></graphic>
-								<graphic url="il_tcat_item42_wk1_body0003.jpg"></graphic>
-								<graphic url="il_tcat_item42_wk1_body0004.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="false" paper_type="" size="">letter</material>
-								</support>
-								<extent>4 pages on 4 sheets
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="manuscript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="free">
-								<p>Unrestricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1"/>
-				<p rend="align(right)"><placeName>New <sic>york</sic> 134 Elm St</placeName></p>
-				<p rend="align(right)"><date>Feby 16<hi rend="sup">th</hi> 5608</date></p>
-				<p>Dear Sir&#47;</p>
-			<p rend="indent(1)">I have been so much engaged since<lb/> the rect of yours dated <date>9<hi rend="sup">th</hi> Feby</date> that I could not find<lb/> time to reply thereto <sic>untill</sic> this moment&#8212;The<lb/> commencement of your Letter gave me much pain<lb/> as it was far&#44; very far from my thoughts when I wrote<lb/> to you concerning the B. H. B Society&#8212;to wound your<lb/> feelings in the slightest degree&#8212;all that I wished<lb/> to know from you was whether the article that you<lb/> inserted in your Periodical was an official one&#8212;and<lb/> whether the party who sent it had omitted part of the<lb/> minutes ignorantly which would have been likely enough<lb/> if it had been conveyed to you from a private source<lb/> Rest assured my dear sir I have too high an opinion of<lb/> you to suppose for one moment that you yourself &#40;to use<lb/> your own words&#41; would be guilty of such meanness as<lb/> to insert only a part of the minutes&#8212;</p>
-				<p>I will as briefly as possible give you my reasons for asking<lb/> you for the information&#8212;when the B. H. B. Society was<lb/> first instituted&#44; a resolution was passed &#40;at least so I am<lb/> informed&#41; electing all the <add>Hebrew</add> in <placeName>New York</placeName> Honorary Members<lb/> and Letters were sent accordingly informing us of such<lb/> resolution &#38;c &#38;c The one I received was &#8220;word for word&#8221; the<lb/> same as yours&#8212;I felt that an honorary membership<lb/> would not be of any value to a charitable Institution<lb/> and in my reply to their Letter I told them so at the same<lb/> time requesting them to admit me as a pay member.  I received <del>another</del> a Letter in answer accepting me as a<lb/> subscriber with sundry compliments &#38;c &#38;c&#8212;<lb/> Now my dear sir judge my surprise on reading the<lb/> extract of the minutes in the &#8220;Occident&#8221;</p>
-			<pb n="2"/>
-				<p>and I ask you whether it is not an insult<lb/> to my Brother <add>Hebrew</add> as well as to myself<lb/> to see a partial statement of the minutes<lb/> published making it appear &#40;if officially sent&#41;<lb/> that <persName>Mr Isaacs</persName> is the only <add>Hebrew</add> that <del>that</del> the<lb/> B. H. B. Society think worthy of their notice&#8212;<lb/> for my own part I read it in this way that it<lb/> was another link added to the chain of  &#8220;quack<lb/> advertisements&#8221; that you had innocently inserted<lb/> in your paper to land a particular person and<lb/> his patrons&#8212;or maybe it was or is intended to be<lb/> the commencement of a new series&#8212;</p>
-				<p>It is supposed that either <persName>Mr Godfrey</persName> or <persName>Mr Isaacs</persName><lb/> or both together sent you the particulars&#8212;whoever<lb/> the party may be they have incurred the censure<lb/> of the committee in consequence at least so <del>one</del> I am<lb/> informed by one of the managers&#8212;</p>
-				<p>You will probably receive a new notice &#8220;from the Board<lb/> what it may be I know not there is however only one<lb/> course open to them that will satisfy me&#8212;and that<lb/> is to publish in your work.  That the 1<hi rend="sup">st</hi> article sent<lb/> was without the sanction of their Board&#8212;that it<lb/> was a false statement giving the reason why &#38;c</p>
-				<p>You entirely mistake me if you think I wish to<lb/> appear in print in this matter in the shape of<lb/> puffery&#8212;I therefore do not comply with your<lb/> well meaning request viz to send you my Letters<lb/> for insertion&#8212;In respect to the &#8220;Occident&#8221;<lb/> a work of inestimable value in my eyes I would<lb/> I had the power of increasing its circulation&#44; but the<lb/> majority of my congregation are opposed to it and were<lb/> so when I arrived in <placeName><sic>america</sic></placeName> owing I believe to the</p>
-			<pb n="3"/>
-				<p>numerous articles that have been inserted therein complimentary<lb/> to <persName>Mr Isaacs</persName> whom they despise&#8212;and this last<lb/> article is not likely to diminish the prejudice&#8212;</p>
-				<p>I regret exceedingly that you did not publish<lb/> the communications relative to the Ladies singing<lb/> but nevertheless I sincerely believe you<lb/> suppressed them with the purest motives</p>
-				<p>I have not as yet informed the Ball Committee<lb/> of the Donation &#38; Tickets but I will attend to<lb/> it either to day or to morrow</p>
-			<p rend="indent(2)">I am my dear sir</p>
-			<p rend="indent(2)">your faithful Friend</p>
-			<p rend="indent(2)"><persName role="author">Ansel Leo</persName></p>
-				<p>To <addressee>Revd I. Leeser</addressee></p>
-			<p rend="indent(1)">&#38;c &#38;c</p>
-			<pb n="4"/>
-			<p rend="indent(1)"><addressee>Revd Isaac Leeser</addressee></p>
-			<p rend="indent(2)">&#38;c &#38;c <placeName>Philadelphia</placeName></p>
-				<p><placeName>371 Walnut St</placeName></p>
-		</body>
-	</text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="yes">Leo, Ansel</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>TCAT</repository>
+                        <collection>Anonymous</collection>
+                        <idno>LSTCAT_item42</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="yes">Leo, Ansel</author>
+                        <addressee accepted="yes" attested="yes" editor="false">Leeser,
+                            Isaac</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>New York, NY</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1848-02">16 February 1848</dateLet>
+                        <dateLet attested="yes" source="" when="1848-02">5608</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="il_tcat_item42_wk1_body0001.jpg"/>
+                                <graphic url="il_tcat_item42_wk1_body0002.jpg"/>
+                                <graphic url="il_tcat_item42_wk1_body0003.jpg"/>
+                                <graphic url="il_tcat_item42_wk1_body0004.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >letter</material>
+                                </support>
+                                <extent>4 pages on 4 sheets <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <p rend="align(right)">
+                <placeName>New <sic>york</sic> 134 Elm St</placeName>
+            </p>
+            <p rend="align(right)">
+                <date>Feby 16<hi rend="sup">th</hi> 5608</date>
+            </p>
+            <p>Dear Sir/</p>
+            <p rend="indent(1)">I have been so much engaged since<lb/> the rect of yours dated
+                        <date>9<hi rend="sup">th</hi> Feby</date> that I could not find<lb/> time to
+                reply thereto <sic>untill</sic> this moment—The<lb/> commencement of your Letter
+                gave me much pain<lb/> as it was far, very far from my thoughts when I wrote<lb/> to
+                you concerning the B. H. B Society—to wound your<lb/> feelings in the slightest
+                degree—all that I wished<lb/> to know from you was whether the article that you<lb/>
+                inserted in your Periodical was an official one—and<lb/> whether the party who sent
+                it had omitted part of the<lb/> minutes ignorantly which would have been likely
+                enough<lb/> if it had been conveyed to you from a private source<lb/> Rest assured
+                my dear sir I have too high an opinion of<lb/> you to suppose for one moment that
+                you yourself (to use<lb/> your own words) would be guilty of such meanness as<lb/>
+                to insert only a part of the minutes—</p>
+            <p>I will as briefly as possible give you my reasons for asking<lb/> you for the
+                information—when the B. H. B. Society was<lb/> first instituted, a resolution was
+                passed (at least so I am<lb/> informed) electing all the <add>חזנים</add> in
+                    <placeName>New York</placeName> Honorary Members<lb/> and Letters were sent
+                accordingly informing us of such<lb/> resolution &amp;c &amp;c The one I received
+                was “word for word” the<lb/> same as yours—I felt that an honorary membership<lb/>
+                would not be of any value to a charitable Institution<lb/> and in my reply to their
+                Letter I told them so at the same<lb/> time requesting them to admit me as a pay
+                member. I received <del>another</del> a Letter in answer accepting me as a<lb/>
+                subscriber with sundry compliments &amp;c &amp;c—<lb/> Now my dear sir judge my
+                surprise on reading the<lb/> extract of the minutes in the “Occident”</p>
+            <pb n="2"/>
+            <p>and I ask you whether it is not an insult<lb/> to my Brother <add>חזנים</add> as well
+                as to myself<lb/> to see a partial statement of the minutes<lb/> published making it
+                appear (if officially sent)<lb/> that <persName>Mr Isaacs</persName> is the only
+                    <add>חזן</add> that <del>that</del> the<lb/> B. H. B. Society think worthy of
+                their notice—<lb/> for my own part I read it in this way that it<lb/> was another
+                link added to the chain of “quack<lb/> advertisements” that you had innocently
+                inserted<lb/> in your paper to land a particular person and<lb/> his patrons—or
+                maybe it was or is intended to be<lb/> the commencement of a new series—</p>
+            <p>It is supposed that either <persName>Mr Godfrey</persName> or <persName>Mr
+                    Isaacs</persName><lb/> or both together sent you the particulars—whoever<lb/>
+                the party may be they have incurred the censure<lb/> of the committee in consequence
+                at least so <del>one</del> I am<lb/> informed by one of the managers—</p>
+            <p>You will probably receive a new notice “from the Board<lb/> what it may be I know not
+                there is however only one<lb/> course open to them that will satisfy me—and
+                that<lb/> is to publish in your work. That the 1<hi rend="sup">st</hi> article
+                sent<lb/> was without the sanction of their Board—that it<lb/> was a false statement
+                giving the reason why &amp;c</p>
+            <p>You entirely mistake me if you think I wish to<lb/> appear in print in this matter in
+                the shape of<lb/> puffery—I therefore do not comply with your<lb/> well meaning
+                request viz to send you my Letters<lb/> for insertion—In respect to the
+                “Occident”<lb/> a work of inestimable value in my eyes I would<lb/> I had the power
+                of increasing its circulation, but the<lb/> majority of my congregation are opposed
+                to it and were<lb/> so when I arrived in <placeName><sic>america</sic></placeName>
+                owing I believe to the</p>
+            <pb n="3"/>
+            <p>numerous articles that have been inserted therein complimentary<lb/> to <persName>Mr
+                    Isaacs</persName> whom they despise—and this last<lb/> article is not likely to
+                diminish the prejudice—</p>
+            <p>I regret exceedingly that you did not publish<lb/> the communications relative to the
+                Ladies singing<lb/> but nevertheless I sincerely believe you<lb/> suppressed them
+                with the purest motives</p>
+            <p>I have not as yet informed the Ball Committee<lb/> of the Donation &amp; Tickets but
+                I will attend to<lb/> it either to day or to morrow</p>
+            <p rend="indent(2)">I am my dear sir</p>
+            <p rend="indent(2)">your faithful Friend</p>
+            <p rend="indent(2)">
+                <persName role="author">Ansel Leo</persName>
+            </p>
+            <p>To <addressee>Revd I. Leeser</addressee></p>
+            <p rend="indent(1)">&amp;c &amp;c</p>
+            <pb n="4"/>
+            <p rend="indent(1)">
+                <addressee>Revd Isaac Leeser</addressee>
+            </p>
+            <p rend="indent(2)">&amp;c &amp;c <placeName>Philadelphia</placeName></p>
+            <p>
+                <placeName>371 Walnut St</placeName>
+            </p>
+        </body>
+    </text>
 </TEI>

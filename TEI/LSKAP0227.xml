@@ -1,258 +1,352 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="yes">Abrams, I. P.; Hart, Isaac</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>LSKAP</repository>
-						<collection>The Arnold and Deanne Kaplan Collection of Early American Judaica</collection>
-						<idno>LSKAP0227</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="yes">Abrams, I. P.; Hart, Isaac</author>
-						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac</addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>New Orleans, LA</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1856-11" source="" attested="yes">November 26, 1856</dateLet>
-						<dateLet when="1856-11" source="" attested="yes">5617</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="LSKAP0227_1r.jpg"></graphic>
-								<graphic url="LSKAP0227_1v.jpg"></graphic>
-								<graphic url="LSKAP0227_2r.jpg"></graphic>
-								<graphic url="LSKAP0227_2v.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="true" paper_type="" size="">letter</material>
-								</support>
-								<extent>4 pages on 2 sheets
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="manuscript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="restricted">
-								<p>Restricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1R"/>
-			<p rend="indent(9)"><placeName>New Orleans</placeName> <date>Novb 26<hi rend="sup">th</hi> 1856 &#40;5617&#41;</date></p>
-				<p><addressee>Revd Isaac Leeser</addressee></p>
-			<p rend="indent(2)"><placeName>Phila</placeName></p>
-			<p rend="indent(9)">Dear friend</p>
-				<p>I avail myself of the first leisure moment to devote it<lb/> to you  Your long &#38; I may add painful Letter dated<lb/> the <date>4th</date> inst came duly to hand  I say painful for it<lb/> is to me to notice from your remarks that after<lb/> so many years as you have laboured in the Jewish<lb/> Cause our people do not appreciate your worth<lb/> if they do they take a strange way of showing it.  <persName>Mr<lb/> Jonas</persName> sent me a number of plain &#38; Gilt Bibles &#38; I have<lb/> only disposed of one &#40;&#36;2.00&#41;  Your offer to issue a weekly<lb/> paper &#38; not a simple prospect is returned to you.  this<lb/> is under cause for your serious reflection &#38; I sincerely<lb/> trust &#38; hope you will be induced to enter the  Ministry<lb/> again by your friends in <placeName>Phild.</placeName> offering you every inducement<lb/> to do so.  See what time I have had your Books<lb/> on hand &#38; fearing the Dampness of the climate might<lb/> ruin them was the cause of my selling a sett to <persName>Mr<lb/> Kursheedt</persName> for &#36;20.00. but thus far he has failed to pay<lb/> for them.  I want you to write a feeling letter to<lb/> <persName>John M Bach</persName> requesting him to pay his dues<lb/> to the Occident  He is well off &#38; your request<lb/> may have more effect than my frequent solicitation<lb/> tell him your situation burnt out &#38;c &#38; send Bill<lb/> at same time&#44; I should be sorry to see you retire from<lb/> the field of Literature nothing would be more pleasing<lb/> to your Enemies but still with no limited encouragement</p>
-			<pb n="1V"/>
-				<p>it would with disgust drive 99 our of 100 to the determination not<lb/> to cater any longer for our people.  You must <add>not</add> blame<lb/> all for I know many that would willingly become<lb/> subscribers to your <placeName>New York</placeName> but they are<lb/> so heavily taxed to support our various Institutions<lb/> besides being Members of other associations that<lb/> they &#40;say&#41; cannot afford to increase their expenses<lb/> Its useless to refer back to what is past but I<lb/> cannot refrain from here alluding to the advice I<lb/> gave you some few years since to give your reading<lb/> lighter matter  stories &#8220;to be continued&#8221; &#38;c.  You<lb/> are no longer in the era of years ago &#38; must<lb/> conform to what makes man act contra to his<lb/> sober &#38; better calculations.  Ask your subscription<lb/> List of the Occident on how many of our Sincerely Religious<lb/> Jews it depends on to support the Occident.  Hence<lb/> the necessity of dropping so much Heavy matter<lb/> which I will candidly tell you I never read<lb/> nor do I believe any other Individual in<lb/> this City.  what then is to induce new subscribers<lb/> or to retain the present ones now <persName>Leeser</persName> this I<lb/> tell you.  The Advocate <hi rend="underline">must appear</hi> &#38; take<lb/> my advice unless you intend to Drop the Co<add>&#63;</add>nomer<lb/> of Editor.  You must drop the Occident<lb/> &#38; in its stead send the Advocate to every<lb/> Subscriber start not at my proposition<lb/> your Enemies can yet be outflanked if you will<lb/> go to work right give us the Advocate &#38;<lb/> in it if possible a sheet in the German<lb/> Language &#38; I will stake my Existence on<lb/> your Subscription list soon <sic>equalling</sic> your best</p>
-			<pb n="2R"/>
-				<p>should you conclude to publish the Advocate I wish<lb/> to send you a list of many in the Country&#8212;to send<lb/> the first number to&#44; I have read the two first numbers<lb/> of the Voice of Israel published by <persName>Revd Mr Bien<add>&#63;</add></persName> &#38;<lb/> <persName>Henr Labatt</persName> at <placeName>San Francisco</placeName>.  Have you hear<lb/> favoured with the same.  Since you first started a Jewish<lb/> Periodical how many has allowed&#59; Our Home for<lb/> Jewish Widows &#38; Orphans is steadily increasing in its<lb/> number of Inmates &#38; if they increase so <sic>rappidly</sic><lb/> in a short period additional Buildings will be<lb/> required.  I presume the Anniversary will be<lb/> the <date>8th January&#47;57</date> being the day of its Dedication<lb/> We give no Dinner but with an oration &#40;I presume<lb/> <persName>Gerthom<add>&#63;</add></persName>&#41; &#38; a light repast shall pass the day with<lb/> the Widows and Orphans&#44;.  I have no other news to write<lb/> &#8220;local&#8221; I feel proud of the Board Elected<lb/> by the <sic>Pourtugese</sic> Congregation.  <persName>Mr Jonas</persName><lb/> attending the school &#38; no doubt with the other<lb/> officers will do all they can for the Interest<lb/> of the Institution to show you how they appreciate<lb/> <persName>Gutheim<add>&#63;</add></persName>.  The Congregation have just increased<lb/> my Salary from &#36;2000 to &#36;2400 a year with<lb/> the Letter informing him of this fact the same time<lb/> a Letter of approval of his Course during the<lb/> period they have had him with them the letter<lb/> concludes &#8220;Wishing you Recd. In long life &#38;<lb/> Happiness I am further instructed to inform<lb/> you that the Board of Officers are instructed<lb/> to furnish you with what means you may<lb/> require to furnish your House now completed<lb/> &#38; ready for your occupancy  Signed</p>
-			<p rend="indent(3)"><persName role="author">I P Abrams</persName></p>
-			<p rend="indent(4)">Treasurer</p>
-				<p rend="The following is written in pencil at the bottom of the page."><date>11&#45;26&#45;1856</date> E</p>
-			<pb n="2V"/>
-				<p>I may not give you the exact words for the substance<lb/> as I hurried to read over them.  I need not tell you<lb/> our worthy friend <persName>Gutheim</persName> is highly pleased &#38; deservedly<lb/> so&#59; for he is a fine young man &#38; we all love<lb/> him.  The <persName>Rev Mr Seine</persName> is a candidate for<lb/> Reelection but I shall not vote for him<lb/> He is not the man I like for a Minister<lb/> If <persName>Mr a Block</persName> wishes a copy of <persName>Dias&#39;s</persName><lb/> Letters He knows where I am &#38; so excuse<lb/> me I will not send it to Him<lb/> I cannot &#38; will not humour <sic>there</sic> <sic>pople</sic><lb/> &#40;you mean <persName>Mr a Block</persName> in this city do you not&#41;&#8212;<lb/> well I must close my time is so occupied<lb/> as to prevent my writing to any but yourself<lb/> in private matters so excuse my hurried<lb/> scrawl.  <sic>Beleive</sic> me <persName>Leeser</persName> your<lb/> ever devoted friend</p>
-			<p rend="indent(2)"><persName role="author">Isaac Hart</persName></p>
-				<p><persName>Miss Hart</persName> &#38; family I am in Love</p>
-		</body>
-	</text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="yes">Abrams, I. P.; Hart,
+                    Isaac</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>LSKAP</repository>
+                        <collection>The Arnold and Deanne Kaplan Collection of Early American
+                            Judaica</collection>
+                        <idno>LSKAP0227</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="yes">Abrams, I. P.; Hart,
+                            Isaac</author>
+                        <addressee accepted="yes" attested="yes" editor="false">Leeser,
+                            Isaac</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>New Orleans, LA</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1856-11">November 26, 1856</dateLet>
+                        <dateLet attested="yes" source="" when="1856-11">5617</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="LSKAP0227_1r.jpg"/>
+                                <graphic url="LSKAP0227_1v.jpg"/>
+                                <graphic url="LSKAP0227_2r.jpg"/>
+                                <graphic url="LSKAP0227_2v.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="true" paper_type="" size=""
+                                        >letter</material>
+                                </support>
+                                <extent>4 pages on 2 sheets <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="restricted">
+                                <p>Restricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1R"/>
+            <p rend="indent(9)">
+                <placeName>New Orleans</placeName>
+                <date>Novb 26<hi rend="sup">th</hi> 1856 (5617)</date>
+            </p>
+            <p>
+                <addressee>Revd Isaac Leeser</addressee>
+            </p>
+            <p rend="indent(2)">
+                <placeName>Phila</placeName>
+            </p>
+            <p rend="indent(9)">Dear friend</p>
+            <p>I avail myself of the first leisure moment to devote it<lb/> to you Your long &amp; I
+                may add painful Letter dated<lb/> the <date>4th</date> inst came duly to hand I say
+                painful for it<lb/> is to me to notice from your remarks that after<lb/> so many
+                years as you have laboured in the Jewish<lb/> Cause our people do not appreciate
+                your worth<lb/> if they do they take a strange way of showing it. <persName>Mr<lb/>
+                    Jonas</persName> sent me a number of plain &amp; Gilt Bibles &amp; I have<lb/>
+                only disposed of one ($2.00) Your offer to issue a weekly<lb/> paper &amp; not a
+                simple prospect is returned to you. this<lb/> is under cause for your serious
+                reflection &amp; I sincerely<lb/> trust &amp; hope you will be induced to enter the
+                Ministry<lb/> again by your friends in <placeName>Phild.</placeName> offering you
+                every inducement<lb/> to do so. See what time I have had your Books<lb/> on hand
+                &amp; fearing the Dampness of the climate might<lb/> ruin them was the cause of my
+                selling a sett to <persName>Mr<lb/> Kursheedt</persName> for $20.00. but thus far he
+                has failed to pay<lb/> for them. I want you to write a feeling letter to<lb/>
+                <persName>John M Bach</persName> requesting him to pay his dues<lb/> to the Occident
+                He is well off &amp; your request<lb/> may have more effect than my frequent
+                solicitation<lb/> tell him your situation burnt out &amp;c &amp; send Bill<lb/> at
+                same time, I should be sorry to see you retire from<lb/> the field of Literature
+                nothing would be more pleasing<lb/> to your Enemies but still with no limited
+                encouragement</p>
+            <pb n="1V"/>
+            <p>it would with disgust drive 99 our of 100 to the determination not<lb/> to cater any
+                longer for our people. You must <add>not</add> blame<lb/> all for I know many that
+                would willingly become<lb/> subscribers to your <placeName>New York</placeName> but
+                they are<lb/> so heavily taxed to support our various Institutions<lb/> besides
+                being Members of other associations that<lb/> they (say) cannot afford to increase
+                their expenses<lb/> Its useless to refer back to what is past but I<lb/> cannot
+                refrain from here alluding to the advice I<lb/> gave you some few years since to
+                give your reading<lb/> lighter matter stories “to be continued” &amp;c. You<lb/> are
+                no longer in the era of years ago &amp; must<lb/> conform to what makes man act
+                contra to his<lb/> sober &amp; better calculations. Ask your subscription<lb/> List
+                of the Occident on how many of our Sincerely Religious<lb/> Jews it depends on to
+                support the Occident. Hence<lb/> the necessity of dropping so much Heavy matter<lb/>
+                which I will candidly tell you I never read<lb/> nor do I believe any other
+                Individual in<lb/> this City. what then is to induce new subscribers<lb/> or to
+                retain the present ones now <persName>Leeser</persName> this I<lb/> tell you. The
+                Advocate <hi rend="underline">must appear</hi> &amp; take<lb/> my advice unless you
+                intend to Drop the Co<add>?</add>nomer<lb/> of Editor. You must drop the
+                Occident<lb/> &amp; in its stead send the Advocate to every<lb/> Subscriber start
+                not at my proposition<lb/> your Enemies can yet be outflanked if you will<lb/> go to
+                work right give us the Advocate &amp;<lb/> in it if possible a sheet in the
+                German<lb/> Language &amp; I will stake my Existence on<lb/> your Subscription list
+                soon <sic>equalling</sic> your best</p>
+            <pb n="2R"/>
+            <p>should you conclude to publish the Advocate I wish<lb/> to send you a list of many in
+                the Country—to send<lb/> the first number to, I have read the two first numbers<lb/>
+                of the Voice of Israel published by <persName>Revd Mr Bien<add>?</add></persName> &amp;<lb/>
+                <persName>Henr Labatt</persName> at <placeName>San Francisco</placeName>. Have you
+                hear<lb/> favoured with the same. Since you first started a Jewish<lb/> Periodical
+                how many has allowed; Our Home for<lb/> Jewish Widows &amp; Orphans is steadily
+                increasing in its<lb/> number of Inmates &amp; if they increase so
+                    <sic>rappidly</sic><lb/> in a short period additional Buildings will be<lb/>
+                required. I presume the Anniversary will be<lb/> the <date>8th January/57</date>
+                being the day of its Dedication<lb/> We give no Dinner but with an oration (I presume<lb/>
+                <persName>Gerthom<add>?</add></persName>) &amp; a light repast shall pass the day
+                with<lb/> the Widows and Orphans,. I have no other news to write<lb/> “local” I feel
+                proud of the Board Elected<lb/> by the <sic>Pourtugese</sic> Congregation.
+                    <persName>Mr Jonas</persName><lb/> attending the school &amp; no doubt with the
+                other<lb/> officers will do all they can for the Interest<lb/> of the Institution to
+                show you how they appreciate<lb/>
+                <persName>Gutheim<add>?</add></persName>. The Congregation have just increased<lb/>
+                my Salary from $2000 to $2400 a year with<lb/> the Letter informing him of this fact
+                the same time<lb/> a Letter of approval of his Course during the<lb/> period they
+                have had him with them the letter<lb/> concludes “Wishing you Recd. In long life
+                &amp;<lb/> Happiness I am further instructed to inform<lb/> you that the Board of
+                Officers are instructed<lb/> to furnish you with what means you may<lb/> require to
+                furnish your House now completed<lb/> &amp; ready for your occupancy Signed</p>
+            <p rend="indent(3)">
+                <persName role="author">I P Abrams</persName>
+            </p>
+            <p rend="indent(4)">Treasurer</p>
+            <p rend="The following is written in pencil at the bottom of the page."
+                    ><date>11-26-1856</date> E</p>
+            <pb n="2V"/>
+            <p>I may not give you the exact words for the substance<lb/> as I hurried to read over
+                them. I need not tell you<lb/> our worthy friend <persName>Gutheim</persName> is
+                highly pleased &amp; deservedly<lb/> so; for he is a fine young man &amp; we all
+                love<lb/> him. The <persName>Rev Mr Seine</persName> is a candidate for<lb/>
+                Reelection but I shall not vote for him<lb/> He is not the man I like for a
+                Minister<lb/> If <persName>Mr a Block</persName> wishes a copy of
+                    <persName>Dias's</persName><lb/> Letters He knows where I am &amp; so
+                excuse<lb/> me I will not send it to Him<lb/> I cannot &amp; will not humour
+                    <sic>there</sic>
+                <sic>pople</sic><lb/> (you mean <persName>Mr a Block</persName> in this city do you
+                not)—<lb/> well I must close my time is so occupied<lb/> as to prevent my writing to
+                any but yourself<lb/> in private matters so excuse my hurried<lb/> scrawl.
+                    <sic>Beleive</sic> me <persName>Leeser</persName> your<lb/> ever devoted
+                friend</p>
+            <p rend="indent(2)">
+                <persName role="author">Isaac Hart</persName>
+            </p>
+            <p><persName>Miss Hart</persName> &amp; family I am in Love</p>
+        </body>
+    </text>
 </TEI>

@@ -1,268 +1,362 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE TEI [
-<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
-%teibase;
-<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
-%teiext;
-]>
-<TEI>
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="yes">Gotthelf, B. H.</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>CAJS Isaac Leeser Collection</repository>
-						<collection>The Library of the Dropsie College for Hebrew and Cognate Learning</collection>
-						<idno>LSDCBx2FF1_61</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="yes">Gotthelf, B. H.</author>
-						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac</addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>Louisville, KY</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1854-06" source="" attested="yes">20 June 1854</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="ilcajs_b2f1_0061_1r.jpg"></graphic>
-								<graphic url="ilcajs_b2f1_0061_1v.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="false" paper_type="" size="Letter">letter</material>
-								</support>
-								<extent>5 pages on 4 sheets
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="manuscript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="free">
-								<p>Unrestricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-				<language ident="he">Hebrew</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1"/>
-				<p><add>Hebrew</add></p>
-			<pb n="2"/>
-				<p><add>Hebrew</add></p>
-			<pb n="3"/>
-				<p rend="align(right)"><placeName>Louisville&#44; Ky.</placeName>&#44; <date>June 20. 1854</date>.</p>
-				<p>Very honored <addressee>Mr. Leeser</addressee>&#58;</p>
-			<p rend="indent(1)">In the hope that it would be possible to send you the money<lb/> collected for the Bible and the &#8220;Occident&#8221;&#44; I postponed my writing to you<lb/> from week to week.  The punishment for my waiting is that in spite of the<lb/> efforts&#44; the success is a very insignificant one.  The following of your<lb/> subscribers are already in possession of your work&#44; and i beg of you to<lb/> take notice of this&#58; <persName>Emanuel Lieberman</persName>&#44; &#36;8.&#59; <persName>M. L. Sale</persName>&#44; &#36;10.&#59; <persName>S. Bamberger</persName>&#44; &#36;8.&#59;<lb/> <persName>G. I. Jessel</persName>&#44; &#36;10.&#59; <persName>Emanuel Bamberger</persName>&#44; &#36;10.&#59; <persName>S. Ullman</persName>&#44; &#36;10.&#59; <persName>L. Lowenson</persName>&#44; &#36;8.&#59;<lb/> <persName>M. Straus</persName>&#44; &#36;12.&#59; <persName>Abraham Dinkelspiel&#44; Jr.</persName>&#44; &#36;10.&#59; <persName>A. Dinkelspiel</persName>&#44; &#36;8.&#59; <persName>Jacob<lb/> Wurzburger</persName>&#44; &#36;10&#59; <persName>Ch.Lichten</persName>&#44; &#36;10.&#59; <persName>S.Maas</persName>&#44; &#36;8.&#59; <persName>H. Seliger</persName>&#44; 8.&#59; <persName>S.Bach</persName>&#44; 8.&#59;<lb/> <persName>Sol Hart</persName>&#44; 8.&#59; <persName>S.Selliger</persName>&#44; 8.&#59; <persName>Rev. Anderson</persName> &#40;who removed to the country since&#41;<lb/> 8.&#59; <persName>Benjamin M. Crump</persName>&#44; 8&#8212;<persName role="author">B. H. Gotthelf</persName>&#44; 8.</p>
-				<p>All together 24 to whom I have already delivered it.  Since then the<lb/> following men have moved from here&#58; <persName>David Dinkelspiel</persName> to <placeName>California</placeName>&#44;<lb/> <persName>H. Stern</persName>&#44; to <placeName>Ohio</placeName>&#44; <persName>L. Silverman</persName> to <placeName>Indiana</placeName>.  I still have to deliver to<lb/> the following&#58; <persName>M. Godshaw</persName>&#44; who is <sic>noe</sic> in <placeName>New York</placeName> on a buying trip&#44; <persName>M. A.<lb/> Kohn</persName>&#44; in <placeName>New Albany</placeName>&#44; and <persName>B. Sachs</persName>&#44; who denies from beginning to end that<lb/> he ever subscribed.  I shall still find the opportunity to send them to<lb/> <persName>Stern</persName> and <persName>Silverman</persName>.</p>
-			<p rend="indent(1)">For the past four months&#44; I am running around to collect for<lb/> you and only the following have paid me&#58; <persName>E. Lieberman</persName>&#44; &#36;8.&#59; <persName>M. L. Sale</persName>&#44; &#36;10.&#59;<lb/> <persName>S. <sic>SELLIGer</sic></persName>&#44; &#36;8.&#59; <persName>Abraham Dinkelspiel</persName>&#44; &#36;10&#8212;together therefore &#36;36.</p>
-			<p rend="indent(1)">I was in <placeName>Albany</placeName> and they have no money there.  Most of them<lb/> promised to pay towards the end of <date>July</date> and <date>August</date>&#44; when their heavy bus&#45;<lb/>iness payments will have been attended to.  I cannot possibly go the same<lb/> man three or four times for I feel that he might develop a bad opinion of<lb/> me.  One would not have thought that such a small matter would make any<lb/> difference to people but when I tell you that <persName>Emanuel Bamberger</persName>&#44; a man<lb/> with a capital of &#36;50&#44;000&#44; refused to pay me for that reason&#44; less<lb/> wealthy men are not to be surprised at.  Aside from that many&#44; like Lich&#45;</p>  <p rend="the following word is handwritten">Finished</p> <p rend="the following name is continued on the next page"><persName>Lich&#45;ten</persName></p>
-			<pb n="4"/>
-				<p rend="align(center)">2</p>
-				<p>ten&#44; <persName>Sol Hart</persName>&#44; <persName>Bach</persName>&#44; <persName>Godshaw</persName>&#44; <persName>Ullman</persName>&#44; etc.&#44; are not even here.  Herewith<lb/> you receive all that I have.  Add to that &#36;9.75 which I spent for you.<lb/>  The check cost me 60 cents.</p>
-			<p rend="indent(1)">I have not sold a single copy of Dias down to the present<lb/> time.  Of prayer books&#44; I haven&#39;t received any and those that I requested&#44;<lb/> you need not send until about Rosh Hashonnah.  The bill which you sent me<lb/> in your letter of &#8212; cannot possibly be correct.  Have the goodness to<lb/> look through the records again&#44; and all the letters which I sent you since<lb/> <date>1850</date>.  Note these and let me know.  After that I shall try to adjust all<lb/> that is missing.  In your subscription lists for the &#8220;Occident&#8221; there is<lb/> such a confusion that I am quite unable to make anything of it.  When I<lb/> canvass&#44; no one outside of your older subscribers wants to hear anything<lb/> about it&#44; or owe anything for it.  when you realize your decision again<lb/> to make a trip to the <placeName>west</placeName>&#44; it will probably be advantageous for you in<lb/> every respect.  You have not answered my last letter&#44; in which I asked<lb/> you to suggest a subject for our school which is about to be built.  Per&#45;<lb/>haps this was due to your waiting for the letter I promised you&#44; but I<lb/> could not write it for the reason that uncertainty continued<lb/> to hang over the entire project.  It may still fail.  We have elected an<lb/> English teacher&#44; whose duties are to commence at the first of <date>September</date>&#44;<lb/> at a salary of &#36;600. a year&#44; but the projected schoolhouse has not yet<lb/> been begun.  In a very short time I shall be able to inform you how<lb/> things are going in this respect.  I hope to God that the plan will not<lb/> fail.  And now&#44; my dear <persName>Mr. Leeser</persName>&#44; I want to tell you something about<lb/> my private affairs.  Since the appearance of the last &#8220;Occident&#8221;&#44; I have<lb/> received letters from <placeName>San Francisco</placeName>&#44; not officially&#44; but from several <sic>f</sic><lb/> friends who advise me to try to get the position there.  What do you<lb/> think about it&#63;  Will you advise me to do so&#44; and will you also perhaps<lb/> help me&#63;  These are the best years of my life.  I have a good position<lb/> <date>6&#45;20&#45;1854</date></p>
-			<pb n="5"/>
-				<p rend="align(center)">3</p>
-				<p>here and perhaps even a secure one.  But to this day I am still as poor<lb/> as 5 years ago and every year I have to depend upon the uncertain favor<lb/> of every ass.  Perhaps I ought to be careful and not seek after that po&#45;<lb/>sition.  Perhaps you can let me know the exact conditions and tell me <sic>f</sic><lb/> frankly whether you consider me sufficiently fitted or not and whether you<lb/> will recommend me for it.  Since my stay here I have had unusual practice<lb/> in the matter of preaching and without being immodest I think I can say<lb/> that I perfected myself in it.  I feel that I can fill that position.<lb/>  Please write to me about it as soon as possible.</p>
-			<p rend="indent(1)"><persName>Dr. Wise</persName> was here.  His books are practically all lying around here.<lb/>  His subscribers do not want to take them up.  Personally and in writing&#44;<lb/> he asked me to do something about it&#44; but I explained to him unhesitating&#45;<lb/>ly that it was contrary to my principles to further in any respect a work<lb/> so destructive of Judaism.</p>
-			<p rend="indent(1)">Write by return post to your servant and friend&#44;</p>
-			<p rend="indent(6)"><persName role="author">B.H.Gotthelf</persName></p>
-				<p rend="On top of page one">This afternoon&#44; a contract was signed for a schoolhouse.  It<lb/> cost &#36;3300. and is to be built upon the community&#39;s property&#44; behind the<lb/> synagogue&#44; 45 feet front and 60 feet deep&#44; 4 small rooms below and a large<lb/> hall above&#44; occupying the entire space.<lb/> <date>6&#45;20&#45;1854</date></p>
-		</body>
-	</text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="yes">Gotthelf, B. H.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS Isaac Leeser Collection</repository>
+                        <collection>The Library of the Dropsie College for Hebrew and Cognate
+                            Learning</collection>
+                        <idno>LSDCBx2FF1_61</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="yes">Gotthelf, B.
+                            H.</author>
+                        <addressee accepted="yes" attested="yes" editor="false">Leeser,
+                            Isaac</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Louisville, KY</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1854-06">20 June 1854</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="ilcajs_b2f1_0061_1r.jpg"/>
+                                <graphic url="ilcajs_b2f1_0061_1v.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size="Letter"
+                                        >letter</material>
+                                </support>
+                                <extent>5 pages on 4 sheets <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="he">Hebrew</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <p>
+                <add>Hebrew</add>
+            </p>
+            <pb n="2"/>
+            <p>
+                <add>Hebrew</add>
+            </p>
+            <pb n="3"/>
+            <p rend="align(right)"><placeName>Louisville, Ky.</placeName>, <date>June 20.
+                    1854</date>.</p>
+            <p>Very honored <addressee>Mr. Leeser</addressee>:</p>
+            <p rend="indent(1)">In the hope that it would be possible to send you the money<lb/>
+                collected for the Bible and the “Occident”, I postponed my writing to you<lb/> from
+                week to week. The punishment for my waiting is that in spite of the<lb/> efforts,
+                the success is a very insignificant one. The following of your<lb/> subscribers are
+                already in possession of your work, and i beg of you to<lb/> take notice of this:
+                    <persName>Emanuel Lieberman</persName>, $8.; <persName>M. L. Sale</persName>,
+                $10.; <persName>S. Bamberger</persName>, $8.;<lb/>
+                <persName>G. I. Jessel</persName>, $10.; <persName>Emanuel Bamberger</persName>,
+                $10.; <persName>S. Ullman</persName>, $10.; <persName>L. Lowenson</persName>, $8.;<lb/>
+                <persName>M. Straus</persName>, $12.; <persName>Abraham Dinkelspiel, Jr.</persName>,
+                $10.; <persName>A. Dinkelspiel</persName>, $8.; <persName>Jacob<lb/>
+                    Wurzburger</persName>, $10; <persName>Ch.Lichten</persName>, $10.;
+                    <persName>S.Maas</persName>, $8.; <persName>H. Seliger</persName>, 8.;
+                    <persName>S.Bach</persName>, 8.;<lb/>
+                <persName>Sol Hart</persName>, 8.; <persName>S.Selliger</persName>, 8.;
+                    <persName>Rev. Anderson</persName> (who removed to the country since)<lb/> 8.;
+                    <persName>Benjamin M. Crump</persName>, 8—<persName role="author">B. H.
+                    Gotthelf</persName>, 8.</p>
+            <p>All together 24 to whom I have already delivered it. Since then the<lb/> following
+                men have moved from here: <persName>David Dinkelspiel</persName> to
+                    <placeName>California</placeName>,<lb/>
+                <persName>H. Stern</persName>, to <placeName>Ohio</placeName>, <persName>L.
+                    Silverman</persName> to <placeName>Indiana</placeName>. I still have to deliver
+                to<lb/> the following: <persName>M. Godshaw</persName>, who is <sic>noe</sic> in
+                    <placeName>New York</placeName> on a buying trip, <persName>M. A.<lb/>
+                    Kohn</persName>, in <placeName>New Albany</placeName>, and <persName>B.
+                    Sachs</persName>, who denies from beginning to end that<lb/> he ever subscribed.
+                I shall still find the opportunity to send them to<lb/>
+                <persName>Stern</persName> and <persName>Silverman</persName>.</p>
+            <p rend="indent(1)">For the past four months, I am running around to collect for<lb/>
+                you and only the following have paid me: <persName>E. Lieberman</persName>, $8.;
+                    <persName>M. L. Sale</persName>, $10.;<lb/>
+                <persName>S. <sic>SELLIGer</sic></persName>, $8.; <persName>Abraham
+                    Dinkelspiel</persName>, $10—together therefore $36.</p>
+            <p rend="indent(1)">I was in <placeName>Albany</placeName> and they have no money there.
+                Most of them<lb/> promised to pay towards the end of <date>July</date> and
+                    <date>August</date>, when their heavy bus-<lb/>iness payments will have been
+                attended to. I cannot possibly go the same<lb/> man three or four times for I feel
+                that he might develop a bad opinion of<lb/> me. One would not have thought that such
+                a small matter would make any<lb/> difference to people but when I tell you that
+                    <persName>Emanuel Bamberger</persName>, a man<lb/> with a capital of $50,000,
+                refused to pay me for that reason, less<lb/> wealthy men are not to be surprised at.
+                Aside from that many, like Lich-</p>
+            <p rend="the following word is handwritten">Finished</p>
+            <p rend="the following name is continued on the next page">
+                <persName>Lich-ten</persName>
+            </p>
+            <pb n="4"/>
+            <p rend="align(center)">2</p>
+            <p>ten, <persName>Sol Hart</persName>, <persName>Bach</persName>,
+                    <persName>Godshaw</persName>, <persName>Ullman</persName>, etc., are not even
+                here. Herewith<lb/> you receive all that I have. Add to that $9.75 which I spent for
+                you.<lb/> The check cost me 60 cents.</p>
+            <p rend="indent(1)">I have not sold a single copy of Dias down to the present<lb/> time.
+                Of prayer books, I haven't received any and those that I requested,<lb/> you need
+                not send until about Rosh Hashonnah. The bill which you sent me<lb/> in your letter
+                of — cannot possibly be correct. Have the goodness to<lb/> look through the records
+                again, and all the letters which I sent you since<lb/>
+                <date>1850</date>. Note these and let me know. After that I shall try to adjust
+                all<lb/> that is missing. In your subscription lists for the “Occident” there
+                is<lb/> such a confusion that I am quite unable to make anything of it. When I<lb/>
+                canvass, no one outside of your older subscribers wants to hear anything<lb/> about
+                it, or owe anything for it. when you realize your decision again<lb/> to make a trip
+                to the <placeName>west</placeName>, it will probably be advantageous for you in<lb/>
+                every respect. You have not answered my last letter, in which I asked<lb/> you to
+                suggest a subject for our school which is about to be built. Per-<lb/>haps this was
+                due to your waiting for the letter I promised you, but I<lb/> could not write it for
+                the reason that uncertainty continued<lb/> to hang over the entire project. It may
+                still fail. We have elected an<lb/> English teacher, whose duties are to commence at
+                the first of <date>September</date>,<lb/> at a salary of $600. a year, but the
+                projected schoolhouse has not yet<lb/> been begun. In a very short time I shall be
+                able to inform you how<lb/> things are going in this respect. I hope to God that the
+                plan will not<lb/> fail. And now, my dear <persName>Mr. Leeser</persName>, I want to
+                tell you something about<lb/> my private affairs. Since the appearance of the last
+                “Occident”, I have<lb/> received letters from <placeName>San Francisco</placeName>,
+                not officially, but from several <sic>f</sic><lb/> friends who advise me to try to
+                get the position there. What do you<lb/> think about it? Will you advise me to do
+                so, and will you also perhaps<lb/> help me? These are the best years of my life. I
+                have a good position<lb/>
+                <date>6-20-1854</date></p>
+            <pb n="5"/>
+            <p rend="align(center)">3</p>
+            <p>here and perhaps even a secure one. But to this day I am still as poor<lb/> as 5
+                years ago and every year I have to depend upon the uncertain favor<lb/> of every
+                ass. Perhaps I ought to be careful and not seek after that po-<lb/>sition. Perhaps
+                you can let me know the exact conditions and tell me <sic>f</sic><lb/> frankly
+                whether you consider me sufficiently fitted or not and whether you<lb/> will
+                recommend me for it. Since my stay here I have had unusual practice<lb/> in the
+                matter of preaching and without being immodest I think I can say<lb/> that I
+                perfected myself in it. I feel that I can fill that position.<lb/> Please write to
+                me about it as soon as possible.</p>
+            <p rend="indent(1)"><persName>Dr. Wise</persName> was here. His books are practically
+                all lying around here.<lb/> His subscribers do not want to take them up. Personally
+                and in writing,<lb/> he asked me to do something about it, but I explained to him
+                unhesitating-<lb/>ly that it was contrary to my principles to further in any respect
+                a work<lb/> so destructive of Judaism.</p>
+            <p rend="indent(1)">Write by return post to your servant and friend,</p>
+            <p rend="indent(6)">
+                <persName role="author">B.H.Gotthelf</persName>
+            </p>
+            <p rend="On top of page one">This afternoon, a contract was signed for a schoolhouse.
+                It<lb/> cost $3300. and is to be built upon the community's property, behind
+                the<lb/> synagogue, 45 feet front and 60 feet deep, 4 small rooms below and a
+                large<lb/> hall above, occupying the entire space.<lb/>
+                <date>6-20-1854</date></p>
+        </body>
+    </text>
 </TEI>

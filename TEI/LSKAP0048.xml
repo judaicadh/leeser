@@ -1,326 +1,609 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE TEI [
-<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
-%teibase;
-<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
-%teiext;
-]>
-<TEI>
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="yes">Gotthelf, B. H.</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>LSKAP</repository>
-						<collection>The Arnold and Deanne Kaplan Collection of Early American Judaica</collection>
-						<idno>LSKAP0048</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="yes">Gotthelf, B. H.</author>
-						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac</addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>Louisville, KY</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1850-03" source="" attested="yes">March 20, 1850</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="LSKAP0048_1R.jpg"></graphic>
-								<graphic url="LSKAP0048_1V.jpg"></graphic>
-								<graphic url="LSKAP0048_2R.jpg"></graphic>
-								<graphic url="LSKAP0048_2V.jpg"></graphic>
-								<graphic url="LSKAP0048_3R.jpg"></graphic>
-								<graphic url="LSKAP0048_3V.jpg"></graphic>
-								<graphic url="LSKAP0048_4R.jpg"></graphic>
-								<graphic url="LSKAP0048_5R.jpg"></graphic>
-								<graphic url="LSKAP0048_6R.jpg"></graphic>
-								<graphic url="LSKAP0048_7R.jpg"></graphic>
-								<graphic url="LSKAP0048_8R.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="false" paper_type="" size="">letter</material>
-								</support>
-								<extent>2 pages on 1 sheet
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="manuscript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="restricted">
-								<p>Restricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-				<language ident="de">German</language>
-				<language ident="he">Hebrew</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1R"/>
-				<p rend="align(right)"><placeName>Louisville Ky</placeName>&#44; <date>March 20<hi rend="sup">th</hi> 1850</date></p>
-			<p rend="indent(1)"><addressee>Revd Isaac Leeser</addressee>&#33;</p>
-			<p rend="indent(2)">Hochgeehrtester Herr&#33;</p>
-				 <p><add>Hebrew</add></p>
-				<p>So eben empfange ich Ihr sehr Gesch&#228;tzter vom <date>13<hi rend="sup">th</hi></date> <add>&#63;</add>. und beeile mich&#44; dasselbe sogleich<lb/> genau und ausf&#252;hrlich zu beantworten&#59;&#8212;und wenn Sie in diesem Briefe etwas<lb/> finden sollten&#44; das geeignet sein d&#252;rfte&#44; einen Platz in Ihren sehr gediegener Zeit&#44;<lb/>schrift zu verdienen&#58; so mu&#223; ich Sie um Entschuldigung bitten&#44; da&#223; ich diesen Brief<lb/> in der Sprache schreibe&#44; in welcher ich denken gelernt&#44; die f&#252;r meine Feder die ge&#44;<lb/>l&#228;ufigste ist&#59; und Ihnen so<add>&#63;</add> die M&#252;he mache&#44; dieselbe Ihrem gesch&#228;tzten Blatte<lb/> anzupassen.</p>
-				<p>Vor Allem aber mu&#223; ich Ihnen sagen&#44; da&#223; ich sehr gern Ihnen schon fr&#252;her ge&#44;<lb/>schrieben h&#228;tte.  Allein ich versichere Sie&#44; geehrter Herr&#44; da&#223; ich bis jetzt&#44;<lb/> nach einem 4 Monate b<add>&#63;</add> Aufenthalte dahier<add>&#63;</add>&#44; noch nicht Zeit finden konnt<lb/> dieses zu <sic>thun</sic>.  Diese Versicherung <add>&#63;</add> Ihnen zwar befremdend&#44; vielleicht sogar<lb/> <add>&#63;</add>scheinlich vorkommen&#59; allein es ist so in der <sic>Thot</sic>.  Und auch heute<lb/> ist er nicht <hi rend="underline">meine</hi> Zeit&#44; die ich verrende&#59; sondern&#44; weil ich diesen Breif<lb/> f&#252;r dringend wuchtete&#44; ersuchte ich die Schul &#8222;Direction&#44; mich diesen Ver&#44;<lb/>mittag zu entschuldigen&#59; au&#223;erdem w&#252;rde ich mein Schreiben verschoben haben&#44;<lb/> bis <add>Hebrew</add>&#44; wo die erste Schul &#8222;Pr&#252;fung Statt finden&#44; und nach welcher mir<lb/> 12 Tage Ersalung<add>&#63;</add> geg&#246;nnt sein wird.</p>
-				<p>Und nun&#44; hochgesch&#228;tztester Herr&#44; zur p&#252;nktlicher Beantwortung Ihrer ge&#44;<lb/>ehrten Schreibens&#44; und zwar <add>Hebrew</add>.</p>
-				<p>Die Occidents f&#252;r Monat <date>M&#228;rz</date> habe ich nicht empfangen&#44; auch <persName>Em. Bamberger</persName> nicht.<lb/>  Die Namen Ihrer Subscribenten dahier sind&#58; <persName role="author">B. H. Gotthelf</persName>&#44;<lb/> <persName>M. Cromelien</persName>&#44; <persName>Em. Liebermann</persName>&#44; <persName>Abraham Jerstly</persName>&#44; <persName>S. Ulman</persName> &#38; <persName>Em. Bamberger</persName>.<lb/>  Sie haben zwar bis jetzt an <persName>Em. Bamberger</persName> jede Nummere besonderer adressirt&#59;</p>
-			<pb n="1V"/>
-				<p>allein ich gab demselben gleich nach meiner Ankauft dahier eine Copie aller Nummere<lb/> das laufenden Jahres bis <date>November</date> &#40;incl.&#41;&#44; dennoch blieb mir jeden Monat<lb/> eine Nummer des Occidents &#252;brig&#59; <persName>Mr. Bernal</persName> dachte&#44; der w&#228;re f&#252;r ihn<lb/> bestimmt&#44; bis er letzte Woche 3 Nummer zugleich erhielt&#44; und mir als d<add>&#63;</add><lb/> die andere drei wieder zuruckgab.&#8212;  Das Geld von diesen <add>&#63;</add> habe<lb/> ich seit zwei Wochen in H&#228;nden&#44; so eben sendete mir auch <persName>Em. Bamberger</persName> &#36;3.00.&#8212;<lb/> <add>Hebrew</add> habe ich erst 6 St&#252;ck verkauft&#44; f&#252;r zwei aber nur das Geld&#59; indessen<lb/> kam ich den Rest<add>&#63;</add> zu jeder mir beliebigen Zeit beommen&#59; und wenn ich ver&#44;<lb/>s&#228;umte&#44; Ihre diesen betrag zu senden&#44; so geschah die&#223; aus dem einfachen Grund&#44;<lb/> weil die Gemeinde im Laufe der n&#228;chsten Monats &#40;<date>April</date>&#41; f&#252;r die von mir gekauften<lb/> B&#252;cher und Schreibmaterialien einen Wechsel nach <placeName>Philadelphia</placeName> sendet&#44; und ich<lb/> er f&#252;r ratsamer erachtete&#44; diese kleine Summe auf diesen Weg f&#252;r Sie mit&#44;<lb/>zuschicken.&#8212;Sollte Ihnen indessen davon gelegen sein&#44; den treffender Betrag<lb/> f&#252;r Occidents &#38; <add>Hebrew</add> fr&#252;her zu erhalten&#44; so haben Sie die G&#252;te&#44; zu jeder<lb/> Ihnen beliebigen Zeit&#44; einen Wechsel auf mich f&#252;r &#36;30.00. abzugeben.</p>
-			<p rend="indent(1)">In Beziehung auf Ihren ausgesprechenen Wunsch&#44; mich f&#252;r das Gedeihen des<lb/> Occidents zu verwenden&#44; gebe ich Ihnen die Versicherung&#44; da&#223; ich in der kommenden<lb/> Halb<add>&#63;</add>tagen <add>Hebrew</add>&#44; weder Zeit noch M&#228;he schonen werde&#44; um in deiser Stadt<lb/> eine m&#246;glichst gro&#223;e Anzahlt Subscribenten<add>&#63;</add> zu erlangen.  Nicht Ihnen&#44; nicht<lb/> mir zu Liebe&#44; sondern aus reiner&#44; voller <add>&#63;</add>zeugung&#44; da&#223; mir recht aus&#44;<lb/>gedehnte Verbreitung Ihres werthvollen Blatter nicht verfehlen kann&#44;<lb/> f&#252;r <add>&#63;</add> Gemeinden&#44; in veli<add>&#63;</add>her und moralischer Beziehung&#44; von ersprie&#223;lichen&#44;<lb/> wohlth&#228;tigen f<add>&#63;</add>lusse zu sein.</p>
-				<p>Sie sind so g&#252;tig&#44; sich in Ihrem gesch&#228;tzen Briefe zu erku<add>&#63;</add>gen&#58; wie es mir geht in<lb/> meinem Reise&#63;  Darauf kam ich Ihnen <add>&#63;</add>wumder <del>versicher</del> erwidern da&#223;<lb/> ich mich zufrieden und gl&#252;cklich f&#252;hle.  Ob die Gemeinde es mit mir ebenfalls<lb/> ist&#44; und ob meine F&#228;higkeiten und Leistungen den Auforderungen der Gemeinde das<lb/> Gleichgewicht halten&#8212;&#44; das&#44; geehrtester Herr&#44; m&#252;ssen Sie suchen&#44; wenn anders Ihnen<lb/> etwas davon gelegen ist&#44; auf und wenn Wege zu erfahren.  Ich hingegen</p>
-			<pb n="2R"/>
-				<p>will versuchen&#44; Ihnen in gedr&#228;ngter Sprache Stras<add>&#63;</add> &#252;ber die <add>&#63;</add> Verh&#228;ltnisse<lb/> der Gemeinde und &#252;ber mein eigenes Thun mitzutheilen.  Die Beamter sind&#58;<lb/> <persName>S. Ulman</persName> Pr&#228;s. <persName>Sam. Liebermann</persName> V. P.&#44; <persName>S. Roggenburger</persName>&#44; Treas.&#44; <persName>B. Rosenberg</persName><lb/> <add>Hebrew</add>&#44; <persName>A. Tandler</persName>&#44; Secr. pro. tem. Diese <add>&#63;</add> in Verbindung mit noch sehr Anderen&#44;<lb/> n&#228;mlich&#58; <del><persName>A. Tandler</persName></del> <persName>L. Bachrach</persName>&#44; <persName>B. Marz</persName>&#44; <persName>F. Mark</persName>&#44; <persName>A. Sale</persName>&#44; <persName>A. Sheinauer</persName>&#44; <persName>E. Hilfe</persName>&#44; bilden<lb/> die Board of Trustees oder Vestry&#44; unter deren f&#228;higer&#44; uneigenn&#252;tziger Leitung<lb/> die Werh&#228;ltnisse der Gemeinde eine bl&#228;hende zukunft versprechen.  Der<lb/> Gotter dienst findet regelm&#228;&#223;ig Statt&#58; drei mal am <add>Hebrew</add>&#44; wo das<lb/> Gotteshaus durchschnittlich sehr voll&#44; zuweilen &#252;berf&#228;llt ist&#59; <date>Montag</date><lb/> und <date>Donnerstag</date>&#44; jeder <add>Hebrew</add> und <add>Hebrew</add>.  Im Ganzen z&#228;hlt die Gemeinde<lb/> zwischen 80 und 90 Mitglieder&#44; von deren Jedes einen lebens l&#228;nglichen Sitz<lb/> in der Synagoge eignet.  Diese selbst ist eine Zierde der Stadt&#44; und wird<lb/> sehr h&#228;usig von unsere hiesigen&#44; westlichen Mitb&#252;rgern besucht.  Ich predige<lb/> gew&#246;hnlich alle 4 Wochen ein mal&#44; und habe ein Chor eingerichtet&#44; doch mir<lb/> in der Absicht&#44; die ganze Gemeinde in solchen Ges&#228;ngen zu &#252;ber&#44; die gegenw&#228;rtig nur<lb/> von den Mitgliedere des Chores vorgetragen werden.  Es wird Ihnen ver&#44;<lb/>g&#228;ngen machen&#44; wenn ich Ihnen sage&#44; da&#223;&#44; mit sehr weniger Auser<add>&#63;</add>&#44; in G<add>&#63;</add>en&#44;<lb/> ein frommer&#44; <add>&#63;</add>cht&#8222;religi&#246;ser Sinn herrscht in dieser Gemeinde.  Die meisten<lb/> Laden&#44; und es sind deren sehr viele&#44; sind am <add>Hebrew</add> geschlossen&#8212;und das d&#252;rfte<lb/> wohl beweisen&#44; da&#223; die hiesigen Israeliten f&#252;r ihren Galauben auch Opfer bringen<lb/> k&#246;nnen.  Die unter meiner Leitung bestehende kinderschule z&#228;hlt gegenw&#228;rtig<lb/> 81 <add>&#63;</add>.  Kinder&#44; mit der ziemlich zuversichtlichen Aussicht&#44; da&#223; deren Anzahl<lb/> recht bald auf wenigstens 100 <add>&#63;</add>wachsen wird.  Der freiwillige&#44; j&#228;hrliche Bei&#44;<lb/>trag der Mitglieder betr&#228;gt &#36;800.00. und da jedes Nicht&#44;Mitlied f&#252;r ein ein&#44;<lb/>zelnes kind &#36;15.00&#44; und f&#252;r jedes Solgende &#36;12.00 j&#228;hrlich zur <sic>Schulkasse</sic> zu entrichten<lb/> hat&#44; so werden hiedurch ebenfalls gegen &#36;300.00 erzielt.  <del>Au&#223;er</del> Dagegen ist<lb/> allen un<add>&#63;</add>ttelten ihr kindere freier Schulbesuch gestattet&#44; und erhalten dieselben alle<lb/> Schulb&#252;cher und Schreibmaterialien unentgeldlich.  Die von der Gemeinde erw&#228;hlten</p>
-			<pb n="2V"/>
-				<p>Schuldirektoren f&#252;r das <sic>brufende</sic><add>&#63;</add> Jahr seid&#58; <persName>Hr. A. Tandler</persName>&#44; Pr&#228;sident&#44; <persName>Em.<lb/> Liebermann</persName>&#44; <persName>I. Strauss</persName>&#44; <persName>Abr. Gerstly</persName>&#44; und <persName>M. Sorks</persName>.  Es ist deren Pflicht&#44; in<lb/> fortlaufender Reisefolge&#44; jede Woche <del>&#63;</del> die Schule zu besuchen&#44; und monatlich<lb/> eine Wersammlung zu halten&#44; um mit zuziehung der Lehrer das Wohl und Gedechen<lb/> der Schule zu berathen und zu bef&#246;rdern.  Weber die immer Einrichtung der Schule<lb/> werde ich noch der ersten <add>&#63;</add>tion&#44; die <date>Sonntag</date> <add>Hebrew</add>&#44; Statt finden wird&#44;<lb/> Gelegenheit finden&#44; Ihnen ausf&#252;hrlichen Bericht zu geben.  Ich bemerke aber&#44;<lb/> wie die Sch&#252;ler in einem kurzen Zeit <add>&#63;</add> von 4 Monaten im <add>&#63;</add>lischen<lb/> und hebr&#228;ischen <del>be</del> verh&#228;ltni&#223;m&#228;sig gro&#223;e&#44; bedeutende Fortschritte ma&#223;en&#44;<lb/> und wie er mir Vergangen macht&#44; Ihnen sagen zu k&#246;nnen&#44; da&#223; <persName>Hr. Bernal</persName> und<lb/> Tocther&#44; die ich B<add>&#63;</add> in <placeName>Philadelphia</placeName> f&#252;r die Schule <sic>engagirte</sic>&#44; unerm&#252;det seid&#44;<lb/> f&#252;r das Gedeihen der Schule zu wirken&#44;&#8212;und ich <del>selbst</del> glabue nicht unbescheiden<lb/> zu sein&#44; wenn ich von mir selbst dasselbe bes<add>&#63;</add>gte&#44;&#8212;und ich habe das Vertrauen<lb/> zu Gott&#44; da&#223; Er unser unerm&#252;deter<add>&#63;</add> Streben und Wirken mit gutem Er&#44;<lb/>folge kr&#246;nen werde&#44;&#8212;und aus dieser Schule nicht nur treue Verehrer des einigen&#44;<lb/> einzigen Gottes <placeName>Israels</placeName> hervorgehen lasse.&#8212;</p>
-				<p>Er bestehen hier auch eine  M&#228;nner &#40;Beneviz&#41; <add>Hebrew</add> und zwei Ladys Societys&#44; deren<lb/> zweck er ist&#44; Kranke zu besuchen&#44; zu pflagen u. zu verpflagen p. p. Der ich in<lb/> diesem Augenblicke aber nicht genau von deren unserem Wirken und Verhalten<lb/> unterrichtet bin&#44; so will ich&#44; wenn Sie es w&#252;nschens werth finden&#44; und mich<lb/> gef&#228;lligst dazu auffordere&#44; Ihnen sp&#228;ter erst Ge<add>&#63;</add>res dar&#252;ber mit&#44;<lb/>theilen.</p>
-				<p>Ich mu&#223; schlie&#223;en.  Wenn Sie wollen&#44; m&#246;gen Sie mir&#44; nachdem Sie Ihr Guthaben von<lb/> hier empfangen haben werden&#44; alle <del>Be</del> Jahrg&#228;nge des Occidents &#40;gut gebunden&#41;<lb/> &#252;berschicken&#44; f&#252;r meinen eigenen Gebrauch&#59; nur bitte ich Sie&#44; diese <del>sobald</del><lb/> so billig als m&#246;glich zu berechnen&#44;&#8212;hingegen verspreche ich Ihnen&#44; f&#252;r die Ver&#44;<lb/>breitung des Occidents ohne alles Selbstintresse&#44; d. f. ohnen alle Charges&#44;<lb/> zu sorgen.&#8212;Ich hoffe&#44; da&#223; dieses Schreiben Sie bei besten Wohl treffen<lb/> m&#246;ge.  Meine F<add>&#63;</add> dankt Ihnen h&#246;flich f&#252;r Ihren gef&#228;lligen Gru&#223;&#44; und er&#44;<lb/>widert derselben auf&#39;s Herzlichste.&#8212;<persName>Mr. Bernal</persName> empfiehlt sich Ihnen&#44; und wird&#44;</p>
-			<pb n="3R"/>
-				<p>mir er sagt&#44; Ihnen nach der Examination schreiben&#44; und Bericht erstatten.&#8212;<lb/>  gott erhalte Sie noch bruge gesund und kr&#228;ftig&#44; damit Sie selbst noch die Fr&#252;chte<lb/> Ihres frommen&#44; religi&#246;sen Wirkens sehen und geme&#223;en k&#246;nnen.  Die&#223; ist der<lb/> aufrichtigste Wunsch</p>
-			<p rend="indent(7)">Ihrer ergebenster Dieners</p>
-			<p rend="indent(8)"><persName role="author">Bernhard H. Gotthelf</persName></p>
-				<p>You will oblige me&#44; to give my best respect to <persName>Am Hart Esqr</persName>&#44; and also to<lb/> <persName>Miss Pesoa</persName> for me &#38; my wife.</p>  
-			<p rend="indent(3)"><persName role="author">Gotthelf</persName></p>
-				<p>P.S. So eben erfahre ich&#44; da&#223; bei einer Gemeinde &#8222;Versammlung in Hinsicht auf<lb/> eine von mir eingereichte Petition&#44; die in Ihrem Blatte so vielfach <del>beschlussen</del><lb/> besprechene Delegaten&#8222; Convention betreffend&#44; sehr Vieles <hi rend="underline">dagegen</hi> gesprachen wurde.  Ich<lb/> ersuchte n&#228;mlich die Gemeinde&#44; einen Delgaten f&#252;r diese Convention zu ermennen&#44; und<lb/> gab die Gr&#252;nde an&#44; die meiner Ansicht nach eine Union wunschens werth machen.<lb/>  Die Gemeinde aber sprach <del>sich</del> im Allgemeinen ihr Mi&#223;trauen aus&#44; da&#223; die Convention<lb/> mehr gegen als f&#252;r das Intresse der orthodoxen Religion wirken werde.  Sie<lb/> f&#252;rchtet&#44; da&#223; die sogenannte Reform Parthei das Bischen&#44; nach in <placeName>Amerika</placeName><lb/> herrschende Glauben&#44; vollends &#252;ber den Hausen Pa&#223;e werde.&#8212;Ich bin bei mir<lb/> selbst &#252;berzeugt&#44; da&#223; das nicht der Fall sein wird&#8212;dennoch bitte ich Sie&#44;<lb/> geehrtester Herr&#44; mir in einem Privatbriefe Ihre eigenen Ausichten hie&#44;<lb/>r&#252;ber mitzutheilen&#44; deutsch oder englisch&#44; was Ihnen am N&#228;chsten liegt.  Dieser<lb/> Brief m&#246;chte ich der Gemeinde&#44; wenn von Ihnen dazu authorisirt&#44; vorlegen&#44;<lb/> und durch Ihre allgemein anerkannte Popularit&#228;t sie &#252;berzeugen&#44; da&#223; deren<lb/> Ausichten irrig und falsch seid &#252;ber diesen punkt.&#8212;  Nachmals Ihr ergebenster Diener</p>
-				<p><persName role="author">B</persName></p>
-			<pb n="3V"/>
-				<p rend="align(center)"><addressee>Revd Isaac Leeser</addressee></p>
-				<p rend="align(center)">&#8222;Editor of the Occident&#8221; <placeName>Walnut str.</placeName></p>
-			<p rend="align(center)indent(2)"><placeName>No 371</placeName></p>
-			<p rend="align(center)indent(2)"><placeName><hi rend="underline">Philadelphia</hi></placeName></p>
-			<pb n="4R"/>
-				<p rend="align(right)"><placeName>Louisville&#44; Ky.</placeName></p>
-			<p rend="align(right)"><date>March 20<hi rend="sup">th</hi> 1850</date></p>
-				<p><addressee>Rev. Isaac Leeser</addressee></p>
-				<p>&#39;&#39;&#39;   Dear Sir&#33;</p>
-				<p rend="ident(2)">I just got your letter of the <date>13<hi rend="sup">th</hi></date> of this month<lb/> and hasten to answer it&#8212;and if you find in this letter<lb/> something which you consider suitable for your<lb/> journal&#44; I must ask you to pardon me for writing<lb/> it in German and <del>li</del> to bother you with translating it<lb/> into English.</p>
-			<p rend="ident(2)">I am sorry that I did not write you<lb/> sooner.  Although I am 4 months now here&#44; I assure you&#44; I<lb/> could not find the time to write.  Perhaps you will be<lb/> annoyed at this assurance.  But I am telling  you the truth.<lb/>  And even today I do not use <hi rend="underline">my own</hi> time.  <del> <add>&#63;</add> </del>  I asked the<lb/> director of the school to excuse me for the forenoon because<lb/> I considered this letter too important.  Otherwise&#44; I would have<lb/> &#39;&#39;&#39; waited till when the first examination<lb/> take place. <del>and after which</del> After that I will have 12<lb/> days vacation.</p>
-			<p rend="ident(2)">And now&#44; dear sir&#44; I will answer your letter<lb/> &#39;&#39;&#39; that is</p>
-				<p>I did not get the Occident for <date>March</date>.  <persName>Em Bambeyer</persName><lb/> did not get it either.  The names of your subscribers are&#58;</p>
-				<p><persName role="author">B. H. Gotthelf</persName></p>
-				<p><persName>M. Crouelien<add>&#63;</add></persName></p>
-				<p><persName>Em. Liebermann</persName></p>
-				<p><persName>Abraham Gerstly</persName></p>
-				<p><persName>S. Ulman</persName> and <persName>Em. Bamberger</persName></p>
-				<p><del>up to now</del> So far&#44; you addressed every copy specially<add>&#63;</add></p>
-				<p rend="Page torn in several places."></p>
-			<pb n="5R"/>
-				<p rend="align(center)">2</p>
-				<p>to <persName>Em. Bambeyer</persName>.  When he arrived&#44; I gave him copies<lb/> of all issues of the current year incl. <date>November</date>.  I have<lb/> an extra copy of Occident now for every month.  Last week<lb/> Mr. <del>Barn</del> <persName>Bernal</persName> got 3 copies at once and consequently<lb/> returned 3 copies to me.  I am holding the money of these<lb/> <del>&#124; &#124; &#124;</del> two subscribers now for two weeks.  I just got &#36;3.&#8212;<lb/> from <persName>Mr. Bambeyer</persName>.  Of I have sold only<lb/> six.  But I got money only for two &#38; can get the balance<lb/> however at any time.  I did not send you the money&#44; because<lb/> the congregation will send a <del>check</del> money order to <placeName>Phila.</placeName> next month &#40;<date>April</date>&#41;<lb/> for books and stationary and I thought it more advisable <del>and</del><lb/> to send you this small sum of money on that <del>check</del> money order<lb/> &#124;&#124;&#124; However should you want the money for the Occident<lb/> sooner&#59; then please make out a money order for &#36;30.&#8212;Which<lb/> I shall pay monthly.</p>
-			<p rend="ident(1)">Concerning your desire&#44; to do something for<lb/> your Occident&#44; I assure you&#44; that will you neither time<lb/> &#124;&#124;&#124; nor effort during the coming holidays</p>
-				<p>to get a large number of subscribers in this town.  Not for<lb/> you or my sake but because I am convinced that<lb/> the distribution of your valuable <del>pe</del> journal <del>in</del> is in<lb/> religious as well as moral respect of the greatest importance <add>and benefit</add><lb/> for the Jewish congregations.  You ask&#44; how I like my position&#44;<lb/> Well&#44; I am contended and happy.  It is of course&#44;<lb/> another question&#44; <sic>wether</sic> the congregation likes me&#44; and<lb/> <sic>wether</sic> my ability and my work match the requirements<lb/> of the congregation.  You must get the answer to this<lb/> question from somebody else.  I shall try to tell<lb/> you something about what is going on in the<lb/> congregation and about my own work.  The officers are&#58;<lb/> <persName>S. Ulmann</persName>&#44; Pres. <persName>Sam. Liebermann</persName>&#44; V. P.<lb/> <persName>S. Roggenburger<add>&#63;</add></persName> Treas. <persName>B. Rosenberg</persName></p>
-			<pb n="6R"/>
-				<p rend="align(center)">3</p>
-				<p><persName>A. Tandler</persName> Secr. pro tem.  These gentlemen&#44; together with 6 others&#44; namely&#58; <persName>S. Bachrach</persName>&#44; <persName>B. Marx</persName>&#44; <persName>F. Mark</persName><lb/> <persName>A. Sale</persName>&#44; <persName>A. Steinauer</persName>&#44; <persName>E. Hilfs</persName>&#44; comprise <del>are</del> the board of Trustees<lb/> or Vestry under whose capable direction the congregation looks<lb/> forward to a prosperous future.  Services <del>is</del> are held regularly.<lb/> &#124;&#124;&#124; three times on <add>&#63;</add>.  The synagogue is usually filled<lb/> &#124;&#124;&#124; to capacity.  <date>Monday</date> and <date>Thursday</date> every <add>&#63;</add> and <add>&#63;</add><lb/> The congregation has between 80 and 90 members and everyone<lb/> has a lifetime seat in the synagogue.  The synagogue itself<lb/> is a showplace of the town and is frequently visited by<lb/> gentiles.  I usually preach once a month and I established<lb/> a choir so that the congregation may exercise certain songs.<lb/> I know&#44; you will be hoping to know that with few exceptions&#44; a<lb/> pious&#44; real religious feeling prevails in this congregation.  Most<lb/> &#124;&#124;&#124; stores&#44; and we have a lot of them are closed on <add>&#63;</add><lb/> and that proves that the Jews of this town are<lb/> willing to make sacrifices for their faith.  The school for<lb/> children&#44; of which I am director has 81 Jewish children<lb/> and our hopes are justified&#44; that we soon will have<lb/> 100.  The yearly contribution of the members is &#36;800.&#8212;<lb/> And because every non member must pay for <del>every</del> the first child<lb/> &#36;15.&#8212; and for every next one &#36;12.&#8212; per year we get about<lb/> &#36;300.&#8212; in that fashion.  All poor Jewish children are<lb/> allowed to attend school without paying dues and they also<lb/> get the books and stationary free.  The school directors for the current year which were elected by the  congregation are&#58;<lb/> <persName>Mr. A. Tandler</persName>&#44; Pres. <persName>Em. Liebermann</persName>&#44; <persName>F. Strauss</persName> ter.<add>&#63;</add>&#44;<lb/> <persName>Gerstly</persName> and <persName>Mr. Saphs</persName>.<add>&#63;</add>.  It is their duty to visit the<lb/> school once a week and to have a monthly meeting&#44;</p>
-			<pb n="7R"/>
-				<p rend="align(center)">4</p>
-				<p>in order to promote together with the teachers here wellbeing <add>success</add> of<lb/> the school.  After the first examination which takes place on<lb/> &#124;&#124;&#124; <date>Sunday</date>&#44; is over&#44; I will tell you more about the school.<lb/> In the short time of only 4 months&#44; the students made<lb/> remarkable progress in English and Hebrew and I am<lb/> happy to tell you that <persName>Mr. Bernal</persName> and his daughter&#44; both<lb/> of whom I <del>both an</del> hired in <placeName>Philadelphia</placeName>&#44; are tireless in their<lb/> efforts to make the school a success and I think I can say<lb/> the same of myself without being immodest &#40;rude&#41;.  I trust<lb/> in God that our tireless efforts will be crowned by success<lb/> and eventually&#44; only faithful &#40;lovers&#41; <sic>reverer</sic> of the one and<lb/> only God of <placeName>Israel</placeName> will come out of this school.</p>
-			<p rend="ident(2)">There are here also a <add>&#63;</add> for men<lb/> and two societies for ladies whose purpose it is to visit sick<lb/> &#124;&#124;&#124; persons and to care for them p p.  I don&#39;t know<lb/> anything about their doings but if you desire detailed<lb/> information&#44; I shall be glad to find out and report to you.</p>
-			<p rend="ident(2)">I must finish my letter.  When<lb/> you have received your money you may send me <add>for my own use</add> all<lb/> the issues of <add>the</add> Occident  &#40;well bound&#41; &#91;&#40;JAHRGANG&#41;&#40;bound 12 to a year&#41;<lb/> But I want you to price them as cheap as possible.<lb/>  In exchange&#44; I&#39;ll promise you to get as many subscribers<lb/> as I can&#44; and shall do it without charging you for my<lb/> efforts. &#8212; &#8212; I hope you will get my letter in good<lb/> health.  My wife wishes to thank you for your kind<lb/> greetings and wishes to reciprocate them most<lb/> heartily.  <persName>Mr. Bernal</persName> wishes to be remembered to<lb/> you.  He will write you after the examination.</p>
-			<pb n="8R"/>
-				<p rend="align(center)">5</p>
-				<p>May God keep you in <add>&#63;</add> good health&#44; so that you may<lb/> see and enjoy the fruits of your pious and religious<lb/> activity.</p>
-			<p rend="ident(3)">Very truly yours&#44;</p>
-			<p rend="ident(3)"><persName role="author">Bernhard H. Gotthelf</persName></p>
-				<p>He &#40;<persName role="author">Gotthelf</persName>&#41; does not seem to know much English&#41;<lb/> You will oblige me&#44; to give...for...and so on.</p>
-				<p>P. S.  I just learn&#44; that at a meeting of <del>delegate</del> the congregation<lb/> very much was said against a convention of delegates<lb/> which I had proposed and which <del>was</del> had been frequently discussed<lb/> in your paper.  I asked the congregation to name a<lb/> delegate for this convention and I stated reasons which<lb/> in my opinion <del>made</del> would make a union desirable <add>&#63;</add><lb/>  The congregation however expressed their distrust that<lb/> the convention would <del>tend to be more</del> more harm<lb/> <sic>then</sic> improve the orthodox religion.  The congregation<lb/> feared that the so called reform party would <add>overthrow</add> annihilate<lb/> what little of the faith is left in <placeName>America</placeName>.  Although<lb/> personally I am convinced that that would not be the case&#44; I<lb/> wish to have your opinion about that in German or<lb/> English&#44; your opinion closest to your heart.  I would<lb/> like to show your letter to the congregation&#44; provided<lb/> you authorize me to do so.  Your acknowledged<lb/> popularity may convince them that their views<lb/> on that point are wrong.</p>
-			<p rend="ident(5)">Very truly yours</p>
-			<p rend="ident(5)"><persName role="author">B. G.</persName></p>
-		</body>
-	</text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="yes">Gotthelf, B. H.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>LSKAP</repository>
+                        <collection>The Arnold and Deanne Kaplan Collection of Early American
+                            Judaica</collection>
+                        <idno>LSKAP0048</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="yes">Gotthelf, B.
+                            H.</author>
+                        <addressee accepted="yes" attested="yes" editor="false">Leeser,
+                            Isaac</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Louisville, KY</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1850-03">March 20, 1850</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="LSKAP0048_1R.jpg"/>
+                                <graphic url="LSKAP0048_1V.jpg"/>
+                                <graphic url="LSKAP0048_2R.jpg"/>
+                                <graphic url="LSKAP0048_2V.jpg"/>
+                                <graphic url="LSKAP0048_3R.jpg"/>
+                                <graphic url="LSKAP0048_3V.jpg"/>
+                                <graphic url="LSKAP0048_4R.jpg"/>
+                                <graphic url="LSKAP0048_5R.jpg"/>
+                                <graphic url="LSKAP0048_6R.jpg"/>
+                                <graphic url="LSKAP0048_7R.jpg"/>
+                                <graphic url="LSKAP0048_8R.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >letter</material>
+                                </support>
+                                <extent>2 pages on 1 sheet <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="restricted">
+                                <p>Restricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="de">German</language>
+                <language ident="he">Hebrew</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1R"/>
+            <p rend="align(right)"><placeName>Louisville Ky</placeName>, <date>March 20<hi
+                        rend="sup">th</hi> 1850</date></p>
+            <p rend="indent(1)"><addressee>Revd Isaac Leeser</addressee>!</p>
+            <p rend="indent(2)">Hochgeehrtester Herr!</p>
+            <p>
+                <add>לאי"ט לאורך ימים טובים</add>
+            </p>
+            <p>So eben empfange ich Ihr sehr Geschätzter vom <date>13<hi rend="sup">th</hi></date>
+                <add>?</add>. und beeile mich, dasselbe sogleich<lb/> genau und ausführlich zu
+                beantworten;—und wenn Sie in diesem Briefe etwas<lb/> finden sollten, das geeignet
+                sein dürfte, einen Platz in Ihren sehr gediegener Zeit,<lb/>schrift zu verdienen: so
+                muß ich Sie um Entschuldigung bitten, daß ich diesen Brief<lb/> in der Sprache
+                schreibe, in welcher ich denken gelernt, die für meine Feder die ge,<lb/>läufigste
+                ist; und Ihnen so<add>?</add> die Mühe mache, dieselbe Ihrem geschätzten Blatte<lb/>
+                anzupassen.</p>
+            <p>Vor Allem aber muß ich Ihnen sagen, daß ich sehr gern Ihnen schon früher
+                ge,<lb/>schrieben hätte. Allein ich versichere Sie, geehrter Herr, daß ich bis
+                jetzt,<lb/> nach einem 4 Monate b<add>?</add> Aufenthalte dahier<add>?</add>, noch
+                nicht Zeit finden konnt<lb/> dieses zu <sic>thun</sic>. Diese Versicherung
+                    <add>?</add> Ihnen zwar befremdend, vielleicht sogar<lb/>
+                <add>?</add>scheinlich vorkommen; allein es ist so in der <sic>Thot</sic>. Und auch
+                heute<lb/> ist er nicht <hi rend="underline">meine</hi> Zeit, die ich verrende;
+                sondern, weil ich diesen Breif<lb/> für dringend wuchtete, ersuchte ich die Schul
+                „Direction, mich diesen Ver,<lb/>mittag zu entschuldigen; außerdem würde ich mein
+                Schreiben verschoben haben,<lb/> bis <add>חה"מ פסח</add>, wo die erste Schul
+                „Prüfung Statt finden, und nach welcher mir<lb/> 12 Tage Ersalung<add>?</add>
+                gegönnt sein wird.</p>
+            <p>Und nun, hochgeschätztester Herr, zur pünktlicher Beantwortung Ihrer ge,<lb/>ehrten
+                Schreibens, und zwar <add>על ראשון ראשון ואחרון אחרון</add>.</p>
+            <p>Die Occidents für Monat <date>März</date> habe ich nicht empfangen, auch
+                    <persName>Em. Bamberger</persName> nicht.<lb/> Die Namen Ihrer Subscribenten
+                dahier sind: <persName role="author">B. H. Gotthelf</persName>,<lb/>
+                <persName>M. Cromelien</persName>, <persName>Em. Liebermann</persName>,
+                    <persName>Abraham Jerstly</persName>, <persName>S. Ulman</persName> &amp;
+                    <persName>Em. Bamberger</persName>.<lb/> Sie haben zwar bis jetzt an
+                    <persName>Em. Bamberger</persName> jede Nummere besonderer adressirt;</p>
+            <pb n="1V"/>
+            <p>allein ich gab demselben gleich nach meiner Ankauft dahier eine Copie aller
+                Nummere<lb/> das laufenden Jahres bis <date>November</date> (incl.), dennoch blieb
+                mir jeden Monat<lb/> eine Nummer des Occidents übrig; <persName>Mr.
+                    Bernal</persName> dachte, der wäre für ihn<lb/> bestimmt, bis er letzte Woche 3
+                Nummer zugleich erhielt, und mir als d<add>?</add><lb/> die andere drei wieder
+                zuruckgab.— Das Geld von diesen <add>?</add> habe<lb/> ich seit zwei Wochen in
+                Händen, so eben sendete mir auch <persName>Em. Bamberger</persName> $3.00.—<lb/>
+                <add>תפילות</add> habe ich erst 6 Stück verkauft, für zwei aber nur das Geld;
+                indessen<lb/> kam ich den Rest<add>?</add> zu jeder mir beliebigen Zeit beommen; und
+                wenn ich ver,<lb/>säumte, Ihre diesen betrag zu senden, so geschah dieß aus dem
+                einfachen Grund,<lb/> weil die Gemeinde im Laufe der nächsten Monats
+                    (<date>April</date>) für die von mir gekauften<lb/> Bücher und
+                Schreibmaterialien einen Wechsel nach <placeName>Philadelphia</placeName> sendet,
+                und ich<lb/> er für ratsamer erachtete, diese kleine Summe auf diesen Weg für Sie
+                mit,<lb/>zuschicken.—Sollte Ihnen indessen davon gelegen sein, den treffender
+                Betrag<lb/> für Occidents &amp; <add>איה"ש אם ירצה השם</add> früher zu erhalten, so
+                haben Sie die Güte, zu jeder<lb/> Ihnen beliebigen Zeit, einen Wechsel auf mich für
+                $30.00. abzugeben.</p>
+            <p rend="indent(1)">In Beziehung auf Ihren ausgesprechenen Wunsch, mich für das Gedeihen
+                des<lb/> Occidents zu verwenden, gebe ich Ihnen die Versicherung, daß ich in der
+                kommenden<lb/> Halb<add>?</add>tagen <add>גובה בית חיים</add>, weder Zeit noch Mähe
+                schonen werde, um in deiser Stadt<lb/> eine möglichst große Anzahlt
+                    Subscribenten<add>?</add> zu erlangen. Nicht Ihnen, nicht<lb/> mir zu Liebe,
+                sondern aus reiner, voller <add>?</add>zeugung, daß mir recht aus,<lb/>gedehnte
+                Verbreitung Ihres werthvollen Blatter nicht verfehlen kann,<lb/> für <add>?</add>
+                Gemeinden, in veli<add>?</add>her und moralischer Beziehung, von
+                ersprießlichen,<lb/> wohlthätigen f<add>?</add>lusse zu sein.</p>
+            <p>Sie sind so gütig, sich in Ihrem geschätzen Briefe zu erku<add>?</add>gen: wie es mir
+                geht in<lb/> meinem Reise? Darauf kam ich Ihnen <add>?</add>wumder
+                    <del>versicher</del> erwidern daß<lb/> ich mich zufrieden und glücklich fühle.
+                Ob die Gemeinde es mit mir ebenfalls<lb/> ist, und ob meine Fähigkeiten und
+                Leistungen den Auforderungen der Gemeinde das<lb/> Gleichgewicht halten—, das,
+                geehrtester Herr, müssen Sie suchen, wenn anders Ihnen<lb/> etwas davon gelegen ist,
+                auf und wenn Wege zu erfahren. Ich hingegen</p>
+            <pb n="2R"/>
+            <p>will versuchen, Ihnen in gedrängter Sprache Stras<add>?</add> über die <add>?</add>
+                Verhältnisse<lb/> der Gemeinde und über mein eigenes Thun mitzutheilen. Die Beamter sind:<lb/>
+                <persName>S. Ulman</persName> Präs. <persName>Sam. Liebermann</persName> V. P.,
+                    <persName>S. Roggenburger</persName>, Treas., <persName>B. Rosenberg</persName><lb/>
+                <add>שבת</add>, <persName>A. Tandler</persName>, Secr. pro. tem. Diese <add>?</add>
+                in Verbindung mit noch sehr Anderen,<lb/> nämlich: <del><persName>A.
+                        Tandler</persName></del>
+                <persName>L. Bachrach</persName>, <persName>B. Marz</persName>, <persName>F.
+                    Mark</persName>, <persName>A. Sale</persName>, <persName>A.
+                Sheinauer</persName>, <persName>E. Hilfe</persName>, bilden<lb/> die Board of
+                Trustees oder Vestry, unter deren fähiger, uneigennütziger Leitung<lb/> die
+                Werhältnisse der Gemeinde eine blähende zukunft versprechen. Der<lb/> Gotter dienst
+                findet regelmäßig Statt: drei mal am <add>ער"ח</add>, wo das<lb/> Gotteshaus
+                durchschnittlich sehr voll, zuweilen überfällt ist; <date>Montag</date><lb/> und
+                    <date>Donnerstag</date>, jeder <add>ע.ע. ר"ח</add> und <add>שבת</add>. Im Ganzen
+                zählt die Gemeinde<lb/> zwischen 80 und 90 Mitglieder, von deren Jedes einen lebens
+                länglichen Sitz<lb/> in der Synagoge eignet. Diese selbst ist eine Zierde der Stadt,
+                und wird<lb/> sehr häusig von unsere hiesigen, westlichen Mitbürgern besucht. Ich
+                predige<lb/> gewöhnlich alle 4 Wochen ein mal, und habe ein Chor eingerichtet, doch
+                mir<lb/> in der Absicht, die ganze Gemeinde in solchen Gesängen zu über, die
+                gegenwärtig nur<lb/> von den Mitgliedere des Chores vorgetragen werden. Es wird
+                Ihnen ver,<lb/>gängen machen, wenn ich Ihnen sage, daß, mit sehr weniger
+                    Auser<add>?</add>, in G<add>?</add>en,<lb/> ein frommer,
+                <add>?</add>cht„religiöser Sinn herrscht in dieser Gemeinde. Die meisten<lb/> Laden,
+                und es sind deren sehr viele, sind am <add>חה"מ פסח</add> geschlossen—und das
+                dürfte<lb/> wohl beweisen, daß die hiesigen Israeliten für ihren Galauben auch Opfer
+                bringen<lb/> können. Die unter meiner Leitung bestehende kinderschule zählt
+                gegenwärtig<lb/> 81 <add>?</add>. Kinder, mit der ziemlich zuversichtlichen
+                Aussicht, daß deren Anzahl<lb/> recht bald auf wenigstens 100 <add>?</add>wachsen
+                wird. Der freiwillige, jährliche Bei,<lb/>trag der Mitglieder beträgt $800.00. und
+                da jedes Nicht,Mitlied für ein ein,<lb/>zelnes kind $15.00, und für jedes Solgende
+                $12.00 jährlich zur <sic>Schulkasse</sic> zu entrichten<lb/> hat, so werden hiedurch
+                ebenfalls gegen $300.00 erzielt. <del>Außer</del> Dagegen ist<lb/> allen
+                    un<add>?</add>ttelten ihr kindere freier Schulbesuch gestattet, und erhalten
+                dieselben alle<lb/> Schulbücher und Schreibmaterialien unentgeldlich. Die von der
+                Gemeinde erwählten</p>
+            <pb n="2V"/>
+            <p>Schuldirektoren für das <sic>brufende</sic><add>?</add> Jahr seid: <persName>Hr. A.
+                    Tandler</persName>, Präsident, <persName>Em.<lb/> Liebermann</persName>,
+                    <persName>I. Strauss</persName>, <persName>Abr. Gerstly</persName>, und
+                    <persName>M. Sorks</persName>. Es ist deren Pflicht, in<lb/> fortlaufender
+                Reisefolge, jede Woche <del>?</del> die Schule zu besuchen, und monatlich<lb/> eine
+                Wersammlung zu halten, um mit zuziehung der Lehrer das Wohl und Gedechen<lb/> der
+                Schule zu berathen und zu befördern. Weber die immer Einrichtung der Schule<lb/>
+                werde ich noch der ersten <add>?</add>tion, die <date>Sonntag</date>
+                <add>חברא</add>, Statt finden wird,<lb/> Gelegenheit finden, Ihnen ausführlichen
+                Bericht zu geben. Ich bemerke aber,<lb/> wie die Schüler in einem kurzen Zeit
+                    <add>?</add> von 4 Monaten im <add>?</add>lischen<lb/> und hebräischen
+                    <del>be</del> verhältnißmäsig große, bedeutende Fortschritte maßen,<lb/> und wie
+                er mir Vergangen macht, Ihnen sagen zu können, daß <persName>Hr. Bernal</persName>
+                und<lb/> Tocther, die ich B<add>?</add> in <placeName>Philadelphia</placeName> für
+                die Schule <sic>engagirte</sic>, unermüdet seid,<lb/> für das Gedeihen der Schule zu
+                wirken,—und ich <del>selbst</del> glabue nicht unbescheiden<lb/> zu sein, wenn ich
+                von mir selbst dasselbe bes<add>?</add>gte,—und ich habe das Vertrauen<lb/> zu Gott,
+                daß Er unser unermüdeter<add>?</add> Streben und Wirken mit gutem Er,<lb/>folge
+                krönen werde,—und aus dieser Schule nicht nur treue Verehrer des einigen,<lb/>
+                einzigen Gottes <placeName>Israels</placeName> hervorgehen lasse.—</p>
+            <p>Er bestehen hier auch eine Männer (Beneviz) <add>Hebrew</add> und zwei Ladys
+                Societys, deren<lb/> zweck er ist, Kranke zu besuchen, zu pflagen u. zu verpflagen
+                p. p. Der ich in<lb/> diesem Augenblicke aber nicht genau von deren unserem Wirken
+                und Verhalten<lb/> unterrichtet bin, so will ich, wenn Sie es wünschens werth
+                finden, und mich<lb/> gefälligst dazu auffordere, Ihnen später erst
+                Ge<add>?</add>res darüber mit,<lb/>theilen.</p>
+            <p>Ich muß schließen. Wenn Sie wollen, mögen Sie mir, nachdem Sie Ihr Guthaben von<lb/>
+                hier empfangen haben werden, alle <del>Be</del> Jahrgänge des Occidents (gut
+                gebunden)<lb/> überschicken, für meinen eigenen Gebrauch; nur bitte ich Sie, diese
+                    <del>sobald</del><lb/> so billig als möglich zu berechnen,—hingegen verspreche
+                ich Ihnen, für die Ver,<lb/>breitung des Occidents ohne alles Selbstintresse, d. f.
+                ohnen alle Charges,<lb/> zu sorgen.—Ich hoffe, daß dieses Schreiben Sie bei besten
+                Wohl treffen<lb/> möge. Meine F<add>?</add> dankt Ihnen höflich für Ihren gefälligen
+                Gruß, und er,<lb/>widert derselben auf's Herzlichste.—<persName>Mr.
+                    Bernal</persName> empfiehlt sich Ihnen, und wird,</p>
+            <pb n="3R"/>
+            <p>mir er sagt, Ihnen nach der Examination schreiben, und Bericht erstatten.—<lb/> gott
+                erhalte Sie noch bruge gesund und kräftig, damit Sie selbst noch die Früchte<lb/>
+                Ihres frommen, religiösen Wirkens sehen und gemeßen können. Dieß ist der<lb/>
+                aufrichtigste Wunsch</p>
+            <p rend="indent(7)">Ihrer ergebenster Dieners</p>
+            <p rend="indent(8)">
+                <persName role="author">Bernhard H. Gotthelf</persName>
+            </p>
+            <p>You will oblige me, to give my best respect to <persName>Am Hart Esqr</persName>, and
+                also to<lb/>
+                <persName>Miss Pesoa</persName> for me &amp; my wife.</p>
+            <p rend="indent(3)">
+                <persName role="author">Gotthelf</persName>
+            </p>
+            <p>P.S. So eben erfahre ich, daß bei einer Gemeinde „Versammlung in Hinsicht auf<lb/>
+                eine von mir eingereichte Petition, die in Ihrem Blatte so vielfach
+                    <del>beschlussen</del><lb/> besprechene Delegaten„ Convention betreffend, sehr
+                Vieles <hi rend="underline">dagegen</hi> gesprachen wurde. Ich<lb/> ersuchte nämlich
+                die Gemeinde, einen Delgaten für diese Convention zu ermennen, und<lb/> gab die
+                Gründe an, die meiner Ansicht nach eine Union wunschens werth machen.<lb/> Die
+                Gemeinde aber sprach <del>sich</del> im Allgemeinen ihr Mißtrauen aus, daß die
+                Convention<lb/> mehr gegen als für das Intresse der orthodoxen Religion wirken
+                werde. Sie<lb/> fürchtet, daß die sogenannte Reform Parthei das Bischen, nach in
+                    <placeName>Amerika</placeName><lb/> herrschende Glauben, vollends über den
+                Hausen Paße werde.—Ich bin bei mir<lb/> selbst überzeugt, daß das nicht der Fall
+                sein wird—dennoch bitte ich Sie,<lb/> geehrtester Herr, mir in einem Privatbriefe
+                Ihre eigenen Ausichten hie,<lb/>rüber mitzutheilen, deutsch oder englisch, was Ihnen
+                am Nächsten liegt. Dieser<lb/> Brief möchte ich der Gemeinde, wenn von Ihnen dazu
+                authorisirt, vorlegen,<lb/> und durch Ihre allgemein anerkannte Popularität sie
+                überzeugen, daß deren<lb/> Ausichten irrig und falsch seid über diesen punkt.—
+                Nachmals Ihr ergebenster Diener</p>
+            <p>
+                <persName role="author">B</persName>
+            </p>
+            <pb n="3V"/>
+            <p rend="align(center)">
+                <addressee>Revd Isaac Leeser</addressee>
+            </p>
+            <p rend="align(center)">„Editor of the Occident” <placeName>Walnut str.</placeName></p>
+            <p rend="align(center)indent(2)">
+                <placeName>No 371</placeName>
+            </p>
+            <p rend="align(center)indent(2)">
+                <placeName>
+                    <hi rend="underline">Philadelphia</hi>
+                </placeName>
+            </p>
+            <pb n="4R"/>
+            <p rend="align(right)">
+                <placeName>Louisville, Ky.</placeName>
+            </p>
+            <p rend="align(right)">
+                <date>March 20<hi rend="sup">th</hi> 1850</date>
+            </p>
+            <p>
+                <addressee>Rev. Isaac Leeser</addressee>
+            </p>
+            <p>''' Dear Sir!</p>
+            <p rend="ident(2)">I just got your letter of the <date>13<hi rend="sup">th</hi></date>
+                of this month<lb/> and hasten to answer it—and if you find in this letter<lb/>
+                something which you consider suitable for your<lb/> journal, I must ask you to
+                pardon me for writing<lb/> it in German and <del>li</del> to bother you with
+                translating it<lb/> into English.</p>
+            <p rend="ident(2)">I am sorry that I did not write you<lb/> sooner. Although I am 4
+                months now here, I assure you, I<lb/> could not find the time to write. Perhaps you
+                will be<lb/> annoyed at this assurance. But I am telling you the truth.<lb/> And
+                even today I do not use <hi rend="underline">my own</hi> time. <del>
+                    <add>?</add>
+                </del> I asked the<lb/> director of the school to excuse me for the forenoon
+                because<lb/> I considered this letter too important. Otherwise, I would have<lb/>
+                ''' waited till when the first examination<lb/> take place. <del>and after
+                    which</del> After that I will have 12<lb/> days vacation.</p>
+            <p rend="ident(2)">And now, dear sir, I will answer your letter<lb/> ''' that is</p>
+            <p>I did not get the Occident for <date>March</date>. <persName>Em
+                Bambeyer</persName><lb/> did not get it either. The names of your subscribers
+                are:</p>
+            <p>
+                <persName role="author">B. H. Gotthelf</persName>
+            </p>
+            <p>
+                <persName>M. Crouelien<add>?</add></persName>
+            </p>
+            <p>
+                <persName>Em. Liebermann</persName>
+            </p>
+            <p>
+                <persName>Abraham Gerstly</persName>
+            </p>
+            <p><persName>S. Ulman</persName> and <persName>Em. Bamberger</persName></p>
+            <p><del>up to now</del> So far, you addressed every copy specially<add>?</add></p>
+            <p rend="Page torn in several places."/>
+            <pb n="5R"/>
+            <p rend="align(center)">2</p>
+            <p>to <persName>Em. Bambeyer</persName>. When he arrived, I gave him copies<lb/> of all
+                issues of the current year incl. <date>November</date>. I have<lb/> an extra copy of
+                Occident now for every month. Last week<lb/> Mr. <del>Barn</del>
+                <persName>Bernal</persName> got 3 copies at once and consequently<lb/> returned 3
+                copies to me. I am holding the money of these<lb/>
+                <del>| | |</del> two subscribers now for two weeks. I just got $3.—<lb/> from
+                    <persName>Mr. Bambeyer</persName>. Of I have sold only<lb/> six. But I got money
+                only for two &amp; can get the balance<lb/> however at any time. I did not send you
+                the money, because<lb/> the congregation will send a <del>check</del> money order to
+                    <placeName>Phila.</placeName> next month (<date>April</date>)<lb/> for books and
+                stationary and I thought it more advisable <del>and</del><lb/> to send you this
+                small sum of money on that <del>check</del> money order<lb/> ||| However should you
+                want the money for the Occident<lb/> sooner; then please make out a money order for
+                $30.—Which<lb/> I shall pay monthly.</p>
+            <p rend="ident(1)">Concerning your desire, to do something for<lb/> your Occident, I
+                assure you, that will you neither time<lb/> ||| nor effort during the coming
+                holidays</p>
+            <p>to get a large number of subscribers in this town. Not for<lb/> you or my sake but
+                because I am convinced that<lb/> the distribution of your valuable <del>pe</del>
+                journal <del>in</del> is in<lb/> religious as well as moral respect of the greatest
+                importance <add>and benefit</add><lb/> for the Jewish congregations. You ask, how I
+                like my position,<lb/> Well, I am contended and happy. It is of course,<lb/> another
+                question, <sic>wether</sic> the congregation likes me, and<lb/>
+                <sic>wether</sic> my ability and my work match the requirements<lb/> of the
+                congregation. You must get the answer to this<lb/> question from somebody else. I
+                shall try to tell<lb/> you something about what is going on in the<lb/> congregation
+                and about my own work. The officers are:<lb/>
+                <persName>S. Ulmann</persName>, Pres. <persName>Sam. Liebermann</persName>, V. P.<lb/>
+                <persName>S. Roggenburger<add>?</add></persName> Treas. <persName>B.
+                    Rosenberg</persName></p>
+            <pb n="6R"/>
+            <p rend="align(center)">3</p>
+            <p><persName>A. Tandler</persName> Secr. pro tem. These gentlemen, together with 6
+                others, namely: <persName>S. Bachrach</persName>, <persName>B. Marx</persName>,
+                    <persName>F. Mark</persName><lb/>
+                <persName>A. Sale</persName>, <persName>A. Steinauer</persName>, <persName>E.
+                    Hilfs</persName>, comprise <del>are</del> the board of Trustees<lb/> or Vestry
+                under whose capable direction the congregation looks<lb/> forward to a prosperous
+                future. Services <del>is</del> are held regularly.<lb/> ||| three times on
+                    <add>?</add>. The synagogue is usually filled<lb/> ||| to capacity.
+                    <date>Monday</date> and <date>Thursday</date> every <add>?</add> and
+                    <add>?</add><lb/> The congregation has between 80 and 90 members and
+                everyone<lb/> has a lifetime seat in the synagogue. The synagogue itself<lb/> is a
+                showplace of the town and is frequently visited by<lb/> gentiles. I usually preach
+                once a month and I established<lb/> a choir so that the congregation may exercise
+                certain songs.<lb/> I know, you will be hoping to know that with few exceptions,
+                a<lb/> pious, real religious feeling prevails in this congregation. Most<lb/> |||
+                stores, and we have a lot of them are closed on <add>?</add><lb/> and that proves
+                that the Jews of this town are<lb/> willing to make sacrifices for their faith. The
+                school for<lb/> children, of which I am director has 81 Jewish children<lb/> and our
+                hopes are justified, that we soon will have<lb/> 100. The yearly contribution of the
+                members is $800.—<lb/> And because every non member must pay for <del>every</del>
+                the first child<lb/> $15.— and for every next one $12.— per year we get about<lb/>
+                $300.— in that fashion. All poor Jewish children are<lb/> allowed to attend school
+                without paying dues and they also<lb/> get the books and stationary free. The school
+                directors for the current year which were elected by the congregation are:<lb/>
+                <persName>Mr. A. Tandler</persName>, Pres. <persName>Em. Liebermann</persName>,
+                    <persName>F. Strauss</persName> ter.<add>?</add>,<lb/>
+                <persName>Gerstly</persName> and <persName>Mr. Saphs</persName>.<add>?</add>. It is
+                their duty to visit the<lb/> school once a week and to have a monthly meeting,</p>
+            <pb n="7R"/>
+            <p rend="align(center)">4</p>
+            <p>in order to promote together with the teachers here wellbeing <add>success</add>
+                of<lb/> the school. After the first examination which takes place on<lb/> |||
+                    <date>Sunday</date>, is over, I will tell you more about the school.<lb/> In the
+                short time of only 4 months, the students made<lb/> remarkable progress in English
+                and Hebrew and I am<lb/> happy to tell you that <persName>Mr. Bernal</persName> and
+                his daughter, both<lb/> of whom I <del>both an</del> hired in
+                    <placeName>Philadelphia</placeName>, are tireless in their<lb/> efforts to make
+                the school a success and I think I can say<lb/> the same of myself without being
+                immodest (rude). I trust<lb/> in God that our tireless efforts will be crowned by
+                success<lb/> and eventually, only faithful (lovers) <sic>reverer</sic> of the one
+                and<lb/> only God of <placeName>Israel</placeName> will come out of this school.</p>
+            <p rend="ident(2)">There are here also a <add>?</add> for men<lb/> and two societies for
+                ladies whose purpose it is to visit sick<lb/> ||| persons and to care for them p p.
+                I don't know<lb/> anything about their doings but if you desire detailed<lb/>
+                information, I shall be glad to find out and report to you.</p>
+            <p rend="ident(2)">I must finish my letter. When<lb/> you have received your money you
+                may send me <add>for my own use</add> all<lb/> the issues of <add>the</add> Occident
+                (well bound) [(JAHRGANG)(bound 12 to a year)<lb/> But I want you to price them as
+                cheap as possible.<lb/> In exchange, I'll promise you to get as many
+                subscribers<lb/> as I can, and shall do it without charging you for my<lb/> efforts.
+                — — I hope you will get my letter in good<lb/> health. My wife wishes to thank you
+                for your kind<lb/> greetings and wishes to reciprocate them most<lb/> heartily.
+                    <persName>Mr. Bernal</persName> wishes to be remembered to<lb/> you. He will
+                write you after the examination.</p>
+            <pb n="8R"/>
+            <p rend="align(center)">5</p>
+            <p>May God keep you in <add>?</add> good health, so that you may<lb/> see and enjoy the
+                fruits of your pious and religious<lb/> activity.</p>
+            <p rend="ident(3)">Very truly yours,</p>
+            <p rend="ident(3)">
+                <persName role="author">Bernhard H. Gotthelf</persName>
+            </p>
+            <p>He (<persName role="author">Gotthelf</persName>) does not seem to know much
+                English)<lb/> You will oblige me, to give...for...and so on.</p>
+            <p>P. S. I just learn, that at a meeting of <del>delegate</del> the congregation<lb/>
+                very much was said against a convention of delegates<lb/> which I had proposed and
+                which <del>was</del> had been frequently discussed<lb/> in your paper. I asked the
+                congregation to name a<lb/> delegate for this convention and I stated reasons
+                which<lb/> in my opinion <del>made</del> would make a union desirable
+                <add>?</add><lb/> The congregation however expressed their distrust that<lb/> the
+                convention would <del>tend to be more</del> more harm<lb/>
+                <sic>then</sic> improve the orthodox religion. The congregation<lb/> feared that the
+                so called reform party would <add>overthrow</add> annihilate<lb/> what little of the
+                faith is left in <placeName>America</placeName>. Although<lb/> personally I am
+                convinced that that would not be the case, I<lb/> wish to have your opinion about
+                that in German or<lb/> English, your opinion closest to your heart. I would<lb/>
+                like to show your letter to the congregation, provided<lb/> you authorize me to do
+                so. Your acknowledged<lb/> popularity may convince them that their views<lb/> on
+                that point are wrong.</p>
+            <p rend="ident(5)">Very truly yours</p>
+            <p rend="ident(5)">
+                <persName role="author">B. G.</persName>
+            </p>
+        </body>
+    </text>
 </TEI>

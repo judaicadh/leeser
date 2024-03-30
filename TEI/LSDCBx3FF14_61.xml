@@ -1,263 +1,318 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="unk"></author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>CAJS Isaac Leeser Collection</repository>
-						<collection>The Library of the Dropsie College for Hebrew and Cognate Learning</collection>
-						<idno>LSDCBx3FF14_61</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="unk"></author>
-						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac, Rev.</addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>Savannah, GA</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="" source="" attested="yes">21 July</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="ilcajs_b3f14_wk1_body0107.jpg"></graphic>
-								<graphic url="ilcajs_b3f14_wk1_body0108.jpg"></graphic>
-								<graphic url="ilcajs_b3f14_wk1_body0109.jpg"></graphic>
-								<graphic url="ilcajs_b3f14_wk1_body0110.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="false" paper_type="" size="Letter">letter</material>
-								</support>
-								<extent>4 pages on 2 sheets
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="true"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="manuscript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p>Wax seal</p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="free">
-								<p>Unrestricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1"/>
-				<p rend="align(right)">5</p>
-				<p>compared time with eternity&#8212;the shortness of the one&#45;<lb/> the never ending duration of the other&#63;  Have you ever<lb/> compared the vain&#44; fleeting&#44; and transitory plea<lb/>sures of this life&#44; with the permanent&#44; unchanging&#44;<lb/> and <sic>unchangable</sic> joys of Heaven&#63;  Who holds&#44; or<lb/> can hold the goods of this world by any certain<lb/> tenure&#63;  Riches take unto themselves wings&#44; and<lb/> fly away&#8212;the glory&#44; and honors of this world are<lb/> proverbially evanescent.  The tender Parent&#44; the<lb/> prattling babe&#44; the loved&#44; and chosen bride of our<lb/> heart&#44; may in an instant be taken from us&#44; and<lb/> we be left like the blasted and withered trunk<lb/> of some noble tree&#44; whose green&#44; and spreading<lb/> beauties have been shattered&#44; and scathed by<lb/> the <sic>lightenings</sic> of Heaven.  It is then I repeat<lb/> clearly a matter of interest that we should prize<lb/> and seek after the things of Eternity&#44; and not of<lb/> time.  The daily reading of God&#39;s holy word with<lb/> a prayerful heart&#8212;an habitual obedience to his<lb/> commands&#8212;the restraining our passions by<lb/> proper self denial&#44; and the practice of charity<lb/> and other virtues&#44; are the aids and appliances<lb/> by which we may lay up treasures for Eternity.<lb/>  Do these things&#44; and peace&#44; and <sic>tranquillity</sic> will<lb/> be our lot&#44; here&#44; and hereafter.  They will give us<lb/> an <sic>impenitrable</sic> shield against the ills&#44; and<lb/> the privations&#44; and vexations of life.  They will<lb/> teach us to regard them as the mere trials upon<lb/> our faith&#8212;as the crucible through which we</p>
-			<pb n="2"/>
-				<p>6</p>
-				<p>must pass&#44; to prepare&#44; and refine us for the higher<lb/> and holier joys of Heaven.</p>
-				<p>&#8220;Is there no balm in <placeName>Gilead</placeName>&#8212;Is there no physician<lb/> there.&#8221;  These questions are not asked doubtingly&#44;<lb/> as is manifested by the Prophet immediately<lb/> exclaiming&#44; &#8220;Why then is not the health of the daugh&#61;<lb/>ter of my people recovered.&#8221;  And well&#44; and feelingly<lb/> might he ask the question&#44; for why should there<lb/> be any moral ailment in <placeName>Israel</placeName>&#44; when the possess<lb/> the living God as their Physician&#44; and His blessed<lb/> revelation from which they may draw a balm for<lb/> every wound.  In these degenerate days it is too<lb/> common to hear Israelites say&#44; that our religion<lb/> wants spirit and that there is something sooth&#61;<lb/>&#61;ing in the idea of a redeemer&#44; and mediator.</p>
-				<p>This is rank blasphemy when uttered by Jew<lb/>ish lips.  The lack of spirit in the heart of the<lb/> blasphemer&#44; who raises his voice against that<lb/> religion&#44; which God has himself established for<lb/> his chosen people.  Hast thou read thy bible<lb/> oh&#33; Vain&#44; and foolish son of <placeName>Israel</placeName>&#63;  Alas I<lb/> fear not&#44; or thou wouldst have known that all<lb/> of lofty piety&#44; pure morality&#44; and extended charity<lb/> which is found in the book of <persName>Christs</persName> Apostles<lb/> is but copied from our own&#44; and holy Bible.<lb/>  &#8220;why then is not the health of the daughter of&#8221;<lb/> &#8220;my people recovered&#8221;&#63;  For there is balm in<lb/> <placeName>Gilead</placeName>&#8212;there is a Physician there&#8212;God is that</p>
-			<pb n="3"/>
-				<p>Physician&#44; who will form balm into our<lb/> wounded hearts&#44; and will heal all of our<lb/> transgressions.  He is our Redeemer&#44; our De&#61;<lb/>liverer&#8212;our Saviour.  Look unto Him then<lb/> Oh&#33; House of <placeName>Israel</placeName> and be ye saved.</p>
-				<p><placeName>Israel</placeName> needs no other Redeemer than the<lb/> Son of Hosts&#44; who spoke to <persName>Moses</persName> on the<lb/> <placeName>Mount</placeName> and revealed to him His sacred<lb/> will&#8212;&#8220;The Lord&#39;s hand is not shortened that&#8221;<lb/> &#8220;it can not save&#44; neither his ear hears&#8221;<lb/> &#8220;that he can not hear.&#8221;  <persName>Isaiah</persName> 49 Ch. 1N.<lb/> We want no Mediator&#8212;the tender mercies of<lb/> the Lord are ever ready to be formed forth<lb/> upon his repentant children.</p>
-				<p>&#8220;Seek ye the Lord while <hi rend="underline">He</hi> may be found.&#8221;</p>
-				<p>&#8220;Call ye upon <hi rend="underline">Him</hi> while <hi rend="underline">He</hi> is near&#8221;</p>
-				<p>&#8220;Let the wicked forsake his way and&#8221;</p>
-				<p>&#8220;the unrighteous man his thoughts&#59; and&#8221;</p>
-				<p>&#8220;let him return unto the Lord&#44; and <hi rend="underline">He</hi>&#8221;</p>
-				<p>&#8220;will have mercy upon him&#44; and unto&#8221;</p>
-				<p>&#8220;our God&#44; for <hi rend="underline">He</hi> will abundantly pardon&#8221;</p>
-			<p rend="indent(1)"><persName>Isaiah</persName> 55 Ch. 5 &#38; 7 vs.<lb/> <add>&#63;</add></p>
-			<pb n="4"/>
-				<p>The <addressee>Revd. Isaac Leeser</addressee></p>
-			<p rend="indent(1)"><placeName>Philadelphia</placeName></p>
-			<p rend="indent(2)"><placeName>Penn.</placeName></p>
-		</body>
-	</text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="unk"/>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS Isaac Leeser Collection</repository>
+                        <collection>The Library of the Dropsie College for Hebrew and Cognate
+                            Learning</collection>
+                        <idno>LSDCBx3FF14_61</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="unk"/>
+                        <addressee accepted="yes" attested="yes" editor="false">Leeser, Isaac,
+                            Rev.</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Savannah, GA</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="">21 July</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="ilcajs_b3f14_wk1_body0107.jpg"/>
+                                <graphic url="ilcajs_b3f14_wk1_body0108.jpg"/>
+                                <graphic url="ilcajs_b3f14_wk1_body0109.jpg"/>
+                                <graphic url="ilcajs_b3f14_wk1_body0110.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size="Letter"
+                                        >letter</material>
+                                </support>
+                                <extent>4 pages on 2 sheets <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="true"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p>Wax seal</p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <p rend="align(right)">5</p>
+            <p>compared time with eternity—the shortness of the one-<lb/> the never ending duration
+                of the other? Have you ever<lb/> compared the vain, fleeting, and transitory
+                plea<lb/>sures of this life, with the permanent, unchanging,<lb/> and
+                    <sic>unchangable</sic> joys of Heaven? Who holds, or<lb/> can hold the goods of
+                this world by any certain<lb/> tenure? Riches take unto themselves wings, and<lb/>
+                fly away—the glory, and honors of this world are<lb/> proverbially evanescent. The
+                tender Parent, the<lb/> prattling babe, the loved, and chosen bride of our<lb/>
+                heart, may in an instant be taken from us, and<lb/> we be left like the blasted and
+                withered trunk<lb/> of some noble tree, whose green, and spreading<lb/> beauties
+                have been shattered, and scathed by<lb/> the <sic>lightenings</sic> of Heaven. It is
+                then I repeat<lb/> clearly a matter of interest that we should prize<lb/> and seek
+                after the things of Eternity, and not of<lb/> time. The daily reading of God's holy
+                word with<lb/> a prayerful heart—an habitual obedience to his<lb/> commands—the
+                restraining our passions by<lb/> proper self denial, and the practice of
+                charity<lb/> and other virtues, are the aids and appliances<lb/> by which we may lay
+                up treasures for Eternity.<lb/> Do these things, and peace, and
+                    <sic>tranquillity</sic> will<lb/> be our lot, here, and hereafter. They will
+                give us<lb/> an <sic>impenitrable</sic> shield against the ills, and<lb/> the
+                privations, and vexations of life. They will<lb/> teach us to regard them as the
+                mere trials upon<lb/> our faith—as the crucible through which we</p>
+            <pb n="2"/>
+            <p>6</p>
+            <p>must pass, to prepare, and refine us for the higher<lb/> and holier joys of
+                Heaven.</p>
+            <p>“Is there no balm in <placeName>Gilead</placeName>—Is there no physician<lb/> there.”
+                These questions are not asked doubtingly,<lb/> as is manifested by the Prophet
+                immediately<lb/> exclaiming, “Why then is not the health of the daugh=<lb/>ter of my
+                people recovered.” And well, and feelingly<lb/> might he ask the question, for why
+                should there<lb/> be any moral ailment in <placeName>Israel</placeName>, when the
+                possess<lb/> the living God as their Physician, and His blessed<lb/> revelation from
+                which they may draw a balm for<lb/> every wound. In these degenerate days it is
+                too<lb/> common to hear Israelites say, that our religion<lb/> wants spirit and that
+                there is something sooth=<lb/>=ing in the idea of a redeemer, and mediator.</p>
+            <p>This is rank blasphemy when uttered by Jew<lb/>ish lips. The lack of spirit in the
+                heart of the<lb/> blasphemer, who raises his voice against that<lb/> religion, which
+                God has himself established for<lb/> his chosen people. Hast thou read thy
+                bible<lb/> oh! Vain, and foolish son of <placeName>Israel</placeName>? Alas I<lb/>
+                fear not, or thou wouldst have known that all<lb/> of lofty piety, pure morality,
+                and extended charity<lb/> which is found in the book of <persName>Christs</persName>
+                Apostles<lb/> is but copied from our own, and holy Bible.<lb/> “why then is not the
+                health of the daughter of”<lb/> “my people recovered”? For there is balm in<lb/>
+                <placeName>Gilead</placeName>—there is a Physician there—God is that</p>
+            <pb n="3"/>
+            <p>Physician, who will form balm into our<lb/> wounded hearts, and will heal all of
+                our<lb/> transgressions. He is our Redeemer, our De=<lb/>liverer—our Saviour. Look
+                unto Him then<lb/> Oh! House of <placeName>Israel</placeName> and be ye saved.</p>
+            <p><placeName>Israel</placeName> needs no other Redeemer than the<lb/> Son of Hosts, who
+                spoke to <persName>Moses</persName> on the<lb/>
+                <placeName>Mount</placeName> and revealed to him His sacred<lb/> will—“The Lord's
+                hand is not shortened that”<lb/> “it can not save, neither his ear hears”<lb/> “that
+                he can not hear.” <persName>Isaiah</persName> 49 Ch. 1N.<lb/> We want no
+                Mediator—the tender mercies of<lb/> the Lord are ever ready to be formed forth<lb/>
+                upon his repentant children.</p>
+            <p>“Seek ye the Lord while <hi rend="underline">He</hi> may be found.”</p>
+            <p>“Call ye upon <hi rend="underline">Him</hi> while <hi rend="underline">He</hi> is
+                near”</p>
+            <p>“Let the wicked forsake his way and”</p>
+            <p>“the unrighteous man his thoughts; and”</p>
+            <p>“let him return unto the Lord, and <hi rend="underline">He</hi>”</p>
+            <p>“will have mercy upon him, and unto”</p>
+            <p>“our God, for <hi rend="underline">He</hi> will abundantly pardon”</p>
+            <p rend="indent(1)"><persName>Isaiah</persName> 55 Ch. 5 &amp; 7 vs.<lb/>
+                <add>?</add></p>
+            <pb n="4"/>
+            <p>The <addressee>Revd. Isaac Leeser</addressee></p>
+            <p rend="indent(1)">
+                <placeName>Philadelphia</placeName>
+            </p>
+            <p rend="indent(2)">
+                <placeName>Penn.</placeName>
+            </p>
+        </body>
+    </text>
 </TEI>

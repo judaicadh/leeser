@@ -1,266 +1,383 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE TEI [
-<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
-%teibase;
-<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
-%teiext;
-]>
-<TEI>
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="yes">Gotthelf, B. H.</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>TCAT</repository>
-						<collection>Anonymous</collection>
-						<idno>LSTCAT_item123</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="yes">Gotthelf, B. H.</author>
-						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac</addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>Louisville, KY</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1851-08" source="" attested="yes">August 6, 1851</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="il_tcat_item123_wk1_body0001.jpg"></graphic>
-								<graphic url="il_tcat_item123_wk1_body0002.jpg"></graphic>
-								<graphic url="il_tcat_item123_wk1_body0003.jpg"></graphic>
-								<graphic url="il_tcat_item123_wk1_body0004.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="false" paper_type="" size="">letter</material>
-								</support>
-								<extent>2 pages on 1 sheet
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="manuscript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="free">
-								<p>Unrestricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="de">German</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1"/>
-				<p><add>Hebrew</add></p>
-			<p rend="indent(9)"><placeName>Louisville Ky</placeName> <date>August 6<hi rend="sup">th</hi> 1851</date></p>
-				<p rend="align(center)">Hochgeehrte<add>&#63;</add> <addressee>Herr Leeser</addressee>&#33;</p>
-				<p>Schon wieder sehe ich mich veranla&#223;t&#44; Sie mit Briefen zu bel&#228;stigen und erlauben wir<lb/> auch ohne alle <add>&#63;</add>weise&#44; Bin mit der versuche meines Schreibens bekannt zu machen<add>&#63;</add>.<lb/>  Die ich aber w&#252;nsche&#44; da&#223; der Hauptinhalt dieses Briefes&#44; in so weist Sie selbst<lb/> es f&#252;r ratssam finden werden.  Ich war geehrten Lesere diesselts um jenseits<lb/> das <placeName>Atlantics</placeName> zu deren <sic>Beurtheilung</sic> vorgelegt werden soll&#44; so mu&#223; ich mit<lb/> einen kurzen z<add>&#63;</add>blick beginnen.  Sie kennen die Verh&#228;ltnisse&#44; die mit meiner Auf<add>&#63;</add><lb/> als <add>Hebrew</add> daher verb&#252;nden waren.  Ich hielt damals dasselbe Amt in <placeName>Philadelphia</placeName>&#44;<lb/> und glaube behaupten zu d&#252;rfen&#44; da&#223; ich die Achtung und Liebe meiner ganzen Gemeinde<lb/> in einem selten sahen Grade ich mu&#223;.&#8212;Ich wurde hier elektet mit der Vollmacht einen<lb/> Assistant&#45;Teacher zu engagiren&#44; und be<add>&#63;</add>te <persName>Mr. Banal<add>&#63;</add></persName> <sic>hiesen</sic>.  Anfangs ging<lb/> Alles w&#252;nsch nur we<add>&#63;</add>.  Wir hatten beim Beginne beil&#228;ufig 40 Sch&#252;ler&#44; <add>&#63;</add><lb/> nach Verbaut zweier Monate die z<add>&#63;</add> derselben wuchs zu 94.  Nach der<lb/> ersten Schulzm&#252;hung waren Alle <sic>Betheiligten</sic> so sehr zufrieden&#44; da&#223; wir <del>&#63;</del> gew&#228;hlte<lb/> Schuldirektion ihren Direk f&#252;r die Bem&#252;hung an der beiden Lehren schriftlichen aus<add>&#63;</add>ch.<lb/>  Einige wachen sp&#228;ter <add>&#63;</add> <persName>Mr. Henry</persName>&#8212;und spionierte<add>&#63;</add> sein Feld&#44; oder viel mehr<lb/> mein Feld.  In <persName>Jeremiah</persName> hei&#223;t es <add>Hebrew</add>&#8212;jene <add>&#63;</add>eise sicher aber sollte noch<lb/> seiner Versicherung keine <add>Hebrew</add> <add>&#63;</add>ein&#44; <add>&#63;</add>ere eine <add>Hebrew</add> <add>&#63;</add>eise.&#8212;<persName>Mr. Henry</persName><lb/> <add>&#63;</add>rite und predigte&#8212;er w&#252;rfelte ein <add>Hebrew</add> und den <add>Hebrew</add> aus&#44; lief hier<add>&#63;</add><lb/> eine Haus zu Ha<add>&#63;</add>s &#38; <add>&#63;</add>pets zu werprufen&#44; wird ihm in nettes S&#252;mmchen von<lb/> &#36;80&#45;90&#45;abwart&#8212;Das war der erste Akt zu seinem in <add>&#63;</add>.<lb/>  M&#228;rze Zeit war <add>Hebrew</add> letzten Fuhres&#44; <persName>Mr Henry</persName>&#44; der w&#228;hrend der ganzen Zeit<lb/> eine Correspondenz hier unterhielt&#8212;erschien abermals mit einem &#40;Mason&#41; Buche<lb/> und uber<add>&#63;</add>chen die Verpflichtung&#44; eine Schule hier zu beginnen&#44; zu welchem<lb/> Zwecke ihm about 25 wieder zugesagt waren.  Die <add>Hebrew</add> Stelle <add>&#63;</add>essen<lb/> sein zweck&#8212;er konnte aber in der ganzen Gemeinde nicht einmal einen f<add>&#63;</add><lb/> finden&#44; der ein Gesuch zu diesem Zwecke f&#252;r ihn ein Wechte&#8212;er vers<add>&#63;</add> aber<lb/> von Wache zu Wache sicher zu kommen&#44; bis nach <add>Hebrew</add> die Verh&#228;ltnisse in A<add>&#63;</add><lb/> sich so gestalteten&#44; da&#223; er eine Wieder&#45;fr<add>&#63;</add>&#228;flung durchsetzen.  Die Vorg&#228;nge</p>
-			<pb n="2"/>
-				<p>die ich bis sicher er&#246;rterte&#44; haben in einer Nummer des Occidents von vorigen<lb/> Jahre <add>&#63;</add> gefunden&#44; sind aber vom Editor des Asmoneans mit dem<lb/> Versprechen abgeleugnet werden&#44; da&#223; <persName>Mr. Henry</persName> selbst &#252;ber seinen eigenen<lb/> namen die Falscheit jenes Artickels bereisen wird.  Las jetzt aber hat diesen<lb/> <persName>Judas Ishariot</persName> sein Versprechen unerf&#252;llt gelassen.<lb/>  Vor einigen Wachen nun hat <persName>Mr. Henry</persName> durch eine ihm vor <add>&#63;</add> <add>&#63;</add><lb/> gegebenen Demonstration sich veranla&#223;t gefunden&#8212;&#44; ruf deren ausdr&#252;ck&#44;<lb/>liches Verlangen&#44; seine Resignation emzusenden.  <date>Sonntag</date> Abend kam<lb/> er sicher&#44; und <sic>gieng</sic><add>&#63;</add>&#44; ohne mich zu besuchen&#44; von Haus zu Haus&#44; und erkl&#228;rte<lb/> den Mitgliedern meinen Gemeinde seine Absicht&#44; als Chassan und Lehrer und<lb/> Prediger bei der am<add>&#63;</add> <add>Hebrew</add> Statt finderten Wahl brufen<add>&#63;</add> zu wollen.  Seine<lb/> eigenen Freunde sagten und rie<add>&#63;</add>en ihm&#44; von diesem <add>&#63;</add>rechten Vorhaben<lb/> abzustehen&#8212;nur dir er keine Stelle habe&#44; eine Schule zu beginnen&#44; die<lb/> ihm gewiss ein reichliches Auskommen verschaffen wurde&#8212;&#44; allein<lb/> er bestand der <add>&#63;</add>ruf&#44; da&#223; nun beide <add>&#63;</add> zusammen <add>&#63;</add>reichend sein<lb/> <add>&#63;</add>&#44; sein Auskommen zu begr&#252;nden.  Wenn nun Ihre Leser bedenken&#44; da&#223;<lb/> ich bis jetzt mein <add>&#63;</add> zur wollen zufriedenheit meinen Gemeide versuch&#44; und<lb/> da&#223; ich ferner mich der <add>&#63;</add> und freundschaftlichen Zuneigung aller deren<lb/> Mitglieder&#44; ohne Ausnahme&#44; erfreue&#8212;&#44; wenn Sie und Ihre Leser au&#223;er&#44;<lb/> dem bedenken&#44; da&#223; die hiesige Stelle als <add>Hebrew</add> nicht verbaut ist&#44; die au&#223;er<lb/> dem dieselbe 3 Monate vor der Wacht ausgeschrieben sein w&#252;rde&#8212;als&#44;<lb/> dann erst k&#246;nnen sie die <add>&#63;</add> w&#228;chtige <add>&#63;</add>terlosigkeit eines<lb/> <add>&#63;</add>s&#44; der noch dazu das Wort unserer einigen G<add>&#63;</add><lb/> in wahrer Luste w&#252;rdigen&#33; f&#252;r Mann&#44; der seinen Bart wachsen l&#228;&#223;t in<lb/> der 3 Wochen&#44; und dabei darauf ausgest<add>&#63;</add>&#44; einen <add>&#63;</add> <add>&#63;</add> <add>&#63;</add><lb/> zu machen&#33;&#8212;Glauben Sie aber nicht&#44; <persName>Hr. Leeser</persName>&#44; das ich bei diesem ganzen<lb/> auge<add>&#63;</add> auch nur das M<add>&#63;</add> zu be<add>&#63;</add>ten haben.  <persName>Mr. Henry</persName> kann weder<lb/> in <placeName>Louisville</placeName>&#44; noch in der ganzen <placeName>West</placeName> 10 Stimmen als <add>Hebrew</add> bekommen&#44; nament&#44;<lb/>lich der nicht&#44; wo sein Wesen&#44; sein schle<add>&#63;</add>&#44; niedersw&#228;chtiger&#44; Blut&#44;<lb/> f<add>&#63;</add>enden Gewakten<add>&#63;</add> so bekannt ist&#44; wie hier in <placeName>Louisville</placeName>.  Wir wissen<lb/> ja wecht gut&#44; und wenn es <add>&#63;</add>wendig wird&#44; k&#246;nnen wir ja auch erz&#228;hlen</p>
-			<pb n="3"/>
-				<p>welche edle Handlungen ihn von seiner hasen Stelle als Master der <add>Hebrew</add> Schule<lb/> in <placeName>London</placeName> <add>&#63;</add> wurden&#8212;&#44; wir wissen recht gut&#44; was ihn weggehenmachte von<lb/> <placeName>England</placeName>&#8212;und wir wissen auf was ihn veranla&#223;te seine Resignation in E<hi rend="underline">i</hi><lb/>nzureichen&#8212;wir haben ja in <placeName>Deutschland</placeName> nicht eine &#228;hnliche Geschichte geh&#246;rt&#44;<lb/> wer<add>&#63;</add> einem <add>&#63;</add>hirten&#44; der nicht blieb&#44; weil man ihn nicht mehr behalten<lb/> wollten&#33;&#8212;Gewiss&#44; <persName>Hr. Leeser</persName>&#44; ich h&#228;tte mich mit keinen Wort be<add>&#63;</add>t&#44; <add>&#63;</add><lb/> die Stelle als <add>Hebrew</add> dahier ausgeschrieben w&#228;re&#44; oder wann ich auch nun im <add>&#63;</add>t&#44;<lb/> f<add>&#63;</add> hatte denken k&#246;nnen&#44; da&#223; die Mehrheit der Gemeinde eine<lb/> Ver&#228;nderung w&#252;nscht.&#8212;<persName>Henry</persName> hat nach meiner Meinung mit seiner Reise <sic>hieher</sic><add>&#63;</add><lb/> nichts b<add>&#63;</add>werkt&#44; als seinem ohnehin schwarzen G<add>&#63;</add>ten&#8212;eine wo m&#246;g&#44;<lb/>lich noch schw&#228;rzere Farbe zu geben.  Die Beamten der Gemeinde haben ihm<lb/> sogar bei seiner Anfrage gesagt&#44; da&#223; sie seine Eingabe f&#252;r da&#223; Amt <add>&#63;</add><lb/> Bylaws nicht verwerten k&#246;nnen&#8212;&#8222;but&#44; Sir&#44;&#8221; sagten sie&#44; &#8222;you have no ea<add>&#63;</add><lb/> chance to be elected as <add>Hebrew</add> here.&#8221;</p>
-				<p>Was ich Ihren hier <sic>mittheilte</sic> sind <add>&#63;</add>atsachen&#44; die nicht bestritten wer&#44;<lb/>den k&#246;nnen&#44; und ich w&#252;nschte&#44; da&#223; sie mir den Gefallen erzeugten&#44; es<lb/> aus Ihre eigene Weise im Occident wiederzugeben.  Ich bin verant&#44;<lb/>wortlich f&#252;r die Wahrheit und f&#252;r die Folgen.<lb/>  Verzeihen Sie&#44; da&#223; ich Sie so b<add>&#63;</add> mit meinen eigenen Verh&#228;<add>&#63;</add>en<lb/> aus<add>&#63;</add>&#8222;<lb/> Bei einer <add>am <date>13 July</date></add> gehaltenen L<add>&#63;</add>ten&#8222; Wahl der Hebrew L<add>&#63;</add>gs Benef. Secry.<lb/> wurden folgende Beamten gew&#228;hlt&#8212;<persName>Mrs A<hi rend="underline">bm</hi> Taudler</persName>&#44; Pres. <persName>M<hi rend="underline">rs</hi> Nathan</persName> Perf&#44;<lb/> V. P.&#44; <persName>Mrs B. H. Gotthelf</persName> Secr.&#44; und <persName>Mrs. Moses Liebermann</persName> Treas.&#8212;Der Verein ge&#44;<lb/>deiht sehe gut&#44; so wir auch die andere Lady. Socy. Gewissen<add>&#63;</add> der Pflichten<lb/> eines Wohlth&#228;<sic>ltigkeits</sic> vereines nachkommt.</p>
-				<p>Ihn</p>
-				<p>PS&#8222; We&#223;halb komm ich mich noch eine keiner &#32; ergebenster Diener</p>
-				<p>Antwort auf mein jungker schreiben</p>
-			<p rend="indent(7)"><persName role="author">B H Gotthelf</persName></p>
-				<p>erfreuen&#63;</p>
-			<pb n="4"/>
-				<p><addressee>Revd Isaac Leeser</addressee></p>
-			<p rend="indent(2)"><placeName>371 Walnut St.</placeName></p>
-			<p rend="indent(1)"><placeName>Philadelphia  Pa</placeName></p>
-		</body>
-	</text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="yes">Gotthelf, B. H.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>TCAT</repository>
+                        <collection>Anonymous</collection>
+                        <idno>LSTCAT_item123</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="yes">Gotthelf, B.
+                            H.</author>
+                        <addressee accepted="yes" attested="yes" editor="false">Leeser,
+                            Isaac</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Louisville, KY</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1851-08">August 6, 1851</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="il_tcat_item123_wk1_body0001.jpg"/>
+                                <graphic url="il_tcat_item123_wk1_body0002.jpg"/>
+                                <graphic url="il_tcat_item123_wk1_body0003.jpg"/>
+                                <graphic url="il_tcat_item123_wk1_body0004.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >letter</material>
+                                </support>
+                                <extent>2 pages on 1 sheet <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="de">German</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <p>
+                <add>ב"ה יום ד' ח' אב תורי"א לפ"ש</add>
+            </p>
+            <p rend="indent(9)">
+                <placeName>Louisville Ky</placeName>
+                <date>August 6<hi rend="sup">th</hi> 1851</date>
+            </p>
+            <p rend="align(center)">Hochgeehrte<add>?</add>
+                <addressee>Herr Leeser</addressee>!</p>
+            <p>Schon wieder sehe ich mich veranlaßt, Sie mit Briefen zu belästigen und erlauben
+                wir<lb/> auch ohne alle <add>?</add>weise, Bin mit der versuche meines Schreibens
+                bekannt zu machen<add>?</add>.<lb/> Die ich aber wünsche, daß der Hauptinhalt dieses
+                Briefes, in so weist Sie selbst<lb/> es für ratssam finden werden. Ich war geehrten
+                Lesere diesselts um jenseits<lb/> das <placeName>Atlantics</placeName> zu deren
+                    <sic>Beurtheilung</sic> vorgelegt werden soll, so muß ich mit<lb/> einen kurzen
+                    z<add>?</add>blick beginnen. Sie kennen die Verhältnisse, die mit meiner
+                    Auf<add>?</add><lb/> als <add>חזן</add> daher verbünden waren. Ich hielt damals
+                dasselbe Amt in <placeName>Philadelphia</placeName>,<lb/> und glaube behaupten zu
+                dürfen, daß ich die Achtung und Liebe meiner ganzen Gemeinde<lb/> in einem selten
+                sahen Grade ich muß.—Ich wurde hier elektet mit der Vollmacht einen<lb/>
+                Assistant-Teacher zu engagiren, und be<add>?</add>te <persName>Mr.
+                    Banal<add>?</add></persName>
+                <sic>hiesen</sic>. Anfangs ging<lb/> Alles wünsch nur we<add>?</add>. Wir hatten
+                beim Beginne beiläufig 40 Schüler, <add>?</add><lb/> nach Verbaut zweier Monate die
+                    z<add>?</add> derselben wuchs zu 94. Nach der<lb/> ersten Schulzmühung waren
+                Alle <sic>Betheiligten</sic> so sehr zufrieden, daß wir <del>?</del> gewählte<lb/>
+                Schuldirektion ihren Direk für die Bemühung an der beiden Lehren schriftlichen
+                    aus<add>?</add>ch.<lb/> Einige wachen später <add>?</add>
+                <persName>Mr. Henry</persName>—und spionierte<add>?</add> sein Feld, oder viel
+                mehr<lb/> mein Feld. In <persName>Jeremiah</persName> heißt es <add>מצפון תפתח
+                    הרעה</add>—jene <add>?</add>eise sicher aber sollte noch<lb/> seiner
+                Versicherung keine <add>צפון</add>
+                <add>?</add>ein, <add>?</add>ere eine <add>מזרח</add>
+                <add>?</add>eise.—<persName>Mr. Henry</persName><lb/>
+                <add>?</add>rite und predigte—er würfelte ein <add>מזרח</add> und den <add>עשרת
+                    הדברות</add> aus, lief hier<add>?</add><lb/> eine Haus zu Ha<add>?</add>s &amp;
+                    <add>?</add>pets zu werprufen, wird ihm in nettes Sümmchen von<lb/>
+                $80-90-abwart—Das war der erste Akt zu seinem in <add>?</add>.<lb/> Märze Zeit war
+                    <add>ר"הש</add> letzten Fuhres, <persName>Mr Henry</persName>, der während der
+                ganzen Zeit<lb/> eine Correspondenz hier unterhielt—erschien abermals mit einem
+                (Mason) Buche<lb/> und uber<add>?</add>chen die Verpflichtung, eine Schule hier zu
+                beginnen, zu welchem<lb/> Zwecke ihm about 25 wieder zugesagt waren. Die
+                    <add>חבר</add> Stelle <add>?</add>essen<lb/> sein zweck—er konnte aber in der
+                ganzen Gemeinde nicht einmal einen f<add>?</add><lb/> finden, der ein Gesuch zu
+                diesem Zwecke für ihn ein Wechte—er vers<add>?</add> aber<lb/> von Wache zu Wache
+                sicher zu kommen, bis nach <add>סוכות</add> die Verhältnisse in A<add>?</add><lb/>
+                sich so gestalteten, daß er eine Wieder-fr<add>?</add>äflung durchsetzen. Die
+                Vorgänge</p>
+            <pb n="2"/>
+            <p>die ich bis sicher erörterte, haben in einer Nummer des Occidents von vorigen<lb/>
+                Jahre <add>?</add> gefunden, sind aber vom Editor des Asmoneans mit dem<lb/>
+                Versprechen abgeleugnet werden, daß <persName>Mr. Henry</persName> selbst über
+                seinen eigenen<lb/> namen die Falscheit jenes Artickels bereisen wird. Las jetzt
+                aber hat diesen<lb/>
+                <persName>Judas Ishariot</persName> sein Versprechen unerfüllt gelassen.<lb/> Vor
+                einigen Wachen nun hat <persName>Mr. Henry</persName> durch eine ihm vor
+                    <add>?</add>
+                <add>?</add><lb/> gegebenen Demonstration sich veranlaßt gefunden—, ruf deren
+                ausdrück,<lb/>liches Verlangen, seine Resignation emzusenden. <date>Sonntag</date>
+                Abend kam<lb/> er sicher, und <sic>gieng</sic><add>?</add>, ohne mich zu besuchen,
+                von Haus zu Haus, und erklärte<lb/> den Mitgliedern meinen Gemeinde seine Absicht,
+                als Chassan und Lehrer und<lb/> Prediger bei der am<add>?</add>
+                <add>חה"מ סוכות</add> Statt finderten Wahl brufen<add>?</add> zu wollen. Seine<lb/>
+                eigenen Freunde sagten und rie<add>?</add>en ihm, von diesem <add>?</add>rechten
+                Vorhaben<lb/> abzustehen—nur dir er keine Stelle habe, eine Schule zu beginnen,
+                die<lb/> ihm gewiss ein reichliches Auskommen verschaffen wurde—, allein<lb/> er
+                bestand der <add>?</add>ruf, daß nun beide <add>?</add> zusammen
+                <add>?</add>reichend sein<lb/>
+                <add>?</add>, sein Auskommen zu begründen. Wenn nun Ihre Leser bedenken, daß<lb/>
+                ich bis jetzt mein <add>?</add> zur wollen zufriedenheit meinen Gemeide versuch,
+                und<lb/> daß ich ferner mich der <add>?</add> und freundschaftlichen Zuneigung aller
+                deren<lb/> Mitglieder, ohne Ausnahme, erfreue—, wenn Sie und Ihre Leser außer,<lb/>
+                dem bedenken, daß die hiesige Stelle als <add>חזן</add> nicht verbaut ist, die
+                außer<lb/> dem dieselbe 3 Monate vor der Wacht ausgeschrieben sein würde—als,<lb/>
+                dann erst können sie die <add>?</add> wächtige <add>?</add>terlosigkeit eines<lb/>
+                <add>?</add>s, der noch dazu das Wort unserer einigen G<add>?</add><lb/> in wahrer
+                Luste würdigen! für Mann, der seinen Bart wachsen läßt in<lb/> der 3 Wochen, und
+                dabei darauf ausgest<add>?</add>, einen <add>?</add>
+                <add>?</add>
+                <add>?</add><lb/> zu machen!—Glauben Sie aber nicht, <persName>Hr.
+                Leeser</persName>, das ich bei diesem ganzen<lb/> auge<add>?</add> auch nur das
+                    M<add>?</add> zu be<add>?</add>ten haben. <persName>Mr. Henry</persName> kann
+                weder<lb/> in <placeName>Louisville</placeName>, noch in der ganzen
+                    <placeName>West</placeName> 10 Stimmen als <add>חזן</add> bekommen,
+                nament,<lb/>lich der nicht, wo sein Wesen, sein schle<add>?</add>, niederswächtiger,
+                Blut,<lb/> f<add>?</add>enden Gewakten<add>?</add> so bekannt ist, wie hier in
+                    <placeName>Louisville</placeName>. Wir wissen<lb/> ja wecht gut, und wenn es
+                    <add>?</add>wendig wird, können wir ja auch erzählen</p>
+            <pb n="3"/>
+            <p>welche edle Handlungen ihn von seiner hasen Stelle als Master der <add>תלמוד
+                    תורה</add> Schule<lb/> in <placeName>London</placeName>
+                <add>?</add> wurden—, wir wissen recht gut, was ihn weggehenmachte von<lb/>
+                <placeName>England</placeName>—und wir wissen auf was ihn veranlaßte seine
+                Resignation in E<hi rend="underline">i</hi><lb/>nzureichen—wir haben ja in
+                    <placeName>Deutschland</placeName> nicht eine ähnliche Geschichte gehört,<lb/>
+                    wer<add>?</add> einem <add>?</add>hirten, der nicht blieb, weil man ihn nicht
+                mehr behalten<lb/> wollten!—Gewiss, <persName>Hr. Leeser</persName>, ich hätte mich
+                mit keinen Wort be<add>?</add>t, <add>?</add><lb/> die Stelle als <add>חזן</add>
+                dahier ausgeschrieben wäre, oder wann ich auch nun im <add>?</add>t,<lb/>
+                    f<add>?</add> hatte denken können, daß die Mehrheit der Gemeinde eine<lb/>
+                Veränderung wünscht.—<persName>Henry</persName> hat nach meiner Meinung mit seiner
+                Reise <sic>hieher</sic><add>?</add><lb/> nichts b<add>?</add>werkt, als seinem
+                ohnehin schwarzen G<add>?</add>ten—eine wo mög,<lb/>lich noch schwärzere Farbe zu
+                geben. Die Beamten der Gemeinde haben ihm<lb/> sogar bei seiner Anfrage gesagt, daß
+                sie seine Eingabe für daß Amt <add>?</add><lb/> Bylaws nicht verwerten können—„but,
+                Sir,” sagten sie, „you have no ea<add>?</add><lb/> chance to be elected as
+                    <add>חזן</add> here.”</p>
+            <p>Was ich Ihren hier <sic>mittheilte</sic> sind <add>?</add>atsachen, die nicht
+                bestritten wer,<lb/>den können, und ich wünschte, daß sie mir den Gefallen
+                erzeugten, es<lb/> aus Ihre eigene Weise im Occident wiederzugeben. Ich bin
+                verant,<lb/>wortlich für die Wahrheit und für die Folgen.<lb/> Verzeihen Sie, daß
+                ich Sie so b<add>?</add> mit meinen eigenen Verhä<add>?</add>en<lb/>
+                aus<add>?</add>„<lb/> Bei einer <add>am <date>13 July</date></add> gehaltenen
+                    L<add>?</add>ten„ Wahl der Hebrew L<add>?</add>gs Benef. Secry.<lb/> wurden
+                folgende Beamten gewählt—<persName>Mrs A<hi rend="underline">bm</hi>
+                    Taudler</persName>, Pres. <persName>M<hi rend="underline">rs</hi>
+                    Nathan</persName> Perf,<lb/> V. P., <persName>Mrs B. H. Gotthelf</persName>
+                Secr., und <persName>Mrs. Moses Liebermann</persName> Treas.—Der Verein
+                ge,<lb/>deiht sehe gut, so wir auch die andere Lady. Socy. Gewissen<add>?</add> der
+                Pflichten<lb/> eines Wohlthä<sic>ltigkeits</sic> vereines nachkommt.</p>
+            <p>Ihn</p>
+            <p>PS„ Weßhalb komm ich mich noch eine keiner ergebenster Diener</p>
+            <p>Antwort auf mein jungker schreiben</p>
+            <p rend="indent(7)">
+                <persName role="author">B H Gotthelf</persName>
+            </p>
+            <p>erfreuen?</p>
+            <pb n="4"/>
+            <p>
+                <addressee>Revd Isaac Leeser</addressee>
+            </p>
+            <p rend="indent(2)">
+                <placeName>371 Walnut St.</placeName>
+            </p>
+            <p rend="indent(1)">
+                <placeName>Philadelphia Pa</placeName>
+            </p>
+        </body>
+    </text>
 </TEI>

@@ -1,261 +1,376 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE TEI [
-<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
-%teibase;
-<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
-%teiext;
-]>
-<TEI>
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="unk">Wise, Isaac ?</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>LSKAP</repository>
-						<collection>The Arnold and Deanne Kaplan Collection of Early American Judaica</collection>
-						<idno>LSKAP20-807</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="unk">Wise, Isaac ?</author>
-						<addressee editor="true" attested="yes" accepted="yes"></addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet></placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="" source="" attested="unk"></dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="leeser_20_807_001.jpg"></graphic>
-								<graphic url="leeser_20_807_002.jpg"></graphic>
-								<graphic url="leeser_20_807_003.jpg"></graphic>
-								<graphic url="leeser_20_807_004.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="true" paper_type="" size="Legal">letter</material>
-								</support>
-								<extent>4 pages on 1 sheet
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="manuscript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="restricted">
-								<p>Restricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-				<language ident="he">Hebrew</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1R"/>
-				<p rend="align(center)">Principles of Judaism</p>
-				<p rend="align(center)"><hi rend="underline">No 111</hi></p>
-				<p rend="align(center)">To the Editor of the Occident</p>
-				<p>Reverend Sir&#33;</p>
-			<p rend="indent(1)">Since you have been kind<lb/> enough to insert my letters in your magazine<lb/> I continue to write on my subject without any<lb/> farther <del>introduction</del> preface or <del>excuse</del> apology&#59; you may only<lb/> please to recollect&#44; that <del>we</del> I have stated in my<lb/> last&#44; that Judaism rests upon four strong and<lb/> immovable pillars&#44; 1. God is God&#44; 2. man is<lb/> His <sic>immage</sic>&#44; 3. man is accountable here and here&#758;<lb/>after to his Maker&#44; and 4. <placeName>Israel</placeName> is His own<lb/> people.  All the duties of a man and an Israelite in<lb/> all <del>positions</del> estimations of life are deducible from those<lb/> four <del>theses</del> positions&#44; &#38; all the hopes in life and death&#44; the<lb/> confidence&#44; the fortitude&#44; the moral strength&#44; the joy<lb/> <del>happiness</del> of heart of an Israel<add>ite</add> <del>and his individuals</del><lb/> are based upon those doctrines.  It would surprise<lb/> me if any one should <del>detect a human duty</del> be able to point out as high duty obligatory on man or any<lb/> moral excellency&#44; <del>for</del> which one can not be accounted for<lb/> <del>by</del> upon one either or all of those <del>theses</del> principles.  We have no difference of opinion<lb/> <del>dispute</del>&#44; I believe&#44; about the first <del>thesis</del> axiom&#59; but with<lb/> the second and third <del>are</del> the differences commence&#59;<lb/> <del>the</del> our opponents tell us&#44; that <del>the body of</del> man&#44; in his body&#44;<lb/> will arise at some distant day&#44; being then inhabited<lb/> by the same soul&#59; &#38; that he will live nearly in the<lb/> same manner as we do now&#59;  In <sic>connexion</sic> with<lb/> this resurrection of the body is the last judgment<lb/> and the everlasting <sic>demnation</sic> of those who deserve<lb/> such a deplorable lot&#59; <del>and yet</del> besides other things of the<lb/> same kind.  We suppose&#44; that our opponents<lb/> take for granted&#44; that if the soul of man be<lb/> perishable and die away&#44; a resurrection of the body would<lb/> be impossible&#44; wherefore they must <del>say</del> give with us in maintaining that<lb/> &#34;The soul of man is immortal &#38; can exist and<lb/> exists without body&#59; but that the body of man is</p>
-			<pb n="1V"/>
-				<p>a subject to mortality &#38; cannot exist in <del>his</del><lb/> its proper functions without the soul&#59;&#34; thus we <del>are</del> have<lb/> <del>satisfied about</del> established the main point&#44; the very basis of <del>things</del> our discussion.<lb/>  This dogma of ours is <del>a biblical one</del> derived from the Bible&#44; where man is<lb/> called an <sic>immage</sic> of God&#59; but the dogma of an<lb/> immortal body appears to us to be of no biblical origin<lb/> as every impartial student of the Bible will admit&#44; and<lb/> you&#44; reverend sir&#44; have <del>yet</del> not yet come out with your<lb/> biblical evidences.  I shall first consider the matter<lb/> in a natural point of view&#59; for it appears to me&#44; that<lb/> the Rabbis expressed the most correct opinion on the<lb/> matter&#44; when they said <add>Hebrew</add><lb/> <add>Hebrew</add><lb/> &#34;All <sic>The</sic> prophets prophesied only for the times of the<lb/> Messiah&#44; but the future world no eye has ever seen<lb/> it but saw shine alone  &#758;O Lord<add>&#63;</add>&#34; &#40;Berachoth 34&#41; Hence<lb/> <add>Hebrew</add><lb/> &#34;It was taught &#40;by the earlier Rabbis&#41; that during the<lb/> months &#40;after death&#41; the body remains uncorrup&#45;<lb/>ted&#59; and <del>his</del> the soul ascends and descends &#40;visiting the<lb/> spot where <del>his</del> its former <del>vehicle</del> tenement is <del>interred</del> buried&#41;&#59; but after<lb/> two<add>&#63;</add> months the body is dissolved and <del>his</del> the<lb/> soul ascends to return never again.&#34; Sabbath 151&#41;<lb/> Hence we read in Moreh Nebuchim of <persName>maimonides</persName><lb/> Part I. ch. 40 <add>Hebrew</add><lb/> &#34;The noun <hi rend="underline">Rusach</hi> is also the name of that<lb/> substance which <del>is</del> remains of man after death<lb/> and which is not <del>exposed</del> liable to dissolution&#44;&#34; and<lb/> &#40;<hi rend="underline">ibid</hi> 41 chapter xli&#41; we read the same definition<lb/> of the term <add>Hebrew</add>.  I shall say nothing about<lb/> the <add>Hebrew</add> that the bodies of the dead<lb/> must roll themselves through <del>caves</del> subterranean channels to <placeName>Palestine</placeName><lb/> where they will be revived&#44; nor about the</p>
-			<pb n="2R"/>
-				<p>opinion <add>Hebrew</add> that the pious who have arisen<lb/> from death will be assembled in a tent made<lb/> of the skin of the Leviathan&#44; and that they will<lb/> eat at a great feast the flesh of that <del>very</del><lb/> fabulous fish&#44; which was killed and salted<lb/> by God for this purpose soon after the<lb/> creation&#59; though these are substantial<lb/> portions of the resurrection&#45;creed of those&#44; which<lb/> you please to call orthodox&#44; because they try<lb/> to explain those singular assertions to be of a<lb/> parabolic nature&#59; but we have the same right to<lb/> say all statements about the revival of the body<lb/> are of the same nature.  I shall confine myself<lb/> exclusively to the question of the resurrection of the<lb/> body.  The surface of the earth contains one hundred and fifty six million&#44; two hundred fifty thousand<lb/> <del>156 250 000</del> square miles of land including<lb/> <del>the</del> the vast regions of sandy deserts&#44; stony<lb/> mountains&#44; marshes and swamps&#44; large<lb/> districts covered with perpetual snow and ice<lb/> and other uninhabitable portions.  The present<lb/> population of our globe is <sic>estemated</sic> <del>1200000000</del> twelve hundred millions&#59;<lb/> if we suppose <del>that</del> one generation <del>take</del> to be<lb/> 30 years&#44; and that since the creation of<lb/> man be <date>5611</date> years&#44; there must have been then<lb/> our earth 187 generations&#44; which would give<del>s</del> the sum<lb/> of individuals <hi rend="underline">1200&#44;000&#44;000x187</hi><lb/>2&#42;&#61;112200000000&#44;<lb/> which would give a population of 72 to<lb/> a square mile&#44; if the resurrection take place<lb/> in our age&#59; none of our friends has ever<lb/> lost himself so far in mystical conjectures&#44;<lb/> as to think it natural&#44; that such a popu&#45;<lb/>lation should exist on earth.  Our old<lb/> brethren have two different methods to help<lb/> themselves out of this difficulty&#59; they say <hi rend="underline">first</hi><lb/> <add>Hebrew</add></p>
-				<p rend="The following is a note in the right margin&#44; near the bottom of the page.">&#42; There is <add>&#63;</add><lb/>ly an error in <persName>D W&#39;s</persName><lb/> formula here&#44; we see<lb/> no reason for dividing<lb/> the product by two&#59;<lb/> our calculation<lb/> <del>would</del> the population<lb/> after these dates<lb/> 1436 to a square<lb/> mile.</p>
-			<pb n="2V"/>
-				<p>&#34;<del>It be</del> know<del>n</del> that the world to come is<lb/> made for none but the righteous and the<lb/> Isralites&#34; &#40;Jebanoth 46.&#41;.  But this is not in<lb/> <sic>accordence</sic> with the passage in <persName>Daniel</persName>&#44; which<lb/> they suppose to be the expressive of the doctrine<lb/> of the <sic>resurection</sic> of the body.  &#34;And many of<lb/> those who sleep in the dust of the ground<lb/> he shall awake&#44; some to an everlasting<lb/> life and some to shame and everlasting<lb/> reproach&#34; &#40;<persName>Daniel</persName> IIX 2&#41; If our friends will<lb/> insist <del>admit</del>&#44; that <persName>Daniel</persName> speaks in this chapter only<lb/> of <placeName>Israel</placeName>&#44; then they cannot help saying but that<lb/> only many of <placeName>Israel</placeName> will arise&#59; some of these<lb/> who arise<del>n</del> <del>individuals</del> will be a shame and an<lb/> everlasting reproach&#44; consequently they must ad&#45;<lb/>mit&#44; that among those what will arise will be<lb/> wicked people also&#59; to <del>say</del> assert the wicked shall<lb/> arise and die again is incompatible with the<lb/> text&#44; in which the <add>Hebrew</add> &#34;everlasting&#34; prohibits such<lb/> a construction.  And if this contradiction<lb/> <del>should</del> is not to exist&#44; our old friends cannot remove<lb/> the difficulty by the above quoted conjecture&#59;<lb/> for it is <del>sure enough</del> unquestionable&#44; that five children die to<lb/> one grown person&#44; and what wrong can a<lb/> child have done&#63; and among the rest of<lb/> <del>people</del> mankind they must reckon <add>Hebrew</add><lb/> &#34;one half innocent and one other half guilty&#34;&#44; which<lb/> is a strict talmudical principle&#59; consequently<lb/> the immense <sic>numbre</sic> of 720 to a square<lb/> mile would be immaterially reduced.  They<lb/> cannot remove this difficulty by conjecturing&#44;<lb/> that them who has <del>a</del>risen <del>people</del> will be of such a<lb/> spiritual nature&#44; that they have no wants<lb/> whatever&#59; for this would be no resurrection<lb/> of the same body&#44; but a new creation&#59;</p>
-		</body>
-	</text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="unk">Wise, Isaac ?</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>LSKAP</repository>
+                        <collection>The Arnold and Deanne Kaplan Collection of Early American
+                            Judaica</collection>
+                        <idno>LSKAP20-807</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="unk">Wise, Isaac ?</author>
+                        <addressee accepted="yes" attested="yes" editor="true"/>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet/>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="unk" source="" when=""/>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="leeser_20_807_001.jpg"/>
+                                <graphic url="leeser_20_807_002.jpg"/>
+                                <graphic url="leeser_20_807_003.jpg"/>
+                                <graphic url="leeser_20_807_004.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="true" paper_type="" size="Legal"
+                                        >letter</material>
+                                </support>
+                                <extent>4 pages on 1 sheet <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="restricted">
+                                <p>Restricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="he">Hebrew</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1R"/>
+            <p rend="align(center)">Principles of Judaism</p>
+            <p rend="align(center)">
+                <hi rend="underline">No 111</hi>
+            </p>
+            <p rend="align(center)">To the Editor of the Occident</p>
+            <p>Reverend Sir!</p>
+            <p rend="indent(1)">Since you have been kind<lb/> enough to insert my letters in your
+                magazine<lb/> I continue to write on my subject without any<lb/> farther
+                    <del>introduction</del> preface or <del>excuse</del> apology; you may only<lb/>
+                please to recollect, that <del>we</del> I have stated in my<lb/> last, that Judaism
+                rests upon four strong and<lb/> immovable pillars, 1. God is God, 2. man is<lb/> His
+                    <sic>immage</sic>, 3. man is accountable here and here˶<lb/>after to his Maker,
+                and 4. <placeName>Israel</placeName> is His own<lb/> people. All the duties of a man
+                and an Israelite in<lb/> all <del>positions</del> estimations of life are deducible
+                from those<lb/> four <del>theses</del> positions, &amp; all the hopes in life and
+                death, the<lb/> confidence, the fortitude, the moral strength, the joy<lb/>
+                <del>happiness</del> of heart of an Israel<add>ite</add>
+                <del>and his individuals</del><lb/> are based upon those doctrines. It would
+                surprise<lb/> me if any one should <del>detect a human duty</del> be able to point
+                out as high duty obligatory on man or any<lb/> moral excellency, <del>for</del>
+                which one can not be accounted for<lb/>
+                <del>by</del> upon one either or all of those <del>theses</del> principles. We have
+                no difference of opinion<lb/>
+                <del>dispute</del>, I believe, about the first <del>thesis</del> axiom; but
+                with<lb/> the second and third <del>are</del> the differences commence;<lb/>
+                <del>the</del> our opponents tell us, that <del>the body of</del> man, in his
+                body,<lb/> will arise at some distant day, being then inhabited<lb/> by the same
+                soul; &amp; that he will live nearly in the<lb/> same manner as we do now; In
+                    <sic>connexion</sic> with<lb/> this resurrection of the body is the last
+                judgment<lb/> and the everlasting <sic>demnation</sic> of those who deserve<lb/>
+                such a deplorable lot; <del>and yet</del> besides other things of the<lb/> same
+                kind. We suppose, that our opponents<lb/> take for granted, that if the soul of man
+                be<lb/> perishable and die away, a resurrection of the body would<lb/> be
+                impossible, wherefore they must <del>say</del> give with us in maintaining that<lb/>
+                "The soul of man is immortal &amp; can exist and<lb/> exists without body; but that
+                the body of man is</p>
+            <pb n="1V"/>
+            <p>a subject to mortality &amp; cannot exist in <del>his</del><lb/> its proper functions
+                without the soul;" thus we <del>are</del> have<lb/>
+                <del>satisfied about</del> established the main point, the very basis of
+                    <del>things</del> our discussion.<lb/> This dogma of ours is <del>a biblical
+                    one</del> derived from the Bible, where man is<lb/> called an <sic>immage</sic>
+                of God; but the dogma of an<lb/> immortal body appears to us to be of no biblical
+                origin<lb/> as every impartial student of the Bible will admit, and<lb/> you,
+                reverend sir, have <del>yet</del> not yet come out with your<lb/> biblical
+                evidences. I shall first consider the matter<lb/> in a natural point of view; for it
+                appears to me, that<lb/> the Rabbis expressed the most correct opinion on the<lb/>
+                matter, when they said <add>כל הנביאים לא נתנבאו אלא לימות</add><lb/>
+                <add>המשיח אבל עולם הבא עין לא ראתה אלקים זולתך</add><lb/> "All <sic>The</sic>
+                prophets prophesied only for the times of the<lb/> Messiah, but the future world no
+                eye has ever seen<lb/> it but saw shine alone ˶O Lord<add>?</add>" (Berachoth 34) Hence<lb/>
+                <add>דתניא כל יב' חודש גופו קיים ונשמתו עולה ויורדת לאחר יב' חודש</add><lb/> "It was
+                taught (by the earlier Rabbis) that during the<lb/> months (after death) the body
+                remains uncorrup-<lb/>ted; and <del>his</del> the soul ascends and descends
+                (visiting the<lb/> spot where <del>his</del> its former <del>vehicle</del> tenement
+                is <del>interred</del> buried); but after<lb/> two<add>?</add> months the body is
+                dissolved and <del>his</del> the<lb/> soul ascends to return never again." Sabbath
+                151)<lb/> Hence we read in Moreh Nebuchim of <persName>maimonides</persName><lb/>
+                Part I. ch. 40 <add>הגוף בטל ונשמתו עולה ושוב אינה יורדת</add><lb/> "The noun <hi
+                    rend="underline">Rusach</hi> is also the name of that<lb/> substance which
+                    <del>is</del> remains of man after death<lb/> and which is not
+                    <del>exposed</del> liable to dissolution," and<lb/> (<hi rend="underline"
+                    >ibid</hi> 41 chapter xli) we read the same definition<lb/> of the term <add>רוח
+                    וגו' והוא גם כן שם דבר הנשאר מן האדם אחר</add>. I shall say nothing about<lb/>
+                the <add>המות אשר לא ישיגהו ההפסד</add> that the bodies of the dead<lb/> must roll
+                themselves through <del>caves</del> subterranean channels to
+                    <placeName>Palestine</placeName><lb/> where they will be revived, nor about
+                the</p>
+            <pb n="2R"/>
+            <p>opinion <add>נפש</add> that the pious who have arisen<lb/> from death will be
+                assembled in a tent made<lb/> of the skin of the Leviathan, and that they will<lb/>
+                eat at a great feast the flesh of that <del>very</del><lb/> fabulous fish, which was
+                killed and salted<lb/> by God for this purpose soon after the<lb/> creation; though
+                these are substantial<lb/> portions of the resurrection-creed of those, which<lb/>
+                you please to call orthodox, because they try<lb/> to explain those singular
+                assertions to be of a<lb/> parabolic nature; but we have the same right to<lb/> say
+                all statements about the revival of the body<lb/> are of the same nature. I shall
+                confine myself<lb/> exclusively to the question of the resurrection of the<lb/>
+                body. The surface of the earth contains one hundred and fifty six million, two
+                hundred fifty thousand<lb/>
+                <del>156 250 000</del> square miles of land including<lb/>
+                <del>the</del> the vast regions of sandy deserts, stony<lb/> mountains, marshes and
+                swamps, large<lb/> districts covered with perpetual snow and ice<lb/> and other
+                uninhabitable portions. The present<lb/> population of our globe is
+                    <sic>estemated</sic>
+                <del>1200000000</del> twelve hundred millions;<lb/> if we suppose <del>that</del>
+                one generation <del>take</del> to be<lb/> 30 years, and that since the creation
+                of<lb/> man be <date>5611</date> years, there must have been then<lb/> our earth 187
+                generations, which would give<del>s</del> the sum<lb/> of individuals <hi
+                    rend="underline">1200,000,000x187</hi><lb/>2*=112200000000,<lb/> which would
+                give a population of 72 to<lb/> a square mile, if the resurrection take place<lb/>
+                in our age; none of our friends has ever<lb/> lost himself so far in mystical
+                conjectures,<lb/> as to think it natural, that such a popu-<lb/>lation should exist
+                on earth. Our old<lb/> brethren have two different methods to help<lb/> themselves
+                out of this difficulty; they say <hi rend="underline">first</hi><lb/>
+                <add>צער גלגול מחילות</add></p>
+            <p rend="The following is a note in the right margin, near the bottom of the page.">*
+                There is <add>?</add><lb/>ly an error in <persName>D W's</persName><lb/> formula
+                here, we see<lb/> no reason for dividing<lb/> the product by two;<lb/> our calculation<lb/>
+                <del>would</del> the population<lb/> after these dates<lb/> 1436 to a square<lb/>
+                mile.</p>
+            <pb n="2V"/>
+            <p>"<del>It be</del> know<del>n</del> that the world to come is<lb/> made for none but
+                the righteous and the<lb/> Isralites" (Jebanoth 46.). But this is not in<lb/>
+                <sic>accordence</sic> with the passage in <persName>Daniel</persName>, which<lb/>
+                they suppose to be the expressive of the doctrine<lb/> of the <sic>resurection</sic>
+                of the body. "And many of<lb/> those who sleep in the dust of the ground<lb/> he
+                shall awake, some to an everlasting<lb/> life and some to shame and everlasting<lb/>
+                reproach" (<persName>Daniel</persName> IIX 2) If our friends will<lb/> insist
+                    <del>admit</del>, that <persName>Daniel</persName> speaks in this chapter
+                only<lb/> of <placeName>Israel</placeName>, then they cannot help saying but
+                that<lb/> only many of <placeName>Israel</placeName> will arise; some of these<lb/>
+                who arise<del>n</del>
+                <del>individuals</del> will be a shame and an<lb/> everlasting reproach,
+                consequently they must ad-<lb/>mit, that among those what will arise will be<lb/>
+                wicked people also; to <del>say</del> assert the wicked shall<lb/> arise and die
+                again is incompatible with the<lb/> text, in which the <add>סעודה וסוכה של
+                    לויתן</add> "everlasting" prohibits such<lb/> a construction. And if this contradiction<lb/>
+                <del>should</del> is not to exist, our old friends cannot remove<lb/> the difficulty
+                by the above quoted conjecture;<lb/> for it is <del>sure enough</del>
+                unquestionable, that five children die to<lb/> one grown person, and what wrong can
+                a<lb/> child have done? and among the rest of<lb/>
+                <del>people</del> mankind they must reckon <add>הוי יודע שהעולם הבא אינו עשוי אלא
+                    לצדיקים ולישראל</add><lb/> "one half innocent and one other half guilty",
+                which<lb/> is a strict talmudical principle; consequently<lb/> the immense
+                    <sic>numbre</sic> of 720 to a square<lb/> mile would be immaterially reduced.
+                They<lb/> cannot remove this difficulty by conjecturing,<lb/> that them who has
+                    <del>a</del>risen <del>people</del> will be of such a<lb/> spiritual nature,
+                that they have no wants<lb/> whatever; for this would be no resurrection<lb/> of the
+                same body, but a new creation;</p>
+        </body>
+    </text>
 </TEI>

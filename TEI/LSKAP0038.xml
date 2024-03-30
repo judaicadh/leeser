@@ -1,302 +1,381 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="yes">Sollas, M. M.</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>LSKAP</repository>
-						<collection>The Arnold and Deanne Kaplan Collection of Early American Judaica</collection>
-						<idno>LSKAP0038</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="yes">Sollas, M. M.</author>
-						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac</addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>Kingston, Jamaica</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1844-11" source="" attested="yes">November 14, 1844</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="LSKAP0038_1R.jpg"></graphic>
-								<graphic url="LSKAP0038_1V.jpg"></graphic>
-								<graphic url="LSKAP0038_2R.jpg"></graphic>
-								<graphic url="LSKAP0038_2V.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="false" paper_type="" size="">letter</material>
-								</support>
-								<extent>4 pages on 2 sheets
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="manuscript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="restricted">
-								<p>Restricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1R"/>
-				<p rend="align(right)"><placeName>Kingston Jamaica</placeName></p>
-				<p rend="align(right)"><date>14 Nover 1844</date></p>
-				<p>My dear Friend</p>
-			<p rend="indent(2)">Business has brought me to <add>&#63;</add>&#44; and I<lb/> am therefore enabled to reply to your favor of <date>9 Oct</date> last.<lb/>  When I wrote to you about the spiced Beef&#44; I thought there<lb/> was some establishment in your city or in <placeName>New York</placeName><lb/> for the putting up Beef for Exportation&#8212;If however<lb/> appears from your letter there is no such estbl.&#44; I shall<lb/> not therefore trouble you&#44; as I find I may be able to<lb/> procure the article as I cheap from <placeName>London</placeName>&#8212;</p>
-			<p rend="indent(1)">I notice with great attention your observation<lb/> on the state of Judaism in <placeName>America</placeName> &#38; your propose&#61;<lb/>tion to establish a Tract society for the benefit &#38; in<lb/>formation of the <hi rend="underline">poor</hi>.  But I am of opinion my<lb/> dear Friend&#44; that we should labour to excite the<lb/> minds of the wealthy &#38; bring them to a proper<lb/> sense of correctness&#44; when shall succeed in this&#44;<lb/> then of necessity will the poor follow the example<lb/> of those to whom they are in a great measure<lb/> indebted for their common means of support.<lb/>  This not to say the poor are ignorant&#44; but I tell you<lb/> the Rich are criminally so&#44; this by their example&#44;<lb/> of outrage against religious ordinances&#44; that the<lb/> poor follow&#44; &#38; when they see one who walks in a<lb/> high sphere of life violating these principles&#44; they<lb/> &#40;the poor&#41; <add>&#63;</add> <add>&#63;</add> of this as an excuse to <add>&#63;</add> <add>&#63;</add><lb/> their guilt.  I know it is so <hi rend="underline">here</hi>&#44; &#38; if any<lb/> opinion is not wrong&#44; then it is so in other places<lb/> I shall however think over this subject&#44; &#38; introduce<lb/> it to the consideration of our people here.</p>
-			<pb n="1V"/>
-				<p>I can hear nothing about the Book you state you have<lb/> sent me.  I fear the vessel was bound to <placeName><sic>Montigo</sic> Bay</placeName><lb/> thence it has not reached me.  Who did you direct<lb/> it to&#63;  Thus it is your Occidents are so long reaching<lb/> us&#8212;you should be more particular in your<lb/> information whenever you send us your works<lb/> or any other.</p>
-			<p rend="indent(1)">I send you a statement of our a&#47;c from last<lb/> settlement.  Namely</p>
-				<p><date>Mar 1843</date></p>
-				<table rows="8 " cols=" 2">
-				<row>
-				<cell>1 set Books sold for</cell>
-				<cell>4.16.0 stg<add>&#63;</add></cell>
-				</row>
-				<row>
-				<cell>1 do extra bound...</cell>
-				<cell>5. 8.0</cell>
-				</row>
-				<row>
-				<cell>2 setts Blinds....</cell>
-				<cell>4. 4.0</cell>
-				</row>
-				<row>
-				<cell>1 set Books.....</cell>
-				<cell>5. &#45;  &#45;</cell>
-				</row>
-				<row>
-				<cell>1 set Do <persName>Lopez</persName> ...</cell>
-				<cell><hi rend="underline">4.16.0</hi></cell>
-				</row>
-				<row>
-				<cell/>
-				<cell>24&#58;4&#58;0</cell>
-				</row>
-				<row>
-				<cell>cash remitted acts 4 3 .....</cell>
-				<cell><hi rend="underline">15</hi></cell>
-				</row>
-				<row>
-				<cell/>    
-				<cell><add>&#63;</add> 9&#58;4.0</cell>
-				</row>
-				</table>
-				<p>This is the Bals<add>&#63;</add> I requested</p>
-				<p><persName>Mr Peixotto</persName> to pay you for me.  <persName>Mr Joseph</persName> has<lb/> to settle for 1 set <hi rend="underline">you</hi> sent <hi rend="underline">him</hi>.  &#38; our set he<lb/> owes me for&#8212;Both of which he will arrange for<lb/> by flyer.  deducting duties paid &#38; 11&#36; advanced<lb/> poor <add>&#63;</add> <del>for</del> on same a&#47;c. also some of your<lb/> catechisms <hi rend="underline">he</hi> sold.  I have on hand for you<lb/> some of the Daily prayer Books&#44; I believe 2 <hi rend="underline">sets</hi><lb/> &#38; some of your other Books.  I gave over to <persName>DCordova</persName><lb/> your Sermons&#44; but I believe he has such done<lb/> much with them.  You can look into this<lb/> statement &#38; if there is any thing you wish<lb/> to be explained I will gladly do so.  Do not sup&#61;<lb/>pose I would sacrifice your Books&#44; I say so&#44;<lb/>  because you write&#44; &#8220;I hope the 41&#36; and are <hi rend="underline">not</hi><lb/> &#8220;all you have got for the 2 sets of prayer Books<lb/> &#8220;as that would be less than I sell them for here &#38;c<lb/> &#8220;&#38;c&#8221;</p>
-			<pb n="2R"/>
-				<p>but I think you are thinking of the 2 sets I<lb/> offered to <persName>Rev Lindo</persName>&#8212;but which he did not take<lb/> if so you are in error&#44; &#38; you are richer in<lb/> Books here&#44; than you expected.</p>
-			<p rend="indent(1)">The &#8220;First Fruits&#8221; seem bl<add>&#63;</add>&#8212;you know<lb/> you already think I am <hi rend="underline">prejudiced</hi>&#44; therefore<lb/> I will be silent when <persName>Nathan</persName> is in question</p>
-			<p rend="indent(1)">God bless you&#44; &#38; keep you in his<lb/> keeping are the prayer of</p>
-			<p rend="indent(7)">Yours Sincerely</p>
-			<p rend="indent(8)"><persName role="author">M<add>&#63;</add> M Sollas</persName></p>
-				<p><persName>Mr Alexr. Moralles</persName> mentioned to me<lb/> that he offered 2 &#189; &#36; when called to<lb/> Sepher in <placeName>Phda</placeName>&#44; which he left with<lb/> <persName>Mr. T. Tucker</persName> of <persName>Jas Barclay&#39;s</persName>&#44; <placeName>South<lb/> Wharfs</placeName>&#44; to hand over to you&#8212;if not<lb/> get paid&#44; please apply for it &#38;<lb/> let me know if its paid<add>&#63;</add></p>
-			<p rend="indent(5)"><hi rend="underline"><persName role="author">MS</persName></hi></p>
-			<pb n="2V"/>
-				<p rend="align(right)"><persName role="author">M M. Sollis</persName></p>
-				<p rend="align(right)"><placeName>Kingston Ja</placeName></p>
-				<p rend="align(right)"><date>Nov 14&#63;&#47;44</date></p>
-			<p rend="indent(5)">The <addressee>Revd. Isaac Leeser</addressee></p>
-				<p rend="indent(6)"><placeName>Philadelphia</placeName></p>
-			<p rend="indent(5)">via&#8212;</p>
-			<p rend="indent(5)"><placeName>Baltimore</placeName></p>
-		</body>
-	</text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="yes">Sollas, M. M.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>LSKAP</repository>
+                        <collection>The Arnold and Deanne Kaplan Collection of Early American
+                            Judaica</collection>
+                        <idno>LSKAP0038</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="yes">Sollas, M. M.</author>
+                        <addressee accepted="yes" attested="yes" editor="false">Leeser,
+                            Isaac</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Kingston, Jamaica</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1844-11">November 14, 1844</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="LSKAP0038_1R.jpg"/>
+                                <graphic url="LSKAP0038_1V.jpg"/>
+                                <graphic url="LSKAP0038_2R.jpg"/>
+                                <graphic url="LSKAP0038_2V.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >letter</material>
+                                </support>
+                                <extent>4 pages on 2 sheets <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="restricted">
+                                <p>Restricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1R"/>
+            <p rend="align(right)">
+                <placeName>Kingston Jamaica</placeName>
+            </p>
+            <p rend="align(right)">
+                <date>14 Nover 1844</date>
+            </p>
+            <p>My dear Friend</p>
+            <p rend="indent(2)">Business has brought me to <add>?</add>, and I<lb/> am therefore
+                enabled to reply to your favor of <date>9 Oct</date> last.<lb/> When I wrote to you
+                about the spiced Beef, I thought there<lb/> was some establishment in your city or
+                in <placeName>New York</placeName><lb/> for the putting up Beef for Exportation—If
+                however<lb/> appears from your letter there is no such estbl., I shall<lb/> not
+                therefore trouble you, as I find I may be able to<lb/> procure the article as I
+                cheap from <placeName>London</placeName>—</p>
+            <p rend="indent(1)">I notice with great attention your observation<lb/> on the state of
+                Judaism in <placeName>America</placeName> &amp; your propose=<lb/>tion to establish
+                a Tract society for the benefit &amp; in<lb/>formation of the <hi rend="underline"
+                    >poor</hi>. But I am of opinion my<lb/> dear Friend, that we should labour to
+                excite the<lb/> minds of the wealthy &amp; bring them to a proper<lb/> sense of
+                correctness, when shall succeed in this,<lb/> then of necessity will the poor follow
+                the example<lb/> of those to whom they are in a great measure<lb/> indebted for
+                their common means of support.<lb/> This not to say the poor are ignorant, but I
+                tell you<lb/> the Rich are criminally so, this by their example,<lb/> of outrage
+                against religious ordinances, that the<lb/> poor follow, &amp; when they see one who
+                walks in a<lb/> high sphere of life violating these principles, they<lb/> (the poor)
+                    <add>?</add>
+                <add>?</add> of this as an excuse to <add>?</add>
+                <add>?</add><lb/> their guilt. I know it is so <hi rend="underline">here</hi>, &amp;
+                if any<lb/> opinion is not wrong, then it is so in other places<lb/> I shall however
+                think over this subject, &amp; introduce<lb/> it to the consideration of our people
+                here.</p>
+            <pb n="1V"/>
+            <p>I can hear nothing about the Book you state you have<lb/> sent me. I fear the vessel
+                was bound to <placeName><sic>Montigo</sic> Bay</placeName><lb/> thence it has not
+                reached me. Who did you direct<lb/> it to? Thus it is your Occidents are so long
+                reaching<lb/> us—you should be more particular in your<lb/> information whenever you
+                send us your works<lb/> or any other.</p>
+            <p rend="indent(1)">I send you a statement of our a/c from last<lb/> settlement.
+                Namely</p>
+            <p>
+                <date>Mar 1843</date>
+            </p>
+            <table cols=" 2" rows="8 ">
+                <row>
+                    <cell>1 set Books sold for</cell>
+                    <cell>4.16.0 stg<add>?</add></cell>
+                </row>
+                <row>
+                    <cell>1 do extra bound...</cell>
+                    <cell>5. 8.0</cell>
+                </row>
+                <row>
+                    <cell>2 setts Blinds....</cell>
+                    <cell>4. 4.0</cell>
+                </row>
+                <row>
+                    <cell>1 set Books.....</cell>
+                    <cell>5. - -</cell>
+                </row>
+                <row>
+                    <cell>1 set Do <persName>Lopez</persName> ...</cell>
+                    <cell>
+                        <hi rend="underline">4.16.0</hi>
+                    </cell>
+                </row>
+                <row>
+                    <cell/>
+                    <cell>24:4:0</cell>
+                </row>
+                <row>
+                    <cell>cash remitted acts 4 3 .....</cell>
+                    <cell>
+                        <hi rend="underline">15</hi>
+                    </cell>
+                </row>
+                <row>
+                    <cell/>
+                    <cell><add>?</add> 9:4.0</cell>
+                </row>
+            </table>
+            <p>This is the Bals<add>?</add> I requested</p>
+            <p><persName>Mr Peixotto</persName> to pay you for me. <persName>Mr Joseph</persName>
+                has<lb/> to settle for 1 set <hi rend="underline">you</hi> sent <hi rend="underline"
+                    >him</hi>. &amp; our set he<lb/> owes me for—Both of which he will arrange
+                for<lb/> by flyer. deducting duties paid &amp; 11$ advanced<lb/> poor <add>?</add>
+                <del>for</del> on same a/c. also some of your<lb/> catechisms <hi rend="underline"
+                    >he</hi> sold. I have on hand for you<lb/> some of the Daily prayer Books, I
+                believe 2 <hi rend="underline">sets</hi><lb/> &amp; some of your other Books. I gave
+                over to <persName>DCordova</persName><lb/> your Sermons, but I believe he has such
+                done<lb/> much with them. You can look into this<lb/> statement &amp; if there is
+                any thing you wish<lb/> to be explained I will gladly do so. Do not sup=<lb/>pose I
+                would sacrifice your Books, I say so,<lb/> because you write, “I hope the 41$ and
+                are <hi rend="underline">not</hi><lb/> “all you have got for the 2 sets of prayer
+                Books<lb/> “as that would be less than I sell them for here &amp;c<lb/> “&amp;c”</p>
+            <pb n="2R"/>
+            <p>but I think you are thinking of the 2 sets I<lb/> offered to <persName>Rev
+                    Lindo</persName>—but which he did not take<lb/> if so you are in error, &amp;
+                you are richer in<lb/> Books here, than you expected.</p>
+            <p rend="indent(1)">The “First Fruits” seem bl<add>?</add>—you know<lb/> you already
+                think I am <hi rend="underline">prejudiced</hi>, therefore<lb/> I will be silent
+                when <persName>Nathan</persName> is in question</p>
+            <p rend="indent(1)">God bless you, &amp; keep you in his<lb/> keeping are the prayer
+                of</p>
+            <p rend="indent(7)">Yours Sincerely</p>
+            <p rend="indent(8)">
+                <persName role="author">M<add>?</add> M Sollas</persName>
+            </p>
+            <p><persName>Mr Alexr. Moralles</persName> mentioned to me<lb/> that he offered 2 ½ $
+                when called to<lb/> Sepher in <placeName>Phda</placeName>, which he left with<lb/>
+                <persName>Mr. T. Tucker</persName> of <persName>Jas Barclay's</persName>,
+                    <placeName>South<lb/> Wharfs</placeName>, to hand over to you—if not<lb/> get
+                paid, please apply for it &amp;<lb/> let me know if its paid<add>?</add></p>
+            <p rend="indent(5)">
+                <hi rend="underline">
+                    <persName role="author">MS</persName>
+                </hi>
+            </p>
+            <pb n="2V"/>
+            <p rend="align(right)">
+                <persName role="author">M M. Sollis</persName>
+            </p>
+            <p rend="align(right)">
+                <placeName>Kingston Ja</placeName>
+            </p>
+            <p rend="align(right)">
+                <date>Nov 14?/44</date>
+            </p>
+            <p rend="indent(5)">The <addressee>Revd. Isaac Leeser</addressee></p>
+            <p rend="indent(6)">
+                <placeName>Philadelphia</placeName>
+            </p>
+            <p rend="indent(5)">via—</p>
+            <p rend="indent(5)">
+                <placeName>Baltimore</placeName>
+            </p>
+        </body>
+    </text>
 </TEI>

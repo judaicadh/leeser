@@ -1,254 +1,282 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE TEI [
-<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
-%teibase;
-<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
-%teiext;
-]>
-<TEI>
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="yes">Illowy?</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>LSKAP</repository>
-						<collection>The Arnold and Deanne Kaplan Collection of Early American Judaica</collection>
-						<idno>LSKAP20-1060</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="yes">Illowy?</author>
-						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac</addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet></placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="" source="" attested="unk"></dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="leeser_20_1060_a001.jpg"></graphic>
-								<graphic url="leeser_20_1060_a002.jpg"></graphic>
-								<graphic url="leeser_20_1060_b001.jpg"></graphic>
-								<graphic url="leeser_20_1060_b002.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="true" paper_type="" size="Letter">letter</material>
-								</support>
-								<extent>2 pages on 2 sheets
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="manuscript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="restricted">
-								<p>Restricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="de">German</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1"/>
-				<p>Rev<hi rend="sup">d</hi> <sic><addressee>Isaac Lesser</addressee></sic> in <placeName>Philadelphia</placeName></p>
-			<p rend="indent(1)">Geehrter Herr&#33;  Wurdhen Freund<lb/> Sie haben wahrscheinlich doch meinen letzten<lb/> Brief erhalten ins welchem ich Sie ersuchte<lb/> mir den letzten Jahrgang des Occident<lb/> zu schicken Behalten aber keine Antwort erfolgte&#44;<lb/> Ich erlaube mir darum da mir daran<lb/> gelegen ist denselben zu haben&#44; <del>mit</del> Sie noch ein&#45;<lb/>mal zu ersuchen mir selben durch Adams<lb/> Express einzusenden&#44; ich h&#228;tte Ihren die<lb/> &#36;300 daf&#252;r gliech beigelege da mir aber<lb/> hier keine kleinere Noten als &#36;500<lb/> haben&#44; so <add>&#63;</add> Sie mir an jemand an&#45;<lb/>weisen und ich will es sogleich bezahlen<lb/> oder wenn Sie so gut sein wollen sagen<lb/> Sie <add>&#63;</add> <persName>B Abeles</persName> ich lasse ihn bitten<lb/> Ihnen f&#252;r mich &#36;300 zu bezahlen und<lb/> ich werde ihn selbe durch <persName>herrn Gr&#252;nsfelder</persName><lb/> von hier wieder zu <add>&#63;</add> lassen&#44; es sind<lb/> mir zuf&#228;llig die alten Bl&#228;tter abhanden<lb/> gekommen und ich habe in diesem Jahrgang<lb/> mehrere Artikel darin an denen<lb/> mir gelegen ist sie zu haben&#44; auch bitte<lb/> Sie ob Sie die Gute h&#228;tten u mir das Inhalts&#45;<lb/>blatt von den vorletzten Jahrgang des<lb/> Occident schicken wollten&#44; wodurch in sehr<lb/> verbindlich machen werden Ihren<lb/> Aufrigen Freund</p>
-				<p><persName role="author">Illowy<add>&#63;</add></persName></p>
-			<pb n="2"/>
-				<p>The writer asks <del>Lesser</del> <persName>Leeser</persName> to send him<lb/> last year&#39;s edition of the Occident.<lb/>  He had asked him before but did not<lb/> get an answer.  He also relates that<lb/> the smallest bill he has is &#36;5.&#8212; and<lb/> it is for this reason that he did not<lb/> enclose &#36;3.&#8212;He <sic>suggest</sic> that <persName>Leeser</persName><lb/> should ask <persName>Mr. B. Abeles</persName> to give him<lb/> &#36;3.&#8212;He will return the money by<lb/> way of <persName>Mr. Gr&#252;nsfelder</persName>.  In conclusion<lb/> he asks for the sheets showing the<lb/> content of the <sic>occidents</sic> of the year before<lb/> last.</p>
-				<p><persName role="author">Illoway&#63;</persName></p>
-		</body>
-	</text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="yes">Illowy?</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>LSKAP</repository>
+                        <collection>The Arnold and Deanne Kaplan Collection of Early American
+                            Judaica</collection>
+                        <idno>LSKAP20-1060</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="yes">Illowy?</author>
+                        <addressee accepted="yes" attested="yes" editor="false">Leeser,
+                            Isaac</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet/>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="unk" source="" when=""/>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="leeser_20_1060_a001.jpg"/>
+                                <graphic url="leeser_20_1060_a002.jpg"/>
+                                <graphic url="leeser_20_1060_b001.jpg"/>
+                                <graphic url="leeser_20_1060_b002.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="true" paper_type="" size="Letter"
+                                        >letter</material>
+                                </support>
+                                <extent>2 pages on 2 sheets <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="restricted">
+                                <p>Restricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="de">German</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <p>Rev<hi rend="sup">d</hi>
+                <sic><addressee>Isaac Lesser</addressee></sic> in
+                    <placeName>Philadelphia</placeName></p>
+            <p rend="indent(1)">Geehrter Herr! Wurdhen Freund<lb/> Sie haben wahrscheinlich doch
+                meinen letzten<lb/> Brief erhalten ins welchem ich Sie ersuchte<lb/> mir den letzten
+                Jahrgang des Occident<lb/> zu schicken Behalten aber keine Antwort erfolgte,<lb/>
+                Ich erlaube mir darum da mir daran<lb/> gelegen ist denselben zu haben,
+                    <del>mit</del> Sie noch ein-<lb/>mal zu ersuchen mir selben durch Adams<lb/>
+                Express einzusenden, ich hätte Ihren die<lb/> $300 dafür gliech beigelege da mir
+                aber<lb/> hier keine kleinere Noten als $500<lb/> haben, so <add>?</add> Sie mir an
+                jemand an-<lb/>weisen und ich will es sogleich bezahlen<lb/> oder wenn Sie so gut
+                sein wollen sagen<lb/> Sie <add>?</add>
+                <persName>B Abeles</persName> ich lasse ihn bitten<lb/> Ihnen für mich $300 zu
+                bezahlen und<lb/> ich werde ihn selbe durch <persName>herrn
+                Grünsfelder</persName><lb/> von hier wieder zu <add>?</add> lassen, es sind<lb/> mir
+                zufällig die alten Blätter abhanden<lb/> gekommen und ich habe in diesem
+                Jahrgang<lb/> mehrere Artikel darin an denen<lb/> mir gelegen ist sie zu haben, auch
+                bitte<lb/> Sie ob Sie die Gute hätten u mir das Inhalts-<lb/>blatt von den
+                vorletzten Jahrgang des<lb/> Occident schicken wollten, wodurch in sehr<lb/>
+                verbindlich machen werden Ihren<lb/> Aufrigen Freund</p>
+            <p>
+                <persName role="author">Illowy<add>?</add></persName>
+            </p>
+            <pb n="2"/>
+            <p>The writer asks <del>Lesser</del>
+                <persName>Leeser</persName> to send him<lb/> last year's edition of the
+                Occident.<lb/> He had asked him before but did not<lb/> get an answer. He also
+                relates that<lb/> the smallest bill he has is $5.— and<lb/> it is for this reason
+                that he did not<lb/> enclose $3.—He <sic>suggest</sic> that
+                    <persName>Leeser</persName><lb/> should ask <persName>Mr. B. Abeles</persName>
+                to give him<lb/> $3.—He will return the money by<lb/> way of <persName>Mr.
+                    Grünsfelder</persName>. In conclusion<lb/> he asks for the sheets showing
+                the<lb/> content of the <sic>occidents</sic> of the year before<lb/> last.</p>
+            <p>
+                <persName role="author">Illoway?</persName>
+            </p>
+        </body>
+    </text>
 </TEI>

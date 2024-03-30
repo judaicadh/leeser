@@ -1,277 +1,326 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE TEI [
-<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
-%teibase;
-<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
-%teiext;
-]>
-<TEI>
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="yes">Strause, Isaac</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>LSKAP</repository>
-						<collection>The Arnold and Deanne Kaplan Collection of Early American Judaica</collection>
-						<idno>LSKAP0154</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="yes">Strause, Isaac</author>
-						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac</addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>Wilkes-Barre, PA</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1852-12" source="" attested="yes">December 23, 1852</dateLet>
-						<dateLet when="1852-12" source="" attested="yes">5613</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="LSKAP0154_1r.jpg"></graphic>
-								<graphic url="LSKAP0154_1v.jpg"></graphic>
-								<graphic url="LSKAP0154_2r.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="true" paper_type="" size="">letter</material>
-								</support>
-								<extent>4 pages on 2 sheets
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="manuscript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="restricted">
-								<p>Restricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-				<language ident="he">Hebrew</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1R"/>
-				<p rend="align(right)"><placeName>Wilkes Barre</placeName> <date>December 23<hi rend="sup">th</hi> 5613 <add>1852</add></date></p>
-				<p><addressee>Reverend Isaac Leeser</addressee>&#44; <placeName>Pa.</placeName></p>
-			<p rend="indent(1)">Dear Sir&#44; Having the pleasure of being already introduced<lb/> to you&#8212;occasionally&#44; when for two years ago I presented you<lb/> my little work&#44; styled&#58; Polyglott Porkesbook<add>&#63;</add> in 6 different languages&#8212;<lb/> you will pardon me for the liberty I take now by forwarding to you<lb/> some sheets of a new work&#44; which since my reentering upon<lb/> the duty of ministry here&#44; in <placeName>Wilkes Barre</placeName>&#44; has taken up my hours<lb/> of leisure.  It is this a translation of <persName>D. Ottensoser&#39;s</persName><lb/> work&#44; called<lb/> <add>Hebrew</add><lb/> into the English.  The merit of this work is mainly&#58;</p>
-				<list type="ordered">
-				<item n="1">its being based upon the best Historians of ours&#44;<lb/> as the authors of the books <add>Hebrew</add>&#44; <persName>Josephus</persName>&#44; u.s.f.</item>
-				<item n="2">its adopting the pious principle&#44; that the traditions of<lb/> our <sic>forfathers</sic> must be for us a law&#59; they must not<lb/> depart from our mouth and from the mouth of our children<lb/> from henceforth and for evermore.</item>
-				<item n="3">The author never neglects to point out in especial notes<lb/> the <sic>souces</sic>&#44; out of which his statements are <sic>depickted</sic>&#59;</item>
-				<item n="4">its completeness.  The author sought never to overlook<lb/> any important fact&#44; and to relate in a noble and powerful</item>
-				</list>
-			<pb n="1V"/>
-				<p>style without to weary the curiosity of the reader with<lb/> useless triflings&#44; and 5. its cheapness.&#8212;&#36;2.00 for the whole&#8212;</p>
-			<p rend="indent(1)">I am of opinion&#44; that a History of our people&#44; managed<lb/> under such aspects and written in the Vernacular cannot<lb/> but prove great utility both to families and schools.<lb/>  But even to scholars of profession a work of that kind<lb/> must open a wide field for investigations inasmuch as<lb/> it differs from other Historians and as it offers an acquaintance<lb/> with a large part of jewish Literature.</p>
-			<p rend="indent(1)">As far as my small ability goes I did all I could<lb/> to render the author&#39;s ideas faithfully and to give a correct<lb/> transcript of the original&#44; though many notes and explanations<lb/> are anexed<add>&#63;</add> which I thought proper to insert.</p>
-			<p rend="indent(1)">Now from the above <sic>motivs</sic>&#44; and&#8212;if you like&#8212;to<lb/> overread the <sic>inclosed</sic> few sheets you&#44; a most competent<lb/> judge easily can decide&#44; whether a work of that kind<lb/> will meet the taste and favor of the public or not.<lb/>  Have no regard whatever for myself if you find fault<lb/> with that what now is subject to your judgment&#44; and<lb/> favor me with your opinion about it.  IN case&#44;<lb/> that the proof should meet your <sic>aprobation</sic> and you were of<lb/> opinion&#44; that the public likewise may welcome it&#44; then I<lb/> again will enter upon the purifying and conclusion of the<lb/> work.  Meanwhile you would oblige me very much if you<lb/> were pleased to insert the <sic>anexed</sic> <hi rend="underline">Call</hi> in the next<lb/> numbers of your high esteemed &#8222;<hi rend="underline">Occident</hi>&#8221; accompanied by</p>
-			<pb n="2R"/>
-				<p>a few words of recommendation and to induce your agents<lb/> to receive subscriptions.  Of course&#44; in order that the public<lb/> may be able to form an idea of that what there may to be<lb/> expected it becomes necessary to have a specimen before<lb/> their eyes.  One or two chapters of the work inserted in your<lb/> esteemed Periodical would answer the purpose&#8212;if you<lb/> like to do so.&#8212;</p>
-			<p rend="indent(1)">Please and send me up the following months of the<lb/> &#8222;Occident&#8221; of this year&#44; &#91;<sic>inclosed</sic> you will receive the amount for&#93;&#44;<lb/> and so I am in possession of the <hi rend="underline">ten volumes</hi> of the above<lb/> Periodical&#44; but most of them being not complete&#44; you will show me<lb/> another great favor by forwarding to me those numbers&#44; which<lb/> I am lacking&#44; to a moderate price. Viz&#58;</p>
-				<p>of Vol. I&#44; year <date>1843</date>&#44; the numbers....<hi rend="underline">2.3.4.6</hi></p>
-				<p>&#8220; Vol. II&#44; year <date>1844</date>   &#8220;       &#8220;   ......10.11.12.</p>
-				<p>&#8220; Vol. IV&#44; year <date>1846</date>. &#8220;      &#8220;   .... 1.2.3.4.5.6.8.</p>
-				<p>&#8220; Vol. V year <date>1847</date>&#44;    &#8220;      &#8220; 6&#44; 9&#44; 12.</p>
-				<p>&#8220; Vol. VI year <date>1848</date>   &#8220;       &#8220; 1&#44; 4&#44; 5&#44; 6&#44; 7&#44; 8&#44; 10&#44; 11&#44; 12.</p>
-				<p>&#8220; Vol. VII yr. <date>1849</date>    &#8220;       &#8220; 1&#44; 2&#44; 3&#44; 4&#44; 5&#44; 7&#44; 9&#44; 10&#44; 12.</p>
-				<p>The following volumes till presently are complete.</p>
-			<p rend="indent(1)">In expectation a kind reply&#44; I am</p>
-			<p rend="indent(1)">Reverend Sir</p>
-			<p rend="indent(3)">your most obedt. Servant</p>
-			<p rend="indent(3)"><persName role="author">Isaac Strause</persName></p>
-		</body>
-	</text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="yes">Strause, Isaac</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>LSKAP</repository>
+                        <collection>The Arnold and Deanne Kaplan Collection of Early American
+                            Judaica</collection>
+                        <idno>LSKAP0154</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="yes">Strause,
+                            Isaac</author>
+                        <addressee accepted="yes" attested="yes" editor="false">Leeser,
+                            Isaac</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Wilkes-Barre, PA</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1852-12">December 23, 1852</dateLet>
+                        <dateLet attested="yes" source="" when="1852-12">5613</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="LSKAP0154_1r.jpg"/>
+                                <graphic url="LSKAP0154_1v.jpg"/>
+                                <graphic url="LSKAP0154_2r.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="true" paper_type="" size=""
+                                        >letter</material>
+                                </support>
+                                <extent>4 pages on 2 sheets <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="restricted">
+                                <p>Restricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="he">Hebrew</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1R"/>
+            <p rend="align(right)">
+                <placeName>Wilkes Barre</placeName>
+                <date>December 23<hi rend="sup">th</hi> 5613 <add>1852</add></date>
+            </p>
+            <p><addressee>Reverend Isaac Leeser</addressee>, <placeName>Pa.</placeName></p>
+            <p rend="indent(1)">Dear Sir, Having the pleasure of being already introduced<lb/> to
+                you—occasionally, when for two years ago I presented you<lb/> my little work,
+                styled: Polyglott Porkesbook<add>?</add> in 6 different languages—<lb/> you will
+                pardon me for the liberty I take now by forwarding to you<lb/> some sheets of a new
+                work, which since my reentering upon<lb/> the duty of ministry here, in
+                    <placeName>Wilkes Barre</placeName>, has taken up my hours<lb/> of leisure. It
+                is this a translation of <persName>D. Ottensoser's</persName><lb/> work, called<lb/>
+                <add>געשיכטע דער יהודים [אונד איהרער ליטעראטור</add><lb/> into the English. The
+                merit of this work is mainly:</p>
+            <list type="ordered">
+                <item n="1">its being based upon the best Historians of ours,<lb/> as the authors of
+                    the books <add>פאן איהרער ריקקעהר אויז דער באבילאנישען געפאנגענשאפט</add>,
+                        <persName>Josephus</persName>, u.s.f.</item>
+                <item n="2">its adopting the pious principle, that the traditions of<lb/> our
+                        <sic>forfathers</sic> must be for us a law; they must not<lb/> depart from
+                    our mouth and from the mouth of our children<lb/> from henceforth and for
+                    evermore.</item>
+                <item n="3">The author never neglects to point out in especial notes<lb/> the
+                        <sic>souces</sic>, out of which his statements are
+                    <sic>depickted</sic>;</item>
+                <item n="4">its completeness. The author sought never to overlook<lb/> any important
+                    fact, and to relate in a noble and powerful</item>
+            </list>
+            <pb n="1V"/>
+            <p>style without to weary the curiosity of the reader with<lb/> useless triflings, and
+                5. its cheapness.—$2.00 for the whole—</p>
+            <p rend="indent(1)">I am of opinion, that a History of our people, managed<lb/> under
+                such aspects and written in the Vernacular cannot<lb/> but prove great utility both
+                to families and schools.<lb/> But even to scholars of profession a work of that
+                kind<lb/> must open a wide field for investigations inasmuch as<lb/> it differs from
+                other Historians and as it offers an acquaintance<lb/> with a large part of jewish
+                Literature.</p>
+            <p rend="indent(1)">As far as my small ability goes I did all I could<lb/> to render the
+                author's ideas faithfully and to give a correct<lb/> transcript of the original,
+                though many notes and explanations<lb/> are anexed<add>?</add> which I thought
+                proper to insert.</p>
+            <p rend="indent(1)">Now from the above <sic>motivs</sic>, and—if you like—to<lb/>
+                overread the <sic>inclosed</sic> few sheets you, a most competent<lb/> judge easily
+                can decide, whether a work of that kind<lb/> will meet the taste and favor of the
+                public or not.<lb/> Have no regard whatever for myself if you find fault<lb/> with
+                that what now is subject to your judgment, and<lb/> favor me with your opinion about
+                it. IN case,<lb/> that the proof should meet your <sic>aprobation</sic> and you were
+                of<lb/> opinion, that the public likewise may welcome it, then I<lb/> again will
+                enter upon the purifying and conclusion of the<lb/> work. Meanwhile you would oblige
+                me very much if you<lb/> were pleased to insert the <sic>anexed</sic>
+                <hi rend="underline">Call</hi> in the next<lb/> numbers of your high esteemed „<hi
+                    rend="underline">Occident</hi>” accompanied by</p>
+            <pb n="2R"/>
+            <p>a few words of recommendation and to induce your agents<lb/> to receive
+                subscriptions. Of course, in order that the public<lb/> may be able to form an idea
+                of that what there may to be<lb/> expected it becomes necessary to have a specimen
+                before<lb/> their eyes. One or two chapters of the work inserted in your<lb/>
+                esteemed Periodical would answer the purpose—if you<lb/> like to do so.—</p>
+            <p rend="indent(1)">Please and send me up the following months of the<lb/> „Occident” of
+                this year, [<sic>inclosed</sic> you will receive the amount for],<lb/> and so I am
+                in possession of the <hi rend="underline">ten volumes</hi> of the above<lb/>
+                Periodical, but most of them being not complete, you will show me<lb/> another great
+                favor by forwarding to me those numbers, which<lb/> I am lacking, to a moderate
+                price. Viz:</p>
+            <p>of Vol. I, year <date>1843</date>, the numbers....<hi rend="underline"
+                >2.3.4.6</hi></p>
+            <p>“ Vol. II, year <date>1844</date> “ “ ......10.11.12.</p>
+            <p>“ Vol. IV, year <date>1846</date>. “ “ .... 1.2.3.4.5.6.8.</p>
+            <p>“ Vol. V year <date>1847</date>, “ “ 6, 9, 12.</p>
+            <p>“ Vol. VI year <date>1848</date> “ “ 1, 4, 5, 6, 7, 8, 10, 11, 12.</p>
+            <p>“ Vol. VII yr. <date>1849</date> “ “ 1, 2, 3, 4, 5, 7, 9, 10, 12.</p>
+            <p>The following volumes till presently are complete.</p>
+            <p rend="indent(1)">In expectation a kind reply, I am</p>
+            <p rend="indent(1)">Reverend Sir</p>
+            <p rend="indent(3)">your most obedt. Servant</p>
+            <p rend="indent(3)">
+                <persName role="author">Isaac Strause</persName>
+            </p>
+        </body>
+    </text>
 </TEI>

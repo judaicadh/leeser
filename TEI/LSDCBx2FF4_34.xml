@@ -1,263 +1,313 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="unk">Mayer, I., Dr.</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>CAJS Isaac Leeser Collection</repository>
-						<collection>The Library of the Dropsie College for Hebrew and Cognate Learning</collection>
-						<idno>LSDCBx2FF4_34</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="unk">Mayer, I., Dr.</author>
-						<addressee editor="false" attested="yes" accepted="yes"></addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>Rochester, NY</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1857-05" source="" attested="yes">3 May 1857</dateLet>
-						<dateLet when="1857-05" source="" attested="yes">Iyar 5617</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url=""/>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="unk" paper_type="" size="Letter">letter</material>
-								</support>
-								<extent>2 pages on 2 sheets
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="typescript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="free">
-								<p>Unrestricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1"/>
-				<p rend="some Hebrew on every line"></p>
-				<p rend="align(right)"><placeName>Rochester</placeName>&#44; <date>Sunday&#44; 3<hi rend="sup">rd</hi> of Iyar &#40;May&#41;&#44; 1857</date>.</p>
-				<p rend="align(center)">A voice announcing on the mountains&#44;</p>
-				<p rend="align(center)">peace&#44; peace to him who is far and</p>
-				<p rend="align(center)">to him who is near&#44; saith the Lord&#44;</p>
-				<p rend="align(center)">and to my loyal friend and dearly</p>
-				<p rend="align(center)">beloved&#44; the honored sir&#44; a prince</p>
-				<p rend="align(center)">and a humanitarian&#44; choice spirit&#44;</p>
-				<p rend="align(center)">a man of understanding&#44; learned in</p>
-				<p rend="align(center)">all knowledge&#44; searcher in language</p>
-				<p rend="align(center)">and book&#44; <persName>Eliesar Isaac</persName>&#44; may his</p>
-				<p rend="align(center)">name shine before the sun.</p>
-				<p>Honored friend&#58;</p>
-			<p rend="indent(1)">Although I intend to undertake&#44; during the course of the next win&#45;<lb/>ter&#44; God willing&#44; a new&#44; corrected&#44; and improved edition of my Hebrew gram&#45;<lb/>&#45;mar&#44; nevertheless I should like to get rid of the remainder of the former<lb/> edition.  I have therefore lowered its price to &#36;1.25.  Have the goodness&#44;<lb/> therefore&#44; and enclose the advertisement here contained&#44; in your worthy<lb/> journal&#44; and I shall be very grateful to you if you can do something for<lb/> me in this regard.</p>
-			<p rend="indent(1)">Moreover&#44; will you please send me 6 of your catechisms.</p>
-			<p rend="indent(1)">There is no news.  What do you think of the Baltimorean Christian<lb/> Sabbath&#63;  This is the end of all reformers.  One begins with the <hi rend="underline">Te&#45;kum</hi><lb/> <hi rend="underline">Purkan</hi> and one ends with the removal of the heavenly yoke.  But this is<lb/> the greatest advantage that orthodoxy can contain&#44; for by this the eyes<lb/> of <placeName>Israel</placeName> will be opened&#44; and he who dwells in heaven will laugh.  Let<lb/> them do what they like.  There is a time for everything and there is no<lb/> man who does not have his hour.  I am firmly convinced that within hardly<lb/> ten years reform will be as despised as dirt and vomit and the abominations<lb/> will depart from this land.  What do you say&#44; my friend&#44; that the false<lb/> has ceased from <placeName>Zion</placeName>&#63;  Would that be a calamity&#63;<add>&#63;</add>.  How has the daugh&#45;<lb/>ter of <placeName>Zion</placeName> fallen from Heaven&#63;  May all their work be thus vain and void.<lb/>  They shall build and I shall destroy&#44; saith the Lord.  What will the great<lb/> eagle&#47;who soars over the impure nests of the city of <placeName>New York</placeName> do now&#63;  Not<lb/> in vain did the starling go to the raven&#44; for they are a kind.  Each bird<lb/> will dwell with its kind&#44; and each man with one who is like him.  Have you</p>
-			<pb n="2"/>
-				<p>also heard about the Emer Habazeleth &#40;Valley of Lilies&#8212;<persName>Lilienthal</persName>&#41; in<lb/> <placeName>Cincinnati</placeName>&#44; for his odor is gone and evaporated&#44; and he has become like<lb/> a bare ruin in the desert.</p>
-			<p rend="indent(1)">In the hope that these lines will find you in the best of health<lb/> and hoping that you will be a bit disposed to do something about my gram&#45;<lb/>mar&#44; I greet you respectfully and say to you&#44; Peace.</p>
-			<p rend="indent(9)"><persName role="author">Mayer</persName>&#44; son of <persName>Moses</persName></p>
-				<p>N.B.</p>
-			<p rend="indent(1)">Before <date>Passover</date>&#44; I held a public school examination which met with<lb/> everyone&#39;s approval.  There was also an exhibition which more than<lb/> 500 persons&#44; mostly Americans of the highest circles here&#44; witnessed.<lb/>  I also preached on the <date>first</date> and <date>second day of Passover</date>.&#44; the <del><date>Saturday</date></del><lb/> <del>of <date>Passover</date></del> and the <date>seventh</date> and <date>last days</date>.  The last I did purposely<lb/> so that the <date>second day</date> should not seem insignificant to them.  I assure<lb/> you that our synagogue was full and crowded on each day&#44; the <date>first</date> and<lb/> <date>second day</date> and the <date>seventh</date> and <date>last day</date>&#44; in spite of the bad weather and<lb/> snow storms.  I can say in the words of the Haftarah of the <date>second day<lb/> of Passover</date>&#44; &#8220;Never has such a <date>Passover</date> been celebrated here&#8221; in every<lb/> respect.  My congregation has already reelected me at a higher salary<lb/> long before the expiration of my term.  So much for today&#45;more later.</p>
-			<p rend="indent(6)">Your friend&#44;</p>
-			<p rend="indent(7)"><persName role="author">Dr. I. Mayer</persName></p>
-		</body>
-	</text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="unk">Mayer, I., Dr.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS Isaac Leeser Collection</repository>
+                        <collection>The Library of the Dropsie College for Hebrew and Cognate
+                            Learning</collection>
+                        <idno>LSDCBx2FF4_34</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="unk">Mayer, I.,
+                            Dr.</author>
+                        <addressee accepted="yes" attested="yes" editor="false"/>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Rochester, NY</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1857-05">3 May 1857</dateLet>
+                        <dateLet attested="yes" source="" when="1857-05">Iyar 5617</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url=""/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="unk" paper_type="" size="Letter"
+                                        >letter</material>
+                                </support>
+                                <extent>2 pages on 2 sheets <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <p rend="some Hebrew on every line"/>
+            <p rend="align(right)"><placeName>Rochester</placeName>, <date>Sunday, 3<hi rend="sup"
+                        >rd</hi> of Iyar (May), 1857</date>.</p>
+            <p rend="align(center)">A voice announcing on the mountains,</p>
+            <p rend="align(center)">peace, peace to him who is far and</p>
+            <p rend="align(center)">to him who is near, saith the Lord,</p>
+            <p rend="align(center)">and to my loyal friend and dearly</p>
+            <p rend="align(center)">beloved, the honored sir, a prince</p>
+            <p rend="align(center)">and a humanitarian, choice spirit,</p>
+            <p rend="align(center)">a man of understanding, learned in</p>
+            <p rend="align(center)">all knowledge, searcher in language</p>
+            <p rend="align(center)">and book, <persName>Eliesar Isaac</persName>, may his</p>
+            <p rend="align(center)">name shine before the sun.</p>
+            <p>Honored friend:</p>
+            <p rend="indent(1)">Although I intend to undertake, during the course of the next
+                win-<lb/>ter, God willing, a new, corrected, and improved edition of my Hebrew
+                gram-<lb/>-mar, nevertheless I should like to get rid of the remainder of the
+                former<lb/> edition. I have therefore lowered its price to $1.25. Have the
+                goodness,<lb/> therefore, and enclose the advertisement here contained, in your
+                worthy<lb/> journal, and I shall be very grateful to you if you can do something
+                for<lb/> me in this regard.</p>
+            <p rend="indent(1)">Moreover, will you please send me 6 of your catechisms.</p>
+            <p rend="indent(1)">There is no news. What do you think of the Baltimorean
+                Christian<lb/> Sabbath? This is the end of all reformers. One begins with the <hi
+                    rend="underline">Te-kum</hi><lb/>
+                <hi rend="underline">Purkan</hi> and one ends with the removal of the heavenly yoke.
+                But this is<lb/> the greatest advantage that orthodoxy can contain, for by this the
+                eyes<lb/> of <placeName>Israel</placeName> will be opened, and he who dwells in
+                heaven will laugh. Let<lb/> them do what they like. There is a time for everything
+                and there is no<lb/> man who does not have his hour. I am firmly convinced that
+                within hardly<lb/> ten years reform will be as despised as dirt and vomit and the
+                abominations<lb/> will depart from this land. What do you say, my friend, that the
+                false<lb/> has ceased from <placeName>Zion</placeName>? Would that be a
+                    calamity?<add>?</add>. How has the daugh-<lb/>ter of <placeName>Zion</placeName>
+                fallen from Heaven? May all their work be thus vain and void.<lb/> They shall build
+                and I shall destroy, saith the Lord. What will the great<lb/> eagle/who soars over
+                the impure nests of the city of <placeName>New York</placeName> do now? Not<lb/> in
+                vain did the starling go to the raven, for they are a kind. Each bird<lb/> will
+                dwell with its kind, and each man with one who is like him. Have you</p>
+            <pb n="2"/>
+            <p>also heard about the Emer Habazeleth (Valley of
+                    Lilies—<persName>Lilienthal</persName>) in<lb/>
+                <placeName>Cincinnati</placeName>, for his odor is gone and evaporated, and he has
+                become like<lb/> a bare ruin in the desert.</p>
+            <p rend="indent(1)">In the hope that these lines will find you in the best of
+                health<lb/> and hoping that you will be a bit disposed to do something about my
+                gram-<lb/>mar, I greet you respectfully and say to you, Peace.</p>
+            <p rend="indent(9)"><persName role="author">Mayer</persName>, son of
+                    <persName>Moses</persName></p>
+            <p>N.B.</p>
+            <p rend="indent(1)">Before <date>Passover</date>, I held a public school examination
+                which met with<lb/> everyone's approval. There was also an exhibition which more
+                than<lb/> 500 persons, mostly Americans of the highest circles here, witnessed.<lb/>
+                I also preached on the <date>first</date> and <date>second day of Passover</date>.,
+                the <del><date>Saturday</date></del><lb/>
+                <del>of <date>Passover</date></del> and the <date>seventh</date> and <date>last
+                    days</date>. The last I did purposely<lb/> so that the <date>second day</date>
+                should not seem insignificant to them. I assure<lb/> you that our synagogue was full
+                and crowded on each day, the <date>first</date> and<lb/>
+                <date>second day</date> and the <date>seventh</date> and <date>last day</date>, in
+                spite of the bad weather and<lb/> snow storms. I can say in the words of the
+                Haftarah of the <date>second day<lb/> of Passover</date>, “Never has such a
+                    <date>Passover</date> been celebrated here” in every<lb/> respect. My
+                congregation has already reelected me at a higher salary<lb/> long before the
+                expiration of my term. So much for today-more later.</p>
+            <p rend="indent(6)">Your friend,</p>
+            <p rend="indent(7)">
+                <persName role="author">Dr. I. Mayer</persName>
+            </p>
+        </body>
+    </text>
 </TEI>

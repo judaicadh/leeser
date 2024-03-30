@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
         <fileDesc>
             <titleStmt>
                 <title>[no title given]</title>
-                <author attested="yes" accepted="yes" signature="yes">Rosenthal, P.</author>
+                <author accepted="yes" attested="yes" signature="yes">Rosenthal, P.</author>
                 <editor/>
                 <sponsor/>
                 <funder/>
@@ -47,7 +49,9 @@
                         <settlement>New York</settlement>
                         <institution>Jewish Theological Seminary</institution>
                         <repository/>
-                        <collection>The Abraham and Deborah Karp Collection of Early American Judaica at the Library of the Jewish Theological Seminary of America</collection>
+                        <collection>The Abraham and Deborah Karp Collection of Early American
+                            Judaica at the Library of the Jewish Theological Seminary of
+                            America</collection>
                         <idno/>
                         <altIdentifier>
                             <idno/>
@@ -56,9 +60,9 @@
                     </msIdentifier>
                     <head/>
                     <letHeading>
-                        <author attested="yes" accepted="yes" signature="yes">Seligman,
+                        <author accepted="yes" attested="yes" signature="yes">Seligman,
                             Isaac</author>
-                        <addressee editor="false" attested="yes" accepted="yes">Leeser,
+                        <addressee accepted="yes" attested="yes" editor="false">Leeser,
                             Isaac</addressee>
                         <deliverer/>
                         <respStmt>
@@ -67,7 +71,7 @@
                         </respStmt>
                         <placeLet>Utica, NY</placeLet>
                         <placeRec>Philadelphia, PA</placeRec>
-                        <dateLet when="1850-05" source="" attested="yes">29 May 1850</dateLet>
+                        <dateLet attested="yes" source="" when="1850-05">29 May 1850</dateLet>
                     </letHeading>
                     <msContents>
                         <msItem>
@@ -93,7 +97,8 @@
                         <objectDesc>
                             <supportDesc>
                                 <support>
-                                    <material color="" lined="false" paper_type="" size="Letter">letter</material>
+                                    <material color="" lined="false" paper_type="" size="Letter"
+                                        >letter</material>
                                 </support>
                                 <extent>4 pages on 4 sheets <dimensions/>
                                 </extent>
@@ -234,72 +239,63 @@
     </teiHeader>
     <text>
         <body>
-
             <pb n="1"/>
-            <p rend="align(right)"><date>Friday&#44; 18 Sivan &#40;May&#41;&#44; 1850</date>&#44;
-                    <placeName>New York</placeName></p>
-            <p>Peace to the honor of my friend&#8230;the author<lb/>&#8230;seeker of the welfare of
-                all <placeName>America</placeName>&#44; the<lb/> near and the far.
-                    <addressee>Eliezer Lesser</addressee> etc.</p>
-            <p>Dear Sir&#44;</p>
+            <p rend="align(right)"><date>Friday, 18 Sivan (May), 1850</date>, <placeName>New
+                    York</placeName></p>
+            <p>Peace to the honor of my friend…the author<lb/>…seeker of the welfare of all
+                    <placeName>America</placeName>, the<lb/> near and the far. <addressee>Eliezer
+                    Lesser</addressee> etc.</p>
+            <p>Dear Sir,</p>
             <p rend="indent(1)">I come to beg of your Honor to try to<lb/> find for me a
-                dwelling&#82211;place where I can<lb/> serve the Holy Cause&#44; to preside over
-                the<lb/> sacrifice &#40;&#91;&#41;Prayer&#40;&#92;&#41; and to be a hazan and rabbi.
-                For<lb/> it is my intention to move my residence from<lb/> the City of
-                    <placeName>Utica</placeName> to whatever place I may<lb/> find and which God may
-                send my way.<lb/> I cannot any longer and I do not want<lb/> to stay in
-                    <placeName>Utica</placeName> because of the wickedness<lb/> of its inhabitants.
-                To write down all their<lb/> wicked deeds&#44; how evil and sinful they<lb/> are to
-                God and man&#44; would make a<lb/> big book&#44; <del>and</del> for <sic>their</sic>
-                is no measuring nor<lb/> describing it.<lb/>
+                dwelling𔄣place where I can<lb/> serve the Holy Cause, to preside over the<lb/>
+                sacrifice ([)Prayer(\) and to be a hazan and rabbi. For<lb/> it is my intention to
+                move my residence from<lb/> the City of <placeName>Utica</placeName> to whatever
+                place I may<lb/> find and which God may send my way.<lb/> I cannot any longer and I
+                do not want<lb/> to stay in <placeName>Utica</placeName> because of the
+                wickedness<lb/> of its inhabitants. To write down all their<lb/> wicked deeds, how
+                evil and sinful they<lb/> are to God and man, would make a<lb/> big book,
+                    <del>and</del> for <sic>their</sic> is no measuring nor<lb/> describing it.<lb/>
             </p>
             <p rend="indent(1)">I am sure that are looking to<lb/> appoint for themselves a
-                Shohet<lb/> and Hazan&#44; or even a rabbi and<lb/> perhaps a preacher too&#44; if
-                they seek the<lb/> truth&#44; will&#44; I trust to God&#44; derive much</p>
-
+                Shohet<lb/> and Hazan, or even a rabbi and<lb/> perhaps a preacher too, if they seek
+                the<lb/> truth, will, I trust to God, derive much</p>
             <pb n="2"/>
             <p>joy from a man like me. As to this there<lb/> is the testimony of all the sages of
                     <placeName>Germany</placeName><lb/> and <placeName>Poland</placeName>. Their
-                letters are in my bag&#59;<lb/> letters of permission to be shohet&#44; and<lb/> to
-                act as rabbi&#44; all announce and testify<lb/> about me that I am fit for that
-                    <del>job</del><lb/> honor. All the congregation that wants<lb/> to choose me can
+                letters are in my bag;<lb/> letters of permission to be shohet, and<lb/> to act as
+                rabbi, all announce and testify<lb/> about me that I am fit for that
+                <del>job</del><lb/> honor. All the congregation that wants<lb/> to choose me can
                 investigate about<lb/> me by inquiring of the rabbi and<lb/> great preacher
-                    <persName>Doctor Raphall</persName>&#44; and<lb/> of my friend the pious Mohel
-                    <persName>Shneor<lb/> Nüssbaum</persName>&#44; and of other prominent<lb/> men
-                here. But my ways are not known<lb/> to the world in general&#59; nor do wise
-                men<lb/> boast&#59; as the wise man said &#8220;Let a<lb/> stranger praise thee not
-                thine own mouth&#8221;<lb/> Nevertheless&#44; in the case of a man <hi
-                    rend="underline">whose<lb/> future seems dark</hi>. <del>be right</del>
-                &#40;or&#44; perhaps&#44;<lb/> the writer meant&#44; &#8220;who is very
-                modest&#8221;&#41;<lb/> his way will remain dark if he does not<lb/> anyone of his
-                nature and doings. He<lb/> should not be despised if he makes him<lb/> self
-                public&#44; to tell mankind of his</p>
-
+                    <persName>Doctor Raphall</persName>, and<lb/> of my friend the pious Mohel
+                    <persName>Shneor<lb/> Nüssbaum</persName>, and of other prominent<lb/> men here.
+                But my ways are not known<lb/> to the world in general; nor do wise men<lb/> boast;
+                as the wise man said “Let a<lb/> stranger praise thee not thine own mouth”<lb/>
+                Nevertheless, in the case of a man <hi rend="underline">whose<lb/> future seems
+                    dark</hi>. <del>be right</del> (or, perhaps,<lb/> the writer meant, “who is very
+                modest”)<lb/> his way will remain dark if he does not<lb/> anyone of his nature and
+                doings. He<lb/> should not be despised if he makes him<lb/> self public, to tell
+                mankind of his</p>
             <pb n="3"/>
-            <p>prowess&#44; and let his friends praise<lb/> him in the gate.<lb/></p>
+            <p>prowess, and let his friends praise<lb/> him in the gate.<lb/></p>
             <p rend="indent(1)">When I arrived here last night<lb/> and went to the home of
                     <persName>Doctor Raphall</persName><lb/> and asked him whether he knew a
                 resting<lb/> place for me. He told me that <placeName>Chicago</placeName><lb/> seeks
                 a Shohet and Hazan. That is<lb/> why I lay my urgent plea before you<lb/>
                 <del>to forego your pret pride</del> begging your pardon a thousand times and urging
                 you write<lb/> to them to choose me rather than the<lb/> others. You know those
-                others and<lb/> their kind. If you&#44; honored Sir&#44; are<lb/> willing to do
-                this&#44; please write at<lb/> once&#44; by the first post. In return<lb/> you will
-                have peace in this world and<lb/> the next because you had mercy on<lb/> a humble
-                soul like me and caused<lb/> sighing spirits to rejoice&#59; i.e. my<lb/> wife and
-                son whose eyes look<lb/> to me. How can I help them&#63; Where<lb/> is the
-                store&#8211;house or the wine&#8211;press&#63;<lb/> I therefore hope in your good
-                nature</p>
-
+                others and<lb/> their kind. If you, honored Sir, are<lb/> willing to do this, please
+                write at<lb/> once, by the first post. In return<lb/> you will have peace in this
+                world and<lb/> the next because you had mercy on<lb/> a humble soul like me and
+                caused<lb/> sighing spirits to rejoice; i.e. my<lb/> wife and son whose eyes
+                look<lb/> to me. How can I help them? Where<lb/> is the store–house or the
+                wine–press?<lb/> I therefore hope in your good nature</p>
             <pb n="4"/>
-            <p>place as shohet and Hazan&#44; I shall<lb/> pay to your Honor a portion of my<lb/>
-                salary up to twenty dollars</p>
-            <p>The last in <del>t<add>&#63;</add></del> small letters<lb/> at bottom</p>
+            <p>place as shohet and Hazan, I shall<lb/> pay to your Honor a portion of my<lb/> salary
+                up to twenty dollars</p>
+            <p>The last in <del>t<add>?</add></del> small letters<lb/> at bottom</p>
             <p>On very top his address</p>
             <p><persName>P. Rosenthal</persName><lb/>
-                <placeName>Utica N. Y.</placeName><lb/> No. 1 Hatel<add>&#63;</add> Av.</p>
-
-
+                <placeName>Utica N. Y.</placeName><lb/> No. 1 Hatel<add>?</add> Av.</p>
         </body>
     </text>
 </TEI>

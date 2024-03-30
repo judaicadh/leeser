@@ -1,262 +1,318 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="yes">Bomeisler, Evelyn</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>LSKAP</repository>
-						<collection>The Arnold and Deanne Kaplan Collection of Early American Judaica</collection>
-						<idno>LSKAP0155</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="yes">Bomeisler, Evelyn</author>
-						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac</addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet></placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1857-12" source="" attested="yes">December 16, 1857</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="LSKAP0155_1r.jpg"></graphic>
-								<graphic url="LSKAP0155_2r.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="false" paper_type="" size="">letter</material>
-								</support>
-								<extent>2 pages on 1 sheet
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="manuscript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="restricted">
-								<p>Restricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1R"/>
-			<p><hi rend="underline"><persName>McCreery</persName></hi><hi rend="align(right)"><date>1857</date></hi></p>
-			<p rend="indent(1)">Report of the Hebrew Ladies Living Society.<lb/>  While sunshine and summer reign on earth&#59; when nature with<lb/> lavish hand dispenses his favors and blessings&#44; <add>and all equally share her bounties&#44;</add> then indeed does<lb/> all creation rejoice in their existence&#44; but as the more sombre<lb/> autumnal days approach&#44; and the yet darker and less joyous<lb/> wintry dawnings gradually follow&#44; then truly seems a reversion<lb/> of nature&#39;s decree&#44; and she who&#39; opened her hand and filled all things<lb/> with plentiousness yields but a sad proportion to share by whose bounty had been solely upheld&#44; &#8212;but in withdrawing his own hand&#44; she<lb/> but leaves a field for those whose providence has secured for them<lb/> an abundance for the dark or evil day that may approach&#44; in which<lb/> they may exert the benevolent influences of their natures&#44; and in<lb/> reaping the harvest gather to the garnes<add>&#63;</add> of the Giver.  Ample have<lb/> been the opportunities within the last year to prove and bring into<lb/> active exercise&#44; the noble&#44; laboring and unshrinking efforts of an<lb/> active and diffusive benevolence&#44;&#8212;within the year 706 garments<lb/> have been distributed by the sewing society&#59; the numbers would appear<lb/> to have increased very disproportionately <add>when</add> compared with the amounts<lb/> of previous reports&#44; but it will be remembered that among the<lb/> unfortunates who suffered by the disastrous fire in the eastern section<lb/> of our city in <date>July</date> last&#44; were many of our own people left homeless&#44;<lb/> h<add>&#63;</add>less&#44; with neither food nor raiment&#44; but completely dependent<lb/> upon the charities of those whom to sympathy in duty might relieve<lb/> from their destitutions&#44; with much satisfaction and state that</p>
-			<pb n="2R"/>
-				<p>prompt and liberal were the responses so the call&#44;&#8212;very nearly 300<lb/> garments were received ready for distribution&#44; and we are happy<lb/> to add&#44; that owing to the <sic>vigilence</sic> and discernment of the managers<lb/> no case has come to our knowledge&#44; where their distributions<lb/> have proved to have been injudicious or their benevolence<lb/> misapplied&#8212;Trusting that our friends have not wearied<lb/> in well doing&#44; we confidently hope that our social circle<lb/> may long be enabled by their happily united efforts&#44;and redoubted<lb/> diligence&#44; to relieve the wants and contribute to the happiness<lb/> of their unfortunate fellow&#45;creatures&#44; in so doing they have<lb/> the blessed assurance that &#39;God even our own God shall bless us.&#39;</p>
-			<p rend="indent(7)"><persName role="author">Evelyn Bomeisler</persName></p>
-			<p rend="indent(8)">Secy.</p>
-				<p>At the Annual meeting held <date>Oct 1<hi rend="sup">st</hi></date>&#47;00&#44; were elected</p>
-				<list type="simple">
-				<head></head>
-				<item><persName>Miss Bluma Hart</persName>&#44; 1st directress</item>
-				<item>&#8220;       <persName>Sarah Abrahams</persName>&#44; 2nd &#8220;</item>
-				<item>&#8220;       <persName>Annie Lyons</persName> Treasurer</item>
-				<item>&#8220;       <persName role="author">Evelyn Bomeisler</persName> Secy.</item>
-				<item>&#8220;       <persName>Rachel Pesoa</persName> Managers</item>
-				<item>&#8220;       <persName>Hetty Stork</persName> <add>Manager</add></item>
-				<item>&#8220;       <persName>Rebecca Ezekiel</persName> <add>Manager</add></item>
-				<item>&#8220;       <persName>Rebecca Hackenburg</persName> <add>Manager</add></item>
-				<item>&#8220;       <persName>Miriam Arnold</persName> <add>Manager</add></item>
-				</list>
-				<p>Will <persName>Mr Leeser</persName> please preserve the<lb/> Treasurer&#39;s report&#44; as I have retained<lb/> no duplicate&#8212;oblige</p>
-			<p rend="indent(1)">Truly</p>
-			<p rend="indent(1)"><persName role="author">Evelyn B.</persName></p>
-				<p><date>Decb. 16<hi rend="sup">Th</hi>&#44; Tov</date><add>&#63;</add></p>
-		</body>
-	</text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="yes">Bomeisler, Evelyn</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>LSKAP</repository>
+                        <collection>The Arnold and Deanne Kaplan Collection of Early American
+                            Judaica</collection>
+                        <idno>LSKAP0155</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="yes">Bomeisler,
+                            Evelyn</author>
+                        <addressee accepted="yes" attested="yes" editor="false">Leeser,
+                            Isaac</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet/>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1857-12">December 16, 1857</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="LSKAP0155_1r.jpg"/>
+                                <graphic url="LSKAP0155_2r.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >letter</material>
+                                </support>
+                                <extent>2 pages on 1 sheet <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="restricted">
+                                <p>Restricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1R"/>
+            <p>
+                <hi rend="underline">
+                    <persName>McCreery</persName>
+                </hi>
+                <hi rend="align(right)">
+                    <date>1857</date>
+                </hi>
+            </p>
+            <p rend="indent(1)">Report of the Hebrew Ladies Living Society.<lb/> While sunshine and
+                summer reign on earth; when nature with<lb/> lavish hand dispenses his favors and
+                blessings, <add>and all equally share her bounties,</add> then indeed does<lb/> all
+                creation rejoice in their existence, but as the more sombre<lb/> autumnal days
+                approach, and the yet darker and less joyous<lb/> wintry dawnings gradually follow,
+                then truly seems a reversion<lb/> of nature's decree, and she who' opened her hand
+                and filled all things<lb/> with plentiousness yields but a sad proportion to share
+                by whose bounty had been solely upheld, —but in withdrawing his own hand, she<lb/>
+                but leaves a field for those whose providence has secured for them<lb/> an abundance
+                for the dark or evil day that may approach, in which<lb/> they may exert the
+                benevolent influences of their natures, and in<lb/> reaping the harvest gather to
+                the garnes<add>?</add> of the Giver. Ample have<lb/> been the opportunities within
+                the last year to prove and bring into<lb/> active exercise, the noble, laboring and
+                unshrinking efforts of an<lb/> active and diffusive benevolence,—within the year 706
+                garments<lb/> have been distributed by the sewing society; the numbers would
+                appear<lb/> to have increased very disproportionately <add>when</add> compared with
+                the amounts<lb/> of previous reports, but it will be remembered that among the<lb/>
+                unfortunates who suffered by the disastrous fire in the eastern section<lb/> of our
+                city in <date>July</date> last, were many of our own people left homeless,<lb/>
+                    h<add>?</add>less, with neither food nor raiment, but completely dependent<lb/>
+                upon the charities of those whom to sympathy in duty might relieve<lb/> from their
+                destitutions, with much satisfaction and state that</p>
+            <pb n="2R"/>
+            <p>prompt and liberal were the responses so the call,—very nearly 300<lb/> garments were
+                received ready for distribution, and we are happy<lb/> to add, that owing to the
+                    <sic>vigilence</sic> and discernment of the managers<lb/> no case has come to
+                our knowledge, where their distributions<lb/> have proved to have been injudicious
+                or their benevolence<lb/> misapplied—Trusting that our friends have not wearied<lb/>
+                in well doing, we confidently hope that our social circle<lb/> may long be enabled
+                by their happily united efforts,and redoubted<lb/> diligence, to relieve the wants
+                and contribute to the happiness<lb/> of their unfortunate fellow-creatures, in so
+                doing they have<lb/> the blessed assurance that 'God even our own God shall bless
+                us.'</p>
+            <p rend="indent(7)">
+                <persName role="author">Evelyn Bomeisler</persName>
+            </p>
+            <p rend="indent(8)">Secy.</p>
+            <p>At the Annual meeting held <date>Oct 1<hi rend="sup">st</hi></date>/00, were
+                elected</p>
+            <list type="simple">
+                <head/>
+                <item><persName>Miss Bluma Hart</persName>, 1st directress</item>
+                <item>“ <persName>Sarah Abrahams</persName>, 2nd “</item>
+                <item>“ <persName>Annie Lyons</persName> Treasurer</item>
+                <item>“ <persName role="author">Evelyn Bomeisler</persName> Secy.</item>
+                <item>“ <persName>Rachel Pesoa</persName> Managers</item>
+                <item>“ <persName>Hetty Stork</persName>
+                    <add>Manager</add></item>
+                <item>“ <persName>Rebecca Ezekiel</persName>
+                    <add>Manager</add></item>
+                <item>“ <persName>Rebecca Hackenburg</persName>
+                    <add>Manager</add></item>
+                <item>“ <persName>Miriam Arnold</persName>
+                    <add>Manager</add></item>
+            </list>
+            <p>Will <persName>Mr Leeser</persName> please preserve the<lb/> Treasurer's report, as I
+                have retained<lb/> no duplicate—oblige</p>
+            <p rend="indent(1)">Truly</p>
+            <p rend="indent(1)">
+                <persName role="author">Evelyn B.</persName>
+            </p>
+            <p>
+                <date>Decb. 16<hi rend="sup">Th</hi>, Tov</date>
+                <add>?</add>
+            </p>
+        </body>
+    </text>
 </TEI>

@@ -1,267 +1,345 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE TEI [
-<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
-%teibase;
-<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
-%teiext;
-]>
-<TEI>
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="yes">Nathan, M. N.</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>LSKAP</repository>
-						<collection>The Arnold and Deanne Kaplan Collection of Early American Judaica</collection>
-						<idno>LSKAP0045</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="yes">Nathan, M. N.</author>
-						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac</addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>Kingston, Jamaica</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1863-09" source="" attested="yes">September 4, 1863</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="LSKAP0045_1R.jpg"></graphic>
-								<graphic url="LSKAP0045_1V.jpg"></graphic>
-								<graphic url="LSKAP0045_2R.jpg"></graphic>
-								<graphic url="LSKAP0045_2V.jpg"></graphic>
-								<graphic url="LSKAP0045_3R.jpg"></graphic>
-								<graphic url="LSKAP0045_3V.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="false" paper_type="" size="">letter</material>
-								</support>
-								<extent>6 pages on 3 sheets
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="manuscript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="restricted">
-								<p>Restricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-				<language ident="he">Hebrew</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1R"/>
-				<p rend="align(right)"><placeName>Kingston</placeName> <date>4th Septr 1863</date></p>
-				<p>My dear <addressee>Mr. Leeser</addressee></p>
-			<p rend="indent(2)">I am without any of<lb/> your favors by the steamer which<lb/> arrived on the <date>31st</date> Ulto.  Perhaps your<lb/> letters are with the parcel of Occidents<lb/> which again may be in some case of <add>&#63;</add><lb/> not yet opened.  I leave possibly on<lb/> the <date>9th</date> just for <placeName>St. Thomas</placeName>&#44; and have accordg.<lb/> to your wishes handed over all your books<lb/> to <persName>Mr. Michael De Cordova</persName>&#44; Bookseller&#44;<lb/> who being in good bus<add>&#63;</add>p&#44; and his<lb/> shop much resorted to&#44; will be <hi rend="underline">the</hi><lb/> <hi rend="underline">best person</hi> to protect your interests.<lb/> I have agreed with him on your behalf<lb/> for 23 pCent <add>&#63;</add> for his<lb/> labor which you will please confirm.<lb/> Whatever I can do for you in <placeName>St. Thomas</placeName></p>
-			<pb n="1V"/>
-				<p>I will to the utmost of my power.<lb/> by the last accounts from <placeName>St. Thomas</placeName><lb/> the Gov. Gen. Had not yet conferred<lb/> my appointment&#44; notwithstanding<lb/> my election having been unanimous<lb/> and the contract&#44; the <hi rend="underline">great bane of<lb/> contention</hi>&#44; having been carried by a<del>n</del><lb/> large majority &#40;in confidence 26 to 8&#41;<lb/> owing to this petty faction&#44; opposed<lb/> to the engagement of any minister<lb/> having complained to the G. G. of<lb/> some irregularity or precipitancy<lb/> in the carrying of the Gaul Meeting.<lb/> If the English packet expected tomorrow with the <placeName>St. Thomas&#39;s</placeName> mail&#44; should not bring the expected confirma&#45;<lb/> tion&#44; I shall still go on the <date>9th</date>&#59; and</p>
-			<pb n="2R"/>
-				<p>know the reason why I will<lb/> write you are particulars from<lb/> <placeName>St. Thomas</placeName>.  I <hi rend="underline">apprehend no refusal</hi><lb/> of the Gov&#58; Gen&#58; for he and I are old<lb/> friends and he wants me there.<lb/> However disappointments &#38; difficulties<lb/> may arise and who knows whether<lb/> I may not yet pay you a visit<lb/> at <placeName>Philadelphia</placeName>.  You saw something<lb/> in <persName>Mr. Joseph Abraham&#39;s</persName> letter to us<lb/> which you did not want to see.  What<lb/> will you say to my informing you that<lb/> the individual in question has the<lb/> same reputation every where he has<lb/> been to&#63;  The Jewish Ministry in <placeName>America</placeName><lb/> and the W. J. is so easy <add>&#63;</add> that all<lb/> persons who can manage to attain a<lb/> learning hearing either from Reading Desk or</p>
-			<pb n="2V"/>
-				<p>pulpit obtain engagements and I<lb/> will present myself to say of the party<lb/> in question is that in the absence of being<lb/> able to report any thing good&#44; I will not<lb/> pen any thing bad.  <add>Hebrew</add> I have as yet<lb/> no acknowledgment of my letter containing<lb/> so many items of information about <placeName>St.<lb/> Thomas<lb/> Cura&#231;ao</placeName>.  Have you received it&#63;<lb/>  I beg you will on receipt of this write<lb/> to <persName>Mr. Joseph Abrahams</persName>&#44; <placeName>Cincinnati</placeName>&#44; informing<lb/> him how matters stand with me and<lb/> <placeName>St. Thomas</placeName> at present.  If my engagement<lb/> there be <add>or be not</add> concluded I will write him.</p>
-			<p rend="indent(1)">Would that I could <del>write</del> congratulate<lb/> you and every one in the <placeName>States</placeName>&#44; with the<lb/> words <add>Hebrew</add>&#59; but though ultimate<lb/> good must result from this unnatural&#44;<lb/> sanguinary&#44; and heart sickening contest<lb/> it is apparently so very remote that<lb/> many on that soil will sink into the<lb/> grave and be forgotten before the</p>
-			<pb n="3R"/>
-				<p>jubilant<add>&#63;</add> sounds be heard <add>Hebrew</add><lb/> <add>Hebrew</add>&#33;  A former pupil resident for the<lb/> last 6 years in <placeName>N. O.</placeName> arrived here a few<lb/> days back&#44; and gave me a deplorable<lb/> account of the condition of my late<lb/> congregation there.  <persName>Gutheim<add>&#63;</add></persName>&#44; poor fellow&#44;<lb/> is at <placeName>Augusta&#44; Ga.</placeName> with his wife&#39;s family.<lb/>  Who would have thought 13 years ago<lb/> that witnessed <persName>Judah Touro&#39;s</persName> signature<lb/> to her noble deed of gift&#44; or saw him laying<lb/> the foundation stone&#44; that the worshippers<lb/> would all be gone from the sacred house<lb/> and that <add>Hebrew</add>.  Nothing is<lb/> certain but God&#44; death&#44; and Eternity.<lb/>  Your late articles in the Occident are written with much vigor and p<add>&#63;</add>.  I<lb/> read them with pleasure and profit.<lb/>  Our colonial Jews&#44; particularly in<lb/> <placeName>Jamaica</placeName> are crying out loudly of there<lb/> being no Jewish Boarding School in<lb/> <placeName>England</placeName> where they can place their<lb/> children.  They do not like any there&#59; and</p>
-			<pb n="3V"/>
-				<p>many of the British Jews complain of the same<lb/> thing.  A great many would like <hi rend="underline">me</hi> to<lb/> start such an establishment&#44; but I would<lb/> not attempt it without <del> <add>&#63;</add> </del> receiving<lb/> help in money&#44; and the certainty of<lb/> a good number of pupils.  One thing<lb/> is certain.  If I go to the end of the<lb/> world&#44; I will no longer stay in this<lb/> brutalizing heart and soul debasing<lb/> spot&#44; where the forms of religion are<lb/> in some measure outwardly observed&#44;<lb/> but the <add>Hebrew</add>&#44; especially as relating<lb/> <add>Hebrew</add>&#44; are utterly disregarded.</p>
-			<p rend="indent(1)">Mention us to all old friends<lb/> especially <persName>Miss Gratz</persName>&#44; <persName>Miss Louisa<lb/> Hart</persName> &#38; family&#44; and <persName>Mr. Abraham<lb/> Hart</persName> &#38; family.  May the prayers of<lb/> you all be heard before the Eternal<lb/> Throne and your names inscribed<lb/> <add>Hebrew</add>.  <persName>Mrs N</persName> sends her love.Your friend</p>
-			<p rend="indent(8)"><persName role="author">M N Nathan</persName></p>
-		</body>
-	</text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="yes">Nathan, M. N.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>LSKAP</repository>
+                        <collection>The Arnold and Deanne Kaplan Collection of Early American
+                            Judaica</collection>
+                        <idno>LSKAP0045</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="yes">Nathan, M. N.</author>
+                        <addressee accepted="yes" attested="yes" editor="false">Leeser,
+                            Isaac</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Kingston, Jamaica</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1863-09">September 4, 1863</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="LSKAP0045_1R.jpg"/>
+                                <graphic url="LSKAP0045_1V.jpg"/>
+                                <graphic url="LSKAP0045_2R.jpg"/>
+                                <graphic url="LSKAP0045_2V.jpg"/>
+                                <graphic url="LSKAP0045_3R.jpg"/>
+                                <graphic url="LSKAP0045_3V.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >letter</material>
+                                </support>
+                                <extent>6 pages on 3 sheets <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="restricted">
+                                <p>Restricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="he">Hebrew</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1R"/>
+            <p rend="align(right)">
+                <placeName>Kingston</placeName>
+                <date>4th Septr 1863</date>
+            </p>
+            <p>My dear <addressee>Mr. Leeser</addressee></p>
+            <p rend="indent(2)">I am without any of<lb/> your favors by the steamer which<lb/>
+                arrived on the <date>31st</date> Ulto. Perhaps your<lb/> letters are with the parcel
+                of Occidents<lb/> which again may be in some case of <add>?</add><lb/> not yet
+                opened. I leave possibly on<lb/> the <date>9th</date> just for <placeName>St.
+                    Thomas</placeName>, and have accordg.<lb/> to your wishes handed over all your
+                books<lb/> to <persName>Mr. Michael De Cordova</persName>, Bookseller,<lb/> who
+                being in good bus<add>?</add>p, and his<lb/> shop much resorted to, will be <hi
+                    rend="underline">the</hi><lb/>
+                <hi rend="underline">best person</hi> to protect your interests.<lb/> I have agreed
+                with him on your behalf<lb/> for 23 pCent <add>?</add> for his<lb/> labor which you
+                will please confirm.<lb/> Whatever I can do for you in <placeName>St.
+                    Thomas</placeName></p>
+            <pb n="1V"/>
+            <p>I will to the utmost of my power.<lb/> by the last accounts from <placeName>St.
+                    Thomas</placeName><lb/> the Gov. Gen. Had not yet conferred<lb/> my appointment,
+                notwithstanding<lb/> my election having been unanimous<lb/> and the contract, the
+                    <hi rend="underline">great bane of<lb/> contention</hi>, having been carried by
+                    a<del>n</del><lb/> large majority (in confidence 26 to 8)<lb/> owing to this
+                petty faction, opposed<lb/> to the engagement of any minister<lb/> having complained
+                to the G. G. of<lb/> some irregularity or precipitancy<lb/> in the carrying of the
+                Gaul Meeting.<lb/> If the English packet expected tomorrow with the <placeName>St.
+                    Thomas's</placeName> mail, should not bring the expected confirma-<lb/> tion, I
+                shall still go on the <date>9th</date>; and</p>
+            <pb n="2R"/>
+            <p>know the reason why I will<lb/> write you are particulars from<lb/>
+                <placeName>St. Thomas</placeName>. I <hi rend="underline">apprehend no
+                refusal</hi><lb/> of the Gov: Gen: for he and I are old<lb/> friends and he wants me
+                there.<lb/> However disappointments &amp; difficulties<lb/> may arise and who knows
+                whether<lb/> I may not yet pay you a visit<lb/> at
+                    <placeName>Philadelphia</placeName>. You saw something<lb/> in <persName>Mr.
+                    Joseph Abraham's</persName> letter to us<lb/> which you did not want to see.
+                What<lb/> will you say to my informing you that<lb/> the individual in question has
+                the<lb/> same reputation every where he has<lb/> been to? The Jewish Ministry in
+                    <placeName>America</placeName><lb/> and the W. J. is so easy <add>?</add> that
+                all<lb/> persons who can manage to attain a<lb/> learning hearing either from
+                Reading Desk or</p>
+            <pb n="2V"/>
+            <p>pulpit obtain engagements and I<lb/> will present myself to say of the party<lb/> in
+                question is that in the absence of being<lb/> able to report any thing good, I will
+                not<lb/> pen any thing bad. <add>ודי לחכימא ברמיזא וד"ל</add> I have as yet<lb/> no
+                acknowledgment of my letter containing<lb/> so many items of information about
+                    <placeName>St.<lb/> Thomas<lb/> Curaçao</placeName>. Have you received it?<lb/>
+                I beg you will on receipt of this write<lb/> to <persName>Mr. Joseph
+                    Abrahams</persName>, <placeName>Cincinnati</placeName>, informing<lb/> him how
+                matters stand with me and<lb/>
+                <placeName>St. Thomas</placeName> at present. If my engagement<lb/> there be <add>or
+                    be not</add> concluded I will write him.</p>
+            <p rend="indent(1)">Would that I could <del>write</del> congratulate<lb/> you and every
+                one in the <placeName>States</placeName>, with the<lb/> words <add>תכלה שנה
+                    וקללותיה</add>; but though ultimate<lb/> good must result from this
+                unnatural,<lb/> sanguinary, and heart sickening contest<lb/> it is apparently so
+                very remote that<lb/> many on that soil will sink into the<lb/> grave and be
+                forgotten before the</p>
+            <pb n="3R"/>
+            <p>jubilant<add>?</add> sounds be heard <add>וברכותיה</add><lb/>
+                <add>תחל שנה</add>! A former pupil resident for the<lb/> last 6 years in
+                    <placeName>N. O.</placeName> arrived here a few<lb/> days back, and gave me a
+                deplorable<lb/> account of the condition of my late<lb/> congregation there.
+                        <persName>Gutheim<add>?</add></persName>, poor fellow,<lb/> is at
+                    <placeName>Augusta, Ga.</placeName> with his wife's family.<lb/> Who would have
+                thought 13 years ago<lb/> that witnessed <persName>Judah Touro's</persName>
+                signature<lb/> to her noble deed of gift, or saw him laying<lb/> the foundation
+                stone, that the worshippers<lb/> would all be gone from the sacred house<lb/> and
+                that <add>שמיר ושית תהי כל הארץ</add>. Nothing is<lb/> certain but God, death, and
+                Eternity.<lb/> Your late articles in the Occident are written with much vigor and
+                    p<add>?</add>. I<lb/> read them with pleasure and profit.<lb/> Our colonial
+                Jews, particularly in<lb/>
+                <placeName>Jamaica</placeName> are crying out loudly of there<lb/> being no Jewish
+                Boarding School in<lb/>
+                <placeName>England</placeName> where they can place their<lb/> children. They do not
+                like any there; and</p>
+            <pb n="3V"/>
+            <p>many of the British Jews complain of the same<lb/> thing. A great many would like <hi
+                    rend="underline">me</hi> to<lb/> start such an establishment, but I would<lb/>
+                not attempt it without <del>
+                    <add>?</add>
+                </del> receiving<lb/> help in money, and the certainty of<lb/> a good number of
+                pupils. One thing<lb/> is certain. If I go to the end of the<lb/> world, I will no
+                longer stay in this<lb/> brutalizing heart and soul debasing<lb/> spot, where the
+                forms of religion are<lb/> in some measure outwardly observed,<lb/> but the
+                    <add>שמעיות מצות</add>, especially as relating<lb/>
+                <add>בין איל ואחיו</add>, are utterly disregarded.</p>
+            <p rend="indent(1)">Mention us to all old friends<lb/> especially <persName>Miss
+                    Gratz</persName>, <persName>Miss Louisa<lb/> Hart</persName> &amp; family, and
+                    <persName>Mr. Abraham<lb/> Hart</persName> &amp; family. May the prayers of<lb/>
+                you all be heard before the Eternal<lb/> Throne and your names inscribed<lb/>
+                <add>בספר חיים טובים מחילה וסליחה</add>. <persName>Mrs N</persName> sends her
+                love.Your friend</p>
+            <p rend="indent(8)">
+                <persName role="author">M N Nathan</persName>
+            </p>
+        </body>
+    </text>
 </TEI>

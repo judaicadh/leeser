@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+
 		<fileDesc>
 			<titleStmt>
 				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="unk">Jackson[?], R.</author>
+				<author accepted="yes" attested="yes" signature="unk">Jackson[?], R.</author>
 				<editor/>
 				<sponsor/>
 				<funder/>
@@ -56,9 +58,9 @@
 					</msIdentifier>
 					<head/>
 					<letHeading>
-						<author attested="yes" accepted="yes" signature="unk">Jackson[?],
+						<author accepted="yes" attested="yes" signature="unk">Jackson[?],
 							R.</author>
-						<addressee editor="false" attested="yes" accepted="yes">Leeser,
+						<addressee accepted="yes" attested="yes" editor="false">Leeser,
 							Isaac</addressee>
 						<deliverer/>
 						<respStmt>
@@ -67,7 +69,7 @@
 						</respStmt>
 						<placeLet>Philadelphia, PA</placeLet>
 						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1857-05" source="" attested="yes">7 May 1857</dateLet>
+						<dateLet attested="yes" source="" when="1857-05">7 May 1857</dateLet>
 					</letHeading>
 					<msContents>
 						<msItem>
@@ -94,8 +96,8 @@
 						<objectDesc>
 							<supportDesc>
 								<support>
-									<material color="" lined="false" paper_type="" size="">letter</material>letter
-								</support>
+									<material color="" lined="false" paper_type="" size=""
+										>letter</material>letter </support>
 								<extent>1 page on 2 sheets <dimensions/>
 								</extent>
 								<foliation/>
@@ -236,17 +238,20 @@
 	<text>
 		<body>
 			<p rend="align(right)">Trustee Room Congr. Bnai Israel</p>
-			<p rend="align(right)"><placeName>Philadelphia</placeName> <date>May 7. 1857</date>.</p>
+			<p rend="align(right)"><placeName>Philadelphia</placeName>
+				<date>May 7. 1857</date>.</p>
 			<p>To the Revd. M <addressee>I. Leeser</addressee>.</p>
-			<p rend="indent(1)">Revd. Sir&#47;</p>
-			<p rend="indent(2)">I am authorized by the board of<lb/> Trustees of the above named Congregn. to request
-				of<lb/> you&#44; to be kind enough to insert the following<lb/> Resolution annexed
-				to this note in your next<lb/>
+			<p rend="indent(1)">Revd. Sir/</p>
+			<p rend="indent(2)">I am authorized by the board of<lb/> Trustees of the above named
+				Congregn. to request of<lb/> you, to be kind enough to insert the following<lb/>
+				Resolution annexed to this note in your next<lb/>
 				<sic>occident</sic>. <sic>by</sic> so doing you will oblige</p>
 			<p rend="indent(4)">Revd. Sir</p>
-			<p rend="indent(5)">your&#39;s Respectfully</p>
+			<p rend="indent(5)">your's Respectfully</p>
 			<p rend="indent(5)">by order of the board</p>
-			<p rend="indent(5)"><persName role="author">R. Jackson<add>&#63;</add></persName></p>
+			<p rend="indent(5)">
+				<persName role="author">R. Jackson<add>?</add></persName>
+			</p>
 			<p rend="indent(6)">Secty.</p>
 		</body>
 	</text>

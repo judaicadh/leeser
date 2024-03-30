@@ -1,270 +1,350 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="yes">Peixotto</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>CAJS Isaac Leeser Collection</repository>
-						<collection>The Library of the Dropsie College for Hebrew and Cognate Learning</collection>
-						<idno>LSDCBx2FF1_91</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="yes">Peixotto</author>
-						<addressee editor="false" attested="yes" accepted="yes"></addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>Cleveland, OH</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1854-11" source="" attested="yes">16 November 1854</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="ilcajs_b2f1_0091_1r.jpg"></graphic>
-								<graphic url="ilcajs_b2f1_0091_1v.jpg"></graphic>
-								<graphic url="ilcajs_b2f1_0091_2r.jpg"></graphic>
-								<graphic url="ilcajs_b2f1_0091_2v.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="false" paper_type="" size="Letter">letter</material>
-								</support>
-								<extent>7 pages on 2 sheets
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="manuscript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="free">
-								<p>Unrestricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1"/>
-				<p>&#40;Private&#41;</p>
-				<p rend="align(right)"><placeName>Cleved</placeName> <date>Nov 16<hi rend="sup">th</hi> 1854</date></p>
-				<p>Rev &#38; Dear Friend</p>
-			<p rend="indent(2)">In my last letter<lb/> I informed you of a contempla<lb/>&#45;ted movement among our people<lb/> having in view the union of<lb/> the two congregations&#8212;in order<lb/> to secure better religious &#38;<lb/> educational advantages for<lb/> both adults &#38; children</p>
-			<p rend="indent(1)">I was unable to give you<lb/> then the real objects&#44; entertained<lb/> by those most zealous for the<lb/> proposed consolidation.  Since<lb/> the meeting of the committees<lb/> and their preliminary reports<lb/> to both Kabals&#8212;the real<lb/> intentions have become maini<lb/>&#45;fest and these I propose<lb/> to make known to you.</p>
-			<pb n="2"/>
-				<p>Let me premise by saying the<lb/> present condition of both Kabals<lb/> educationally considered is deplora<lb/>&#45;ble&#44; at least in the light of the<lb/> advanced progress of the Age.</p>
-			<p rend="indent(1)">Now it is proposed by the zealots<lb/> to build a new Synagogue&#8212;first<lb/> disposing of one or both of the<lb/> existing structures &#38; have its<lb/> interior constructed for family<lb/> pews&#8212;for male &#38; female&#8212;to adopt<lb/> a new minhag&#8212;engage a reform<lb/> preacher &#38; in a word go the whole<lb/> figure <hi rend="underline">a la <persName>Dr Wise</persName></hi>.</p>
-			<p rend="indent(1)">In the limits of a letter I cannot<lb/> give you an adequate idea of the<lb/> wishes &#38; intentions of the so called<lb/> reformers.  Let me say that a<lb/> very large number if not quite<lb/> a majority of the members of<lb/> both societies are ready &#38; anxious</p>
-			<pb n="3"/>
-				<p>to adopt these views &#38; projects<lb/> unless speedily enlightened as to<lb/> their apostasy.  The only saving<lb/> clause to us for I class myself<lb/> among those who will resist<lb/> to the utmost this wholesale<lb/> <del>ann</del> system of innovation to<lb/> use no harsher term&#8212;is that<lb/> if a majority of both societies<lb/> determine to adopt these doc&#45;<lb/>&#45;trines we can restrain them<lb/> from selling the property as we<lb/> own &#38; possess in good title<lb/> seats <hi rend="underline">forever</hi> in the respective buildings &#38; they do not propose<lb/> to allow us for these any com&#45;<lb/>pensation or return either whole<lb/> or in part in the new edifice.</p>
-			<p rend="indent(1)">I have looked up the legal<lb/> authorities on this point besides<lb/> taking the benefit of counsel.</p>
-			<pb n="4"/>
-				<p>Now I am willing &#38; ready to surrender<lb/> all real &#38; personal interest I own in the<lb/> synagogue &#38; unite with the other society<lb/> <hi rend="underline">provided</hi>&#8212;there shall be no overreacting<lb/> and departure from the limits of enlight<lb/>&#45;ened orthodoxy.</p>
-			<p rend="indent(1)">I am in favor of a<lb/> preacher of enlightened views&#8212;a school&#45;<lb/> of doing away with certain customs<lb/> &#40;mere forms&#41;&#8212;of repetition of prayers&#8212;<lb/> and of other sensible modifications&#44;<lb/> but I decline to reject the belief in<lb/> a personal messiah &#38; the resurrection<lb/> of the body.  These I hold as funda<lb/>&#45;mental principles of our faith that<lb/> cannot be abolished or abandoned.</p>
-			<p rend="indent(1)">Now with reference to Pews&#8212;<lb/> I believe neither the Pentateuch nor Prophets speak<lb/> advisedly on this point&#8212;the only reason<lb/> for the <sic>seperation</sic> of the sexes I have<lb/> ever heard advanced &#38; have entertained<lb/> myself have been with reference to cleanli<lb/>&#45;ness &#38; the reverse at certain periods<lb/> in the other sex.  Understand me<lb/> though&#8212;that while I say this to you</p>
-			<pb n="5"/>
-				<p rend="align(center)">5.</p>
-				<p>privately<lb/> I maintain publicly an observance of the old<lb/> custom that is I have already done<lb/> so in more than one speech on the<lb/> subject.  Now I want your advice<lb/> on this point and <hi rend="underline">arguments</hi> to<lb/> sustain my public position for my<lb/> private conviction rather favor the<lb/> mingling of both sexes in the Synagogue<lb/> on an equality.  It is true&#8212;it <del>is</del> assim<lb/>&#45;ilates in form to Christian mode<lb/> of worship&#8212;but <add>&#63;</add> devotion<lb/> if only apparent is not wanting<lb/> in the appearance of their Congre<lb/>&#45;gations.  Give me some good solid<lb/> reasons or law why they should not<lb/> sit together.  I wish it was in<lb/> my power to have the benefit<lb/> of your society for at least two<lb/> hours&#8212;that we might go over<lb/> all these points.  I stand in<lb/> need of confirmation of assistance</p>
-			<pb n="6"/>
-				<p>of counsel of authorities etc etc.</p>
-			<p rend="indent(1)">My mind misgives on many points<lb/> advanced in favor of change.  I<lb/> see much that might be adopted<lb/> with benefit&#8212;much that would<lb/> cause <placeName>Israel</placeName> to depart eventually<lb/> from its ancient faith.</p>
-			<p rend="indent(1)">The reformers in our Congrega&#45;<lb/>&#45;tion are <persName>Solomon Hyman</persName>&#8212;<persName>Alex<lb/> Schwab</persName>&#8212;<persName>Mosely Ezekiel</persName>&#8212;<persName>Solomon<lb/> Mann</persName> &#38; <persName>Messrs Steiner</persName>&#8212;<persName>Bloch</persName>&#8212;<lb/> <persName>Platt</persName> &#38; <persName>Nusbaum</persName>.  Those who<lb/> oppose these besides myself are<lb/> <persName>Messrs Ga Davis</persName> <persName>F I. Cohen</persName> <persName>Jacob Cohen</persName><lb/> <persName>D Cauffman</persName> <persName>C &#38; A Loeb</persName>. <persName>C Koeh</persName><lb/> <persName>E. Cohen</persName> which <persName>I A Isaacs</persName> <persName>B. Shribe</persName><lb/> &#38; <persName>M Liebenthal</persName> are not to be relied<lb/> on for anything.</p>
-			<p rend="indent(1)">Will you break away<lb/> from your numerous duties for an<lb/> hour &#38; give me the benefit of your</p>
-			<pb n="7"/>
-				<p>counsel &#38; experience.  Oh&#44; would it<lb/> were I could see you.  I study the<lb/> law constantly but my duties will<lb/> not allow me time to grasp hold of<lb/> all I could wish to explore &#38; examine<lb/> &#38; determine &#38; then being <hi rend="underline">all</hi> alone<lb/> I fear to rely singly on my own judge&#45;<lb/>&#45;ment lest it lead me astray.<lb/>  A few years more study will de&#45;<lb/>&#45;termine my mind but these years<lb/> must be directed in a measure<lb/> by better wisdom than that<lb/> which now falls to my share.</p>
-			<p rend="indent(1)">Please write me speedily<lb/> &#38; greatly oblige</p>
-			<p rend="indent(2)">Your very true &#38; Sincere friend</p>
-			<p rend="indent(3)"><persName role="author">B F. Peixotto</persName></p>
-		</body>
-	</text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="yes">Peixotto</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS Isaac Leeser Collection</repository>
+                        <collection>The Library of the Dropsie College for Hebrew and Cognate
+                            Learning</collection>
+                        <idno>LSDCBx2FF1_91</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="yes">Peixotto</author>
+                        <addressee accepted="yes" attested="yes" editor="false"/>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Cleveland, OH</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1854-11">16 November 1854</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="ilcajs_b2f1_0091_1r.jpg"/>
+                                <graphic url="ilcajs_b2f1_0091_1v.jpg"/>
+                                <graphic url="ilcajs_b2f1_0091_2r.jpg"/>
+                                <graphic url="ilcajs_b2f1_0091_2v.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size="Letter"
+                                        >letter</material>
+                                </support>
+                                <extent>7 pages on 2 sheets <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <p>(Private)</p>
+            <p rend="align(right)">
+                <placeName>Cleved</placeName>
+                <date>Nov 16<hi rend="sup">th</hi> 1854</date>
+            </p>
+            <p>Rev &amp; Dear Friend</p>
+            <p rend="indent(2)">In my last letter<lb/> I informed you of a contempla<lb/>-ted
+                movement among our people<lb/> having in view the union of<lb/> the two
+                congregations—in order<lb/> to secure better religious &amp;<lb/> educational
+                advantages for<lb/> both adults &amp; children</p>
+            <p rend="indent(1)">I was unable to give you<lb/> then the real objects,
+                entertained<lb/> by those most zealous for the<lb/> proposed consolidation.
+                Since<lb/> the meeting of the committees<lb/> and their preliminary reports<lb/> to
+                both Kabals—the real<lb/> intentions have become maini<lb/>-fest and these I
+                propose<lb/> to make known to you.</p>
+            <pb n="2"/>
+            <p>Let me premise by saying the<lb/> present condition of both Kabals<lb/> educationally
+                considered is deplora<lb/>-ble, at least in the light of the<lb/> advanced progress
+                of the Age.</p>
+            <p rend="indent(1)">Now it is proposed by the zealots<lb/> to build a new
+                Synagogue—first<lb/> disposing of one or both of the<lb/> existing structures &amp;
+                have its<lb/> interior constructed for family<lb/> pews—for male &amp; female—to
+                adopt<lb/> a new minhag—engage a reform<lb/> preacher &amp; in a word go the
+                whole<lb/> figure <hi rend="underline">a la <persName>Dr Wise</persName></hi>.</p>
+            <p rend="indent(1)">In the limits of a letter I cannot<lb/> give you an adequate idea of
+                the<lb/> wishes &amp; intentions of the so called<lb/> reformers. Let me say that
+                a<lb/> very large number if not quite<lb/> a majority of the members of<lb/> both
+                societies are ready &amp; anxious</p>
+            <pb n="3"/>
+            <p>to adopt these views &amp; projects<lb/> unless speedily enlightened as to<lb/> their
+                apostasy. The only saving<lb/> clause to us for I class myself<lb/> among those who
+                will resist<lb/> to the utmost this wholesale<lb/>
+                <del>ann</del> system of innovation to<lb/> use no harsher term—is that<lb/> if a
+                majority of both societies<lb/> determine to adopt these doc-<lb/>-trines we can
+                restrain them<lb/> from selling the property as we<lb/> own &amp; possess in good
+                title<lb/> seats <hi rend="underline">forever</hi> in the respective buildings &amp;
+                they do not propose<lb/> to allow us for these any com-<lb/>pensation or return
+                either whole<lb/> or in part in the new edifice.</p>
+            <p rend="indent(1)">I have looked up the legal<lb/> authorities on this point
+                besides<lb/> taking the benefit of counsel.</p>
+            <pb n="4"/>
+            <p>Now I am willing &amp; ready to surrender<lb/> all real &amp; personal interest I own
+                in the<lb/> synagogue &amp; unite with the other society<lb/>
+                <hi rend="underline">provided</hi>—there shall be no overreacting<lb/> and departure
+                from the limits of enlight<lb/>-ened orthodoxy.</p>
+            <p rend="indent(1)">I am in favor of a<lb/> preacher of enlightened views—a school-<lb/>
+                of doing away with certain customs<lb/> (mere forms)—of repetition of prayers—<lb/>
+                and of other sensible modifications,<lb/> but I decline to reject the belief in<lb/>
+                a personal messiah &amp; the resurrection<lb/> of the body. These I hold as
+                funda<lb/>-mental principles of our faith that<lb/> cannot be abolished or
+                abandoned.</p>
+            <p rend="indent(1)">Now with reference to Pews—<lb/> I believe neither the Pentateuch
+                nor Prophets speak<lb/> advisedly on this point—the only reason<lb/> for the
+                    <sic>seperation</sic> of the sexes I have<lb/> ever heard advanced &amp; have
+                entertained<lb/> myself have been with reference to cleanli<lb/>-ness &amp; the
+                reverse at certain periods<lb/> in the other sex. Understand me<lb/> though—that
+                while I say this to you</p>
+            <pb n="5"/>
+            <p rend="align(center)">5.</p>
+            <p>privately<lb/> I maintain publicly an observance of the old<lb/> custom that is I
+                have already done<lb/> so in more than one speech on the<lb/> subject. Now I want
+                your advice<lb/> on this point and <hi rend="underline">arguments</hi> to<lb/>
+                sustain my public position for my<lb/> private conviction rather favor the<lb/>
+                mingling of both sexes in the Synagogue<lb/> on an equality. It is true—it
+                    <del>is</del> assim<lb/>-ilates in form to Christian mode<lb/> of worship—but
+                    <add>?</add> devotion<lb/> if only apparent is not wanting<lb/> in the
+                appearance of their Congre<lb/>-gations. Give me some good solid<lb/> reasons or law
+                why they should not<lb/> sit together. I wish it was in<lb/> my power to have the
+                benefit<lb/> of your society for at least two<lb/> hours—that we might go over<lb/>
+                all these points. I stand in<lb/> need of confirmation of assistance</p>
+            <pb n="6"/>
+            <p>of counsel of authorities etc etc.</p>
+            <p rend="indent(1)">My mind misgives on many points<lb/> advanced in favor of change.
+                I<lb/> see much that might be adopted<lb/> with benefit—much that would<lb/> cause
+                    <placeName>Israel</placeName> to depart eventually<lb/> from its ancient
+                faith.</p>
+            <p rend="indent(1)">The reformers in our Congrega-<lb/>-tion are <persName>Solomon
+                    Hyman</persName>—<persName>Alex<lb/> Schwab</persName>—<persName>Mosely
+                    Ezekiel</persName>—<persName>Solomon<lb/> Mann</persName> &amp; <persName>Messrs
+                    Steiner</persName>—<persName>Bloch</persName>—<lb/>
+                <persName>Platt</persName> &amp; <persName>Nusbaum</persName>. Those who<lb/> oppose
+                these besides myself are<lb/>
+                <persName>Messrs Ga Davis</persName>
+                <persName>F I. Cohen</persName>
+                <persName>Jacob Cohen</persName><lb/>
+                <persName>D Cauffman</persName>
+                <persName>C &amp; A Loeb</persName>. <persName>C Koeh</persName><lb/>
+                <persName>E. Cohen</persName> which <persName>I A Isaacs</persName>
+                <persName>B. Shribe</persName><lb/> &amp; <persName>M Liebenthal</persName> are not
+                to be relied<lb/> on for anything.</p>
+            <p rend="indent(1)">Will you break away<lb/> from your numerous duties for an<lb/> hour
+                &amp; give me the benefit of your</p>
+            <pb n="7"/>
+            <p>counsel &amp; experience. Oh, would it<lb/> were I could see you. I study the<lb/>
+                law constantly but my duties will<lb/> not allow me time to grasp hold of<lb/> all I
+                could wish to explore &amp; examine<lb/> &amp; determine &amp; then being <hi
+                    rend="underline">all</hi> alone<lb/> I fear to rely singly on my own
+                judge-<lb/>-ment lest it lead me astray.<lb/> A few years more study will
+                de-<lb/>-termine my mind but these years<lb/> must be directed in a measure<lb/> by
+                better wisdom than that<lb/> which now falls to my share.</p>
+            <p rend="indent(1)">Please write me speedily<lb/> &amp; greatly oblige</p>
+            <p rend="indent(2)">Your very true &amp; Sincere friend</p>
+            <p rend="indent(3)">
+                <persName role="author">B F. Peixotto</persName>
+            </p>
+        </body>
+    </text>
 </TEI>

@@ -1,269 +1,354 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE TEI [
-<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
-%teibase;
-<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
-%teiext;
-]>
-<TEI>
-    <teiHeader>
-      <fileDesc>
-        <titleStmt>
-          <title>[no title given]</title>
-          <author attested="yes" accepted="yes" signature="yes">Salsman, Rosa [?]</author>
-          <editor></editor>
-          <sponsor></sponsor>
-          <funder></funder>
-          <principal></principal>
-          <respStmt>
-            <resp></resp>
-            <name></name>
-          </respStmt>
-        </titleStmt>
-        <editionStmt>
-          <edition></edition>
-          <respStmt>
-            <resp></resp>
-            <name></name>
-          </respStmt>
-        </editionStmt>
-        <extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-        <publicationStmt>
-          <publisher>Unpublished manuscript</publisher>
-        </publicationStmt>
-        <seriesStmt>
-          <p>Not part of a series</p>
-        </seriesStmt>
-        <notesStmt>
-          <note></note>
-        </notesStmt>
-        <sourceDesc>
-          <biblStruct>
-            <!-- catalog entry goes here -->
-            <monogr>
-              <imprint>
-                <dateLet></dateLet>
-              </imprint>
-            </monogr>
-          </biblStruct>
-          <msDesc>
-            <msIdentifier>
-              <country>USA</country>
-              <region>PA</region>
-              <settlement>Philadelphia</settlement>
-              <institution></institution>
-              <repository>CAJS Isaac Leeser Collection</repository>
-              <collection>The Library of the Dropsie College for Hebrew and Cognate Learning</collection>
-              <idno>LSDCBx2FF1_16</idno>
-              <altIdentifier>
-                <idno></idno>
-              </altIdentifier>
-              <msName></msName>
-            </msIdentifier>
-            <head></head>
-            <letHeading>
-              <author attested="yes" accepted="yes" signature="yes">Salsman, Rosa [?]</author>
-              <addressee editor="false" attested="yes" accepted="yes"></addressee>
-              <deliverer></deliverer>
-              <respStmt>
-                <resp></resp>
-                <name></name>
-              </respStmt>
-              <placeLet>Heidelberg, Germany</placeLet>
-              <placeRec>Philadelphia, PA</placeRec>
-              <dateLet when="1854-03" source="" attested="yes">9 March 1854</dateLet>
-            </letHeading>
-            <msContents>
-              <msItem>
-                <author></author>
-                <editor></editor>
-                <respStmt>
-                  <resp></resp>
-                  <name></name>
-                </respStmt>
-                <title></title>
-                <decoNote></decoNote>
-                <listBibl>
-                  <bibl></bibl>
-                </listBibl>
-                <filiation></filiation>
-                <textLang></textLang>
-                <figure>
-                  <graphic url="ilcajs_b2f1_0016_1r.jpg"/>
-                  <graphic url="ilcajs_b2f1_0016_1v.jpg"/>
-                  <graphic url="ilcajs_b2f1_0016_2r.jpg"/>
-                  <graphic url="ilcajs_b2f1_0016_2v.jpg"/>
-                </figure>
-              </msItem>
-            </msContents>
-            <physDesc>
-              <objectDesc>
-                <supportDesc>
-                  <support>
-                    <material color="" lined="false" paper_type="" size="">letter</material>
-                  </support>
-                  <extent>4 pages on 2 sheets
-                    <dimensions></dimensions>
-                  </extent>
-                  <foliation></foliation>
-                  <collation></collation>
-                  <condition fragment="false"></condition>
-                </supportDesc>
-                <layoutDesc>
-                  <layout></layout>
-                </layoutDesc>
-              </objectDesc>
-              <handDesc script="manuscript">
-                  <handNote></handNote>
-              </handDesc>
-              <decoDesc>
-                <decoNote></decoNote>
-              </decoDesc>
-              <additions></additions>
-              <bindingDesc>
-                <binding>
-                  <decoNote></decoNote>
-                </binding>
-              </bindingDesc>
-              <sealDesc>
-                <seal>
-                  <p></p>
-                </seal>
-              </sealDesc>
-              <accMat></accMat>
-              <envDesc occ="false"></envDesc>
-            </physDesc>
-            <history>
-              <origin></origin>
-              <provenance></provenance>
-              <acquisition></acquisition>
-            </history>
-            <additional>
-              <adminInfo>
-                <recordHist>
-                  <source></source>
-                  <change></change>
-                </recordHist>
-                <availability status="free">
-                  <p>Unrestricted</p>
-                </availability>
-                <custodialHist>
-                  <custEvent></custEvent>
-                </custodialHist>
-              </adminInfo>
-              <surrogates></surrogates>
-              <listBibl>
-                <bibl></bibl>
-              </listBibl>
-            </additional>
-            <msPart>
-              <altIdentifier>
-                <idno></idno>
-              </altIdentifier>
-            </msPart>
-          </msDesc>
-        </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-        <projectDesc>
-          <p></p>
-        </projectDesc>
-        <samplingDecl>
-          <p></p>
-        </samplingDecl>
-        <editorialDecl>
-          <correction>
-            <p></p>
-          </correction>
-          <normalization>
-            <p></p>
-          </normalization>
-          <quotation>
-            <p></p>
-          </quotation>
-          <hyphenation>
-            <p></p>
-          </hyphenation>
-          <segmentation>
-            <p></p>
-          </segmentation>
-          <stdVals>
-            <p></p>
-          </stdVals>
-          <interpretation>
-            <p></p>
-          </interpretation>
-        </editorialDecl>
-        <tagsDecl>
-          <rendition></rendition>
-          <namespace name="http://www.tei-c.org/ns/1.0">
-            <tagUsage gi=""></tagUsage>
-          </namespace>
-        </tagsDecl>
-        <refsDecl>
-          <cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-        </refsDecl>
-        <refsDecl>
-          <refState unit=""/>
-        </refsDecl>
-        <classDecl>
-          <taxonomy>
-            <category>
-              <catDesc></catDesc>
-            </category>
-          </taxonomy>
-        </classDecl>
-        <appInfo>
-          <application ident="" version="">
-            <desc></desc>
-            <label></label>
-          </application>
-        </appInfo>
-      </encodingDesc>
-      <profileDesc>
-        <creation></creation>
-        <langUsage>
-          <language ident="en">English</language>
-          <language ident="de">Germany</language>
-        </langUsage>
-        <textClass>
-          <keywords scheme="unknown">
-            <list>
-              <item></item>
-              <item></item>
-            </list>
-          </keywords>
-          <classCode scheme=""></classCode>
-          <catRef/>
-        </textClass>
-      </profileDesc>
-      <revisionDesc>
-        <change></change>
-      </revisionDesc>
-    </teiHeader>
-    <text>
-        <body>
-      
-		<pb n="1"/>
-			<p rend="align(right)"><placeName>In dem Meeserschen Hause<lb/> &#252;ber der Br&#252;cke<lb/> am Neckar <hi rend="underline">Heidelberg</hi></placeName></p>
-			<p rend="align(right)"><date>March 9<hi rend="sup">th</hi> 1854</date></p>
-			<p>Dear friend</p>
-          <p rend="indent(2)">I am taking the opportunity<lb/> of writing a little to you by a Gentleman<lb/> about to leave <placeName>Heidelberg</placeName> for <placeName>New York</placeName>. I<lb/> have not your correct address here&#59; I<lb/> therefore must trust to his kindness in<lb/> sending it safely to you at <placeName>Philadelphia</placeName>.<lb/> When I last heard from my dear family<lb/> one of my sisters wrote to say that the &#8220;<hi rend="underline">Occident</hi>&#8221;<lb/> had been sent to me in <placeName>Baker<add>&#63;</add></placeName> in which they read<lb/> a <hi rend="underline">beautiful</hi> notice of my Poems from<lb/> your gifted mind&#44; with some pieces<lb/> transcribed. I assure you I appreciate<lb/> <hi rend="underline">much</hi> your kindness also for the<lb/> advertisement therein&#8212;my sisters have<lb/> requested two more copies to be sent<lb/> for them &#38; I am to receive <hi rend="underline">my</hi><lb/> number in <date>May</date>&#44; when <persName>Mr Simon&#39;s</persName><lb/> family are going to visit us&#44; en route</p>
-		<pb n="2"/>
-			<p>for <placeName>Switzerland</placeName>.</p>
-			<p>I presume from this circumstance<lb/> that the books arrived safely at their<lb/> destination&#8212;&#38; that you have long<lb/> since obtained your <hi rend="underline">own</hi> rightful<lb/> copy. I hope also that my long letter<lb/> reached you from the &#8220;<add>&#63;</add>&#8221; where<lb/> we then resided. I wrote your address<lb/> quite from guess&#44; for I left my Occidents<lb/> with all my principal books to be<lb/> taken charge of.</p>
-			<p>My dear friend <persName>Miss Brettell<add>&#63;</add></persName> has taken<lb/> with me these charming rooms facing<lb/> the Castle &#38; <placeName>Neckar</placeName> where we have<lb/> not only a most romantic picture<lb/> ever before our eyes&#44; but also every comfort<lb/> &#38; convenience in this beautiful House.<lb/> My <hi rend="underline">good</hi> Papa at length yielded to my<lb/> longing wish for a more <hi rend="underline">country</hi> life &#38;<lb/> now permits me to follow my inclination<del>s</del><lb/> which was never in favor of a residence<lb/> in our gay &#38; busy city of <placeName>London</placeName>&#33;</p>
-			<p>It is&#44; as you may imagine&#44; an infinite<lb/> blessing to me thus to enjoy&#44; in more<lb/> retirement&#44; the glorious beauties of nature&#44;<lb/> &#38; my own favorite studies of Literature &#38;<lb/> music. I do not know yet how long we<lb/> may remain in <placeName>Heidelberg</placeName>. I think we<lb/> shall spend <date>June</date> &#38; <date>July</date> in <placeName>Switzerland</placeName><lb/> &#40;my 3d visit&#41; &#38; then most likely go to<lb/> <placeName>England</placeName> for a few months as we shall<lb/> both be <sic>anscious</sic> to see our friends there.</p>
-			<p>We have had a <hi rend="underline">very</hi> severe winter&#44; but<lb/> to <hi rend="underline">me</hi> the charm has been so great<lb/> that I could not regret it. To see the<lb/> scenery here all enveloped in its <hi rend="underline">snowy</hi><lb/> mantle&#8212;has been a continual source<lb/> of enjoyment to me &#38; the tinkling<lb/> bells of the horses as they bore the gay<lb/> sledges along&#44; did not a little enhance the<lb/> beauty of the picture&#33;</p>
-			<p>I suppose you hear as much of<lb/> the War as we do. Some people<lb/> are of opinion that it is the first</p>
-		<pb n="3"/>
-			<p>step towards the restoration of our<lb/> Nation&#8212;according to the Prophecies.<lb/> What is your opinion&#63; And how<lb/> goes on your interesting work&#44; the Bible&#63;</p> 
-			<p>Have you heard of a <hi rend="underline">small</hi> book<lb/> published in <date>1853</date> at Chapman&#39;s in the<lb/> <placeName>Strand&#44; London</placeName> &#40;price 36 s. d.&#41; &#8220;<hi rend="underline">A few words to</hi><lb/> <hi rend="underline">the Jews</hi>&#8221;&#63; It is splendidly written&#44;<lb/> &#38; most touchingly beautiful&#8212;<lb/> We&#44; as Israelites&#44; cannot be too grateful<lb/> to God for raising amongst us such<lb/> an Author&#8212;so deeply imbued with the true<lb/> spirit of Judaism. I hope it will soon<lb/> be well known both in <placeName>England</placeName> &#38; <placeName>America</placeName>.<lb/> We do not know the name of the Author<lb/> not his place of abode&#8212;he merely adds<lb/> in the title page &#8220;by one of themselves.&#8221;<lb/> Surely he will one day be known&#33;<lb/> at present all is in mystery respecting the<lb/> books. My paper tells me to say farewell<lb/> for the present&#44; &#38; trusting you are in<lb/> good health&#44; I remain dear friend</p>
-          <p rend="indent(1)">Your&#39;s sincerely&#44; <persName role="author">Rosa <add>&#63;</add> Salsman</persName></p>
-          
-          <div>
-            <p><ref target="Occident_PDFs/Occ_11_10.pdf">The above text refers to Occident Volume 11 No. 10 pages 515 through 520. Click here to view.</ref></p>
-          </div>
-        </body>
-    </text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+          <teiHeader>
+
+                    <fileDesc>
+                              <titleStmt>
+                                        <title>[no title given]</title>
+                                        <author accepted="yes" attested="yes" signature="yes"
+                                                  >Salsman, Rosa [?]</author>
+                                        <editor/>
+                                        <sponsor/>
+                                        <funder/>
+                                        <principal/>
+                                        <respStmt>
+                                                  <resp/>
+                                                  <name/>
+                                        </respStmt>
+                              </titleStmt>
+                              <editionStmt>
+                                        <edition/>
+                                        <respStmt>
+                                                  <resp/>
+                                                  <name/>
+                                        </respStmt>
+                              </editionStmt>
+                              <extent>[information about file size goes here, information about
+                                        extent of physical item comes later]</extent>
+                              <publicationStmt>
+                                        <publisher>Unpublished manuscript</publisher>
+                              </publicationStmt>
+                              <seriesStmt>
+                                        <p>Not part of a series</p>
+                              </seriesStmt>
+                              <notesStmt>
+                                        <note/>
+                              </notesStmt>
+                              <sourceDesc>
+                                        <biblStruct>
+                                                  <!-- catalog entry goes here -->
+                                                  <monogr>
+                                                  <imprint>
+                                                  <dateLet/>
+                                                  </imprint>
+                                                  </monogr>
+                                        </biblStruct>
+                                        <msDesc>
+                                                  <msIdentifier>
+                                                  <country>USA</country>
+                                                  <region>PA</region>
+                                                  <settlement>Philadelphia</settlement>
+                                                  <institution/>
+                                                  <repository>CAJS Isaac Leeser
+                                                  Collection</repository>
+                                                  <collection>The Library of the Dropsie College for
+                                                  Hebrew and Cognate Learning</collection>
+                                                  <idno>LSDCBx2FF1_16</idno>
+                                                  <altIdentifier>
+                                                  <idno/>
+                                                  </altIdentifier>
+                                                  <msName/>
+                                                  </msIdentifier>
+                                                  <head/>
+                                                  <letHeading>
+                                                  <author accepted="yes" attested="yes"
+                                                  signature="yes">Salsman, Rosa [?]</author>
+                                                  <addressee accepted="yes" attested="yes"
+                                                  editor="false"/>
+                                                  <deliverer/>
+                                                  <respStmt>
+                                                  <resp/>
+                                                  <name/>
+                                                  </respStmt>
+                                                  <placeLet>Heidelberg, Germany</placeLet>
+                                                  <placeRec>Philadelphia, PA</placeRec>
+                                                  <dateLet attested="yes" source="" when="1854-03">9
+                                                  March 1854</dateLet>
+                                                  </letHeading>
+                                                  <msContents>
+                                                  <msItem>
+                                                  <author/>
+                                                  <editor/>
+                                                  <respStmt>
+                                                  <resp/>
+                                                  <name/>
+                                                  </respStmt>
+                                                  <title/>
+                                                  <decoNote/>
+                                                  <listBibl>
+                                                  <bibl/>
+                                                  </listBibl>
+                                                  <filiation/>
+                                                  <textLang/>
+                                                  <figure>
+                                                  <graphic url="ilcajs_b2f1_0016_1r.jpg"/>
+                                                  <graphic url="ilcajs_b2f1_0016_1v.jpg"/>
+                                                  <graphic url="ilcajs_b2f1_0016_2r.jpg"/>
+                                                  <graphic url="ilcajs_b2f1_0016_2v.jpg"/>
+                                                  </figure>
+                                                  </msItem>
+                                                  </msContents>
+                                                  <physDesc>
+                                                  <objectDesc>
+                                                  <supportDesc>
+                                                  <support>
+                                                  <material color="" lined="false" paper_type=""
+                                                  size="">letter</material>
+                                                  </support>
+                                                  <extent>4 pages on 2 sheets <dimensions/>
+                                                  </extent>
+                                                  <foliation/>
+                                                  <collation/>
+                                                  <condition fragment="false"/>
+                                                  </supportDesc>
+                                                  <layoutDesc>
+                                                  <layout/>
+                                                  </layoutDesc>
+                                                  </objectDesc>
+                                                  <handDesc script="manuscript">
+                                                  <handNote/>
+                                                  </handDesc>
+                                                  <decoDesc>
+                                                  <decoNote/>
+                                                  </decoDesc>
+                                                  <additions/>
+                                                  <bindingDesc>
+                                                  <binding>
+                                                  <decoNote/>
+                                                  </binding>
+                                                  </bindingDesc>
+                                                  <sealDesc>
+                                                  <seal>
+                                                  <p/>
+                                                  </seal>
+                                                  </sealDesc>
+                                                  <accMat/>
+                                                  <envDesc occ="false"/>
+                                                  </physDesc>
+                                                  <history>
+                                                  <origin/>
+                                                  <provenance/>
+                                                  <acquisition/>
+                                                  </history>
+                                                  <additional>
+                                                  <adminInfo>
+                                                  <recordHist>
+                                                  <source/>
+                                                  <change/>
+                                                  </recordHist>
+                                                  <availability status="free">
+                                                  <p>Unrestricted</p>
+                                                  </availability>
+                                                  <custodialHist>
+                                                  <custEvent/>
+                                                  </custodialHist>
+                                                  </adminInfo>
+                                                  <surrogates/>
+                                                  <listBibl>
+                                                  <bibl/>
+                                                  </listBibl>
+                                                  </additional>
+                                                  <msPart>
+                                                  <altIdentifier>
+                                                  <idno/>
+                                                  </altIdentifier>
+                                                  </msPart>
+                                        </msDesc>
+                              </sourceDesc>
+                    </fileDesc>
+                    <encodingDesc>
+                              <projectDesc>
+                                        <p/>
+                              </projectDesc>
+                              <samplingDecl>
+                                        <p/>
+                              </samplingDecl>
+                              <editorialDecl>
+                                        <correction>
+                                                  <p/>
+                                        </correction>
+                                        <normalization>
+                                                  <p/>
+                                        </normalization>
+                                        <quotation>
+                                                  <p/>
+                                        </quotation>
+                                        <hyphenation>
+                                                  <p/>
+                                        </hyphenation>
+                                        <segmentation>
+                                                  <p/>
+                                        </segmentation>
+                                        <stdVals>
+                                                  <p/>
+                                        </stdVals>
+                                        <interpretation>
+                                                  <p/>
+                                        </interpretation>
+                              </editorialDecl>
+                              <tagsDecl>
+                                        <rendition/>
+                                        <namespace name="http://www.tei-c.org/ns/1.0">
+                                                  <tagUsage gi=""/>
+                                        </namespace>
+                              </tagsDecl>
+                              <refsDecl>
+                                        <cRefPattern matchPattern="" replacementPattern=""/>
+                              </refsDecl>
+                              <refsDecl>
+                                        <refState unit=""/>
+                              </refsDecl>
+                              <classDecl>
+                                        <taxonomy>
+                                                  <category>
+                                                  <catDesc/>
+                                                  </category>
+                                        </taxonomy>
+                              </classDecl>
+                              <appInfo>
+                                        <application ident="" version="">
+                                                  <desc/>
+                                                  <label/>
+                                        </application>
+                              </appInfo>
+                    </encodingDesc>
+                    <profileDesc>
+                              <creation/>
+                              <langUsage>
+                                        <language ident="en">English</language>
+                                        <language ident="de">Germany</language>
+                              </langUsage>
+                              <textClass>
+                                        <keywords scheme="unknown">
+                                                  <list>
+                                                  <item/>
+                                                  <item/>
+                                                  </list>
+                                        </keywords>
+                                        <classCode scheme=""/>
+                                        <catRef/>
+                              </textClass>
+                    </profileDesc>
+                    <revisionDesc>
+                              <change/>
+                    </revisionDesc>
+          </teiHeader>
+          <text>
+                    <body>
+                              <pb n="1"/>
+                              <p rend="align(right)">
+                                        <placeName>In dem Meeserschen Hause<lb/> über der
+                                                  Brücke<lb/> am Neckar <hi rend="underline"
+                                                  >Heidelberg</hi></placeName>
+                              </p>
+                              <p rend="align(right)">
+                                        <date>March 9<hi rend="sup">th</hi> 1854</date>
+                              </p>
+                              <p>Dear friend</p>
+                              <p rend="indent(2)">I am taking the opportunity<lb/> of writing a
+                                        little to you by a Gentleman<lb/> about to leave
+                                                  <placeName>Heidelberg</placeName> for
+                                                  <placeName>New York</placeName>. I<lb/> have not
+                                        your correct address here; I<lb/> therefore must trust to
+                                        his kindness in<lb/> sending it safely to you at
+                                                  <placeName>Philadelphia</placeName>.<lb/> When I
+                                        last heard from my dear family<lb/> one of my sisters wrote
+                                        to say that the “<hi rend="underline">Occident</hi>”<lb/>
+                                        had been sent to me in
+                                                  <placeName>Baker<add>?</add></placeName> in which
+                                        they read<lb/> a <hi rend="underline">beautiful</hi> notice
+                                        of my Poems from<lb/> your gifted mind, with some
+                                        pieces<lb/> transcribed. I assure you I appreciate<lb/>
+                                        <hi rend="underline">much</hi> your kindness also for
+                                        the<lb/> advertisement therein—my sisters have<lb/>
+                                        requested two more copies to be sent<lb/> for them &amp; I
+                                        am to receive <hi rend="underline">my</hi><lb/> number in
+                                                  <date>May</date>, when <persName>Mr
+                                                  Simon's</persName><lb/> family are going to visit
+                                        us, en route</p>
+                              <pb n="2"/>
+                              <p>for <placeName>Switzerland</placeName>.</p>
+                              <p>I presume from this circumstance<lb/> that the books arrived safely
+                                        at their<lb/> destination—&amp; that you have long<lb/>
+                                        since obtained your <hi rend="underline">own</hi>
+                                        rightful<lb/> copy. I hope also that my long letter<lb/>
+                                        reached you from the “<add>?</add>” where<lb/> we then
+                                        resided. I wrote your address<lb/> quite from guess, for I
+                                        left my Occidents<lb/> with all my principal books to
+                                        be<lb/> taken charge of.</p>
+                              <p>My dear friend <persName>Miss Brettell<add>?</add></persName> has
+                                        taken<lb/> with me these charming rooms facing<lb/> the
+                                        Castle &amp; <placeName>Neckar</placeName> where we
+                                        have<lb/> not only a most romantic picture<lb/> ever before
+                                        our eyes, but also every comfort<lb/> &amp; convenience in
+                                        this beautiful House.<lb/> My <hi rend="underline">good</hi>
+                                        Papa at length yielded to my<lb/> longing wish for a more
+                                                  <hi rend="underline">country</hi> life &amp;<lb/>
+                                        now permits me to follow my inclination<del>s</del><lb/>
+                                        which was never in favor of a residence<lb/> in our gay
+                                        &amp; busy city of <placeName>London</placeName>!</p>
+                              <p>It is, as you may imagine, an infinite<lb/> blessing to me thus to
+                                        enjoy, in more<lb/> retirement, the glorious beauties of
+                                        nature,<lb/> &amp; my own favorite studies of Literature
+                                        &amp;<lb/> music. I do not know yet how long we<lb/> may
+                                        remain in <placeName>Heidelberg</placeName>. I think we<lb/>
+                                        shall spend <date>June</date> &amp; <date>July</date> in
+                                                  <placeName>Switzerland</placeName><lb/> (my 3d
+                                        visit) &amp; then most likely go to<lb/>
+                                        <placeName>England</placeName> for a few months as we
+                                        shall<lb/> both be <sic>anscious</sic> to see our friends
+                                        there.</p>
+                              <p>We have had a <hi rend="underline">very</hi> severe winter,
+                                        but<lb/> to <hi rend="underline">me</hi> the charm has been
+                                        so great<lb/> that I could not regret it. To see the<lb/>
+                                        scenery here all enveloped in its <hi rend="underline"
+                                                  >snowy</hi><lb/> mantle—has been a continual
+                                        source<lb/> of enjoyment to me &amp; the tinkling<lb/> bells
+                                        of the horses as they bore the gay<lb/> sledges along, did
+                                        not a little enhance the<lb/> beauty of the picture!</p>
+                              <p>I suppose you hear as much of<lb/> the War as we do. Some
+                                        people<lb/> are of opinion that it is the first</p>
+                              <pb n="3"/>
+                              <p>step towards the restoration of our<lb/> Nation—according to the
+                                        Prophecies.<lb/> What is your opinion? And how<lb/> goes on
+                                        your interesting work, the Bible?</p>
+                              <p>Have you heard of a <hi rend="underline">small</hi> book<lb/>
+                                        published in <date>1853</date> at Chapman's in the<lb/>
+                                        <placeName>Strand, London</placeName> (price 36 s. d.) “<hi
+                                                  rend="underline">A few words to</hi><lb/>
+                                        <hi rend="underline">the Jews</hi>”? It is splendidly
+                                        written,<lb/> &amp; most touchingly beautiful—<lb/> We, as
+                                        Israelites, cannot be too grateful<lb/> to God for raising
+                                        amongst us such<lb/> an Author—so deeply imbued with the
+                                        true<lb/> spirit of Judaism. I hope it will soon<lb/> be
+                                        well known both in <placeName>England</placeName> &amp;
+                                                  <placeName>America</placeName>.<lb/> We do not
+                                        know the name of the Author<lb/> not his place of abode—he
+                                        merely adds<lb/> in the title page “by one of
+                                        themselves.”<lb/> Surely he will one day be known!<lb/> at
+                                        present all is in mystery respecting the<lb/> books. My
+                                        paper tells me to say farewell<lb/> for the present, &amp;
+                                        trusting you are in<lb/> good health, I remain dear
+                                        friend</p>
+                              <p rend="indent(1)">Your's sincerely, <persName role="author">Rosa
+                                                  <add>?</add> Salsman</persName></p>
+                              <div>
+                                        <p>
+                                                  <ref target="Occident_PDFs/Occ_11_10.pdf">The
+                                                  above text refers to Occident Volume 11 No. 10
+                                                  pages 515 through 520. Click here to view.</ref>
+                                        </p>
+                              </div>
+                    </body>
+          </text>
 </TEI>

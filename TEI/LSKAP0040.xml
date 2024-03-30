@@ -1,272 +1,459 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE TEI [
-<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
-%teibase;
-<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
-%teiext;
-]>
-<TEI>
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="yes">Nathan, M.</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>LSKAP</repository>
-						<collection>The Arnold and Deanne Kaplan Collection of Early American Judaica</collection>
-						<idno>LSKAP0040</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="yes">Nathan, M.</author>
-						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac</addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>Kingston, Jamaica</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1863-07" source="" attested="yes">July 5, 1863</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="LSKAP0040_1R.jpg"></graphic>
-								<graphic url="LSKAP0040_1V.jpg"></graphic>
-								<graphic url="LSKAP0040_2R.jpg"></graphic>
-								<graphic url="LSKAP0040_2V.jpg"></graphic>
-								<graphic url="LSKAP0040_3R.jpg"></graphic>
-								<graphic url="LSKAP0040_3V.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="false" paper_type="" size="">letter</material>
-								</support>
-								<extent>6 pages on 3 sheets
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="manuscript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="restricted">
-								<p>Restricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-				<language ident="he">Hebrew</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1R"/>
-				<p rend="align(right)"><placeName>Kingston&#44; Jamaica</placeName> <date>5<hi rend="sup">th</hi> July 1863</date></p>
-				<p>My dear <addressee>Mr. Leeser</addressee></p>
-			<p rend="indent(1)">Your various letters received here between the <date>20th<lb/> April</date> last and <date>5<hi rend="sup">th</hi> June</date> did not meet my sight until the latter date&#44;<lb/> on my return from a voyage to <placeName>St. Thomas</placeName> <placeName>Cura&#231;ao</placeName> during those<lb/> 6 weeks.  My tour was ostensibly to see my brother off.  We had not set<lb/> eyes on one another  for 14<add>&#63;</add> years&#44; during which time he had got married&#44;<lb/> but his wife&#44; like mine&#44; is <add>Hebrew</add>.  Prior to my departure&#44; the Congregational ruler<lb/> of <placeName>St. Thomas</placeName> had invited me to permit them to put forth my name as a candidate<lb/> fro the vacant situation of minister&#44; which I prudently declined&#59; as is the<lb/> event of the Congregation&#39;s refusal to elect me&#44; my position here would have<lb/> been injured.  On my arrival at <placeName>St. Thomas</placeName>&#44; the rulers invited me to meet<lb/> them&#44; and&#44; after that interview took action.  <del>After</del> I sailed &#40;3 days after&#41; <add>the interview</add> for<lb/> <placeName>Cura&#231;ao</placeName>.  A meeting of the voting members was called <add>in my absence</add> and two propositions<lb/> were submitted for their decision.  The first&#44; to raise the salary from &#36;1200&#44; the amount of stipend advertised&#44; to &#36;1800&#59; which was carried&#44; 10 only dissenting&#44;<lb/> and they&#44; only on the plea that the congregation could not afford the larger<lb/> sum.  The second&#44; to elect a minister.  The President proposed me&#44; adding<lb/> that he had not my permission&#44; but hoping that the expression of the<lb/> member&#44; in my favour&#44; might induce me to accept.  The proposition was<lb/> carried without a <hi rend="underline">dissenting voice</hi>.  The second day after my arrival&#44; a<lb/> deputation waited upon me with a numerously and respectably signed<lb/> address&#44; inviting me to stay a fortnight longer&#44; before going to <placeName>Cura&#231;ao</placeName>.  I was<lb/> obliged to decline&#44; but&#44; to soften the refusal&#44; read and preached <del>for</del> in the<lb/> Synagogue on <date>Friday night the 1st May</date>.  The next morning I embarked<lb/> on my return from <placeName>Cura&#231;ao</placeName> in the <date>20th May</date>&#44; I stayed at <placeName>St. Thomas</placeName></p>
-				<p rend="The following is written in the top right."> 20&#45;666&#44; 1 of 2</p>
-			<pb n="1V"/>
-				<p>till the <date>1<hi rend="sup">st</hi> June</date>&#59; and on <add>Hebrew</add> read <add>Hebrew</add> and preached again.<lb/> Each time the Synagogue was filled.  My reception in both places was<lb/> gratifying in the extreme.  Now about <placeName>Cura&#231;ao</placeName>.  <add>&#63;</add><lb/> is a generous&#44; charitable man&#44; of  large proportions and with a<lb/> larger heart.  In five minutes we understood each other perfectly.  We had<lb/> many discussions on various Jewish subjects&#44; Scriptural&#44; Rabbinical&#44;<lb/> Synagogal&#44; raised&#44; I suppose&#44; for the purpose of drawing me out.<lb/> Books were introduced&#44; and many a hard passage in <add>Hebrew</add><lb/> was submitted for my opinion.  Whether I acquitted myself will or ill&#44; I cannot<lb/> say&#59; but I am sure you will be pleased to hear that the Chactaeu<add>&#63;</add>&#44; when he<lb/> came to accompany me to the vessel&#44; presented me with a <add>Hebrew</add> in<lb/> Hebrew &#38; English&#44; conferring on me the rank and title of <add>Hebrew</add> and&#44;<lb/> calling upon all congregations to acknowledge and receive me as such.<lb/>  I suppose you know his title is <hi rend="underline">Opper Rattiner</hi><add>&#63;</add>&#44; or Chief Rabbi.  He<lb/> teaches extemporaneously&#44; much in the style of <persName>Plessner</persName>&#44; illustrating his<lb/> discourse copiously from midrash.  He asked me to give him a test one<lb/> <date>Sabbath</date> just before the sermon was to be delivered&#44; and I selected Prov. XVIII.I.<lb/> on which he discoursed for about 30 minutes&#44; in Dutch.  I was told by good<lb/> judges it was an able exposition&#44; but&#44; tho&#39; I understood parts here and there&#44;<lb/> I cannot say anything about it.  Sometimes he preaches in Portuguese.  His<lb/> performance of the marriage ceremony&#44; I also witnessed.  It was very<lb/> impressive.  He always addresses the young couple before the ceremony&#59; and<lb/> besides&#44; has interviews with both in <hi rend="underline">private before</hi> the union&#44; at which I<lb/> understand he talks very seriously to them about their duties as husband<lb/> and wife&#44; and also to God and <placeName>Israel</placeName>.  His charities are disputed akin<lb/> to  Jew &#38; Christian.  During the epidemic of small pox last year&#44; when the other<lb/> clergy fled for their lives&#44; he was at the bedsides of white&#44; Black colored&#44; administering medicines&#44; pecuniary relief &#40;in which the government gave</p>
-			<pb n="2R"/>
-				<p>him carte blanche to draw&#41; spiritual consolation&#44; offering up prayer at the<lb/> instance of Christian sufferers&#44; and helping occasionally with his own hands&#44;<lb/> to put the dear in their coffins.  He is highly respected by the Dutch Government.<lb/>  His stipend is paid by the state&#44; not by the Synagogue.  I did not preach at <placeName>Cura&#231;ao</placeName>&#44;<lb/> for the following reason.  A requisition&#44; respectably signed was sent to the Mahamad&#44;<lb/> that I should preach.  The mahamad sent for the Chacham<add>&#63;</add>&#44; and asked him if he had<lb/> any objection to me.  On his answering&#44; none&#44; they told him that his pulpit would be<lb/> occupied by me the following <date>Sabbath</date>.  To this&#44; he replies&#44; he would not object&#44;<lb/> provided the mahamad asked his permission to have the pulpit so occupied.  This<lb/> they refused to do&#44; but sent me an intimation by letter that they would be happy<lb/> if I would comply with the request of the Congregation.  Having been informed<lb/> of what had taken place&#44; I declined&#44; in my reply&#44; to give an affirmative answer&#44;<lb/> as the letter from the mahamad did not state expressly that the Chacham&#39;s<add>&#63;</add>&#44;<lb/> permission to occupy his pulpit had been obtained&#59; but on <add>receiving</add> their assurance<lb/> that he had sanctioned it&#44; I would be happy to comply with their request.<lb/>  This led to another communication implying that I wished to dictate to them&#44;<lb/> and informing me that the matter was at an end.  Tho this I answered&#44; disclaiming<lb/> most solemnly any intention of dictating to them the line of conduct <hi rend="underline">they</hi> should<lb/> pursue&#44; but adding that the line of conduct <hi rend="underline">I</hi> had to pursue&#44; agreeably to the<lb/> rules of good breeding and social etiquette which <del> <add>&#63;</add> every</del> obtained wherever<lb/> civilization and refinement existed&#44; was not to occupy any pulpit until<lb/> I received the permission of the party to whom it rightfully belonged.  In<lb/> a postscript&#44; I said that being a stranger they would pardon me for declining any<lb/> further correspondence on the subject.  There is a board called the <hi rend="underline">Conseijo deo<lb/> Anciannos</hi>&#44; consisting of past Presidents&#44; which acts as a court of Review <add>of</add>&#44;<lb/> or appeal from&#44; the acts of the mahamad.  To this board&#44; the proceedings in the<lb/> matter were submitted a few days after&#44; and out of 15 members present&#44; 14<lb/> decided that the pulpit could at no time be occupied without the previous</p>
-			<pb n="2V"/>
-				<p>consent and permission of the chacham.  The dissentient<add>&#63;</add> was the brother<lb/> of the President.  To the chacham&#39;s honor I must state that he waited<lb/> personally on 7 or 8 of the most influential and wealthy of these A<add>&#63;</add><lb/> and&#44; knowing the resentment they felt at the indignity put upon him by the<lb/> mahamad&#44; as well as apprehending violence in the debate&#44; exacted from them<lb/> a solemn pledge that they would keep away from the sitting&#44; otherwise their<lb/> number would have swelled the notes condemnatory of the mahamad.  This<lb/> question had been long pending&#44; but not opportunity was afforded for settling it<lb/> before.  The chacham&#39;s assertion that the pulpit belonged to him and my<lb/> firm support of his rights have now set the matter at rest&#44; and strengthened<lb/> his position against the attempted encroachment of the mahamad.  During<lb/> the progress of the discussion&#44; I kept at home convinced that&#44; in the influenced<lb/> passions of the Congregation against the mahamad&#44; the latter would have been<lb/> bodily ejected from their seats in Synagogue&#44; if I had gone up and down<lb/> and proved the impropriety of their action.  I send you these particulars<lb/> in the event of your hearing any thing <del>about it</del> from the other side.  The <persName>Revd.<lb/> Mr. <hi rend="underline">Santcroos</hi></persName> is the first <add>Hebrew</add>&#44; he is the son&#45;in&#45;law of the chacham&#44; and gives<lb/> instruction in Hebrew &#38; Religion to the youth of the Congregation&#44; in the <add>Hebrew</add><lb/> a certain number of hours p day&#59; morning and evening.  He is a very able<lb/> man.  In his and his father&#45;in&#45;law&#39;s society&#44; I spent much of the 18 days I<lb/> was at <placeName>Cura&#231;ao</placeName>.  The wives of both are&#44; I think&#44; even more scrupulous than<lb/> the husbands.  They are very <hi rend="underline">pious and</hi> charitable women&#44; and their kindness<lb/> to orphan children most touching.  No shop or store is open among <sic>our</sic> on <date>Sabbath</date> or Holy day&#59; even the second days are strictly kept.<lb/> Their rejoicings&#44; as weddings&#44; circumcisions&#44; consecration of <sic>deadlings</sic><add>&#63;</add> are<lb/> indeed joyous&#44; whilst their mournings are sad and melancholy.  The abattons<lb/> or butcheries are out of the town&#44; and they have&#44; <add>if</add> I mistake not&#44; two Shoctim<lb/> and two Shomeim over whom&#44; as well as the butcher&#44; the Chacham keeps a<lb/> most watchful eye.  The Chazan&#44; the <persName>Revd. Mr. Cardozo</persName>&#44; altho&#39; 73 years of age<lb/> shows in his decline what he must have been in his prime.  He reads the<lb/> service and Parashah with fine musical intonation and accurately<lb/> grammatical pronunciation.  The Synagogue is a fine old building&#44;<lb/> but the centre is spoiled by the hugeness and massiveness of the pillars<lb/> which intercept the view and prevent the eye from taking in the <add>bold</add> proportions<lb/> of the interior at a glance.  The ladies&#39; galleries are latticed in true moorish<lb/> style.  It is useless <sic>too</sic> look up&#44; the eye of a lynx would fail to make out <del><add>&#63;</add></del><lb/> the features of any fair one seated there.  The Reading Desk and pulpit are<lb/> fine&#44; the Hechal out of all proportion with the height of the building&#44; and<lb/> the exterior of the building is <del>hideous</del> ugly&#59; the western front positively<lb/> hideous.  Divine service is performed twice a day&#44; morning and evening<lb/> the whole week through&#44; with always plenty of minyan.  In the <add>Hebrew</add></p>
-			<pb n="3R"/>
-				<p>3 times&#59; and in those weeks&#44; the chacham lectures generally every<lb/> other evening&#44; either from Scripture or from the mishna&#44; always extemporaneously<lb/> without a note before him.  <placeName>Cura&#231;ao</placeName>&#44; in fine&#44; so far as practical Judaism&#44;<lb/> on old orthodox&#44; rabbinical principles&#44; is concerned&#44; is very considerably<lb/> ahead of our sister Congregations in the other <placeName>W. I. Islands</placeName>&#44; and need<lb/> not fear <hi rend="underline">any</hi> comparison as regards adherence to the ancient landmarks of our revered religion.</p>
-			<p rend="indent(1)">I am waiting momently for the arrival of the steamer<lb/> from <placeName>Europe</placeName>&#44; to receive the yea or nay to my ultimatum&#44;<lb/> from the <placeName>St. Thomas</placeName> Congregation.  My terms are&#44; no specified<lb/> term of engagement&#44; salary as fixed by the congregation&#44; and<lb/> a pension&#44; if after 10 years I am unable&#44; or may be declared<lb/> incapable <del>of</del>&#44; mentally or physically&#44; of performing my duties.<lb/>  This pension&#44; modestly fixed at &#36;600 <add>&#63;</add> is the pons<lb/> asinorum betwixt us.  The good folks kick against it&#44; whilst<lb/> ready to pension off their hitherto acting Chazan <persName>Maduro</persName><lb/> tomorrow at &#36;400 <hi rend="underline">half</hi> his salary&#44; &#40;I only ask for a<lb/> third&#41; and also admitting that no man will suit them<lb/> so well as I&#44; combining as I do the capability of a<lb/> teacher&#44; whom they require so much&#44; with that of a chazan<lb/> and Preacher.  The Government had told them plainly that<lb/> if they do not take <add>&#63;</add> me one&#44; it will send them <del>one</del><add>a minister</add> from <placeName>Copenhagen</placeName>&#44;<lb/> with whom the <del>Congregation</del> Government will make a contract<lb/> whether its provisions be palatable or not.  I have offered to<lb/> allow myself to be put on the same footing as other government<lb/> officers&#44; at the instance of the governor.  Today&#39;s mail</p>
-				<p rend="The following is written in pencil at the bottom right.">20&#45;666 2 of 2</p>
-			<pb n="3V"/>
-				<p>will decide the point in dispute.  If against me&#44; I will&#44; at<lb/> once take up the letter from <placeName>Cincinnati</placeName>&#44; which I have<lb/> answered today.  It only arrived on the <date>30th May</date>&#44; tho&#39; written<lb/> in <date>April</date>&#44; and I received it on the <date>5th June</date>&#44; the day I returned<lb/> home&#44; but too late for replying to <del>that</del> it by that months<lb/> mail.  I will not&#44; at present&#44; correspond with you on<lb/> the subject in deference to your wishes&#44; but I expect <persName>Mr.<lb/> A.</persName> will.  I have&#44; at all events&#44; opened up the subject<lb/> to him&#44; and communicated how I am at this moment<lb/> situated with the <placeName>St. Thos.</placeName> Cong.  It will be a trying<lb/> position for any man&#44; with such opponents as silent that<lb/> and wise.  Yet it is worth holding for that sake alone.<lb/> But what will principally deter me is the present<lb/> unsettled state of the country.  Were I to take it&#44; I<lb/> would not keep any school&#44; as I would have enough to <add>do</add> with men of giant intellect&#44; without being bothered<lb/> with teaching children.  I am afraid&#44; the mail will be closed<lb/> before the European steamer arrives&#44; and I will have to<lb/> wait for the next monthly American steamer&#44; as no <sic>dependance</sic>&#44; can be placed on sailing vessels.</p>
-			<p rend="indent(1)">I deeply sympathize with you on the death<lb/> of your old aunt <persName>Mrs. Rehine</persName>&#44; <add>Hebrew</add>.  The <persName>Revd. Mr. Myers</persName><lb/> is just at my elbow&#44; and begs me to say he will take an<lb/> early opportunity of writing you&#44; that he sent you some<lb/> newspapers&#44; and desires his kinds regards.  The same to<lb/> <persName>J.</persName>&#44; <persName>Mrs. N.</persName> and <persName>Mrs. S.</persName> and with apologies for not answering<lb/> your letters more fully&#44; which I will do next time&#44; and<lb/> also hoping that my long Meguillah may not</p>
-				<p rend="The following is continued on the left side of the page.">tire your old eyes&#44; which I suppose like those of all<lb/> old Patriarchs <add>Hebrew</add> and deserving you are old<lb/> inquiring friend <add>&#63;</add></p>
-			<p rend="indent(9)">I am</p>
-			<p rend="indent(10)">Yours ever truly</p>
-			<p rend="indent(11)"><persName role="author">M. Nathan</persName></p>
-		</body>
-	</text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="yes">Nathan, M.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>LSKAP</repository>
+                        <collection>The Arnold and Deanne Kaplan Collection of Early American
+                            Judaica</collection>
+                        <idno>LSKAP0040</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="yes">Nathan, M.</author>
+                        <addressee accepted="yes" attested="yes" editor="false">Leeser,
+                            Isaac</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Kingston, Jamaica</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1863-07">July 5, 1863</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="LSKAP0040_1R.jpg"/>
+                                <graphic url="LSKAP0040_1V.jpg"/>
+                                <graphic url="LSKAP0040_2R.jpg"/>
+                                <graphic url="LSKAP0040_2V.jpg"/>
+                                <graphic url="LSKAP0040_3R.jpg"/>
+                                <graphic url="LSKAP0040_3V.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >letter</material>
+                                </support>
+                                <extent>6 pages on 3 sheets <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="restricted">
+                                <p>Restricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="he">Hebrew</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1R"/>
+            <p rend="align(right)">
+                <placeName>Kingston, Jamaica</placeName>
+                <date>5<hi rend="sup">th</hi> July 1863</date>
+            </p>
+            <p>My dear <addressee>Mr. Leeser</addressee></p>
+            <p rend="indent(1)">Your various letters received here between the <date>20th<lb/>
+                    April</date> last and <date>5<hi rend="sup">th</hi> June</date> did not meet my
+                sight until the latter date,<lb/> on my return from a voyage to <placeName>St.
+                    Thomas</placeName>
+                <placeName>Curaçao</placeName> during those<lb/> 6 weeks. My tour was ostensibly to
+                see my brother off. We had not set<lb/> eyes on one another for 14<add>?</add>
+                years, during which time he had got married,<lb/> but his wife, like mine, is
+                    <add>עקרה</add>. Prior to my departure, the Congregational ruler<lb/> of
+                    <placeName>St. Thomas</placeName> had invited me to permit them to put forth my
+                name as a candidate<lb/> fro the vacant situation of minister, which I prudently
+                declined; as is the<lb/> event of the Congregation's refusal to elect me, my
+                position here would have<lb/> been injured. On my arrival at <placeName>St.
+                    Thomas</placeName>, the rulers invited me to meet<lb/> them, and, after that
+                interview took action. <del>After</del> I sailed (3 days after) <add>the
+                    interview</add> for<lb/>
+                <placeName>Curaçao</placeName>. A meeting of the voting members was called <add>in
+                    my absence</add> and two propositions<lb/> were submitted for their decision.
+                The first, to raise the salary from $1200, the amount of stipend advertised, to
+                $1800; which was carried, 10 only dissenting,<lb/> and they, only on the plea that
+                the congregation could not afford the larger<lb/> sum. The second, to elect a
+                minister. The President proposed me, adding<lb/> that he had not my permission, but
+                hoping that the expression of the<lb/> member, in my favour, might induce me to
+                accept. The proposition was<lb/> carried without a <hi rend="underline">dissenting
+                    voice</hi>. The second day after my arrival, a<lb/> deputation waited upon me
+                with a numerously and respectably signed<lb/> address, inviting me to stay a
+                fortnight longer, before going to <placeName>Curaçao</placeName>. I was<lb/> obliged
+                to decline, but, to soften the refusal, read and preached <del>for</del> in the<lb/>
+                Synagogue on <date>Friday night the 1st May</date>. The next morning I embarked<lb/>
+                on my return from <placeName>Curaçao</placeName> in the <date>20th May</date>, I
+                stayed at <placeName>St. Thomas</placeName></p>
+            <p rend="The following is written in the top right."> 20-666, 1 of 2</p>
+            <pb n="1V"/>
+            <p>till the <date>1<hi rend="sup">st</hi> June</date>; and on <add>מוסף</add> read
+                    <add>שחרית</add> and preached again.<lb/> Each time the Synagogue was filled. My
+                reception in both places was<lb/> gratifying in the extreme. Now about
+                    <placeName>Curaçao</placeName>. <add>?</add><lb/> is a generous, charitable man,
+                of large proportions and with a<lb/> larger heart. In five minutes we understood
+                each other perfectly. We had<lb/> many discussions on various Jewish subjects,
+                Scriptural, Rabbinical,<lb/> Synagogal, raised, I suppose, for the purpose of
+                drawing me out.<lb/> Books were introduced, and many a hard passage in <add>משנה
+                    דינים מפרשים</add><lb/> was submitted for my opinion. Whether I acquitted myself
+                will or ill, I cannot<lb/> say; but I am sure you will be pleased to hear that the
+                    Chactaeu<add>?</add>, when he<lb/> came to accompany me to the vessel, presented
+                me with a <add>מדרשים</add> in<lb/> Hebrew &amp; English, conferring on me the rank
+                and title of <add>תעודה</add> and,<lb/> calling upon all congregations to
+                acknowledge and receive me as such.<lb/> I suppose you know his title is <hi
+                    rend="underline">Opper Rattiner</hi><add>?</add>, or Chief Rabbi. He<lb/>
+                teaches extemporaneously, much in the style of <persName>Plessner</persName>,
+                illustrating his<lb/> discourse copiously from midrash. He asked me to give him a
+                test one<lb/>
+                <date>Sabbath</date> just before the sermon was to be delivered, and I selected
+                Prov. XVIII.I.<lb/> on which he discoursed for about 30 minutes, in Dutch. I was
+                told by good<lb/> judges it was an able exposition, but, tho' I understood parts
+                here and there,<lb/> I cannot say anything about it. Sometimes he preaches in
+                Portuguese. His<lb/> performance of the marriage ceremony, I also witnessed. It was
+                very<lb/> impressive. He always addresses the young couple before the ceremony;
+                and<lb/> besides, has interviews with both in <hi rend="underline">private
+                    before</hi> the union, at which I<lb/> understand he talks very seriously to
+                them about their duties as husband<lb/> and wife, and also to God and
+                    <placeName>Israel</placeName>. His charities are disputed akin<lb/> to Jew &amp;
+                Christian. During the epidemic of small pox last year, when the other<lb/> clergy
+                fled for their lives, he was at the bedsides of white, Black colored, administering
+                medicines, pecuniary relief (in which the government gave</p>
+            <pb n="2R"/>
+            <p>him carte blanche to draw) spiritual consolation, offering up prayer at the<lb/>
+                instance of Christian sufferers, and helping occasionally with his own hands,<lb/>
+                to put the dear in their coffins. He is highly respected by the Dutch
+                Government.<lb/> His stipend is paid by the state, not by the Synagogue. I did not
+                preach at <placeName>Curaçao</placeName>,<lb/> for the following reason. A
+                requisition, respectably signed was sent to the Mahamad,<lb/> that I should preach.
+                The mahamad sent for the Chacham<add>?</add>, and asked him if he had<lb/> any
+                objection to me. On his answering, none, they told him that his pulpit would be<lb/>
+                occupied by me the following <date>Sabbath</date>. To this, he replies, he would not
+                object,<lb/> provided the mahamad asked his permission to have the pulpit so
+                occupied. This<lb/> they refused to do, but sent me an intimation by letter that
+                they would be happy<lb/> if I would comply with the request of the Congregation.
+                Having been informed<lb/> of what had taken place, I declined, in my reply, to give
+                an affirmative answer,<lb/> as the letter from the mahamad did not state expressly
+                that the Chacham's<add>?</add>,<lb/> permission to occupy his pulpit had been
+                obtained; but on <add>receiving</add> their assurance<lb/> that he had sanctioned
+                it, I would be happy to comply with their request.<lb/> This led to another
+                communication implying that I wished to dictate to them,<lb/> and informing me that
+                the matter was at an end. Tho this I answered, disclaiming<lb/> most solemnly any
+                intention of dictating to them the line of conduct <hi rend="underline">they</hi>
+                should<lb/> pursue, but adding that the line of conduct <hi rend="underline">I</hi>
+                had to pursue, agreeably to the<lb/> rules of good breeding and social etiquette
+                which <del>
+                    <add>?</add> every</del> obtained wherever<lb/> civilization and refinement
+                existed, was not to occupy any pulpit until<lb/> I received the permission of the
+                party to whom it rightfully belonged. In<lb/> a postscript, I said that being a
+                stranger they would pardon me for declining any<lb/> further correspondence on the
+                subject. There is a board called the <hi rend="underline">Conseijo deo<lb/>
+                    Anciannos</hi>, consisting of past Presidents, which acts as a court of Review
+                    <add>of</add>,<lb/> or appeal from, the acts of the mahamad. To this board, the
+                proceedings in the<lb/> matter were submitted a few days after, and out of 15
+                members present, 14<lb/> decided that the pulpit could at no time be occupied
+                without the previous</p>
+            <pb n="2V"/>
+            <p>consent and permission of the chacham. The dissentient<add>?</add> was the
+                brother<lb/> of the President. To the chacham's honor I must state that he
+                waited<lb/> personally on 7 or 8 of the most influential and wealthy of these
+                    A<add>?</add><lb/> and, knowing the resentment they felt at the indignity put
+                upon him by the<lb/> mahamad, as well as apprehending violence in the debate,
+                exacted from them<lb/> a solemn pledge that they would keep away from the sitting,
+                otherwise their<lb/> number would have swelled the notes condemnatory of the
+                mahamad. This<lb/> question had been long pending, but not opportunity was afforded
+                for settling it<lb/> before. The chacham's assertion that the pulpit belonged to him
+                and my<lb/> firm support of his rights have now set the matter at rest, and
+                strengthened<lb/> his position against the attempted encroachment of the mahamad.
+                During<lb/> the progress of the discussion, I kept at home convinced that, in the
+                influenced<lb/> passions of the Congregation against the mahamad, the latter would
+                have been<lb/> bodily ejected from their seats in Synagogue, if I had gone up and
+                down<lb/> and proved the impropriety of their action. I send you these
+                particulars<lb/> in the event of your hearing any thing <del>about it</del> from the
+                other side. The <persName>Revd.<lb/> Mr. <hi rend="underline"
+                    >Santcroos</hi></persName> is the first <add>מורינו הרב</add>, he is the
+                son-in-law of the chacham, and gives<lb/> instruction in Hebrew &amp; Religion to
+                the youth of the Congregation, in the <add>מדרש</add><lb/> a certain number of hours
+                p day; morning and evening. He is a very able<lb/> man. In his and his
+                father-in-law's society, I spent much of the 18 days I<lb/> was at
+                    <placeName>Curaçao</placeName>. The wives of both are, I think, even more
+                scrupulous than<lb/> the husbands. They are very <hi rend="underline">pious and</hi>
+                charitable women, and their kindness<lb/> to orphan children most touching. No shop
+                or store is open among <sic>our</sic> on <date>Sabbath</date> or Holy day; even the
+                second days are strictly kept.<lb/> Their rejoicings, as weddings, circumcisions,
+                consecration of <sic>deadlings</sic><add>?</add> are<lb/> indeed joyous, whilst
+                their mournings are sad and melancholy. The abattons<lb/> or butcheries are out of
+                the town, and they have, <add>if</add> I mistake not, two Shoctim<lb/> and two
+                Shomeim over whom, as well as the butcher, the Chacham keeps a<lb/> most watchful
+                eye. The Chazan, the <persName>Revd. Mr. Cardozo</persName>, altho' 73 years of
+                age<lb/> shows in his decline what he must have been in his prime. He reads the<lb/>
+                service and Parashah with fine musical intonation and accurately<lb/> grammatical
+                pronunciation. The Synagogue is a fine old building,<lb/> but the centre is spoiled
+                by the hugeness and massiveness of the pillars<lb/> which intercept the view and
+                prevent the eye from taking in the <add>bold</add> proportions<lb/> of the interior
+                at a glance. The ladies' galleries are latticed in true moorish<lb/> style. It is
+                useless <sic>too</sic> look up, the eye of a lynx would fail to make out
+                        <del><add>?</add></del><lb/> the features of any fair one seated there. The
+                Reading Desk and pulpit are<lb/> fine, the Hechal out of all proportion with the
+                height of the building, and<lb/> the exterior of the building is <del>hideous</del>
+                ugly; the western front positively<lb/> hideous. Divine service is performed twice a
+                day, morning and evening<lb/> the whole week through, with always plenty of minyan.
+                In the <add>עומר</add></p>
+            <pb n="3R"/>
+            <p>3 times; and in those weeks, the chacham lectures generally every<lb/> other evening,
+                either from Scripture or from the mishna, always extemporaneously<lb/> without a
+                note before him. <placeName>Curaçao</placeName>, in fine, so far as practical
+                Judaism,<lb/> on old orthodox, rabbinical principles, is concerned, is very
+                considerably<lb/> ahead of our sister Congregations in the other <placeName>W. I.
+                    Islands</placeName>, and need<lb/> not fear <hi rend="underline">any</hi>
+                comparison as regards adherence to the ancient landmarks of our revered
+                religion.</p>
+            <p rend="indent(1)">I am waiting momently for the arrival of the steamer<lb/> from
+                    <placeName>Europe</placeName>, to receive the yea or nay to my ultimatum,<lb/>
+                from the <placeName>St. Thomas</placeName> Congregation. My terms are, no
+                specified<lb/> term of engagement, salary as fixed by the congregation, and<lb/> a
+                pension, if after 10 years I am unable, or may be declared<lb/> incapable
+                    <del>of</del>, mentally or physically, of performing my duties.<lb/> This
+                pension, modestly fixed at $600 <add>?</add> is the pons<lb/> asinorum betwixt us.
+                The good folks kick against it, whilst<lb/> ready to pension off their hitherto
+                acting Chazan <persName>Maduro</persName><lb/> tomorrow at $400 <hi rend="underline"
+                    >half</hi> his salary, (I only ask for a<lb/> third) and also admitting that no
+                man will suit them<lb/> so well as I, combining as I do the capability of a<lb/>
+                teacher, whom they require so much, with that of a chazan<lb/> and Preacher. The
+                Government had told them plainly that<lb/> if they do not take <add>?</add> me one,
+                it will send them <del>one</del><add>a minister</add> from
+                    <placeName>Copenhagen</placeName>,<lb/> with whom the <del>Congregation</del>
+                Government will make a contract<lb/> whether its provisions be palatable or not. I
+                have offered to<lb/> allow myself to be put on the same footing as other
+                government<lb/> officers, at the instance of the governor. Today's mail</p>
+            <p rend="The following is written in pencil at the bottom right.">20-666 2 of 2</p>
+            <pb n="3V"/>
+            <p>will decide the point in dispute. If against me, I will, at<lb/> once take up the
+                letter from <placeName>Cincinnati</placeName>, which I have<lb/> answered today. It
+                only arrived on the <date>30th May</date>, tho' written<lb/> in <date>April</date>,
+                and I received it on the <date>5th June</date>, the day I returned<lb/> home, but
+                too late for replying to <del>that</del> it by that months<lb/> mail. I will not, at
+                present, correspond with you on<lb/> the subject in deference to your wishes, but I
+                expect <persName>Mr.<lb/> A.</persName> will. I have, at all events, opened up the
+                subject<lb/> to him, and communicated how I am at this moment<lb/> situated with the
+                    <placeName>St. Thos.</placeName> Cong. It will be a trying<lb/> position for any
+                man, with such opponents as silent that<lb/> and wise. Yet it is worth holding for
+                that sake alone.<lb/> But what will principally deter me is the present<lb/>
+                unsettled state of the country. Were I to take it, I<lb/> would not keep any school,
+                as I would have enough to <add>do</add> with men of giant intellect, without being
+                bothered<lb/> with teaching children. I am afraid, the mail will be closed<lb/>
+                before the European steamer arrives, and I will have to<lb/> wait for the next
+                monthly American steamer, as no <sic>dependance</sic>, can be placed on sailing
+                vessels.</p>
+            <p rend="indent(1)">I deeply sympathize with you on the death<lb/> of your old aunt
+                    <persName>Mrs. Rehine</persName>, <add>כבודו</add>. The <persName>Revd. Mr.
+                    Myers</persName><lb/> is just at my elbow, and begs me to say he will take
+                an<lb/> early opportunity of writing you, that he sent you some<lb/> newspapers, and
+                desires his kinds regards. The same to<lb/>
+                <persName>J.</persName>, <persName>Mrs. N.</persName> and <persName>Mrs.
+                    S.</persName> and with apologies for not answering<lb/> your letters more fully,
+                which I will do next time, and<lb/> also hoping that my long Meguillah may not</p>
+            <p rend="The following is continued on the left side of the page.">tire your old eyes,
+                which I suppose like those of all<lb/> old Patriarchs <add>Hebrew</add> and
+                deserving you are old<lb/> inquiring friend <add>?</add></p>
+            <p rend="indent(9)">I am</p>
+            <p rend="indent(10)">Yours ever truly</p>
+            <p rend="indent(11)">
+                <persName role="author">M. Nathan</persName>
+            </p>
+        </body>
+    </text>
 </TEI>

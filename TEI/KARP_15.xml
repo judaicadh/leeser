@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
         <fileDesc>
             <titleStmt>
                 <title>[no title given]</title>
-                <author attested="yes" accepted="yes" signature="yes">Hart, Benjamin W.</author>
+                <author accepted="yes" attested="yes" signature="yes">Hart, Benjamin W.</author>
                 <editor/>
                 <sponsor/>
                 <funder/>
@@ -47,7 +49,9 @@
                         <settlement>New York</settlement>
                         <institution>Jewish Theological Seminary</institution>
                         <repository/>
-                        <collection>The Abraham and Deborah Karp Collection of Early American Judaica at the Library of the Jewish Theological Seminary of America</collection>
+                        <collection>The Abraham and Deborah Karp Collection of Early American
+                            Judaica at the Library of the Jewish Theological Seminary of
+                            America</collection>
                         <idno/>
                         <altIdentifier>
                             <idno/>
@@ -56,9 +60,9 @@
                     </msIdentifier>
                     <head/>
                     <letHeading>
-                        <author attested="yes" accepted="yes" signature="yes">Hart, Benjamin
+                        <author accepted="yes" attested="yes" signature="yes">Hart, Benjamin
                             W.</author>
-                        <addressee editor="false" attested="yes" accepted="yes"/>
+                        <addressee accepted="yes" attested="yes" editor="false"/>
                         <deliverer/>
                         <respStmt>
                             <resp/>
@@ -66,7 +70,7 @@
                         </respStmt>
                         <placeLet>New York, NY</placeLet>
                         <placeRec>Philadelphia, PA</placeRec>
-                        <dateLet when="1853-04" source="" attested="yes">20 April 1853</dateLet>
+                        <dateLet attested="yes" source="" when="1853-04">20 April 1853</dateLet>
                     </letHeading>
                     <msContents>
                         <msItem>
@@ -92,7 +96,8 @@
                         <objectDesc>
                             <supportDesc>
                                 <support>
-                                    <material color="" lined="false" paper_type="" size="Letter">letter</material>
+                                    <material color="" lined="false" paper_type="" size="Letter"
+                                        >letter</material>
                                 </support>
                                 <extent>2 pages on 2 sheets <dimensions/>
                                 </extent>
@@ -233,38 +238,36 @@
     </teiHeader>
     <text>
         <body>
-
             <pb n="1"/>
-
-            <p rend="right"><placeName>New York</placeName>
-                <date>April 20. 1853.</date></p>
-            <p>My dear Sir&#58;&#8211;</p>
-
-            <p rend="indent(1)">A Committee of the Greene St.<lb/> Congregation Bnai Jeshurun has been appointed
-                to<lb/> publish a full and correct statement concerning the<lb/> intentions of the
-                Trustees in reference to this to <add>&#63;</add><lb/>
-                <add>&#63;</add> in 32<add>&#63;</add> to which subject an undue importance<lb/> has
-                been given by the naturally violent&#8211;temperament of<lb/><persName> Mr. John J.
+            <p rend="right">
+                <placeName>New York</placeName>
+                <date>April 20. 1853.</date>
+            </p>
+            <p>My dear Sir:–</p>
+            <p rend="indent(1)">A Committee of the Greene St.<lb/> Congregation Bnai Jeshurun has
+                been appointed to<lb/> publish a full and correct statement concerning the<lb/>
+                intentions of the Trustees in reference to this to <add>?</add><lb/>
+                <add>?</add> in 32<add>?</add> to which subject an undue importance<lb/> has been
+                given by the naturally violent–temperament of<lb/> Mr. <persName>John J.
                     Hart</persName> and as I think by the prejudiced<lb/> course adopted by the
                 editor of the Asmonean.</p>
-            <p rend="indent(1)">The committee&#8212;for which I have the<lb/> honor to be chairman&#8212;have decided
-                to make an<lb/> application to you to publish our statement in the<lb/> Occident and
-                I have to beg that you will receive this<lb/> as official and consider it as the
-                communication of the<lb/> Committee.</p>
-            <p rend="indent(1)">The statement we have to put forth will occupy<lb/> many pages of your
-                periodical&#44; therefore we do not/</p>
-
+            <p rend="indent(1)">The committee—for which I have the<lb/> honor to be chairman—have
+                decided to make an<lb/> application to you to publish our statement in the<lb/>
+                Occident and I have to beg that you will receive this<lb/> as official and consider
+                it as the communication of the<lb/> Committee.</p>
+            <p rend="indent(1)">The statement we have to put forth will occupy<lb/> many pages of
+                your periodical, therefore we do not/</p>
             <pb n="2"/>
-
-            <p>conclusions&#44; but certainly think it will materially<lb/> affect the views
+            <p>conclusions, but certainly think it will materially<lb/> affect the views
                     <del>that</del> which the editorial comments of the<lb/> Asmonean may have given
                 you.</p>
-            <p rend="indent(1)">I send you my cordial greetings and best<lb/> wishes for your enjoyment of the
-            approaching Festival</p>
+            <p rend="indent(1)">I send you my cordial greetings and best<lb/> wishes for your
+                enjoyment of the approaching Festival</p>
             <p rend="indent(1)">Very faithfully Yours</p>
-            <p rend="indent(1)"><persName role="author">Benjn. W. Hart</persName></p>
-            <p>Address to me<lb/> Care of Ballin &#38; Sander</p>
-
+            <p rend="indent(1)">
+                <persName role="author">Benjn. W. Hart</persName>
+            </p>
+            <p>Address to me<lb/> Care of Ballin &amp; Sander</p>
         </body>
     </text>
 </TEI>

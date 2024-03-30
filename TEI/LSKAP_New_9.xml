@@ -1,264 +1,514 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE TEI [
-<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
-%teibase;
-<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
-%teiext;
-]>
-<TEI>
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="unk">Cox, Samuel Hanson</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>LSKAP</repository>
-						<collection>The Arnold and Deanne Kaplan Collection of Early American Judaica</collection>
-						<idno>LSKAP_New_9</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="unk">Cox, Samuel Hanson</author>
-						<addressee editor="false" attested="yes" accepted="yes">Eardley, Culling E., Sir</addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>New York, NY</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1857-08" source="" attested="yes">August 10, 1857</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="leeser_05_2011_kaplan_new_9.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="false" paper_type="" size="">miscellany</material>
-								</support>
-								<extent>2 pages on 2 sheets
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="typescript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions>Newspaper Clipping</additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="restricted">
-								<p>Restricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1"/>
-			<p rend="indent(1)">The annexed letter from <persName role="author">Rev. Dr. Cox</persName>&#44; of the <placeName>United<lb/> States</placeName>&#44; to <persName>Sir Culling Eardley</persName>&#44; of <placeName>England</placeName>&#44; expresses<lb/> the unanimous sentiment of the people of this country<lb/> on the topic under consideration.  Here we <emph rend="italics">have tried</emph><lb/> the experiment of granting political equality to Jews<lb/> in common with other denominations of religionists&#44;<lb/> and have found it to work kindly and well.  No evils<lb/> have resulted from it&#44; but the contrary.</p>
-				<p rend="align(center)">Communicated for the Journal of Commerce.</p>
-				<p>TO <addressee>SIR CULLING E. EARDLEY</addressee>&#44; <placeName>BART.&#44; LONDON</placeName>.</p>
-			<p rend="indent(1)">From your late kind letter&#44; the receipt of which I<lb/> gratefully acknowledge&#44; my dear <persName>Sir Culling</persName>&#44; you will<lb/> probably be leaving <placeName>London</placeName>&#44; as I judge&#44; for <placeName>Berlin</placeName>&#44;<lb/> by the time this reaches you&#59; to attend that meeting<lb/> of our Evangelical Alliance&#44; which His Majesty&#44; the<lb/> <persName>King</persName> of <placeName>Prussia</placeName>&#44; has invited to his own capital&#44; and<lb/> which&#44; according to your kind urgency and that of<lb/> several others&#44; I should be happy to attend&#44; were this<lb/> compatible with relative duties here.  As it is&#44; you<lb/> will have some worthy representatives from <placeName>America</placeName>&#44;<lb/> beside <persName>Rev. Dr. Baird</persName>&#44; <persName>Rev. Dr. Kirk</persName>&#44; <persName>Rev. Dr. Alex<lb/>ander</persName>&#44; and a number of others&#44; extensively and favor&#45;<lb/>ably known in both hemispheres.  As the grand<lb/> crowner of all&#44; may the Great Head of the Church&#44;<lb/> the King of <placeName>Sion</placeName>&#44; our Lord and Saviour <persName>Jesus Christ</persName>&#44; be<lb/> with you&#58; illumining your way&#59; prospering your de&#45;<lb/>liberations and measures&#44; to such results&#44; as HIMSELF<lb/> may consistently perpetuate and bless&#44; to the good of<lb/> nations&#44; and ultimately to the conversion of the world<lb/> to the knowledge of the only living and true God.</p>
-			<p rend="indent(1)">On another occasion&#44; <persName>Sir Culling</persName>&#44; I hope to enjoy<lb/> the luxury of your correspondence in a more extended<lb/> and private form&#59; and also never to have it totally in&#45;<lb/>termitted or relinquished&#44; while we are both&#44; by the<lb/> sovereign pleasure of God&#44; continued in the present<lb/> world.  But I seem to have a special reason for this<lb/> public letter&#59; in reference to a topic of common and<lb/> ecumenical interest to Christian States and Christian<lb/> men&#59; especially to the English world&#44; both Anglican<lb/> and Anglo&#45;American&#59; as well as related to the legiti&#45;<lb/>mate objects of the Evangelical Alliance&#44; and the pro&#45;<lb/>gress of Christianity&#44; with its ascendant ju&#45;<lb/>risdiction in the whole world.  That topic<lb/> may vindicate the propriety&#44; as well as il&#45;<lb/>lustrate the design of this public commu&#45;<lb/><sic>munication</sic>.  I allude distinctly to the recent action of<lb/> the House of Lords&#44; in their rejection of the bill for<lb/> the removal of Jewish disabilities&#44; in respect to the<lb/> oath required to be taken by the members of Parlia&#45;<lb/>ment.</p>
-			<p rend="indent(1)">It is not my plan to review the proceedings or the<lb/> speeches of their Lordships&#44; though that of the <persName>Earl</persName> of<lb/> <placeName>Derby</placeName> especially&#44; Lord Chancellor as he is&#44; <persName>Sir Cul&#45;<lb/>ling</persName>&#44; or your own venerated <emph rend="italics">Alma Mater</emph>&#44; the Univer&#45;<lb/>sity of <placeName>Oxford</placeName>&#44; I view as rather invitingly vulnerable&#59;<lb/> especially in contrast with the nobler&#44; and I must say&#44;<lb/> the wiser views of the new <persName>Lord Bishop</persName> of <placeName>London</placeName>.  I<lb/> only design to take general regards of the matter&#44; es&#45;<lb/>pecially its results and its tendencies&#44; as connected<lb/> with the duty of Christian men and the enlightened<lb/> policy of Christian nations&#59; and these as seen by my<lb/> own countrymen&#44; the most evangelical and intelligent<lb/> of them&#44; and indeed by our whole country of the<lb/> <placeName>United States</placeName>&#59; lamenting the position of their<lb/> Lordships&#44; and censuring them for conduct&#44; at<lb/> once&#44; in their view&#44; improper&#44; unreasonable&#44; inutile&#44;<lb/> unprotestant&#44; and derogatory to the just progress and<lb/> prospect of our age and their own great nation&#44; as well<lb/> as savoring of the spirit of persecution toward so large&#44;<lb/> and so opulent&#44; and so respectable a portion of their<lb/> fellow&#45;subjects.  There is an animus in the action&#44;<lb/> whose influence is easily detected&#44; and must be dis&#45;<lb/>approved by all the more elevated Christianity of<lb/> Christendom.  Is ours the doctrine of the masters of<lb/> the Inquisitorial Commission&#63;  Is it our duty to <emph rend="italics">per&#45;</emph><lb/> <emph rend="italics">secute</emph> any who may differ from us in religious views&#63;<lb/>  Is it the best way to benefit them&#44; the way of wisdom<lb/> to convince them&#44; or the proper way to conciliate to<lb/> our success the necessary benediction of our God&#63;<lb/>  Has he authorized it&#63;  What damage could accrue to<lb/> the State by honoring&#44; in favor of the Israelite&#44; at once&#44;<lb/> his consistency and his scruples in the matter&#63;<lb/>  We are surprised&#44; are grieved&#44; at the conduct of<lb/> their Lordships.  Its echoes are not excellent<lb/> or musical on this side of the <placeName>Atlantic</placeName>.<lb/>  We all think that they will not bear to be<lb/> reviewed in the strong light&#44; either of honorable and<lb/> wise statesmanship&#44; or of evangelical truth&#59; and the<lb/> peers of <placeName>England</placeName>&#44; if they wish not to degrade their no&#45;<lb/>bility in the eyes of all the world&#44; as well as through&#45;<lb/>out the immense majority of the Christian sentiment<lb/> of the British nation&#44; ought to <emph rend="italics">go and sin no more</emph>&#44;<lb/> against the people who gave us the Holy Scriptures&#44;<lb/> the nation from whom and of whom was our blessed<lb/> Saviour&#33; and whom to persecute has been the shame&#44;<lb/> the history&#44; and the sin&#44; of almost universal Christen&#45;<lb/>dom.</p>
-			<p rend="indent(1)">It is my definite object&#44; my dear <persName>Sir Culling</persName>&#44; to<lb/> commend THIS TOPIC to the solemn consideration of<lb/> the Evangelical Alliance&#44; and also to their lucid and<lb/> deliberate action.  It were well for them to act on it.<lb/>  The learning and the piety and the dignity that are<lb/> there to convene&#44; will make the metropolis of His<lb/> Majesty&#44; <persName>Frederick William</persName>&#44; for the time&#44; the lumi&#45;<lb/>nous focal centre of Christendom.  It seems to<lb/> court or claim the attention of mankind.<lb/>  I am persuaded that in an assemblage so<lb/> august and so eminent&#44; so truly philanthropic&#44; so<lb/> sincerely Christian&#44; and so signally <sic>patronised</sic> by one<lb/> of the noblest and most excellent sovereigns in the<lb/> world&#44; their collective wisdom can be neither a discord<lb/> nor an ambiguity.  Nor can it be unheeded.  May we<lb/> not&#44; then&#44; hope for a worthy&#44; out&#45;spoken&#44; and loud&#45;<lb/>sounding deliverance&#44; from their assembled and deli&#45;<lb/>berative multitude&#63;  Shall such an occasion be lost to<lb/> the cause of universal liberty of conscience&#63;  We need<lb/> not remind them that the only legitimate monarch of<lb/> the conscience is the King of Kings and the Lord of<lb/> Lords.</p>
-			<p rend="indent(1)">It has struck me&#44; too&#44; my honored friend&#44; that my<lb/> own dear country&#8212;with all its faults&#44; I love it still&#8212;<lb/> may&#44; with singular propriety&#44; be the <emph rend="italics">censor morum</emph><lb/> of <placeName>Great Britain</placeName>&#44; on such a topic as this.  If<lb/> you are the parent nation&#44; the older and the<lb/> wiser&#44; ought you not to set us&#44; and the rest of<lb/> mankind&#44; a wise and good example&#8212;and none other&#63;<lb/>  Whatever may be our delinquencies and sins&#44; I must<lb/> urge that here the comparison is to us eminently hon&#45;<lb/>orable&#33;  We have set you and the world in this&#44; if not<lb/> in some other particulars&#44; a noble and a good exam&#45;<lb/>ple.  We are the only great Christian nation known<lb/> to me&#44; that has&#44; either in popular sentiment or in our<lb/> civil enactments&#44; NEVER AUTHORISED THE PRESECU&#45;<lb/>TION OF THE JEWS.  On the contrary&#44; we have cher&#45;<lb/>ished&#44; respected and protected them.  For this&#44; pleased<lb/> and almost proud of it&#44; I rejoice and bless the God of<lb/> <persName>Abraham</persName>.  In our country&#44; no law is framed for the<lb/> disfranchisement of one of them.  The controversy<lb/> between the synagogue and the church is properly and<lb/> well maintained&#44; on the basis of moral&#44; historical&#44; pro&#45;<lb/>phetical and scriptural argumentation&#44; and that alone.<lb/>  Socially&#44; commercially and vicinally&#44; as well<lb/> as in all the general relations of life&#44; our<lb/> intercourse is polite and kind&#44; and our Christian<lb/> piety makes us respect them with sincere considera&#45;<lb/>tion and benignity.  Our first <persName>President&#44; WASHINGTON</persName>&#44;<lb/> when first inaugurated in <date>1789</date>&#44; was approached and<lb/> addressed by their Rabbis and their Chiefs&#44; from dif&#45;<lb/>ferent cities&#44; in terms of lauded propriety&#44; and of law&#45;<lb/>abiding fidelity to the established Government&#59; and<lb/> that incomparable PATER PATRIAE&#44; <emph rend="italics">patiens vocari</emph>&#44; re&#45;<lb/>plied to them in a style worthy of his official station&#44;<lb/> worthy of his exalted character&#44; worthy of the senti&#45;<lb/>ments of a great though then comparatively youthful<lb/> nation.  We have fully tried the unique experiment<lb/> ever since&#44; and now report in their favor.  They are<lb/> in the main characteristically good citizens&#59; and we<lb/> should have no comparable hope that God would ever<lb/> use and honor us to make them good Christians&#44; if&#44;<lb/> misrepresenting the goodness of the Author of Chris&#45;<lb/>tianity&#44; we were to scorn&#44; insult&#44; abuse&#44; or injure them<lb/>&#8212;as <persName>WASHINGTON</persName>&#44; to say nothing of any higher sanc&#45;<lb/>tion&#44; could never patronize&#44; or willingly for one mo&#45;<lb/>ment endure&#33;</p>
-			<p rend="indent(1)">The reasons of their Lordships for retiring the bill<lb/> are immensely unsatisfactory.  With all proper rever&#45;<lb/>ence for their exalted position&#44; as hereditary senators<lb/> of <placeName>Great Britain</placeName>&#44; let it be something to them&#44; that our<lb/> superior Christian civilization&#44; as constructively<lb/> viewed in the contrast&#44; redounds&#44; in <placeName>America</placeName> and in<lb/> all the world&#44; only to our praise and to their own<lb/> manifold and manifest disparagement.  The sins of<lb/> the Jews&#44; their unbelief and alleged indocility&#44; the<lb/> prophecies of retribution that regard them&#44; however<lb/> clearly identified in their just interpretation and scope<lb/> as affecting them&#44; afford no apology&#44; or mitigation of<lb/> blame&#44; to Christian nations&#44; if any are found volun&#45;<lb/>teering to punish them for it.  It is that which<lb/> God has forbidden&#44; not required at our hand.  Be&#45;<lb/>side&#44; what harm can possibly accrue to church or<lb/> State&#44; by conceding to them&#44; as well as to Romanists<lb/> and Quakers&#44; all their civil and political rights&#63;  Is<lb/> not a man fully qualified&#44; so far as an oath goes or<lb/> ought to go&#44; in civil relations&#44; either Christian or Mo&#45;<lb/>hommedan&#44; or Jew or Heretic&#44; when&#44; on his responsi&#45;<lb/>bility to God and man&#44; he promises&#44; in any court of<lb/> record or before competent witnesses&#44; to do his duty<lb/> according to law&#63;  The proper jurisdiction of magis&#45;<lb/>trates ought there to pause and be satisfied&#59;&#8212;<emph rend="italics">to God</emph><lb/> <emph rend="italics">the things that are God&#39;s</emph>&#33;  It is not theirs to interpose<lb/> between a man&#39;s conscience or creed&#44; and that most<lb/> holy Judge eternal&#44; to whom his and our account is so<lb/> soon to be rendered&#44; with infallible equity and truth.<lb/>  This is the doctrine of my country&#59; and not on that ac&#45;<lb/>count&#44; but for higher reasons&#44; it ought to be&#44; in all con&#45;<lb/>sistency and policy&#44; the doctrine of every Christian<lb/> country on the globe.  UBI LIBERTAS&#44; IBI PATRIA.</p>
-			<pb n="2"/>
-			<p rend="indent(1)">Among the signs of the times&#44; <persName>Sir Culling</persName>&#44; it has not<lb/> escaped your own meditative sagacity as a christian&#44;<lb/> that god is bringing that wonderful people to a<lb/> wonderful crisis in their destiny. They are<lb/> not relatively the people they were&#44; to Christen&#45;<lb/>dom&#44; in the periods of mediaeval history.  They have<lb/> risen&#44; improved in social position&#44; more intelligent&#44;<lb/> eminently more potential&#44; and now much more con&#45;<lb/>siderable&#44; even in the politics of <placeName>Europe</placeName>.</p>
-			<p rend="indent(1)">They hold the purse&#45;strings of nations.  They com&#45;<lb/>mand the sinews of war&#44; in the hostile moves of princes.<lb/>  How much on bond and mortgage&#44; with <placeName>England</placeName><lb/> and <placeName>France</placeName> to guarantee the payment&#44; own they&#44; of the<lb/> territories of the Sultan in <placeName>Jerusalem</placeName>&#44; of the Pope in<lb/> <placeName>Italy</placeName>&#44; and of many mighty monarchs in other places&#33;<lb/>  How prodigiously has their wealth accumulated&#33;  In<lb/> the <placeName>United States</placeName>&#44; within my own memory&#44; their num&#45;<lb/>bers&#44; their synagogues&#44; their intelligence&#44; their opu&#45;<lb/>lence&#44; their respectability and influence&#44; have steadily<lb/> altered&#44; in one direction only.  They love this country&#44;<lb/> with reason.  It is their occidental <placeName>Palestine</placeName>.  They<lb/> have never done us harm&#8212;nor we them.  I love to<lb/> think that God&#44; who is said to govern nations in this<lb/> world&#44; in which alone as nations they exist&#44; according<lb/> to their secular and collective conduct in it&#44; has mani&#45;<lb/>festly blest us&#44; for so hospitably&#44; and so equally&#44; and<lb/> so singularly entertaining them&#59; and I feel no desire<lb/> that <placeName>America</placeName> should have the blessing in monopoly&#59;<lb/> and not in communion with other Christian na&#45;<lb/>tions&#44; especially&#8212;I say it with liberal and gen&#45;<lb/>uine filial piety&#8212;especially with <placeName>GREAT BRIT&#45;<lb/>AIN</placeName>&#33;  yes&#33; there is an allied reason which I may not<lb/> omit to urge&#8212;the injuries they have suffered at the<lb/> hands of our fathers&#59; in contrast with the benefits we<lb/> have derived&#44; so vast and so incomparable&#44; from that long<lb/> dismembered nation.  Let us rather try to compensate<lb/> them for what they have had to feel and to bear&#8212;pri&#45;<lb/>vations&#44; ignominies&#44; ostracisms&#44; malignities&#44; cruelties&#44;<lb/> amercements&#44; civil deaths&#44; imprisonments&#44; exiles&#44; pro&#45;<lb/>scriptions&#44; and all manner of abuse&#33;  Are not justice<lb/> and generosity here to be co&#45;operative in their favor&#59;<lb/> practically one in all wise measures of reconciliation<lb/> and benevolence&#63;  How will the repeated and now too<lb/> systematic action of their Lordships look&#44; when the<lb/> pen of truth shall portray it in full&#44; on the page of his&#45;<lb/>tory&#8212;especially if soon hereafter some Christian Israel&#45;<lb/>ite&#44; learned as <persName>Neander</persName>&#44; shall move that pen&#63;  I blush<lb/> for the renowned posterity of the <persName>Earl</persName> of <placeName>Derby</placeName>&#44; if they<lb/> shall ever read&#44; in the <date>twentieth century</date> of the Chris&#45;<lb/>tian era&#44; the speeches in parliament of their august<lb/> ancestor&#59; who seems now rather unconscious of such<lb/> an amphitheatre of interested yet impartial specta&#45;<lb/>tors.</p>
-			<p rend="indent(1)">Those who have been studiously and pro&#45;<lb/>fessedly conversant with the prophecies&#44; are<lb/> mainly agreed&#44; that&#44; in the order of coming<lb/> events&#44; the recovery of all the tribes of the long&#45;<lb/>repudiated nation&#44; to the knowledge of the only<lb/> true Messiah&#44; to the hope of the Saviour of <persName>Abraham</persName><lb/> and <persName>Isaac</persName> and <persName>Jacob</persName>&#44; CANNOT BE&#44; IN THE FUTURE&#44; DIS&#45;<lb/>TANT FAR&#33;  <emph rend="italics">And&#44; so all <placeName>Israel</placeName> shall be saved&#59; as it is<lb/> written&#44; there shall come out of <placeName>Sion</placeName> the Deliverer&#44; and shall<lb/> turn away ungodliness from <persName>Jacob</persName>&#59; </emph>FOR THIS<emph rend="italics"> is my cove&#45;<lb/>nant to them when I shall take away their sins.</emph></p>
-			<p rend="indent(1)">If the wheels of his chariot are to be delayed&#44; I hope<lb/> the Lords Spiritual and the Lords Temporal of <placeName>England</placeName><lb/> are not to be in concert distinguished&#44; as the fore&#45;<lb/>doomed clogs of retardation&#44; in the righteous judgment<lb/> of God&#59; preventing for a season his destined and<lb/> triumphant progression through the world&#33;  But there<lb/> is a principle in the legislative intolerance of their<lb/> Lordships&#59; there is a typical implication in it&#59;<lb/> there is a sign of ominous and opaque aspect&#44;<lb/> which makes me tremble for your fast&#45;anchored<lb/> isle&#59; rather than congratulate its government on<lb/> its adamantine fixity&#44; or the certitude of its amicable<lb/> alliance with <emph rend="italics">the reigning Lord God Omnipotent</emph>.  The<lb/> Jews are yet <emph rend="italics">beloved for the Fathers&#39; sake</emph>.  God is un&#45;<lb/>changeable&#8212;<emph rend="italics">the gifts and calling of God are without re&#45;<lb/>pentance</emph>&#59; and I believe HE will punish those nations<lb/> that dare to injure them&#33;  I pray God to inspire the<lb/> illustrious brethren and fathers of your noble CONFER&#45;<lb/>ENCE at <placeName>Berlin</placeName>&#44; now to meet in a few weeks&#44; with<lb/> manly wisdom and godly truth&#44; TO SPEAK FOR THE<lb/> RIGHT&#59; so that their words may be like the echoes of<lb/> the artillery of heaven&#58; to reach the spirits of men&#44;<lb/> the intimacies of their moral consciousness&#44; in the Old<lb/> World and the New World&#59; warning them to <emph rend="italics">prepare<lb/> the way of the LORD&#44; </emph>and welcome his spiritual ad&#45;<lb/>vances&#44; as with the song of seraphs on the plains of<lb/> <placeName>Bethlehem of Judah</placeName>&#59; saying&#44; GLORY TO GOD IN THE<lb/> HIGHEST&#44; PEACE ON EARTH&#44; AND GOOD WILL TO MEN&#33;<lb/>  Our Saviour has told us&#8212;SALVATION IS OF THE JEWS&#33;<lb/>  OUR BLESSED SAVIOUR&#44; our Redeemer and Lord <persName>Jesus<lb/> Christ</persName>&#44; was himself&#8212;A JEW.</p>
-			<p rend="indent(1)">We are all plainly bound to show them kindness&#44;<lb/> and accord to them all the franchises and privileges of<lb/> religious freedom.  I cannot help recording it&#44; <persName>Sir Cul&#45;<lb/>ling</persName>&#44; to the honor of the Commons of <placeName>England</placeName>&#44; that so<lb/> strong a vote carried the plainly necessary reform in<lb/> the House&#33;  Let their Lordships not be too lofty to<lb/> consider it&#8212;in time.  I am glad too that the consti&#45;<lb/>tuency are so calmly and justly willing to repeat the<lb/> election of their candidate and representative.  <emph rend="italics">No<lb/> effort for the right&#44; </emph>said your and our <persName>Milton</persName>&#44; <emph rend="italics">was ever<lb/> wholly lost</emph>.  The HUZZAS of <placeName>America</placeName> cheer them across<lb/> the <placeName>Atlantic</placeName>&#8212;while the ALLELUIAS of Christians ascend<lb/> to God on both sides of it&#44; when they pray&#8212;for the<lb/> salvation of all men&#33;</p>
-			<p rend="indent(1)">On this particular topic&#44; my dear <persName>Sir Culling</persName>&#44; I ac&#45;<lb/>quit you before the world of all responsibility.  I know<lb/> not indeed&#44; as to details&#44; what are your own politi&#45;<lb/>cal estimates of the matter&#59; how it may or may<lb/> not compromise or facilitate your influence&#59; and I<lb/> have written this from my heart&#39;s fulness&#44; in humble<lb/> hope of doing some good to the &#34;magnificent and<lb/> awful cause&#34; of RELIGIOUS LIBERTY&#59; in which I<lb/> glory to say that my own is&#8212;<emph rend="italics">posthabita Samo&#44;</emph> <placeName>Eng&#45;<lb/>land</placeName>&#8212;the model country of the globe&#33;  <emph rend="italics">Esto perpetua&#33;</emph></p>
-			<p rend="indent(1)">Thanking you&#44; my good and honored brother in<lb/> <persName>Christ</persName>&#44; for all your public&#45;spirited enterprizes of bene&#45;<lb/>ficence&#44; for all your noble bearing toward <placeName>America</placeName> and<lb/> Americans&#44; and for all your devoted and busy attach&#45;<lb/>ment to the cause of the propagated truth of Christi&#45;<lb/>anity&#44; <emph rend="italics">in all the world and to every creature</emph>&#44; and thank&#45;<lb/>ing you for your uniform kindness to myself&#44; I remain&#44;<lb/> with high respect&#44; fraternally&#44; yours in the ties un&#45;<lb/>earthly of our common and glorious Christianity.</p>
-				<p rend="align(right)"><persName role="author">SAMUEL HANSON COX</persName>.</p>
-				<p><placeName>NEW YORK</placeName>&#44; <date>August 10&#44; 1857</date>.</p>
-		</body>
-	</text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="unk">Cox, Samuel Hanson</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>LSKAP</repository>
+                        <collection>The Arnold and Deanne Kaplan Collection of Early American
+                            Judaica</collection>
+                        <idno>LSKAP_New_9</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="unk">Cox, Samuel
+                            Hanson</author>
+                        <addressee accepted="yes" attested="yes" editor="false">Eardley, Culling E.,
+                            Sir</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>New York, NY</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1857-08">August 10, 1857</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="leeser_05_2011_kaplan_new_9.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >miscellany</material>
+                                </support>
+                                <extent>2 pages on 2 sheets <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions>Newspaper Clipping</additions>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="restricted">
+                                <p>Restricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <p rend="indent(1)">The annexed letter from <persName role="author">Rev. Dr.
+                    Cox</persName>, of the <placeName>United<lb/> States</placeName>, to
+                    <persName>Sir Culling Eardley</persName>, of <placeName>England</placeName>,
+                expresses<lb/> the unanimous sentiment of the people of this country<lb/> on the
+                topic under consideration. Here we <emph rend="italics">have tried</emph><lb/> the
+                experiment of granting political equality to Jews<lb/> in common with other
+                denominations of religionists,<lb/> and have found it to work kindly and well. No
+                evils<lb/> have resulted from it, but the contrary.</p>
+            <p rend="align(center)">Communicated for the Journal of Commerce.</p>
+            <p>TO <addressee>SIR CULLING E. EARDLEY</addressee>, <placeName>BART.,
+                    LONDON</placeName>.</p>
+            <p rend="indent(1)">From your late kind letter, the receipt of which I<lb/> gratefully
+                acknowledge, my dear <persName>Sir Culling</persName>, you will<lb/> probably be
+                leaving <placeName>London</placeName>, as I judge, for
+                <placeName>Berlin</placeName>,<lb/> by the time this reaches you; to attend that
+                meeting<lb/> of our Evangelical Alliance, which His Majesty, the<lb/>
+                <persName>King</persName> of <placeName>Prussia</placeName>, has invited to his own
+                capital, and<lb/> which, according to your kind urgency and that of<lb/> several
+                others, I should be happy to attend, were this<lb/> compatible with relative duties
+                here. As it is, you<lb/> will have some worthy representatives from
+                    <placeName>America</placeName>,<lb/> beside <persName>Rev. Dr. Baird</persName>,
+                    <persName>Rev. Dr. Kirk</persName>, <persName>Rev. Dr.
+                Alex<lb/>ander</persName>, and a number of others, extensively and favor-<lb/>ably
+                known in both hemispheres. As the grand<lb/> crowner of all, may the Great Head of
+                the Church,<lb/> the King of <placeName>Sion</placeName>, our Lord and Saviour
+                    <persName>Jesus Christ</persName>, be<lb/> with you: illumining your way;
+                prospering your de-<lb/>liberations and measures, to such results, as HIMSELF<lb/>
+                may consistently perpetuate and bless, to the good of<lb/> nations, and ultimately
+                to the conversion of the world<lb/> to the knowledge of the only living and true
+                God.</p>
+            <p rend="indent(1)">On another occasion, <persName>Sir Culling</persName>, I hope to
+                enjoy<lb/> the luxury of your correspondence in a more extended<lb/> and private
+                form; and also never to have it totally in-<lb/>termitted or relinquished, while we
+                are both, by the<lb/> sovereign pleasure of God, continued in the present<lb/>
+                world. But I seem to have a special reason for this<lb/> public letter; in reference
+                to a topic of common and<lb/> ecumenical interest to Christian States and
+                Christian<lb/> men; especially to the English world, both Anglican<lb/> and
+                Anglo-American; as well as related to the legiti-<lb/>mate objects of the
+                Evangelical Alliance, and the pro-<lb/>gress of Christianity, with its ascendant
+                ju-<lb/>risdiction in the whole world. That topic<lb/> may vindicate the propriety,
+                as well as il-<lb/>lustrate the design of this public
+                    commu-<lb/><sic>munication</sic>. I allude distinctly to the recent action
+                of<lb/> the House of Lords, in their rejection of the bill for<lb/> the removal of
+                Jewish disabilities, in respect to the<lb/> oath required to be taken by the members
+                of Parlia-<lb/>ment.</p>
+            <p rend="indent(1)">It is not my plan to review the proceedings or the<lb/> speeches of
+                their Lordships, though that of the <persName>Earl</persName> of<lb/>
+                <placeName>Derby</placeName> especially, Lord Chancellor as he is, <persName>Sir
+                    Cul-<lb/>ling</persName>, or your own venerated <emph rend="italics">Alma
+                    Mater</emph>, the Univer-<lb/>sity of <placeName>Oxford</placeName>, I view as
+                rather invitingly vulnerable;<lb/> especially in contrast with the nobler, and I
+                must say,<lb/> the wiser views of the new <persName>Lord Bishop</persName> of
+                    <placeName>London</placeName>. I<lb/> only design to take general regards of the
+                matter, es-<lb/>pecially its results and its tendencies, as connected<lb/> with the
+                duty of Christian men and the enlightened<lb/> policy of Christian nations; and
+                these as seen by my<lb/> own countrymen, the most evangelical and intelligent<lb/>
+                of them, and indeed by our whole country of the<lb/>
+                <placeName>United States</placeName>; lamenting the position of their<lb/>
+                Lordships, and censuring them for conduct, at<lb/> once, in their view, improper,
+                unreasonable, inutile,<lb/> unprotestant, and derogatory to the just progress
+                and<lb/> prospect of our age and their own great nation, as well<lb/> as savoring of
+                the spirit of persecution toward so large,<lb/> and so opulent, and so respectable a
+                portion of their<lb/> fellow-subjects. There is an animus in the action,<lb/> whose
+                influence is easily detected, and must be dis-<lb/>approved by all the more elevated
+                Christianity of<lb/> Christendom. Is ours the doctrine of the masters of<lb/> the
+                Inquisitorial Commission? Is it our duty to <emph rend="italics">per-</emph><lb/>
+                <emph rend="italics">secute</emph> any who may differ from us in religious
+                views?<lb/> Is it the best way to benefit them, the way of wisdom<lb/> to convince
+                them, or the proper way to conciliate to<lb/> our success the necessary benediction
+                of our God?<lb/> Has he authorized it? What damage could accrue to<lb/> the State by
+                honoring, in favor of the Israelite, at once,<lb/> his consistency and his scruples
+                in the matter?<lb/> We are surprised, are grieved, at the conduct of<lb/> their
+                Lordships. Its echoes are not excellent<lb/> or musical on this side of the
+                    <placeName>Atlantic</placeName>.<lb/> We all think that they will not bear to
+                be<lb/> reviewed in the strong light, either of honorable and<lb/> wise
+                statesmanship, or of evangelical truth; and the<lb/> peers of
+                    <placeName>England</placeName>, if they wish not to degrade their no-<lb/>bility
+                in the eyes of all the world, as well as through-<lb/>out the immense majority of
+                the Christian sentiment<lb/> of the British nation, ought to <emph rend="italics">go
+                    and sin no more</emph>,<lb/> against the people who gave us the Holy
+                Scriptures,<lb/> the nation from whom and of whom was our blessed<lb/> Saviour! and
+                whom to persecute has been the shame,<lb/> the history, and the sin, of almost
+                universal Christen-<lb/>dom.</p>
+            <p rend="indent(1)">It is my definite object, my dear <persName>Sir Culling</persName>,
+                to<lb/> commend THIS TOPIC to the solemn consideration of<lb/> the Evangelical
+                Alliance, and also to their lucid and<lb/> deliberate action. It were well for them
+                to act on it.<lb/> The learning and the piety and the dignity that are<lb/> there to
+                convene, will make the metropolis of His<lb/> Majesty, <persName>Frederick
+                    William</persName>, for the time, the lumi-<lb/>nous focal centre of
+                Christendom. It seems to<lb/> court or claim the attention of mankind.<lb/> I am
+                persuaded that in an assemblage so<lb/> august and so eminent, so truly
+                philanthropic, so<lb/> sincerely Christian, and so signally <sic>patronised</sic> by
+                one<lb/> of the noblest and most excellent sovereigns in the<lb/> world, their
+                collective wisdom can be neither a discord<lb/> nor an ambiguity. Nor can it be
+                unheeded. May we<lb/> not, then, hope for a worthy, out-spoken, and
+                loud-<lb/>sounding deliverance, from their assembled and deli-<lb/>berative
+                multitude? Shall such an occasion be lost to<lb/> the cause of universal liberty of
+                conscience? We need<lb/> not remind them that the only legitimate monarch of<lb/>
+                the conscience is the King of Kings and the Lord of<lb/> Lords.</p>
+            <p rend="indent(1)">It has struck me, too, my honored friend, that my<lb/> own dear
+                country—with all its faults, I love it still—<lb/> may, with singular propriety, be
+                the <emph rend="italics">censor morum</emph><lb/> of <placeName>Great
+                    Britain</placeName>, on such a topic as this. If<lb/> you are the parent nation,
+                the older and the<lb/> wiser, ought you not to set us, and the rest of<lb/> mankind,
+                a wise and good example—and none other?<lb/> Whatever may be our delinquencies and
+                sins, I must<lb/> urge that here the comparison is to us eminently hon-<lb/>orable!
+                We have set you and the world in this, if not<lb/> in some other particulars, a
+                noble and a good exam-<lb/>ple. We are the only great Christian nation known<lb/> to
+                me, that has, either in popular sentiment or in our<lb/> civil enactments, NEVER
+                AUTHORISED THE PRESECU-<lb/>TION OF THE JEWS. On the contrary, we have
+                cher-<lb/>ished, respected and protected them. For this, pleased<lb/> and almost
+                proud of it, I rejoice and bless the God of<lb/>
+                <persName>Abraham</persName>. In our country, no law is framed for the<lb/>
+                disfranchisement of one of them. The controversy<lb/> between the synagogue and the
+                church is properly and<lb/> well maintained, on the basis of moral, historical,
+                pro-<lb/>phetical and scriptural argumentation, and that alone.<lb/> Socially,
+                commercially and vicinally, as well<lb/> as in all the general relations of life,
+                our<lb/> intercourse is polite and kind, and our Christian<lb/> piety makes us
+                respect them with sincere considera-<lb/>tion and benignity. Our first
+                    <persName>President, WASHINGTON</persName>,<lb/> when first inaugurated in
+                    <date>1789</date>, was approached and<lb/> addressed by their Rabbis and their
+                Chiefs, from dif-<lb/>ferent cities, in terms of lauded propriety, and of
+                law-<lb/>abiding fidelity to the established Government; and<lb/> that incomparable
+                PATER PATRIAE, <emph rend="italics">patiens vocari</emph>, re-<lb/>plied to them in
+                a style worthy of his official station,<lb/> worthy of his exalted character, worthy
+                of the senti-<lb/>ments of a great though then comparatively youthful<lb/> nation.
+                We have fully tried the unique experiment<lb/> ever since, and now report in their
+                favor. They are<lb/> in the main characteristically good citizens; and we<lb/>
+                should have no comparable hope that God would ever<lb/> use and honor us to make
+                them good Christians, if,<lb/> misrepresenting the goodness of the Author of
+                Chris-<lb/>tianity, we were to scorn, insult, abuse, or injure them<lb/>—as
+                    <persName>WASHINGTON</persName>, to say nothing of any higher sanc-<lb/>tion,
+                could never patronize, or willingly for one mo-<lb/>ment endure!</p>
+            <p rend="indent(1)">The reasons of their Lordships for retiring the bill<lb/> are
+                immensely unsatisfactory. With all proper rever-<lb/>ence for their exalted
+                position, as hereditary senators<lb/> of <placeName>Great Britain</placeName>, let
+                it be something to them, that our<lb/> superior Christian civilization, as
+                constructively<lb/> viewed in the contrast, redounds, in
+                    <placeName>America</placeName> and in<lb/> all the world, only to our praise and
+                to their own<lb/> manifold and manifest disparagement. The sins of<lb/> the Jews,
+                their unbelief and alleged indocility, the<lb/> prophecies of retribution that
+                regard them, however<lb/> clearly identified in their just interpretation and
+                scope<lb/> as affecting them, afford no apology, or mitigation of<lb/> blame, to
+                Christian nations, if any are found volun-<lb/>teering to punish them for it. It is
+                that which<lb/> God has forbidden, not required at our hand. Be-<lb/>side, what harm
+                can possibly accrue to church or<lb/> State, by conceding to them, as well as to
+                Romanists<lb/> and Quakers, all their civil and political rights? Is<lb/> not a man
+                fully qualified, so far as an oath goes or<lb/> ought to go, in civil relations,
+                either Christian or Mo-<lb/>hommedan, or Jew or Heretic, when, on his
+                responsi-<lb/>bility to God and man, he promises, in any court of<lb/> record or
+                before competent witnesses, to do his duty<lb/> according to law? The proper
+                jurisdiction of magis-<lb/>trates ought there to pause and be satisfied;—<emph
+                    rend="italics">to God</emph><lb/>
+                <emph rend="italics">the things that are God's</emph>! It is not theirs to
+                interpose<lb/> between a man's conscience or creed, and that most<lb/> holy Judge
+                eternal, to whom his and our account is so<lb/> soon to be rendered, with infallible
+                equity and truth.<lb/> This is the doctrine of my country; and not on that
+                ac-<lb/>count, but for higher reasons, it ought to be, in all con-<lb/>sistency and
+                policy, the doctrine of every Christian<lb/> country on the globe. UBI LIBERTAS, IBI
+                PATRIA.</p>
+            <pb n="2"/>
+            <p rend="indent(1)">Among the signs of the times, <persName>Sir Culling</persName>, it
+                has not<lb/> escaped your own meditative sagacity as a christian,<lb/> that god is
+                bringing that wonderful people to a<lb/> wonderful crisis in their destiny. They
+                are<lb/> not relatively the people they were, to Christen-<lb/>dom, in the periods
+                of mediaeval history. They have<lb/> risen, improved in social position, more
+                intelligent,<lb/> eminently more potential, and now much more con-<lb/>siderable,
+                even in the politics of <placeName>Europe</placeName>.</p>
+            <p rend="indent(1)">They hold the purse-strings of nations. They com-<lb/>mand the
+                sinews of war, in the hostile moves of princes.<lb/> How much on bond and mortgage,
+                with <placeName>England</placeName><lb/> and <placeName>France</placeName> to
+                guarantee the payment, own they, of the<lb/> territories of the Sultan in
+                    <placeName>Jerusalem</placeName>, of the Pope in<lb/>
+                <placeName>Italy</placeName>, and of many mighty monarchs in other places!<lb/> How
+                prodigiously has their wealth accumulated! In<lb/> the <placeName>United
+                    States</placeName>, within my own memory, their num-<lb/>bers, their synagogues,
+                their intelligence, their opu-<lb/>lence, their respectability and influence, have
+                steadily<lb/> altered, in one direction only. They love this country,<lb/> with
+                reason. It is their occidental <placeName>Palestine</placeName>. They<lb/> have
+                never done us harm—nor we them. I love to<lb/> think that God, who is said to govern
+                nations in this<lb/> world, in which alone as nations they exist, according<lb/> to
+                their secular and collective conduct in it, has mani-<lb/>festly blest us, for so
+                hospitably, and so equally, and<lb/> so singularly entertaining them; and I feel no
+                desire<lb/> that <placeName>America</placeName> should have the blessing in
+                monopoly;<lb/> and not in communion with other Christian na-<lb/>tions, especially—I
+                say it with liberal and gen-<lb/>uine filial piety—especially with <placeName>GREAT
+                    BRIT-<lb/>AIN</placeName>! yes! there is an allied reason which I may not<lb/>
+                omit to urge—the injuries they have suffered at the<lb/> hands of our fathers; in
+                contrast with the benefits we<lb/> have derived, so vast and so incomparable, from
+                that long<lb/> dismembered nation. Let us rather try to compensate<lb/> them for
+                what they have had to feel and to bear—pri-<lb/>vations, ignominies, ostracisms,
+                malignities, cruelties,<lb/> amercements, civil deaths, imprisonments, exiles,
+                pro-<lb/>scriptions, and all manner of abuse! Are not justice<lb/> and generosity
+                here to be co-operative in their favor;<lb/> practically one in all wise measures of
+                reconciliation<lb/> and benevolence? How will the repeated and now too<lb/>
+                systematic action of their Lordships look, when the<lb/> pen of truth shall portray
+                it in full, on the page of his-<lb/>tory—especially if soon hereafter some Christian
+                Israel-<lb/>ite, learned as <persName>Neander</persName>, shall move that pen? I
+                blush<lb/> for the renowned posterity of the <persName>Earl</persName> of
+                    <placeName>Derby</placeName>, if they<lb/> shall ever read, in the
+                    <date>twentieth century</date> of the Chris-<lb/>tian era, the speeches in
+                parliament of their august<lb/> ancestor; who seems now rather unconscious of
+                such<lb/> an amphitheatre of interested yet impartial specta-<lb/>tors.</p>
+            <p rend="indent(1)">Those who have been studiously and pro-<lb/>fessedly conversant with
+                the prophecies, are<lb/> mainly agreed, that, in the order of coming<lb/> events,
+                the recovery of all the tribes of the long-<lb/>repudiated nation, to the knowledge
+                of the only<lb/> true Messiah, to the hope of the Saviour of
+                    <persName>Abraham</persName><lb/> and <persName>Isaac</persName> and
+                    <persName>Jacob</persName>, CANNOT BE, IN THE FUTURE, DIS-<lb/>TANT FAR! <emph
+                    rend="italics">And, so all <placeName>Israel</placeName> shall be saved; as it
+                    is<lb/> written, there shall come out of <placeName>Sion</placeName> the
+                    Deliverer, and shall<lb/> turn away ungodliness from <persName>Jacob</persName>;
+                </emph>FOR THIS<emph rend="italics"> is my cove-<lb/>nant to them when I shall take
+                    away their sins.</emph></p>
+            <p rend="indent(1)">If the wheels of his chariot are to be delayed, I hope<lb/> the
+                Lords Spiritual and the Lords Temporal of <placeName>England</placeName><lb/> are
+                not to be in concert distinguished, as the fore-<lb/>doomed clogs of retardation, in
+                the righteous judgment<lb/> of God; preventing for a season his destined and<lb/>
+                triumphant progression through the world! But there<lb/> is a principle in the
+                legislative intolerance of their<lb/> Lordships; there is a typical implication in
+                it;<lb/> there is a sign of ominous and opaque aspect,<lb/> which makes me tremble
+                for your fast-anchored<lb/> isle; rather than congratulate its government on<lb/>
+                its adamantine fixity, or the certitude of its amicable<lb/> alliance with <emph
+                    rend="italics">the reigning Lord God Omnipotent</emph>. The<lb/> Jews are yet
+                    <emph rend="italics">beloved for the Fathers' sake</emph>. God is
+                    un-<lb/>changeable—<emph rend="italics">the gifts and calling of God are without
+                    re-<lb/>pentance</emph>; and I believe HE will punish those nations<lb/> that
+                dare to injure them! I pray God to inspire the<lb/> illustrious brethren and fathers
+                of your noble CONFER-<lb/>ENCE at <placeName>Berlin</placeName>, now to meet in a
+                few weeks, with<lb/> manly wisdom and godly truth, TO SPEAK FOR THE<lb/> RIGHT; so
+                that their words may be like the echoes of<lb/> the artillery of heaven: to reach
+                the spirits of men,<lb/> the intimacies of their moral consciousness, in the
+                Old<lb/> World and the New World; warning them to <emph rend="italics">prepare<lb/>
+                    the way of the LORD, </emph>and welcome his spiritual ad-<lb/>vances, as with
+                the song of seraphs on the plains of<lb/>
+                <placeName>Bethlehem of Judah</placeName>; saying, GLORY TO GOD IN THE<lb/> HIGHEST,
+                PEACE ON EARTH, AND GOOD WILL TO MEN!<lb/> Our Saviour has told us—SALVATION IS OF
+                THE JEWS!<lb/> OUR BLESSED SAVIOUR, our Redeemer and Lord <persName>Jesus<lb/>
+                    Christ</persName>, was himself—A JEW.</p>
+            <p rend="indent(1)">We are all plainly bound to show them kindness,<lb/> and accord to
+                them all the franchises and privileges of<lb/> religious freedom. I cannot help
+                recording it, <persName>Sir Cul-<lb/>ling</persName>, to the honor of the Commons of
+                    <placeName>England</placeName>, that so<lb/> strong a vote carried the plainly
+                necessary reform in<lb/> the House! Let their Lordships not be too lofty to<lb/>
+                consider it—in time. I am glad too that the consti-<lb/>tuency are so calmly and
+                justly willing to repeat the<lb/> election of their candidate and representative.
+                    <emph rend="italics">No<lb/> effort for the right, </emph>said your and our
+                    <persName>Milton</persName>, <emph rend="italics">was ever<lb/> wholly
+                    lost</emph>. The HUZZAS of <placeName>America</placeName> cheer them across<lb/>
+                the <placeName>Atlantic</placeName>—while the ALLELUIAS of Christians ascend<lb/> to
+                God on both sides of it, when they pray—for the<lb/> salvation of all men!</p>
+            <p rend="indent(1)">On this particular topic, my dear <persName>Sir Culling</persName>,
+                I ac-<lb/>quit you before the world of all responsibility. I know<lb/> not indeed,
+                as to details, what are your own politi-<lb/>cal estimates of the matter; how it may
+                or may<lb/> not compromise or facilitate your influence; and I<lb/> have written
+                this from my heart's fulness, in humble<lb/> hope of doing some good to the
+                "magnificent and<lb/> awful cause" of RELIGIOUS LIBERTY; in which I<lb/> glory to
+                say that my own is—<emph rend="italics">posthabita Samo,</emph>
+                <placeName>Eng-<lb/>land</placeName>—the model country of the globe! <emph
+                    rend="italics">Esto perpetua!</emph></p>
+            <p rend="indent(1)">Thanking you, my good and honored brother in<lb/>
+                <persName>Christ</persName>, for all your public-spirited enterprizes of
+                bene-<lb/>ficence, for all your noble bearing toward <placeName>America</placeName>
+                and<lb/> Americans, and for all your devoted and busy attach-<lb/>ment to the cause
+                of the propagated truth of Christi-<lb/>anity, <emph rend="italics">in all the world
+                    and to every creature</emph>, and thank-<lb/>ing you for your uniform kindness
+                to myself, I remain,<lb/> with high respect, fraternally, yours in the ties
+                un-<lb/>earthly of our common and glorious Christianity.</p>
+            <p rend="align(right)"><persName role="author">SAMUEL HANSON COX</persName>.</p>
+            <p><placeName>NEW YORK</placeName>, <date>August 10, 1857</date>.</p>
+        </body>
+    </text>
 </TEI>

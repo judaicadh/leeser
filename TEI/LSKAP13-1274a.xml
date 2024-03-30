@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE TEI [
-<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
-%teibase;
-<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
-%teiext;
-]>
-<TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 	<teiHeader>
+
 		<fileDesc>
 			<titleStmt>
 				<title>Charter and By Laws of the Hebrew Education Society of Philadelphia together
 					with Rules and Regulations for the Government of Maimonides College</title>
-				<author attested="yes" accepted="yes" signature="unk">Hebrew Education Society of
+				<author accepted="yes" attested="yes" signature="unk">Hebrew Education Society of
 					Philadelphia</author>
 				<editor/>
 				<sponsor/>
@@ -56,7 +51,8 @@
 						<settlement>Philadelphia</settlement>
 						<institution/>
 						<repository>LSKAP</repository>
-						<collection>The Arnold and Deanne Kaplan Collection of Early American Judaica</collection>
+						<collection>The Arnold and Deanne Kaplan Collection of Early American
+							Judaica</collection>
 						<idno>LSKAP13-1274a</idno>
 						<altIdentifier>
 							<idno/>
@@ -65,9 +61,9 @@
 					</msIdentifier>
 					<head/>
 					<letHeading>
-						<author attested="yes" accepted="yes" signature="unk">Hebrew Education
+						<author accepted="yes" attested="yes" signature="unk">Hebrew Education
 							Society of Philadelphia</author>
-						<addressee editor="false" attested="yes" accepted="yes"/>
+						<addressee accepted="yes" attested="yes" editor="false"/>
 						<deliverer/>
 						<respStmt>
 							<resp/>
@@ -75,7 +71,7 @@
 						</respStmt>
 						<placeLet>Philadelphia, PA</placeLet>
 						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1868" source="" attested="yes">1868</dateLet>
+						<dateLet attested="yes" source="" when="1868">1868</dateLet>
 					</letHeading>
 					<msContents>
 						<msItem>
@@ -93,22 +89,22 @@
 							<filiation/>
 							<textLang/>
 							<figure>
-							    <graphic url="leeser_13_1274a_Front001.jpg"/>
-							    <graphic url="leeser_13_1274a_titlepage.jpg"/>
-							    <graphic url="leeser_13_1274a_p003.jpg"/>
-							    <graphic url="leeser_13_1274a_p004.jpg"/>
-							    <graphic url="leeser_13_1274a_p005.jpg"/>
-							    <graphic url="leeser_13_1274a_p006.jpg"/>
-							    <graphic url="leeser_13_1274a_p007.jpg"/>
-							    <graphic url="leeser_13_1274a_p008.jpg"/>
-							    <graphic url="leeser_13_1274a_p009.jpg"/>
-							    <graphic url="leeser_13_1274a_p010.jpg"/>
-							    <graphic url="leeser_13_1274a_p011.jpg"/>
-							    <graphic url="leeser_13_1274a_p012.jpg"/>
-							    <graphic url="leeser_13_1274a_p013.jpg"/>
-							    <graphic url="leeser_13_1274a_p014.jpg"/>
-							    <graphic url="leeser_13_1274a_p015.jpg"/>
-							    <graphic url="leeser_13_1274a_p016.jpg"/>
+								<graphic url="leeser_13_1274a_Front001.jpg"/>
+								<graphic url="leeser_13_1274a_titlepage.jpg"/>
+								<graphic url="leeser_13_1274a_p003.jpg"/>
+								<graphic url="leeser_13_1274a_p004.jpg"/>
+								<graphic url="leeser_13_1274a_p005.jpg"/>
+								<graphic url="leeser_13_1274a_p006.jpg"/>
+								<graphic url="leeser_13_1274a_p007.jpg"/>
+								<graphic url="leeser_13_1274a_p008.jpg"/>
+								<graphic url="leeser_13_1274a_p009.jpg"/>
+								<graphic url="leeser_13_1274a_p010.jpg"/>
+								<graphic url="leeser_13_1274a_p011.jpg"/>
+								<graphic url="leeser_13_1274a_p012.jpg"/>
+								<graphic url="leeser_13_1274a_p013.jpg"/>
+								<graphic url="leeser_13_1274a_p014.jpg"/>
+								<graphic url="leeser_13_1274a_p015.jpg"/>
+								<graphic url="leeser_13_1274a_p016.jpg"/>
 							</figure>
 						</msItem>
 					</msContents>
@@ -259,301 +255,290 @@
 	<text>
 		<body>
 			<pb n="1"/>
-			<p rend="align(center)">CHARTER &#38; BY&#45;LAWS</p>
+			<p rend="align(center)">CHARTER &amp; BY-LAWS</p>
 			<p rend="align(center)">OF THE</p>
-			<p rend="align(center)"><persName role="author">Hebrew Education Society</persName></p>
+			<p rend="align(center)">
+				<persName role="author">Hebrew Education Society</persName>
+			</p>
 			<p rend="align(center)">OF <placeName>PHILADELPHIA</placeName>.</p>
 			<p rend="align(center)">TOGETHER WITH</p>
 			<p rend="align(center)">RULES AND REGULATIONS</p>
 			<p rend="align(center)">FOR THE GOVERNMENT OF</p>
 			<p rend="align(center)">MAIMONIDES COLLEGE</p>
-			<p rend="align(center)"><placeName>PHILADELPHIA</placeName>&#58;</p>
-			<p rend="align(center)"><persName>STEIN &#38; JONES</persName>&#44; PRINTERS&#44;
-					<placeName>321 CHESTNUT STREET</placeName>.</p>
-			<p rend="align(center)"><date>1868</date></p>
+			<p rend="align(center)"><placeName>PHILADELPHIA</placeName>:</p>
+			<p rend="align(center)"><persName>STEIN &amp; JONES</persName>, PRINTERS, <placeName>321
+					CHESTNUT STREET</placeName>.</p>
+			<p rend="align(center)">
+				<date>1868</date>
+			</p>
 			<pb n="3"/>
 			<p rend="align(center)">AN ACT</p>
 			<p rend="align(center)">TO INCORPORATE THE <persName role="author">HEBREW EDUCATION
 					SOCIETY</persName></p>
 			<p rend="align(center)">OF <placeName>PHILADELPHIA</placeName>.</p>
 			<p rend="indent(1)">SECTION 1. <hi rend="italics">Be it enacted by the Senate and House
-					of Rep&#45;<lb/>resentatives of the Commonwealth of
-						<placeName>Pennsylvania</placeName> in General<lb/> Assembly met&#44; and it
-					is hereby enacted by the authority of the<lb/> same</hi>&#44; That
-					<persName>Solomon Solis</persName>&#44; <persName>Simon Elfelt</persName>&#44;
-					<persName>Abraham Hart</persName>&#44; <persName>Moses<lb/> A.
-					Dropsie</persName>&#44; <persName>Solomon N. Carvalho</persName>&#44;
-					<persName>Isidore Binswanger</persName>&#44; <persName>Marcus<lb/>
-					Cauffman</persName>&#44; <persName>Lewis J. Cohen</persName>&#44;
-					<persName>Simon M. Klosser</persName>&#44; <persName>Jacob
-					Langs&#45;<lb/>dorf</persName>&#44; <persName>Isaac Leeser</persName>&#44;
-					<persName>Moses Nathans</persName>&#44; <persName>Joseph
-				Newhouse</persName>&#44; <persName>Hyman<lb/> Polock</persName>&#44;
-					<persName>Julius Stern</persName>&#44; <persName>Herman Van Beil</persName>&#44;
-					<persName>Abraham S. Wolf</persName>&#44;<lb/>
-				<persName>Lewis M. Allen</persName>&#44; <persName>Mayer Arnold</persName>&#44;
-					<persName>Simon W. Arnold</persName>&#44; <persName>David<lb/>
-					Barnett</persName>&#44; <persName>Leon Berg</persName>&#44; <persName>A. I. H.
-					Bernal</persName>&#44; <persName>Bernard Blum</persName>&#44;
-					<persName>Myer<lb/> D. Cohen</persName>&#44; <persName>Julius
-					Davidson</persName>&#44; <persName>Zadok A. Davis</persName>&#44;
-					<persName>Henry DeBoer</persName>&#44;<lb/>
-				<persName>Solomon Eckstein</persName>&#44; <persName>David Eger</persName>&#44;
-					<persName>William Florance</persName>&#44; <persName>P.
-					Friden&#45;<lb/>berg</persName>&#44; <persName>Solomon Gans</persName>&#44;
-					<persName>J. Geisenberg</persName>&#44; <persName>M. Gerstley</persName>&#44;
-					<persName>Jacob Gum&#45;<lb/>pel</persName>&#44; <persName>Selig
-					Hohenfels</persName>&#44; <persName>Aaron Isaacs</persName>&#44;
-					<persName>Solomon Isaacs</persName>&#44; <persName>Julius<lb/>
-				Jacobs</persName>&#44; <persName>Israel Jacobs</persName>&#44; <persName>B.
-					Klein</persName>&#44; <persName>Henry Lazarus</persName>&#44; <persName>David
-					Levine</persName>&#44;<lb/>
-				<persName>N. E. Nelson</persName>&#44; <persName>Joseph A. Levy</persName>&#44;
-					<persName>George Phillips</persName>&#44; <persName>Michael<lb/>
-					Reinhard</persName>&#44; <persName>Joseph Schoneman</persName>&#44; <persName>M.
-					Seidenbach</persName>&#44; <persName>Henry Simson</persName>&#44;<lb/>
-				<persName>David H. Solis</persName>&#44; <persName>Mayer Sternberger</persName>&#44;
-					<persName>L. Sulzberger</persName>&#44; <persName>David Van<lb/>
-				Beil</persName>&#44; <persName>Simon Sternberger</persName>&#44; <persName>Moses
-					Vanderslice</persName>&#44; <persName>Abraham Wolf</persName>&#44;<lb/>
+					of Rep-<lb/>resentatives of the Commonwealth of
+						<placeName>Pennsylvania</placeName> in General<lb/> Assembly met, and it is
+					hereby enacted by the authority of the<lb/> same</hi>, That <persName>Solomon
+					Solis</persName>, <persName>Simon Elfelt</persName>, <persName>Abraham
+					Hart</persName>, <persName>Moses<lb/> A. Dropsie</persName>, <persName>Solomon
+					N. Carvalho</persName>, <persName>Isidore Binswanger</persName>,
+					<persName>Marcus<lb/> Cauffman</persName>, <persName>Lewis J. Cohen</persName>,
+					<persName>Simon M. Klosser</persName>, <persName>Jacob
+					Langs-<lb/>dorf</persName>, <persName>Isaac Leeser</persName>, <persName>Moses
+					Nathans</persName>, <persName>Joseph Newhouse</persName>, <persName>Hyman<lb/>
+					Polock</persName>, <persName>Julius Stern</persName>, <persName>Herman Van
+					Beil</persName>, <persName>Abraham S. Wolf</persName>,<lb/>
+				<persName>Lewis M. Allen</persName>, <persName>Mayer Arnold</persName>,
+					<persName>Simon W. Arnold</persName>, <persName>David<lb/> Barnett</persName>,
+					<persName>Leon Berg</persName>, <persName>A. I. H. Bernal</persName>,
+					<persName>Bernard Blum</persName>, <persName>Myer<lb/> D. Cohen</persName>,
+					<persName>Julius Davidson</persName>, <persName>Zadok A. Davis</persName>,
+					<persName>Henry DeBoer</persName>,<lb/>
+				<persName>Solomon Eckstein</persName>, <persName>David Eger</persName>,
+					<persName>William Florance</persName>, <persName>P. Friden-<lb/>berg</persName>,
+					<persName>Solomon Gans</persName>, <persName>J. Geisenberg</persName>,
+					<persName>M. Gerstley</persName>, <persName>Jacob Gum-<lb/>pel</persName>,
+					<persName>Selig Hohenfels</persName>, <persName>Aaron Isaacs</persName>,
+					<persName>Solomon Isaacs</persName>, <persName>Julius<lb/> Jacobs</persName>,
+					<persName>Israel Jacobs</persName>, <persName>B. Klein</persName>,
+					<persName>Henry Lazarus</persName>, <persName>David Levine</persName>,<lb/>
+				<persName>N. E. Nelson</persName>, <persName>Joseph A. Levy</persName>,
+					<persName>George Phillips</persName>, <persName>Michael<lb/>
+				Reinhard</persName>, <persName>Joseph Schoneman</persName>, <persName>M.
+					Seidenbach</persName>, <persName>Henry Simson</persName>,<lb/>
+				<persName>David H. Solis</persName>, <persName>Mayer Sternberger</persName>,
+					<persName>L. Sulzberger</persName>, <persName>David Van<lb/> Beil</persName>,
+					<persName>Simon Sternberger</persName>, <persName>Moses Vanderslice</persName>,
+					<persName>Abraham Wolf</persName>,<lb/>
 				<persName>Isaac Tassner</persName> and <persName>Doctor Samuel Wolff</persName> and
 				all and every other<lb/> person or persons who shall hereafter become members of the<lb/>
 				<persName role="author">Hebrew Education Society of
-						<placeName>Philadelphia</placeName></persName>&#44; be and are hereby<lb/>
-				created and made a corporation or body politic and corporate&#44;<lb/> by the name
-				and style of &#8220;THE <persName role="author">HEBREW EDUCATION
-				SOCIETY</persName></p>
+						<placeName>Philadelphia</placeName></persName>, be and are hereby<lb/>
+				created and made a corporation or body politic and corporate,<lb/> by the name and
+				style of “THE <persName role="author">HEBREW EDUCATION SOCIETY</persName></p>
 			<pb n="4"/>
 			<p rend="align(center)">4</p>
-			<p>OF <placeName>PHILADELPHIA</placeName>&#44;&#8221; and by that name shall have
-				perpetual<lb/> succession&#44; and be capable in law to take&#44; hold and dispose
-				of<lb/> estates&#44; real and personal whatsoever&#44; and to sue and be
-				sued&#44;<lb/> and to receive and make all deeds&#44; transfers&#44; contracts&#44;
-				con&#45;<lb/>veyances and covenants whatsoever&#44; and to make&#44; have and<lb/>
-				use a common seal&#44; and the same to change and renew at<lb/> pleasure&#44; and
-				generally to do every other act or thing neces&#45;<lb/>sary to carry into effect
-				the provisions of this act&#44; <sic>asd</sic> promote<lb/> the objects and designs
-				of said corporation.</p>
+			<p>OF <placeName>PHILADELPHIA</placeName>,” and by that name shall have perpetual<lb/>
+				succession, and be capable in law to take, hold and dispose of<lb/> estates, real
+				and personal whatsoever, and to sue and be sued,<lb/> and to receive and make all
+				deeds, transfers, contracts, con-<lb/>veyances and covenants whatsoever, and to
+				make, have and<lb/> use a common seal, and the same to change and renew at<lb/>
+				pleasure, and generally to do every other act or thing neces-<lb/>sary to carry into
+				effect the provisions of this act, <sic>asd</sic> promote<lb/> the objects and
+				designs of said corporation.</p>
 			<p rend="indent(1)">SECTION 2. The object and design of the said corporation<lb/> shall
 				be the establishment of a school or schools within the<lb/> limits of the city and
-				county of <placeName>Philadelphia</placeName>&#44; in which are to<lb/> be taught
-				the elementary branches of education&#44; together with<lb/> the sciences&#44; and
-				modern and ancient languages&#44; always in<lb/> combination with instruction in
-				Hebrew language&#44; literature&#44;<lb/> and religion&#44; in the manner that may
-				be determined from time<lb/> to time&#44; by the proper officers of the Society&#44;
-				and as the same<lb/> may be set forth in their Constitution and By&#45;laws&#44;
-				and<lb/> School regulations&#59; <hi rend="italics">Provided</hi>&#44; Said
-				Constitution&#44; By&#45;laws&#44; and<lb/> Regulations are not inconsistent with
-				this Charter&#44; or with<lb/> the Constitution of the <placeName>United
-					States</placeName>&#44; or the Constitution and<lb/> Laws of this
+				county of <placeName>Philadelphia</placeName>, in which are to<lb/> be taught the
+				elementary branches of education, together with<lb/> the sciences, and modern and
+				ancient languages, always in<lb/> combination with instruction in Hebrew language,
+				literature,<lb/> and religion, in the manner that may be determined from time<lb/>
+				to time, by the proper officers of the Society, and as the same<lb/> may be set
+				forth in their Constitution and By-laws, and<lb/> School regulations; <hi
+					rend="italics">Provided</hi>, Said Constitution, By-laws, and<lb/> Regulations
+				are not inconsistent with this Charter, or with<lb/> the Constitution of the
+					<placeName>United States</placeName>, or the Constitution and<lb/> Laws of this
 				Commonwealth.</p>
 			<p rend="indent(1)">SECTION 3. It shall also be lawful for said corporation to<lb/>
-				establish&#44; whenever their funds will permit the same to be<lb/> done&#44; a
-				superior seminary of learning&#44; within the limits of<lb/> this Commonwealth&#44;
-				the faculty of which seminary shall have<lb/> power to furnish its graduates and
-				others&#44; the usual degrees<lb/> of Bachelor of Arts&#44; Master of Arts&#44; and
-				Doctor of Law and<lb/> Divinity&#44; as the same is exercised by other colleges
-				established<lb/> in this Commonwealth.</p>
+				establish, whenever their funds will permit the same to be<lb/> done, a superior
+				seminary of learning, within the limits of<lb/> this Commonwealth, the faculty of
+				which seminary shall have<lb/> power to furnish its graduates and others, the usual
+				degrees<lb/> of Bachelor of Arts, Master of Arts, and Doctor of Law and<lb/>
+				Divinity, as the same is exercised by other colleges established<lb/> in this
+				Commonwealth.</p>
 			<p rend="indent(1)">SECTION 4. The Society shall have power to adopt a
-				Con&#45;<lb/>stitution and make By&#45;laws&#44; and the same to amend&#44; alter
-				or<lb/> repeal at pleasure.</p>
+				Con-<lb/>stitution and make By-laws, and the same to amend, alter or<lb/> repeal at
+				pleasure.</p>
 			<pb n="5"/>
 			<p rend="align(center)">5</p>
-			<p rend="indent(1)">SECTION 5. The said Society shall not at any time have&#44;<lb/>
-				hold&#44; enjoy or receive a clear yearly income exceeding twelve<lb/> thousand
+			<p rend="indent(1)">SECTION 5. The said Society shall not at any time have,<lb/> hold,
+				enjoy or receive a clear yearly income exceeding twelve<lb/> thousand
 					<sic>dollars.</sic> without first obtaining authority from the<lb/> legislature
 				of this Commonwealth.</p>
 			<p rend="indent(1)">SECTION 6. The legislature shall have power at any time<lb/> when
-				the privileges hereby granted shall appear injurious to<lb/> the public&#44; to
-				repeal&#44; alter or amend this act&#59; but no such<lb/> repeal&#44; alteration or
-				amendment shall affect any engagement<lb/> to which the said corporation shall have
-				become a party pre&#45;<lb/>vious thereto&#59; and in case of such repeal the said
-				corporation<lb/> shall have a reasonable time to bring their accounts to a
-				final<lb/> settlement and termination.</p>
-			<p rend="indent(3)">&#40;Signed&#41;<persName>WILLIAM F. PACKER</persName>&#44;</p>
+				the privileges hereby granted shall appear injurious to<lb/> the public, to repeal,
+				alter or amend this act; but no such<lb/> repeal, alteration or amendment shall
+				affect any engagement<lb/> to which the said corporation shall have become a party
+				pre-<lb/>vious thereto; and in case of such repeal the said corporation<lb/> shall
+				have a reasonable time to bring their accounts to a final<lb/> settlement and
+				termination.</p>
+			<p rend="indent(3)">(Signed)<persName>WILLIAM F. PACKER</persName>,</p>
 			<p rend="indent(2)">Speaker of the House of Representatives.</p>
-			<p rend="indent(3)">&#40;Signed&#41;<persName>GEORGE DARSIE</persName>&#44;</p>
+			<p rend="indent(3)">(Signed)<persName>GEORGE DARSIE</persName>,</p>
 			<p rend="indent(4)">Speaker of the Senate.</p>
-			<p rend="indent(1)">APPROVED&#8212;The <date>seventh day of April&#44; one thousand
-					eight<lb/> hundred and forty&#45;nine</date>.</p>
-			<p rend="indent(3)">&#40;Signed&#41;<persName>WM. F. JOHNSTON</persName>.</p>
+			<p rend="indent(1)">APPROVED—The <date>seventh day of April, one thousand eight<lb/>
+					hundred and forty-nine</date>.</p>
+			<p rend="indent(3)">(Signed)<persName>WM. F. JOHNSTON</persName>.</p>
 			<pb n="6"/>
-			<p rend="align(center)">BY&#45;LAWS.</p>
+			<p rend="align(center)">BY-LAWS.</p>
 			<p rend="align(center)">OF MEMBERS.</p>
-			<p rend="indent(1)"><hi rend="italics">Section</hi> 1. Any male Israelite&#44; aged at
-				least twenty&#45;one<lb/> years&#44; who shall receive a majority of the votes cast
-				at any<lb/> meeting of the Board or Society&#44; shall be a member of this<lb/>
-				Society.</p>
+			<p rend="indent(1)"><hi rend="italics">Section</hi> 1. Any male Israelite, aged at least
+				twenty-one<lb/> years, who shall receive a majority of the votes cast at any<lb/>
+				meeting of the Board or Society, shall be a member of this<lb/> Society.</p>
 			<p rend="indent(1)"><hi rend="italics">Sec.</hi> 2. Each member shall pay five dollars
 				yearly.</p>
 			<p rend="indent(1)"><hi rend="italics">Sec.</hi> 3. A member one year or more in
-				arrears&#44; shall neither<lb/> vote nor hold office&#44; unless exonerated from his
-				dues by the<lb/> Board of Managers.</p>
+				arrears, shall neither<lb/> vote nor hold office, unless exonerated from his dues by
+				the<lb/> Board of Managers.</p>
 			<p rend="indent(1)"><hi rend="italics">Sec.</hi> 4. A member more than two years in
 				arrears may be<lb/> expelled by the Board.</p>
 			<p rend="align(center)">OF OFFICERS.</p>
 			<p rend="indent(1)"><hi rend="italics">Section</hi> 1. The officers of this Society
-				shall be a President&#44;<lb/> Vice President&#44; Treasurer&#44; Secretary&#44;
-				Assistant Secretary&#44; and<lb/> twelve Managers&#44; who&#44; together shall
-				constitute the Board of<lb/> Managers. They shall hold their respective offices for
-				one<lb/> year or until their successors shall have been chosen. There<lb/> shall
-				also be Trustees of the College&#44; not less than fifteen nor<lb/> more than
-				twenty&#45;one in number&#44; who shall be elected as fol&#45;<lb/>lows&#58; at the
-				first election one third of their number shall be<lb/> chosen for one year&#44; one
-				third for two years and the remain&#45;<lb/>ing third for three years&#44; and at
-				every subsequent election<lb/> they shall be chosen for three years.</p>
+				shall be a President,<lb/> Vice President, Treasurer, Secretary, Assistant
+				Secretary, and<lb/> twelve Managers, who, together shall constitute the Board
+				of<lb/> Managers. They shall hold their respective offices for one<lb/> year or
+				until their successors shall have been chosen. There<lb/> shall also be Trustees of
+				the College, not less than fifteen nor<lb/> more than twenty-one in number, who
+				shall be elected as fol-<lb/>lows: at the first election one third of their number
+				shall be<lb/> chosen for one year, one third for two years and the remain-<lb/>ing
+				third for three years, and at every subsequent election<lb/> they shall be chosen
+				for three years.</p>
 			<p rend="indent(1)"><hi rend="italics">Sec.</hi> 2 Elections shall be held at the annual
 				meetings of<lb/> the Society.</p>
 			<pb n="7"/>
 			<p rend="align(center)">7</p>
 			<p rend="indent(1)"><hi rend="italics">Sec.</hi> 3. The President shall preside at all
-				meetings of the<lb/> Society&#44; Board of Managers and College Trustees&#44; shall
+				meetings of the<lb/> Society, Board of Managers and College Trustees, shall
 				draw<lb/> orders on the Treasurer for amounts passed by the Board of<lb/> Managers
-				and College Trustees&#59; shall&#44; whenever he may deem<lb/> it necessary&#44;
-				convene special meetings of the Society&#44; Board of<lb/> Managers&#44; or College
-				Trustees&#44; and shall appoint all commit&#45;<lb/>tees&#44; unless otherwise
-				ordered by the Society. He shall have<lb/> the right to draw an order on the
-				Treasurer for any sum not<lb/> exceeding twenty&#45;five dollars&#44; without an
-				appropriation by<lb/> the Board.</p>
+				and College Trustees; shall, whenever he may deem<lb/> it necessary, convene special
+				meetings of the Society, Board of<lb/> Managers, or College Trustees, and shall
+				appoint all commit-<lb/>tees, unless otherwise ordered by the Society. He shall
+				have<lb/> the right to draw an order on the Treasurer for any sum not<lb/> exceeding
+				twenty-five dollars, without an appropriation by<lb/> the Board.</p>
 			<p rend="indent(1)"><hi rend="italics">Sec.</hi> 4. The Vice President shall in the
-				absence of the Presi&#45;<lb/>dent succeed to all his rights and duties.</p>
+				absence of the Presi-<lb/>dent succeed to all his rights and duties.</p>
 			<p rend="indent(1)"><hi rend="italics">Sec.</hi> 5. The Treasurer shall take charge of
-				all moneys and<lb/> securities of the Society&#44; shall pay all orders duly signed
-				by<lb/> the President&#44; or acting President&#44; shall keep an account of<lb/>
-				his receipts and disbursements&#44; and furnish a statement of the<lb/> same at the
-				annual meeting of the Society&#44; and shall report<lb/> at every stated meeting of
-				the board the amount of the balance<lb/> in his hands. He shall keep a separate
-				account of the receipts<lb/> and expenditures on account of the College fund and
-				shall<lb/> make a report at each meeting of the College Trustees. He<lb/> shall give
-				such security for the faithful performance of his<lb/> duties&#44; as shall be
-				approved of by the Board&#44; and within two<lb/> weeks after the election of his
-				successor he shall deliver to the<lb/> latter&#44; all moneys&#44; papers&#44;
-				accounts and all other property<lb/> whatsoever belonging to the Society.</p>
+				all moneys and<lb/> securities of the Society, shall pay all orders duly signed
+				by<lb/> the President, or acting President, shall keep an account of<lb/> his
+				receipts and disbursements, and furnish a statement of the<lb/> same at the annual
+				meeting of the Society, and shall report<lb/> at every stated meeting of the board
+				the amount of the balance<lb/> in his hands. He shall keep a separate account of the
+				receipts<lb/> and expenditures on account of the College fund and shall<lb/> make a
+				report at each meeting of the College Trustees. He<lb/> shall give such security for
+				the faithful performance of his<lb/> duties, as shall be approved of by the Board,
+				and within two<lb/> weeks after the election of his successor he shall deliver to
+				the<lb/> latter, all moneys, papers, accounts and all other property<lb/> whatsoever
+				belonging to the Society.</p>
 			<p rend="indent(1)"><hi rend="italics">Sec.</hi> 6. The Secretary shall keep fair and
 				correct minutes<lb/> of all transactions of the Society or Board of Managers.</p>
 			<p rend="indent(1)"><hi rend="italics">Sec.</hi> 7. The Assistant Secretary shall
-				prepare notices for<lb/> all meetings&#44; shall keep the accounts with the members
-				of the<lb/> Society&#44; as well as all accounts for tuition and books&#44;
-				shall<lb/> prepare all bills&#44; shall act as Secretary of the Boards of
-				College<lb/> Trustees and School Directors&#44; and shall perform all the duties</p>
+				prepare notices for<lb/> all meetings, shall keep the accounts with the members of
+				the<lb/> Society, as well as all accounts for tuition and books, shall<lb/> prepare
+				all bills, shall act as Secretary of the Boards of College<lb/> Trustees and School
+				Directors, and shall perform all the duties</p>
 			<pb n="8"/>
 			<p rend="align(center)">8</p>
-			<p>of the Secretary in the latter&#39;s absence&#44; for which services he<lb/> shall
-				receive such compensation as may be fixed by the Board<lb/> of Managers.</p>
+			<p>of the Secretary in the latter's absence, for which services he<lb/> shall receive
+				such compensation as may be fixed by the Board<lb/> of Managers.</p>
 			<p rend="indent(1)"><hi rend="italics">Sec.</hi> 8. The Board of Managers shall fill all
-				vacancies occur&#45;<lb/>ring among their own number&#44; shall elect the School
-				Teachers&#44;<lb/> shall employ a Messenger and Collector&#44; and compensate<lb/>
-				him&#44; shall determine the branches of education to be taught<lb/> in the
-				School&#44; and shall do all things necessary for the gov&#45;<lb/>ernment and
-				maintenance of the Schools. If any more schools<lb/> be established&#44; they shall
-				elect two additional School Directors.</p>
+				vacancies occur-<lb/>ring among their own number, shall elect the School
+				Teachers,<lb/> shall employ a Messenger and Collector, and compensate<lb/> him,
+				shall determine the branches of education to be taught<lb/> in the School, and shall
+				do all things necessary for the gov-<lb/>ernment and maintenance of the Schools. If
+				any more schools<lb/> be established, they shall elect two additional School
+				Directors.</p>
 			<p rend="indent(1)"><hi rend="italics">Sec.</hi> 9. The Board of College Trustees shall
 				determine the<lb/> branches to be taught in the College after consulting with
-				the<lb/> faculty&#44; shall elect the Provost&#44; Professors and other
-				officers<lb/> thereof&#44; shall determine the tuition and scholarship fees&#44;
-				as<lb/> also the number of free scholarships&#44; shall make the
-				appro&#45;<lb/>priations for the payment of all the salaries and other expenses<lb/>
-				of the College&#44; shall pay the same by means of orders drawn<lb/> by the
-				President on the Treasurer on account of the College<lb/> Fund&#44; shall grant the
-				degrees of Bachelor and Master of Arts<lb/> and Doctor of Divinity and Law to
-				students recommended<lb/>
+				the<lb/> faculty, shall elect the Provost, Professors and other officers<lb/>
+				thereof, shall determine the tuition and scholarship fees, as<lb/> also the number
+				of free scholarships, shall make the appro-<lb/>priations for the payment of all the
+				salaries and other expenses<lb/> of the College, shall pay the same by means of
+				orders drawn<lb/> by the President on the Treasurer on account of the College<lb/>
+				Fund, shall grant the degrees of Bachelor and Master of Arts<lb/> and Doctor of
+				Divinity and Law to students recommended<lb/>
 				<sic>therefor</sic> by the faculty and to other persons deemed properly<lb/>
-				qualified&#44; shall evidence the same by diplomas signed by the<lb/> Provost and
+				qualified, shall evidence the same by diplomas signed by the<lb/> Provost and
 				Professors of the College and by the President of<lb/> the Society with the
-				Society&#39;s seal attached&#44; shall make rules<lb/> and statutes for the
-				government of the College and shall do<lb/> all things necessary for the proper
-				transaction of its affairs.</p>
+				Society's seal attached, shall make rules<lb/> and statutes for the government of
+				the College and shall do<lb/> all things necessary for the proper transaction of its
+				affairs.</p>
 			<p rend="indent(1)"><hi rend="italics">Sec.</hi> 10. All elections for officers or
 				members of the Society<lb/> or Board shall be by ballot.</p>
 			<p rend="indent(1)"><hi rend="italics">Sec.</hi> 11. In all elections for officers
-				non&#45;resident members<lb/> may vote by proxy.</p>
+				non-resident members<lb/> may vote by proxy.</p>
 			<p rend="align(center)">OF MEETINGS.</p>
 			<p rend="indent(1)"><hi rend="italics">Section </hi>1. The Society shall have one stated
-				meeting an&#45;<lb/>nually on the <date>Sunday before <hi rend="italics"
-						>Shabu&#39;oth</hi></date>.</p>
+				meeting an-<lb/>nually on the <date>Sunday before <hi rend="italics"
+					>Shabu'oth</hi></date>.</p>
 			<pb n="9"/>
 			<p rend="align(center)">9</p>
 			<p rend="indent(1)"><hi rend="italics">Sec.</hi> 2. The Board of Managers shall have
-				four stated<lb/> meetings in each year&#44; the first of which shall be held on the<lb/>
-				<date>third Sunday</date> after the annual meeting&#44; and the others at
-				in&#45;<lb/>tervals of three months respectively.</p>
+				four stated<lb/> meetings in each year, the first of which shall be held on the<lb/>
+				<date>third Sunday</date> after the annual meeting, and the others at
+				in-<lb/>tervals of three months respectively.</p>
 			<p rend="indent(1)"><hi rend="italics">Sec.</hi> 3. The School Directors shall have one
 				stated meeting<lb/> in each month except <date>August</date>.</p>
 			<p rend="indent(1)"><hi rend="italics">Sec</hi> 4. The Board of College Trustees shall
-				have one sta&#45;<lb/>ted meeting in every three months.</p>
+				have one sta-<lb/>ted meeting in every three months.</p>
 			<p rend="indent(1)"><hi rend="italics">Sec. </hi>5. Special meetings of the Society or
-				Board of Ma&#45;<lb/>nagers or College Trustees may be called by the President<lb/>
-				whenever he may deem it necessary&#44; and it shall be his duty<lb/> to call such
-				special meetings of the Society when requested by<lb/> ten members thereof&#44; and
-				of the Board of Managers when re&#45;<lb/>quested by three of its members&#44; and
-				of the Board of College<lb/> Trustees when requested by four of its members.</p>
-			<p rend="indent(1)"><hi rend="italics">Sec.</hi> 6. At the meetings of the Society&#44;
-				thirteen shall con&#45;<lb/>stitute a quorum&#59; of the Board&#44; five&#59; of the
-				School Directors&#44;<lb/> three&#59; and of the Trustees of the College&#44;
-				five.</p>
+				Board of Ma-<lb/>nagers or College Trustees may be called by the President<lb/>
+				whenever he may deem it necessary, and it shall be his duty<lb/> to call such
+				special meetings of the Society when requested by<lb/> ten members thereof, and of
+				the Board of Managers when re-<lb/>quested by three of its members, and of the Board
+				of College<lb/> Trustees when requested by four of its members.</p>
+			<p rend="indent(1)"><hi rend="italics">Sec.</hi> 6. At the meetings of the Society,
+				thirteen shall con-<lb/>stitute a quorum; of the Board, five; of the School
+				Directors,<lb/> three; and of the Trustees of the College, five.</p>
 			<p rend="align(center)">OF THE SCHOOL DEPARTMENT.</p>
 			<p rend="indent(1)"><hi rend="italics">Section</hi> 1. In the School or Schools there
-				shall be imparted<lb/> in addition to the usual English branches&#44; Religious
-				instruc&#45;<lb/>tion&#44; Biblical History&#44; and the Hebrew language according
-				to<lb/> the German and Portuguese readings.</p>
+				shall be imparted<lb/> in addition to the usual English branches, Religious
+				instruc-<lb/>tion, Biblical History, and the Hebrew language according to<lb/> the
+				German and Portuguese readings.</p>
 			<p rend="indent(1)"><hi rend="italics">Sec.</hi> 2. The School or Schools shall be under
-				the direction<lb/> of the seven School Directors&#44; who shall be chosen yearly
-				at<lb/> the first quarterly meeting of the Board of Managers. The<lb/> President
-				shall be <hi rend="italics">ex&#45;officio</hi> a member of the Board of
-				Di&#45;<lb/>rectors.</p>
+				the direction<lb/> of the seven School Directors, who shall be chosen yearly at<lb/>
+				the first quarterly meeting of the Board of Managers. The<lb/> President shall be
+					<hi rend="italics">ex-officio</hi> a member of the Board of Di-<lb/>rectors.</p>
 			<p rend="indent(1)"><hi rend="italics">Sec.</hi> 3 No pupil shall be admitted into the
 				School without<lb/> a written order of the Directors. They shall determine the<lb/>
-				price of tuition&#44; and in proper cases may admit pupils gratu&#45;<lb/>itously or
-				for less than the usual charges adopted by them&#44;</p>
+				price of tuition, and in proper cases may admit pupils gratu-<lb/>itously or for
+				less than the usual charges adopted by them,</p>
 			<pb n="10"/>
 			<p rend="align(center)">10</p>
-			<p>shall make rules and regulations for the government of the<lb/> School&#44; shall
-				determine the books to be used therein&#44; and shall<lb/> have a general
-				supervision of the School or Schools.</p>
-			<p rend="indent(1)"><hi rend="italics">Sec. </hi>4. The Teachers&#39; salaries shall be
-				paid quarterly.</p>
+			<p>shall make rules and regulations for the government of the<lb/> School, shall
+				determine the books to be used therein, and shall<lb/> have a general supervision of
+				the School or Schools.</p>
+			<p rend="indent(1)"><hi rend="italics">Sec. </hi>4. The Teachers' salaries shall be paid
+				quarterly.</p>
 			<p rend="align(center)">OF PRIZE SCHOLARSHIPS.</p>
 			<p rend="indent(1)"><hi rend="italics">Section</hi> 1. The Board of Managers shall have
-				power to<lb/> establish as rewards for distinguished merit in the School&#44;<lb/>
-				prize scholarships in the College&#44; not exceeding five in number<lb/> and shall
-				be authorized to pay into the College Fund&#44; the<lb/> necessary amounts for the
-				tuition fees.</p>
+				power to<lb/> establish as rewards for distinguished merit in the School,<lb/> prize
+				scholarships in the College, not exceeding five in number<lb/> and shall be
+				authorized to pay into the College Fund, the<lb/> necessary amounts for the tuition
+				fees.</p>
 			<p rend="indent(1)"><hi rend="italics">Sec.</hi> 2. No pupil shall be entitled to a
 				prize scholarship<lb/> unless he be recommended for the same to the Board of
-				Mana&#45;<lb/>gers&#44; by the Principals of the Hebrew and English departments<lb/>
-				in the School&#44; and by a majority of the Board of School<lb/> Directors.</p>
+				Mana-<lb/>gers, by the Principals of the Hebrew and English departments<lb/> in the
+				School, and by a majority of the Board of School<lb/> Directors.</p>
 			<p rend="align(center)">OF THE COLLEGE.</p>
 			<p rend="indent(1)"><hi rend="italics">Section</hi> 1. There shall be a College in the
-				city of <placeName>Philadel&#45;<lb/>phia</placeName>&#44; styled Maimonides
-				College&#44; in which besides the usual<lb/> collegiate branches&#44; there shall be
-				taught a full course of<lb/> Hebrew literature.</p>
+				city of <placeName>Philadel-<lb/>phia</placeName>, styled Maimonides College, in
+				which besides the usual<lb/> collegiate branches, there shall be taught a full
+				course of<lb/> Hebrew literature.</p>
 			<p rend="indent(1)"><hi rend="italics"><sic>See</sic></hi>. 2. For the establishment and
-				maintenance of this<lb/> College&#44; there shall be a separate &#8220;College
-				Fund.&#8221;</p>
+				maintenance of this<lb/> College, there shall be a separate “College Fund.”</p>
 			<p rend="indent(1)"><hi rend="italics">Sec</hi>. 3. The College shall be under the
 				direction of the<lb/> Trustees elected as hereinbefore provided by the Society
 				from<lb/> among its members. Any vacancies in said Board of Trustees<lb/> shall be
 				filled by the said Trustees. Of said Trustees at least<lb/> seven shall be residents
 				of the city of <placeName>Philadelphia</placeName>.</p>
 			<p rend="indent(1)"><hi rend="italics">Sec. </hi>4. Any congregation or society
-				contributing yearly<lb/> the sum of one thousand dollars to the College Fund&#44;
-				shall be<lb/> entitled to elect one additional member of the Board of<lb/>
-				Trustees.</p>
+				contributing yearly<lb/> the sum of one thousand dollars to the College Fund, shall
+				be<lb/> entitled to elect one additional member of the Board of<lb/> Trustees.</p>
 			<pb n="11"/>
 			<p rend="align(center)">11</p>
 			<p rend="indent(1)"><hi rend="italics">Sec.</hi> 5. This article shall take effect on
 				the <date>Sunday before<lb/>
-					<hi rend="italics">Shabu&#39;oth</hi>&#44; 1868&#44; &#40;5628&#44;&#41;</date>
-				and till that time the Board of Man&#45;<lb/>agers shall have full power to organize
-				and manage the College<lb/> as they may deem advisable&#44; and to delegate their
-				authority to<lb/> any number of members of the Society&#44; whom they may
-				desig&#45;<lb/>nate as Trustees for the purpose.</p>
+					<hi rend="italics">Shabu'oth</hi>, 1868, (5628,)</date> and till that time the
+				Board of Man-<lb/>agers shall have full power to organize and manage the
+				College<lb/> as they may deem advisable, and to delegate their authority to<lb/> any
+				number of members of the Society, whom they may desig-<lb/>nate as Trustees for the
+				purpose.</p>
 			<p rend="align(center)">RULES OF ORDER.</p>
 			<p rend="indent(1)"><hi rend="italics">Section</hi> 1. At all meetings the order of
-				business shall be as<lb/> follows&#58;</p>
+				business shall be as<lb/> follows:</p>
 			<list type="ordered">
 				<head/>
-				<item n="1"> Roll&#45;call.</item>
+				<item n="1"> Roll-call.</item>
 				<item n="2"> Reading of the minutes of the previous meeting.</item>
 				<item n="3"> Reports of Officers.</item>
 				<item n="4"> Communications.</item>
@@ -564,168 +549,153 @@
 			<p rend="indent(1)"><hi rend="italics">Sec</hi>. 2. The yeas and nays shall be entered
 				on the minutes<lb/> when required by two members.</p>
 			<p rend="align(center)">OF AMENDMENTS.</p>
-			<p rend="indent(1)"><hi rend="italics">Section</hi> 1. No alteration&#44; amendment or
-				addition to these<lb/> By&#45;laws shall be made unless proposed at one meeting of
+			<p rend="indent(1)"><hi rend="italics">Section</hi> 1. No alteration, amendment or
+				addition to these<lb/> By-laws shall be made unless proposed at one meeting of
 				the<lb/> Society or Board of Managers and confirmed at the next<lb/> meeting of the
-				Society by a vote of two&#45;thirds of the members<lb/> present&#44; the Assistant
-				Secretary having sent ten days&#39; notice<lb/> of such amendment to all the
-				members.</p>
+				Society by a vote of two-thirds of the members<lb/> present, the Assistant Secretary
+				having sent ten days' notice<lb/> of such amendment to all the members.</p>
 			<pb n="12"/>
 			<p rend="align(center)">RULES AND REGULATOINS</p>
 			<p rend="align(center)">FOR THE GOVERNMENT OF</p>
 			<p rend="align(center)">MAIMONIDES COLLEGE.</p>
 			<p rend="indent(1)">The Faculty of Arts is composed of the following
-				Professor&#45;<lb/>ships&#58;</p>
-			<p>A Professorship of Homiletics&#44; Belles Lettres and Comparative<lb/>
-				Theology&#44;</p>
-			<p>&#8220; &#8220; The Bible and Biblical Literature.</p>
-			<p>&#8220; &#8220; Talmud&#44; Hebrew Philosophy&#44; Jewish His&#45;<lb/>tory and
-				Literature.</p>
-			<p>&#8220; &#8220; Mishnah with Commentaries&#44; Shulchan<lb/> Aruch and Yad
-				ha&#45;Chazakah.</p>
-			<p>&#8220; &#8220; Hebrew and Chaldaic Languages.</p>
-			<p>&#8220; &#8220; Greek and Latin</p>
-			<p>&#8220; &#8220; Rhetoric and English Literature.</p>
-			<p>&#8220; &#8220; Mathematics.</p>
-			<p>&#8220; &#8220; Natural Philosophy and Chemistry.</p>
-			<p>&#8220; &#8220; German and French Languages.</p>
+				Professor-<lb/>ships:</p>
+			<p>A Professorship of Homiletics, Belles Lettres and Comparative<lb/> Theology,</p>
+			<p>“ “ The Bible and Biblical Literature.</p>
+			<p>“ “ Talmud, Hebrew Philosophy, Jewish His-<lb/>tory and Literature.</p>
+			<p>“ “ Mishnah with Commentaries, Shulchan<lb/> Aruch and Yad ha-Chazakah.</p>
+			<p>“ “ Hebrew and Chaldaic Languages.</p>
+			<p>“ “ Greek and Latin</p>
+			<p>“ “ Rhetoric and English Literature.</p>
+			<p>“ “ Mathematics.</p>
+			<p>“ “ Natural Philosophy and Chemistry.</p>
+			<p>“ “ German and French Languages.</p>
 			<p rend="align(center)">OF THE FACULTY.</p>
 			<list type="ordered">
 				<head/>
-				<item n="1"> The Professors shall constitute &#8220;The Faculty of
-					Arts&#44;&#8221;<lb/> to whom&#44; as a body&#44; shall be committed the
-					immediate regu&#45;<lb/>lation and government of the Collegiate Department&#44;
-					subject<lb/> to the rules and statutes and the control of the Board of<lb/>
-					Trustees.</item>
-				<item n="2"> The College shall be under the supervision of the
-					Pro&#45;<lb/>vost&#44; who shall make report in relation to it to the Board
-					at<lb/> least once a year.</item>
+				<item n="1"> The Professors shall constitute “The Faculty of Arts,”<lb/> to whom, as
+					a body, shall be committed the immediate regu-<lb/>lation and government of the
+					Collegiate Department, subject<lb/> to the rules and statutes and the control of
+					the Board of<lb/> Trustees.</item>
+				<item n="2"> The College shall be under the supervision of the Pro-<lb/>vost, who
+					shall make report in relation to it to the Board at<lb/> least once a
+					year.</item>
 			</list>
 			<pb n="13"/>
 			<p rend="align(center)">13</p>
-			<p>3. Stated meetings of the Faculty shall be held every<lb/> month&#44; for the purpose
-				of administering the general discipline<lb/> of the College&#59; and special
-				meetings&#44; as often as the business of<lb/> the institution may require&#44; to
-				be called by the Provost or a<lb/> majority of the members. At all meetings of the
-				Faculty&#44; the<lb/> Provost shall preside&#44; or in his absence a chairman can
-				be<lb/> elected.</p>
+			<p>3. Stated meetings of the Faculty shall be held every<lb/> month, for the purpose of
+				administering the general discipline<lb/> of the College; and special meetings, as
+				often as the business of<lb/> the institution may require, to be called by the
+				Provost or a<lb/> majority of the members. At all meetings of the Faculty, the<lb/>
+				Provost shall preside, or in his absence a chairman can be<lb/> elected.</p>
 			<p>4. The Faculty shall appoint a Secretary from its own body<lb/> whose duty it shall
-				be&#44; to keep the minutes of their proceed&#45;<lb/>ings&#44; which shall be&#44;
-				at all times&#44; open to the inspection of<lb/> the Trustees.</p>
-			<p>5. No proceedings of the Faculty shall be considered as<lb/> valid&#44; unless passed
-				by a majority of the members at a meet&#45;<lb/>ing formally constituted.</p>
+				be, to keep the minutes of their proceed-<lb/>ings, which shall be, at all times,
+				open to the inspection of<lb/> the Trustees.</p>
+			<p>5. No proceedings of the Faculty shall be considered as<lb/> valid, unless passed by
+				a majority of the members at a meet-<lb/>ing formally constituted.</p>
 			<p>6. It shall be the duty of the Faculty to make reports to<lb/> the Board at their
-				stated meetings&#44; upon the state of the Col&#45;<lb/>legiate department&#44;
-				stating particularly the names and resi&#45;<lb/>dences of such students as have
-				been admitted into&#44; or have<lb/> left the institution since the last report&#44;
-				with such remarks as<lb/> they may deem expedient.</p>
-			<p>7. It shall be the special duty of the Provost&#44; to visit and<lb/> superintend the
-				various departments&#59; to see that the rules<lb/> and statutes are duly carried
-				into effect&#44; to report to the Board<lb/> every instance of refusal and neglect
-				to comply with such<lb/> rules and statutes&#44; and to advise and suggest such
-				alterations<lb/> and improvements as he may deem best calculated to promote<lb/> the
-				welfare and usefulness of the institution.</p>
+				stated meetings, upon the state of the Col-<lb/>legiate department, stating
+				particularly the names and resi-<lb/>dences of such students as have been admitted
+				into, or have<lb/> left the institution since the last report, with such remarks
+				as<lb/> they may deem expedient.</p>
+			<p>7. It shall be the special duty of the Provost, to visit and<lb/> superintend the
+				various departments; to see that the rules<lb/> and statutes are duly carried into
+				effect, to report to the Board<lb/> every instance of refusal and neglect to comply
+				with such<lb/> rules and statutes, and to advise and suggest such alterations<lb/>
+				and improvements as he may deem best calculated to promote<lb/> the welfare and
+				usefulness of the institution.</p>
 			<p rend="align(center)">OF THE CLASSES.</p>
 			<p>1. The students shall be distributed into five classes.</p>
-			<p>2. No applicant shall be admitted into the Freshman class<lb/> under the age of
-				14&#59; any special exception shall be decided by<lb/> the Board&#44; upon the
-				application of the Faculty. His fitness</p>
+			<p>2. No applicant shall be admitted into the Freshman class<lb/> under the age of 14;
+				any special exception shall be decided by<lb/> the Board, upon the application of
+				the Faculty. His fitness</p>
 			<pb n="14"/>
 			<p rend="align(center)">14</p>
-			<p>must appear on examination&#44; to be conducted by the Profes&#45;<lb/>sors&#44; who
-				must concur in opinion that he is qualified in such<lb/> branches as shall be
-				prescribed by the Board.</p>
-			<p>3. The requisites for entering the Freshman class shall be<lb/> as follows&#58;</p>
-			<p>LATIN&#8212;<persName>Caesar</persName>&#44; <persName>Virgil</persName>&#44;
-					<persName>Sallust</persName>&#44; Odes of <persName>Horace</persName>.</p>
-			<p>ENGLISH&#8212;The elements of English grammar and of modern<lb/> Geography.</p>
-			<p>HEBREW&#8212;The translation of the historical portions of the<lb/> Bible with
+			<p>must appear on examination, to be conducted by the Profes-<lb/>sors, who must concur
+				in opinion that he is qualified in such<lb/> branches as shall be prescribed by the
+				Board.</p>
+			<p>3. The requisites for entering the Freshman class shall be<lb/> as follows:</p>
+			<p>LATIN—<persName>Caesar</persName>, <persName>Virgil</persName>,
+					<persName>Sallust</persName>, Odes of <persName>Horace</persName>.</p>
+			<p>ENGLISH—The elements of English grammar and of modern<lb/> Geography.</p>
+			<p>HEBREW—The translation of the historical portions of the<lb/> Bible with
 				facility.</p>
-			<p>ARITHMETIC&#44; including fractions and extraction of roots.</p>
-			<p>4. The Faculty shall keep a book called the Matriculation<lb/> book&#44; in which
-				every candidate for entrance into this College<lb/> shall&#44; on his admission&#44;
-				have his name&#44; age and residence<lb/> entered&#44; and the name and residence of
-				his parent or guardian.</p>
-			<p>5. No student shall be admitted to advanced standing&#44;<lb/> without being as fully
-				instructed as the class to which admis&#45;<lb/>sion is asked&#44; in all the
-				studies in which the class has been<lb/> instructed.</p>
+			<p>ARITHMETIC, including fractions and extraction of roots.</p>
+			<p>4. The Faculty shall keep a book called the Matriculation<lb/> book, in which every
+				candidate for entrance into this College<lb/> shall, on his admission, have his
+				name, age and residence<lb/> entered, and the name and residence of his parent or
+				guardian.</p>
+			<p>5. No student shall be admitted to advanced standing,<lb/> without being as fully
+				instructed as the class to which admis-<lb/>sion is asked, in all the studies in
+				which the class has been<lb/> instructed.</p>
 			<p>6. Vacation shall be from the <date>10<hi rend="sup">th</hi> of July</date> to the
 						<date>31<hi rend="sup">st</hi> of<lb/> August</date>.</p>
 			<p rend="align(center)">COURSE OF INSTRUCTION.</p>
-			<p>1. The subjects of instruction in the institution shall be<lb/> the
-				following&#58;&#8212;</p>
-			<p rend="indent(1)">Greek&#44; Latin&#44; German&#44; French&#44; Hebrew&#44; Chaldaic
-				and their<lb/> literatures&#44; the Natural sciences&#44; History&#44; Mathematics
-				and<lb/> Astronomy&#44; Moral and Intellectual Philosophy&#44;
-				Constitution&#45;<lb/>al History and Laws of the <placeName>United
-					States</placeName>&#44; Belles Lettres&#44;<lb/> Homiletics&#44; Comparative
-				Theology&#44; the Bible with its com&#45;<lb/>mentaries&#44; the Mishnah with its
-				commentaries&#44; the Shulchan<lb/> &#39;Aruch&#44; Yad ha&#45;chazakah&#44; Jewish
-				History and Literature&#44;<lb/> Hebrew Philosophy and the Talmud with its
-				commentaries.</p>
+			<p>1. The subjects of instruction in the institution shall be<lb/> the following:—</p>
+			<p rend="indent(1)">Greek, Latin, German, French, Hebrew, Chaldaic and their<lb/>
+				literatures, the Natural sciences, History, Mathematics and<lb/> Astronomy, Moral
+				and Intellectual Philosophy, Constitution-<lb/>al History and Laws of the
+					<placeName>United States</placeName>, Belles Lettres,<lb/> Homiletics,
+				Comparative Theology, the Bible with its com-<lb/>mentaries, the Mishnah with its
+				commentaries, the Shulchan<lb/> 'Aruch, Yad ha-chazakah, Jewish History and
+				Literature,<lb/> Hebrew Philosophy and the Talmud with its commentaries.</p>
 			<pb n="15"/>
 			<p rend="align(center)">15</p>
 			<p>2. At the close of each yearly term there shall be held an<lb/> examination of all
-				the classes in the presence of a Committee<lb/> of the Board&#44; and of such other
-				Trustees as shall attend&#59; after<lb/> every examination the students who are
+				the classes in the presence of a Committee<lb/> of the Board, and of such other
+				Trustees as shall attend; after<lb/> every examination the students who are
 				distinguished in each<lb/> class shall be arranged in the order of merit.</p>
-			<p>3. No student shall be suffered to proceed to a higher class<lb/> who shall not&#44;
-				on examination show himself to be master of<lb/> the studies of the
-					<sic>preceeding</sic> year&#44; but he may be allowed<lb/> the privilege&#44;
-				&#40;if the faculty shall judge it expedient to grant<lb/> it&#44;&#41; of a second
-				examination for admission thereto&#44; at the<lb/> opening of the next succeeding
-				year.</p>
-			<p>4. Punishment shall be exclusively directed to a sense of<lb/> duty&#44; and the
-				principles of honor and shame&#44; and shall consist<lb/> of private admonition by a
-				Professor&#8212;admonition in the pre&#45;<lb/>sence of the Faculty&#8212;admonition
-				in the presence of the Fac&#45;<lb/>ulty and of the class of the
-				offender&#8212;removal to a lower<lb/> class&#8212;suspension for a limited time
-				from college&#8212;dismissal&#8212;<lb/>expulsion.</p>
-			<p>5. No punishment except private admonition shall be in&#45;<lb/>flicted&#44; unless
-				ordered by a resolution of a majority of the<lb/> whole of the Faculty&#59; nor
-				shall the punishment of expulsion<lb/> be inflicted unless it be first sanctioned by
-				a vote of the<lb/> Trustees. In case of dismissal&#44; the offender may be
-				re&#45;admit&#45;<lb/>ted&#44; but the effect of the expulsion shall be an utter
-				disqualifica&#45;<lb/>tion of the individual for re&#45;admission into this
-				institution&#44;<lb/> or of receiving any of its honors.</p>
-			<p>6. The fees for tuition of each year shall be one hundred<lb/> dollars&#44; payable
-				at the commencement thereof&#59; and no stud&#45;<lb/>ent shall be considered as
-				entitled to his seat in the class for<lb/> the term&#44; until such payment is made.
-				Notice that the tui&#45;<lb/>tion money is due&#44; and that the Treasurer will at
-				times attend<lb/> &#40;the time then to be stated&#41; shall be given by the
-				Secretary.</p>
+			<p>3. No student shall be suffered to proceed to a higher class<lb/> who shall not, on
+				examination show himself to be master of<lb/> the studies of the
+					<sic>preceeding</sic> year, but he may be allowed<lb/> the privilege, (if the
+				faculty shall judge it expedient to grant<lb/> it,) of a second examination for
+				admission thereto, at the<lb/> opening of the next succeeding year.</p>
+			<p>4. Punishment shall be exclusively directed to a sense of<lb/> duty, and the
+				principles of honor and shame, and shall consist<lb/> of private admonition by a
+				Professor—admonition in the pre-<lb/>sence of the Faculty—admonition in the presence
+				of the Fac-<lb/>ulty and of the class of the offender—removal to a lower<lb/>
+				class—suspension for a limited time from college—dismissal—<lb/>expulsion.</p>
+			<p>5. No punishment except private admonition shall be in-<lb/>flicted, unless ordered
+				by a resolution of a majority of the<lb/> whole of the Faculty; nor shall the
+				punishment of expulsion<lb/> be inflicted unless it be first sanctioned by a vote of
+				the<lb/> Trustees. In case of dismissal, the offender may be re-admit-<lb/>ted, but
+				the effect of the expulsion shall be an utter disqualifica-<lb/>tion of the
+				individual for re-admission into this institution,<lb/> or of receiving any of its
+				honors.</p>
+			<p>6. The fees for tuition of each year shall be one hundred<lb/> dollars, payable at
+				the commencement thereof; and no stud-<lb/>ent shall be considered as entitled to
+				his seat in the class for<lb/> the term, until such payment is made. Notice that the
+				tui-<lb/>tion money is due, and that the Treasurer will at times attend<lb/> (the
+				time then to be stated) shall be given by the Secretary.</p>
 			<pb n="16"/>
 			<p rend="align(center)">16</p>
-			<p>7. The Board sanction the institution of a Literary Society&#44;<lb/> to consist of
-				the students and alumni of the college&#44; or such of<lb/> them as shall be
-				admitted members thereof&#44; when suitable<lb/> rooms can be appropriated for their
-				use. The said society to<lb/> be under the general control and supervision of the
+			<p>7. The Board sanction the institution of a Literary Society,<lb/> to consist of the
+				students and alumni of the college, or such of<lb/> them as shall be admitted
+				members thereof, when suitable<lb/> rooms can be appropriated for their use. The
+				said society to<lb/> be under the general control and supervision of the
 				Faculty.</p>
 			<p rend="align(center)">OF COMMENCEMENTS AND CONFERRING DEGREES</p>
 			<p rend="align(center)">IN THE ARTS.</p>
 			<list type="ordered">
 				<head/>
 				<item n="1"> There shall be an annual commencement of graduates<lb/> in the arts on
-					the <date>last Thursday morning of each term</date>&#44; at<lb/> 10
-					o&#39;clock.</item>
-				<item n="2"> Candidates for the degree of Bachelor in the Arts of Di&#45;<lb/>vinity
-					shall be publicly examined by the faculty in the<lb/> collegiate
-					departments&#44; in the presence of the Committee of<lb/> Examination and such
-					other members of the Board of Trustees<lb/> as may attend.</item>
+					the <date>last Thursday morning of each term</date>, at<lb/> 10 o'clock.</item>
+				<item n="2"> Candidates for the degree of Bachelor in the Arts of Di-<lb/>vinity
+					shall be publicly examined by the faculty in the<lb/> collegiate departments, in
+					the presence of the Committee of<lb/> Examination and such other members of the
+					Board of Trustees<lb/> as may attend.</item>
 				<item n="3"> The Provost shall report the names of those who shall<lb/> have been
-					found worthy of receiving such degree to the Board&#44;<lb/> who shall&#44; if
-					the report be approved&#44; confer such degree ac&#45;<lb/>cordingly. But no
-					degree shall be conferred unless by the vote<lb/> of the Trustees&#59; and every
-					student&#44; before he can be recom&#45;<lb/>mended for the degree of Bachelor
-					of Arts or Divinity&#44; shall<lb/> settle his account with the
-					Treasurer.</item>
+					found worthy of receiving such degree to the Board,<lb/> who shall, if the
+					report be approved, confer such degree ac-<lb/>cordingly. But no degree shall be
+					conferred unless by the vote<lb/> of the Trustees; and every student, before he
+					can be recom-<lb/>mended for the degree of Bachelor of Arts or Divinity,
+					shall<lb/> settle his account with the Treasurer.</item>
 				<item n="4"> The degree of Master of Arts may be conferred on the<lb/> Alumni of the
-					College&#44; who shall have been Bachelor in the<lb/> Arts of three years
-					standing&#44; and shall apply for that honor.</item>
+					College, who shall have been Bachelor in the<lb/> Arts of three years standing,
+					and shall apply for that honor.</item>
 				<item n="5"> The order of the commencement shall be directed by<lb/> the
 					Faculty.</item>
 			</list>
 		</body>
 	</text>
 </TEI>
-

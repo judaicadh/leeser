@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
         <fileDesc>
             <titleStmt>
                 <title>[no title given]</title>
-                <author attested="yes" accepted="yes" signature="yes">Kohlmeyer, Dr.</author>
+                <author accepted="yes" attested="yes" signature="yes">Kohlmeyer, Dr.</author>
                 <editor/>
                 <sponsor/>
                 <funder/>
@@ -47,7 +49,9 @@
                         <settlement>New York</settlement>
                         <institution>Jewish Theological Seminary</institution>
                         <repository/>
-                        <collection>The Abraham and Deborah Karp Collection of Early American Judaica at the Library of the Jewish Theological Seminary of America</collection>
+                        <collection>The Abraham and Deborah Karp Collection of Early American
+                            Judaica at the Library of the Jewish Theological Seminary of
+                            America</collection>
                         <idno/>
                         <altIdentifier>
                             <idno/>
@@ -56,9 +60,9 @@
                     </msIdentifier>
                     <head/>
                     <letHeading>
-                        <author attested="yes" accepted="yes" signature="yes">Kohlmeyer,
+                        <author accepted="yes" attested="yes" signature="yes">Kohlmeyer,
                             Dr.</author>
-                        <addressee editor="false" attested="yes" accepted="yes">Leeser,
+                        <addressee accepted="yes" attested="yes" editor="false">Leeser,
                             Isaac</addressee>
                         <deliverer/>
                         <respStmt>
@@ -67,7 +71,7 @@
                         </respStmt>
                         <placeLet>New Orleans, LA</placeLet>
                         <placeRec>Philadelphia, PA</placeRec>
-                        <dateLet when="1848-05" source="" attested="yes">25 May 1848</dateLet>
+                        <dateLet attested="yes" source="" when="1848-05">25 May 1848</dateLet>
                     </letHeading>
                     <msContents>
                         <msItem>
@@ -93,7 +97,8 @@
                         <objectDesc>
                             <supportDesc>
                                 <support>
-                                    <material color="" lined="false" paper_type="" size="Letter">letter</material>
+                                    <material color="" lined="false" paper_type="" size="Letter"
+                                        >letter</material>
                                 </support>
                                 <extent>2 pages on 2 sheets <dimensions/>
                                 </extent>
@@ -234,64 +239,60 @@
     </teiHeader>
     <text>
         <body>
-
             <pb n="1"/>
-
-            <p rend="align(right)"><placeName>New Orleans</placeName>&#44; <date>May 25<hi rend="sup">th</hi>
-                    5608</date></p>
-            <p>Reverend Sir&#33;</p>
-            <p rend="indent(1)">I have the honor&#44; to send you hereby a small article<lb/> for your
-                &#8220;Occident&#44;&#8221; and after having read it you may<lb/> decide of its
-                being worthy to be published. Believing&#44;<lb/> as I do&#44; you will agree with
-                me&#44; contending&#44; that<lb/> a comparison of the present struggle with
-                that<lb/> of <persName>Maimonides</persName> is not improper&#44; I should
-                think&#44; it<lb/> will also appease some pious minds excited<lb/> by the present
-                state of our eternal religion.<lb/> My English expression &#40;style&#41; will
-                acquire many<lb/> corrections and you will have the kindness to do so.<lb/> I was
-                taking care to express myself as distinctly<lb/> as possible&#44; but a
-                foreigner&#8212;as I am&#44; only two<lb/> years in this country&#44; it will
-                require your issue.<lb/> To the blaming Article of &#8220;truth&#44;&#8221; who
-                amongst<lb/> other mistakes also pretends&#58; &#8220;the <del>reading</del>
+            <p rend="align(right)"><placeName>New Orleans</placeName>, <date>May 25<hi rend="sup"
+                        >th</hi> 5608</date></p>
+            <p>Reverend Sir!</p>
+            <p rend="indent(1)">I have the honor, to send you hereby a small article<lb/> for your
+                “Occident,” and after having read it you may<lb/> decide of its being worthy to be
+                published. Believing,<lb/> as I do, you will agree with me, contending, that<lb/> a
+                comparison of the present struggle with that<lb/> of <persName>Maimonides</persName>
+                is not improper, I should think, it<lb/> will also appease some pious minds
+                excited<lb/> by the present state of our eternal religion.<lb/> My English
+                expression (style) will acquire many<lb/> corrections and you will have the kindness
+                to do so.<lb/> I was taking care to express myself as distinctly<lb/> as possible,
+                but a foreigner—as I am, only two<lb/> years in this country, it will require your
+                issue.<lb/> To the blaming Article of “truth,” who amongst<lb/> other mistakes also
+                pretends: “the <del>reading</del>
                 <hi rend="underline">annual</hi><lb/> reading of the Pentateuch was already
-                introduced<lb/> by <persName>Ezra the Scribe</persName>&#44;&#8221; I furnish you
-                the following<lb/> passage taken of <add>Hebrew</add>&#58; <add>Hebrew</add><lb/>
-                &#8220;some congregations use to read the Pentateuch but once<lb/> in three
-                years.&#8221;&#8212; <persName>R. Benjamin de Tudela</persName> says&#58;<lb/>
+                introduced<lb/> by <persName>Ezra the Scribe</persName>,” I furnish you the
+                following<lb/> passage taken of <add>Hebrew</add>: <add>Hebrew</add><lb/> “some
+                congregations use to read the Pentateuch but once<lb/> in three years.”—
+                    <persName>R. Benjamin de Tudela</persName> says:<lb/>
                 <add>Hebrew</add><lb/>
                 <add>Hebrew</add><lb/>
                 <add>Hebrew</add></p>
-            <p>Do these passages not prove&#44; that &#8220;<add>Hebrew</add>&#8221; is
-                    <add>Hebrew</add>&#63;&#44; that<lb/>
+            <p>Do these passages not prove, that “<add>Hebrew</add>” is <add>Hebrew</add>?, that<lb/>
                 <persName>Ezra the Scribe</persName> did not introduce the <hi rend="underline"
                     >annual<lb/> reading</hi></p>
-
             <pb n="2"/>
-            <p>reading of the Pentateuch&#44; or else the <addressee>Hebrew</addressee><lb/> surely
+            <p>reading of the Pentateuch, or else the <addressee>Hebrew</addressee><lb/> surely
                 followed him and not read the P. but once<lb/> in three years.
-                    <persName>Ezra</persName> did introduce&#44; that they<lb/> <del>set</del> should read in
-                the Pentateuch in generally&#44; he<lb/> also ordered&#58; <add>Hebrew</add> of. Gemara<lb/>
-                <add>Hebrew</add> f. 82. 1.&#59; but to <del>read</del> finish the P. in one year<lb/> whence
-                will <del>fr</del> &#8220;truth&#8221; prove&#44; that <persName>Ezra</persName> has
-                    order<add>ed</add><lb/> so&#63; I can prove the contrary. The Gemara says<lb/>
-                in <add>Hebrew</add>&#58; <add>Hebrew</add> &#8220;the <add>Hebrew</add><lb/> the
-                Palestinian Jews read the Pentateuch but once<lb/> in three years.&#8221; Proves
-                that not distinctly<lb/> against &#8220;truth&#8221;&#63; No doubt&#44; <hi rend="underline">many</hi>
-                centuries af<add>ter</add>]<lb/>
+                    <persName>Ezra</persName> did introduce, that they<lb/>
+                <del>set</del> should read in the Pentateuch in generally, he<lb/> also ordered:
+                    <add>Hebrew</add> of. Gemara<lb/>
+                <add>Hebrew</add> f. 82. 1.; but to <del>read</del> finish the P. in one year<lb/>
+                whence will <del>fr</del> “truth” prove, that <persName>Ezra</persName> has
+                    order<add>ed</add><lb/> so? I can prove the contrary. The Gemara says<lb/> in
+                    <add>Hebrew</add>: <add>Hebrew</add> “the <add>Hebrew</add><lb/> the Palestinian
+                Jews read the Pentateuch but once<lb/> in three years.” Proves that not
+                distinctly<lb/> against “truth”? No doubt, <hi rend="underline">many</hi> centuries
+                    af<add>ter</add>]<lb/>
                 <persName>Ezra</persName> in <placeName>Palestine</placeName> and other countries
                 the P. was read but once in<lb/> three years and in
                     <placeName><sic>Babylonien</sic></placeName> the reading in<lb/> one year was
-                instituted probably <hi rend="underline">700 or 800 year<add>s</add></hi><lb/> after. <persName>Ezra the
-                    Scribe</persName>. Please&#44; Sir&#44; make use of<lb/> <del>it</del> these remarks in
-                your &#8220;Occident&#44;&#8221; you may <add>&#63;</add><lb/> upon my
-                quotations&#44; I <del>have</del> shall send you in<lb/> future contributions for your paper
-                but now&#44; Sir&#44;<lb/> I stop&#44; <add>Hebrew</add>&#8212;and besides that&#44;
-                I do not<lb/> know&#44; how you are pleased with my com<add>m</add>encement<lb/>
-                Most respectfully<lb/> Yours<lb/>
+                instituted probably <hi rend="underline">700 or 800 year<add>s</add></hi><lb/>
+                after. <persName>Ezra the Scribe</persName>. Please, Sir, make use of<lb/>
+                <del>it</del> these remarks in your “Occident,” you may <add>?</add><lb/> upon my
+                quotations, I <del>have</del> shall send you in<lb/> future contributions for your
+                paper but now, Sir,<lb/> I stop, <add>Hebrew</add>—and besides that, I do not<lb/>
+                know, how you are pleased with my com<add>m</add>encement<lb/> Most
+                respectfully<lb/> Yours<lb/>
                 <persName role="author">Dr Kohlmeyer</persName></p>
             <p>Rev. <addressee>I. Leeser</addressee></p>
-            <p rend="indent(1)"><placeName>Philadelphia</placeName></p>
-
-
+            <p rend="indent(1)">
+                <placeName>Philadelphia</placeName>
+            </p>
         </body>
     </text>
 </TEI>

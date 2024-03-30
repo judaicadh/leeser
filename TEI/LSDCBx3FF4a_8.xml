@@ -1,266 +1,294 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE TEI [
-<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
-%teibase;
-<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
-%teiext;
-]>
-<TEI>
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="unk">Jonah of the house of Bondi</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>CAJS Isaac Leeser Collection</repository>
-						<collection>The Library of the Dropsie College for Hebrew and Cognate Learning</collection>
-						<idno>LSDCBx3FF4a_8</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="unk">Jonah of the house of Bondi</author>
-						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac</addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>New York, NY</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1862-06" source="" attested="yes">1862</dateLet>
-						<dateLet when="1862-06" source="" attested="yes">25 Sivan</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="ilcajs_b3f4a_0008_1r.jpg"></graphic>
-								<graphic url="ilcajs_b3f4a_0008_1v.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="true" paper_type="" size="Letter">letter</material>
-								</support>
-								<extent>2 pages on 1 sheet
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="manuscript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="free">
-								<p>Unrestricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-				<language ident="yi">Yiddish</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1"/>
-				<p><hi rend="underline"><add>Yiddish</add></hi></p>
-			<p rend="indent(10)"><placeName>New York</placeName>&#44; <date>Monday</date>&#44;</p>
-			<p rend="indent(10)"><date>25th of Sivan&#40;June&#41; 1862</date>.</p>
-				<p>To my dear friend&#44; <addressee>Lippman Leeser</addressee>&#44;</p>
-			<p rend="indent(1)">Dear Friend&#58;</p>
-			<p rend="indent(2)">God is my help&#44; the Creator of heaven&#44; and He<lb/>&#42; who made the land from the formless void&#44; that I<lb/> have heard no voice which aroused me against my<lb/> friend. Is this just and right&#63;</p>
-			<p rend="indent(1)">For several months past I have been more<lb/> upset than ever because of the unpleasant ex<lb/>perience which I had through <persName>Ettinger</persName>. The order<lb/> of these sad events through which I am delayed<lb/> in completing my work&#44; or to undertake any&#45;<lb/>thing new&#44; so as to be able to support myself upset<lb/> and bewilder me. &#8220;A man is born for trouble&#8221;.&#42;<lb/> But not for this kind of trouble. I deal with<lb/> general and Jewish books and stationary&#44; but<lb/> the <add>blank</add> have forsaken me.</p>
-			<p rend="indent(1)">And now&#44; dear friend&#44; after long pain<lb/> and delay &#40;for my prayer has been heard&#41; I am<lb/> almost finished with the work in Hebrew &#8220;Your Nati<add>&#63;</add> me<lb/> Hagvei <add>&#63;</add> Ha&#45;Selang<add>&#63;</add>&#8221; &#40;My dove from the nests of the Rock&#41;<lb/> Cantides 214<lb/> Now&#44; I beg of you to let me know whether I ought<lb/> to let it be copied for me in square letters&#44; that<lb/> would cost too much. Rashi script would cost less<lb/> It were even better if you or someone else over</p>
-			<p rend="indent(10)">&#42;From <persName>Job</persName></p>
-				<p>&#42; This first sentence is in</p>
-				<p>Hebrew.  This is the best I</p>
-				<p>can do with it.<lb/> <persName>S. G.</persName></p>
-			<pb n="2"/>
-				<p>there could read my writing. The cost is the most<lb/> important consideration for me at present.<lb/> That is why I expect to go there next week in<lb/> order to talk the matter over personally. It is<lb/> possible to say things verbally which cannot be<lb/> said in writing.</p>
-			<p rend="indent(1)">Also&#44; please let me know who is <persName>Jacob<lb/> Friedman</persName>. He says that he knows me. I&#44;<lb/> however cannot recall him. Could he pos&#45;<lb/>sibly be from <placeName>Hamburg</placeName>&#63; Also let me<lb/> know whether he can be trusted with holiday<lb/> prayer&#45;books. Expecting your immediate<lb/> reply&#44;</p>
-			<p rend="indent(1)">Your friend&#44;</p>
-			<p rend="indent(2)"><persName role="author">Jonah Bondi</persName></p>
-			<p rend="indent(1)"><placeName>Office 429 Broadway</placeName>.</p>
-		</body>
-	</text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="unk">Jonah of the house of
+                    Bondi</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS Isaac Leeser Collection</repository>
+                        <collection>The Library of the Dropsie College for Hebrew and Cognate
+                            Learning</collection>
+                        <idno>LSDCBx3FF4a_8</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="unk">Jonah of the house of
+                            Bondi</author>
+                        <addressee accepted="yes" attested="yes" editor="false">Leeser,
+                            Isaac</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>New York, NY</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1862-06">1862</dateLet>
+                        <dateLet attested="yes" source="" when="1862-06">25 Sivan</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="ilcajs_b3f4a_0008_1r.jpg"/>
+                                <graphic url="ilcajs_b3f4a_0008_1v.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="true" paper_type="" size="Letter"
+                                        >letter</material>
+                                </support>
+                                <extent>2 pages on 1 sheet <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="yi">Yiddish</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <p>
+                <hi rend="underline">
+                    <add>Yiddish</add>
+                </hi>
+            </p>
+            <p rend="indent(10)"><placeName>New York</placeName>, <date>Monday</date>,</p>
+            <p rend="indent(10)"><date>25th of Sivan(June) 1862</date>.</p>
+            <p>To my dear friend, <addressee>Lippman Leeser</addressee>,</p>
+            <p rend="indent(1)">Dear Friend:</p>
+            <p rend="indent(2)">God is my help, the Creator of heaven, and He<lb/>* who made the
+                land from the formless void, that I<lb/> have heard no voice which aroused me
+                against my<lb/> friend. Is this just and right?</p>
+            <p rend="indent(1)">For several months past I have been more<lb/> upset than ever
+                because of the unpleasant ex<lb/>perience which I had through
+                    <persName>Ettinger</persName>. The order<lb/> of these sad events through which
+                I am delayed<lb/> in completing my work, or to undertake any-<lb/>thing new, so as
+                to be able to support myself upset<lb/> and bewilder me. “A man is born for
+                trouble”.*<lb/> But not for this kind of trouble. I deal with<lb/> general and
+                Jewish books and stationary, but<lb/> the <add>blank</add> have forsaken me.</p>
+            <p rend="indent(1)">And now, dear friend, after long pain<lb/> and delay (for my prayer
+                has been heard) I am<lb/> almost finished with the work in Hebrew “Your
+                    Nati<add>?</add> me<lb/> Hagvei <add>?</add> Ha-Selang<add>?</add>” (My dove
+                from the nests of the Rock)<lb/> Cantides 214<lb/> Now, I beg of you to let me know
+                whether I ought<lb/> to let it be copied for me in square letters, that<lb/> would
+                cost too much. Rashi script would cost less<lb/> It were even better if you or
+                someone else over</p>
+            <p rend="indent(10)">*From <persName>Job</persName></p>
+            <p>* This first sentence is in</p>
+            <p>Hebrew. This is the best I</p>
+            <p>can do with it.<lb/>
+                <persName>S. G.</persName></p>
+            <pb n="2"/>
+            <p>there could read my writing. The cost is the most<lb/> important consideration for me
+                at present.<lb/> That is why I expect to go there next week in<lb/> order to talk
+                the matter over personally. It is<lb/> possible to say things verbally which cannot
+                be<lb/> said in writing.</p>
+            <p rend="indent(1)">Also, please let me know who is <persName>Jacob<lb/>
+                    Friedman</persName>. He says that he knows me. I,<lb/> however cannot recall
+                him. Could he pos-<lb/>sibly be from <placeName>Hamburg</placeName>? Also let
+                me<lb/> know whether he can be trusted with holiday<lb/> prayer-books. Expecting
+                your immediate<lb/> reply,</p>
+            <p rend="indent(1)">Your friend,</p>
+            <p rend="indent(2)">
+                <persName role="author">Jonah Bondi</persName>
+            </p>
+            <p rend="indent(1)"><placeName>Office 429 Broadway</placeName>.</p>
+        </body>
+    </text>
 </TEI>

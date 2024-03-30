@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE TEI [
-<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
-%teibase;
-<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
-%teiext;
-]>
-<TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 	<teiHeader>
+
 		<fileDesc>
 			<titleStmt>
 				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="yes">Rehine, Zalma</author>
+				<author accepted="yes" attested="yes" signature="yes">Rehine, Zalma</author>
 				<editor/>
 				<sponsor/>
 				<funder/>
@@ -54,7 +49,8 @@
 						<settlement>Philadelphia</settlement>
 						<institution/>
 						<repository>LSKAP</repository>
-						<collection>The Arnold and Deanne Kaplan Collection of Early American Judaica</collection>
+						<collection>The Arnold and Deanne Kaplan Collection of Early American
+							Judaica</collection>
 						<idno>LSKAP0077_1</idno>
 						<altIdentifier>
 							<idno/>
@@ -63,8 +59,8 @@
 					</msIdentifier>
 					<head/>
 					<letHeading>
-						<author attested="yes" accepted="yes" signature="yes">Rehine, Zalma</author>
-						<addressee editor="false" attested="yes" accepted="yes">Leeser,
+						<author accepted="yes" attested="yes" signature="yes">Rehine, Zalma</author>
+						<addressee accepted="yes" attested="yes" editor="false">Leeser,
 							Isaac</addressee>
 						<deliverer/>
 						<respStmt>
@@ -73,7 +69,7 @@
 						</respStmt>
 						<placeLet>Baltimore, MD</placeLet>
 						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1835-11" source="" attested="yes">November 13, 1835</dateLet>
+						<dateLet attested="yes" source="" when="1835-11">November 13, 1835</dateLet>
 					</letHeading>
 					<msContents>
 						<msItem>
@@ -99,8 +95,8 @@
 						<objectDesc>
 							<supportDesc>
 								<support>
-									<material color="" lined="unk" paper_type="" size="">letter</material>letter
-								</support>
+									<material color="" lined="unk" paper_type="" size=""
+										>letter</material>letter </support>
 								<extent>4 pages on 2 sheets <dimensions/>
 								</extent>
 								<foliation/>
@@ -242,28 +238,29 @@
 	<text>
 		<body>
 			<pb n="1R"/>
-			<p rend="indent(7)"><placeName>Baltimore</placeName>
-				<date>Novr 13th 1835</date></p>
+			<p rend="indent(7)">
+				<placeName>Baltimore</placeName>
+				<date>Novr 13th 1835</date>
+			</p>
 			<p>Dear <addressee>Isaac</addressee></p>
 			<p rend="indent(1)">As usual had nothing new to write I<lb/> did not answer your letters
-				nor have I<lb/> at present any thing interesting to say&#44;<lb/> but not having
-				wrote to you for a long<lb/> time I think you will <sic>lick</sic> to hear from<lb/>
-				me&#44; well you friend <persName>Mr Solis</persName> will have<lb/> told you we
-				were all well and that we<lb/> have done all in our power to make his<lb/> stay with
-				us as agreeable to him as<lb/> &#59;<sic>ossible</sic> we all were pleased with
-				him&#44;<lb/> in <sic>regaurd</sic> the wedding I say you acted<lb/> as if I should
-				have done my self&#44; nor<lb/> would I care if the <persName>Ettings</persName> and
-				the whole<lb/>
-				<add>Hebrew</add> were dissatisfied<lb/>
-				<add>Hebrew</add> ought not to have<lb/> performed&#44; he should have known that
+				nor have I<lb/> at present any thing interesting to say,<lb/> but not having wrote
+				to you for a long<lb/> time I think you will <sic>lick</sic> to hear from<lb/> me,
+				well you friend <persName>Mr Solis</persName> will have<lb/> told you we were all
+				well and that we<lb/> have done all in our power to make his<lb/> stay with us as
+				agreeable to him as<lb/> ;<sic>ossible</sic> we all were pleased with him,<lb/> in
+					<sic>regaurd</sic> the wedding I say you acted<lb/> as if I should have done my
+				self, nor<lb/> would I care if the <persName>Ettings</persName> and the whole<lb/>
+				<add>משפחה</add> were dissatisfied<lb/>
+				<add>רבי מארדכי</add> ought not to have<lb/> performed, he should have known that
 				to<lb/> take from you the performing was done<lb/> out of spite and on no other
 				acct. you<lb/> acted very right not to take any fee from<lb/>
-				<persName>Marx</persName>&#44; I hope your Congregation will<lb/> acknowledge you
-				acted right in all the proceeding&#44; <sic>buring</sic> and wedding&#44; your<lb/>
-				discourses are very good <persName>Philip Cohen</persName><lb/> has been reading one
-				of them is much<lb/> pleased with it I shall send them to<lb/> you soon&#44; we had
-				yesterday the.....<lb/> bration at Least good very gential<lb/> people attended all
-				very <sic>Quite</sic> we are<lb/> all thank God very well and all send
+				<persName>Marx</persName>, I hope your Congregation will<lb/> acknowledge you acted
+				right in all the proceeding, <sic>buring</sic> and wedding, your<lb/> discourses are
+				very good <persName>Philip Cohen</persName><lb/> has been reading one of them is
+				much<lb/> pleased with it I shall send them to<lb/> you soon, we had yesterday
+				the.....<lb/> bration at Least good very gential<lb/> people attended all very
+					<sic>Quite</sic> we are<lb/> all thank God very well and all send
 					<sic>there</sic><lb/> love to you and remember us to all our</p>
 			<pb n="1V"/>
 			<p><sic>freinds</sic> tell <persName>Mrs Joseph</persName> she must let us<lb/> know
@@ -272,7 +269,9 @@
 				send me your last <sic>discours</sic></p>
 			<p rend="indent(2)">The revd <addressee>Isaac Leeser</addressee></p>
 			<p rend="indent(2)">No 86 Walnut Street</p>
-			<p rend="indent(2)"><placeName>Philadelphia</placeName></p>
+			<p rend="indent(2)">
+				<placeName>Philadelphia</placeName>
+			</p>
 			<p rend="indent(4)">single</p>
 		</body>
 	</text>

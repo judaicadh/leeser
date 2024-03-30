@@ -1,262 +1,366 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="yes">Kursheedt, Gershom</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>CAJS Isaac Leeser Collection</repository>
-						<collection>The Library of the Dropsie College for Hebrew and Cognate Learning</collection>
-						<idno>LSDCBx9FF18a_8</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="yes">Kursheedt, Gershom</author>
-						<addressee editor="false" attested="yes" accepted="yes"></addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>New Orleans, LA</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1849-01" source="" attested="yes">1 January 1849</dateLet>
-						<dateLet when="1849-01" source="" attested="yes">5609</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="ilcajs_b9f18a_0008_1r.jpg"/>
-								<graphic url="ilcajs_b9f18a_0008_1v.jpg"/>
-								<graphic url="ilcajs_b9f18a_0008_2r.jpg"/>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="unk" paper_type="" size="Letter">letter</material>
-								</support>
-								<extent>4 pages on 2 sheets
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="manuscript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="free">
-								<p>Unrestricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1"/>
-				<p rend="align(right)"><placeName>New Orleans</placeName> <date>Jany 1. 5609</date>.</p>
-			<p rend="indent(1)">My revd &#38; dear friend</p>
-			<p rend="indent(4)">I have been waiting on <persName>Mr Touro</persName><lb/> or rather in hopes of receiving his orders&#44; to break the protrac<lb/>ted silence which has too long ruled between us.  And now<lb/> anticipating early cause for writing you again I still essay<lb/> to explain in part the reasons for my late neglect towards<lb/> you.  Heavy blows have been <sic>levelled</sic> at your humble<lb/> friend since this pleasure was lastly indulged in&#59; wrongs<lb/> have borne down in unmeasured strides &#38; at times my<lb/> very spirit has failed me.  But the Lord is merciful &#38; altho&#39;<lb/> my trials have been moulded into an ordinary casting&#44; yet an<lb/> eluding faith&#44; &#38; resignation to what is permitted in the<lb/> infinite wisdom of God&#44; have enabled me thus far to rise<lb/> superior to the machinations of the evil.</p>
-			<p rend="indent(1)">Presuming that you have heard of the<lb/> treachery of my late partner who has acted like the most<lb/> heartless <sic>vilain</sic> &#40;for I consider him beyond comparison<lb/> with anything that I have ever seen or heard or read of&#41; robbing<lb/> me of thousands&#44; most inhumanly too&#44; I hope that you<lb/> have made great allowances for the lack of exhibition<lb/> of that respect which had previously been my wont in<lb/> my intercourse with you.  Verily my good friend I have<lb/> suffered but thanks to the Supreme&#44; my national Jewish<lb/> feeling has held firm midst incessant whirlwinds &#38; storms<lb/> which&#44; each&#44; as they arise&#44; seemed to bring inevitable destruc<lb/>tion to my every hope in life.  You will doubtless excuse<lb/> this awkward introduction to a letter which was intended<lb/> to be altogether in a different strain&#44; but&#44; &#8220;from the fullness<lb/> of the heart the mouth speaketh&#8221; &#38; even now a great deal remains<lb/> to be done&#44; ere I can feel safe from the fowlers snare&#44; the accomplish<lb/>ment of which God in his mercy grant unto me&#8212;</p>
-			<pb n="2"/>
-				<p>With regard to congregational affairs I have little new<lb/> to state.  When I was about to write to you to procure<lb/> some of the inside furniture &#38;c I discovered that the<lb/> ceiling of the building was so defective as to be really<lb/> dangerous &#38; after some weeks lost in convincing<lb/> <persName>Mr Touro</persName> of this he acceded to my wish to have<lb/> it taken down.  For seven weeks past we have had<lb/> incessant rains &#38; therefore could not plaster.  The appear<lb/>ance of the cholera &#40;which I am happy to say is now in the<lb/> decline&#41; made workmen very scarce&#44; &#38; now I think we<lb/> can not consecrate the building before <date>March</date> or <date>April</date><lb/> I hope ere many days that <persName>Mr Touro</persName> will tell me<lb/> to order out what we require&#44; but he is dreadfully slow<lb/> &#38; the concern has cost him so much already that he<lb/> is perhaps to be excused for holding back&#44; particularly<lb/> as he gets no very low estimate of the cost of &#8220;<hi rend="underline">Sepharim</hi><lb/> <hi rend="underline">Bells</hi> &#38;c &#38;c from me.  Yet all will come right in time<lb/> and you must be patient as I have learned to be.</p>
-			<p rend="indent(1)">After frequent letters between <persName>M N Nathan</persName><lb/> &#38; myself I find that he has altered some parts<lb/> of the service at <placeName>St Thomas</placeName>&#44; nothing of great impor<lb/>tance&#44; &#38; that he desires more ecclesiastical power<lb/> than is generally allowed a Hazan.  I have finally<lb/> written him offering him &#36;1600 a year &#38; a house<lb/> equal to 8 or 900 more thus making his salary equiva<lb/>lent to 24 to 2500 a year.  I offer to yield certain privileges<lb/> &#38; if possible thus to compromise his demands regarding<lb/> the trifling innovations in the service.  The only point<lb/> that strikes me of any consequence is in his omitting<lb/> the repetition of the <hi rend="underline">Anudale</hi><add>&#63;</add>.  All his improvements<lb/> as to order regular <sic>attendence</sic>&#44; a choir &#38;c &#38;c I approve</p>
-			<p rend="indent(1)">By the bye I have at last succeeded in getting the organ<lb/> taken away from the church &#38; think I shall be able to keep</p>
-			<pb n="3"/>
-				<p>it out altogether&#44; in view of which <add>&#63;</add><lb/> making the consecration very plain.</p>
-			<p rend="indent(1)">The Right Reverent <persName>Rabbi <hi rend="underline">Carillion</hi></persName> is here<lb/> offering his services &#38; starting to <add>&#63;</add> his way<lb/> I think he will find however that he has<lb/> come across the wrong man in me.  I am<lb/> really afraid of this man&#39;s being at the head<lb/> of anything&#44; he seems to have given trouble where<lb/>ver he has gone what do you know or think<lb/> of him&#63; write me as I write you this&#44; in<lb/> confidence.</p>
-			<p rend="indent(1)">All my leisure time is devoted to the interests<lb/> of the congregation &#38; still they do not seem satisfied.<lb/>  So help me God if I err it is from too great a desire<lb/> to make everything right.  You can not imagine what<lb/> an incessant tax it is on me &#38; bothered as I have<lb/> been to death with my own troubles &#38; having the labor<lb/> of three men to perform in my paper I have been<lb/> at times almost crazy &#38; heartily sick of the whole<lb/> concern.  But please God I&#39;ll stick to it &#38; work it into shape<lb/> before I retire from office.</p>
-			<p rend="indent(1)">Now my good Sir I have fairly stolen the time<lb/> required to indite this &#38; it has been at the sacrifice of<lb/> attending to other <sic>judaic</sic> matters.  I wish we had a proper<lb/> minister here for I am bored to death with liberal minded<lb/> &#8220;Goyim&#8221; who want information &#38; which in fact I am scarcely<lb/> able to give them.  I have had to day to play the &#8220;<hi rend="underline">Roff</hi>&#8221; to <sic>jew</sic> &#38; gentile<lb/> &#38; what with weddings&#44; circumcisions&#44; funerals &#38;c I am ever<lb/> in the go.  Besides in an epidemic there are several poor of our<lb/> faith who depend on me.  I informed the Howard Association of this<lb/> fact &#38; stated frankly that I could only aid that society among those<lb/> taken with cholera in my immediate neighborhood.  Oh if I had<lb/> you here how I would bother you with one half of my duties</p>
-			<pb n="4"/>
-				<p><add>&#63;</add> fit <persName>Judge Womac</persName> of <placeName>Kentucky</placeName> is here<lb/> giving Lecture at the University &#38; wants me to give<lb/> him an explanation of all our laws.  I take<lb/> him to a wedding on <date>Wednesday</date> &#38; then I have to<lb/> edify him on the &#8220;Jurisprudence of the Jews&#8221;<lb/> what a business for a pen devil like myself<lb/> The worst of it is that every body here knows me<lb/> to be a Jew &#38; <sic>unfotunately</sic> I pass off for one of the<lb/> enlightened &#38; well read.  Every great man that comes<lb/> here by some means or other I am brought into contact<lb/> with &#38; invariably conversation turns to the nation.<lb/>  At all events my dear <persName>Leeser</persName> I strive to bring no disgrace<lb/> &#38; always state that I speak for myself &#38; not for the Nation<lb/> that I am very ignorant &#38; rusty formal <add>&#63;</add> from<lb/> a congregation since my 18th year.  Almost every scientific<lb/> man who comes here brings letters to me from some friend or<lb/> acquaintance who kindly volunteers to make me know&#44; but<lb/> if they knew him I try to keep quietly in my <hi rend="underline">sanctum</hi><lb/> &#38; do my day&#39;s &#38; night&#39;s work they would probably hesitate.</p>
-			<p rend="indent(1)">But this is an abominably egotistical letter &#38; yet it is<lb/> just such a <add>&#63;</add>ear I would naturally write to one whom I<lb/> know as I do you&#44; all I can say is write me in the same way<lb/> &#38; then we will be even.</p>
-			<p rend="indent(1)">Will you give my fondest love to my dear little Aunt when<lb/> you see her.  Tell her her good husband always calls for me at night<lb/> on his way home &#38; I see him constantly through the day.  He is well<lb/> &#38; will be with me ere long.  I have taken advantage of a holiday to write<lb/> you although I have been interrupted twenty times since beginning this.  My<lb/> family are always anxious to hear of your good health &#38; no less so is<lb/> your devoted although lately unheard from friend</p>
-				<p><persName role="author">Gershom K</persName></p>
-				<p rend="The following is written sideways down the left side of the page."></p>
-				<p><add>&#63;</add>ink this is very handsomely written for me&#8212;can you do as well&#63;</p>
-				<p><add>&#63;</add> no visits to day excepting to widows &#38; orphans.  No fashionable heartless calls &#38; I had no sweetheart to kiss on the occasion.</p>
-		</body>
-	</text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="yes">Kursheedt, Gershom</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS Isaac Leeser Collection</repository>
+                        <collection>The Library of the Dropsie College for Hebrew and Cognate
+                            Learning</collection>
+                        <idno>LSDCBx9FF18a_8</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="yes">Kursheedt,
+                            Gershom</author>
+                        <addressee accepted="yes" attested="yes" editor="false"/>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>New Orleans, LA</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1849-01">1 January 1849</dateLet>
+                        <dateLet attested="yes" source="" when="1849-01">5609</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="ilcajs_b9f18a_0008_1r.jpg"/>
+                                <graphic url="ilcajs_b9f18a_0008_1v.jpg"/>
+                                <graphic url="ilcajs_b9f18a_0008_2r.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="unk" paper_type="" size="Letter"
+                                        >letter</material>
+                                </support>
+                                <extent>4 pages on 2 sheets <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <p rend="align(right)"><placeName>New Orleans</placeName>
+                <date>Jany 1. 5609</date>.</p>
+            <p rend="indent(1)">My revd &amp; dear friend</p>
+            <p rend="indent(4)">I have been waiting on <persName>Mr Touro</persName><lb/> or rather
+                in hopes of receiving his orders, to break the protrac<lb/>ted silence which has too
+                long ruled between us. And now<lb/> anticipating early cause for writing you again I
+                still essay<lb/> to explain in part the reasons for my late neglect towards<lb/>
+                you. Heavy blows have been <sic>levelled</sic> at your humble<lb/> friend since this
+                pleasure was lastly indulged in; wrongs<lb/> have borne down in unmeasured strides
+                &amp; at times my<lb/> very spirit has failed me. But the Lord is merciful &amp;
+                altho'<lb/> my trials have been moulded into an ordinary casting, yet an<lb/>
+                eluding faith, &amp; resignation to what is permitted in the<lb/> infinite wisdom of
+                God, have enabled me thus far to rise<lb/> superior to the machinations of the
+                evil.</p>
+            <p rend="indent(1)">Presuming that you have heard of the<lb/> treachery of my late
+                partner who has acted like the most<lb/> heartless <sic>vilain</sic> (for I consider
+                him beyond comparison<lb/> with anything that I have ever seen or heard or read of)
+                robbing<lb/> me of thousands, most inhumanly too, I hope that you<lb/> have made
+                great allowances for the lack of exhibition<lb/> of that respect which had
+                previously been my wont in<lb/> my intercourse with you. Verily my good friend I
+                have<lb/> suffered but thanks to the Supreme, my national Jewish<lb/> feeling has
+                held firm midst incessant whirlwinds &amp; storms<lb/> which, each, as they arise,
+                seemed to bring inevitable destruc<lb/>tion to my every hope in life. You will
+                doubtless excuse<lb/> this awkward introduction to a letter which was intended<lb/>
+                to be altogether in a different strain, but, “from the fullness<lb/> of the heart
+                the mouth speaketh” &amp; even now a great deal remains<lb/> to be done, ere I can
+                feel safe from the fowlers snare, the accomplish<lb/>ment of which God in his mercy
+                grant unto me—</p>
+            <pb n="2"/>
+            <p>With regard to congregational affairs I have little new<lb/> to state. When I was
+                about to write to you to procure<lb/> some of the inside furniture &amp;c I
+                discovered that the<lb/> ceiling of the building was so defective as to be
+                really<lb/> dangerous &amp; after some weeks lost in convincing<lb/>
+                <persName>Mr Touro</persName> of this he acceded to my wish to have<lb/> it taken
+                down. For seven weeks past we have had<lb/> incessant rains &amp; therefore could
+                not plaster. The appear<lb/>ance of the cholera (which I am happy to say is now in
+                the<lb/> decline) made workmen very scarce, &amp; now I think we<lb/> can not
+                consecrate the building before <date>March</date> or <date>April</date><lb/> I hope
+                ere many days that <persName>Mr Touro</persName> will tell me<lb/> to order out what
+                we require, but he is dreadfully slow<lb/> &amp; the concern has cost him so much
+                already that he<lb/> is perhaps to be excused for holding back, particularly<lb/> as
+                he gets no very low estimate of the cost of “<hi rend="underline">Sepharim</hi><lb/>
+                <hi rend="underline">Bells</hi> &amp;c &amp;c from me. Yet all will come right in
+                time<lb/> and you must be patient as I have learned to be.</p>
+            <p rend="indent(1)">After frequent letters between <persName>M N Nathan</persName><lb/>
+                &amp; myself I find that he has altered some parts<lb/> of the service at
+                    <placeName>St Thomas</placeName>, nothing of great impor<lb/>tance, &amp; that
+                he desires more ecclesiastical power<lb/> than is generally allowed a Hazan. I have
+                finally<lb/> written him offering him $1600 a year &amp; a house<lb/> equal to 8 or
+                900 more thus making his salary equiva<lb/>lent to 24 to 2500 a year. I offer to
+                yield certain privileges<lb/> &amp; if possible thus to compromise his demands
+                regarding<lb/> the trifling innovations in the service. The only point<lb/> that
+                strikes me of any consequence is in his omitting<lb/> the repetition of the <hi
+                    rend="underline">Anudale</hi><add>?</add>. All his improvements<lb/> as to order
+                regular <sic>attendence</sic>, a choir &amp;c &amp;c I approve</p>
+            <p rend="indent(1)">By the bye I have at last succeeded in getting the organ<lb/> taken
+                away from the church &amp; think I shall be able to keep</p>
+            <pb n="3"/>
+            <p>it out altogether, in view of which <add>?</add><lb/> making the consecration very
+                plain.</p>
+            <p rend="indent(1)">The Right Reverent <persName>Rabbi <hi rend="underline"
+                        >Carillion</hi></persName> is here<lb/> offering his services &amp; starting
+                to <add>?</add> his way<lb/> I think he will find however that he has<lb/> come
+                across the wrong man in me. I am<lb/> really afraid of this man's being at the
+                head<lb/> of anything, he seems to have given trouble where<lb/>ver he has gone what
+                do you know or think<lb/> of him? write me as I write you this, in<lb/>
+                confidence.</p>
+            <p rend="indent(1)">All my leisure time is devoted to the interests<lb/> of the
+                congregation &amp; still they do not seem satisfied.<lb/> So help me God if I err it
+                is from too great a desire<lb/> to make everything right. You can not imagine
+                what<lb/> an incessant tax it is on me &amp; bothered as I have<lb/> been to death
+                with my own troubles &amp; having the labor<lb/> of three men to perform in my paper
+                I have been<lb/> at times almost crazy &amp; heartily sick of the whole<lb/>
+                concern. But please God I'll stick to it &amp; work it into shape<lb/> before I
+                retire from office.</p>
+            <p rend="indent(1)">Now my good Sir I have fairly stolen the time<lb/> required to
+                indite this &amp; it has been at the sacrifice of<lb/> attending to other
+                    <sic>judaic</sic> matters. I wish we had a proper<lb/> minister here for I am
+                bored to death with liberal minded<lb/> “Goyim” who want information &amp; which in
+                fact I am scarcely<lb/> able to give them. I have had to day to play the “<hi
+                    rend="underline">Roff</hi>” to <sic>jew</sic> &amp; gentile<lb/> &amp; what with
+                weddings, circumcisions, funerals &amp;c I am ever<lb/> in the go. Besides in an
+                epidemic there are several poor of our<lb/> faith who depend on me. I informed the
+                Howard Association of this<lb/> fact &amp; stated frankly that I could only aid that
+                society among those<lb/> taken with cholera in my immediate neighborhood. Oh if I
+                had<lb/> you here how I would bother you with one half of my duties</p>
+            <pb n="4"/>
+            <p><add>?</add> fit <persName>Judge Womac</persName> of <placeName>Kentucky</placeName>
+                is here<lb/> giving Lecture at the University &amp; wants me to give<lb/> him an
+                explanation of all our laws. I take<lb/> him to a wedding on <date>Wednesday</date>
+                &amp; then I have to<lb/> edify him on the “Jurisprudence of the Jews”<lb/> what a
+                business for a pen devil like myself<lb/> The worst of it is that every body here
+                knows me<lb/> to be a Jew &amp; <sic>unfotunately</sic> I pass off for one of
+                the<lb/> enlightened &amp; well read. Every great man that comes<lb/> here by some
+                means or other I am brought into contact<lb/> with &amp; invariably conversation
+                turns to the nation.<lb/> At all events my dear <persName>Leeser</persName> I strive
+                to bring no disgrace<lb/> &amp; always state that I speak for myself &amp; not for
+                the Nation<lb/> that I am very ignorant &amp; rusty formal <add>?</add> from<lb/> a
+                congregation since my 18th year. Almost every scientific<lb/> man who comes here
+                brings letters to me from some friend or<lb/> acquaintance who kindly volunteers to
+                make me know, but<lb/> if they knew him I try to keep quietly in my <hi
+                    rend="underline">sanctum</hi><lb/> &amp; do my day's &amp; night's work they
+                would probably hesitate.</p>
+            <p rend="indent(1)">But this is an abominably egotistical letter &amp; yet it is<lb/>
+                just such a <add>?</add>ear I would naturally write to one whom I<lb/> know as I do
+                you, all I can say is write me in the same way<lb/> &amp; then we will be even.</p>
+            <p rend="indent(1)">Will you give my fondest love to my dear little Aunt when<lb/> you
+                see her. Tell her her good husband always calls for me at night<lb/> on his way home
+                &amp; I see him constantly through the day. He is well<lb/> &amp; will be with me
+                ere long. I have taken advantage of a holiday to write<lb/> you although I have been
+                interrupted twenty times since beginning this. My<lb/> family are always anxious to
+                hear of your good health &amp; no less so is<lb/> your devoted although lately
+                unheard from friend</p>
+            <p>
+                <persName role="author">Gershom K</persName>
+            </p>
+            <p rend="The following is written sideways down the left side of the page."/>
+            <p><add>?</add>ink this is very handsomely written for me—can you do as well?</p>
+            <p><add>?</add> no visits to day excepting to widows &amp; orphans. No fashionable
+                heartless calls &amp; I had no sweetheart to kiss on the occasion.</p>
+        </body>
+    </text>
 </TEI>

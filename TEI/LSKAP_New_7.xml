@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE TEI [
-<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
-%teibase;
-<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
-%teiext;
-]>
-<TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 	<teiHeader>
+
 		<fileDesc>
 			<titleStmt>
 				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="unk"/>
+				<author accepted="yes" attested="yes" signature="unk"/>
 				<editor/>
 				<sponsor/>
 				<funder/>
@@ -54,7 +49,8 @@
 						<settlement>Philadelphia</settlement>
 						<institution/>
 						<repository>LSKAP</repository>
-						<collection>The Arnold and Deanne Kaplan Collection of Early American Judaica</collection>
+						<collection>The Arnold and Deanne Kaplan Collection of Early American
+							Judaica</collection>
 						<idno>LSKAP_New_7</idno>
 						<altIdentifier>
 							<idno/>
@@ -63,8 +59,8 @@
 					</msIdentifier>
 					<head/>
 					<letHeading>
-						<author attested="yes" accepted="yes" signature="unk"/>
-						<addressee editor="false" attested="yes" accepted="yes"/>
+						<author accepted="yes" attested="yes" signature="unk"/>
+						<addressee accepted="yes" attested="yes" editor="false"/>
 						<deliverer/>
 						<respStmt>
 							<resp/>
@@ -72,7 +68,7 @@
 						</respStmt>
 						<placeLet>Boston, MA</placeLet>
 						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1848-01" source="" attested="yes">January 11, 1848</dateLet>
+						<dateLet attested="yes" source="" when="1848-01">January 11, 1848</dateLet>
 					</letHeading>
 					<msContents>
 						<msItem>
@@ -99,8 +95,8 @@
 						<objectDesc>
 							<supportDesc>
 								<support>
-									<material color="" lined="false" paper_type="" size="">miscellany</material>letter
-								</support>
+									<material color="" lined="false" paper_type="" size=""
+										>miscellany</material>letter </support>
 								<extent>2 pages on 1 sheet <dimensions/>
 								</extent>
 								<foliation/>
@@ -241,184 +237,174 @@
 	<text>
 		<body>
 			<p>own means its own purposes. For I would ask<lb/> where it is that those who use this
-				argument would<lb/> draw the line&#63; I have told you that in
+				argument would<lb/> draw the line? I have told you that in
 					<placeName>France</placeName> they<lb/> hold all offices to which Frenchmen are
-				admitted&#44;<lb/> and that more than one member of the Chambers<lb/> has been of
-				the Jewish persuasion. Even in this<lb/> country we have much relaxed the rigor of
-				our en&#45;<lb/>actments respecting them. A Jew has been a ma&#45;<lb/>gistrate&#44;
-				a Jew has been a sheriff. By a late statute&#44;<lb/> which was introduced by the
-				right hon. member for<lb/>
-				<placeName>Tamworth</placeName>&#44; Jews may hold offices in corporations&#44;<lb/>
-				and it was but the other day that a Jew was admit&#45;<lb/>ted to the office of
-				alderman in the corporation of the<lb/> city of <placeName>London</placeName>.
-				&#40;Hear&#44; hear.&#41; I ask you what<lb/> right or business have you to
-				interpret a prophecy so<lb/> as to draw the line between an alderman and a
-				com&#45;<lb/>missioner of customs&#8212;between a justice of the peace<lb/> and a
-				person having a right to sit in Parliament&#63;<lb/> &#40;Hear&#44; hear.&#41; What
-				enabled you or authorized you<lb/> to say where the line intended by the
-				prophecies<lb/> should be drawn&#44; and how can you take upon your&#45;<lb/>selves
-				to draw the limits of the line the Almighty<lb/> intended to mark out&#63;
-				&#40;Cheers.&#41; It would be&#44; in<lb/> respect to the Almighty being&#44; to</p>
-			<p rend="indent(1)"><quote>&#34;Strike from his hand the balance and the rod&#44;</quote></p>
-			<p rend="indent(1)"><quote>&#34;Rejudge his justice&#8212;be the God of God.&#34;</quote></p>
-			<p>I trust that no such presumption will fail to our lot&#8212;<lb/> that we shall do
-				that which we think our duty to our<lb/> fellow countrymen&#44; and the best for the
-				country ac&#45;<lb/>cording to our imperfect reason&#44; and rest in pious<lb/> but
-				humble confidence that the Almighty will accom&#45;<lb/>plish his purpose by means
-				best known to his wis&#45;<lb/>dom. &#40;Cheers.&#41; But&#44; Sir&#44; there is
-				that which I can<lb/> hardly call an argument&#44; but which operates more<lb/>
-				against those whose cause I have undertaken perhaps<lb/> than any other thing. There
-				is a popular prejudice<lb/> against the name of the Jew founded upon various<lb/>
-				circumstances to which I need not allude&#8212;founded<lb/> upon what I think a
-				mistaken view of Sacred Writ&#44;<lb/> and the dislike and distrust there is on the
-				part of<lb/> men of a different religion. But that popular preju&#45;<lb/>dice which
-				induced the Administration of <date>1753</date>&#44; after<lb/> passing an act for
-				the naturalization of the Jews&#44; to<lb/> come down in a hurry&#44; in the next
-				year&#44; for the pur&#45;<lb/>pose of repealing it&#44; has&#44; I believe&#44;
-				very greatly died<lb/> away &#40;hear&#44; hear&#44;&#41;&#8212;that it has subsided
-				in this me&#45;<lb/>tropolis I have with my own eyes a proof&#44; because a<lb/>
-				gentleman in the city of <placeName>London</placeName>&#44; well known in that<lb/>
-				city by his extensive transactions&#44; by his wealth&#44; his<lb/> charity and
-				liberality&#44; was elected for that city by<lb/> nearly 7&#44;000 votes at the last
-				general election.<lb/> &#40;Hear&#44; hear.&#41; I quote that as a proof that
-				this<lb/> house would not be safe in saying&#8212;&#34;Such is our<lb/> opinion&#59;
-				we are liberal&#59; we intend well to our Jew&#45;<lb/>ish fellow&#45;subjects&#44;
-				but there is such a prejudice<lb/> amongst the people against them that it would
-				not<lb/> be safe to legislate in their favor&#34; &#40;Hear&#44;
-				hear.&#41;&#8212;<lb/> I warn hon. gentlemen not to rely upon that feeling&#44;<lb/>
-				I believe that the people are to the full as enlight&#45;<lb/>ened as the members of
-				this house. &#40;Hear.&#41; I be&#45;<lb/>lieve that the general opinion&#44; and
-				the right and true<lb/> opinion&#44; as I conceive it to be&#44; is that religious
-				opin&#45;<lb/>ions ought not to bring with them any penalty or<lb/> punishment.
-				&#40;Hear&#44; hear.&#41; I believe that that is<lb/> the right and true
-				opinion&#44; overbearing any preju&#45;<lb/>dice that may have existed against the
-				Jews. &#40;Hear&#44;<lb/> hear.&#41; I have now&#44; sir&#44; stated to you the
-				reasons<lb/> why I think that the objections which have been<lb/> made against the
-				admission of the Jews are futile<lb/> and unfounded. If I am asked what are the
-				prevail&#45;<lb/>ing reasons for the motion that I propose&#44; I appeal in<lb/> the
-				first place to the constitution of these realms&#59; I<lb/> appeal to that
-				constitution which is intended to give<lb/> to every man those rewards&#44; that
-				honor&#44; that estima&#45;<lb/>tion to which his character and talents may
-				entitle<lb/> him. &#40;Hear&#44; hear.&#41; I appeal to that constitution<lb/> which
-				is the enemy of restriction or disqualification<lb/> &#40;hear&#41;&#59; to that
+				admitted,<lb/> and that more than one member of the Chambers<lb/> has been of the
+				Jewish persuasion. Even in this<lb/> country we have much relaxed the rigor of our
+				en-<lb/>actments respecting them. A Jew has been a ma-<lb/>gistrate, a Jew has been
+				a sheriff. By a late statute,<lb/> which was introduced by the right hon. member for<lb/>
+				<placeName>Tamworth</placeName>, Jews may hold offices in corporations,<lb/> and it
+				was but the other day that a Jew was admit-<lb/>ted to the office of alderman in the
+				corporation of the<lb/> city of <placeName>London</placeName>. (Hear, hear.) I ask
+				you what<lb/> right or business have you to interpret a prophecy so<lb/> as to draw
+				the line between an alderman and a com-<lb/>missioner of customs—between a justice
+				of the peace<lb/> and a person having a right to sit in Parliament?<lb/> (Hear,
+				hear.) What enabled you or authorized you<lb/> to say where the line intended by the
+				prophecies<lb/> should be drawn, and how can you take upon your-<lb/>selves to draw
+				the limits of the line the Almighty<lb/> intended to mark out? (Cheers.) It would
+				be, in<lb/> respect to the Almighty being, to</p>
+			<p rend="indent(1)">
+				<quote>"Strike from his hand the balance and the rod,</quote>
+			</p>
+			<p rend="indent(1)">
+				<quote>"Rejudge his justice—be the God of God."</quote>
+			</p>
+			<p>I trust that no such presumption will fail to our lot—<lb/> that we shall do that
+				which we think our duty to our<lb/> fellow countrymen, and the best for the country
+				ac-<lb/>cording to our imperfect reason, and rest in pious<lb/> but humble
+				confidence that the Almighty will accom-<lb/>plish his purpose by means best known
+				to his wis-<lb/>dom. (Cheers.) But, Sir, there is that which I can<lb/> hardly call
+				an argument, but which operates more<lb/> against those whose cause I have
+				undertaken perhaps<lb/> than any other thing. There is a popular prejudice<lb/>
+				against the name of the Jew founded upon various<lb/> circumstances to which I need
+				not allude—founded<lb/> upon what I think a mistaken view of Sacred Writ,<lb/> and
+				the dislike and distrust there is on the part of<lb/> men of a different religion.
+				But that popular preju-<lb/>dice which induced the Administration of
+					<date>1753</date>, after<lb/> passing an act for the naturalization of the Jews,
+				to<lb/> come down in a hurry, in the next year, for the pur-<lb/>pose of repealing
+				it, has, I believe, very greatly died<lb/> away (hear, hear,)—that it has subsided
+				in this me-<lb/>tropolis I have with my own eyes a proof, because a<lb/> gentleman
+				in the city of <placeName>London</placeName>, well known in that<lb/> city by his
+				extensive transactions, by his wealth, his<lb/> charity and liberality, was elected
+				for that city by<lb/> nearly 7,000 votes at the last general election.<lb/> (Hear,
+				hear.) I quote that as a proof that this<lb/> house would not be safe in
+				saying—"Such is our<lb/> opinion; we are liberal; we intend well to our Jew-<lb/>ish
+				fellow-subjects, but there is such a prejudice<lb/> amongst the people against them
+				that it would not<lb/> be safe to legislate in their favor" (Hear, hear.)—<lb/> I
+				warn hon. gentlemen not to rely upon that feeling,<lb/> I believe that the people
+				are to the full as enlight-<lb/>ened as the members of this house. (Hear.) I
+				be-<lb/>lieve that the general opinion, and the right and true<lb/> opinion, as I
+				conceive it to be, is that religious opin-<lb/>ions ought not to bring with them any
+				penalty or<lb/> punishment. (Hear, hear.) I believe that that is<lb/> the right and
+				true opinion, overbearing any preju-<lb/>dice that may have existed against the
+				Jews. (Hear,<lb/> hear.) I have now, sir, stated to you the reasons<lb/> why I think
+				that the objections which have been<lb/> made against the admission of the Jews are
+				futile<lb/> and unfounded. If I am asked what are the prevail-<lb/>ing reasons for
+				the motion that I propose, I appeal in<lb/> the first place to the constitution of
+				these realms; I<lb/> appeal to that constitution which is intended to give<lb/> to
+				every man those rewards, that honor, that estima-<lb/>tion to which his character
+				and talents may entitle<lb/> him. (Hear, hear.) I appeal to that constitution<lb/>
+				which is the enemy of restriction or disqualification<lb/> (hear); to that
 				constitution which by the abrogation<lb/> of the laws existing a few years ago has
-				put an end<lb/> even to those cases of exception which our ancestors<lb/>
-				thought&#44; upon the ground of imminent danger to the<lb/> state and church&#44;
-				they were justified in imposing. I<lb/> ask you in the name of that constitution to
-				take<lb/> away this last remnant of religious persecution&#44;<lb/> to show that you
-				are not influenced by the num&#45;<lb/>bers or terrors that might make that which
-				was an<lb/> act of political justice an act of political necessity.<lb/>
-				&#40;Cheers.&#41; I ask you in the name of that constitution<lb/> to admit the Jews
-				to all the privileges&#44; to all the rights&#44;<lb/> of which those who are not
-				excluded from them are<lb/> so justly proud &#40;cheers&#41;&#59; and&#44; let me
-				tell you&#44;<lb/> that you cannot judge of the feelings of those who<lb/> are
-				excluded by the number of those who might wish<lb/> for seats in Parliament&#44; or
+				put an end<lb/> even to those cases of exception which our ancestors<lb/> thought,
+				upon the ground of imminent danger to the<lb/> state and church, they were justified
+				in imposing. I<lb/> ask you in the name of that constitution to take<lb/> away this
+				last remnant of religious persecution,<lb/> to show that you are not influenced by
+				the num-<lb/>bers or terrors that might make that which was an<lb/> act of political
+				justice an act of political necessity.<lb/> (Cheers.) I ask you in the name of that
+				constitution<lb/> to admit the Jews to all the privileges, to all the rights,<lb/>
+				of which those who are not excluded from them are<lb/> so justly proud (cheers);
+				and, let me tell you,<lb/> that you cannot judge of the feelings of those who<lb/>
+				are excluded by the number of those who might wish<lb/> for seats in Parliament, or
 				who might aspire to hold<lb/> office under the Crown. Many a man who would<lb/> not
-				seek for either&#44; would be content to pass his days<lb/> in obscurity&#44; and
-				would wish for no other advanta&#45;<lb/>ges than those of private life&#59; but he
-				feels the galling<lb/> degradation&#44; the brand that is imposed upon him&#44;
-				when<lb/> he is told that men of all other classes&#44; men of the
-				es&#45;<lb/>tablished church&#44; Protestant Dissenters and Roman<lb/>
-				Catholics&#44; may all enter within these walls&#44; may all<lb/> enjoy those
-				advantages&#44; but that he belongs to a sect<lb/> which by the law and constitution
-				is proscribed and<lb/> degraded. &#40;Cheers.&#41; But I would make a still<lb/>
-				higher appeal. I would make an appeal to the prin&#45;<lb/>ciples of that
-				Christianity which has so long been<lb/> the law of the land. &#40;Cheers.&#41; I
-				appeal to you&#44;<lb/> then&#44; in the name of that religion which is a
-				religion<lb/> of charity and love&#44; &#34;to do unto others as you would<lb/> they
-				should do unto you.&#34; &#40;Cheers.&#41; I ask you<lb/> why it is&#44; that when
-				we are taught by examples and<lb/> parables that we ought to love our neighbors&#44;
-				it is<lb/> not priests or Levites who are singled out as instan&#45;<lb/>ces for our
-				approbation and admiration&#59; but it is one<lb/> of a proscribed sect&#8212;one
-				who belonged to what was<lb/> then the refuge of all nations&#63; I ask why it is
-				that we<lb/> are taught that all men are brothers&#8212;that there is no<lb/> part
-				of the human race&#44; however divided from us by<lb/> feelings or color&#44; that
-				ought to be separated from us&#63;<lb/> but that all belong to the family of
-				man&#44; and ought<lb/> to be loved as brothers. &#40;Cheers.&#41; I ask
-				you&#44;<lb/> therefore&#44; in the name of that constitution which is<lb/> the
-				constitution of freedom&#44; of liberty&#44; and of justice<lb/>&#8212;I ask you in
-				the name of that religion which is<lb/> the religion of peace and good will towards
-				men&#8212;to<lb/> agree to the motion which I have the honor to make.<lb/> The noble
-				lord then moved &#34;that the house should<lb/> resolve itself into a committee on
-				the removal of the<lb/> civil and political disabilities affecting Her
-				Majesty&#39;s<lb/> Jewish subjects&#44;&#34; and resumed his seat amidst loud<lb/>
+				seek for either, would be content to pass his days<lb/> in obscurity, and would wish
+				for no other advanta-<lb/>ges than those of private life; but he feels the
+				galling<lb/> degradation, the brand that is imposed upon him, when<lb/> he is told
+				that men of all other classes, men of the es-<lb/>tablished church, Protestant
+				Dissenters and Roman<lb/> Catholics, may all enter within these walls, may all<lb/>
+				enjoy those advantages, but that he belongs to a sect<lb/> which by the law and
+				constitution is proscribed and<lb/> degraded. (Cheers.) But I would make a
+				still<lb/> higher appeal. I would make an appeal to the prin-<lb/>ciples of that
+				Christianity which has so long been<lb/> the law of the land. (Cheers.) I appeal to
+				you,<lb/> then, in the name of that religion which is a religion<lb/> of charity and
+				love, "to do unto others as you would<lb/> they should do unto you." (Cheers.) I ask
+				you<lb/> why it is, that when we are taught by examples and<lb/> parables that we
+				ought to love our neighbors, it is<lb/> not priests or Levites who are singled out
+				as instan-<lb/>ces for our approbation and admiration; but it is one<lb/> of a
+				proscribed sect—one who belonged to what was<lb/> then the refuge of all nations? I
+				ask why it is that we<lb/> are taught that all men are brothers—that there is
+				no<lb/> part of the human race, however divided from us by<lb/> feelings or color,
+				that ought to be separated from us?<lb/> but that all belong to the family of man,
+				and ought<lb/> to be loved as brothers. (Cheers.) I ask you,<lb/> therefore, in the
+				name of that constitution which is<lb/> the constitution of freedom, of liberty, and
+				of justice<lb/>—I ask you in the name of that religion which is<lb/> the religion of
+				peace and good will towards men—to<lb/> agree to the motion which I have the honor
+				to make.<lb/> The noble lord then moved "that the house should<lb/> resolve itself
+				into a committee on the removal of the<lb/> civil and political disabilities
+				affecting Her Majesty's<lb/> Jewish subjects," and resumed his seat amidst loud<lb/>
 				and continued cheers.</p>
-			<p rend="indent(1)">A debate ensued in which several members took<lb/> part&#44; and it was adjourned
-				over to the following day.</p>
-			<p rend="indent(1)"><persName>SIR ROBERT INGLIS</persName>&#44; in reply to <persName>Lord John<lb/>
-					Russell</persName> said that the question was not one between<lb/> Christians
-				and Jews&#44; but between Christians and<lb/> non&#45;Christians. Now&#44;
+			<p rend="indent(1)">A debate ensued in which several members took<lb/> part, and it was
+				adjourned over to the following day.</p>
+			<p rend="indent(1)"><persName>SIR ROBERT INGLIS</persName>, in reply to <persName>Lord
+					John<lb/> Russell</persName> said that the question was not one between<lb/>
+				Christians and Jews, but between Christians and<lb/> non-Christians. Now,
 					<placeName>England</placeName> for years past had<lb/> not only had a
-				constitution&#44; but also a Christian con&#45;<lb/>stitution&#44; and he defied
-					<persName>Lord J. Russell</persName> to produce a<lb/> single instance in which
-				the oath of office had not<lb/> always been taken upon some Christian symbol.
-				It<lb/> might be true that <persName>David Hume</persName> and <persName>Edward
-					Gibbon</persName><lb/> as infidels would not have scrupled to take at the<lb/>
-				table the declaration now required by law&#59; but was<lb/> that a sufficient
-				argument for blotting out of our stat&#45;<lb/>ute book a solemn declaration that
-				our first duty as<lb/> legislators was to discharge our duties as Christian<lb/>
-				men&#63; A Jew could not listen to our form of pray&#45;<lb/>er&#44; in which we
-				called upon <persName>Christ</persName> to have mercy<lb/> upon us&#44; without
-				either committing an awful blas&#45;<lb/>phemy&#44; or going through a deliberate
-				mockery of<lb/> religion.</p>
-			<p rend="indent(1)">He would not withhold these concessions from the<lb/> Jews on account of the
-				smallness of their numbers<lb/> if he could believe them just&#59; but as he did
-				not<lb/> think them so&#44; he thought he had a right to ask<lb/> whether it was
-				either right or expedient to make<lb/> them to 20&#44;000 or 30&#44;000 or
-				40&#44;000 persons at the<lb/> risk of exasperating 3&#44;000&#44;000 or
-				4&#44;000&#44;000. He<lb/> had called the last bill introduced on this subject
-				a<lb/> bill to enable <persName>Mr. Solamons</persName> to become an alderman<lb/>
-				of <placeName>London</placeName>&#44; and he called this bill a bill to enable the<lb/>
-				<persName>Baron L. de Rothschild</persName> to become a member of
-				Par&#45;<lb/>liament. He then proceeded to show that the Jews<lb/> were a separate
-				nation&#44; with a separate creed&#44; and<lb/> for that purpose read a letter from
-				a Jewish rabbi&#44;</p>
+				constitution, but also a Christian con-<lb/>stitution, and he defied <persName>Lord
+					J. Russell</persName> to produce a<lb/> single instance in which the oath of
+				office had not<lb/> always been taken upon some Christian symbol. It<lb/> might be
+				true that <persName>David Hume</persName> and <persName>Edward
+				Gibbon</persName><lb/> as infidels would not have scrupled to take at the<lb/> table
+				the declaration now required by law; but was<lb/> that a sufficient argument for
+				blotting out of our stat-<lb/>ute book a solemn declaration that our first duty
+				as<lb/> legislators was to discharge our duties as Christian<lb/> men? A Jew could
+				not listen to our form of pray-<lb/>er, in which we called upon
+					<persName>Christ</persName> to have mercy<lb/> upon us, without either
+				committing an awful blas-<lb/>phemy, or going through a deliberate mockery of<lb/>
+				religion.</p>
+			<p rend="indent(1)">He would not withhold these concessions from the<lb/> Jews on
+				account of the smallness of their numbers<lb/> if he could believe them just; but as
+				he did not<lb/> think them so, he thought he had a right to ask<lb/> whether it was
+				either right or expedient to make<lb/> them to 20,000 or 30,000 or 40,000 persons at
+				the<lb/> risk of exasperating 3,000,000 or 4,000,000. He<lb/> had called the last
+				bill introduced on this subject a<lb/> bill to enable <persName>Mr.
+					Solamons</persName> to become an alderman<lb/> of <placeName>London</placeName>,
+				and he called this bill a bill to enable the<lb/>
+				<persName>Baron L. de Rothschild</persName> to become a member of Par-<lb/>liament.
+				He then proceeded to show that the Jews<lb/> were a separate nation, with a separate
+				creed, and<lb/> for that purpose read a letter from a Jewish rabbi,</p>
 			<pb n="2"/>
 			<p>and an extract from the speech of <persName>John Duke</persName> of<lb/>
 				<placeName>Bedford</placeName> against the Jew Bill of <date>1753</date>. He
 				called<lb/> upon the House by every consideration of interest<lb/> and duty to pause
-				before it changed the Christian<lb/> constitution of the Legislature&#44; and before
-				it haz&#45;<lb/>arded the confidence of the people in the Christian<lb/>
-				institutions of the empire.</p>
-			<p rend="indent(1)"><persName>Lord ASHLEY</persName> also opposed the motion. He con&#45;<lb/>tended that
-				religion had a great deal to do with poli&#45;<lb/>tics&#8212;that the House knew
-				that fact&#8212;and that it<lb/> proved it by every one of its daily actions.
+				before it changed the Christian<lb/> constitution of the Legislature, and before it
+				haz-<lb/>arded the confidence of the people in the Christian<lb/> institutions of
+				the empire.</p>
+			<p rend="indent(1)"><persName>Lord ASHLEY</persName> also opposed the motion. He
+				con-<lb/>tended that religion had a great deal to do with poli-<lb/>tics—that the
+				House knew that fact—and that it<lb/> proved it by every one of its daily actions.
 					<persName>Mr.<lb/> Macaulay</persName> in an elaborate essay had declared
-				that<lb/> Government by its <sic>essantial</sic> character was interdict&#45;<lb/>ed
-				from contemplating and accomplishing Christian<lb/> ends&#59; but he well
-				recollected that that distinguished<lb/> writer had in another speech declared that
-				&#34;every&#45;<lb/>thing which lowered Christianity in <sic>pablic</sic>
-				estima&#45;<lb/>tion was high treason against the civilization of
-				man&#45;<lb/>kind.&#34; He then controverted <persName>Mr. Macaulay&#39;s</persName>
-				doc&#45;<lb/>trine&#44; that to talk of Christian government was as<lb/> absurd as
-				to talk of Christian cookery or of Christian<lb/> cobblery&#44; and passed a heavy
-				censure upon him for<lb/> having confounded for the sake of witticism the<lb/>
-				lowest operations of the mind with the operation of<lb/> the highest influences of
-				the soul. It was true that<lb/>
+				that<lb/> Government by its <sic>essantial</sic> character was interdict-<lb/>ed
+				from contemplating and accomplishing Christian<lb/> ends; but he well recollected
+				that that distinguished<lb/> writer had in another speech declared that
+				"every-<lb/>thing which lowered Christianity in <sic>pablic</sic> estima-<lb/>tion
+				was high treason against the civilization of man-<lb/>kind." He then controverted
+					<persName>Mr. Macaulay's</persName> doc-<lb/>trine, that to talk of Christian
+				government was as<lb/> absurd as to talk of Christian cookery or of Christian<lb/>
+				cobblery, and passed a heavy censure upon him for<lb/> having confounded for the
+				sake of witticism the<lb/> lowest operations of the mind with the operation of<lb/>
+				the highest influences of the soul. It was true that<lb/>
 				<persName>Gibbon</persName> and <persName>Hume</persName> might as infidels have sat
-				in that<lb/> House&#59; but they could only have done so by pro&#45;<lb/>fessing
-				that in their opinion Christianity was part<lb/> and parcel of the law of the
-				land.</p>
-			<p rend="indent(1)">The House was now called upon to break down<lb/> all the barriers which prevented the
-				Jews from sit&#45;<lb/>ting in Parliament. No advantage would be gained<lb/> by such
-				an enactment&#8212;no compensation would be af&#45;<lb/>forded for the great shock
-				which it would occasion to<lb/> thousands of honest and conscientious Christians.<lb/>
+				in that<lb/> House; but they could only have done so by pro-<lb/>fessing that in
+				their opinion Christianity was part<lb/> and parcel of the law of the land.</p>
+			<p rend="indent(1)">The House was now called upon to break down<lb/> all the barriers
+				which prevented the Jews from sit-<lb/>ting in Parliament. No advantage would be
+				gained<lb/> by such an enactment—no compensation would be af-<lb/>forded for the
+				great shock which it would occasion to<lb/> thousands of honest and conscientious Christians.<lb/>
 				<persName>Lord John Russell</persName> rested his case upon justice.<lb/>
-				<persName>Dr. Arnold</persName>&#8212;whose words he quoted&#8212;denied that<lb/>
-				the Jews had any claim to emancipation on that<lb/> ground&#44; and his Lordship had
-				not ventured to say a<lb/> word in refutation of that denial. The present was<lb/>
-				altogether a question of principle&#8212;it was a legisla&#45;<lb/>tive declaration
-				that for all the purposes of public<lb/> government&#44; of making laws&#44; and of
-				administering<lb/> public affairs&#44; Christianity was altogether needless.<lb/> To
-				such a doctrine he could not assent even for a<lb/> single hour. If the Jews had
-				been already in Parli&#45;<lb/>ament&#44; he would not have proposed to turn them
-				out&#44;<lb/> but it was a widely different question to propose to<lb/> bring them
-				in and to repeal for their introduction an<lb/> oath which was a declaration of
-				Christianity on the<lb/> part of the Legislature. In saying this&#44; he
-				disclaimed<lb/> any antipathy to the Jews&#44; and gave a glowing
-				des&#45;<lb/>cription of the knowledge&#44; intelligence&#44; literature&#44;<lb/>
-				and perseverance of the Jews of the present age&#44;<lb/> both in this country and
-				other countries of <placeName>Europe</placeName>.</p>
+				<persName>Dr. Arnold</persName>—whose words he quoted—denied that<lb/> the Jews had
+				any claim to emancipation on that<lb/> ground, and his Lordship had not ventured to
+				say a<lb/> word in refutation of that denial. The present was<lb/> altogether a
+				question of principle—it was a legisla-<lb/>tive declaration that for all the
+				purposes of public<lb/> government, of making laws, and of administering<lb/> public
+				affairs, Christianity was altogether needless.<lb/> To such a doctrine he could not
+				assent even for a<lb/> single hour. If the Jews had been already in
+				Parli-<lb/>ament, he would not have proposed to turn them out,<lb/> but it was a
+				widely different question to propose to<lb/> bring them in and to repeal for their
+				introduction an<lb/> oath which was a declaration of Christianity on the<lb/> part
+				of the Legislature. In saying this, he disclaimed<lb/> any antipathy to the Jews,
+				and gave a glowing des-<lb/>cription of the knowledge, intelligence,
+				literature,<lb/> and perseverance of the Jews of the present age,<lb/> both in this
+				country and other countries of <placeName>Europe</placeName>.</p>
 		</body>
 	</text>
 </TEI>

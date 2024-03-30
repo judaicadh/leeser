@@ -1,269 +1,318 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE TEI [
-<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
-%teibase;
-<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
-%teiext;
-]>
-<TEI>
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="yes">Cohen, Joshua I.</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>LSKAP</repository>
-						<collection>The Arnold and Deanne Kaplan Collection of Early American Judaica</collection>
-						<idno>LSKAP20-748</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="yes">Cohen, Joshua I.</author>
-						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac</addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>Baltimore, MD</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1848-08" source="" attested="yes">August 2, 1848</dateLet>
-						<dateLet when="1848-08" source="" attested="yes">5608</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="leeser_20_748_001.jpg"></graphic>
-								<graphic url="leeser_20_748_002.jpg"></graphic>
-								<graphic url="leeser_20_748_003.jpg"></graphic>
-								<graphic url="leeser_20_748_004.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="false" paper_type="" size="">letter</material>
-								</support>
-								<extent>3 pages on 1 sheet
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="manuscript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="restricted">
-								<p>Restricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-				<language ident="he">Hebrew</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1R"/>
-				<p rend="align(right)"><placeName>Balt<hi rend="sup">o</hi>.</placeName> <date>Aug. 2d. 5608</date></p>
-				<p>My dear Friend&#44;</p>
-			<p rend="indent(1)"><addressee>Isaac</addressee> your letter ly rec<hi rend="sup">d</hi> since&#8212;the<lb/> sight of your nt. even the limited lines of a note of intro<lb/>duction is agreeable&#8212;I am obliged to you for making<lb/> us acquainted with <persName>Mr S.</persName> he dined with us yesterday &#38;<lb/> we were all pleased with the <add>&#63;</add> leather <add>&#63;</add> manifested<lb/> in our common cause.</p>
-			<p rend="indent(1)">I write this in anticipation<lb/> of a visit from him this morning&#8212;he goes to <placeName>Washington</placeName> in<lb/> the afternoon &#38; passes thro&#39; tomorrow.</p>
-			<p rend="indent(1)">What have you been about this long time&#63;<lb/>  Got through your biblical&#45;proof reading&#63;</p>
-			<p rend="indent(1)">I have been<lb/> about only a few days this summer at <placeName>York Springs</placeName>&#44;<lb/> have been so well during the summer that I needed<lb/> no special trip.  When I saw you last&#44; you spoke of a<lb/> visit to <placeName>Balt<hi rend="sup">o</hi></placeName>.  Why did you not carry out your <hi rend="underline">good</hi><lb/> intention&#63;  I am told there is a young lady now in our<lb/> city from <placeName>Canada</placeName>&#44; staying with one of your friends.  Wouldn&#39;t<lb/> it be a good time now to pay your visit &#38; <add>&#63;</add> <hi rend="underline"><sic>sepiration</sic><add>&#63;</add></hi>.</p>
-			<p rend="indent(1)">We are all well in our families&#8212;all at home&#44; except</p>
-			<pb n="1V"/>
-				<p><persName>Miss Rachel</persName>&#44; who since the <date>1<hi rend="underline">st</hi></date> Inst. has been on a visit<lb/> to <persName>Miss Harper</persName>&#44; at <placeName>Newport</placeName>&#8212;who has a most delightful<lb/> cottage at <placeName>N.</placeName>  She is enjoying herself much.  <persName>Eddy</persName><lb/> has passed his vacation at <placeName>Norfolk</placeName>&#8212;&#38; is to be home<lb/> tomorrow&#44; he deserved some amusement as he has<lb/> been expecting hard students.  <persName>Mr Rice</persName> has him in charge<lb/> for the German Language and so soon as he was masters<lb/> this&#44; I will hand him over for Hebrew.</p>
-			<p rend="indent(1)">Will you do me the favour to send me the usual<lb/> form of Hebrew Inscriptions <add>for tombs</add> used by the Portuguese.<lb/>  I have yet from <persName>Mr Rice</persName> a form&#44; but it struck me that<lb/> of the Port. may differ from the German.</p>
-				<p>I give you enclosed what <persName>Mr. R.</persName> informed me was a sure<add>&#63;</add>.<lb/>  I wanted to ask you whether it was usual to put the<lb/> word &#1491;&#1497;&#1489;&#1504;&#1495;&#8212;or the name without this prefix.</p>
-				<p><add>Hebrew</add></p>
-			<pb n="2R"/>
-				<p>I have not added much to my Hebrew Library lately.  I think<lb/> tho&#39; that since I saw you I have two new Bibles&#8212;one&#44; the<lb/> first edition of athias<add>&#63;</add> &#91;I had the second&#93;&#44; and the<lb/> one by opitius&#8212;<add>&#63;</add> larger print.  <persName>Pennington</persName> imported<lb/> for me <add>Hebrew</add> with which I am much pleased.</p>
-			<p rend="indent(1)">Let me have from you at your earliest convenience<lb/> in response to the Inscription for tombs&#44; by mail&#8212;<lb/> friendly all at home<lb/> I am your friend</p>
-				<p><persName role="author">Joshua I Cohen</persName></p>
-				<p>Please drop the enclosed<lb/> into the <sic>poffice</sic> or hand it<lb/> to <persName>P.</persName> if equally convenient.</p>
-				<p>P. S. I enclose Two Dolls. for which I will thank you to send me<lb/> a copy of <persName>Miss Aguilar&#39;s</persName> Jewish Faith.</p>
-				<p>I wish to discontinue the <add>Hebrew</add>&#45;it has lost its interests<lb/> with us.  I am sick &#38; tired of the fulsome adulation with<lb/> which its pages are filled&#45;it may suit the <placeName>London</placeName> or English<lb/> market but not our blessed country&#45;its <sic>advertizements</sic><lb/> too of <persName>Holloway&#39;s</persName> pills&#45;macassan<add>&#63;</add> oil &#38; sin In <persName>Murray&#39;s</persName><lb/> Their magnetic&#8212;<add>&#63;</add> well in their place&#44; have nothing<lb/> to do in such a paper.  So please stop it at end of the<add>&#63;</add> year.</p>
-		</body>
-	</text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="yes">Cohen, Joshua I.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>LSKAP</repository>
+                        <collection>The Arnold and Deanne Kaplan Collection of Early American
+                            Judaica</collection>
+                        <idno>LSKAP20-748</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="yes">Cohen, Joshua
+                            I.</author>
+                        <addressee accepted="yes" attested="yes" editor="false">Leeser,
+                            Isaac</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Baltimore, MD</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1848-08">August 2, 1848</dateLet>
+                        <dateLet attested="yes" source="" when="1848-08">5608</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="leeser_20_748_001.jpg"/>
+                                <graphic url="leeser_20_748_002.jpg"/>
+                                <graphic url="leeser_20_748_003.jpg"/>
+                                <graphic url="leeser_20_748_004.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >letter</material>
+                                </support>
+                                <extent>3 pages on 1 sheet <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="restricted">
+                                <p>Restricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="he">Hebrew</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1R"/>
+            <p rend="align(right)">
+                <placeName>Balt<hi rend="sup">o</hi>.</placeName>
+                <date>Aug. 2d. 5608</date>
+            </p>
+            <p>My dear Friend,</p>
+            <p rend="indent(1)"><addressee>Isaac</addressee> your letter ly rec<hi rend="sup">d</hi>
+                since—the<lb/> sight of your nt. even the limited lines of a note of
+                intro<lb/>duction is agreeable—I am obliged to you for making<lb/> us acquainted
+                with <persName>Mr S.</persName> he dined with us yesterday &amp;<lb/> we were all
+                pleased with the <add>?</add> leather <add>?</add> manifested<lb/> in our common
+                cause.</p>
+            <p rend="indent(1)">I write this in anticipation<lb/> of a visit from him this
+                morning—he goes to <placeName>Washington</placeName> in<lb/> the afternoon &amp;
+                passes thro' tomorrow.</p>
+            <p rend="indent(1)">What have you been about this long time?<lb/> Got through your
+                biblical-proof reading?</p>
+            <p rend="indent(1)">I have been<lb/> about only a few days this summer at
+                    <placeName>York Springs</placeName>,<lb/> have been so well during the summer
+                that I needed<lb/> no special trip. When I saw you last, you spoke of a<lb/> visit
+                to <placeName>Balt<hi rend="sup">o</hi></placeName>. Why did you not carry out your
+                    <hi rend="underline">good</hi><lb/> intention? I am told there is a young lady
+                now in our<lb/> city from <placeName>Canada</placeName>, staying with one of your
+                friends. Wouldn't<lb/> it be a good time now to pay your visit &amp; <add>?</add>
+                <hi rend="underline"><sic>sepiration</sic><add>?</add></hi>.</p>
+            <p rend="indent(1)">We are all well in our families—all at home, except</p>
+            <pb n="1V"/>
+            <p><persName>Miss Rachel</persName>, who since the <date>1<hi rend="underline"
+                    >st</hi></date> Inst. has been on a visit<lb/> to <persName>Miss
+                    Harper</persName>, at <placeName>Newport</placeName>—who has a most
+                delightful<lb/> cottage at <placeName>N.</placeName> She is enjoying herself much.
+                    <persName>Eddy</persName><lb/> has passed his vacation at
+                    <placeName>Norfolk</placeName>—&amp; is to be home<lb/> tomorrow, he deserved
+                some amusement as he has<lb/> been expecting hard students. <persName>Mr
+                    Rice</persName> has him in charge<lb/> for the German Language and so soon as he
+                was masters<lb/> this, I will hand him over for Hebrew.</p>
+            <p rend="indent(1)">Will you do me the favour to send me the usual<lb/> form of Hebrew
+                Inscriptions <add>for tombs</add> used by the Portuguese.<lb/> I have yet from
+                    <persName>Mr Rice</persName> a form, but it struck me that<lb/> of the Port. may
+                differ from the German.</p>
+            <p>I give you enclosed what <persName>Mr. R.</persName> informed me was a
+                    sure<add>?</add>.<lb/> I wanted to ask you whether it was usual to put the<lb/>
+                word דיבנח—or the name without this prefix.</p>
+            <p>
+                <add>הגביר</add>
+            </p>
+            <pb n="2R"/>
+            <p>I have not added much to my Hebrew Library lately. I think<lb/> tho' that since I saw
+                you I have two new Bibles—one, the<lb/> first edition of athias<add>?</add> [I had
+                the second], and the<lb/> one by opitius—<add>?</add> larger print.
+                    <persName>Pennington</persName> imported<lb/> for me <add>פ"ט</add> with which I
+                am much pleased.</p>
+            <p rend="indent(1)">Let me have from you at your earliest convenience<lb/> in response
+                to the Inscription for tombs, by mail—<lb/> friendly all at home<lb/> I am your
+                friend</p>
+            <p>
+                <persName role="author">Joshua I Cohen</persName>
+            </p>
+            <p>Please drop the enclosed<lb/> into the <sic>poffice</sic> or hand it<lb/> to
+                    <persName>P.</persName> if equally convenient.</p>
+            <p>P. S. I enclose Two Dolls. for which I will thank you to send me<lb/> a copy of
+                    <persName>Miss Aguilar's</persName> Jewish Faith.</p>
+            <p>I wish to discontinue the <add>XXXXXX הגביר</add>-it has lost its interests<lb/> with
+                us. I am sick &amp; tired of the fulsome adulation with<lb/> which its pages are
+                filled-it may suit the <placeName>London</placeName> or English<lb/> market but not
+                our blessed country-its <sic>advertizements</sic><lb/> too of
+                    <persName>Holloway's</persName> pills-macassan<add>?</add> oil &amp; sin In
+                    <persName>Murray's</persName><lb/> Their magnetic—<add>?</add> well in their
+                place, have nothing<lb/> to do in such a paper. So please stop it at end of
+                    the<add>?</add> year.</p>
+        </body>
+    </text>
 </TEI>

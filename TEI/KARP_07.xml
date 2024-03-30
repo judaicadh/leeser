@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
         <fileDesc>
             <titleStmt>
                 <title>[no title given]</title>
-                <author attested="yes" accepted="yes" signature="yes">Kuttner, H.</author>
+                <author accepted="yes" attested="yes" signature="yes">Kuttner, H.</author>
                 <editor/>
                 <sponsor/>
                 <funder/>
@@ -47,7 +49,9 @@
                         <settlement>New York</settlement>
                         <institution>Jewish Theological Seminary</institution>
                         <repository/>
-                        <collection>The Abraham and Deborah Karp Collection of Early American Judaica at the Library of the Jewish Theological Seminary of America</collection>
+                        <collection>The Abraham and Deborah Karp Collection of Early American
+                            Judaica at the Library of the Jewish Theological Seminary of
+                            America</collection>
                         <idno/>
                         <altIdentifier>
                             <idno/>
@@ -56,8 +60,8 @@
                     </msIdentifier>
                     <head/>
                     <letHeading>
-                        <author attested="yes" accepted="yes" signature="yes">Kuttner, H.</author>
-                        <addressee editor="false" attested="yes" accepted="yes">Leeser,
+                        <author accepted="yes" attested="yes" signature="yes">Kuttner, H.</author>
+                        <addressee accepted="yes" attested="yes" editor="false">Leeser,
                             Isaac</addressee>
                         <deliverer/>
                         <respStmt>
@@ -66,7 +70,7 @@
                         </respStmt>
                         <placeLet>St. Louis, MO</placeLet>
                         <placeRec>Philadelphia, PA</placeRec>
-                        <dateLet when="1857-06" source="" attested="yes">24 June 1857</dateLet>
+                        <dateLet attested="yes" source="" when="1857-06">24 June 1857</dateLet>
                     </letHeading>
                     <msContents>
                         <msItem>
@@ -92,7 +96,8 @@
                         <objectDesc>
                             <supportDesc>
                                 <support>
-                                    <material color="" lined="false" paper_type="" size="Letter">letter</material>
+                                    <material color="" lined="false" paper_type="" size="Letter"
+                                        >letter</material>
                                 </support>
                                 <extent>2 pages on 1 sheet <dimensions/>
                                 </extent>
@@ -233,84 +238,41 @@
     </teiHeader>
     <text>
         <body>
-
             <pb n="1"/>
-
             <p rend="align(right)">
-                <placeName>St. Louis&#44; Missouri&#44;</placeName>
-                <date>June 24&#44; 1857.</date>
+                <placeName>St. Louis, Missouri,</placeName>
+                <date>June 24, 1857.</date>
             </p>
-            <p>
-                <addressee>Rev. Isaac Leeser</addressee>&#58;</p>
-
-            <p rend="indent(1)">Honored Sir&#58; Although three weeks<lb/>
- ago I notified you that I am functioning
-                here<lb/>
- as Chazan and Schochet&#44; I take the liberty<lb/>
- to inform you now that
-                I have taken on a<lb/>
- schochet at my own expense and have or&#8211;<lb/>
-ganized a
-                school for the young where Hebrew<lb/>
- is taught. <persName>Mr. Lattin</persName>
-                and <persName>Mr. Meyer</persName>
-<lb/>
- told me that you have published works
-                &#40;guides&#63;&#41; for<lb/>
- the instruction of youthful beginners&#44; and<lb/>
-                that there are several copies here but not<lb/>
- sufficient. That is why I beg of
-                you&#44; honored<lb/>
- sir&#44; to send two or three dozen to <persName>Mr.
-                    Lattin</persName>
-<lb/>
- or to me&#44; as well as several prayer books<lb/>
- and
-                other such things. My request is that you<lb/>
- send it as soon as possible. I also
-                request<lb/>
- my bill that I owe&#44; in order that I might<lb/>
- take care of it.
-                Conditions with regard to the<lb/>
- youth here are pitiful. It has been
-                neglec<lb/>
-ted. I hope&#44; with God&#39;s help&#44; to accomplish<lb/>
- much.<lb/>
-</p>
-<p rend="indent(1)">I beg to inform you that the con&#8211;<lb/>
-gregation will soon begin the building
-                of<lb/>
- a <sic>cynagogue</sic>&#44; <del>with</del> with where the school<lb/>
-</p>
-
-<pb n="2"/>
-<p>will be housed.</p>
-<p rend="indent(1)">Finally&#44; I want to ask you to<lb/>
- notify me who those
-                gentlemen are&#44; and<lb/>
- to note whether they are behind-hand&#44; who<lb/>
- are
-                subscribers to the &#8220;Occident&#8221;. Also&#44; the<lb/>
- term of each. I shall
-                go round and<lb/>
- collect everything for you&#44; and gather<lb/>
- subscriptions&#44;
-                and instead of 30 per month<lb/>
- make it 30 per week. If you are satisfied&#44;<lb/>
-                I want to be your agent.</p>
-<p rend="indent(1)">Your friend&#44;<lb/>
-<persName role="author">H. Kuttner</persName>
-<lb/>
- c/o <persName>Joseph
-                    Kohn</persName>
-<lb/>
-<placeName>St. Louis&#44; MO</placeName>
-<lb/>
- Please send six dozen. It cost the
-                same<lb/>
- thing by express.<lb/>
-</p>
-
-</body>
-</text>
+            <p><addressee>Rev. Isaac Leeser</addressee>:</p>
+            <p rend="indent(1)">Honored Sir: Although three weeks<lb/> ago I notified you that I am
+                functioning here<lb/> as Chazan and Schochet, I take the liberty<lb/> to inform you
+                now that I have taken on a<lb/> schochet at my own expense and have or–<lb/>ganized
+                a school for the young where Hebrew<lb/> is taught. <persName>Mr. Lattin</persName>
+                and <persName>Mr. Meyer</persName><lb/> told me that you have published works
+                (guides?) for<lb/> the instruction of youthful beginners, and<lb/> that there are
+                several copies here but not<lb/> sufficient. That is why I beg of you, honored<lb/>
+                sir, to send two or three dozen to <persName>Mr. Lattin</persName><lb/> or to me, as
+                well as several prayer books<lb/> and other such things. My request is that you<lb/>
+                send it as soon as possible. I also request<lb/> my bill that I owe, in order that I
+                might<lb/> take care of it. Conditions with regard to the<lb/> youth here are
+                pitiful. It has been neglec<lb/>ted. I hope, with God's help, to accomplish<lb/>
+                much.<lb/></p>
+            <p rend="indent(1)">I beg to inform you that the con–<lb/>gregation will soon begin the
+                building of<lb/> a <sic>cynagogue</sic>, <del>with</del> with where the school<lb/>
+            </p>
+            <pb n="2"/>
+            <p>will be housed.</p>
+            <p rend="indent(1)">Finally, I want to ask you to<lb/> notify me who those gentlemen
+                are, and<lb/> to note whether they are behind-hand, who<lb/> are subscribers to the
+                “Occident”. Also, the<lb/> term of each. I shall go round and<lb/> collect
+                everything for you, and gather<lb/> subscriptions, and instead of 30 per month<lb/>
+                make it 30 per week. If you are satisfied,<lb/> I want to be your agent.</p>
+            <p rend="indent(1)">Your friend,<lb/>
+                <persName role="author">H. Kuttner</persName><lb/> c/o <persName>Joseph
+                    Kohn</persName><lb/>
+                <placeName>St. Louis, MO</placeName><lb/> Please send six dozen. It cost the
+                same<lb/> thing by express.<lb/>
+            </p>
+        </body>
+    </text>
 </TEI>

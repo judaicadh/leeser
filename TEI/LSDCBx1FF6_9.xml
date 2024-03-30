@@ -1,268 +1,432 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
-      <fileDesc>
-        <titleStmt>
-          <title>[no title given]</title>
-          <author attested="yes" accepted="yes" signature="yes">De Sola, Abraham</author>
-          <editor></editor>
-          <sponsor></sponsor>
-          <funder></funder>
-          <principal></principal>
-          <respStmt>
-            <resp></resp>
-            <name></name>
-          </respStmt>
-        </titleStmt>
-        <editionStmt>
-          <edition></edition>
-          <respStmt>
-            <resp></resp>
-            <name></name>
-          </respStmt>
-        </editionStmt>
-        <extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-        <publicationStmt>
-          <publisher>Unpublished manuscript</publisher>
-        </publicationStmt>
-        <seriesStmt>
-          <p>Not part of a series</p>
-        </seriesStmt>
-        <notesStmt>
-          <note></note>
-        </notesStmt>
-        <sourceDesc>
-          <biblStruct>
-            <!-- catalog entry goes here -->
-            <monogr>
-              <imprint>
-                <dateLet></dateLet>
-              </imprint>
-            </monogr>
-          </biblStruct>
-          <msDesc>
-            <msIdentifier>
-              <country>USA</country>
-              <region>PA</region>
-              <settlement>Philadelphia</settlement>
-              <institution></institution>
-              <repository>CAJS Isaac Leeser Collection</repository>
-              <collection>The Library of the Dropsie College for Hebrew and Cognate Learning</collection>
-              <idno>LSDCBx1FF6_9</idno>
-              <altIdentifier>
-                <idno></idno>
-              </altIdentifier>
-              <msName></msName>
-            </msIdentifier>
-            <head></head>
-            <letHeading>
-              <author attested="yes" accepted="yes" signature="yes">De Sola, Abraham</author>
-              <addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac, Rev.</addressee>
-              <deliverer></deliverer>
-              <respStmt>
-                <resp></resp>
-                <name></name>
-              </respStmt>
-              <placeLet>Montreal, Canada</placeLet>
-              <placeRec>Philadelphia, PA</placeRec>
-              <dateLet when="1849-02" source="" attested="yes">1 February 1849</dateLet>
-            </letHeading>
-            <msContents>
-              <msItem>
-                <author></author>
-                <editor></editor>
-                <respStmt>
-                  <resp></resp>
-                  <name></name>
-                </respStmt>
-                <title></title>
-                <decoNote></decoNote>
-                <listBibl>
-                  <bibl></bibl>
-                </listBibl>
-                <filiation></filiation>
-                <textLang></textLang>
-                <figure>
-                  <graphic url="ilcajs_b1f6_0009_1r.jpg"/>
-                  <graphic url="ilcajs_b1f6_0009_1v.jpg"/>
-                  <graphic url="ilcajs_b1f6_0009_2r.jpg"/>
-                  <graphic url="ilcajs_b1f6_0009_2v.jpg"/>
-                </figure>
-              </msItem>
-            </msContents>
-            <physDesc>
-              <objectDesc>
-                <supportDesc>
-                  <support>
-                    <material color="" lined="false" paper_type="" size="Letter">letter</material>
-                  </support>
-                  <extent>4 pages on 2 sheets
-                    <dimensions></dimensions>
-                  </extent>
-                  <foliation></foliation>
-                  <collation></collation>
-                  <condition fragment="false"></condition>
-                </supportDesc>
-                <layoutDesc>
-                  <layout></layout>
-                </layoutDesc>
-              </objectDesc>
-              <handDesc script="manuscript">
-                  <handNote></handNote>
-              </handDesc>
-              <decoDesc>
-                <decoNote></decoNote>
-              </decoDesc>
-              <additions></additions>
-              <bindingDesc>
-                <binding>
-                  <decoNote></decoNote>
-                </binding>
-              </bindingDesc>
-              <sealDesc>
-                <seal>
-                  <p></p>
-                </seal>
-              </sealDesc>
-              <accMat></accMat>
-              <envDesc occ="false"></envDesc>
-            </physDesc>
-            <history>
-              <origin></origin>
-              <provenance></provenance>
-              <acquisition></acquisition>
-            </history>
-            <additional>
-              <adminInfo>
-                <recordHist>
-                  <source></source>
-                  <change></change>
-                </recordHist>
-                <availability status="free">
-                  <p>Unrestricted</p>
-                </availability>
-                <custodialHist>
-                  <custEvent></custEvent>
-                </custodialHist>
-              </adminInfo>
-              <surrogates></surrogates>
-              <listBibl>
-                <bibl></bibl>
-              </listBibl>
-            </additional>
-            <msPart>
-              <altIdentifier>
-                <idno></idno>
-              </altIdentifier>
-            </msPart>
-          </msDesc>
-        </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-        <projectDesc>
-          <p></p>
-        </projectDesc>
-        <samplingDecl>
-          <p></p>
-        </samplingDecl>
-        <editorialDecl>
-          <correction>
-            <p></p>
-          </correction>
-          <normalization>
-            <p></p>
-          </normalization>
-          <quotation>
-            <p></p>
-          </quotation>
-          <hyphenation>
-            <p></p>
-          </hyphenation>
-          <segmentation>
-            <p></p>
-          </segmentation>
-          <stdVals>
-            <p></p>
-          </stdVals>
-          <interpretation>
-            <p></p>
-          </interpretation>
-        </editorialDecl>
-        <tagsDecl>
-          <rendition></rendition>
-          <namespace name="http://www.tei-c.org/ns/1.0">
-            <tagUsage gi=""></tagUsage>
-          </namespace>
-        </tagsDecl>
-        <refsDecl>
-          <cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-        </refsDecl>
-        <refsDecl>
-          <refState unit=""/>
-        </refsDecl>
-        <classDecl>
-          <taxonomy>
-            <category>
-              <catDesc></catDesc>
-            </category>
-          </taxonomy>
-        </classDecl>
-        <appInfo>
-          <application ident="" version="">
-            <desc></desc>
-            <label></label>
-          </application>
-        </appInfo>
-      </encodingDesc>
-      <profileDesc>
-        <creation></creation>
-        <langUsage>
-          <language ident="en">English</language>
-        </langUsage>
-        <textClass>
-          <keywords scheme="unknown">
-            <list>
-              <item></item>
-              <item></item>
-            </list>
-          </keywords>
-          <classCode scheme=""></classCode>
-          <catRef/>
-        </textClass>
-      </profileDesc>
-      <revisionDesc>
-        <change></change>
-      </revisionDesc>
-    </teiHeader>
-    <text>
-        <body>
-      
-		<pb n="1"/>
-			<p rend="align(right)"><placeName>Montreal</placeName> <date>1<hi rend="sup">st</hi> Feby &#47;49</date></p>
-			<p>Dear Friend&#8212;</p>
-          <p rend="indent(2)">I have somewhat altered my mind as regards the<lb/> article I lately sent you for the Occident. As I have not heard from<lb/> you on this subject up to present date&#44; I conclude you intend publishing<lb/> it. I have determined however&#44; if you have not yet published it&#44; not<lb/> to let it remain as first written and therefore must beg you to make<lb/> the following alterations in it &#40;i. e. if you want it&#41;. I was so bothered<lb/> when I sent it you that I had but little time or attention to bestow<lb/> on the Introductory observations &#40;which alone are not old papers&#44; for<lb/> I believe I told you that the quotation from Pentsal<add>&#63;</add> with some&#44; nearly<lb/> all&#44; indeed of the notes I had lying by for some time waiting to be dressed<lb/> The <sic>consequense</sic> of my writing hastily was as I afterwards recollected<lb/> that I made a kind of promise to furnish several <add>&#63;</add> pieces&#44; how<lb/> I shall be very happy to do so but I don&#39;t want to bind myself to write<lb/> in any one particular style or in any one particular subject&#44; Hence<lb/> I now cry <add>&#63;</add> and I want to alter my faux pas if it be<lb/> one&#44; in manner following. Problem. The Ed&#95;<add>&#63;</add> had an article on Hebrews<lb/> and their opponents signed ADS&#44; it is necessary to make an alteration in<lb/> the same. If this be printed it is required that it be printed as written from<lb/> the commencement down till the end &#40;in the Introductory remarks&#41; of <persName>Dr.<lb/> Mc Cauls</persName> vindication. After the passage or sentence which commences &#8220;We leave<lb/> it with the reader to determine how far <persName>Dr Mc Caul</persName> in the above extent<lb/> refutes the <add>&#63;</add> &#40;I <sic>dont</sic> remember the exact words as I didn&#39;t keep a<lb/> copy&#41; insert this &#8220;With such testimony&#44; the testimony of an<lb/> adversary&#44; it were unnecessary &#40;at this word insert at bottom the<lb/> note which speaks<add>&#63;</add> of translations of some Hebrew authors already</p>
-		<pb n="2"/>
-			<p>writing such as the Hebrew Review Bible &#38;c Let the note begin &#8220;Unnecessary<lb/> because the&#8212;&#41; to produce in refutation <add>&#63;</add> the good things they have written out &#38;c &#38;c. Immediately<lb/> add at the end of this sentence leaving out what I have already written<lb/> &#8220;But perhaps it would be no improfitable <del>&#63;</del> did the contributors<lb/> to the Jewish periodical literature of the day devote their attention<lb/> occasionally to these charges which may almost be considered as<lb/> stereotyped&#44; since they are produced every day&#44; in a new dress it may<lb/> be&#44; by those whose ignorance and prejudice will not allow them to<lb/> know better. Leaving to other and abler pens this &#40;as we humbly<lb/> conceive&#41; desirable occupation we would <sic>commense</sic> the campaign of<lb/> vindication by defending from severe and unmerited attack a portion<lb/> of <hi rend="underline">The Cosmography of R. Abraham Peitsal</hi><add>&#63;</add> of which work as a<lb/> whole we however offer no opinion&#44; <del>as chiefly</del> because we are not called upon to do &#38;c&#8212;<lb/> the charges against it being but partial&#59; yet&#44; thus much we will say&#44;<lb/> that books refer many reasons&#44; claims the most attentive and respectful<lb/> consideration &#8220;of both the Jewish and Christian student&#8221; Then continue<lb/> new Par. &#8220;This work thought not so well known &#38;tc&#44; and all the rest<lb/> as sent. &#40;Q.E.D.&#41; Now my dear friend can I depend upon your<lb/> making these alterations just as I have directed so that no inconsistency<lb/> or contradiction exists in the article. I am sorry indeed to prove<lb/> so troublesome a correspondent&#44; but it <sic>canno</sic> be helped.</p>
-          <p rend="indent(1)">I told you we had formed a Sunday School here. Perhaps you<lb/> would like a little information as to our doings. I asked a meeting<lb/> at my <add>&#63;</add> of the ladies of the congregation&#44; during <add>Hebrew</add>&#44; when I showed<lb/> them the necessity for some <add>&#63;</add> being made for the more efficient<lb/> religious instruction of the young etc. In the usual course it was proposed<lb/> and carried to establish a SS after the model of that established<lb/> by the estimable <persName>Miss Gratz</persName> of your city. I was elected superintendent<lb/> tho&#39; I would have preferred that the truth had been confided</p>
-		<pb n="3"/>
-			<p>to a <placeName>Montreal</placeName> <persName>Miss Gratz</persName>&#8212;but it was necessary I should accept<lb/> and I did so. The young ladies of the Cong. were elected teachers <del>and are</del><lb/> <add>&#63;</add> to act when required. The present teachers are <persName>Miss Phoebe David</persName><lb/> who is also secretary. <persName>Miss Rebekah Joseph</persName>&#44; and <persName>Miss Sarah Solomon</persName>.<lb/> The pupils the first day were <del>27 an</del> 21 and have so continued.<lb/> Books used&#8212;Pykes&#8212;Peichotto&#44; and elder &#40;boys&#41; Solomons Mosaic System<lb/> a copy of which was presented me in <placeName>New York</placeName>. I need not add further<lb/> particulars as these would be common to all such schools.</p>
-          <p rend="indent(1)">I am sorry to find you are not to inquire now of the Proposed assembly<lb/> coming to something speedily. I hope you are deceived <persName>J. H. Isaacs</persName> letter<lb/> surprised me a little&#8212;he should not have <add>&#63;</add> of difficulties and differences<lb/> of opinion I still insist upon the <add>&#63;</add> I forwarded you being<lb/> correct that they will not be found in the copy&#8212;and it is the fault<lb/> of the printers. I have yet a copy of the article which I would send<lb/> if necessary. The serious errors such as making the Jews settle in <placeName>Rome</placeName><add>&#63;</add><lb/> instead of <placeName>England</placeName> were I am quite confident the faults of your barberous<lb/> named compositors. I beg to acknowledge the Voice of Jacob and<lb/> return you many thanks for your prompt attention to my request. The<lb/> <add>&#63;</add> magazine has been discontinued and I hear it is to reappear<lb/> in the reform interest. I know the two L<add>&#63;</add>s and am not much<lb/> surprised by this. Since <persName>Dr B</persName><add>&#63;</add> retired from the Editorship of the V&#95;it<lb/> and its followers have changed their colors like the chameleon.</p>
-          <p rend="indent(1)">I gave your receipts to the <persName>Messrs Benjamin</persName>. The think they<lb/> <sic>dont</sic> owe so much but will refer to their books. I will pay<lb/> over the money to your agent as soon as I can <add>&#63;</add> it.<lb/> Of course you know that you said agent is a Paper. <persName>Mrs J<lb/> H J</persName> has a daughter. <persName>Mr J.</persName> altho&#39; formerly &#40;i. e. before I came<lb/> out&#41; one of the warmest &#38; best supporters of the Synagogue&#44; from<lb/> some reason or other&#44; cannot&#44; unfortunately be persuaded to</p>
-		<pb n="4"/>
-			<p>belong thereto. But all this occurred before I came to <placeName>Canada</placeName> as I before<lb/> said&#8212;else I would have acted as mediator&#8212;now it is a different<lb/> matter to bring things around. If it had been a <add>&#63;</add>&#44; the Cong had<lb/> determined to make him pay handsomely&#8212;even his relations. As it<lb/> is don&#39;t be surprised if you have to name the young one in the<lb/> <add>&#63;</add>&#8212;of course all I have said of this affair is sub<add>&#63;</add><lb/> My dear fellow&#44; you appear just as anxious as you would represent<lb/> me to appear&#44; to demonstrate that you have no claims on<lb/> the ladies we have discovered about. Claims&#63; Who said you had&#63;<lb/> Have you any <hi rend="underline">old Orients</hi> &#38;tc which you could let me have&#44; as their<lb/> perusal would be some benefit to me in rubbing up what little I know<lb/> of Deutsch. You would oblige me much by lending them me as you<lb/> receive them&#44; you might send them by opportunity and so I would<lb/> return them. My father receives them all&#44; but it would be difficult<lb/> and expensive to receive them from <placeName>Europe</placeName>.</p>
-          <p rend="indent(1)">I trust that having written you so frequently lately that<lb/> you will not be quite so cheery with your correspondence but let<lb/> me hear from you soon and fully. One half the topics I write you<lb/> on you never deign to answer <add>&#63;</add> I insert you an invitation<lb/> to come in here in the summer.&#8212;<add>Hebrew</add>&#33; Wait till I ask you<lb/> again. I asked you&#44; &#8220;are you going to publish Peril<add>&#63;</add> <add>Hebrew</add>&#33; You<lb/> are certainly a civil gentleman to say the least of you&#44; still I conclude nevertheless<lb/> with health and prosperity to you&#44; wishing you may enjoy every&#44;<lb/> happiness that I wish</p>
-          <p rend="indent(7)">Yours very sincerely</p>
-          <p rend="indent(8)"><persName role="author">Abraham de Sola</persName></p>
-			<p><addressee>Rev. Isaac Leeser</addressee></p>
-          <p rend="indent(1)"><placeName>Philadelphia</placeName></p>
-			<p><persName>Miss Catherine Vallentine</persName> died <date>Wed&#44; 17 Jany</date></p>
-			<p> she was sister to <persName>Mr Valentine</persName> One of</p>
-			<p>the founders of the Syn. Does she deserve</p>
-			<p>an obituary in the Oc. or are these paid for&#8212;</p>
-			<p> She was a truly&#44; religious and charitable person.</p>
-          <p><persName>Jacob</persName> send you some of my article till</p>
-          <p rend="indent(1)">I hear from you.</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+          <teiHeader>
 
-			          
-        </body>
-    </text>
+                    <fileDesc>
+                              <titleStmt>
+                                        <title>[no title given]</title>
+                                        <author accepted="yes" attested="yes" signature="yes">De
+                                                  Sola, Abraham</author>
+                                        <editor/>
+                                        <sponsor/>
+                                        <funder/>
+                                        <principal/>
+                                        <respStmt>
+                                                  <resp/>
+                                                  <name/>
+                                        </respStmt>
+                              </titleStmt>
+                              <editionStmt>
+                                        <edition/>
+                                        <respStmt>
+                                                  <resp/>
+                                                  <name/>
+                                        </respStmt>
+                              </editionStmt>
+                              <extent>[information about file size goes here, information about
+                                        extent of physical item comes later]</extent>
+                              <publicationStmt>
+                                        <publisher>Unpublished manuscript</publisher>
+                              </publicationStmt>
+                              <seriesStmt>
+                                        <p>Not part of a series</p>
+                              </seriesStmt>
+                              <notesStmt>
+                                        <note/>
+                              </notesStmt>
+                              <sourceDesc>
+                                        <biblStruct>
+                                                  <!-- catalog entry goes here -->
+                                                  <monogr>
+                                                  <imprint>
+                                                  <dateLet/>
+                                                  </imprint>
+                                                  </monogr>
+                                        </biblStruct>
+                                        <msDesc>
+                                                  <msIdentifier>
+                                                  <country>USA</country>
+                                                  <region>PA</region>
+                                                  <settlement>Philadelphia</settlement>
+                                                  <institution/>
+                                                  <repository>CAJS Isaac Leeser
+                                                  Collection</repository>
+                                                  <collection>The Library of the Dropsie College for
+                                                  Hebrew and Cognate Learning</collection>
+                                                  <idno>LSDCBx1FF6_9</idno>
+                                                  <altIdentifier>
+                                                  <idno/>
+                                                  </altIdentifier>
+                                                  <msName/>
+                                                  </msIdentifier>
+                                                  <head/>
+                                                  <letHeading>
+                                                  <author accepted="yes" attested="yes"
+                                                  signature="yes">De Sola, Abraham</author>
+                                                  <addressee accepted="yes" attested="yes"
+                                                  editor="false">Leeser, Isaac, Rev.</addressee>
+                                                  <deliverer/>
+                                                  <respStmt>
+                                                  <resp/>
+                                                  <name/>
+                                                  </respStmt>
+                                                  <placeLet>Montreal, Canada</placeLet>
+                                                  <placeRec>Philadelphia, PA</placeRec>
+                                                  <dateLet attested="yes" source="" when="1849-02">1
+                                                  February 1849</dateLet>
+                                                  </letHeading>
+                                                  <msContents>
+                                                  <msItem>
+                                                  <author/>
+                                                  <editor/>
+                                                  <respStmt>
+                                                  <resp/>
+                                                  <name/>
+                                                  </respStmt>
+                                                  <title/>
+                                                  <decoNote/>
+                                                  <listBibl>
+                                                  <bibl/>
+                                                  </listBibl>
+                                                  <filiation/>
+                                                  <textLang/>
+                                                  <figure>
+                                                  <graphic url="ilcajs_b1f6_0009_1r.jpg"/>
+                                                  <graphic url="ilcajs_b1f6_0009_1v.jpg"/>
+                                                  <graphic url="ilcajs_b1f6_0009_2r.jpg"/>
+                                                  <graphic url="ilcajs_b1f6_0009_2v.jpg"/>
+                                                  </figure>
+                                                  </msItem>
+                                                  </msContents>
+                                                  <physDesc>
+                                                  <objectDesc>
+                                                  <supportDesc>
+                                                  <support>
+                                                  <material color="" lined="false" paper_type=""
+                                                  size="Letter">letter</material>
+                                                  </support>
+                                                  <extent>4 pages on 2 sheets <dimensions/>
+                                                  </extent>
+                                                  <foliation/>
+                                                  <collation/>
+                                                  <condition fragment="false"/>
+                                                  </supportDesc>
+                                                  <layoutDesc>
+                                                  <layout/>
+                                                  </layoutDesc>
+                                                  </objectDesc>
+                                                  <handDesc script="manuscript">
+                                                  <handNote/>
+                                                  </handDesc>
+                                                  <decoDesc>
+                                                  <decoNote/>
+                                                  </decoDesc>
+                                                  <additions/>
+                                                  <bindingDesc>
+                                                  <binding>
+                                                  <decoNote/>
+                                                  </binding>
+                                                  </bindingDesc>
+                                                  <sealDesc>
+                                                  <seal>
+                                                  <p/>
+                                                  </seal>
+                                                  </sealDesc>
+                                                  <accMat/>
+                                                  <envDesc occ="false"/>
+                                                  </physDesc>
+                                                  <history>
+                                                  <origin/>
+                                                  <provenance/>
+                                                  <acquisition/>
+                                                  </history>
+                                                  <additional>
+                                                  <adminInfo>
+                                                  <recordHist>
+                                                  <source/>
+                                                  <change/>
+                                                  </recordHist>
+                                                  <availability status="free">
+                                                  <p>Unrestricted</p>
+                                                  </availability>
+                                                  <custodialHist>
+                                                  <custEvent/>
+                                                  </custodialHist>
+                                                  </adminInfo>
+                                                  <surrogates/>
+                                                  <listBibl>
+                                                  <bibl/>
+                                                  </listBibl>
+                                                  </additional>
+                                                  <msPart>
+                                                  <altIdentifier>
+                                                  <idno/>
+                                                  </altIdentifier>
+                                                  </msPart>
+                                        </msDesc>
+                              </sourceDesc>
+                    </fileDesc>
+                    <encodingDesc>
+                              <projectDesc>
+                                        <p/>
+                              </projectDesc>
+                              <samplingDecl>
+                                        <p/>
+                              </samplingDecl>
+                              <editorialDecl>
+                                        <correction>
+                                                  <p/>
+                                        </correction>
+                                        <normalization>
+                                                  <p/>
+                                        </normalization>
+                                        <quotation>
+                                                  <p/>
+                                        </quotation>
+                                        <hyphenation>
+                                                  <p/>
+                                        </hyphenation>
+                                        <segmentation>
+                                                  <p/>
+                                        </segmentation>
+                                        <stdVals>
+                                                  <p/>
+                                        </stdVals>
+                                        <interpretation>
+                                                  <p/>
+                                        </interpretation>
+                              </editorialDecl>
+                              <tagsDecl>
+                                        <rendition/>
+                                        <namespace name="http://www.tei-c.org/ns/1.0">
+                                                  <tagUsage gi=""/>
+                                        </namespace>
+                              </tagsDecl>
+                              <refsDecl>
+                                        <cRefPattern matchPattern="" replacementPattern=""/>
+                              </refsDecl>
+                              <refsDecl>
+                                        <refState unit=""/>
+                              </refsDecl>
+                              <classDecl>
+                                        <taxonomy>
+                                                  <category>
+                                                  <catDesc/>
+                                                  </category>
+                                        </taxonomy>
+                              </classDecl>
+                              <appInfo>
+                                        <application ident="" version="">
+                                                  <desc/>
+                                                  <label/>
+                                        </application>
+                              </appInfo>
+                    </encodingDesc>
+                    <profileDesc>
+                              <creation/>
+                              <langUsage>
+                                        <language ident="en">English</language>
+                              </langUsage>
+                              <textClass>
+                                        <keywords scheme="unknown">
+                                                  <list>
+                                                  <item/>
+                                                  <item/>
+                                                  </list>
+                                        </keywords>
+                                        <classCode scheme=""/>
+                                        <catRef/>
+                              </textClass>
+                    </profileDesc>
+                    <revisionDesc>
+                              <change/>
+                    </revisionDesc>
+          </teiHeader>
+          <text>
+                    <body>
+                              <pb n="1"/>
+                              <p rend="align(right)">
+                                        <placeName>Montreal</placeName>
+                                        <date>1<hi rend="sup">st</hi> Feby /49</date>
+                              </p>
+                              <p>Dear Friend—</p>
+                              <p rend="indent(2)">I have somewhat altered my mind as regards
+                                        the<lb/> article I lately sent you for the Occident. As I
+                                        have not heard from<lb/> you on this subject up to present
+                                        date, I conclude you intend publishing<lb/> it. I have
+                                        determined however, if you have not yet published it,
+                                        not<lb/> to let it remain as first written and therefore
+                                        must beg you to make<lb/> the following alterations in it
+                                        (i. e. if you want it). I was so bothered<lb/> when I sent
+                                        it you that I had but little time or attention to
+                                        bestow<lb/> on the Introductory observations (which alone
+                                        are not old papers, for<lb/> I believe I told you that the
+                                        quotation from Pentsal<add>?</add> with some, nearly<lb/>
+                                        all, indeed of the notes I had lying by for some time
+                                        waiting to be dressed<lb/> The <sic>consequense</sic> of my
+                                        writing hastily was as I afterwards recollected<lb/> that I
+                                        made a kind of promise to furnish several <add>?</add>
+                                        pieces, how<lb/> I shall be very happy to do so but I don't
+                                        want to bind myself to write<lb/> in any one particular
+                                        style or in any one particular subject, Hence<lb/> I now cry
+                                                  <add>?</add> and I want to alter my faux pas if it
+                                        be<lb/> one, in manner following. Problem. The
+                                                  Ed_<add>?</add> had an article on Hebrews<lb/> and
+                                        their opponents signed ADS, it is necessary to make an
+                                        alteration in<lb/> the same. If this be printed it is
+                                        required that it be printed as written from<lb/> the
+                                        commencement down till the end (in the Introductory remarks)
+                                        of <persName>Dr.<lb/> Mc Cauls</persName> vindication. After
+                                        the passage or sentence which commences “We leave<lb/> it
+                                        with the reader to determine how far <persName>Dr Mc
+                                                  Caul</persName> in the above extent<lb/> refutes
+                                        the <add>?</add> (I <sic>dont</sic> remember the exact words
+                                        as I didn't keep a<lb/> copy) insert this “With such
+                                        testimony, the testimony of an<lb/> adversary, it were
+                                        unnecessary (at this word insert at bottom the<lb/> note
+                                        which speaks<add>?</add> of translations of some Hebrew
+                                        authors already</p>
+                              <pb n="2"/>
+                              <p>writing such as the Hebrew Review Bible &amp;c Let the note begin
+                                        “Unnecessary<lb/> because the—) to produce in refutation
+                                                  <add>?</add> the good things they have written out
+                                        &amp;c &amp;c. Immediately<lb/> add at the end of this
+                                        sentence leaving out what I have already written<lb/> “But
+                                        perhaps it would be no improfitable <del>?</del> did the
+                                        contributors<lb/> to the Jewish periodical literature of the
+                                        day devote their attention<lb/> occasionally to these
+                                        charges which may almost be considered as<lb/> stereotyped,
+                                        since they are produced every day, in a new dress it
+                                        may<lb/> be, by those whose ignorance and prejudice will not
+                                        allow them to<lb/> know better. Leaving to other and abler
+                                        pens this (as we humbly<lb/> conceive) desirable occupation
+                                        we would <sic>commense</sic> the campaign of<lb/>
+                                        vindication by defending from severe and unmerited attack a
+                                        portion<lb/> of <hi rend="underline">The Cosmography of R.
+                                                  Abraham Peitsal</hi><add>?</add> of which work as
+                                        a<lb/> whole we however offer no opinion, <del>as
+                                                  chiefly</del> because we are not called upon to do
+                                        &amp;c—<lb/> the charges against it being but partial; yet,
+                                        thus much we will say,<lb/> that books refer many reasons,
+                                        claims the most attentive and respectful<lb/> consideration
+                                        “of both the Jewish and Christian student” Then
+                                        continue<lb/> new Par. “This work thought not so well known
+                                        &amp;tc, and all the rest<lb/> as sent. (Q.E.D.) Now my dear
+                                        friend can I depend upon your<lb/> making these alterations
+                                        just as I have directed so that no inconsistency<lb/> or
+                                        contradiction exists in the article. I am sorry indeed to
+                                        prove<lb/> so troublesome a correspondent, but it
+                                                  <sic>canno</sic> be helped.</p>
+                              <p rend="indent(1)">I told you we had formed a Sunday School here.
+                                        Perhaps you<lb/> would like a little information as to our
+                                        doings. I asked a meeting<lb/> at my <add>?</add> of the
+                                        ladies of the congregation, during <add>חנוכה</add>, when I
+                                        showed<lb/> them the necessity for some <add>?</add> being
+                                        made for the more efficient<lb/> religious instruction of
+                                        the young etc. In the usual course it was proposed<lb/> and
+                                        carried to establish a SS after the model of that
+                                        established<lb/> by the estimable <persName>Miss
+                                                  Gratz</persName> of your city. I was elected
+                                        superintendent<lb/> tho' I would have preferred that the
+                                        truth had been confided</p>
+                              <pb n="3"/>
+                              <p>to a <placeName>Montreal</placeName>
+                                        <persName>Miss Gratz</persName>—but it was necessary I
+                                        should accept<lb/> and I did so. The young ladies of the
+                                        Cong. were elected teachers <del>and are</del><lb/>
+                                        <add>?</add> to act when required. The present teachers are
+                                                  <persName>Miss Phoebe David</persName><lb/> who is
+                                        also secretary. <persName>Miss Rebekah Joseph</persName>,
+                                        and <persName>Miss Sarah Solomon</persName>.<lb/> The pupils
+                                        the first day were <del>27 an</del> 21 and have so
+                                        continued.<lb/> Books used—Pykes—Peichotto, and elder (boys)
+                                        Solomons Mosaic System<lb/> a copy of which was presented me
+                                        in <placeName>New York</placeName>. I need not add
+                                        further<lb/> particulars as these would be common to all
+                                        such schools.</p>
+                              <p rend="indent(1)">I am sorry to find you are not to inquire now of
+                                        the Proposed assembly<lb/> coming to something speedily. I
+                                        hope you are deceived <persName>J. H. Isaacs</persName>
+                                        letter<lb/> surprised me a little—he should not have
+                                                  <add>?</add> of difficulties and differences<lb/>
+                                        of opinion I still insist upon the <add>?</add> I forwarded
+                                        you being<lb/> correct that they will not be found in the
+                                        copy—and it is the fault<lb/> of the printers. I have yet a
+                                        copy of the article which I would send<lb/> if necessary.
+                                        The serious errors such as making the Jews settle in
+                                                  <placeName>Rome</placeName><add>?</add><lb/>
+                                        instead of <placeName>England</placeName> were I am quite
+                                        confident the faults of your barberous<lb/> named
+                                        compositors. I beg to acknowledge the Voice of Jacob
+                                        and<lb/> return you many thanks for your prompt attention to
+                                        my request. The<lb/>
+                                        <add>?</add> magazine has been discontinued and I hear it is
+                                        to reappear<lb/> in the reform interest. I know the two
+                                                  L<add>?</add>s and am not much<lb/> surprised by
+                                        this. Since <persName>Dr B</persName><add>?</add> retired
+                                        from the Editorship of the V_it<lb/> and its followers have
+                                        changed their colors like the chameleon.</p>
+                              <p rend="indent(1)">I gave your receipts to the <persName>Messrs
+                                                  Benjamin</persName>. The think they<lb/>
+                                        <sic>dont</sic> owe so much but will refer to their books. I
+                                        will pay<lb/> over the money to your agent as soon as I can
+                                                  <add>?</add> it.<lb/> Of course you know that you
+                                        said agent is a Paper. <persName>Mrs J<lb/> H J</persName>
+                                        has a daughter. <persName>Mr J.</persName> altho' formerly
+                                        (i. e. before I came<lb/> out) one of the warmest &amp; best
+                                        supporters of the Synagogue, from<lb/> some reason or other,
+                                        cannot, unfortunately be persuaded to</p>
+                              <pb n="4"/>
+                              <p>belong thereto. But all this occurred before I came to
+                                                  <placeName>Canada</placeName> as I before<lb/>
+                                        said—else I would have acted as mediator—now it is a
+                                        different<lb/> matter to bring things around. If it had been
+                                        a <add>?</add>, the Cong had<lb/> determined to make him pay
+                                        handsomely—even his relations. As it<lb/> is don't be
+                                        surprised if you have to name the young one in the<lb/>
+                                        <add>?</add>—of course all I have said of this affair is
+                                                  sub<add>?</add><lb/> My dear fellow, you appear
+                                        just as anxious as you would represent<lb/> me to appear, to
+                                        demonstrate that you have no claims on<lb/> the ladies we
+                                        have discovered about. Claims? Who said you had?<lb/> Have
+                                        you any <hi rend="underline">old Orients</hi> &amp;tc which
+                                        you could let me have, as their<lb/> perusal would be some
+                                        benefit to me in rubbing up what little I know<lb/> of
+                                        Deutsch. You would oblige me much by lending them me as
+                                        you<lb/> receive them, you might send them by opportunity
+                                        and so I would<lb/> return them. My father receives them
+                                        all, but it would be difficult<lb/> and expensive to receive
+                                        them from <placeName>Europe</placeName>.</p>
+                              <p rend="indent(1)">I trust that having written you so frequently
+                                        lately that<lb/> you will not be quite so cheery with your
+                                        correspondence but let<lb/> me hear from you soon and fully.
+                                        One half the topics I write you<lb/> on you never deign to
+                                        answer <add>?</add> I insert you an invitation<lb/> to come
+                                        in here in the summer.—<add>ואין קול</add>! Wait till I ask
+                                        you<lb/> again. I asked you, “are you going to publish
+                                                  Peril<add>?</add>
+                                        <add>ואין עונה</add>! You<lb/> are certainly a civil
+                                        gentleman to say the least of you, still I conclude
+                                        nevertheless<lb/> with health and prosperity to you, wishing
+                                        you may enjoy every,<lb/> happiness that I wish</p>
+                              <p rend="indent(7)">Yours very sincerely</p>
+                              <p rend="indent(8)">
+                                        <persName role="author">Abraham de Sola</persName>
+                              </p>
+                              <p>
+                                        <addressee>Rev. Isaac Leeser</addressee>
+                              </p>
+                              <p rend="indent(1)">
+                                        <placeName>Philadelphia</placeName>
+                              </p>
+                              <p><persName>Miss Catherine Vallentine</persName> died <date>Wed, 17
+                                                  Jany</date></p>
+                              <p> she was sister to <persName>Mr Valentine</persName> One of</p>
+                              <p>the founders of the Syn. Does she deserve</p>
+                              <p>an obituary in the Oc. or are these paid for—</p>
+                              <p> She was a truly, religious and charitable person.</p>
+                              <p><persName>Jacob</persName> send you some of my article till</p>
+                              <p rend="indent(1)">I hear from you.</p>
+                    </body>
+          </text>
 </TEI>

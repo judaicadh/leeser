@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
         <fileDesc>
             <titleStmt>
                 <title>[no title given]</title>
-                <author attested="yes" accepted="yes" signature="yes">Seligman, Isaac</author>
+                <author accepted="yes" attested="yes" signature="yes">Seligman, Isaac</author>
                 <editor/>
                 <sponsor/>
                 <funder/>
@@ -47,7 +49,9 @@
                         <settlement>New York</settlement>
                         <institution>Jewish Theological Seminary</institution>
                         <repository/>
-                        <collection>The Abraham and Deborah Karp Collection of Early American Judaica at the Library of the Jewish Theological Seminary of America</collection>
+                        <collection>The Abraham and Deborah Karp Collection of Early American
+                            Judaica at the Library of the Jewish Theological Seminary of
+                            America</collection>
                         <idno/>
                         <altIdentifier>
                             <idno/>
@@ -56,9 +60,9 @@
                     </msIdentifier>
                     <head/>
                     <letHeading>
-                        <author attested="yes" accepted="yes" signature="yes">Seligman,
+                        <author accepted="yes" attested="yes" signature="yes">Seligman,
                             Isaac</author>
-                        <addressee editor="false" attested="yes" accepted="yes">Leeser,
+                        <addressee accepted="yes" attested="yes" editor="false">Leeser,
                             Isaac</addressee>
                         <deliverer/>
                         <respStmt>
@@ -67,7 +71,7 @@
                         </respStmt>
                         <placeLet>New York, NY</placeLet>
                         <placeRec>Philadelphia, PA</placeRec>
-                        <dateLet when="1853-10" source="" attested="yes">23 October 1853</dateLet>
+                        <dateLet attested="yes" source="" when="1853-10">23 October 1853</dateLet>
                     </letHeading>
                     <msContents>
                         <msItem>
@@ -93,7 +97,8 @@
                         <objectDesc>
                             <supportDesc>
                                 <support>
-                                    <material color="" lined="false" paper_type="" size="Letter">letter</material>
+                                    <material color="" lined="false" paper_type="" size="Letter"
+                                        >letter</material>
                                 </support>
                                 <extent>1 page on 1 sheet <dimensions/>
                                 </extent>
@@ -234,23 +239,19 @@
     </teiHeader>
     <text>
         <body>
-
             <pb n="1"/>
-
             <p>Rev. <addressee>Isaac Leeser</addressee></p>
-            <p rend="indent(1)">Dear Sir&#33;</p>
-            <p rend="indent(2)">Accompany&#8211;<lb/>ing this letter you will find the Asmonean<lb/> which contains a
-                full account of the Lecture<lb/> delivered before the Hebrew Young Men&#39;s<lb/>
-                Literary Association&#44; of which you are an<lb/> honorary member. If you could
-                find the<lb/> space for it or part of it in your magazine you would greatly<lb/>
-                oblige me and further the cause of the<lb/> Society by giving publicity to the
-                occurrence.<lb/> Yours Respectfully<lb/><persName role="author">Isaac
-                    Seligman</persName><lb/> President of the Hebrew Young Men&#39;s<lb/> Literary
-                Association <placeName>N. Y.&#47; N. Y. 40 Beaver St.</placeName><lb/>
+            <p rend="indent(1)">Dear Sir!</p>
+            <p rend="indent(2)">Accompany–<lb/>ing this letter you will find the Asmonean<lb/> which
+                contains a full account of the Lecture<lb/> delivered before the Hebrew Young
+                Men's<lb/> Literary Association, of which you are an<lb/> honorary member. If you
+                could find the<lb/> space for it or part of it in your magazine you would
+                greatly<lb/> oblige me and further the cause of the<lb/> Society by giving publicity
+                to the occurrence.<lb/> Yours Respectfully<lb/><persName role="author">Isaac
+                    Seligman</persName><lb/> President of the Hebrew Young Men's<lb/> Literary
+                Association <placeName>N. Y./ N. Y. 40 Beaver St.</placeName><lb/>
             </p>
-            <p><date>Oct 23</date>&#47;53.</p>
-
-
+            <p><date>Oct 23</date>/53.</p>
         </body>
     </text>
 </TEI>

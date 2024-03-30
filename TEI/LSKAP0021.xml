@@ -1,267 +1,300 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE TEI [
-<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
-%teibase;
-<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
-%teiext;
-]>
-<TEI>
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="yes">Lowenthal, H.</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>LSKAP</repository>
-						<collection>The Arnold and Deanne Kaplan Collection of Early American Judaica</collection>
-						<idno>LSKAP0021</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="yes">Lowenthal, H.</author>
-						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac</addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet></placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1857-06" source="" attested="yes">24 June 1857</dateLet>
-						<dateLet when="1857-06" source="" attested="yes">2 Tamuz 5617</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="LSKAP0021_1R.jpg"></graphic>
-								<graphic url="LSKAP0021_1V.jpg"></graphic>
-								<graphic url="LSKAP0021_2R.jpg"></graphic>
-								<graphic url="LSKAP0021_2V.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="false" paper_type="" size="">letter</material>
-								</support>
-								<extent>4 pages on 2 sheets
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="manuscript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="restricted">
-								<p>Restricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-				<language ident="he">Hebrew</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1R"/>
-				<p><placeName>La Fayette</placeName> Inc <date>24 June 5617</date></p>
-				<p><addressee>Rev I Leeser</addressee></p>
-			<p rend="indent(1)"><placeName>Philadelphia</placeName></p>
-				<p>Revd &#38; Dr Sir</p>
-			<p rend="indent(2)">My engagements are brief&#44;<lb/> &#38; so are yours&#59; allow me therefore<lb/> to ask of you an immediate reply<lb/> upon the following questions.</p>
-			<p rend="indent(1)">1. Whether the <add>Hebrew</add> is not allowed to<lb/> Kill for a member of his Congren on<lb/> <add>Hebrew</add> when called upon&#59; after he hath<lb/> prepared his <add>Hebrew</add> &#38;c <add>Hebrew</add> on <add>Hebrew</add>&#63;</p>
-			<p rend="indent(1)">2. Whether the <add>Hebrew</add> is bound to ask<lb/> the party that desire his services&#44; say&#44;<lb/> to kill an <add>Hebrew</add>&#44; whether it is for<lb/> a sick person&#63;  &#40;consequently&#44; if it<lb/> is not for a sick person he must<lb/> not kill it&#33;&#41;</p>
-			<p rend="indent(1)">3. rdly <del>Whether the <add>Hebrew</add> has</del> Upon which day of <add>Hebrew</add> the <add>Hebrew</add><lb/> has more permission&#44; according</p>
-			<pb n="1V"/>
-				<p>to <add>Hebrew</add> &#38;c &#38;c<lb/> on the first or on the second&#63;<lb/>  I shall esteem it a particular favor&#44; if you have<lb/> the goodness in answering<lb/> me the above <sic>querries</sic><lb/> as soon as possible.</p>
-				<p>It&#39;s most astonishing<lb/> how pious people &#40;that<lb/> violate the <date>Sabbath</date> &#38;c<lb/> &#38; defile the Law of <add>Hebrew</add><lb/> &#38;c. &#38; never enter the gate<lb/> of a Syn.&#41; are&#44; that when<lb/> they see that the <add>Hebrew</add><lb/> hath Nulled a chicken<lb/> on the first day <add>Hebrew</add> for</p>
-			<pb n="2R"/>
-				<p>a member&#59; they<lb/> <sic>challeng</sic> &#38; abuse<lb/> the <add>Hebrew</add> for being<lb/> very indifferent<lb/> to his duty&#33;  And<lb/> of cause&#44; who shall<lb/> decide upon such<lb/> matters&#63;  if I offer<lb/> them the <add>Hebrew</add> they<lb/> can&#39;t read&#8212;nor have<lb/> they faith in the translation<lb/> of a person so wicked<lb/> &#40;according to their <sic>oppinion</sic>&#41; as<lb/> to kill an <add>Hebrew</add> when <del>aft</del> demanded<lb/> of him&#33;  Yr kind answer<lb/> I will show to justify my&#61;<lb/>self.  Yrs faithfully</p>
-				<p><persName role="author">H Lowenthal</persName></p>
-			<pb n="2V"/>
-				<p>N. B.</p>
-				<p>Shall the <add>Hebrew</add> be<lb/> guided in his capacity<lb/> by <hi rend="underline">some</hi> of his con.<lb/> &#40;which seek their<lb/> destruction &#38; not<lb/> their welfare&#41; or by<lb/> the <add>Hebrew</add> appertaining<lb/> to <add>Hebrew</add> where<lb/> shall <hi rend="underline">he</hi> or <hi rend="underline">they</hi> seek<lb/> redress &#38; upon whose<lb/> judgment &#38;c ought they<lb/> to rely&#63;  A comment on the<lb/> above theme in yr next <sic>valle.</sic><lb/> magazine will be gratefully<lb/> admired.  <persName role="author">H. L.</persName></p>
-		</body>
-	</text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="yes">Lowenthal, H.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>LSKAP</repository>
+                        <collection>The Arnold and Deanne Kaplan Collection of Early American
+                            Judaica</collection>
+                        <idno>LSKAP0021</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="yes">Lowenthal, H.</author>
+                        <addressee accepted="yes" attested="yes" editor="false">Leeser,
+                            Isaac</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet/>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1857-06">24 June 1857</dateLet>
+                        <dateLet attested="yes" source="" when="1857-06">2 Tamuz 5617</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="LSKAP0021_1R.jpg"/>
+                                <graphic url="LSKAP0021_1V.jpg"/>
+                                <graphic url="LSKAP0021_2R.jpg"/>
+                                <graphic url="LSKAP0021_2V.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >letter</material>
+                                </support>
+                                <extent>4 pages on 2 sheets <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="restricted">
+                                <p>Restricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="he">Hebrew</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1R"/>
+            <p><placeName>La Fayette</placeName> Inc <date>24 June 5617</date></p>
+            <p>
+                <addressee>Rev I Leeser</addressee>
+            </p>
+            <p rend="indent(1)">
+                <placeName>Philadelphia</placeName>
+            </p>
+            <p>Revd &amp; Dr Sir</p>
+            <p rend="indent(2)">My engagements are brief,<lb/> &amp; so are yours; allow me
+                therefore<lb/> to ask of you an immediate reply<lb/> upon the following
+                questions.</p>
+            <p rend="indent(1)">1. Whether the <add>שוחט</add> is not allowed to<lb/> Kill for a
+                member of his Congren on<lb/>
+                <add>יו"ט</add> when called upon; after he hath<lb/> prepared his <add>חלוק</add>
+                &amp;c <add>כדינא</add> on <add>ערב יוט</add>?</p>
+            <p rend="indent(1)">2. Whether the <add>שוחט</add> is bound to ask<lb/> the party that
+                desire his services, say,<lb/> to kill an <add>עוף</add>, whether it is for<lb/> a
+                sick person? (consequently, if it<lb/> is not for a sick person he must<lb/> not
+                kill it!)</p>
+            <p rend="indent(1)">3. rdly <del>Whether the <add>שוחט</add> has</del> Upon which day of
+                    <add>יוט</add> the <add>שוחט</add><lb/> has more permission, according</p>
+            <pb n="1V"/>
+            <p>to <add>אורח חיים</add> &amp;c &amp;c<lb/> on the first or on the second?<lb/> I
+                shall esteem it a particular favor, if you have<lb/> the goodness in answering<lb/>
+                me the above <sic>querries</sic><lb/> as soon as possible.</p>
+            <p>It's most astonishing<lb/> how pious people (that<lb/> violate the
+                    <date>Sabbath</date> &amp;c<lb/> &amp; defile the Law of <add>אכילת
+                כשר</add><lb/> &amp;c. &amp; never enter the gate<lb/> of a Syn.) are, that
+                when<lb/> they see that the <add>שוחט</add><lb/> hath Nulled a chicken<lb/> on the
+                first day <add>יוט</add> for</p>
+            <pb n="2R"/>
+            <p>a member; they<lb/>
+                <sic>challeng</sic> &amp; abuse<lb/> the <add>שוחט</add> for being<lb/> very
+                indifferent<lb/> to his duty! And<lb/> of cause, who shall<lb/> decide upon
+                such<lb/> matters? if I offer<lb/> them the <add>בספר דינים</add> they<lb/> can't
+                read—nor have<lb/> they faith in the translation<lb/> of a person so wicked<lb/>
+                (according to their <sic>oppinion</sic>) as<lb/> to kill an <add>יוט</add> when
+                    <del>aft</del> demanded<lb/> of him! Yr kind answer<lb/> I will show to justify
+                my=<lb/>self. Yrs faithfully</p>
+            <p>
+                <persName role="author">H Lowenthal</persName>
+            </p>
+            <pb n="2V"/>
+            <p>N. B.</p>
+            <p>Shall the <add>שוחט</add> be<lb/> guided in his capacity<lb/> by <hi rend="underline"
+                    >some</hi> of his con.<lb/> (which seek their<lb/> destruction &amp; not<lb/>
+                their welfare) or by<lb/> the <add>דינים</add> appertaining<lb/> to <add>ענין
+                    שחיטות</add> where<lb/> shall <hi rend="underline">he</hi> or <hi
+                    rend="underline">they</hi> seek<lb/> redress &amp; upon whose<lb/> judgment
+                &amp;c ought they<lb/> to rely? A comment on the<lb/> above theme in yr next
+                    <sic>valle.</sic><lb/> magazine will be gratefully<lb/> admired. <persName
+                    role="author">H. L.</persName></p>
+        </body>
+    </text>
 </TEI>

@@ -1,261 +1,326 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="unk">Kalish?, Israel</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>LSKAP</repository>
-						<collection>The Arnold and Deanne Kaplan Collection of Early American Judaica</collection>
-						<idno>LSKAP_NC-3</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="unk">Kalish?, Israel</author>
-						<addressee editor="false" attested="yes" accepted="yes">Goldsmith, Menacham</addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>Cleveland, OH</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1852-12" source="" attested="yes">December 1852</dateLet>
-						<dateLet when="1852-12" source="" attested="yes">Kislev 5613</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="leeser_05_2011_nc_3_1.jpg"></graphic>
-								<graphic url="leeser_05_2011_nc_3_2.jpg"></graphic>
-								<graphic url="leeser_05_2011_nc_3_3.jpg"></graphic>
-								<graphic url="leeser_05_2011_nc_3_4.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="false" paper_type="" size="Letter">letter</material>
-								</support>
-								<extent>3 pages on 3 sheets
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="typescript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="restricted">
-								<p>Restricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1"/>
-				<p rend="align(center)">An Answer</p>
-				<p>To <addressee>Menacham Goldsmith</addressee> of the city of <placeName>New York</placeName> about his opinions in the<lb/> matter of the &#34;Get&#34; here in <placeName>Cleveland</placeName>.</p>
-				<p><hi rend="underline">Motto</hi></p>
-				<p><persName>Rabbi Jeremiah</persName> said&#44; &#34;&#39;He placed me in the darkness like the dead of the<lb/> world&#39; &#40;Lamentations 3&#58;6&#41; This is the Babylonian<lb/> Talmud &#40;Syhhedrin 24&#59;1&#41;&#34; And I say&#44; &#34;This is the<lb/> Talmud of <persName>Menachem Goldsmith</persName> of <placeName>New York</placeName>&#34;.</p>
-				<p>In this magazine&#44; in the issue of <date>Heshvan</date>&#44; as well as in others&#44; I have<lb/> read letters of men who are of the type of those 3 about whom our sages<lb/> said that a meeting with them bodes ill.  The first of these is <persName>Halevi</persName>&#44;<lb/> whom I found deaf to my words&#44; and he prides himself by saying that<lb/> righteousness dwells with him.  To him I wrote my letter in the &#34;Asmonean&#34;<lb/> and the &#34;Occident&#34;.  The second one is <persName>Menachem Goldsmith</persName> of <placeName>New York</placeName><lb/> who joined with the former and has taken double of the other one&#39;s spirit&#44;<lb/> double meaning both folly and childishness.  And because God has smitten<lb/> them with blindness and deprived them of wisdom and human intelligence&#44;<lb/> they have divided themselves into three watches in this night of their<lb/> folly.  Thus I understand it as our sages said&#44; that in the first watch<lb/> the barking of a dog is heard&#44; in the second the neighing of a donkey&#44;<lb/> and in the third the talk of a woman.</p>
-				<p>The sparks of pride and perversion of folly arouses within them and<lb/> raises up a smoke of anger.  They are very angry at me and my friend&#44;&#8212;<lb/> my friend dear to me as my soul&#44; the Rabbi&#44; the sharpwitted and the learned<lb/> <persName>Rabbi <hi rend="underline">Isaac Wise</hi></persName>&#44; who occupies the chair of the rabbinate in the city of<lb/> <placeName>Albany</placeName>&#44; the glorious pupil of the great light&#44; <persName>Rabbi Samuel Landau</persName>.&#42; <sic>may</sic><lb/> the memory of the righteous be for a blessing&#44; and of <persName>Rabbi <hi rend="underline">Wolf</hi></persName> <del>son of</del><lb/> <del> <add>&#63;</add> </del> <add>&#63;</add>.  <persName>Leib</persName> son of <persName>Rabbi Ezekiel Glogau</persName>.  Also upon that mighty man&#44; the<lb/> peerless and learned&#44; full of good qualities&#44; <persName>Simon Abraham</persName>&#44; they poured<lb/> out their wrath.  They did this because we did not shut our mouth and<lb/> keep quiet&#44; even though we knew for certain that the &#34;Get&#34; arranged here</p>
-				<p rend="The following is written in pencil inside a diamond at the bottom of the page.">N</p> 
-			<pb n="2"/>
-				<p rend="align(center)">2</p>
-				<p>by a certain man <persName>Levi</persName>&#44; was invalid for a great many reasons&#44; the roots of<lb/> which go back to the Babylonian Talmud and the <placeName>Jerusalem</placeName> Talmud and the<lb/> other legislators&#44; greater than the new laws of <persName>Menachem Goldsmith</persName> of <placeName>New<lb/> York</placeName> about which I have never heard and never known until this day&#44; and<lb/> which have been hidden from every man of understanding.  Indeed&#44; legally<lb/> one ought not to pay any attention to the silly words of such men&#44; for<lb/> why should we waste the days of our life which God has given us to study<lb/> and to teach the Torah&#63;  But in order to show that we have not come mere&#45;<lb/>ly to criticize but to establish the truth upon its foundation&#44; I shall do<lb/> more than justice&#44; and reply to all the opinions of <persName>Menachem Goldsmith</persName><lb/> which were printed in this publication in the month of <date>Heshvan</date>.  I shall<lb/> do as well as God will permit me.</p>
-				<p>Note&#58;</p>
-			<p rend="indent(1)">The rest is a refutation&#44; point by point&#44; of <persName>Goldsmith&#39;s</persName> defense of<lb/> that &#34;Get&#34;.  It is purely a legal argument&#44; written in the same tone as<lb/> above.  It is signed<lb/> <persName role="author">Israel</persName> son of <persName>Simcha Binem Kalish</persName>&#44;<lb/> Rabbi of <placeName>Cleveland</placeName>&#44;<lb/> <date>Kislev &#40;December&#41; 5613 1852</date>.</p>
-				<p><date>Ab</date><lb/> Rosh Beni Din</p>
-				<p>beg <persName>Landau</persName> rabbinical family<lb/> <add>&#63;</add> ab 12 cent ago fool Shebollz<lb/> <hi rend="underline">Nodesh be <add>&#63;</add></hi>.<lb/> <persName>Glojau</persName>&#8212;rab. family.</p>
-			<pb n="3"/>
-			<p rend="align(right)">Krotoschint. Kot<add>&#63;</add>.</p>
-				<p>German Posen&#45;part&#45;talse<add>&#63;</add> by German</p>
-				<p><date>1772</date>. &#40;Retd to <placeName>Poland</placeName>&#41;&#8212;in <date>20th<lb/> cent</date> after war.</p>
-				<p>Place of report Talmud<lb/> publication. &#40;Palestinian&#41;<lb/> best &#40;today Hebrew books.</p>
-		</body>
-	</text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="unk">Kalish?, Israel</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>LSKAP</repository>
+                        <collection>The Arnold and Deanne Kaplan Collection of Early American
+                            Judaica</collection>
+                        <idno>LSKAP_NC-3</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="unk">Kalish?,
+                            Israel</author>
+                        <addressee accepted="yes" attested="yes" editor="false">Goldsmith,
+                            Menacham</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Cleveland, OH</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1852-12">December 1852</dateLet>
+                        <dateLet attested="yes" source="" when="1852-12">Kislev 5613</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="leeser_05_2011_nc_3_1.jpg"/>
+                                <graphic url="leeser_05_2011_nc_3_2.jpg"/>
+                                <graphic url="leeser_05_2011_nc_3_3.jpg"/>
+                                <graphic url="leeser_05_2011_nc_3_4.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size="Letter"
+                                        >letter</material>
+                                </support>
+                                <extent>3 pages on 3 sheets <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="restricted">
+                                <p>Restricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <p rend="align(center)">An Answer</p>
+            <p>To <addressee>Menacham Goldsmith</addressee> of the city of <placeName>New
+                    York</placeName> about his opinions in the<lb/> matter of the "Get" here in
+                    <placeName>Cleveland</placeName>.</p>
+            <p>
+                <hi rend="underline">Motto</hi>
+            </p>
+            <p><persName>Rabbi Jeremiah</persName> said, "'He placed me in the darkness like the
+                dead of the<lb/> world' (Lamentations 3:6) This is the Babylonian<lb/> Talmud
+                (Syhhedrin 24;1)" And I say, "This is the<lb/> Talmud of <persName>Menachem
+                    Goldsmith</persName> of <placeName>New York</placeName>".</p>
+            <p>In this magazine, in the issue of <date>Heshvan</date>, as well as in others, I
+                have<lb/> read letters of men who are of the type of those 3 about whom our
+                sages<lb/> said that a meeting with them bodes ill. The first of these is
+                    <persName>Halevi</persName>,<lb/> whom I found deaf to my words, and he prides
+                himself by saying that<lb/> righteousness dwells with him. To him I wrote my letter
+                in the "Asmonean"<lb/> and the "Occident". The second one is <persName>Menachem
+                    Goldsmith</persName> of <placeName>New York</placeName><lb/> who joined with the
+                former and has taken double of the other one's spirit,<lb/> double meaning both
+                folly and childishness. And because God has smitten<lb/> them with blindness and
+                deprived them of wisdom and human intelligence,<lb/> they have divided themselves
+                into three watches in this night of their<lb/> folly. Thus I understand it as our
+                sages said, that in the first watch<lb/> the barking of a dog is heard, in the
+                second the neighing of a donkey,<lb/> and in the third the talk of a woman.</p>
+            <p>The sparks of pride and perversion of folly arouses within them and<lb/> raises up a
+                smoke of anger. They are very angry at me and my friend,—<lb/> my friend dear to me
+                as my soul, the Rabbi, the sharpwitted and the learned<lb/>
+                <persName>Rabbi <hi rend="underline">Isaac Wise</hi></persName>, who occupies the
+                chair of the rabbinate in the city of<lb/>
+                <placeName>Albany</placeName>, the glorious pupil of the great light,
+                    <persName>Rabbi Samuel Landau</persName>.* <sic>may</sic><lb/> the memory of the
+                righteous be for a blessing, and of <persName>Rabbi <hi rend="underline"
+                    >Wolf</hi></persName>
+                <del>son of</del><lb/>
+                <del>
+                    <add>?</add>
+                </del>
+                <add>?</add>. <persName>Leib</persName> son of <persName>Rabbi Ezekiel
+                    Glogau</persName>. Also upon that mighty man, the<lb/> peerless and learned,
+                full of good qualities, <persName>Simon Abraham</persName>, they poured<lb/> out
+                their wrath. They did this because we did not shut our mouth and<lb/> keep quiet,
+                even though we knew for certain that the "Get" arranged here</p>
+            <p rend="The following is written in pencil inside a diamond at the bottom of the page."
+                >N</p>
+            <pb n="2"/>
+            <p rend="align(center)">2</p>
+            <p>by a certain man <persName>Levi</persName>, was invalid for a great many reasons, the
+                roots of<lb/> which go back to the Babylonian Talmud and the
+                    <placeName>Jerusalem</placeName> Talmud and the<lb/> other legislators, greater
+                than the new laws of <persName>Menachem Goldsmith</persName> of <placeName>New<lb/>
+                    York</placeName> about which I have never heard and never known until this day,
+                and<lb/> which have been hidden from every man of understanding. Indeed,
+                legally<lb/> one ought not to pay any attention to the silly words of such men,
+                for<lb/> why should we waste the days of our life which God has given us to
+                study<lb/> and to teach the Torah? But in order to show that we have not come
+                mere-<lb/>ly to criticize but to establish the truth upon its foundation, I shall
+                do<lb/> more than justice, and reply to all the opinions of <persName>Menachem
+                    Goldsmith</persName><lb/> which were printed in this publication in the month of
+                    <date>Heshvan</date>. I shall<lb/> do as well as God will permit me.</p>
+            <p>Note:</p>
+            <p rend="indent(1)">The rest is a refutation, point by point, of
+                    <persName>Goldsmith's</persName> defense of<lb/> that "Get". It is purely a
+                legal argument, written in the same tone as<lb/> above. It is signed<lb/>
+                <persName role="author">Israel</persName> son of <persName>Simcha Binem
+                    Kalish</persName>,<lb/> Rabbi of <placeName>Cleveland</placeName>,<lb/>
+                <date>Kislev (December) 5613 1852</date>.</p>
+            <p><date>Ab</date><lb/> Rosh Beni Din</p>
+            <p>beg <persName>Landau</persName> rabbinical family<lb/>
+                <add>?</add> ab 12 cent ago fool Shebollz<lb/>
+                <hi rend="underline">Nodesh be <add>?</add></hi>.<lb/>
+                <persName>Glojau</persName>—rab. family.</p>
+            <pb n="3"/>
+            <p rend="align(right)">Krotoschint. Kot<add>?</add>.</p>
+            <p>German Posen-part-talse<add>?</add> by German</p>
+            <p><date>1772</date>. (Retd to <placeName>Poland</placeName>)—in <date>20th<lb/>
+                    cent</date> after war.</p>
+            <p>Place of report Talmud<lb/> publication. (Palestinian)<lb/> best (today Hebrew
+                books.</p>
+        </body>
+    </text>
 </TEI>

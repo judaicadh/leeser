@@ -1,263 +1,366 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="unk">Sabatto, H. I.</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>CAJS Isaac Leeser Collection</repository>
-						<collection>The Library of the Dropsie College for Hebrew and Cognate Learning</collection>
-						<idno>LSDCBx2FF1_95</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="unk">Sabatto, H. I.</author>
-						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac, Rev.</addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>San Francisco, CA</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1854-12" source="" attested="yes">19 December 1854</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="ilcajs_b2f1_0095_1r.jpg"></graphic>
-								<graphic url="ilcajs_b2f1_0095_1v.jpg"></graphic>
-								<graphic url="ilcajs_b2f1_0095_2r.jpg"></graphic>
-								<graphic url="ilcajs_b2f1_0095_2v.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="true" paper_type="" size="Letter">letter</material>
-								</support>
-								<extent>2 pages on 2 sheets
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="manuscript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="free">
-								<p>Unrestricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1"/>
-				<p rend="align(center)">C O P Y</p>
-				<p rend="align(right)"><placeName>San Francisco</placeName>&#44; <date>Dec. 19.1854</date>.</p>
-				<p><addressee>Rev. Isaac Leeser</addressee></p>
-			<p rend="indent(1)">Dear Sir&#58;</p>
-			<p rend="indent(2)">I received yours of late date by last steamer and conveyed the<lb/> various respects to your friends as desired.  <persName>Mr. Mason&#39;s</persName> Estate I regret to inform<lb/> you will not pay even borrowed money &#38; therefore you can scarcely expect pay.<lb/>  However I will do my utmost.</p>
-			<p rend="indent(1)">Relative to your letter about ministers let me explain.  <persName>Dr. Eckman</persName> came<lb/> out here on his own hook &#38; unexpectedly.  When he married me in <placeName>N. O.</placeName> I gave him<lb/> no encouragement for I knew he would not suit our people.  I then heard from<lb/> <persName>Mr. Gutheim</persName> that a friend of his would probably be taken up.  <persName>Dr. E.</persName> knew this&#44;<lb/> but took the chances.  He was not elected here until we heard <persName>Dr. Steinberg</persName><lb/> could or would not come&#44; for what reasons we are childishly ignorant.  <persName>Dr. E.</persName> only<lb/> received 26 votes&#44; the 7 others blank.  The salary of &#36;3500 was reduced to<lb/> &#36;2000&#44; &#38; the term of 3 years was reduced to <hi rend="underline">one</hi>.  Even at these sacrifices the<lb/> few who upheld him found it difficult to elect him &#38; we had to debate &#38; debate<lb/> until eleven o&#39;clock at night &#38; by skill and ingenuity crowd down the opposi&#45;<lb/>tion.  The sequel will prove how worthy he has repaid them their labor.  I was&#44;<lb/> when I saw no other minister on hand&#44; eager to take up the <persName>Doctor</persName> in order that<lb/> as a synagogue we might have a head &#38; a respectable one.  My father&#44; <persName>Louis</persName>&#44; <persName>Cohn</persName>&#44;<lb/> <persName>Sam</persName>&#44; <persName>Marx</persName> &#38; others will attest how earnestly we labored together &#38; fought the<lb/> <persName>Doctor</persName> through.</p>
-			<p rend="indent(1)">Previous to the building of the Synagogues which exist at present<lb/> we had one Shochet &#38; each congregation paid &#36;12.50 per month&#44; &#38; the butchers so<lb/> much per head&#44; making it sufficient to support a man&#44; but lately the increase<lb/> in the butcher business has been so good that our congregation determined to<lb/> suspend the payment of &#36;12.50 &#38; of licensing two Shochtim&#44; as the revenue proved<lb/> to be by examining the butchers themselves&#44; over two hundred and fifty dollars<lb/> per month&#44; and in case of <hi rend="underline">sickness</hi> one could resume the other&#39;s position.  We<lb/> gave no preferences&#44; no recommendations.  We appointed <persName>Mr. Messenger</persName> &#38; <persName>Mr. Gold&#45;<lb/>smith</persName> and allowed butchers to select their own<lb/> Shochet&#44; of the two&#44; <persName>Mr. M.</persName> However belonging to our Synagogue and <persName>Mr. G.</persName> to<lb/> the Polish.  <persName>Mr. M.</persName> came to us with 3 Robolahs from <placeName>Europe</placeName> and superior<lb/> recommendations.  I myself would not vote for both until I carefully examined<lb/> &#38; found the business would support two.  When we sent to <persName>Dr. Eckman</persName> to examine<lb/> these men he refused to examine <persName>Mr. Messenger</persName> &#38; sent us a long article about<lb/> the necessary requisitions for Schochet&#44; failing&#44; however&#44; to tell us that<lb/> <persName>Mr. M.</persName> had not proved competent.  We replied &#40;<persName>Dr. Eckman</persName> was then &#38; is now<lb/> boarding at <persName>Mr. Goldsmith</persName>&#41; that as <persName>Dr. E.</persName> wishes such a standard for Shochtim &#38;<lb/> we the trustees believed no man in <placeName>California</placeName> was competent to stand the test<lb/> &#38; we must have a Shochet rather than none&#44; such as we have always had&#44; we<lb/> appointed three of our Congregation to examine the candidates&#44; men who always<lb/> examined them&#44; previous to the arrival of <persName>Dr. Eckman</persName> in <placeName>California</placeName>.  These men<lb/> examined <persName>Mr. Messinger</persName> and pronounced him skilfull &#38; highly competent.  <persName>Mr. Gold&#45;<lb/>smith</persName> sent us a communication which evidently was dictated by the<lb/> <persName>Doctor</persName>&#44; saying in short he would not be examined by those men.  Wherefore the<lb/> Trustees rescinded his appointment.  What was our astonishment to find <persName>Dr. E.</persName><lb/> publish a card in the morning papers nullifying the act of the Trustees&#44; who<lb/> created him&#44; and pronouncing against us &#38; in favor of a foreign congregation with&#45;<lb/> out our knowledge &#38; consent &#38; virtually injuring <hi rend="underline">a man</hi> whom <hi rend="underline">he</hi> did not <hi rend="underline">deign</hi> to<lb/> question.  <persName>Dr. E.</persName> said he did not keep his <date>Sabbaths</date> previous to election&#44; whereas<lb/> we know it was utterly out of his power to do so as his bread depended on it.<lb/>  <persName>Dr. E.</persName> has been coalesced with Shochet <persName>Goldsmith</persName> &#38; has violently opposed his own congregation.  A Trustee meeting is to be held &#38; they are the <persName>Doctors</persName> warmest<lb/> supporters.  I learn they intend to request the <persName>Doctor</persName> to resign.  He who was so</p>
-			<pb n="2"/>
-				<p rend="align(center)">&#45;2&#45;</p>
-				<p>unpopular &#38; was elected by such a struggle &#38; such sacrifices has in 6 short<lb/> weeks make himself outrageously inimical to the whole congregation.  I hear but<lb/> two opinions&#44; one asking him to resign&#44; the other dismissing him from his post.</p>
-			<p rend="indent(1)">In a country it was in the <persName>Doctor&#39;s</persName> province to endear himself<lb/> to a warm &#38; ardent congregation&#44; but he has chosen the opposite.  Yesterday in<lb/> conversation the <persName>Doctor</persName> was advised by my father and myself to be careful of his<lb/> actions that the congregation were very uneasy about the Shochet matter &#38; his<lb/> position &#38; <hi rend="underline">might</hi> censure him.  He said on that subject he courted their censure<lb/> &#38; forthwith proclaimed to the world through the papers that we were all fools &#38;<lb/> knew not what we did that our Shochet was no Shochet &#38; his Shechilah to be<lb/> Terephah. &#40;see publication&#41;.</p>
-			<p rend="indent(1)">I enclose you the publication with the notes there that seem proper.<lb/>  I regret this matter on the <persName>Doctor&#39;s</persName> account.</p>
-			<p rend="indent(1)">I regret to add <persName>Dr.&#39;s</persName> statement is false in many respects&#44; as probably<lb/> his information was derived from <persName>Mr. Goldsmith</persName>.</p>
-			<p rend="indent(1)">In the first place the <persName>Doctor</persName> is not legally our Rabbi&#44; he never was<lb/> so elected.</p>
-			<p rend="indent(1)">In the second&#44; <persName><sic>Dr.E.</sic></persName> never questioned <persName>Messinger</persName>&#44; but merely listened<lb/> to calummy.</p>
-			<p rend="indent(1)">In the third&#44; he had no recourse to any expedient.  The Trustees did<lb/> so authorize him to appear before the three members without <persName>Mr. Messinger</persName><lb/> being aware of their action.</p>
-			<p rend="indent(1)">In the fourth&#44; the Congregation have adopted to eat meat of no other<lb/> Shochet than <persName>Messinger</persName> &#38; we boast as religious men as any in the world&#44;<lb/> perhaps not more so.</p>
-			<p rend="indent(1)">There will be a sequel to this of which I shall keep you advised.</p>
-			<p rend="indent(1)">Upon these remarks you may be certain <persName>Dr. E.</persName> cannot be reelected<lb/> at the end of the year &#38; if you know of any competent minister who of their<lb/> own accord or at your suggestion will visit <placeName>San Francisco</placeName> &#38; when here will act<lb/> prudently they would do well to come out.</p>
-			<p rend="indent(10)">Yrs truly</p>
-			<p rend="indent(8)">&#40;signed&#41;&#160;&#160;&#160;&#160;<persName role="author">H. I. Sabatto</persName>.</p>
-			<p rend="indent(12)"><persName>Labatt</persName></p>
-		</body>
-	</text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="unk">Sabatto, H. I.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS Isaac Leeser Collection</repository>
+                        <collection>The Library of the Dropsie College for Hebrew and Cognate
+                            Learning</collection>
+                        <idno>LSDCBx2FF1_95</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="unk">Sabatto, H.
+                            I.</author>
+                        <addressee accepted="yes" attested="yes" editor="false">Leeser, Isaac,
+                            Rev.</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>San Francisco, CA</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1854-12">19 December 1854</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="ilcajs_b2f1_0095_1r.jpg"/>
+                                <graphic url="ilcajs_b2f1_0095_1v.jpg"/>
+                                <graphic url="ilcajs_b2f1_0095_2r.jpg"/>
+                                <graphic url="ilcajs_b2f1_0095_2v.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="true" paper_type="" size="Letter"
+                                        >letter</material>
+                                </support>
+                                <extent>2 pages on 2 sheets <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <p rend="align(center)">C O P Y</p>
+            <p rend="align(right)"><placeName>San Francisco</placeName>, <date>Dec.
+                19.1854</date>.</p>
+            <p>
+                <addressee>Rev. Isaac Leeser</addressee>
+            </p>
+            <p rend="indent(1)">Dear Sir:</p>
+            <p rend="indent(2)">I received yours of late date by last steamer and conveyed the<lb/>
+                various respects to your friends as desired. <persName>Mr. Mason's</persName> Estate
+                I regret to inform<lb/> you will not pay even borrowed money &amp; therefore you can
+                scarcely expect pay.<lb/> However I will do my utmost.</p>
+            <p rend="indent(1)">Relative to your letter about ministers let me explain.
+                    <persName>Dr. Eckman</persName> came<lb/> out here on his own hook &amp;
+                unexpectedly. When he married me in <placeName>N. O.</placeName> I gave him<lb/> no
+                encouragement for I knew he would not suit our people. I then heard from<lb/>
+                <persName>Mr. Gutheim</persName> that a friend of his would probably be taken up.
+                    <persName>Dr. E.</persName> knew this,<lb/> but took the chances. He was not
+                elected here until we heard <persName>Dr. Steinberg</persName><lb/> could or would
+                not come, for what reasons we are childishly ignorant. <persName>Dr. E.</persName>
+                only<lb/> received 26 votes, the 7 others blank. The salary of $3500 was reduced
+                to<lb/> $2000, &amp; the term of 3 years was reduced to <hi rend="underline"
+                    >one</hi>. Even at these sacrifices the<lb/> few who upheld him found it
+                difficult to elect him &amp; we had to debate &amp; debate<lb/> until eleven o'clock
+                at night &amp; by skill and ingenuity crowd down the opposi-<lb/>tion. The sequel
+                will prove how worthy he has repaid them their labor. I was,<lb/> when I saw no
+                other minister on hand, eager to take up the <persName>Doctor</persName> in order
+                that<lb/> as a synagogue we might have a head &amp; a respectable one. My father,
+                    <persName>Louis</persName>, <persName>Cohn</persName>,<lb/>
+                <persName>Sam</persName>, <persName>Marx</persName> &amp; others will attest how
+                earnestly we labored together &amp; fought the<lb/>
+                <persName>Doctor</persName> through.</p>
+            <p rend="indent(1)">Previous to the building of the Synagogues which exist at
+                present<lb/> we had one Shochet &amp; each congregation paid $12.50 per month, &amp;
+                the butchers so<lb/> much per head, making it sufficient to support a man, but
+                lately the increase<lb/> in the butcher business has been so good that our
+                congregation determined to<lb/> suspend the payment of $12.50 &amp; of licensing two
+                Shochtim, as the revenue proved<lb/> to be by examining the butchers themselves,
+                over two hundred and fifty dollars<lb/> per month, and in case of <hi
+                    rend="underline">sickness</hi> one could resume the other's position. We<lb/>
+                gave no preferences, no recommendations. We appointed <persName>Mr.
+                    Messenger</persName> &amp; <persName>Mr. Gold-<lb/>smith</persName> and allowed
+                butchers to select their own<lb/> Shochet, of the two, <persName>Mr. M.</persName>
+                However belonging to our Synagogue and <persName>Mr. G.</persName> to<lb/> the
+                Polish. <persName>Mr. M.</persName> came to us with 3 Robolahs from
+                    <placeName>Europe</placeName> and superior<lb/> recommendations. I myself would
+                not vote for both until I carefully examined<lb/> &amp; found the business would
+                support two. When we sent to <persName>Dr. Eckman</persName> to examine<lb/> these
+                men he refused to examine <persName>Mr. Messenger</persName> &amp; sent us a long
+                article about<lb/> the necessary requisitions for Schochet, failing, however, to
+                tell us that<lb/>
+                <persName>Mr. M.</persName> had not proved competent. We replied (<persName>Dr.
+                    Eckman</persName> was then &amp; is now<lb/> boarding at <persName>Mr.
+                    Goldsmith</persName>) that as <persName>Dr. E.</persName> wishes such a standard
+                for Shochtim &amp;<lb/> we the trustees believed no man in
+                    <placeName>California</placeName> was competent to stand the test<lb/> &amp; we
+                must have a Shochet rather than none, such as we have always had, we<lb/> appointed
+                three of our Congregation to examine the candidates, men who always<lb/> examined
+                them, previous to the arrival of <persName>Dr. Eckman</persName> in
+                    <placeName>California</placeName>. These men<lb/> examined <persName>Mr.
+                    Messinger</persName> and pronounced him skilfull &amp; highly competent.
+                    <persName>Mr. Gold-<lb/>smith</persName> sent us a communication which evidently
+                was dictated by the<lb/>
+                <persName>Doctor</persName>, saying in short he would not be examined by those men.
+                Wherefore the<lb/> Trustees rescinded his appointment. What was our astonishment to
+                find <persName>Dr. E.</persName><lb/> publish a card in the morning papers
+                nullifying the act of the Trustees, who<lb/> created him, and pronouncing against us
+                &amp; in favor of a foreign congregation with-<lb/> out our knowledge &amp; consent
+                &amp; virtually injuring <hi rend="underline">a man</hi> whom <hi rend="underline"
+                    >he</hi> did not <hi rend="underline">deign</hi> to<lb/> question. <persName>Dr.
+                    E.</persName> said he did not keep his <date>Sabbaths</date> previous to
+                election, whereas<lb/> we know it was utterly out of his power to do so as his bread
+                depended on it.<lb/>
+                <persName>Dr. E.</persName> has been coalesced with Shochet
+                    <persName>Goldsmith</persName> &amp; has violently opposed his own congregation.
+                A Trustee meeting is to be held &amp; they are the <persName>Doctors</persName>
+                warmest<lb/> supporters. I learn they intend to request the
+                    <persName>Doctor</persName> to resign. He who was so</p>
+            <pb n="2"/>
+            <p rend="align(center)">-2-</p>
+            <p>unpopular &amp; was elected by such a struggle &amp; such sacrifices has in 6
+                short<lb/> weeks make himself outrageously inimical to the whole congregation. I
+                hear but<lb/> two opinions, one asking him to resign, the other dismissing him from
+                his post.</p>
+            <p rend="indent(1)">In a country it was in the <persName>Doctor's</persName> province to
+                endear himself<lb/> to a warm &amp; ardent congregation, but he has chosen the
+                opposite. Yesterday in<lb/> conversation the <persName>Doctor</persName> was advised
+                by my father and myself to be careful of his<lb/> actions that the congregation were
+                very uneasy about the Shochet matter &amp; his<lb/> position &amp; <hi
+                    rend="underline">might</hi> censure him. He said on that subject he courted
+                their censure<lb/> &amp; forthwith proclaimed to the world through the papers that
+                we were all fools &amp;<lb/> knew not what we did that our Shochet was no Shochet
+                &amp; his Shechilah to be<lb/> Terephah. (see publication).</p>
+            <p rend="indent(1)">I enclose you the publication with the notes there that seem
+                proper.<lb/> I regret this matter on the <persName>Doctor's</persName> account.</p>
+            <p rend="indent(1)">I regret to add <persName>Dr.'s</persName> statement is false in
+                many respects, as probably<lb/> his information was derived from <persName>Mr.
+                    Goldsmith</persName>.</p>
+            <p rend="indent(1)">In the first place the <persName>Doctor</persName> is not legally
+                our Rabbi, he never was<lb/> so elected.</p>
+            <p rend="indent(1)">In the second, <persName><sic>Dr.E.</sic></persName> never
+                questioned <persName>Messinger</persName>, but merely listened<lb/> to calummy.</p>
+            <p rend="indent(1)">In the third, he had no recourse to any expedient. The Trustees
+                did<lb/> so authorize him to appear before the three members without <persName>Mr.
+                    Messinger</persName><lb/> being aware of their action.</p>
+            <p rend="indent(1)">In the fourth, the Congregation have adopted to eat meat of no
+                other<lb/> Shochet than <persName>Messinger</persName> &amp; we boast as religious
+                men as any in the world,<lb/> perhaps not more so.</p>
+            <p rend="indent(1)">There will be a sequel to this of which I shall keep you
+                advised.</p>
+            <p rend="indent(1)">Upon these remarks you may be certain <persName>Dr. E.</persName>
+                cannot be reelected<lb/> at the end of the year &amp; if you know of any competent
+                minister who of their<lb/> own accord or at your suggestion will visit
+                    <placeName>San Francisco</placeName> &amp; when here will act<lb/> prudently
+                they would do well to come out.</p>
+            <p rend="indent(10)">Yrs truly</p>
+            <p rend="indent(8)">(signed)    <persName role="author">H. I. Sabatto</persName>.</p>
+            <p rend="indent(12)">
+                <persName>Labatt</persName>
+            </p>
+        </body>
+    </text>
 </TEI>

@@ -1,264 +1,350 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="yes">Solomon, D.</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>LSKAP</repository>
-						<collection>The Arnold and Deanne Kaplan Collection of Early American Judaica</collection>
-						<idno>LSKAP0006</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="yes">Solomon, D.</author>
-						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac</addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>Mobile, AL</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1846-01" source="" attested="yes">January 4 1846</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="LSKAP0006_1R.jpg"></graphic>
-								<graphic url="LSKAP0006_1V.jpg"></graphic>
-								<graphic url="LSKAP0006_2R.jpg"></graphic>
-								<graphic url="LSKAP0006_2V.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="false" paper_type="" size="">letter</material>
-								</support>
-								<extent>4 pages on 2 sheets
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="manuscript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="restricted">
-								<p>Restricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1R"/>
-				<p rend="align(right)"><placeName>Mobile</placeName><add>&#63;</add> <date>January 4 1846</date>.</p>
-				<p><addressee>Revd Isaac Leeser</addressee></p>
-			<p rend="indent(2)">My dear Sir</p>
-			<p rend="indent(4)">Your favor <date>25st</date> ulto came duly to<lb/> hand this day and I had become somewhat fearful that my<lb/> letter had miscarried in consequence of not hearing from you<lb/> at an earlier day but I suppose and know that like myself<lb/> your moments are so engrossed that you have barely time to<lb/> attend to the more pressing duties which claim your attention</p>
-			<p rend="indent(1)">When I left <placeName>Mobile</placeName> last summer I had firmly intended to<lb/> call upon you and have a long conference with you in several<lb/> subjects of <del>gr</del> considerable importance to the cause of our<lb/> religion but being detained at <placeName>N arlington</placeName> on my way<lb/> I was obliged to omit my intended stay at <placeName>Philadelphia</placeName><lb/> whilst journeying northward.  Contemplating to return to<lb/> your city for a few days during my stay at the<lb/> <placeName>north</placeName>.  Engagements of various character so far<lb/> interfered with my views as to render it impracticable<lb/> and <del>nt</del> I had so timed myself on my return trip<lb/> home reference to the Holidays. that I could not<lb/> delay a moment in <placeName>Philadelphia</placeName>.  I regret exceedingly<lb/> that I did not have the pleasure of meeting you</p>
-			<pb n="1V"/>
-				<p>but in the event of my again traveling northward in the<lb/> ensuing summer I shall certainly make arrangements to be<lb/> with you for a day or two under any circumstances or<lb/> &#38;  In relation to your subscribers in this place please<lb/> mention the amounts due by each for I have no copy of<lb/> the letter in which I forwarded the remittance and do not<lb/> remember how the amounts were paid.  Please specify the<lb/> sum due by each to the end of the <hi rend="underline">third volume</hi>.</p>
-			<p rend="indent(1)">I will see <persName>Goldsmith</persName> and he will I feel satisfied<lb/> continue his subscription.  he was probably absent from<lb/> the city when his number was left remaining in the<lb/> Post office.</p>
-				<p rend="align(center)">Consecration for Synagogue in <placeName>Mobile</placeName></p>
-			<p rend="indent(1)">We afford one peculiar qualification to announce<lb/> to you the success which has attended our efforts in this<lb/> city in the establishment of a congregation and place<lb/> of worship.  On <date>Friday evening 27th Kislev</date>&#44;<lb/> corresponding with <date>26 Dec.</date> we opened for the first time<lb/> the new <del>place of</del> building which <del>we have&#63;</del> had latterly<add>&#63;</add> been<lb/> preparing for <del>the</del> our use.  It was originally used by<lb/> the Episcopalians from whom it passed into the<lb/> hands of the Unitarians and upon the disorganization<lb/> of that society in our city the Universalists <del>obtained</del> leased<lb/> it and <del>not</del> used by them during the preceding year.<lb/>  That Sect having <del>obtained</del> purchased another building<lb/> the congregation concluded to leave this one and<lb/> have taken it for a term of years.  We have <del>filled</del><lb/> fitted it up&#44; in a style of simplicity and neatness which</p>
-			<pb n="2R"/>
-				<p>will accord it a place amongst the most costly of our synagogues<lb/> in this country.  The design we have had in view was<lb/> beauty and taste without any ostentatious or gaudy display<lb/> of architecture.  The work therefore is plain yet so<lb/> exceedingly neat and all the appointments being so<lb/> complete even to the covering of the entire floor that the<lb/> <hi rend="underline">coup d&#39;oeuil</hi> strikes every beholder with admiration and<lb/> satisfaction.  The opening services were under the direction<lb/> of <persName>W. Da Silva</persName> <sic>formely</sic> of <placeName>New York</placeName> who has been appointed<lb/> as <del>h</del> reader to the congregation.  In the absence of a choir<lb/> and from the fact that many and in fact a majority of<lb/> our members are unacquainted with the Portuguese<lb/> mode of reading&#44; the <del>services</del> ceremonies were<lb/> very simple and included <del><add>&#63;</add></del> little more<lb/> than the ordinary service <del>of</del> for the Eve of the<lb/> <date>Sabbath</date> with the addition of a discourse delivered by<lb/> <persName role="author">Col. D. Solomon</persName>.  It will suffice perhaps to express to you<lb/> the universal satisfaction <del>which</del> with which his remarks were<lb/> received.  There has been a general feeling of<lb/> favour and interest manifested in our undertaking by all<lb/> our coreligionists in the city and I trust I will not<lb/> be considerd as neglecting others if I particularly name<lb/> the zeal with which the President of the Congregation<lb/> &#40;<persName>Mail I Jones Eq</persName>&#41; has conducted the enterprise until its<lb/> happy consummation.  We are now fairly embarked under<lb/> the most auspicious circumstance and feel every confidence in progressing rapidly and satisfactorily.&#8221;</p>
-				<p><placeName>Mobile</placeName> <date>January 4<hi rend="sup">th</hi></date>.</p>
-			<pb n="2V"/>
-				<p>Relative to the matter of the Jewish Publication Society and also<lb/> in regard to your edition of the Pentateuch I will lay them<lb/> before the Board of <add>&#63;</add> and the congregation and hope<lb/> that we shall be able to do something for you.  <del>one dem</del> The<lb/> demands which we have lately made upon the liberality of<lb/> our friends in the completion of our undertaking here makes<lb/> me somewhat fearful that <del>th</del> all the success I could wish<lb/> for may not perhaps attend my presentation of the projects.</p>
-			<p rend="indent(1)">Please let me know whether you have any <del>edit</del> separate<lb/> numbers of the &#8220;<hi rend="underline">Daily Prayer Book</hi>&#8221; and what would be<lb/> the price for 10 or 15 of them.</p>
-			<p rend="indent(1)">In regard to my next number of &#8220;Short Sermons&#8221; I<lb/> have not commenced it because I did not know<lb/> whether you <del>might</del> would deem them worthy of publication<lb/> and was awaiting your reply.  Keep a place for me<lb/> however in your paper until the <date>20th</date> of the month<lb/> when I will endeavour to have another number in<lb/> your hands so that it can be published in <date>February</date><add>&#63;</add> number.</p>
-			<p rend="indent(1)">It would meet the views of your friends here<lb/> and might <del>perpa</del> perhaps serve some what the course of<lb/> our religion by publishing that portion of their letter<lb/> which I have marked relative to the opening of<lb/> our new place of worship.</p>
-			<p rend="indent(1)">You may expect to hear from me again in<lb/> something less than ten days.</p>
-			<p rend="indent(3)">Very truly yr friend.</p>
-			<p rend="indent(4)"><persName role="author">D Solomon</persName></p>
-				<p>Excuse the wretched writing</p>
-				<p>but I send this in haste</p>
-		</body>
-	</text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="yes">Solomon, D.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>LSKAP</repository>
+                        <collection>The Arnold and Deanne Kaplan Collection of Early American
+                            Judaica</collection>
+                        <idno>LSKAP0006</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="yes">Solomon, D.</author>
+                        <addressee accepted="yes" attested="yes" editor="false">Leeser,
+                            Isaac</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Mobile, AL</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1846-01">January 4 1846</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="LSKAP0006_1R.jpg"/>
+                                <graphic url="LSKAP0006_1V.jpg"/>
+                                <graphic url="LSKAP0006_2R.jpg"/>
+                                <graphic url="LSKAP0006_2V.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >letter</material>
+                                </support>
+                                <extent>4 pages on 2 sheets <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="restricted">
+                                <p>Restricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1R"/>
+            <p rend="align(right)"><placeName>Mobile</placeName><add>?</add>
+                <date>January 4 1846</date>.</p>
+            <p>
+                <addressee>Revd Isaac Leeser</addressee>
+            </p>
+            <p rend="indent(2)">My dear Sir</p>
+            <p rend="indent(4)">Your favor <date>25st</date> ulto came duly to<lb/> hand this day
+                and I had become somewhat fearful that my<lb/> letter had miscarried in consequence
+                of not hearing from you<lb/> at an earlier day but I suppose and know that like
+                myself<lb/> your moments are so engrossed that you have barely time to<lb/> attend
+                to the more pressing duties which claim your attention</p>
+            <p rend="indent(1)">When I left <placeName>Mobile</placeName> last summer I had firmly
+                intended to<lb/> call upon you and have a long conference with you in several<lb/>
+                subjects of <del>gr</del> considerable importance to the cause of our<lb/> religion
+                but being detained at <placeName>N arlington</placeName> on my way<lb/> I was
+                obliged to omit my intended stay at <placeName>Philadelphia</placeName><lb/> whilst
+                journeying northward. Contemplating to return to<lb/> your city for a few days
+                during my stay at the<lb/>
+                <placeName>north</placeName>. Engagements of various character so far<lb/>
+                interfered with my views as to render it impracticable<lb/> and <del>nt</del> I had
+                so timed myself on my return trip<lb/> home reference to the Holidays. that I could
+                not<lb/> delay a moment in <placeName>Philadelphia</placeName>. I regret
+                exceedingly<lb/> that I did not have the pleasure of meeting you</p>
+            <pb n="1V"/>
+            <p>but in the event of my again traveling northward in the<lb/> ensuing summer I shall
+                certainly make arrangements to be<lb/> with you for a day or two under any
+                circumstances or<lb/> &amp; In relation to your subscribers in this place
+                please<lb/> mention the amounts due by each for I have no copy of<lb/> the letter in
+                which I forwarded the remittance and do not<lb/> remember how the amounts were paid.
+                Please specify the<lb/> sum due by each to the end of the <hi rend="underline">third
+                    volume</hi>.</p>
+            <p rend="indent(1)">I will see <persName>Goldsmith</persName> and he will I feel
+                satisfied<lb/> continue his subscription. he was probably absent from<lb/> the city
+                when his number was left remaining in the<lb/> Post office.</p>
+            <p rend="align(center)">Consecration for Synagogue in <placeName>Mobile</placeName></p>
+            <p rend="indent(1)">We afford one peculiar qualification to announce<lb/> to you the
+                success which has attended our efforts in this<lb/> city in the establishment of a
+                congregation and place<lb/> of worship. On <date>Friday evening 27th
+                Kislev</date>,<lb/> corresponding with <date>26 Dec.</date> we opened for the first
+                time<lb/> the new <del>place of</del> building which <del>we have?</del> had
+                    latterly<add>?</add> been<lb/> preparing for <del>the</del> our use. It was
+                originally used by<lb/> the Episcopalians from whom it passed into the<lb/> hands of
+                the Unitarians and upon the disorganization<lb/> of that society in our city the
+                Universalists <del>obtained</del> leased<lb/> it and <del>not</del> used by them
+                during the preceding year.<lb/> That Sect having <del>obtained</del> purchased
+                another building<lb/> the congregation concluded to leave this one and<lb/> have
+                taken it for a term of years. We have <del>filled</del><lb/> fitted it up, in a
+                style of simplicity and neatness which</p>
+            <pb n="2R"/>
+            <p>will accord it a place amongst the most costly of our synagogues<lb/> in this
+                country. The design we have had in view was<lb/> beauty and taste without any
+                ostentatious or gaudy display<lb/> of architecture. The work therefore is plain yet
+                so<lb/> exceedingly neat and all the appointments being so<lb/> complete even to the
+                covering of the entire floor that the<lb/>
+                <hi rend="underline">coup d'oeuil</hi> strikes every beholder with admiration
+                and<lb/> satisfaction. The opening services were under the direction<lb/> of
+                    <persName>W. Da Silva</persName>
+                <sic>formely</sic> of <placeName>New York</placeName> who has been appointed<lb/> as
+                    <del>h</del> reader to the congregation. In the absence of a choir<lb/> and from
+                the fact that many and in fact a majority of<lb/> our members are unacquainted with
+                the Portuguese<lb/> mode of reading, the <del>services</del> ceremonies were<lb/>
+                very simple and included <del><add>?</add></del> little more<lb/> than the ordinary
+                service <del>of</del> for the Eve of the<lb/>
+                <date>Sabbath</date> with the addition of a discourse delivered by<lb/>
+                <persName role="author">Col. D. Solomon</persName>. It will suffice perhaps to
+                express to you<lb/> the universal satisfaction <del>which</del> with which his
+                remarks were<lb/> received. There has been a general feeling of<lb/> favour and
+                interest manifested in our undertaking by all<lb/> our coreligionists in the city
+                and I trust I will not<lb/> be considerd as neglecting others if I particularly
+                name<lb/> the zeal with which the President of the Congregation<lb/> (<persName>Mail
+                    I Jones Eq</persName>) has conducted the enterprise until its<lb/> happy
+                consummation. We are now fairly embarked under<lb/> the most auspicious circumstance
+                and feel every confidence in progressing rapidly and satisfactorily.”</p>
+            <p><placeName>Mobile</placeName>
+                <date>January 4<hi rend="sup">th</hi></date>.</p>
+            <pb n="2V"/>
+            <p>Relative to the matter of the Jewish Publication Society and also<lb/> in regard to
+                your edition of the Pentateuch I will lay them<lb/> before the Board of <add>?</add>
+                and the congregation and hope<lb/> that we shall be able to do something for you.
+                    <del>one dem</del> The<lb/> demands which we have lately made upon the
+                liberality of<lb/> our friends in the completion of our undertaking here makes<lb/>
+                me somewhat fearful that <del>th</del> all the success I could wish<lb/> for may not
+                perhaps attend my presentation of the projects.</p>
+            <p rend="indent(1)">Please let me know whether you have any <del>edit</del>
+                separate<lb/> numbers of the “<hi rend="underline">Daily Prayer Book</hi>” and what
+                would be<lb/> the price for 10 or 15 of them.</p>
+            <p rend="indent(1)">In regard to my next number of “Short Sermons” I<lb/> have not
+                commenced it because I did not know<lb/> whether you <del>might</del> would deem
+                them worthy of publication<lb/> and was awaiting your reply. Keep a place for
+                me<lb/> however in your paper until the <date>20th</date> of the month<lb/> when I
+                will endeavour to have another number in<lb/> your hands so that it can be published
+                in <date>February</date><add>?</add> number.</p>
+            <p rend="indent(1)">It would meet the views of your friends here<lb/> and might
+                    <del>perpa</del> perhaps serve some what the course of<lb/> our religion by
+                publishing that portion of their letter<lb/> which I have marked relative to the
+                opening of<lb/> our new place of worship.</p>
+            <p rend="indent(1)">You may expect to hear from me again in<lb/> something less than ten
+                days.</p>
+            <p rend="indent(3)">Very truly yr friend.</p>
+            <p rend="indent(4)">
+                <persName role="author">D Solomon</persName>
+            </p>
+            <p>Excuse the wretched writing</p>
+            <p>but I send this in haste</p>
+        </body>
+    </text>
 </TEI>

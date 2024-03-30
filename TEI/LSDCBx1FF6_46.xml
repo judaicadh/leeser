@@ -1,257 +1,316 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
-      <fileDesc>
-        <titleStmt>
-          <title>[no title given]</title>
-          <author attested="yes" accepted="yes" signature="yes">Frank, Gerson</author>
-          <editor></editor>
-          <sponsor></sponsor>
-          <funder></funder>
-          <principal></principal>
-          <respStmt>
-            <resp></resp>
-            <name></name>
-          </respStmt>
-        </titleStmt>
-        <editionStmt>
-          <edition></edition>
-          <respStmt>
-            <resp></resp>
-            <name></name>
-          </respStmt>
-        </editionStmt>
-        <extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-        <publicationStmt>
-          <publisher>Unpublished manuscript</publisher>
-        </publicationStmt>
-        <seriesStmt>
-          <p>Not part of a series</p>
-        </seriesStmt>
-        <notesStmt>
-          <note></note>
-        </notesStmt>
-        <sourceDesc>
-          <biblStruct>
-            <!-- catalog entry goes here -->
-            <monogr>
-              <imprint>
-                <dateLet></dateLet>
-              </imprint>
-            </monogr>
-          </biblStruct>
-          <msDesc>
-            <msIdentifier>
-              <country>USA</country>
-              <region>PA</region>
-              <settlement>Philadelphia</settlement>
-              <institution></institution>
-              <repository>CAJS Isaac Leeser Collection</repository>
-              <collection>The Library of the Dropsie College for Hebrew and Cognate Learning</collection>
-              <idno>LSDCBx1FF6_46</idno>
-              <altIdentifier>
-                <idno></idno>
-              </altIdentifier>
-              <msName></msName>
-            </msIdentifier>
-            <head></head>
-            <letHeading>
-              <author attested="yes" accepted="yes" signature="yes">Frank, Gerson</author>
-              <addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac, Rev.</addressee>
-              <deliverer></deliverer>
-              <respStmt>
-                <resp></resp>
-                <name></name>
-              </respStmt>
-              <placeLet>S. Marshfield, MA</placeLet>
-              <placeRec>Philadelphia, PA</placeRec>
-              <dateLet when="1849-07" source="" attested="yes">1 July 1849</dateLet>
-            </letHeading>
-            <msContents>
-              <msItem>
-                <author></author>
-                <editor></editor>
-                <respStmt>
-                  <resp></resp>
-                  <name></name>
-                </respStmt>
-                <title></title>
-                <decoNote></decoNote>
-                <listBibl>
-                  <bibl></bibl>
-                </listBibl>
-                <filiation></filiation>
-                <textLang></textLang>
-                <figure>
-                  <graphic url="ilcajs_b1f6_0042_1r.jpg"/>
-                  <graphic url="ilcajs_b1f6_0042_2v.jpg"/>
-                </figure>
-              </msItem>
-            </msContents>
-            <physDesc>
-              <objectDesc>
-                <supportDesc>
-                  <support>
-                    <material color="" lined="false" paper_type="" size="Letter">letter</material>
-                  </support>
-                  <extent>2 pages on 2 sheets
-                    <dimensions></dimensions>
-                  </extent>
-                  <foliation></foliation>
-                  <collation></collation>
-                  <condition fragment="false"></condition>
-                </supportDesc>
-                <layoutDesc>
-                  <layout></layout>
-                </layoutDesc>
-              </objectDesc>
-              <handDesc script="manuscript">
-                  <handNote></handNote>
-              </handDesc>
-              <decoDesc>
-                <decoNote></decoNote>
-              </decoDesc>
-              <additions></additions>
-              <bindingDesc>
-                <binding>
-                  <decoNote></decoNote>
-                </binding>
-              </bindingDesc>
-              <sealDesc>
-                <seal>
-                  <p>Wax seal</p>
-                </seal>
-              </sealDesc>
-              <accMat></accMat>
-              <envDesc occ="false"></envDesc>
-            </physDesc>
-            <history>
-              <origin></origin>
-              <provenance></provenance>
-              <acquisition></acquisition>
-            </history>
-            <additional>
-              <adminInfo>
-                <recordHist>
-                  <source></source>
-                  <change></change>
-                </recordHist>
-                <availability status="free">
-                  <p>Unrestricted</p>
-                </availability>
-                <custodialHist>
-                  <custEvent></custEvent>
-                </custodialHist>
-              </adminInfo>
-              <surrogates></surrogates>
-              <listBibl>
-                <bibl></bibl>
-              </listBibl>
-            </additional>
-            <msPart>
-              <altIdentifier>
-                <idno></idno>
-              </altIdentifier>
-            </msPart>
-          </msDesc>
-        </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-        <projectDesc>
-          <p></p>
-        </projectDesc>
-        <samplingDecl>
-          <p></p>
-        </samplingDecl>
-        <editorialDecl>
-          <correction>
-            <p></p>
-          </correction>
-          <normalization>
-            <p></p>
-          </normalization>
-          <quotation>
-            <p></p>
-          </quotation>
-          <hyphenation>
-            <p></p>
-          </hyphenation>
-          <segmentation>
-            <p></p>
-          </segmentation>
-          <stdVals>
-            <p></p>
-          </stdVals>
-          <interpretation>
-            <p></p>
-          </interpretation>
-        </editorialDecl>
-        <tagsDecl>
-          <rendition></rendition>
-          <namespace name="http://www.tei-c.org/ns/1.0">
-            <tagUsage gi=""></tagUsage>
-          </namespace>
-        </tagsDecl>
-        <refsDecl>
-          <cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-        </refsDecl>
-        <refsDecl>
-          <refState unit=""/>
-        </refsDecl>
-        <classDecl>
-          <taxonomy>
-            <category>
-              <catDesc></catDesc>
-            </category>
-          </taxonomy>
-        </classDecl>
-        <appInfo>
-          <application ident="" version="">
-            <desc></desc>
-            <label></label>
-          </application>
-        </appInfo>
-      </encodingDesc>
-      <profileDesc>
-        <creation></creation>
-        <langUsage>
-          <language ident="en">English</language>
-        </langUsage>
-        <textClass>
-          <keywords scheme="unknown">
-            <list>
-              <item></item>
-              <item></item>
-            </list>
-          </keywords>
-          <classCode scheme=""></classCode>
-          <catRef/>
-        </textClass>
-      </profileDesc>
-      <revisionDesc>
-        <change></change>
-      </revisionDesc>
-    </teiHeader>
-    <text>
-        <body>
-      
-		<pb n="1"/>
-			<p rend="align(center)"><placeName>S. Marshfield Mass</placeName> <date>July 1 1849</date></p>
-          <p rend="indent(10)">Dear Sir&#33; You would</p>
-			<p>oblige your subscriber if you would be kind <sic>enogh</sic> to give me <sic>infamation</sic><lb/> <sic>wether</sic> you have <sic>recived</sic> from <persName>Mr <hi rend="underline">Marmser</hi></persName> of <placeName>Boston</placeName> the subscription <sic>mony</sic><lb/> with three Dollars for your <hi rend="underline">Occident</hi> <sic>wich</sic> I have paid to him <date><sic>Aprill</sic> 1848</date><lb/> I have subt through <persName>M Marmser</persName> for your Occ&#39;t and <sic>recived</sic> the same from <date>January</date><lb/> at <persName>E Marshfield</persName> monthly regular when I removed to <placeName>N. York</placeName> I <sic>orderet</sic> your Perio<lb/>dical through <persName>Mr. T I Seixas</persName> to <placeName>355 Grand St.</placeName> in <date><sic>Aprill</sic> 1849</date> <persName>Mr Young</persName> <sic>besendet</sic> a<lb/> Bill from <date>1848</date> <sic>wich</sic> I paid him also with Three Dollars I have also paid Six Dollars<lb/> for the Occt and have only <sic>recived</sic> it for one year and four <sic>monts</sic><lb/> I am sorry to say that <persName>M young</persName> has not left the Occt since <date><sic>Aprill</sic></date><lb/> I value your Occ&#39;t much but circumstance obliges me to discontinue after<lb/> my term has expired&#44; if&#44; I am entitled to your Occ&#39;t till <date>January <hi rend="underline">1850</hi></date><lb/> I wish to have the same left monthly in care of <persName>M. Ehrenberg</persName> <placeName>355 Grand St. N. Y.</placeName><lb/> but if you have not received the <sic>mony</sic> from <persName><hi rend="underline">Mr</hi> Warmser</persName>. <placeName>Boston</placeName><lb/> please to inform me of it you will much oblige</p>
-          <p rend="indent(10)">Your Obt <sic>Servand</sic></p>
-          <p rend="indent(11)"><persName role="author">Gerson Frank</persName></p>
-          <p rend="indent(11)"> at <placeName>S. Marshfield</placeName></p>
-          <p rend="indent(12)"><placeName><hi rend="underline">Massachusetts</hi></placeName></p>
-			<p>To the <addressee>Rev. I. Leeser</addressee>&#33;</p>
-          <p rend="indent(1)">Editor of the Occident</p>
-          <p rend="indent(2 )"><placeName>Philadelphia</placeName></p>
-		<pb n="2"/>
-			<p><addressee>Rev. Isaac Leeser</addressee></p>
-          <p rend="indent(2)">Editor of the Occident</p>
-          <p rend="indent(1)"><placeName>371 Walnut Street</placeName></p>
-          <p rend="indent(1)"><placeName>Philadelphia</placeName></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+          <teiHeader>
 
-          
-        </body>
-    </text>
+                    <fileDesc>
+                              <titleStmt>
+                                        <title>[no title given]</title>
+                                        <author accepted="yes" attested="yes" signature="yes">Frank,
+                                                  Gerson</author>
+                                        <editor/>
+                                        <sponsor/>
+                                        <funder/>
+                                        <principal/>
+                                        <respStmt>
+                                                  <resp/>
+                                                  <name/>
+                                        </respStmt>
+                              </titleStmt>
+                              <editionStmt>
+                                        <edition/>
+                                        <respStmt>
+                                                  <resp/>
+                                                  <name/>
+                                        </respStmt>
+                              </editionStmt>
+                              <extent>[information about file size goes here, information about
+                                        extent of physical item comes later]</extent>
+                              <publicationStmt>
+                                        <publisher>Unpublished manuscript</publisher>
+                              </publicationStmt>
+                              <seriesStmt>
+                                        <p>Not part of a series</p>
+                              </seriesStmt>
+                              <notesStmt>
+                                        <note/>
+                              </notesStmt>
+                              <sourceDesc>
+                                        <biblStruct>
+                                                  <!-- catalog entry goes here -->
+                                                  <monogr>
+                                                  <imprint>
+                                                  <dateLet/>
+                                                  </imprint>
+                                                  </monogr>
+                                        </biblStruct>
+                                        <msDesc>
+                                                  <msIdentifier>
+                                                  <country>USA</country>
+                                                  <region>PA</region>
+                                                  <settlement>Philadelphia</settlement>
+                                                  <institution/>
+                                                  <repository>CAJS Isaac Leeser
+                                                  Collection</repository>
+                                                  <collection>The Library of the Dropsie College for
+                                                  Hebrew and Cognate Learning</collection>
+                                                  <idno>LSDCBx1FF6_46</idno>
+                                                  <altIdentifier>
+                                                  <idno/>
+                                                  </altIdentifier>
+                                                  <msName/>
+                                                  </msIdentifier>
+                                                  <head/>
+                                                  <letHeading>
+                                                  <author accepted="yes" attested="yes"
+                                                  signature="yes">Frank, Gerson</author>
+                                                  <addressee accepted="yes" attested="yes"
+                                                  editor="false">Leeser, Isaac, Rev.</addressee>
+                                                  <deliverer/>
+                                                  <respStmt>
+                                                  <resp/>
+                                                  <name/>
+                                                  </respStmt>
+                                                  <placeLet>S. Marshfield, MA</placeLet>
+                                                  <placeRec>Philadelphia, PA</placeRec>
+                                                  <dateLet attested="yes" source="" when="1849-07">1
+                                                  July 1849</dateLet>
+                                                  </letHeading>
+                                                  <msContents>
+                                                  <msItem>
+                                                  <author/>
+                                                  <editor/>
+                                                  <respStmt>
+                                                  <resp/>
+                                                  <name/>
+                                                  </respStmt>
+                                                  <title/>
+                                                  <decoNote/>
+                                                  <listBibl>
+                                                  <bibl/>
+                                                  </listBibl>
+                                                  <filiation/>
+                                                  <textLang/>
+                                                  <figure>
+                                                  <graphic url="ilcajs_b1f6_0042_1r.jpg"/>
+                                                  <graphic url="ilcajs_b1f6_0042_2v.jpg"/>
+                                                  </figure>
+                                                  </msItem>
+                                                  </msContents>
+                                                  <physDesc>
+                                                  <objectDesc>
+                                                  <supportDesc>
+                                                  <support>
+                                                  <material color="" lined="false" paper_type=""
+                                                  size="Letter">letter</material>
+                                                  </support>
+                                                  <extent>2 pages on 2 sheets <dimensions/>
+                                                  </extent>
+                                                  <foliation/>
+                                                  <collation/>
+                                                  <condition fragment="false"/>
+                                                  </supportDesc>
+                                                  <layoutDesc>
+                                                  <layout/>
+                                                  </layoutDesc>
+                                                  </objectDesc>
+                                                  <handDesc script="manuscript">
+                                                  <handNote/>
+                                                  </handDesc>
+                                                  <decoDesc>
+                                                  <decoNote/>
+                                                  </decoDesc>
+                                                  <additions/>
+                                                  <bindingDesc>
+                                                  <binding>
+                                                  <decoNote/>
+                                                  </binding>
+                                                  </bindingDesc>
+                                                  <sealDesc>
+                                                  <seal>
+                                                  <p>Wax seal</p>
+                                                  </seal>
+                                                  </sealDesc>
+                                                  <accMat/>
+                                                  <envDesc occ="false"/>
+                                                  </physDesc>
+                                                  <history>
+                                                  <origin/>
+                                                  <provenance/>
+                                                  <acquisition/>
+                                                  </history>
+                                                  <additional>
+                                                  <adminInfo>
+                                                  <recordHist>
+                                                  <source/>
+                                                  <change/>
+                                                  </recordHist>
+                                                  <availability status="free">
+                                                  <p>Unrestricted</p>
+                                                  </availability>
+                                                  <custodialHist>
+                                                  <custEvent/>
+                                                  </custodialHist>
+                                                  </adminInfo>
+                                                  <surrogates/>
+                                                  <listBibl>
+                                                  <bibl/>
+                                                  </listBibl>
+                                                  </additional>
+                                                  <msPart>
+                                                  <altIdentifier>
+                                                  <idno/>
+                                                  </altIdentifier>
+                                                  </msPart>
+                                        </msDesc>
+                              </sourceDesc>
+                    </fileDesc>
+                    <encodingDesc>
+                              <projectDesc>
+                                        <p/>
+                              </projectDesc>
+                              <samplingDecl>
+                                        <p/>
+                              </samplingDecl>
+                              <editorialDecl>
+                                        <correction>
+                                                  <p/>
+                                        </correction>
+                                        <normalization>
+                                                  <p/>
+                                        </normalization>
+                                        <quotation>
+                                                  <p/>
+                                        </quotation>
+                                        <hyphenation>
+                                                  <p/>
+                                        </hyphenation>
+                                        <segmentation>
+                                                  <p/>
+                                        </segmentation>
+                                        <stdVals>
+                                                  <p/>
+                                        </stdVals>
+                                        <interpretation>
+                                                  <p/>
+                                        </interpretation>
+                              </editorialDecl>
+                              <tagsDecl>
+                                        <rendition/>
+                                        <namespace name="http://www.tei-c.org/ns/1.0">
+                                                  <tagUsage gi=""/>
+                                        </namespace>
+                              </tagsDecl>
+                              <refsDecl>
+                                        <cRefPattern matchPattern="" replacementPattern=""/>
+                              </refsDecl>
+                              <refsDecl>
+                                        <refState unit=""/>
+                              </refsDecl>
+                              <classDecl>
+                                        <taxonomy>
+                                                  <category>
+                                                  <catDesc/>
+                                                  </category>
+                                        </taxonomy>
+                              </classDecl>
+                              <appInfo>
+                                        <application ident="" version="">
+                                                  <desc/>
+                                                  <label/>
+                                        </application>
+                              </appInfo>
+                    </encodingDesc>
+                    <profileDesc>
+                              <creation/>
+                              <langUsage>
+                                        <language ident="en">English</language>
+                              </langUsage>
+                              <textClass>
+                                        <keywords scheme="unknown">
+                                                  <list>
+                                                  <item/>
+                                                  <item/>
+                                                  </list>
+                                        </keywords>
+                                        <classCode scheme=""/>
+                                        <catRef/>
+                              </textClass>
+                    </profileDesc>
+                    <revisionDesc>
+                              <change/>
+                    </revisionDesc>
+          </teiHeader>
+          <text>
+                    <body>
+                              <pb n="1"/>
+                              <p rend="align(center)">
+                                        <placeName>S. Marshfield Mass</placeName>
+                                        <date>July 1 1849</date>
+                              </p>
+                              <p rend="indent(10)">Dear Sir! You would</p>
+                              <p>oblige your subscriber if you would be kind <sic>enogh</sic> to
+                                        give me <sic>infamation</sic><lb/>
+                                        <sic>wether</sic> you have <sic>recived</sic> from
+                                                  <persName>Mr <hi rend="underline"
+                                                  >Marmser</hi></persName> of
+                                                  <placeName>Boston</placeName> the subscription
+                                                  <sic>mony</sic><lb/> with three Dollars for your
+                                                  <hi rend="underline">Occident</hi>
+                                        <sic>wich</sic> I have paid to him <date><sic>Aprill</sic>
+                                                  1848</date><lb/> I have subt through <persName>M
+                                                  Marmser</persName> for your Occ't and
+                                                  <sic>recived</sic> the same from
+                                                  <date>January</date><lb/> at <persName>E
+                                                  Marshfield</persName> monthly regular when I
+                                        removed to <placeName>N. York</placeName> I
+                                                  <sic>orderet</sic> your Perio<lb/>dical through
+                                                  <persName>Mr. T I Seixas</persName> to
+                                                  <placeName>355 Grand St.</placeName> in
+                                                  <date><sic>Aprill</sic> 1849</date>
+                                        <persName>Mr Young</persName>
+                                        <sic>besendet</sic> a<lb/> Bill from <date>1848</date>
+                                        <sic>wich</sic> I paid him also with Three Dollars I have
+                                        also paid Six Dollars<lb/> for the Occt and have only
+                                                  <sic>recived</sic> it for one year and four
+                                                  <sic>monts</sic><lb/> I am sorry to say that
+                                                  <persName>M young</persName> has not left the Occt
+                                        since <date><sic>Aprill</sic></date><lb/> I value your Occ't
+                                        much but circumstance obliges me to discontinue after<lb/>
+                                        my term has expired, if, I am entitled to your Occ't till
+                                                  <date>January <hi rend="underline"
+                                                  >1850</hi></date><lb/> I wish to have the same
+                                        left monthly in care of <persName>M. Ehrenberg</persName>
+                                        <placeName>355 Grand St. N. Y.</placeName><lb/> but if you
+                                        have not received the <sic>mony</sic> from <persName><hi
+                                                  rend="underline">Mr</hi> Warmser</persName>.
+                                                  <placeName>Boston</placeName><lb/> please to
+                                        inform me of it you will much oblige</p>
+                              <p rend="indent(10)">Your Obt <sic>Servand</sic></p>
+                              <p rend="indent(11)">
+                                        <persName role="author">Gerson Frank</persName>
+                              </p>
+                              <p rend="indent(11)"> at <placeName>S. Marshfield</placeName></p>
+                              <p rend="indent(12)">
+                                        <placeName>
+                                                  <hi rend="underline">Massachusetts</hi>
+                                        </placeName>
+                              </p>
+                              <p>To the <addressee>Rev. I. Leeser</addressee>!</p>
+                              <p rend="indent(1)">Editor of the Occident</p>
+                              <p rend="indent(2 )">
+                                        <placeName>Philadelphia</placeName>
+                              </p>
+                              <pb n="2"/>
+                              <p>
+                                        <addressee>Rev. Isaac Leeser</addressee>
+                              </p>
+                              <p rend="indent(2)">Editor of the Occident</p>
+                              <p rend="indent(1)">
+                                        <placeName>371 Walnut Street</placeName>
+                              </p>
+                              <p rend="indent(1)">
+                                        <placeName>Philadelphia</placeName>
+                              </p>
+                    </body>
+          </text>
 </TEI>

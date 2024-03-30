@@ -1,255 +1,314 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="yes">Oppenheim, Saml. S.</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>CAJS Isaac Leeser Collection</repository>
-						<collection>The Library of the Dropsie College for Hebrew and Cognate Learning</collection>
-						<idno>LSDCBx9FF16_13</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="yes">Oppenheim, Saml. S.</author>
-						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac</addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>London, United Kingdom</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1860-10" source="" attested="yes">9 October 1860</dateLet>
-						<dateLet when="1860-10" source="" attested="yes">5620</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="ilcajs_b9f16_0013_1r.jpg"/>
-								<graphic url="ilcajs_b9f16_0013_1v.jpg"/>
-								<graphic url="ilcajs_b9f16_0013_2r.jpg"/>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="unk" paper_type="" size="Legal">letter</material>
-								</support>
-								<extent>3 pages on 2 sheets
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="manuscript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="free">
-								<p>Unrestricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1"/>
-				<p rend="align(right)"><placeName>London</placeName>&#44; <date>October 9th 5620</date>.</p>
-				<p rend="align(right)"><placeName>22 Endsleigh St. Enston Sqre.</placeName></p>
-				<p><addressee>Revrd. Isaac Leeser</addressee>&#44;</p>
-			<p rend="indent(1)">Dear Sir</p>
-			<p rend="indent(2)">I take the opportunity at this<lb/> season of the year to write you a few lines<lb/> wishing you many happy returns of the<lb/> festivals &#38; that you may be spared many<lb/> more years to defend Ancient Orthodox<lb/> Judaism in <placeName>America</placeName>&#44; against the Anti<lb/> Jewish doctrines of the new lights.<lb/>  I receive regularly your Occident&#44; &#38; feel<lb/> the same pleasure in reading it that I<lb/> always did in <placeName>Cincinnati</placeName>&#44; <persName>Mr Lewis<lb/> Nathan</persName>&#44; <placeName>10 Finsbury Circus</placeName>&#44; requests me<lb/> to say he wishes to become a subscriber&#44;<lb/> that gentleman is one of the Parnassim of<lb/> the Great Synagogue&#44; &#91;The Synagogues here<lb/> are all conducted on Orthodox principles<lb/> with the exception of the <placeName>Margaret St.</placeName><lb/> one&#44; &#38; that I am told does not increase<lb/> its number of members very rapidly&#44; if at<lb/> all.  The branch places of worship of the<lb/> Great &#38; Portuguese Synagogues&#44; in a great<lb/> measure having checked it&#44; as formerly<lb/> numbers attended there who could not walk<lb/> the distance to the City Synagogues&#59; They<lb/> have just reopened it with an Organ&#44; like<lb/> all new customs introduced into Jewish Worship&#44;<lb/> as established by our Sages&#44; they must have<lb/> after a certain time a change&#44; hence the<lb/> introduction of the Organ.  The <placeName>Portland<lb/> St.</placeName> Synagogue a branch of the Great&#44; divide<lb/> the morning Service&#44; from the Reading of the<lb/> Law&#44; Additional Service &#38; Sermon&#44; on <date>Sabbath</date><lb/> &#38; holidays with the exception of the</p>
-			<pb n="2"/>
-				<p><date>New Year</date> &#38; <date>Day of Atonement</date>.  The<lb/> prayers for rain &#38; dew have also been<lb/> curtailed in that Synagogue by the Sanction<lb/> of <persName>Dr. Adler</persName> the Chief Rabbi&#44; but none of<lb/> the other Peyatim are abolished&#44; the Second<lb/> service commences at &#189; past 10 Oclock&#44; it<lb/> is true this division makes a great many<lb/> attend service which never used&#44; but at<lb/> the first service the Synagogue is almost<lb/> deserted there being hardly more than Minyan<lb/> attending&#44; so that I believe the rising generation<lb/> when they grow up will almost forget there<lb/> is such a service as Shocras&#44; it would be<lb/> much better to have both services together &#38;<lb/> commence at 9 O Clock&#59; In the country<lb/> most of the Congregations are small&#44; I have<lb/> visited a great many of them&#44; &#38; strange to<lb/> say whereas in the <placeName>United States</placeName> the small<lb/> congregations increase rapidly&#44; here they diminish.<lb/>  At <placeName>Manchester</placeName> besides the orthodox congregation&#44;<lb/> there is a seceding one the minister of<lb/> which was formerly minister of an orthodox<lb/> one but he having had a misunderstanding<lb/> with the members&#44; became a seceder&#44; did the<lb/> disagreement with the members of his former<lb/> congregation alter his religious views&#63;  I am<lb/> told a great many attend that Synagogue that<lb/> never before attended any but would not<lb/> the minister have been just as soon able to<lb/> have brought them there by introducing the<lb/> old Orthodox Portuguese Minhag&#44; instead<lb/> of the <placeName>Margaret St.</placeName> Prayer Book.</p>
-				<p><placeName>Sussex Hall</placeName>&#44; the Jews &#38; General Literary &#38;<lb/> Scientific Institution is about to be closed.<lb/>  The Jews College progres<del>s</del><sic>es</sic> well &#38; I hope<lb/> at some future day to see it send forth</p>
-			<pb n="3"/>
-				<p>some Jewish Divines.</p>
-				<p>In concluding this letter I must say the Great<lb/> Synagogue has a very grand &#38; Solemn appearance<lb/> on the <date>Day of Atonement</date>&#44; there is something<lb/> in it that makes a person feel devout on<lb/> entering &#38; without any organ to occasion those<lb/> feelings.  There was only one person wanted &#38;<lb/> that was our respected Chief Rabbi who was<lb/> absent being in ill health &#38; ordered to the sea sick<lb/> but I am glad to say he is fast recovering&#44; the<lb/> <persName>Revd. Mr. Ascher</persName> the Reader&#44; performed the<lb/> services in the same impressive way that he<lb/> used ten years ago when I heard him.  I<lb/> must now conclude giving you my best<lb/> wishes &#38; hoping to hear from you&#44;</p>
-			<p rend="indent(1)">I am your&#39;s</p>
-			<p rend="indent(2)">truly</p>
-			<p rend="indent(1)"><persName role="author">Saml. S. Oppenheim</persName>.</p>
-		</body>
-	</text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="yes">Oppenheim, Saml. S.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS Isaac Leeser Collection</repository>
+                        <collection>The Library of the Dropsie College for Hebrew and Cognate
+                            Learning</collection>
+                        <idno>LSDCBx9FF16_13</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="yes">Oppenheim, Saml.
+                            S.</author>
+                        <addressee accepted="yes" attested="yes" editor="false">Leeser,
+                            Isaac</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>London, United Kingdom</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1860-10">9 October 1860</dateLet>
+                        <dateLet attested="yes" source="" when="1860-10">5620</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="ilcajs_b9f16_0013_1r.jpg"/>
+                                <graphic url="ilcajs_b9f16_0013_1v.jpg"/>
+                                <graphic url="ilcajs_b9f16_0013_2r.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="unk" paper_type="" size="Legal"
+                                        >letter</material>
+                                </support>
+                                <extent>3 pages on 2 sheets <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <p rend="align(right)"><placeName>London</placeName>, <date>October 9th 5620</date>.</p>
+            <p rend="align(right)">
+                <placeName>22 Endsleigh St. Enston Sqre.</placeName>
+            </p>
+            <p><addressee>Revrd. Isaac Leeser</addressee>,</p>
+            <p rend="indent(1)">Dear Sir</p>
+            <p rend="indent(2)">I take the opportunity at this<lb/> season of the year to write you
+                a few lines<lb/> wishing you many happy returns of the<lb/> festivals &amp; that you
+                may be spared many<lb/> more years to defend Ancient Orthodox<lb/> Judaism in
+                    <placeName>America</placeName>, against the Anti<lb/> Jewish doctrines of the
+                new lights.<lb/> I receive regularly your Occident, &amp; feel<lb/> the same
+                pleasure in reading it that I<lb/> always did in <placeName>Cincinnati</placeName>,
+                    <persName>Mr Lewis<lb/> Nathan</persName>, <placeName>10 Finsbury
+                    Circus</placeName>, requests me<lb/> to say he wishes to become a
+                subscriber,<lb/> that gentleman is one of the Parnassim of<lb/> the Great Synagogue,
+                [The Synagogues here<lb/> are all conducted on Orthodox principles<lb/> with the
+                exception of the <placeName>Margaret St.</placeName><lb/> one, &amp; that I am told
+                does not increase<lb/> its number of members very rapidly, if at<lb/> all. The
+                branch places of worship of the<lb/> Great &amp; Portuguese Synagogues, in a
+                great<lb/> measure having checked it, as formerly<lb/> numbers attended there who
+                could not walk<lb/> the distance to the City Synagogues; They<lb/> have just
+                reopened it with an Organ, like<lb/> all new customs introduced into Jewish
+                Worship,<lb/> as established by our Sages, they must have<lb/> after a certain time
+                a change, hence the<lb/> introduction of the Organ. The <placeName>Portland<lb/>
+                    St.</placeName> Synagogue a branch of the Great, divide<lb/> the morning
+                Service, from the Reading of the<lb/> Law, Additional Service &amp; Sermon, on
+                    <date>Sabbath</date><lb/> &amp; holidays with the exception of the</p>
+            <pb n="2"/>
+            <p><date>New Year</date> &amp; <date>Day of Atonement</date>. The<lb/> prayers for rain
+                &amp; dew have also been<lb/> curtailed in that Synagogue by the Sanction<lb/> of
+                    <persName>Dr. Adler</persName> the Chief Rabbi, but none of<lb/> the other
+                Peyatim are abolished, the Second<lb/> service commences at ½ past 10 Oclock,
+                it<lb/> is true this division makes a great many<lb/> attend service which never
+                used, but at<lb/> the first service the Synagogue is almost<lb/> deserted there
+                being hardly more than Minyan<lb/> attending, so that I believe the rising
+                generation<lb/> when they grow up will almost forget there<lb/> is such a service as
+                Shocras, it would be<lb/> much better to have both services together &amp;<lb/>
+                commence at 9 O Clock; In the country<lb/> most of the Congregations are small, I
+                have<lb/> visited a great many of them, &amp; strange to<lb/> say whereas in the
+                    <placeName>United States</placeName> the small<lb/> congregations increase
+                rapidly, here they diminish.<lb/> At <placeName>Manchester</placeName> besides the
+                orthodox congregation,<lb/> there is a seceding one the minister of<lb/> which was
+                formerly minister of an orthodox<lb/> one but he having had a misunderstanding<lb/>
+                with the members, became a seceder, did the<lb/> disagreement with the members of
+                his former<lb/> congregation alter his religious views? I am<lb/> told a great many
+                attend that Synagogue that<lb/> never before attended any but would not<lb/> the
+                minister have been just as soon able to<lb/> have brought them there by introducing
+                the<lb/> old Orthodox Portuguese Minhag, instead<lb/> of the <placeName>Margaret
+                    St.</placeName> Prayer Book.</p>
+            <p><placeName>Sussex Hall</placeName>, the Jews &amp; General Literary &amp;<lb/>
+                Scientific Institution is about to be closed.<lb/> The Jews College
+                    progres<del>s</del><sic>es</sic> well &amp; I hope<lb/> at some future day to
+                see it send forth</p>
+            <pb n="3"/>
+            <p>some Jewish Divines.</p>
+            <p>In concluding this letter I must say the Great<lb/> Synagogue has a very grand &amp;
+                Solemn appearance<lb/> on the <date>Day of Atonement</date>, there is something<lb/>
+                in it that makes a person feel devout on<lb/> entering &amp; without any organ to
+                occasion those<lb/> feelings. There was only one person wanted &amp;<lb/> that was
+                our respected Chief Rabbi who was<lb/> absent being in ill health &amp; ordered to
+                the sea sick<lb/> but I am glad to say he is fast recovering, the<lb/>
+                <persName>Revd. Mr. Ascher</persName> the Reader, performed the<lb/> services in the
+                same impressive way that he<lb/> used ten years ago when I heard him. I<lb/> must
+                now conclude giving you my best<lb/> wishes &amp; hoping to hear from you,</p>
+            <p rend="indent(1)">I am your's</p>
+            <p rend="indent(2)">truly</p>
+            <p rend="indent(1)"><persName role="author">Saml. S. Oppenheim</persName>.</p>
+        </body>
+    </text>
 </TEI>

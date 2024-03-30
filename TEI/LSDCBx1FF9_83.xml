@@ -1,254 +1,316 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
-      <fileDesc>
-        <titleStmt>
-          <title>[no title given]</title>
-          <author attested="yes" accepted="yes" signature="yes">Meyer, Cauffman H.</author>
-          <editor></editor>
-          <sponsor></sponsor>
-          <funder></funder>
-          <principal></principal>
-          <respStmt>
-            <resp></resp>
-            <name></name>
-          </respStmt>
-        </titleStmt>
-        <editionStmt>
-          <edition></edition>
-          <respStmt>
-            <resp></resp>
-            <name></name>
-          </respStmt>
-        </editionStmt>
-        <extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-        <publicationStmt>
-          <publisher>Unpublished manuscript</publisher>
-        </publicationStmt>
-        <seriesStmt>
-          <p>Not part of a series</p>
-        </seriesStmt>
-        <notesStmt>
-          <note></note>
-        </notesStmt>
-        <sourceDesc>
-          <biblStruct>
-            <!-- catalog entry goes here -->
-            <monogr>
-              <imprint>
-                <dateLet></dateLet>
-              </imprint>
-            </monogr>
-          </biblStruct>
-          <msDesc>
-            <msIdentifier>
-              <country>USA</country>
-              <region>PA</region>
-              <settlement>Philadelphia</settlement>
-              <institution></institution>
-              <repository>CAJS Isaac Leeser Collection</repository>
-              <collection>The Library of the Dropsie College for Hebrew and Cognate Learning</collection>
-              <idno>LSDCBx1FF9_83</idno>
-              <altIdentifier>
-                <idno></idno>
-              </altIdentifier>
-              <msName></msName>
-            </msIdentifier>
-            <head></head>
-            <letHeading>
-              <author attested="yes" accepted="yes" signature="yes">Meyer, Cauffman H.</author>
-              <addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac, Revd.</addressee>
-              <deliverer></deliverer>
-              <respStmt>
-                <resp></resp>
-                <name></name>
-              </respStmt>
-              <placeLet>San Francisco, CA</placeLet>
-              <placeRec>Philadelphia, PA</placeRec>
-              <dateLet when="1852-12" source="" attested="yes">15 December 1852</dateLet>
-            </letHeading>
-            <msContents>
-              <msItem>
-                <author></author>
-                <editor></editor>
-                <respStmt>
-                  <resp></resp>
-                  <name></name>
-                </respStmt>
-                <title></title>
-                <decoNote></decoNote>
-                <listBibl>
-                  <bibl></bibl>
-                </listBibl>
-                <filiation></filiation>
-                <textLang></textLang>
-                <figure>
-                  <graphic url="ilcajs_b1f9_0080_1r.tif"/>
-                  <graphic url="ilcajs_b1f9_0080_1v.tif"/>
-                </figure>
-              </msItem>
-            </msContents>
-            <physDesc>
-              <objectDesc>
-                <supportDesc>
-                  <support>
-                    <material color="" lined="true" paper_type="" size="Letter">letter</material>
-                  </support>
-                  <extent>2 pages on 1 sheet
-                    <dimensions></dimensions>
-                  </extent>
-                  <foliation></foliation>
-                  <collation></collation>
-                  <condition fragment="false"></condition>
-                </supportDesc>
-                <layoutDesc>
-                  <layout></layout>
-                </layoutDesc>
-              </objectDesc>
-              <handDesc script="manuscript">
-                  <handNote></handNote>
-              </handDesc>
-              <decoDesc>
-                <decoNote></decoNote>
-              </decoDesc>
-              <additions></additions>
-              <bindingDesc>
-                <binding>
-                  <decoNote></decoNote>
-                </binding>
-              </bindingDesc>
-              <sealDesc>
-                <seal>
-                  <p></p>
-                </seal>
-              </sealDesc>
-              <accMat></accMat>
-              <envDesc occ="false"></envDesc>
-            </physDesc>
-            <history>
-              <origin></origin>
-              <provenance></provenance>
-              <acquisition></acquisition>
-            </history>
-            <additional>
-              <adminInfo>
-                <recordHist>
-                  <source></source>
-                  <change></change>
-                </recordHist>
-                <availability status="free">
-                  <p>Unrestricted</p>
-                </availability>
-                <custodialHist>
-                  <custEvent></custEvent>
-                </custodialHist>
-              </adminInfo>
-              <surrogates></surrogates>
-              <listBibl>
-                <bibl></bibl>
-              </listBibl>
-            </additional>
-            <msPart>
-              <altIdentifier>
-                <idno></idno>
-              </altIdentifier>
-            </msPart>
-          </msDesc>
-        </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-        <projectDesc>
-          <p></p>
-        </projectDesc>
-        <samplingDecl>
-          <p></p>
-        </samplingDecl>
-        <editorialDecl>
-          <correction>
-            <p></p>
-          </correction>
-          <normalization>
-            <p></p>
-          </normalization>
-          <quotation>
-            <p></p>
-          </quotation>
-          <hyphenation>
-            <p></p>
-          </hyphenation>
-          <segmentation>
-            <p></p>
-          </segmentation>
-          <stdVals>
-            <p></p>
-          </stdVals>
-          <interpretation>
-            <p></p>
-          </interpretation>
-        </editorialDecl>
-        <tagsDecl>
-          <rendition></rendition>
-          <namespace name="http://www.tei-c.org/ns/1.0">
-            <tagUsage gi=""></tagUsage>
-          </namespace>
-        </tagsDecl>
-        <refsDecl>
-          <cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-        </refsDecl>
-        <refsDecl>
-          <refState unit=""/>
-        </refsDecl>
-        <classDecl>
-          <taxonomy>
-            <category>
-              <catDesc></catDesc>
-            </category>
-          </taxonomy>
-        </classDecl>
-        <appInfo>
-          <application ident="" version="">
-            <desc></desc>
-            <label></label>
-          </application>
-        </appInfo>
-      </encodingDesc>
-      <profileDesc>
-        <creation></creation>
-        <langUsage>
-          <language ident="en">English</language>
-        </langUsage>
-        <textClass>
-          <keywords scheme="unknown">
-            <list>
-              <item></item>
-              <item></item>
-            </list>
-          </keywords>
-          <classCode scheme=""></classCode>
-          <catRef/>
-        </textClass>
-      </profileDesc>
-      <revisionDesc>
-        <change></change>
-      </revisionDesc>
-    </teiHeader>
-    <text>
-        <body>
-      
-		<pb n="1"/>
-			<p rend="align(right)"><placeName>San Francisco</placeName> <date>Dec. 15. 1852</date></p>
-			<p><addressee>Revd Mr. Isaac Leeser</addressee></p>
-          <p rend="indent(3)">Dear friend</p>
-          <p rend="indent(5)">I send you enclosed<lb/> Draft on <persName>Mess. M. Cauffman &#38; Co</persName>&#44; <placeName>Phila.</placeName> Drawn by<lb/> <persName>Roggenburger &#38; Co</persName>&#44; for &#36;24.00&#44; which I have collected for<lb/> the Occident&#44; as per enclosed statement&#59; &#38; enclose you also<lb/> a fresh subscription for the O.&#59; had I more Time to<lb/> spare &#38; our Californians would devote more Time in<lb/> reading your intellectual work&#44; I could&#44; no Doubt have<lb/> sent you a larger list of Subscription.</p>
-			<p>I have recd your Letter&#44; &#38; am sorry&#44; that I cannot<lb/> comply with your wishes for informing you&#44; how<lb/> Jewish affairs progress&#59; however that much I can<lb/> tell you&#44; that Jewish Families are getting quite Numerous<lb/> in <placeName>San Francisco</placeName>&#44; &#38; of late we had also several Mar&#45;<lb/>&#45;riages taking place. The Jewish Population all over<lb/> <placeName>California</placeName> is very numerous&#44; but our Religion is<lb/> not by any means kept up in generality&#44; as it should be.<lb/> We have two Synagogues here&#44; one Polish &#38; one German&#44;<lb/> which are open every &#8220;<add>Hebrew</add>&#8221;&#44; but are not very well attended&#44;<lb/> &#38; it is only on &#8220;<add>Hebrew</add>&#8221;&#44; that you have the opportunity of<lb/> witnessing the Synagogues crowded&#44; where there is generally<lb/> not Room enough to seat &#189;.</p>
-			<p>It saves me some Trouble&#44; <del>when</del> if I collect the Subscriptions</p>
-		<pb n="2"/>
-			<p>immediately&#44; &#38; you will notice several on my a&#47;c who<lb/> have paid in advance. You will also be kind enough<lb/> to send me the a&#47;c what <persName>Roggenburger &#38; Co</persName> in <placeName>California</placeName><lb/> owes you.</p>
-			<p>It was told me by several whose subscription<lb/> to the O. I have sent the Last Time&#44; that they have not<lb/> recd the O. You will please therefore&#44; to be exact in<lb/> making a plain Direction&#59; as our Post office arrangement<lb/> is none of the Best.</p>
-			<p>Business in general has been very good with us for<lb/> the last 10&#45;12 Mos. &#38; Goods in almost all Branches<lb/> have paid well to import&#59; some articles always<lb/> pay very well in <placeName>California</placeName>&#59; as for Instance<lb/> Flour is worth from &#36;40 to &#36;45&#8212;pr. Barrell&#44;<lb/> which cost at Home no more than &#36;4.50 pr Barrel.<lb/> I could give you more Information about Business<lb/> but I am aware&#44; it is of no Interest to you&#8212;<lb/> as you are no Doubt aware&#44; money making &#38;<lb/> speculating is all the go&#8212;&#38; one&#39;s attentions is almost<lb/> entirely directed to that.</p>
-			<p><persName>Mr. &#38; Mrs. Roggenburger</persName> desire their kind Regards<lb/> to you&#59; they have arrived <sic>save</sic>&#59; &#38; live very hand<lb/>&#45;somely &#38; very convenient&#44; &#38; Enjoy themselves&#59; they live<lb/> &#8220;<add>Hebrew</add>&#8221; &#38; I am boarding with them&#44; which gives me the op&#45;<lb/>&#45;portunity of reminding myself&#44; that I am a &#8220;Secr&#8221;<lb/> Hoping&#44; you will soon write to me a large letter &#38;c&#44; &#38; that this<lb/> may find you in good Health</p>
-          <p rend="indent(9)">I Remain your true friend</p>
-          <p rend="indent(9)"><persName role="author">Cauffman H Meyer</persName></p>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+          <teiHeader>
 
-        </body>
-    </text>
+                    <fileDesc>
+                              <titleStmt>
+                                        <title>[no title given]</title>
+                                        <author accepted="yes" attested="yes" signature="yes">Meyer,
+                                                  Cauffman H.</author>
+                                        <editor/>
+                                        <sponsor/>
+                                        <funder/>
+                                        <principal/>
+                                        <respStmt>
+                                                  <resp/>
+                                                  <name/>
+                                        </respStmt>
+                              </titleStmt>
+                              <editionStmt>
+                                        <edition/>
+                                        <respStmt>
+                                                  <resp/>
+                                                  <name/>
+                                        </respStmt>
+                              </editionStmt>
+                              <extent>[information about file size goes here, information about
+                                        extent of physical item comes later]</extent>
+                              <publicationStmt>
+                                        <publisher>Unpublished manuscript</publisher>
+                              </publicationStmt>
+                              <seriesStmt>
+                                        <p>Not part of a series</p>
+                              </seriesStmt>
+                              <notesStmt>
+                                        <note/>
+                              </notesStmt>
+                              <sourceDesc>
+                                        <biblStruct>
+                                                  <!-- catalog entry goes here -->
+                                                  <monogr>
+                                                  <imprint>
+                                                  <dateLet/>
+                                                  </imprint>
+                                                  </monogr>
+                                        </biblStruct>
+                                        <msDesc>
+                                                  <msIdentifier>
+                                                  <country>USA</country>
+                                                  <region>PA</region>
+                                                  <settlement>Philadelphia</settlement>
+                                                  <institution/>
+                                                  <repository>CAJS Isaac Leeser
+                                                  Collection</repository>
+                                                  <collection>The Library of the Dropsie College for
+                                                  Hebrew and Cognate Learning</collection>
+                                                  <idno>LSDCBx1FF9_83</idno>
+                                                  <altIdentifier>
+                                                  <idno/>
+                                                  </altIdentifier>
+                                                  <msName/>
+                                                  </msIdentifier>
+                                                  <head/>
+                                                  <letHeading>
+                                                  <author accepted="yes" attested="yes"
+                                                  signature="yes">Meyer, Cauffman H.</author>
+                                                  <addressee accepted="yes" attested="yes"
+                                                  editor="false">Leeser, Isaac, Revd.</addressee>
+                                                  <deliverer/>
+                                                  <respStmt>
+                                                  <resp/>
+                                                  <name/>
+                                                  </respStmt>
+                                                  <placeLet>San Francisco, CA</placeLet>
+                                                  <placeRec>Philadelphia, PA</placeRec>
+                                                  <dateLet attested="yes" source="" when="1852-12"
+                                                  >15 December 1852</dateLet>
+                                                  </letHeading>
+                                                  <msContents>
+                                                  <msItem>
+                                                  <author/>
+                                                  <editor/>
+                                                  <respStmt>
+                                                  <resp/>
+                                                  <name/>
+                                                  </respStmt>
+                                                  <title/>
+                                                  <decoNote/>
+                                                  <listBibl>
+                                                  <bibl/>
+                                                  </listBibl>
+                                                  <filiation/>
+                                                  <textLang/>
+                                                  <figure>
+                                                  <graphic url="ilcajs_b1f9_0080_1r.tif"/>
+                                                  <graphic url="ilcajs_b1f9_0080_1v.tif"/>
+                                                  </figure>
+                                                  </msItem>
+                                                  </msContents>
+                                                  <physDesc>
+                                                  <objectDesc>
+                                                  <supportDesc>
+                                                  <support>
+                                                  <material color="" lined="true" paper_type=""
+                                                  size="Letter">letter</material>
+                                                  </support>
+                                                  <extent>2 pages on 1 sheet <dimensions/>
+                                                  </extent>
+                                                  <foliation/>
+                                                  <collation/>
+                                                  <condition fragment="false"/>
+                                                  </supportDesc>
+                                                  <layoutDesc>
+                                                  <layout/>
+                                                  </layoutDesc>
+                                                  </objectDesc>
+                                                  <handDesc script="manuscript">
+                                                  <handNote/>
+                                                  </handDesc>
+                                                  <decoDesc>
+                                                  <decoNote/>
+                                                  </decoDesc>
+                                                  <additions/>
+                                                  <bindingDesc>
+                                                  <binding>
+                                                  <decoNote/>
+                                                  </binding>
+                                                  </bindingDesc>
+                                                  <sealDesc>
+                                                  <seal>
+                                                  <p/>
+                                                  </seal>
+                                                  </sealDesc>
+                                                  <accMat/>
+                                                  <envDesc occ="false"/>
+                                                  </physDesc>
+                                                  <history>
+                                                  <origin/>
+                                                  <provenance/>
+                                                  <acquisition/>
+                                                  </history>
+                                                  <additional>
+                                                  <adminInfo>
+                                                  <recordHist>
+                                                  <source/>
+                                                  <change/>
+                                                  </recordHist>
+                                                  <availability status="free">
+                                                  <p>Unrestricted</p>
+                                                  </availability>
+                                                  <custodialHist>
+                                                  <custEvent/>
+                                                  </custodialHist>
+                                                  </adminInfo>
+                                                  <surrogates/>
+                                                  <listBibl>
+                                                  <bibl/>
+                                                  </listBibl>
+                                                  </additional>
+                                                  <msPart>
+                                                  <altIdentifier>
+                                                  <idno/>
+                                                  </altIdentifier>
+                                                  </msPart>
+                                        </msDesc>
+                              </sourceDesc>
+                    </fileDesc>
+                    <encodingDesc>
+                              <projectDesc>
+                                        <p/>
+                              </projectDesc>
+                              <samplingDecl>
+                                        <p/>
+                              </samplingDecl>
+                              <editorialDecl>
+                                        <correction>
+                                                  <p/>
+                                        </correction>
+                                        <normalization>
+                                                  <p/>
+                                        </normalization>
+                                        <quotation>
+                                                  <p/>
+                                        </quotation>
+                                        <hyphenation>
+                                                  <p/>
+                                        </hyphenation>
+                                        <segmentation>
+                                                  <p/>
+                                        </segmentation>
+                                        <stdVals>
+                                                  <p/>
+                                        </stdVals>
+                                        <interpretation>
+                                                  <p/>
+                                        </interpretation>
+                              </editorialDecl>
+                              <tagsDecl>
+                                        <rendition/>
+                                        <namespace name="http://www.tei-c.org/ns/1.0">
+                                                  <tagUsage gi=""/>
+                                        </namespace>
+                              </tagsDecl>
+                              <refsDecl>
+                                        <cRefPattern matchPattern="" replacementPattern=""/>
+                              </refsDecl>
+                              <refsDecl>
+                                        <refState unit=""/>
+                              </refsDecl>
+                              <classDecl>
+                                        <taxonomy>
+                                                  <category>
+                                                  <catDesc/>
+                                                  </category>
+                                        </taxonomy>
+                              </classDecl>
+                              <appInfo>
+                                        <application ident="" version="">
+                                                  <desc/>
+                                                  <label/>
+                                        </application>
+                              </appInfo>
+                    </encodingDesc>
+                    <profileDesc>
+                              <creation/>
+                              <langUsage>
+                                        <language ident="en">English</language>
+                              </langUsage>
+                              <textClass>
+                                        <keywords scheme="unknown">
+                                                  <list>
+                                                  <item/>
+                                                  <item/>
+                                                  </list>
+                                        </keywords>
+                                        <classCode scheme=""/>
+                                        <catRef/>
+                              </textClass>
+                    </profileDesc>
+                    <revisionDesc>
+                              <change/>
+                    </revisionDesc>
+          </teiHeader>
+          <text>
+                    <body>
+                              <pb n="1"/>
+                              <p rend="align(right)">
+                                        <placeName>San Francisco</placeName>
+                                        <date>Dec. 15. 1852</date>
+                              </p>
+                              <p>
+                                        <addressee>Revd Mr. Isaac Leeser</addressee>
+                              </p>
+                              <p rend="indent(3)">Dear friend</p>
+                              <p rend="indent(5)">I send you enclosed<lb/> Draft on <persName>Mess.
+                                                  M. Cauffman &amp; Co</persName>,
+                                                  <placeName>Phila.</placeName> Drawn by<lb/>
+                                        <persName>Roggenburger &amp; Co</persName>, for $24.00,
+                                        which I have collected for<lb/> the Occident, as per
+                                        enclosed statement; &amp; enclose you also<lb/> a fresh
+                                        subscription for the O.; had I more Time to<lb/> spare &amp;
+                                        our Californians would devote more Time in<lb/> reading your
+                                        intellectual work, I could, no Doubt have<lb/> sent you a
+                                        larger list of Subscription.</p>
+                              <p>I have recd your Letter, &amp; am sorry, that I cannot<lb/> comply
+                                        with your wishes for informing you, how<lb/> Jewish affairs
+                                        progress; however that much I can<lb/> tell you, that Jewish
+                                        Families are getting quite Numerous<lb/> in <placeName>San
+                                                  Francisco</placeName>, &amp; of late we had also
+                                        several Mar-<lb/>-riages taking place. The Jewish Population
+                                        all over<lb/>
+                                        <placeName>California</placeName> is very numerous, but our
+                                        Religion is<lb/> not by any means kept up in generality, as
+                                        it should be.<lb/> We have two Synagogues here, one Polish
+                                        &amp; one German,<lb/> which are open every
+                                        “<add>שבת</add>”, but are not very well attended,<lb/> &amp;
+                                        it is only on “<add>יום טוב</add>”, that you have the
+                                        opportunity of<lb/> witnessing the Synagogues crowded, where
+                                        there is generally<lb/> not Room enough to seat ½.</p>
+                              <p>It saves me some Trouble, <del>when</del> if I collect the
+                                        Subscriptions</p>
+                              <pb n="2"/>
+                              <p>immediately, &amp; you will notice several on my a/c who<lb/> have
+                                        paid in advance. You will also be kind enough<lb/> to send
+                                        me the a/c what <persName>Roggenburger &amp; Co</persName>
+                                        in <placeName>California</placeName><lb/> owes you.</p>
+                              <p>It was told me by several whose subscription<lb/> to the O. I have
+                                        sent the Last Time, that they have not<lb/> recd the O. You
+                                        will please therefore, to be exact in<lb/> making a plain
+                                        Direction; as our Post office arrangement<lb/> is none of
+                                        the Best.</p>
+                              <p>Business in general has been very good with us for<lb/> the last
+                                        10-12 Mos. &amp; Goods in almost all Branches<lb/> have paid
+                                        well to import; some articles always<lb/> pay very well in
+                                                  <placeName>California</placeName>; as for
+                                        Instance<lb/> Flour is worth from $40 to $45—pr.
+                                        Barrell,<lb/> which cost at Home no more than $4.50 pr
+                                        Barrel.<lb/> I could give you more Information about
+                                        Business<lb/> but I am aware, it is of no Interest to
+                                        you—<lb/> as you are no Doubt aware, money making &amp;<lb/>
+                                        speculating is all the go—&amp; one's attentions is
+                                        almost<lb/> entirely directed to that.</p>
+                              <p><persName>Mr. &amp; Mrs. Roggenburger</persName> desire their kind
+                                        Regards<lb/> to you; they have arrived <sic>save</sic>;
+                                        &amp; live very hand<lb/>-somely &amp; very convenient,
+                                        &amp; Enjoy themselves; they live<lb/> “<add>כשר</add>”
+                                        &amp; I am boarding with them, which gives me the
+                                        op-<lb/>-portunity of reminding myself, that I am a
+                                        “Secr”<lb/> Hoping, you will soon write to me a large letter
+                                        &amp;c, &amp; that this<lb/> may find you in good Health</p>
+                              <p rend="indent(9)">I Remain your true friend</p>
+                              <p rend="indent(9)">
+                                        <persName role="author">Cauffman H Meyer</persName>
+                              </p>
+                    </body>
+          </text>
 </TEI>

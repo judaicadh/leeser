@@ -1,252 +1,306 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="yes">Jones[?], Joseph</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>LSKAP</repository>
-						<collection>The Arnold and Deanne Kaplan Collection of Early American Judaica</collection>
-						<idno>LSKAP0134</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="yes">Jones[?], Joseph</author>
-						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac</addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>Cincinnati, OH</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1845-09" source="" attested="yes">September 6, 1845</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="LSKAP0134_1r.jpg"></graphic>
-								<graphic url="LSKAP0134_1v.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="true" paper_type="" size="">letter</material>
-								</support>
-								<extent>2 pages on 1 sheet
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="manuscript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="restricted">
-								<p>Restricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1R"/>
-				<p rend="align(right)"><placeName>Cincinnati</placeName> <date>Sept. 6. 1845</date></p>
-				<p><addressee>Revd Isaac Leeser</addressee></p>
-			<p rend="indent(1)">My Dear Sir</p>
-			<p rend="indent(2)">Your two letters are now before me&#44; and I<lb/> have particularly noted the contents&#59;&#8212;with respect to the<lb/> subscribers to the Occident&#44; I will endeavor to collect the<lb/> subscriptions as soon as possible &#38; remit you the amount&#58;<lb/> with respect to the Institute which we are endeavoring to<lb/> establish here&#44; I am afraid it will come to nothing&#44; for<lb/> our Brethren here as you correctly state are indeed &#39;rude and<lb/> uneducated&#44;&#39; and are also tainted with infidelity&#44; bigotry<lb/> and superstition&#59;&#8212;We have a constantly <sic>encreasing</sic> Jewish<lb/> population&#44; nearly numbering 3&#44;500 but they are not of the right<lb/> sort&#44; a moiety<add>&#63;</add> of them being more willing to receive assistance<lb/> than to assist or lend their support to either of the two<lb/> Congregations&#59; <del>or</del> for educational purposes&#59;&#8212;but at the same time must give them credit for being Charitable&#59; for calls<lb/> of that nature are indeed numerous&#59; as a specimen&#44; upwards<lb/> of &#36;500 was collected from them &#38; the societies for the suffering at the <placeName><sic>Pitsburg</sic></placeName> fire&#59;&#8212;when your <add>Hebrew</add> is <sic>compleated</sic> it is probable<lb/> I may be able to dispose of a few&#44; if you think proper to send<lb/> them out&#59;&#8212;The Occident does not appear to the taste of our members&#44;<lb/> a work of the plan of the &#8220;Voice of Jacob&#44;&#8221; or the &#8220;Jewish Chronicle&#8221;<lb/> would suit much better&#44; <sic>their</sic> are several subscribers to those<lb/> works&#44; &#38; they appear to take very much&#44; controversial works<lb/> in favor of our Religion are required very much in the <placeName>West</placeName>&#44;<lb/> I am a considerable portion of my time&#44; answering different<lb/> text of Scriptures&#44; for Clergymen in various sections of the <placeName>Western<lb/> Country</placeName>&#59; brought me by our Israelitish Pedlar&#59; a cheap pub&#45;<lb/>&#45;lication of that nature would be very beneficial&#59; as</p>
-			<pb n="1V"/>
-				<p>constant struggles are made to obtain converts amongst<lb/> our Brethren&#59;&#8212;and those Pedlars &#39;tho honest moral men&#44; are in<lb/> general composed of very illiterate Germans&#44; who are not able<lb/> to give an answer to the plainest text&#59;&#8212;Your Occident is<lb/> calculated for the <hi rend="underline">Rich</hi> and <hi rend="underline">educated Jew</hi>&#44; <hi rend="underline">not for</hi> the poor<lb/> and illiterate Sons of <placeName>Israel</placeName>&#44; who only know that they are Jews.<lb/> they want something to warm them up as patriots in a</p>
-				<p rend="align(center)"><addressee>Rev. Isaac Leeser</addressee></p>
-				<p rend="align(center)"><placeName>118 South 4th Street. Philadelphia</placeName></p>
-				<p rend="align(center)indent(2)"><placeName>Pa</placeName></p>
-				<p rend="Note&#58;">The address is written sideways in the center of the page.</p>
-				<p>national point of view&#44; as well as to stir up their zeal<lb/> in our holy Religion&#59;&#8212;we are not as in <placeName>Europe</placeName> writing with<lb/> this word of Persecution at our throats&#59;&#8212;being on an equality with<lb/> the Gentile&#44; we are required to be strong &#38; courageous&#59; and altho&#39; few<lb/> in numbers against the Midianitish<add>&#63;</add> Camp&#44; to sound our &#39;Trumpets&#39;<lb/> break our &#39;Pitches&#44;&#39; and <hi rend="underline">Proclaim aloud</hi> &#8220;The Sword of the Lord<lb/> and of <persName>Gideon</persName>.&#8221;</p>
-			<p rend="indent(1)">Yours Sincerely</p>
-			<p rend="indent(1)"><persName role="author">Joseph Jones<add>&#63;</add></persName></p>
-		</body>
-	</text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="yes">Jones[?], Joseph</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>LSKAP</repository>
+                        <collection>The Arnold and Deanne Kaplan Collection of Early American
+                            Judaica</collection>
+                        <idno>LSKAP0134</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="yes">Jones[?],
+                            Joseph</author>
+                        <addressee accepted="yes" attested="yes" editor="false">Leeser,
+                            Isaac</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Cincinnati, OH</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1845-09">September 6, 1845</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="LSKAP0134_1r.jpg"/>
+                                <graphic url="LSKAP0134_1v.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="true" paper_type="" size=""
+                                        >letter</material>
+                                </support>
+                                <extent>2 pages on 1 sheet <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="restricted">
+                                <p>Restricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1R"/>
+            <p rend="align(right)">
+                <placeName>Cincinnati</placeName>
+                <date>Sept. 6. 1845</date>
+            </p>
+            <p>
+                <addressee>Revd Isaac Leeser</addressee>
+            </p>
+            <p rend="indent(1)">My Dear Sir</p>
+            <p rend="indent(2)">Your two letters are now before me, and I<lb/> have particularly
+                noted the contents;—with respect to the<lb/> subscribers to the Occident, I will
+                endeavor to collect the<lb/> subscriptions as soon as possible &amp; remit you the
+                amount:<lb/> with respect to the Institute which we are endeavoring to<lb/>
+                establish here, I am afraid it will come to nothing, for<lb/> our Brethren here as
+                you correctly state are indeed 'rude and<lb/> uneducated,' and are also tainted with
+                infidelity, bigotry<lb/> and superstition;—We have a constantly
+                    <sic>encreasing</sic> Jewish<lb/> population, nearly numbering 3,500 but they
+                are not of the right<lb/> sort, a moiety<add>?</add> of them being more willing to
+                receive assistance<lb/> than to assist or lend their support to either of the
+                two<lb/> Congregations; <del>or</del> for educational purposes;—but at the same time
+                must give them credit for being Charitable; for calls<lb/> of that nature are indeed
+                numerous; as a specimen, upwards<lb/> of $500 was collected from them &amp; the
+                societies for the suffering at the <placeName><sic>Pitsburg</sic></placeName>
+                fire;—when your <add>חומש</add> is <sic>compleated</sic> it is probable<lb/> I may
+                be able to dispose of a few, if you think proper to send<lb/> them out;—The Occident
+                does not appear to the taste of our members,<lb/> a work of the plan of the “Voice
+                of Jacob,” or the “Jewish Chronicle”<lb/> would suit much better, <sic>their</sic>
+                are several subscribers to those<lb/> works, &amp; they appear to take very much,
+                controversial works<lb/> in favor of our Religion are required very much in the
+                    <placeName>West</placeName>,<lb/> I am a considerable portion of my time,
+                answering different<lb/> text of Scriptures, for Clergymen in various sections of
+                the <placeName>Western<lb/> Country</placeName>; brought me by our Israelitish
+                Pedlar; a cheap pub-<lb/>-lication of that nature would be very beneficial; as</p>
+            <pb n="1V"/>
+            <p>constant struggles are made to obtain converts amongst<lb/> our Brethren;—and those
+                Pedlars 'tho honest moral men, are in<lb/> general composed of very illiterate
+                Germans, who are not able<lb/> to give an answer to the plainest text;—Your Occident
+                is<lb/> calculated for the <hi rend="underline">Rich</hi> and <hi rend="underline"
+                    >educated Jew</hi>, <hi rend="underline">not for</hi> the poor<lb/> and
+                illiterate Sons of <placeName>Israel</placeName>, who only know that they are
+                Jews.<lb/> they want something to warm them up as patriots in a</p>
+            <p rend="align(center)">
+                <addressee>Rev. Isaac Leeser</addressee>
+            </p>
+            <p rend="align(center)">
+                <placeName>118 South 4th Street. Philadelphia</placeName>
+            </p>
+            <p rend="align(center)indent(2)">
+                <placeName>Pa</placeName>
+            </p>
+            <p rend="Note:">The address is written sideways in the center of the page.</p>
+            <p>national point of view, as well as to stir up their zeal<lb/> in our holy
+                Religion;—we are not as in <placeName>Europe</placeName> writing with<lb/> this word
+                of Persecution at our throats;—being on an equality with<lb/> the Gentile, we are
+                required to be strong &amp; courageous; and altho' few<lb/> in numbers against the
+                    Midianitish<add>?</add> Camp, to sound our 'Trumpets'<lb/> break our 'Pitches,'
+                and <hi rend="underline">Proclaim aloud</hi> “The Sword of the Lord<lb/> and of
+                    <persName>Gideon</persName>.”</p>
+            <p rend="indent(1)">Yours Sincerely</p>
+            <p rend="indent(1)">
+                <persName role="author">Joseph Jones<add>?</add></persName>
+            </p>
+        </body>
+    </text>
 </TEI>

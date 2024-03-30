@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+
 		<fileDesc>
 			<titleStmt>
 				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="yes">Jastrow, M.</author>
+				<author accepted="yes" attested="yes" signature="yes">Jastrow, M.</author>
 				<editor/>
 				<sponsor/>
 				<funder/>
@@ -56,8 +58,8 @@
 					</msIdentifier>
 					<head/>
 					<letHeading>
-						<author attested="yes" accepted="yes" signature="yes">Jastrow, M.</author>
-						<addressee editor="false" attested="yes" accepted="yes">Sulzberger,
+						<author accepted="yes" attested="yes" signature="yes">Jastrow, M.</author>
+						<addressee accepted="yes" attested="yes" editor="false">Sulzberger,
 							Mayer</addressee>
 						<deliverer/>
 						<respStmt>
@@ -66,7 +68,7 @@
 						</respStmt>
 						<placeLet>Philadelphia, PA</placeLet>
 						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1896-06" source="" attested="yes">17 June 1896</dateLet>
+						<dateLet attested="yes" source="" when="1896-06">17 June 1896</dateLet>
 					</letHeading>
 					<msContents>
 						<msItem>
@@ -93,8 +95,8 @@
 						<objectDesc>
 							<supportDesc>
 								<support>
-									<material color="" lined="false" paper_type="" size="">letter</material>letter
-								</support>
+									<material color="" lined="false" paper_type="" size=""
+										>letter</material>letter </support>
 								<extent>1 page on 2 sheets <dimensions/>
 								</extent>
 								<foliation/>
@@ -234,42 +236,43 @@
 	</teiHeader>
 	<text>
 		<body>
-			<p><persName>MORRIS NEWBURGER</persName>&#44; <lb/> PRESIDENT.</p>
-			<p><persName>MAYER SULZBERGER</persName>&#44; <lb/> CHAIRMAN PUBLICATION COMMITTEE.</p>
+			<p><persName>MORRIS NEWBURGER</persName>, <lb/> PRESIDENT.</p>
+			<p><persName>MAYER SULZBERGER</persName>, <lb/> CHAIRMAN PUBLICATION COMMITTEE.</p>
 			<p><persName>MORRIS DANNENBAUM</persName><lb/> TREASURER.</p>
-			<p><persName>C. S. BERNHEIMER</persName>&#44;<lb/> ASSISTANT SECRETARY</p>
+			<p><persName>C. S. BERNHEIMER</persName>,<lb/> ASSISTANT SECRETARY</p>
 			<p rend="align(center)">The Jewish Publication Society of
-				<placeName>America</placeName>. <placeName>1015 ARCH STREET&#44; P. O. BOX
-					1164</placeName>&#44; <placeName>139 WEST UPSAL ST.&#44;<lb/> GERMANTOWN&#44;
+				<placeName>America</placeName>. <placeName>1015 ARCH STREET, P. O. BOX
+					1164</placeName>, <placeName>139 WEST UPSAL ST.,<lb/> GERMANTOWN,
 					PHILADA.</placeName>
 				<placeName>PHILADELPHIA</placeName>.</p>
-			<p rend="align(right)"><date>June&#44; 17&#44; 1896</date>.</p>
-			<p><addressee>Judge Mayer Sulzberger</addressee>&#59;</p>
-			<p rend="indent(1)">Dear Sir&#44;</p>
+			<p rend="align(right)"><date>June, 17, 1896</date>.</p>
+			<p><addressee>Judge Mayer Sulzberger</addressee>;</p>
+			<p rend="indent(1)">Dear Sir,</p>
 			<p rend="indent(2)">I beg leave to send you a copy of<lb/> our correspondence with the
-				contemplated English contributors<lb/> to the Bible translation&#44;m and to direct
-				your attention to the<lb/> explanatory letter to <persName>Dr. Adler</persName>&#44;
-				&#40;marked A&#41; which accompanied<lb/> the Instructions. The fact that this
-				letter was not placed<lb/> before the gentlemen who signed the collective
-				letter<lb/> of declination of <date>April 6</date>&#44; &#40;marked B&#41; can only
-				be accounted<lb/> for by an oversight on the part of the secretary to <persName>Dr.
-					Adler</persName>&#44; for it<lb/> was enclosed in the <sic>envelop</sic> with
-				the Instructions addressed<lb/> to <persName>Dr. Adler</persName>. A second
-				copy&#44; however&#44; of his letter was in the<lb/> hands of the chief Rabbi before
-				the collective letter of<lb/> declination &#40;marked B&#41; was sent off as evident
-				from<lb/> the P. S. to the letter &#40;marked C&#41; Whether the signers were
-				in&#45;<lb/>formed of this explanatory letter&#44; I have no means of<lb/>
-				ascertaining. It would seem that <persName>Mr. Joseph Jacobs</persName>&#44; at<lb/>
-				the time of his writing to you upon the matter was<lb/> not aware of its existence.
-				You will confer a great favor<lb/> on me if you will kindly undertake to convince
-					<persName>Mr. Jacobs</persName>&#44;<lb/> that nothing was neglected on our part
-				to show our English<lb/>
-				<sic>brethern</sic>&#44; that our making the <persName>Leeser</persName> Bible the
-				work&#45;<lb/>ing basis for our enterprise&#44; was not intended to fetter<lb/> the
-				hands of the contributors in any way.</p>
-			<p rend="indent(6)">Believe me&#44; dear Sir&#44;</p>
+				contemplated English contributors<lb/> to the Bible translation,m and to direct your
+				attention to the<lb/> explanatory letter to <persName>Dr. Adler</persName>, (marked
+				A) which accompanied<lb/> the Instructions. The fact that this letter was not
+				placed<lb/> before the gentlemen who signed the collective letter<lb/> of
+				declination of <date>April 6</date>, (marked B) can only be accounted<lb/> for by an
+				oversight on the part of the secretary to <persName>Dr. Adler</persName>, for
+				it<lb/> was enclosed in the <sic>envelop</sic> with the Instructions addressed<lb/>
+				to <persName>Dr. Adler</persName>. A second copy, however, of his letter was in
+				the<lb/> hands of the chief Rabbi before the collective letter of<lb/> declination
+				(marked B) was sent off as evident from<lb/> the P. S. to the letter (marked C)
+				Whether the signers were in-<lb/>formed of this explanatory letter, I have no means
+				of<lb/> ascertaining. It would seem that <persName>Mr. Joseph Jacobs</persName>,
+				at<lb/> the time of his writing to you upon the matter was<lb/> not aware of its
+				existence. You will confer a great favor<lb/> on me if you will kindly undertake to
+				convince <persName>Mr. Jacobs</persName>,<lb/> that nothing was neglected on our
+				part to show our English<lb/>
+				<sic>brethern</sic>, that our making the <persName>Leeser</persName> Bible the
+				work-<lb/>ing basis for our enterprise, was not intended to fetter<lb/> the hands of
+				the contributors in any way.</p>
+			<p rend="indent(6)">Believe me, dear Sir,</p>
 			<p rend="indent(7)">Very Truly Yours.</p>
-			<p rend="indent(7)"><persName role="author">M Jastrow</persName></p>
+			<p rend="indent(7)">
+				<persName role="author">M Jastrow</persName>
+			</p>
 		</body>
 	</text>
 </TEI>

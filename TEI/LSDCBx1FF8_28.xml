@@ -1,269 +1,325 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE TEI [
-<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
-%teibase;
-<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
-%teiext;
-]>
-<TEI>
-    <teiHeader>
-      <fileDesc>
-        <titleStmt>
-          <title>[no title given]</title>
-          <author attested="yes" accepted="yes" signature="yes">Nost, Simeon Cohen</author>
-          <editor></editor>
-          <sponsor></sponsor>
-          <funder></funder>
-          <principal></principal>
-          <respStmt>
-            <resp></resp>
-            <name></name>
-          </respStmt>
-        </titleStmt>
-        <editionStmt>
-          <edition></edition>
-          <respStmt>
-            <resp></resp>
-            <name></name>
-          </respStmt>
-        </editionStmt>
-        <extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-        <publicationStmt>
-          <publisher>Unpublished manuscript</publisher>
-        </publicationStmt>
-        <seriesStmt>
-          <p>Not part of a series</p>
-        </seriesStmt>
-        <notesStmt>
-          <note></note>
-        </notesStmt>
-        <sourceDesc>
-          <biblStruct>
-            <!-- catalog entry goes here -->
-            <monogr>
-              <imprint>
-                <dateLet></dateLet>
-              </imprint>
-            </monogr>
-          </biblStruct>
-          <msDesc>
-            <msIdentifier>
-              <country>USA</country>
-              <region>PA</region>
-              <settlement>Philadelphia</settlement>
-              <institution></institution>
-              <repository>CAJS Isaac Leeser Collection</repository>
-              <collection>The Library of the Dropsie College for Hebrew and Cognate Learning</collection>
-              <idno>LSDCBx1FF8_28</idno>
-              <altIdentifier>
-                <idno></idno>
-              </altIdentifier>
-              <msName></msName>
-            </msIdentifier>
-            <head></head>
-            <letHeading>
-              <author attested="yes" accepted="yes" signature="yes">Nost, Simeon Cohen</author>
-              <addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac, Rev.</addressee>
-              <deliverer></deliverer>
-              <respStmt>
-                <resp></resp>
-                <name></name>
-              </respStmt>
-              <placeLet>New York NY</placeLet>
-              <placeRec>Philadelphia, PA</placeRec>
-              <dateLet when="1851-04" source="" attested="yes">5 April 1851</dateLet>
-              <dateLet when="1851-04" source="" attested="yes">5 Nisan 1851</dateLet>
-            </letHeading>
-            <msContents>
-              <msItem>
-                <author></author>
-                <editor></editor>
-                <respStmt>
-                  <resp></resp>
-                  <name></name>
-                </respStmt>
-                <title></title>
-                <decoNote></decoNote>
-                <listBibl>
-                  <bibl></bibl>
-                </listBibl>
-                <filiation></filiation>
-                <textLang></textLang>
-                <figure>
-                  <graphic url="ilcajs_b1f8_0022_1r.jpg"/>
-                  <graphic url="ilcajs_b1f8_0022_2v.jpg"/>
-                </figure>
-              </msItem>
-            </msContents>
-            <physDesc>
-              <objectDesc>
-                <supportDesc>
-                  <support>
-                    <material color="" lined="true" paper_type="" size="Letter">letter</material>
-                  </support>
-                  <extent>4 pages on 4 sheets
-                    <dimensions></dimensions>
-                  </extent>
-                  <foliation></foliation>
-                  <collation></collation>
-                  <condition fragment="false"></condition>
-                </supportDesc>
-                <layoutDesc>
-                  <layout></layout>
-                </layoutDesc>
-              </objectDesc>
-              <handDesc script="manuscript">
-                  <handNote></handNote>
-              </handDesc>
-              <decoDesc>
-                <decoNote></decoNote>
-              </decoDesc>
-              <additions></additions>
-              <bindingDesc>
-                <binding>
-                  <decoNote></decoNote>
-                </binding>
-              </bindingDesc>
-              <sealDesc>
-                <seal>
-                  <p>Wax seal</p>
-                </seal>
-              </sealDesc>
-              <accMat></accMat>
-              <envDesc occ="false"></envDesc>
-            </physDesc>
-            <history>
-              <origin></origin>
-              <provenance></provenance>
-              <acquisition></acquisition>
-            </history>
-            <additional>
-              <adminInfo>
-                <recordHist>
-                  <source></source>
-                  <change></change>
-                </recordHist>
-                <availability status="free">
-                  <p>Unrestricted</p>
-                </availability>
-                <custodialHist>
-                  <custEvent></custEvent>
-                </custodialHist>
-              </adminInfo>
-              <surrogates></surrogates>
-              <listBibl>
-                <bibl></bibl>
-              </listBibl>
-            </additional>
-            <msPart>
-              <altIdentifier>
-                <idno></idno>
-              </altIdentifier>
-            </msPart>
-          </msDesc>
-        </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-        <projectDesc>
-          <p></p>
-        </projectDesc>
-        <samplingDecl>
-          <p></p>
-        </samplingDecl>
-        <editorialDecl>
-          <correction>
-            <p></p>
-          </correction>
-          <normalization>
-            <p></p>
-          </normalization>
-          <quotation>
-            <p></p>
-          </quotation>
-          <hyphenation>
-            <p></p>
-          </hyphenation>
-          <segmentation>
-            <p></p>
-          </segmentation>
-          <stdVals>
-            <p></p>
-          </stdVals>
-          <interpretation>
-            <p></p>
-          </interpretation>
-        </editorialDecl>
-        <tagsDecl>
-          <rendition></rendition>
-          <namespace name="http://www.tei-c.org/ns/1.0">
-            <tagUsage gi=""></tagUsage>
-          </namespace>
-        </tagsDecl>
-        <refsDecl>
-          <cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-        </refsDecl>
-        <refsDecl>
-          <refState unit=""/>
-        </refsDecl>
-        <classDecl>
-          <taxonomy>
-            <category>
-              <catDesc></catDesc>
-            </category>
-          </taxonomy>
-        </classDecl>
-        <appInfo>
-          <application ident="" version="">
-            <desc></desc>
-            <label></label>
-          </application>
-        </appInfo>
-      </encodingDesc>
-      <profileDesc>
-        <creation></creation>
-        <langUsage>
-          <language ident="en">English</language>
-          <language ident="yi">Yiddish</language>
-        </langUsage>
-        <textClass>
-          <keywords scheme="unknown">
-            <list>
-              <item></item>
-              <item></item>
-            </list>
-          </keywords>
-          <classCode scheme=""></classCode>
-          <catRef/>
-        </textClass>
-      </profileDesc>
-      <revisionDesc>
-        <change></change>
-      </revisionDesc>
-    </teiHeader>
-    <text>
-        <body>
-      
-		<pb n="1"/>
-			<p><add>Yiddish</add></p>
-			<p><placeName>N<hi rend="underline">o</hi> 9 Reade St N. Y</placeName>&#58;</p>
-		<pb n="2"/>
-			<p><addressee>Revd Isaac Leeser</addressee></p>
-			<p><placeName>Walnut Street</placeName></p>
-          <p rend="indent(1)"><placeName>Philadelphia</placeName></p>
-			<p><hi rend="underline">Paide</hi></p>
-		<pb n="3"/>
-			<p><add><hi rend="underline">Yiddish</hi></add></p>
-			<p rend="align(right)"><placeName>N. Y.</placeName> Tuesday&#44; 5th of</p> 
-          <p rend="align(right)"><date>Nisan &#40;April&#41; 1851</date>.</p>
-			<p>May the God of the Universe grant life&#44; etc&#44;<lb/> <addressee>Rabbi Yitzchek Isaac Leeser</addressee>&#58;</p>
-          <p rend="indent(1)">With an expression of greetings I come<lb/> to beg of you for an unusual favor.<lb/> A year ago&#44; you&#8212;<add>&#63;</add> printed Shema Yisreels&#42;<lb/> written by <persName>Mr. Bernahl</persName>&#44; and <persName>Mr. A. Hart</persName><lb/> answered that the die has been destroyed and<lb/> no more are to be had&#44; and <del>you</del> I came to<lb/> the conclusion that <del>you</del> I ought to make a<lb/> new die&#44; which <del>you</del> I did&#44; making many<lb/> changes and improvements in it&#44; so<lb/> that it might agree with the Divine<lb/> command. But before doing this I asked the<lb/> lawyer <persName>Joachinson</persName> whether it is allowed.<lb/> His answer was&#44; &#34;Certainly&#44; since you made<lb/> and want to make many improvements.&#34;<lb/> I then extended &#36;155.&#44; not a cent of mine&#44;<lb/> but money of my friends who assisted me.</p>
-			<p>&#42;a group of Biblical quotations&#44; usually attached to the<lb/> walls over the bed of a woman who had just given birth.</p>
-			<p rend="align(center)"><date>4&#45;5&#45;1851</date></p>
-		<pb n="4"/>
-			<p>Now I am told that before selling I<lb/> must inquire more carefully about the<lb/> laws and customs of this land&#44; since every<lb/> thing of this sort is prohibited. That is<lb/> why I hope that you my friend will<lb/> do me this favor to write to <persName>Mr. Bernahl</persName><lb/> for permission to reprint the Shima Yisrael<lb/> and sell them. My view is that you should<lb/> not reveal that they are already printed<lb/> &#34;but the wise men has eyes in his head&#34;<lb/> and you may as you please. I do this<lb/> only to save my life&#44; to be able to<lb/> return the borrowed money&#44; and not to<lb/> make enemies for myself. But God<lb/> who knows the hidden things knows that<lb/> the fault lies with <persName>Joachinson</persName>. I have<lb/> no doubt you will do this kindness<lb/> and help me as much as possible&#44; in order to save my life. God will reward<lb/> you doubly&#44; etc. etc. Writing with weak<lb/> hands and shaking knees&#44;</p>
-          <p rend="indent(8)"><persName role="author">Simeon Cohen Nost</persName>&#44; <placeName>9 Reade St. N. Y.</placeName></p>
-          <p rend="indent(9)"><date>4&#45;5&#45;1851</date></p>
-          
-        </body>
-    </text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+          <teiHeader>
+
+                    <fileDesc>
+                              <titleStmt>
+                                        <title>[no title given]</title>
+                                        <author accepted="yes" attested="yes" signature="yes">Nost,
+                                                  Simeon Cohen</author>
+                                        <editor/>
+                                        <sponsor/>
+                                        <funder/>
+                                        <principal/>
+                                        <respStmt>
+                                                  <resp/>
+                                                  <name/>
+                                        </respStmt>
+                              </titleStmt>
+                              <editionStmt>
+                                        <edition/>
+                                        <respStmt>
+                                                  <resp/>
+                                                  <name/>
+                                        </respStmt>
+                              </editionStmt>
+                              <extent>[information about file size goes here, information about
+                                        extent of physical item comes later]</extent>
+                              <publicationStmt>
+                                        <publisher>Unpublished manuscript</publisher>
+                              </publicationStmt>
+                              <seriesStmt>
+                                        <p>Not part of a series</p>
+                              </seriesStmt>
+                              <notesStmt>
+                                        <note/>
+                              </notesStmt>
+                              <sourceDesc>
+                                        <biblStruct>
+                                                  <!-- catalog entry goes here -->
+                                                  <monogr>
+                                                  <imprint>
+                                                  <dateLet/>
+                                                  </imprint>
+                                                  </monogr>
+                                        </biblStruct>
+                                        <msDesc>
+                                                  <msIdentifier>
+                                                  <country>USA</country>
+                                                  <region>PA</region>
+                                                  <settlement>Philadelphia</settlement>
+                                                  <institution/>
+                                                  <repository>CAJS Isaac Leeser
+                                                  Collection</repository>
+                                                  <collection>The Library of the Dropsie College for
+                                                  Hebrew and Cognate Learning</collection>
+                                                  <idno>LSDCBx1FF8_28</idno>
+                                                  <altIdentifier>
+                                                  <idno/>
+                                                  </altIdentifier>
+                                                  <msName/>
+                                                  </msIdentifier>
+                                                  <head/>
+                                                  <letHeading>
+                                                  <author accepted="yes" attested="yes"
+                                                  signature="yes">Nost, Simeon Cohen</author>
+                                                  <addressee accepted="yes" attested="yes"
+                                                  editor="false">Leeser, Isaac, Rev.</addressee>
+                                                  <deliverer/>
+                                                  <respStmt>
+                                                  <resp/>
+                                                  <name/>
+                                                  </respStmt>
+                                                  <placeLet>New York NY</placeLet>
+                                                  <placeRec>Philadelphia, PA</placeRec>
+                                                  <dateLet attested="yes" source="" when="1851-04">5
+                                                  April 1851</dateLet>
+                                                  <dateLet attested="yes" source="" when="1851-04">5
+                                                  Nisan 1851</dateLet>
+                                                  </letHeading>
+                                                  <msContents>
+                                                  <msItem>
+                                                  <author/>
+                                                  <editor/>
+                                                  <respStmt>
+                                                  <resp/>
+                                                  <name/>
+                                                  </respStmt>
+                                                  <title/>
+                                                  <decoNote/>
+                                                  <listBibl>
+                                                  <bibl/>
+                                                  </listBibl>
+                                                  <filiation/>
+                                                  <textLang/>
+                                                  <figure>
+                                                  <graphic url="ilcajs_b1f8_0022_1r.jpg"/>
+                                                  <graphic url="ilcajs_b1f8_0022_2v.jpg"/>
+                                                  </figure>
+                                                  </msItem>
+                                                  </msContents>
+                                                  <physDesc>
+                                                  <objectDesc>
+                                                  <supportDesc>
+                                                  <support>
+                                                  <material color="" lined="true" paper_type=""
+                                                  size="Letter">letter</material>
+                                                  </support>
+                                                  <extent>4 pages on 4 sheets <dimensions/>
+                                                  </extent>
+                                                  <foliation/>
+                                                  <collation/>
+                                                  <condition fragment="false"/>
+                                                  </supportDesc>
+                                                  <layoutDesc>
+                                                  <layout/>
+                                                  </layoutDesc>
+                                                  </objectDesc>
+                                                  <handDesc script="manuscript">
+                                                  <handNote/>
+                                                  </handDesc>
+                                                  <decoDesc>
+                                                  <decoNote/>
+                                                  </decoDesc>
+                                                  <additions/>
+                                                  <bindingDesc>
+                                                  <binding>
+                                                  <decoNote/>
+                                                  </binding>
+                                                  </bindingDesc>
+                                                  <sealDesc>
+                                                  <seal>
+                                                  <p>Wax seal</p>
+                                                  </seal>
+                                                  </sealDesc>
+                                                  <accMat/>
+                                                  <envDesc occ="false"/>
+                                                  </physDesc>
+                                                  <history>
+                                                  <origin/>
+                                                  <provenance/>
+                                                  <acquisition/>
+                                                  </history>
+                                                  <additional>
+                                                  <adminInfo>
+                                                  <recordHist>
+                                                  <source/>
+                                                  <change/>
+                                                  </recordHist>
+                                                  <availability status="free">
+                                                  <p>Unrestricted</p>
+                                                  </availability>
+                                                  <custodialHist>
+                                                  <custEvent/>
+                                                  </custodialHist>
+                                                  </adminInfo>
+                                                  <surrogates/>
+                                                  <listBibl>
+                                                  <bibl/>
+                                                  </listBibl>
+                                                  </additional>
+                                                  <msPart>
+                                                  <altIdentifier>
+                                                  <idno/>
+                                                  </altIdentifier>
+                                                  </msPart>
+                                        </msDesc>
+                              </sourceDesc>
+                    </fileDesc>
+                    <encodingDesc>
+                              <projectDesc>
+                                        <p/>
+                              </projectDesc>
+                              <samplingDecl>
+                                        <p/>
+                              </samplingDecl>
+                              <editorialDecl>
+                                        <correction>
+                                                  <p/>
+                                        </correction>
+                                        <normalization>
+                                                  <p/>
+                                        </normalization>
+                                        <quotation>
+                                                  <p/>
+                                        </quotation>
+                                        <hyphenation>
+                                                  <p/>
+                                        </hyphenation>
+                                        <segmentation>
+                                                  <p/>
+                                        </segmentation>
+                                        <stdVals>
+                                                  <p/>
+                                        </stdVals>
+                                        <interpretation>
+                                                  <p/>
+                                        </interpretation>
+                              </editorialDecl>
+                              <tagsDecl>
+                                        <rendition/>
+                                        <namespace name="http://www.tei-c.org/ns/1.0">
+                                                  <tagUsage gi=""/>
+                                        </namespace>
+                              </tagsDecl>
+                              <refsDecl>
+                                        <cRefPattern matchPattern="" replacementPattern=""/>
+                              </refsDecl>
+                              <refsDecl>
+                                        <refState unit=""/>
+                              </refsDecl>
+                              <classDecl>
+                                        <taxonomy>
+                                                  <category>
+                                                  <catDesc/>
+                                                  </category>
+                                        </taxonomy>
+                              </classDecl>
+                              <appInfo>
+                                        <application ident="" version="">
+                                                  <desc/>
+                                                  <label/>
+                                        </application>
+                              </appInfo>
+                    </encodingDesc>
+                    <profileDesc>
+                              <creation/>
+                              <langUsage>
+                                        <language ident="en">English</language>
+                                        <language ident="yi">Yiddish</language>
+                              </langUsage>
+                              <textClass>
+                                        <keywords scheme="unknown">
+                                                  <list>
+                                                  <item/>
+                                                  <item/>
+                                                  </list>
+                                        </keywords>
+                                        <classCode scheme=""/>
+                                        <catRef/>
+                              </textClass>
+                    </profileDesc>
+                    <revisionDesc>
+                              <change/>
+                    </revisionDesc>
+          </teiHeader>
+          <text>
+                    <body>
+                              <pb n="1"/>
+                              <p>
+                                        <add>Yiddish</add>
+                              </p>
+                              <p><placeName>N<hi rend="underline">o</hi> 9 Reade St N.
+                                        Y</placeName>:</p>
+                              <pb n="2"/>
+                              <p>
+                                        <addressee>Revd Isaac Leeser</addressee>
+                              </p>
+                              <p>
+                                        <placeName>Walnut Street</placeName>
+                              </p>
+                              <p rend="indent(1)">
+                                        <placeName>Philadelphia</placeName>
+                              </p>
+                              <p>
+                                        <hi rend="underline">Paide</hi>
+                              </p>
+                              <pb n="3"/>
+                              <p>
+                                        <add>
+                                                  <hi rend="underline">Yiddish</hi>
+                                        </add>
+                              </p>
+                              <p rend="align(right)"><placeName>N. Y.</placeName> Tuesday, 5th
+                                        of</p>
+                              <p rend="align(right)"><date>Nisan (April) 1851</date>.</p>
+                              <p>May the God of the Universe grant life, etc,<lb/>
+                                        <addressee>Rabbi Yitzchek Isaac Leeser</addressee>:</p>
+                              <p rend="indent(1)">With an expression of greetings I come<lb/> to beg
+                                        of you for an unusual favor.<lb/> A year ago,
+                                                  you—<add>?</add> printed Shema Yisreels*<lb/>
+                                        written by <persName>Mr. Bernahl</persName>, and
+                                                  <persName>Mr. A. Hart</persName><lb/> answered
+                                        that the die has been destroyed and<lb/> no more are to be
+                                        had, and <del>you</del> I came to<lb/> the conclusion that
+                                                  <del>you</del> I ought to make a<lb/> new die,
+                                        which <del>you</del> I did, making many<lb/> changes and
+                                        improvements in it, so<lb/> that it might agree with the
+                                        Divine<lb/> command. But before doing this I asked the<lb/>
+                                        lawyer <persName>Joachinson</persName> whether it is
+                                        allowed.<lb/> His answer was, "Certainly, since you
+                                        made<lb/> and want to make many improvements."<lb/> I then
+                                        extended $155., not a cent of mine,<lb/> but money of my
+                                        friends who assisted me.</p>
+                              <p>*a group of Biblical quotations, usually attached to the<lb/> walls
+                                        over the bed of a woman who had just given birth.</p>
+                              <p rend="align(center)">
+                                        <date>4-5-1851</date>
+                              </p>
+                              <pb n="4"/>
+                              <p>Now I am told that before selling I<lb/> must inquire more
+                                        carefully about the<lb/> laws and customs of this land,
+                                        since every<lb/> thing of this sort is prohibited. That
+                                        is<lb/> why I hope that you my friend will<lb/> do me this
+                                        favor to write to <persName>Mr. Bernahl</persName><lb/> for
+                                        permission to reprint the Shima Yisrael<lb/> and sell them.
+                                        My view is that you should<lb/> not reveal that they are
+                                        already printed<lb/> "but the wise men has eyes in his
+                                        head"<lb/> and you may as you please. I do this<lb/> only to
+                                        save my life, to be able to<lb/> return the borrowed money,
+                                        and not to<lb/> make enemies for myself. But God<lb/> who
+                                        knows the hidden things knows that<lb/> the fault lies with
+                                                  <persName>Joachinson</persName>. I have<lb/> no
+                                        doubt you will do this kindness<lb/> and help me as much as
+                                        possible, in order to save my life. God will reward<lb/> you
+                                        doubly, etc. etc. Writing with weak<lb/> hands and shaking
+                                        knees,</p>
+                              <p rend="indent(8)"><persName role="author">Simeon Cohen
+                                                  Nost</persName>, <placeName>9 Reade St. N.
+                                                  Y.</placeName></p>
+                              <p rend="indent(9)">
+                                        <date>4-5-1851</date>
+                              </p>
+                    </body>
+          </text>
 </TEI>

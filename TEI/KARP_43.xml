@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
         <fileDesc>
             <titleStmt>
                 <title>[no title given]</title>
-                <author attested="yes" accepted="yes" signature="yes">Abraham, Lewis</author>
+                <author accepted="yes" attested="yes" signature="yes">Abraham, Lewis</author>
                 <editor/>
                 <sponsor/>
                 <funder/>
@@ -47,7 +49,9 @@
                         <settlement>New York</settlement>
                         <institution>Jewish Theological Seminary</institution>
                         <repository/>
-                        <collection>The Abraham and Deborah Karp Collection of Early American Judaica at the Library of the Jewish Theological Seminary of America</collection>
+                        <collection>The Abraham and Deborah Karp Collection of Early American
+                            Judaica at the Library of the Jewish Theological Seminary of
+                            America</collection>
                         <idno/>
                         <altIdentifier>
                             <idno/>
@@ -56,9 +60,9 @@
                     </msIdentifier>
                     <head/>
                     <letHeading>
-                        <author attested="yes" accepted="yes" signature="yes">Abraham,
+                        <author accepted="yes" attested="yes" signature="yes">Abraham,
                             Lewis</author>
-                        <addressee editor="false" attested="yes" accepted="yes">Leeser,
+                        <addressee accepted="yes" attested="yes" editor="false">Leeser,
                             Isaac</addressee>
                         <deliverer/>
                         <respStmt>
@@ -67,7 +71,7 @@
                         </respStmt>
                         <placeLet>Cincinnati, OH</placeLet>
                         <placeRec>Philadelphia, PA</placeRec>
-                        <dateLet when="1849-10" source="" attested="yes">7 October 1849</dateLet>
+                        <dateLet attested="yes" source="" when="1849-10">7 October 1849</dateLet>
                     </letHeading>
                     <msContents>
                         <msItem>
@@ -93,7 +97,8 @@
                         <objectDesc>
                             <supportDesc>
                                 <support>
-                                    <material color="" lined="false" paper_type="" size="Letter">letter</material>
+                                    <material color="" lined="false" paper_type="" size="Letter"
+                                        >letter</material>
                                 </support>
                                 <extent>1 page on 1 sheet <dimensions/>
                                 </extent>
@@ -234,41 +239,45 @@
     </teiHeader>
     <text>
         <body>
-
             <pb n="1"/>
-            <p rend="align(right)"><placeName>Cincinnati</placeName>
-                <date>7<hi rend="sup">th</hi> October 1849</date></p>
+            <p rend="align(right)">
+                <placeName>Cincinnati</placeName>
+                <date>7<hi rend="sup">th</hi> October 1849</date>
+            </p>
             <p>Mr <addressee>I Leeser</addressee></p>
             <p rend="indent(1)">Dear Sir</p>
             <p rend="indent(2)">I enclose you an address delivered by our friend<lb/>
                 <persName>Mr Bruel</persName> handed me which you may find worthy publication<lb/>
                 if you are so inclined and have room I need not commend<lb/> it to your notice as
-                you have corresponded together before<lb/> now&#44; but will add the lecture was
-                given by request our<lb/> Parnass. <persName>Mr Henry</persName> has been elected
-                minister of the<lb/> K K B Jeshurun the late incumbent <persName>Mr J K
-                    Gutheim</persName><lb/> is now studying law. At the regular annual election<lb/>
-                of the K K B Israel the following gentlemen were duly<lb/> elected officers</p>
-            <p rend="indent(1)"><persName>Mr David Meyer</persName> Parnass <persName>Mr Dan Ullmann</persName>
-                <persName>Gabah Zedokah</persName><lb/> &#8220; <persName>Sam<hi rend="sup">1</hi>
+                you have corresponded together before<lb/> now, but will add the lecture was given
+                by request our<lb/> Parnass. <persName>Mr Henry</persName> has been elected minister
+                of the<lb/> K K B Jeshurun the late incumbent <persName>Mr J K
+                Gutheim</persName><lb/> is now studying law. At the regular annual election<lb/> of
+                the K K B Israel the following gentlemen were duly<lb/> elected officers</p>
+            <p rend="indent(1)"><persName>Mr David Meyer</persName> Parnass <persName>Mr Dan
+                    Ullmann</persName>
+                <persName>Gabah Zedokah</persName><lb/> “ <persName>Sam<hi rend="sup">1</hi>
                     Bruel</persName>
-                <persName>Gabah Beth Heim</persName> &#8220; I <add>&#63;</add> Treasure</p>
-            <p rend="align(center)"><hi rend="underline">Mr <persName>Josh. Abraham</persName> Secty</hi></p>
+                <persName>Gabah Beth Heim</persName> “ I <add>?</add> Treasure</p>
+            <p rend="align(center)">
+                <hi rend="underline">Mr <persName>Josh. Abraham</persName> Secty</hi>
+            </p>
             <p>The Society for the relief of the Jews in <placeName>Palestine</placeName>
                 numbering<lb/> about 100 members <del>are</del> is now fully organized</p>
-            <p rend="indent(1)">President <persName>James K. Gutheim</persName> Vice Pres<hi rend="sup">ts</hi>
-                <persName>Nathan Mealtzer</persName><lb/> and <persName>Abm Aub</persName>&#44;
+            <p rend="indent(1)">President <persName>James K. Gutheim</persName> Vice Pres<hi
+                    rend="sup">ts</hi>
+                <persName>Nathan Mealtzer</persName><lb/> and <persName>Abm Aub</persName>,
                 Treasurer <persName>Hyman Moses</persName> Secty <persName>Jos<hi rend="hi">ha</hi>
                     Jonas</persName><lb/> the officers above form the executive board for the
                 collection of<lb/> the dues and for transmitting the funds to be distributed
                 among<lb/> the poor Jews in <placeName>Palestine</placeName>
                 <hi rend="underline">indiscriminately</hi> and without the<lb/> deduction of <hi
                     rend="underline">any commissions</hi> save ordinary case of exchange</p>
-            <p rend="indent(1)">The Ladies Hebrew Benevolent Society have elected for the<lb/> ensuing year
-                Directress <persName>Mrs Henrietta Woolf</persName>&#44; Treasurer<lb/>
-                <persName>Mrs. Louisa Symmonds</persName> Sect <persName>Mrs Bethsheba
+            <p rend="indent(1)">The Ladies Hebrew Benevolent Society have elected for the<lb/>
+                ensuing year Directress <persName>Mrs Henrietta Woolf</persName>, Treasurer Mrs<lb/>
+                <persName>Louisa Symmonds</persName> Sect <persName>Mrs Bethsheba
                 Harris</persName><lb/> Yours Truly <persName role="author">Lewis
                 Abraham</persName></p>
-
         </body>
     </text>
 </TEI>

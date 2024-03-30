@@ -1,263 +1,289 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE TEI [
-<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
-%teibase;
-<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
-%teiext;
-]>
-<TEI>
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="yes">Holzman, E. M.</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>CAJS Isaac Leeser Collection</repository>
-						<collection>The Library of the Dropsie College for Hebrew and Cognate Learning</collection>
-						<idno>LSDCBx2FF11_16</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="yes">Holzman, E. M.</author>
-						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac, Rev.</addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>New York, NY</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1864-03" source="" attested="yes">March 1864</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="ilcajs_b2f11_0015_1r.jpg"></graphic>
-								<graphic url="ilcajs_b2f11_0015_2r.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="false" paper_type="" size="Letter">letter</material>
-								</support>
-								<extent>4 pages on 4 sheets
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="manuscript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="free">
-								<p>Unrestricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-				<language ident="he">Hebrew</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1"/>
-				<p><add>Hebrew</add></p>
-			<pb n="2"/>
-				<p><add>Hebrew</add></p>
-			<pb n="3"/>
-				<p rend="align(right)"><date>Thursday&#44; Pericope</date>&#44;</p>
-				<p rend="align(right)">M&#39;tzorang &#40;<date>March</date>&#41;</p>
-				<p><add>Hebrew</add></p>
-			<p rend="indent(11)"><placeName>New York</placeName>&#44; <date>1864</date>.</p>
-				<p>To the excellent <addressee>Rabbi Eliezar Lippman</addressee><lb/> <addressee>Leeser</addressee> of the Sephardic Congregation&#58; I<lb/> received your kind letter today&#44; and I<lb/> reply that I can send you a Sefer Torah&#44;<lb/> about 28 inches in size&#44; not new.  It<lb/> will amount to at least &#36;90.  This<lb/> I shall do for the sake of my dear trusting<lb/> friends so that the Goyim might not<lb/> say&#95;&#95;&#95;&#95;.  And as to why I have<lb/> not yet sent the T&#39;phillin&#44; please believe<lb/> me that I have not received the things<lb/> from the workmen for they are overloaded<lb/> with work and this is a secondary matter<lb/> with them.  With regard to the Sefer Torah&#44;<lb/> reply to me at once and I shall take some<lb/> time to look through it and<lb/> correct what mistakes I find&#59; so as to<lb/> send it to you &#8220;Kosher&#8221; Then I shall<lb/> order a new &#8220;Etz Chaim&#8221; &#40;The wooden rollers&#41;&#44;<lb/> so that it might reach you in<lb/> proper shape.  At the same time I&#39;ll send<lb/> some T&#39;phillim&#44; mezuzot&#44; and Tsizit.<lb/>  <del>If you will</del> Reply to me at once&#44; so that</p>
-			<pb n="2"/>
-				<p>you will receive the Sefer Torah before<lb/> <date>Passover</date>.</p>
-			<p rend="indent(1)">I hope to receive your answer.</p>
-			<p rend="indent(2)">Your friend <sic>an</sic> Servant&#44;</p>
-			<p rend="indent(2)"><persName role="author">Elijah</persName>&#44; son of <persName>Moses</persName>&#44; Scribe.</p>
-			<p rend="indent(2)"><persName role="author">E. M. Holzman</persName>.</p>
-				<p>I request an immediate answer&#44; in<lb/> order that I may justify myself&#59; if<lb/> not <del>you will receive the Sefer Torah only</del> then we will be able to see each other<lb/> only after <date>Passover</date>&#44; when&#44; God willing&#44;<lb/> I shall be in <placeName>Philadelphia</placeName>.  At that time<lb/> I hope&#44; I shall be able to make my<lb/> enemies&#44; &#8220;look like the rim of a pot&#44;&#8221;<lb/> and God will grant you goodness and<lb/> life and that you will celebrate the<lb/> <date>passover</date> in joy.</p>
-		</body>
-	</text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="yes">Holzman, E. M.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS Isaac Leeser Collection</repository>
+                        <collection>The Library of the Dropsie College for Hebrew and Cognate
+                            Learning</collection>
+                        <idno>LSDCBx2FF11_16</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="yes">Holzman, E.
+                            M.</author>
+                        <addressee accepted="yes" attested="yes" editor="false">Leeser, Isaac,
+                            Rev.</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>New York, NY</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1864-03">March 1864</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="ilcajs_b2f11_0015_1r.jpg"/>
+                                <graphic url="ilcajs_b2f11_0015_2r.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size="Letter"
+                                        >letter</material>
+                                </support>
+                                <extent>4 pages on 4 sheets <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="he">Hebrew</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <p>
+                <add>רע אהוב עתה כמו מאז צפון מתחת לציון הל"ז</add>
+            </p>
+            <pb n="2"/>
+            <p>
+                <add>יצחק בחור וטוב אשר נסעת</add>
+            </p>
+            <pb n="3"/>
+            <p rend="align(right)"><date>Thursday, Pericope</date>,</p>
+            <p rend="align(right)">M'tzorang (<date>March</date>)</p>
+            <p>
+                <add>מעמק הבכה מושב ההבל</add>
+            </p>
+            <p rend="indent(11)"><placeName>New York</placeName>, <date>1864</date>.</p>
+            <p>To the excellent <addressee>Rabbi Eliezar Lippman</addressee><lb/>
+                <addressee>Leeser</addressee> of the Sephardic Congregation: I<lb/> received your
+                kind letter today, and I<lb/> reply that I can send you a Sefer Torah,<lb/> about 28
+                inches in size, not new. It<lb/> will amount to at least $90. This<lb/> I shall do
+                for the sake of my dear trusting<lb/> friends so that the Goyim might not<lb/>
+                say____. And as to why I have<lb/> not yet sent the T'phillin, please believe<lb/>
+                me that I have not received the things<lb/> from the workmen for they are
+                overloaded<lb/> with work and this is a secondary matter<lb/> with them. With regard
+                to the Sefer Torah,<lb/> reply to me at once and I shall take some<lb/> time to look
+                through it and<lb/> correct what mistakes I find; so as to<lb/> send it to you
+                “Kosher” Then I shall<lb/> order a new “Etz Chaim” (The wooden rollers),<lb/> so
+                that it might reach you in<lb/> proper shape. At the same time I'll send<lb/> some
+                T'phillim, mezuzot, and Tsizit.<lb/>
+                <del>If you will</del> Reply to me at once, so that</p>
+            <pb n="2"/>
+            <p>you will receive the Sefer Torah before<lb/>
+                <date>Passover</date>.</p>
+            <p rend="indent(1)">I hope to receive your answer.</p>
+            <p rend="indent(2)">Your friend <sic>an</sic> Servant,</p>
+            <p rend="indent(2)"><persName role="author">Elijah</persName>, son of
+                    <persName>Moses</persName>, Scribe.</p>
+            <p rend="indent(2)"><persName role="author">E. M. Holzman</persName>.</p>
+            <p>I request an immediate answer, in<lb/> order that I may justify myself; if<lb/> not
+                    <del>you will receive the Sefer Torah only</del> then we will be able to see
+                each other<lb/> only after <date>Passover</date>, when, God willing,<lb/> I shall be
+                in <placeName>Philadelphia</placeName>. At that time<lb/> I hope, I shall be able to
+                make my<lb/> enemies, “look like the rim of a pot,”<lb/> and God will grant you
+                goodness and<lb/> life and that you will celebrate the<lb/>
+                <date>passover</date> in joy.</p>
+        </body>
+    </text>
 </TEI>

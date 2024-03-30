@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+
 		<fileDesc>
 			<titleStmt>
 				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="yes">Labatt, H. I.</author>
+				<author accepted="yes" attested="yes" signature="yes">Labatt, H. I.</author>
 				<editor/>
 				<sponsor/>
 				<funder/>
@@ -56,8 +58,8 @@
 					</msIdentifier>
 					<head/>
 					<letHeading>
-						<author attested="yes" accepted="yes" signature="yes">Labatt, H. I.</author>
-						<addressee editor="false" attested="yes" accepted="yes"/>
+						<author accepted="yes" attested="yes" signature="yes">Labatt, H. I.</author>
+						<addressee accepted="yes" attested="yes" editor="false"/>
 						<deliverer/>
 						<respStmt>
 							<resp/>
@@ -65,7 +67,7 @@
 						</respStmt>
 						<placeLet/>
 						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="" source="" attested="unk"/>
+						<dateLet attested="unk" source="" when=""/>
 					</letHeading>
 					<msContents>
 						<msItem>
@@ -94,8 +96,8 @@
 						<objectDesc>
 							<supportDesc>
 								<support>
-									<material color="" lined="true" paper_type="" size="">letter</material>letter
-								</support>
+									<material color="" lined="true" paper_type="" size=""
+										>letter</material>letter </support>
 								<extent>4 pages on 4 sheets <dimensions/>
 								</extent>
 								<foliation/>
@@ -236,221 +238,217 @@
 	<text>
 		<body>
 			<pb n="1"/>
-			<p>I regret to add Dr&#39;s Statement is false in many<lb/> respects&#44; as probably
-				his information was<lb/> derived from <persName>Mr Goldsmith</persName>.</p>
-			<p rend="indent(1)">In the first place the Doctor is not<lb/> legally our Rabbi&#44; he
+			<p>I regret to add Dr's Statement is false in many<lb/> respects, as probably his
+				information was<lb/> derived from <persName>Mr Goldsmith</persName>.</p>
+			<p rend="indent(1)">In the first place the Doctor is not<lb/> legally our Rabbi, he
 				never was so elected.</p>
-			<p rend="indent(1)">In the second&#44; <persName>Dr E</persName> never questioned<lb/>
+			<p rend="indent(1)">In the second, <persName>Dr E</persName> never questioned<lb/>
 				messenger but merely listened to calumny</p>
-			<p rend="indent(1)">In the third&#44; he had no recourse<lb/> to any expedient. The
-				Trustees did so<lb/>
+			<p rend="indent(1)">In the third, he had no recourse<lb/> to any expedient. The Trustees
+				did so<lb/>
 				<sic>authorise</sic> him to appear before the three<lb/> members without
 					<persName>Mr Messinger</persName> being<lb/> aware of their action.</p>
 			<p rend="indent(1)">In the fourth. The congregation have<lb/> adopted to eat meat of no
-				other shochet<lb/> than <persName>Messinger</persName> &#38; we boast as
-				religious<lb/> men as any in the world&#44; perhaps not<lb/> more so.</p>
+				other shochet<lb/> than <persName>Messinger</persName> &amp; we boast as
+				religious<lb/> men as any in the world, perhaps not<lb/> more so.</p>
 			<p rend="indent(1)">There will be a sequel to this of<lb/> which I shall keep you
 				advised.</p>
 			<p rend="indent(1)">Upon these remarks you may be<lb/> certain <persName>Dr
-					E.</persName> cannot be reelected at<lb/> the end of the year &#38; if you know
+					E.</persName> cannot be reelected at<lb/> the end of the year &amp; if you know
 				of any<lb/> competent ministers who of their own accord<lb/> or at your suggestion
-				will visit <placeName>San<lb/> Francisco</placeName> &#38; when here will act
+				will visit <placeName>San<lb/> Francisco</placeName> &amp; when here will act
 				prudently<lb/> they would do well to come out</p>
 			<p rend="indent(9)">yrs. Truly. <persName role="author">H I Labatt</persName></p>
 			<pb n="2"/>
-			<p>they intend to request the Doctor to<lb/> resign. He who was so unpopular<lb/> &#38;
-				was elected by such a struggle &#38;<lb/> such sacrifices has in 6 short weeks<lb/>
+			<p>they intend to request the Doctor to<lb/> resign. He who was so unpopular<lb/> &amp;
+				was elected by such a struggle &amp;<lb/> such sacrifices has in 6 short weeks<lb/>
 				make himself outrageously inimical<lb/> to the whole congregation. I hear but<lb/>
 				two opinions. One asking him to resign<lb/> the other dismissing him from his
 				post.</p>
 			<p rend="indent(1)">In a new country it was in<lb/> the Doctors province to endear
-				himself<lb/> to a warm &#38; ardent congregation but<lb/> he has chosen the
+				himself<lb/> to a warm &amp; ardent congregation but<lb/> he has chosen the
 				opposite. Yesterday<lb/> in conversation the Doctor was advised<lb/> by my father
-				&#38; myself to be careful<lb/> of his actions that the congregation were very<lb/>
-				uneasy about the Schochet matter &#38; his<lb/> position &#38; <hi rend="underline"
+				&amp; myself to be careful<lb/> of his actions that the congregation were very<lb/>
+				uneasy about the Schochet matter &amp; his<lb/> position &amp; <hi rend="underline"
 					>might</hi> censure him. He said<lb/> on that subject he courted their
-				censure<lb/> &#38; forthwith proclaimed to the world through<lb/> the papers that we
-				were all fools &#38; knew<lb/> not what we did that our Shochet<lb/> was no shochet
-				&#38; his Shechilah to be<lb/> Terephah. &#40;see publication&#41;</p>
+				censure<lb/> &amp; forthwith proclaimed to the world through<lb/> the papers that we
+				were all fools &amp; knew<lb/> not what we did that our Shochet<lb/> was no shochet
+				&amp; his Shechilah to be<lb/> Terephah. (see publication)</p>
 			<p rend="indent(1)">I enclose you the publication with<lb/> the notes thereupon that
-				seem proper.<lb/> I regret this matter on the Doctor&#39;s account</p>
+				seem proper.<lb/> I regret this matter on the Doctor's account</p>
 			<pb n="3"/>
-			<p rend="align(center)"><hi rend="bold">MISCELLANEOUS.</hi></p>
+			<p rend="align(center)">
+				<hi rend="bold">MISCELLANEOUS.</hi>
+			</p>
 			<p><hi rend="bold">NOTICE TO THE ISRAELITES OF</hi><lb/>
 				<placeName>SAN FRANCISCO</placeName> AND VICINITY.</p>
-			<p><hi rend="italics">To the Officers of the Congregations Emanuel and Shereth<lb/>
-					Israel&#44; and to the Members of the Jewish Denomination<lb/> of this
-					City&#58;</hi></p>
-			<p rend="indent(1)">BRETHREN IN FAITH&#33;&#8212;In reply to certain queries<lb/> laid
-				before me by the Prest. of K. K. Sh. Js.&#44; in a letter<lb/> dated <date>Nov.
-					29</date>&#44; A. C.&#44; I feel conscientiously bound to<lb/> state at
-				large&#58;</p>
-			<p rend="indent(1)">1<hi rend="sup">st</hi>. That our laws in relation to animal
-				food&#44; have the<lb/> sanction of a number of passages of the Holy Writ&#58;
-				See<lb/> Gen. 9&#58; 4&#59; Levit. 11&#59; 3&#58; 17&#59; 7&#58; 23&#45;27&#59;
-				17&#58; 10&#45;14&#59;<lb/> Deut. 14&#58; 4&#45;20&#44; etc.</p>
-			<p rend="indent(1)">2d. They were strictly adhered to by our Prophets&#58;<lb/> See
-					<persName>Ezek.</persName> 4&#58; 14&#59; <persName>Dan.</persName> 1&#58;
-				8&#59; and by our nation through<lb/> a series of ages and generations.</p>
+			<p>
+				<hi rend="italics">To the Officers of the Congregations Emanuel and Shereth<lb/>
+					Israel, and to the Members of the Jewish Denomination<lb/> of this City:</hi>
+			</p>
+			<p rend="indent(1)">BRETHREN IN FAITH!—In reply to certain queries<lb/> laid before me
+				by the Prest. of K. K. Sh. Js., in a letter<lb/> dated <date>Nov. 29</date>, A. C.,
+				I feel conscientiously bound to<lb/> state at large:</p>
+			<p rend="indent(1)">1<hi rend="sup">st</hi>. That our laws in relation to animal food,
+				have the<lb/> sanction of a number of passages of the Holy Writ: See<lb/> Gen. 9: 4;
+				Levit. 11; 3: 17; 7: 23-27; 17: 10-14;<lb/> Deut. 14: 4-20, etc.</p>
+			<p rend="indent(1)">2d. They were strictly adhered to by our Prophets:<lb/> See
+					<persName>Ezek.</persName> 4: 14; <persName>Dan.</persName> 1: 8; and by our
+				nation through<lb/> a series of ages and generations.</p>
 			<p rend="indent(1)">These laws are preservative of physical and mental<lb/> health. By
-				abstaining from the use of gross blood&#44; &#40;the<lb/>
-				<hi rend="italics">cruor</hi>&#41; from certain portions of &#40;almost&#41;
-				indigestible fat&#44; from animals that feed on carrion&#44; that die of
-				themselves&#44;<lb/> that labor under consumptive&#44; hepatic&#44;
-					<sic>hydrocephalous</sic><lb/> diseases&#44; or of those of the kidneys&#44; the
-				heart&#44; or the<lb/> other internal organs&#8212;not to mention the loathsome<lb/>
-				disease of the swine&#8212;by abstaining from these&#44; we reject<lb/> food that is
-				a prolific source of disease&#44; that blunts the<lb/> moral feelings&#44; that
-				inflames the passions&#44; irritates the<lb/> blood&#44; and rouses the animal
-				propensities&#8212;that animal&#45;<lb/>izes man.</p>
-			<p rend="indent(1)">This fact is acknowledged by the testimony of ages<lb/> past&#44;
-				and by the light of advanced science of the present<lb/> age&#44; as also by
-				Christian commentators&#58; See <persName>Clarke</persName> and<lb/> other
-				commentators on Lev. 11 et Deut. 14.</p>
+				abstaining from the use of gross blood, (the<lb/>
+				<hi rend="italics">cruor</hi>) from certain portions of (almost) indigestible fat,
+				from animals that feed on carrion, that die of themselves,<lb/> that labor under
+				consumptive, hepatic, <sic>hydrocephalous</sic><lb/> diseases, or of those of the
+				kidneys, the heart, or the<lb/> other internal organs—not to mention the
+				loathsome<lb/> disease of the swine—by abstaining from these, we reject<lb/> food
+				that is a prolific source of disease, that blunts the<lb/> moral feelings, that
+				inflames the passions, irritates the<lb/> blood, and rouses the animal
+				propensities—that animal-<lb/>izes man.</p>
+			<p rend="indent(1)">This fact is acknowledged by the testimony of ages<lb/> past, and by
+				the light of advanced science of the present<lb/> age, as also by Christian
+				commentators: See <persName>Clarke</persName> and<lb/> other commentators on Lev. 11
+				et Deut. 14.</p>
 			<p rend="indent(1)">We therefore need not wonder that men of science and<lb/>
-				intelligence&#44; as also proprietors of public establishments<lb/> of note even of
-				other denominations&#44; in places where we<lb/> and our principles are known&#44;
-				never use common animal<lb/> food whenever such as prepared for our use is
-				within<lb/> reach.&#42;</p>
-			<p rend="indent(1)">And in all <placeName>Israel</placeName>&#44; from times
-				immemorial&#44; only men of<lb/> gravity&#44; of unquestionable piety&#44; and
-				approved solidity<lb/> of character and principle&#44; were entrusted with the<lb/>
-				office of <hi rend="italics">Shochat</hi>&#44; i. e. of killing and inspecting the
-				ani&#45;<lb/>mals intended for the use of Israelites&#44; who&#44; on finding<lb/>
-				the animal free from disease and sound&#44; generally puts<lb/> a seal used solely
-				for that purpose on different portions<lb/> of it&#44; as marks of its
-					<sic>properiety</sic> for our use.</p>
+				intelligence, as also proprietors of public establishments<lb/> of note even of
+				other denominations, in places where we<lb/> and our principles are known, never use
+				common animal<lb/> food whenever such as prepared for our use is within<lb/>
+				reach.*</p>
+			<p rend="indent(1)">And in all <placeName>Israel</placeName>, from times immemorial,
+				only men of<lb/> gravity, of unquestionable piety, and approved solidity<lb/> of
+				character and principle, were entrusted with the<lb/> office of <hi rend="italics"
+					>Shochat</hi>, i. e. of killing and inspecting the ani-<lb/>mals intended for
+				the use of Israelites, who, on finding<lb/> the animal free from disease and sound,
+				generally puts<lb/> a seal used solely for that purpose on different portions<lb/>
+				of it, as marks of its <sic>properiety</sic> for our use.</p>
 			<p rend="indent(1)">The Schochat acts under the inspection of the Rabbi.<lb/> The former
-				after a proper study of Animal Anatomy and<lb/> Pathology&#44; as laid down in our
-				laws&#44; has to submit to an<lb/> examination to a properly authorized Rabbi&#44;
-				&#40;usually<lb/> that of the respective city where the Schochat wishes to<lb/>
-				practice&#44;&#41; who&#44; on finding the candidate religiously and<lb/> legally
-				trustworthy&#44; provides him with a <hi rend="italics">Rabbalah</hi>&#44;
-				&#40;au&#45;<lb/>thorization to be a Shochat&#44;&#41; and even then the
-				Shochat<lb/> has to refer to the Rabbi certain difficult cases&#44; and to<lb/>
-				submit to re&#45;examination at certain periods.</p>
+				after a proper study of Animal Anatomy and<lb/> Pathology, as laid down in our laws,
+				has to submit to an<lb/> examination to a properly authorized Rabbi, (usually<lb/>
+				that of the respective city where the Schochat wishes to<lb/> practice,) who, on
+				finding the candidate religiously and<lb/> legally trustworthy, provides him with a
+					<hi rend="italics">Rabbalah</hi>, (au-<lb/>thorization to be a Shochat,) and
+				even then the Shochat<lb/> has to refer to the Rabbi certain difficult cases, and
+				to<lb/> submit to re-examination at certain periods.</p>
 			<p rend="indent(1)">Only a diplomated Rabbi is authorized by our law to<lb/> institute a
-				Schochat&#59; no Schochat nor a number of Scho&#45;<lb/>chalim dare presume to do
-				so&#44; such an act is by the law<lb/>
-				<sic>delared</sic> null&#59; and the person thus created Shochat is
-					<sic>de&#45;<lb/>clare</sic> by said laws an interloper&#44; and unworthy of
-				trust.<lb/> &#40;Code Yorah Deah &#167;1 let. 18&#44; et. ib. Tor Zahab lit
-				4.&#41;</p>
+				Schochat; no Schochat nor a number of Scho-<lb/>chalim dare presume to do so, such
+				an act is by the law<lb/>
+				<sic>delared</sic> null; and the person thus created Shochat is
+					<sic>de-<lb/>clare</sic> by said laws an interloper, and unworthy of trust.<lb/>
+				(Code Yorah Deah §1 let. 18, et. ib. Tor Zahab lit 4.)</p>
 			<p rend="indent(1)">There are cases in which even legally instituted<lb/> Shochlim
-				forfeit their Rabbalah. Among others we may<lb/> mention the following&#44; as
-				pertinent to the subject.</p>
-			<p rend="indent(1)">1. If a Shochat is found to have himself shown a dis&#45;<lb/>regard
-				towards the dietetic laws by partaking of for&#45;<lb/>bidden food. &#40;Code Y.
-				D.&#44; &#167; &#167;1&#44; 2&#44; 119 etc.&#41;</p>
+				forfeit their Rabbalah. Among others we may<lb/> mention the following, as pertinent
+				to the subject.</p>
+			<p rend="indent(1)">1. If a Shochat is found to have himself shown a dis-<lb/>regard
+				towards the dietetic laws by partaking of for-<lb/>bidden food. (Code Y. D., § §1,
+				2, 119 etc.)</p>
 			<p rend="indent(1)">2. If he violates the <date>Sabbath</date> or other national<lb/>
-				laws. &#40;Ib.&#41;</p>
-			<p rend="indent(1)">3. By physical causes&#44; as obtuseness of the senses<lb/> dim&#44;
-				or short sightedness.</p>
-			<p rend="indent(1)">4. Besides&#44; no Shochat is to be trusted if he is inter<lb/>ested
-				in the result of his decision. &#40;Ib. &#167;2 Tor Zahat<lb/> ad. lit. 18.&#41;</p>
-			<p rend="indent(1)">Whereas&#44; I learn that an individual <sic>practises</sic> here
-				as<lb/> Shochat&#8212;and&#44; whereas&#44; a sacred duty imposes upon me<lb/> the
-				hard task&#8212;and the letter of the President of K. K.<lb/> Sh. Is. requires me to
-				declare whether said individual is<lb/> a legal Shochat&#44; I feel obliged to
-				state&#44; that of five candi&#45;<lb/>dates who since my stay here&#44;
-					&#40;<date>July 1<hi rend="sup">st</hi></date>&#44; A. C.&#44;&#41;
-				presented<lb/> themselves to me for authorization or examination&#44; only<lb/> two
-				were found worthy of trust&#44; viz&#58;&#8212;<persName>Mr. Isaac
-					Gold&#45;<lb/>smith</persName>&#44; the Shochat of this city&#44; and
-					<persName>Mr. Borier</persName> of <placeName>Sacra&#45;<lb/>mento</placeName>
-				city&#44; and they were examined accordingly&#59; the<lb/> other three were rejected
-				for obvious reasons. Among<lb/> the latter is the young man in question.</p>
-			<p rend="indent(1)">He was <sic>recommeaded</sic> to me for examination&#44; and
-				was<lb/> rejected on the ground of his falling under cases 1&#44; 2&#44; 3&#44;
-				4&#44;<lb/> state above as disqualifications for said office. He is<lb/> known to
-				have forfeited his <add>&#63;</add><lb/> even since his few months&#39; stay in this
-				State.</p>
-			<p rend="indent(1)">Thus rejected by our Law&#44; he had recourse to the
-				fol&#45;<lb/>lowing expedient. He applied for authorization for three<lb/> persons
-				who formerly are said to have acted as Shochin.<lb/> But as two of them publicly
-				work in stores on the <date>Sab&#45;<lb/>bath</date> and Holydays&#44; and the third
-				is known&#8212;&#8212;.</p>
+				laws. (Ib.)</p>
+			<p rend="indent(1)">3. By physical causes, as obtuseness of the senses<lb/> dim, or
+				short sightedness.</p>
+			<p rend="indent(1)">4. Besides, no Shochat is to be trusted if he is inter<lb/>ested in
+				the result of his decision. (Ib. §2 Tor Zahat<lb/> ad. lit. 18.)</p>
+			<p rend="indent(1)">Whereas, I learn that an individual <sic>practises</sic> here
+				as<lb/> Shochat—and, whereas, a sacred duty imposes upon me<lb/> the hard task—and
+				the letter of the President of K. K.<lb/> Sh. Is. requires me to declare whether
+				said individual is<lb/> a legal Shochat, I feel obliged to state, that of five
+				candi-<lb/>dates who since my stay here, (<date>July 1<hi rend="sup">st</hi></date>,
+				A. C.,) presented<lb/> themselves to me for authorization or examination, only<lb/>
+				two were found worthy of trust, viz:—<persName>Mr. Isaac Gold-<lb/>smith</persName>,
+				the Shochat of this city, and <persName>Mr. Borier</persName> of
+					<placeName>Sacra-<lb/>mento</placeName> city, and they were examined
+				accordingly; the<lb/> other three were rejected for obvious reasons. Among<lb/> the
+				latter is the young man in question.</p>
+			<p rend="indent(1)">He was <sic>recommeaded</sic> to me for examination, and was<lb/>
+				rejected on the ground of his falling under cases 1, 2, 3, 4,<lb/> state above as
+				disqualifications for said office. He is<lb/> known to have forfeited his
+					<add>?</add><lb/> even since his few months' stay in this State.</p>
+			<p rend="indent(1)">Thus rejected by our Law, he had recourse to the fol-<lb/>lowing
+				expedient. He applied for authorization for three<lb/> persons who formerly are said
+				to have acted as Shochin.<lb/> But as two of them publicly work in stores on the
+					<date>Sab-<lb/>bath</date> and Holydays, and the third is known——.</p>
 			<p rend="indent(1)">I deeply and sincerely lament to be in duty bound to<lb/> declare
-				said expedient illegal&#59; and&#8212;in the name of our<lb/> ancient and venerable
-				Laws in Codes Yorch Deah &#167; &#167;<lb/> 1&#44; 2&#44; 119&#44; 254&#59; Moshen
-				Mishpat&#44; &#167;34&#59; <persName>Ebenezer</persName>&#44; &#167;123&#59;<lb/>
-				<persName>Maimonides</persName> Hilch&#59; Gereshen Cap. 3&#44; &#167;15&#44; et
-				alibi&#8212;said<lb/> young man to be no Shochat&#59; and his <hi rend="italics"
-					>Shechilah</hi> to be<lb/>
+				said expedient illegal; and—in the name of our<lb/> ancient and venerable Laws in
+				Codes Yorch Deah § §<lb/> 1, 2, 119, 254; Moshen Mishpat, §34;
+					<persName>Ebenezer</persName>, §123;<lb/>
+				<persName>Maimonides</persName> Hilch; Gereshen Cap. 3, §15, et alibi—said<lb/>
+				young man to be no Shochat; and his <hi rend="italics">Shechilah</hi> to be<lb/>
 				<hi rend="italics">Terephah</hi>.</p>
-			<p rend="indent(1)">&#8220;He that doeth keep his soul will keep far from<lb/>
-				them.&#8221;&#8212;Prov. 22&#58;5.</p>
-			<p rend="indent(1)">In bringing this to the notice of the scrupulous
-				Israel&#45;<lb/>ites of this city and vicinity&#44; I sign</p>
-			<p rend="indent(9)">Faithfully and humbly&#44;</p>
-			<p rend="indent(10)"><persName>JULIUS ECKMAN</persName>&#44; Rabbi.</p>
-			<p><placeName>San Francisco</placeName>&#44; <date>Dec. 19&#44; &#40;5615&#41;
-					1854</date>.</p>
-			<p>&#42; We learn that such meat is to be had&#44; at the usual<lb/> market prices&#44;
-				at <persName>Messrs. Miller&#39;s</persName>&#44; <placeName>Pacific&#44; near
+			<p rend="indent(1)">“He that doeth keep his soul will keep far from<lb/> them.”—Prov.
+				22:5.</p>
+			<p rend="indent(1)">In bringing this to the notice of the scrupulous Israel-<lb/>ites of
+				this city and vicinity, I sign</p>
+			<p rend="indent(9)">Faithfully and humbly,</p>
+			<p rend="indent(10)"><persName>JULIUS ECKMAN</persName>, Rabbi.</p>
+			<p><placeName>San Francisco</placeName>, <date>Dec. 19, (5615) 1854</date>.</p>
+			<p>* We learn that such meat is to be had, at the usual<lb/> market prices, at
+					<persName>Messrs. Miller's</persName>, <placeName>Pacific, near
 					Kearny</placeName><lb/>
-				<add>&#63;</add>&#58; <persName>J. Marks</persName>&#44; <placeName>Kearny&#44; near
+				<add>?</add>: <persName>J. Marks</persName>, <placeName>Kearny, near
 					Pacific</placeName>.</p>
 			<pb n="4"/>
 			<p
-				rend="The following is the back side of the newspaper clipping&#44; thus the right edge is cut off."/>
-			<p rend="align(center)"><add>&#63;</add></p>
-			<p rend="align(center)"><placeName>SAN FRANC<add>&#63;</add></placeName></p>
-			<p rend="align(center)">MISCELLANEO<add>&#63;</add></p>
-			<p rend="align(center)">UNION HOTEL&#44;</p>
+				rend="The following is the back side of the newspaper clipping, thus the right edge is cut off."/>
+			<p rend="align(center)">
+				<add>?</add>
+			</p>
+			<p rend="align(center)">
+				<placeName>SAN FRANC<add>?</add></placeName>
+			</p>
+			<p rend="align(center)">MISCELLANEO<add>?</add></p>
+			<p rend="align(center)">UNION HOTEL,</p>
 			<p rend="align(center)"><placeName>Opposite Portsmouth Square</placeName>....</p>
-			<p rend="align(center)">A Card&#58;</p>
-			<p rend="indent(1)">THE SUBSCRIBER HAVING ENGA<add>&#63;</add><lb/> take the general
-				management of the a<add>&#63;</add><lb/> now leased to <persName>MICHAEL
-					PHELAN</persName>&#44; h<add>&#63;</add><lb/> fully gives notice that under his
-				direction the<lb/> been thoroughly renovated and materially
-				impr<add>&#63;</add><lb/> lodging&#45;rooms are well furnished and in charge<lb/>
-				<sic>pectable</sic> female&#44; who has had many years exp<add>&#63;</add><lb/>
-				chambermaid in first class Hotels. A large<lb/> rooms are handsomely furnished for
-				the accom<add>&#63;</add><lb/> of private Supper Parties&#8212;also for Committee<lb/>
+			<p rend="align(center)">A Card:</p>
+			<p rend="indent(1)">THE SUBSCRIBER HAVING ENGA<add>?</add><lb/> take the general
+				management of the a<add>?</add><lb/> now leased to <persName>MICHAEL
+					PHELAN</persName>, h<add>?</add><lb/> fully gives notice that under his
+				direction the<lb/> been thoroughly renovated and materially impr<add>?</add><lb/>
+				lodging-rooms are well furnished and in charge<lb/>
+				<sic>pectable</sic> female, who has had many years exp<add>?</add><lb/> chambermaid
+				in first class Hotels. A large<lb/> rooms are handsomely furnished for the
+					accom<add>?</add><lb/> of private Supper Parties—also for Committee<lb/>
 				<sic>ety</sic> Meetings.</p>
-			<p rend="indent(1)">The spacious BILLIARD SALOON&#44; with its<lb/> Furniture&#44; and
-				the advantage of <persName>Michael Phelan</persName><lb/> magic art in the science
-				of billiard playing&#44; is<lb/> to any similar establishment on the
-					<placeName>Pacific coast</placeName></p>
-			<p rend="indent(1)">The BAR is stocked with the choicest quality<lb/> liquors&#44;
-				cigars&#44; etc. The commodious basemen<add>&#63;</add><lb/> fitted up in good
-				style&#44; as a REFRESHMENT<lb/> where the finest quality of Beef Steaks&#44;
-					Mutt<add>&#63;</add><lb/> Oysters&#44; etc.&#44; will be served at all hours of
-				the<lb/> evening&#44; and the subscriber trusts that he will b<add>&#63;</add><lb/>
-				to make the &#8220;UNION&#8221; a respectable and<lb/> house of entertainment&#44;
-				and worthy of a share<lb/> patronage. <persName>GEO. MONTGOMERY&#44;
-						M<add>&#63;</add></persName></p>
-			<p>N. B.&#8212;The undersigned returns his thanks<lb/> favors&#44; and solicits a
-				continuance of patronage<lb/> friends and the public generally.</p>
-			<p rend="align(right)"><persName>MICHAEL PHELA<add>&#63;</add></persName></p>
-			<p rend="align(right)">Lessee of Unio<add>&#63;</add></p>
+			<p rend="indent(1)">The spacious BILLIARD SALOON, with its<lb/> Furniture, and the
+				advantage of <persName>Michael Phelan</persName><lb/> magic art in the science of
+				billiard playing, is<lb/> to any similar establishment on the <placeName>Pacific
+					coast</placeName></p>
+			<p rend="indent(1)">The BAR is stocked with the choicest quality<lb/> liquors, cigars,
+				etc. The commodious basemen<add>?</add><lb/> fitted up in good style, as a
+				REFRESHMENT<lb/> where the finest quality of Beef Steaks, Mutt<add>?</add><lb/>
+				Oysters, etc., will be served at all hours of the<lb/> evening, and the subscriber
+				trusts that he will b<add>?</add><lb/> to make the “UNION” a respectable and<lb/>
+				house of entertainment, and worthy of a share<lb/> patronage. <persName>GEO.
+					MONTGOMERY, M<add>?</add></persName></p>
+			<p>N. B.—The undersigned returns his thanks<lb/> favors, and solicits a continuance of
+				patronage<lb/> friends and the public generally.</p>
+			<p rend="align(right)">
+				<persName>MICHAEL PHELA<add>?</add></persName>
+			</p>
+			<p rend="align(right)">Lessee of Unio<add>?</add></p>
 			<p>d16 tf</p>
 			<p rend="align(center)"><placeName>United States</placeName> Hot</p>
 			<p rend="align(center)"><placeName>MONTEREY</placeName>.</p>
-			<p rend="indent(1)">THE PROPRIETOR OF THE UNITED S<add>&#63;</add><lb/> Hotel&#44;
-					<placeName>Monterey</placeName>&#44; respectfully notifies his<lb/> and the
-					<sic>travelling</sic> public generally&#44; that<lb/> opened this large and
-				conveniently arranged ho<lb/> the accommodation of boarders&#44; families and
-					oth<add>&#63;</add><lb/> may feel disposed to give him a call. No pains<lb/>
+			<p rend="indent(1)">THE PROPRIETOR OF THE UNITED S<add>?</add><lb/> Hotel,
+					<placeName>Monterey</placeName>, respectfully notifies his<lb/> and the
+					<sic>travelling</sic> public generally, that<lb/> opened this large and
+				conveniently arranged ho<lb/> the accommodation of boarders, families and
+					oth<add>?</add><lb/> may feel disposed to give him a call. No pains<lb/>
 				<sic>pense</sic> has been spared to make this house com<lb/> and convenient to all.
 				It shall be second to none<lb/> country in regard to everything appertaining to a
-					<add>&#63;</add></p>
+					<add>?</add></p>
 			<p rend="indent(1)">The establishment is provided with good stable<lb/> horses.</p>
-			<p rend="indent(1)">The Bar is supplied with the choicest wines&#44;<lb/> and
-				Cigars.</p>
+			<p rend="indent(1)">The Bar is supplied with the choicest wines,<lb/> and Cigars.</p>
 			<p rend="indent(1)">His table is supplied with the best a
-					<placeName>California</placeName><lb/> affords&#44; that is all the eyes of an
+					<placeName>California</placeName><lb/> affords, that is all the eyes of an
 				epicurean could<lb/> behold. Persons from all portions of the country<lb/>
-				<placeName>Monterey</placeName> may rest assured of receiving most s<add>&#63;</add><lb/>
-				<sic>tory</sic> accommodations. The hotel is beautifully l<add>&#63;</add><lb/> and
-				commands a fine view of the bay. All we ca<add>&#63;</add><lb/> is give us a call
-				and satisfy yourselves.</p>
-			<p rend="align(right)"><persName>McMILLEN</persName>&#44; Propri<add>&#63;</add></p>
+				<placeName>Monterey</placeName> may rest assured of receiving most s<add>?</add><lb/>
+				<sic>tory</sic> accommodations. The hotel is beautifully l<add>?</add><lb/> and
+				commands a fine view of the bay. All we ca<add>?</add><lb/> is give us a call and
+				satisfy yourselves.</p>
+			<p rend="align(right)"><persName>McMILLEN</persName>, Propri<add>?</add></p>
 			<p>d17tfD.</p>
 			<p>FARE</p>
-			<p>Reduced&#33;</p>
-			<p>ON THE <placeName>CALIFORNIA</placeName> STAGE C<add>&#63;</add></p>
+			<p>Reduced!</p>
+			<p>ON THE <placeName>CALIFORNIA</placeName> STAGE C<add>?</add></p>
 			<p>COACHES</p>
 			<p>From <placeName>San Francisco</placeName> to <placeName>Red
 				Woods</placeName>.........</p>
@@ -458,24 +456,29 @@
 				Jose</placeName>.......</p>
 			<p>From <placeName>San Francisco</placeName> to <placeName>Santa Cruz</placeName> and
 					<placeName>Monterey</placeName></p>
-			<p rend="indent(1)">The above Lines of Stages leave the Company<lb/> Plaza&#44;
-				&#40;formerly <persName>Dillon&#44; Hodge &#38; Co.&#39;s</persName>&#44;&#41;
-				every<lb/> at 7 &#188; and 8 o&#39;clock.</p> 
-				<p rend="align(right)"><persName>J. BIRC<add>&#63;</add></persName></p>
-			<p rend="align(right)">President <placeName>California</placeName> Stage Co<add>&#63;</add></p>
-			<p>N. B.&#8212;<persName>DILLON&#44; HEDGE &#38; CO.</persName> will
-				su<add>&#63;</add><lb/> the Lines as heretofore. D13t</p>
-			<p rend="indent(1)">Notice.&#8212;The interest of <sic>Jan</sic><lb/>
-				<persName>TALMADGE</persName> in the Pioneer Line of Stages&#44;<lb/>
+			<p rend="indent(1)">The above Lines of Stages leave the Company<lb/> Plaza, (formerly
+					<persName>Dillon, Hodge &amp; Co.'s</persName>,) every<lb/> at 7 ¼ and 8
+				o'clock.</p>
+			<p rend="align(right)">
+				<persName>J. BIRC<add>?</add></persName>
+			</p>
+			<p rend="align(right)">President <placeName>California</placeName> Stage
+				Co<add>?</add></p>
+			<p>N. B.—<persName>DILLON, HEDGE &amp; CO.</persName> will su<add>?</add><lb/> the Lines
+				as heretofore. D13t</p>
+			<p rend="indent(1)">Notice.—The interest of <sic>Jan</sic><lb/>
+				<persName>TALMADGE</persName> in the Pioneer Line of Stages,<lb/>
 				<sic>ning</sic> between <placeName>Oakland</placeName> and <placeName>San
-					Jose</placeName>&#44; via <placeName>Union</placeName><lb/> the
-					<placeName>Mission of San Jose</placeName>&#44; together with the
-					st<add>&#63;</add><lb/> the road&#44; is now owned by the
-					<placeName>California</placeName> Stage<lb/> and will hereafter be under
-					superintend<add>&#63;</add></p>
-			<p><persName><add>&#63;</add>lon&#44; Hedge &#38; Co.</persName> <lb/> d14tf</p>
-				<p rend="align(right)"><persName>J. BIRC<add>&#63;</add></persName></p>
-				<p rend="align(right)">President <placeName>California</placeName> Stag<add>&#63;</add></p>
+					Jose</placeName>, via <placeName>Union</placeName><lb/> the <placeName>Mission
+					of San Jose</placeName>, together with the st<add>?</add><lb/> the road, is now
+				owned by the <placeName>California</placeName> Stage<lb/> and will hereafter be
+				under superintend<add>?</add></p>
+			<p><persName><add>?</add>lon, Hedge &amp; Co.</persName>
+				<lb/> d14tf</p>
+			<p rend="align(right)">
+				<persName>J. BIRC<add>?</add></persName>
+			</p>
+			<p rend="align(right)">President <placeName>California</placeName> Stag<add>?</add></p>
 		</body>
 	</text>
 </TEI>

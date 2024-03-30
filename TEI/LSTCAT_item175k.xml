@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+
 		<fileDesc>
 			<titleStmt>
 				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="yes">Seligman, James</author>
+				<author accepted="yes" attested="yes" signature="yes">Seligman, James</author>
 				<editor/>
 				<sponsor/>
 				<funder/>
@@ -56,9 +58,9 @@
 					</msIdentifier>
 					<head/>
 					<letHeading>
-						<author attested="yes" accepted="yes" signature="yes">Seligman,
+						<author accepted="yes" attested="yes" signature="yes">Seligman,
 							James</author>
-						<addressee editor="false" attested="yes" accepted="yes">Leeser,
+						<addressee accepted="yes" attested="yes" editor="false">Leeser,
 							Isaac</addressee>
 						<deliverer/>
 						<respStmt>
@@ -67,7 +69,7 @@
 						</respStmt>
 						<placeLet>New York, NY</placeLet>
 						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1843-10" source="" attested="yes">7 October 1843</dateLet>
+						<dateLet attested="yes" source="" when="1843-10">7 October 1843</dateLet>
 					</letHeading>
 					<msContents>
 						<msItem>
@@ -94,8 +96,8 @@
 						<objectDesc>
 							<supportDesc>
 								<support>
-									<material color="" lined="true" paper_type="" size="">letter</material>letter
-								</support>
+									<material color="" lined="true" paper_type="" size=""
+										>letter</material>letter </support>
 								<extent>1 page on 2 sheets <dimensions/>
 								</extent>
 								<foliation/>
@@ -235,28 +237,48 @@
 	</teiHeader>
 	<text>
 		<body>
-			<p rend="align(right)"><placeName>New York</placeName>
-				<date>Oct 7&#47;43</date></p>
-			<p rend="align(center)"><addressee>Rev Isaac Leeser</addressee></p>
-			<p rend="align(center)indent(1)"><placeName>1227 <sic>Wallnut</sic> St
-				Pha.</placeName></p>
+			<p rend="align(right)">
+				<placeName>New York</placeName>
+				<date>Oct 7/43</date>
+			</p>
+			<p rend="align(center)">
+				<addressee>Rev Isaac Leeser</addressee>
+			</p>
+			<p rend="align(center)indent(1)">
+				<placeName>1227 <sic>Wallnut</sic> St Pha.</placeName>
+			</p>
 			<p>Dr Sir</p>
 			<p rend="indent(1)">following friends<lb/> of mine having seen my<lb/> family 1 Bible
-				which I<lb/> got thro&#39; <persName>Mr Spiegelberg</persName><lb/> from you a few
-				years ago<lb/> wishing a Bible with their<lb/> names inscribed with golden<lb/>
-				letters similar you will please<lb/> send them direct to these<lb/> following
-				Gentlemen</p>
-			<p rend="indent(1)"><persName>B Meyberg</persName></p>
-			<p rend="indent(2)"><placeName>54 Clinton Place</placeName></p> 
-			<p rend="indent(3)"><placeName>New York</placeName></p>
-			<p rend="indent(1)"><persName>M Beeber</persName></p>
-			<p rend="indent(2)"><placeName>254 West 22d St</placeName></p> 
-			<p rend="indent(3)"><placeName>N Yk</placeName></p>
-			<p rend="indent(1)">&#38; <persName>B Frankel</persName></p> 
-			<p rend="indent(2)">care <persName>Anb Frankel &#38; Co</persName></p>
-			<p rend="indent(3)"><placeName>Cincinnati O</placeName></p>
+				which I<lb/> got thro' <persName>Mr Spiegelberg</persName><lb/> from you a few years
+				ago<lb/> wishing a Bible with their<lb/> names inscribed with golden<lb/> letters
+				similar you will please<lb/> send them direct to these<lb/> following Gentlemen</p>
+			<p rend="indent(1)">
+				<persName>B Meyberg</persName>
+			</p>
+			<p rend="indent(2)">
+				<placeName>54 Clinton Place</placeName>
+			</p>
+			<p rend="indent(3)">
+				<placeName>New York</placeName>
+			</p>
+			<p rend="indent(1)">
+				<persName>M Beeber</persName>
+			</p>
+			<p rend="indent(2)">
+				<placeName>254 West 22d St</placeName>
+			</p>
+			<p rend="indent(3)">
+				<placeName>N Yk</placeName>
+			</p>
+			<p rend="indent(1)">&amp; <persName>B Frankel</persName></p>
+			<p rend="indent(2)">care <persName>Anb Frankel &amp; Co</persName></p>
+			<p rend="indent(3)">
+				<placeName>Cincinnati O</placeName>
+			</p>
 			<p rend="indent(2)">yours very respy</p>
-			<p rend="indent(4)"><persName role="author">James Seligman</persName></p>
+			<p rend="indent(4)">
+				<persName role="author">James Seligman</persName>
+			</p>
 		</body>
 	</text>
 </TEI>

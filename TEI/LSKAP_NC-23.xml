@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+
 		<fileDesc>
 			<titleStmt>
 				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="unk">Draabin, Judah Leib</author>
+				<author accepted="yes" attested="yes" signature="unk">Draabin, Judah Leib</author>
 				<editor/>
 				<sponsor/>
 				<funder/>
@@ -47,7 +49,8 @@
 						<settlement>Philadelphia</settlement>
 						<institution/>
 						<repository>LSKAP</repository>
-						<collection>The Arnold and Deanne Kaplan Collection of Early American Judaica</collection>
+						<collection>The Arnold and Deanne Kaplan Collection of Early American
+							Judaica</collection>
 						<idno>LSKAP_NC-23</idno>
 						<altIdentifier>
 							<idno/>
@@ -56,9 +59,9 @@
 					</msIdentifier>
 					<head/>
 					<letHeading>
-						<author attested="yes" accepted="yes" signature="unk">Draabin, Judah
+						<author accepted="yes" attested="yes" signature="unk">Draabin, Judah
 							Leib</author>
-						<addressee editor="false" attested="yes" accepted="yes">Leeser,
+						<addressee accepted="yes" attested="yes" editor="false">Leeser,
 							Isaac</addressee>
 						<deliverer/>
 						<respStmt>
@@ -67,8 +70,8 @@
 						</respStmt>
 						<placeLet>Savannah, GA</placeLet>
 						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1865-01" source="" attested="yes">18 January 1865</dateLet>
-						<dateLet when="1865-01" source="" attested="yes">15 Shevat 1865</dateLet>
+						<dateLet attested="yes" source="" when="1865-01">18 January 1865</dateLet>
+						<dateLet attested="yes" source="" when="1865-01">15 Shevat 1865</dateLet>
 					</letHeading>
 					<msContents>
 						<msItem>
@@ -96,8 +99,8 @@
 						<objectDesc>
 							<supportDesc>
 								<support>
-									<material color="" lined="false" paper_type="" size="">letter</material>letter
-								</support>
+									<material color="" lined="false" paper_type="" size=""
+										>letter</material>letter </support>
 								<extent>3 pages on 2 sheets <dimensions/>
 								</extent>
 								<foliation/>
@@ -238,60 +241,60 @@
 	<text>
 		<body>
 			<pb n="1"/>
-			<p>With the help of God&#8212;<date>Wednesday&#44; 15 Shevat<lb/> 1865</date>&#44;
-					<placeName>Savannah</placeName>&#8212;</p>
-			<p rend="indent(1)">Peace&#44; blessings&#44; and good fortune to<lb/> God&#39;s friend
-				and my own&#44; the doer of<lb/> righteousness&#44; his honor&#44; our teacher and<lb/>
-				<persName>rabbi Isaac Hzik</persName>&#44; may his light burn brightly.</p>
+			<p>With the help of God—<date>Wednesday, 15 Shevat<lb/> 1865</date>,
+					<placeName>Savannah</placeName>—</p>
+			<p rend="indent(1)">Peace, blessings, and good fortune to<lb/> God's friend and my own,
+				the doer of<lb/> righteousness, his honor, our teacher and<lb/>
+				<persName>rabbi Isaac Hzik</persName>, may his light burn brightly.</p>
 			<p rend="indent(1)">Your letter of the <date>27<hi rend="sup">th</hi> of Tebeth</date>
 				<del>is at</del><lb/>
-				<del>hand&#44;</del> came into my hands&#44; and I rejoiced<lb/> greatly. As to
-					<persName>Madam Goldschmid</persName>&#44; I be&#45;<lb/>lieve that if you were
-				as well acquainted<lb/> with her character as I&#44; you would never<lb/> have sent
-				her a Bible. I marvel that<lb/> she returned the same to you. Nevertheless&#44;<lb/>
-				in order to do his bidding I went to her<lb/> home&#44; and this is what she said.
-				She wanted<lb/> a small Bible <del>with</del> in large type&#44; but
-				inexpensive<lb/> and then&#44; I believe&#44; not to pay for it.</p>
-			<p rend="indent(1)">As to the man whose name is <persName>Bick</persName>&#44;<lb/> that
-				in Polish &#34;ox&#34;&#44; is like his name<lb/> a goring ox. I have not spoken to
-				him<lb/> in many months&#44; and he is now more<lb/> peaceful. During the past month
-				of <date>Ab</date>&#44; when he</p>
+				<del>hand,</del> came into my hands, and I rejoiced<lb/> greatly. As to
+					<persName>Madam Goldschmid</persName>, I be-<lb/>lieve that if you were as well
+				acquainted<lb/> with her character as I, you would never<lb/> have sent her a Bible.
+				I marvel that<lb/> she returned the same to you. Nevertheless,<lb/> in order to do
+				his bidding I went to her<lb/> home, and this is what she said. She wanted<lb/> a
+				small Bible <del>with</del> in large type, but inexpensive<lb/> and then, I believe,
+				not to pay for it.</p>
+			<p rend="indent(1)">As to the man whose name is <persName>Bick</persName>,<lb/> that in
+				Polish "ox", is like his name<lb/> a goring ox. I have not spoken to him<lb/> in
+				many months, and he is now more<lb/> peaceful. During the past month of
+					<date>Ab</date>, when he</p>
 			<pb n="2"/>
-			<p>left for the <placeName>north</placeName>&#44; he told me that he would<lb/> purchase
-				for himself a Bible when in your<lb/> town. He returned home and brought
-					<del>these</del><lb/> two. He told me that the one for &#36;12 <del>are</del> is
-				to be sent to <persName>Mr. Dessauer</persName> in <placeName>Macon</placeName>
+			<p>left for the <placeName>north</placeName>, he told me that he would<lb/> purchase for
+				himself a Bible when in your<lb/> town. He returned home and brought
+					<del>these</del><lb/> two. He told me that the one for $12 <del>are</del> is to
+				be sent to <persName>Mr. Dessauer</persName> in <placeName>Macon</placeName>
 				for<lb/> a man whose name is <persName>Krau</persName><del>n</del>. I sent<lb/> them
-				to <persName>Mr. Krau</persName> himself&#44; and when I was<lb/> there
-					<persName>Mr. Krau</persName> told me that he had not<lb/> ordered any.
-				Nevertheless he kept them<lb/> and will pay &#36;12 to <persName>Mr.
-					Dessauer</persName>. Should<lb/> this not prove to be the case&#44; let me
-				know<lb/> and I will collect it. &#40;The last three<lb/> ordered I have
-				received&#41;. As to the second<lb/> copy it is in the possession of the Ox. I<lb/>
-				could have sold it long ago. I sent <del>my</del> his<lb/> brother to him that he
-				should return the<lb/> Bible. But he replied that if you wrote<lb/> to him to hand
-				the Bible over to me&#44; he would<lb/> do so. I would advise you to write to<lb/>
-				his brother whose name is <persName>Levy E. Bick</persName>.<lb/> For if you wrote
-				to him directly&#44; I believe<lb/> I should never hear of it. Or&#44; write to<lb/>
-				me directly. <date>15 Shevat 1865</date></p>
+				to <persName>Mr. Krau</persName> himself, and when I was<lb/> there <persName>Mr.
+					Krau</persName> told me that he had not<lb/> ordered any. Nevertheless he kept
+				them<lb/> and will pay $12 to <persName>Mr. Dessauer</persName>. Should<lb/> this
+				not prove to be the case, let me know<lb/> and I will collect it. (The last
+				three<lb/> ordered I have received). As to the second<lb/> copy it is in the
+				possession of the Ox. I<lb/> could have sold it long ago. I sent <del>my</del>
+				his<lb/> brother to him that he should return the<lb/> Bible. But he replied that if
+				you wrote<lb/> to him to hand the Bible over to me, he would<lb/> do so. I would
+				advise you to write to<lb/> his brother whose name is <persName>Levy E.
+					Bick</persName>.<lb/> For if you wrote to him directly, I believe<lb/> I should
+				never hear of it. Or, write to<lb/> me directly. <date>15 Shevat 1865</date></p>
 			<pb n="3"/>
-			<p rend="indent(1)">I have nothing more that is new&#59;<lb/> except that last
+			<p rend="indent(1)">I have nothing more that is new;<lb/> except that last
 					<date>Tuesday</date> I sent five<lb/> hundred dollars to the people of
 					<placeName>Jerusalem</placeName>.<lb/> The money I sent them on last
 					<date>Rosh<lb/> Hodesh Ellul</date> did not get to them till<lb/>
 				<date>Rosh Hodesh Heshvan</date>. Certainly this<lb/> money just sent will reach
 				them by<lb/>
-				<date>Passover</date>&#44; and they will enjoy the holiday.<lb/> From <del>his</del>
+				<date>Passover</date>, and they will enjoy the holiday.<lb/> From <del>his</del>
 				your friend and servant who<lb/> is ready to serve <del>him</del> you at all
 				times</p>
-			<p><persName role="author">Judah Leib Draabin</persName> &#40;&#63;&#41;</p>
-			<p rend="indent(1)">I delivered your letter to <persName>Mr. Eckman</persName>.<lb/> He thereupon wanted
-				that I should take in<lb/> my care your books now lying in his store.<lb/> I said
-				that if you commissioned me to do&#44;<lb/> I would do it with the greatest
-				pleasure.<lb/> This week he told me that he had some money<lb/> to send you&#44; and
-				that he would send it to you<lb/> this week. <persName>Mr. Einstein</persName> went
-				to <placeName>New York</placeName><lb/> this week. You will probably see him in<lb/>
-				your city. <date>15 <sic>Sheval</sic> 1865</date> The above <add>&#63;</add></p>
+			<p><persName role="author">Judah Leib Draabin</persName> (?)</p>
+			<p rend="indent(1)">I delivered your letter to <persName>Mr. Eckman</persName>.<lb/> He
+				thereupon wanted that I should take in<lb/> my care your books now lying in his
+				store.<lb/> I said that if you commissioned me to do,<lb/> I would do it with the
+				greatest pleasure.<lb/> This week he told me that he had some money<lb/> to send
+				you, and that he would send it to you<lb/> this week. <persName>Mr.
+					Einstein</persName> went to <placeName>New York</placeName><lb/> this week. You
+				will probably see him in<lb/> your city. <date>15 <sic>Sheval</sic> 1865</date> The
+				above <add>?</add></p>
 		</body>
 	</text>
 </TEI>

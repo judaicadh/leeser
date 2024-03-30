@@ -1,281 +1,363 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE TEI [
-<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
-%teibase;
-<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
-%teiext;
-]>
-<TEI>
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="yes">L. C.</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>LSKAP</repository>
-						<collection>The Arnold and Deanne Kaplan Collection of Early American Judaica</collection>
-						<idno>LSKAP0192</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="yes">L. C.</author>
-						<addressee editor="true" attested="yes" accepted="yes">Leeser, Isaac</addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>Columbia, SC</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1867-01" source="" attested="yes">January 1867</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="LSKAP0192_1r.jpg"></graphic>
-								<graphic url="LSKAP0192_1v.jpg"></graphic>
-								<graphic url="LSKAP0192_2r.jpg"></graphic>
-								<graphic url="LSKAP0192_2v.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="true" paper_type="" size="">letter</material>
-								</support>
-								<extent>4 pages on 2 sheets
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="manuscript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="restricted">
-								<p>Restricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-				<language ident="he">Hebrew</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1R"/>
-				<p rend="align(right)"><placeName>Columbia SC</placeName> <date>Jan 1867</date></p>
-				<p>Editor Occident</p>
-			<p rend="indent(2)">Dear Sir</p>
-			<p rend="indent(3)">Please find annexed a circular<lb/> which will explain its own mission.  please insert the same in<lb/> your valuable Occident with such liberal remarks and recommendation<lb/> as the Laudable enterprise deserves.  For if ever a community<lb/> stood in need of encouragement and support from Influential<lb/> quarters&#44; The Israelites of this City come in for a full share&#95;&#95;<lb/>  For like the Dry Bones in the valley of <placeName>Hinom</placeName> we need the spirit<lb/> of God to <sic>ressurect</sic> and revive us for <add>Hebrew</add></p>
-			<p rend="indent(1)">vain is the sentinels of vigilance if the Lord Guard not<lb/> the City&#8222; Our work was commenced under the most unfavorable<lb/> auspices for we had not only to contend with and overcome the<lb/> different proclivities and predispositions of the various members of<lb/> which our <sic>divoted</sic> little Congregation is composed each <sic>claming</sic> to<lb/> enraft their own peculiar views.  Imported from beyond the big seas<lb/> upon the Ancient land marks of our Sublime faith.  But void as this<lb/> place has been for years past of Religion Religious Worship and instructions<lb/> Judaism stripped of her Holy and Ancient vestiges the last trace of our<lb/> Sublime inheritance allowed to fade from the Tablets of Memory of old<lb/> and young as does the last Golden Rays of the declining Sun when<lb/> Sinking to Rest.  Our utmost endeavors had to be exerted to shake off<lb/> the heavy torpor and to dispose the deep gloom which like a dismal<lb/> mist did obscure that bright and shining light received upon <persName>Sina&#228;s</persName><lb/> lofty brow.  When first we met to Meditate upon a mode of action<lb/> How to rescue from oblivion the tottering and <sic>smouldering</sic> pillow of</p>
-			<pb n="1V"/>
-				<p>our ancient edifice we felt like <persName>Columbus</persName> when venturing out with<lb/> his devoted little <add>&#63;</add> &#40;Crew&#41; in <date>1492</date> upon the turbulent and<lb/> unchartered mighty <placeName>Atlantic</placeName>.  Many have pronounced it a Bold plan.  And<lb/> though not as successful as him in making the voyage in two months<lb/> yet thank God the cry is Land&#45;A&#45;Hoy and our devoted little bark<lb/> <sic>strugling</sic> through the foaming billows Has heard the Haven of our long<lb/> anticipated desires and cast her anchor in gentle and placid waters<lb/> where the light of Heaven reflects a benign blessing around those<lb/> gathered under the Shadow of her wide expanded sails unfurled to the<lb/> breeze.  Though our means and circumstances in life have been reduced<lb/> by the casualties and ravages of war yet with the help of Kind Heaven<lb/> and the assistance of a few of our coreligionists we have been<lb/> enabled to procure the services of a Chasan and Shackel and Rented<lb/> a place of worship where old and young can assemble to Praise<lb/> <placeName>Israels</placeName> God.  We have also a Sunday School annexed to our Congregation<lb/> for the instruction of the Children of our Holy faith <del>and</del> an Institution.  That<lb/> has been <add>so much</add> needed and so long neglected.  The Talented and Zealous <persName>Mrs<lb/> Charlotte.  A. Sevin</persName> has been <sic>electid</sic> President <persName>Mrs Jacob Sevin</persName> Directress and<lb/> <persName>Mrs Branna Levy</persName> Vice President of the same and we are sanguine that with<lb/> the knowledge and ability these three talented Ladies are endowed with and the<lb/> success of their former Sunday School management that like the Pillar<lb/> of fire that led our ancestors through an uncultivated desert to lead<lb/> our offspring to a bright land of promise knowledge and bliss.</p>
-				<p><add>Hebrew</add></p>
-				<p>Awake awake <persName>Deborah</persName> awake awake the inspired song.  While talking of Ladies<lb/> We take the privilege of acknowledging the very liberal and munificent donation<lb/> of two Hundred and twenty five dollars from our Brethren of <placeName>Charlotte</placeName><lb/> <placeName>Philadelphia</placeName> and <placeName>Baltimore</placeName> through the kindness and untiring energy</p>
-			<pb n="2R"/>
-				<p>of a highly esteemed Lady of our persuasion <persName>Mrs Elenor D Elias</persName> of<lb/> <placeName>Charlotte N. C.</placeName> long may she live to enjoy the blessings she so richly<lb/> deserves.  Other remittances are acknowledged in the proper place.  We have<lb/> formed a Constitution and By Laws upon strict orthodox principles<lb/> The following officers are elected for the ensuing year</p>
-				<list type="simple">
-				<head></head>
-				<item><persName>M. Winslock Esq</persName>  President</item>
-				<item><persName>S. Carr</persName>&#39;  Vice &#8220;</item>
-				<item><persName>D. Epstin</persName>  <add>Trustee</add></item>
-				<item><persName>H. Sevin</persName>  <add>Trustee</add></item>
-				<item><persName>I. Davis</persName>  Trustees</item>
-				<item><persName>I. Dresden</persName>  <sic>Secetary</sic></item>
-				</list>
-				<p>We had the pleasure of a visit from the Nestor of American Ministers<lb/> <persName>Rev <sic>Isaak</sic> Leeser</persName> on the <date>10th</date> inst and the gratification to listen<lb/> to words of wisdom and instruction from his gifted and fluent lips<lb/> and the vivid lightning flashes of his Brilliant and Prolific mind.<lb/>  The meeting was well attended and the decorum and order observed<lb/> at the same showed that his instruction made a deep impression upon<lb/> the minds of his hearers and were relished</p>
-				<p><add>Hebrew</add></p>
-				<p>Like a spray upon Herbs&#44; as a shower upon grass.</p>
-				<p>May kind Heaven prolong his life in his <sic>usefull</sic> career</p>
-			<p rend="indent(6)">With High regards I Have the honor to be</p>
-			<p rend="indent(6)">Sir yours very Respectfully</p>
-			<p rend="indent(7)"><persName role="author">L. C</persName></p>
-				<p><persName role="author">L Carr</persName></p>
-				<p><placeName>Columbia</placeName></p>
-			<p rend="indent(1)"><placeName>S.C.</placeName></p>
-			<pb n="2V"/>
-				<p>For Publication</p>
-		</body>
-	</text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="yes">L. C.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>LSKAP</repository>
+                        <collection>The Arnold and Deanne Kaplan Collection of Early American
+                            Judaica</collection>
+                        <idno>LSKAP0192</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="yes">L. C.</author>
+                        <addressee accepted="yes" attested="yes" editor="true">Leeser,
+                            Isaac</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Columbia, SC</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1867-01">January 1867</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="LSKAP0192_1r.jpg"/>
+                                <graphic url="LSKAP0192_1v.jpg"/>
+                                <graphic url="LSKAP0192_2r.jpg"/>
+                                <graphic url="LSKAP0192_2v.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="true" paper_type="" size=""
+                                        >letter</material>
+                                </support>
+                                <extent>4 pages on 2 sheets <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="restricted">
+                                <p>Restricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="he">Hebrew</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1R"/>
+            <p rend="align(right)">
+                <placeName>Columbia SC</placeName>
+                <date>Jan 1867</date>
+            </p>
+            <p>Editor Occident</p>
+            <p rend="indent(2)">Dear Sir</p>
+            <p rend="indent(3)">Please find annexed a circular<lb/> which will explain its own
+                mission. please insert the same in<lb/> your valuable Occident with such liberal
+                remarks and recommendation<lb/> as the Laudable enterprise deserves. For if ever a
+                community<lb/> stood in need of encouragement and support from Influential<lb/>
+                quarters, The Israelites of this City come in for a full share__<lb/> For like the
+                Dry Bones in the valley of <placeName>Hinom</placeName> we need the spirit<lb/> of
+                God to <sic>ressurect</sic> and revive us for <add>אם ד' לא ישמור עיר שוא שקד
+                    שומר</add></p>
+            <p rend="indent(1)">vain is the sentinels of vigilance if the Lord Guard not<lb/> the
+                City„ Our work was commenced under the most unfavorable<lb/> auspices for we had not
+                only to contend with and overcome the<lb/> different proclivities and
+                predispositions of the various members of<lb/> which our <sic>divoted</sic> little
+                Congregation is composed each <sic>claming</sic> to<lb/> enraft their own peculiar
+                views. Imported from beyond the big seas<lb/> upon the Ancient land marks of our
+                Sublime faith. But void as this<lb/> place has been for years past of Religion
+                Religious Worship and instructions<lb/> Judaism stripped of her Holy and Ancient
+                vestiges the last trace of our<lb/> Sublime inheritance allowed to fade from the
+                Tablets of Memory of old<lb/> and young as does the last Golden Rays of the
+                declining Sun when<lb/> Sinking to Rest. Our utmost endeavors had to be exerted to
+                shake off<lb/> the heavy torpor and to dispose the deep gloom which like a
+                dismal<lb/> mist did obscure that bright and shining light received upon
+                    <persName>Sinaäs</persName><lb/> lofty brow. When first we met to Meditate upon
+                a mode of action<lb/> How to rescue from oblivion the tottering and
+                    <sic>smouldering</sic> pillow of</p>
+            <pb n="1V"/>
+            <p>our ancient edifice we felt like <persName>Columbus</persName> when venturing out
+                with<lb/> his devoted little <add>?</add> (Crew) in <date>1492</date> upon the
+                turbulent and<lb/> unchartered mighty <placeName>Atlantic</placeName>. Many have
+                pronounced it a Bold plan. And<lb/> though not as successful as him in making the
+                voyage in two months<lb/> yet thank God the cry is Land-A-Hoy and our devoted little bark<lb/>
+                <sic>strugling</sic> through the foaming billows Has heard the Haven of our
+                long<lb/> anticipated desires and cast her anchor in gentle and placid waters<lb/>
+                where the light of Heaven reflects a benign blessing around those<lb/> gathered
+                under the Shadow of her wide expanded sails unfurled to the<lb/> breeze. Though our
+                means and circumstances in life have been reduced<lb/> by the casualties and ravages
+                of war yet with the help of Kind Heaven<lb/> and the assistance of a few of our
+                coreligionists we have been<lb/> enabled to procure the services of a Chasan and
+                Shackel and Rented<lb/> a place of worship where old and young can assemble to Praise<lb/>
+                <placeName>Israels</placeName> God. We have also a Sunday School annexed to our
+                Congregation<lb/> for the instruction of the Children of our Holy faith
+                    <del>and</del> an Institution. That<lb/> has been <add>so much</add> needed and
+                so long neglected. The Talented and Zealous <persName>Mrs<lb/> Charlotte. A.
+                    Sevin</persName> has been <sic>electid</sic> President <persName>Mrs Jacob
+                    Sevin</persName> Directress and<lb/>
+                <persName>Mrs Branna Levy</persName> Vice President of the same and we are sanguine
+                that with<lb/> the knowledge and ability these three talented Ladies are endowed
+                with and the<lb/> success of their former Sunday School management that like the
+                Pillar<lb/> of fire that led our ancestors through an uncultivated desert to
+                lead<lb/> our offspring to a bright land of promise knowledge and bliss.</p>
+            <p>
+                <add>עורי עורי דבורה עורי עורי דברי שיר</add>
+            </p>
+            <p>Awake awake <persName>Deborah</persName> awake awake the inspired song. While talking
+                of Ladies<lb/> We take the privilege of acknowledging the very liberal and
+                munificent donation<lb/> of two Hundred and twenty five dollars from our Brethren of
+                    <placeName>Charlotte</placeName><lb/>
+                <placeName>Philadelphia</placeName> and <placeName>Baltimore</placeName> through the
+                kindness and untiring energy</p>
+            <pb n="2R"/>
+            <p>of a highly esteemed Lady of our persuasion <persName>Mrs Elenor D Elias</persName> of<lb/>
+                <placeName>Charlotte N. C.</placeName> long may she live to enjoy the blessings she
+                so richly<lb/> deserves. Other remittances are acknowledged in the proper place. We
+                have<lb/> formed a Constitution and By Laws upon strict orthodox principles<lb/> The
+                following officers are elected for the ensuing year</p>
+            <list type="simple">
+                <head/>
+                <item><persName>M. Winslock Esq</persName> President</item>
+                <item><persName>S. Carr</persName>' Vice “</item>
+                <item>
+                    <persName>D. Epstin</persName>
+                    <add>Trustee</add>
+                </item>
+                <item>
+                    <persName>H. Sevin</persName>
+                    <add>Trustee</add>
+                </item>
+                <item><persName>I. Davis</persName> Trustees</item>
+                <item>
+                    <persName>I. Dresden</persName>
+                    <sic>Secetary</sic>
+                </item>
+            </list>
+            <p>We had the pleasure of a visit from the Nestor of American Ministers<lb/>
+                <persName>Rev <sic>Isaak</sic> Leeser</persName> on the <date>10th</date> inst and
+                the gratification to listen<lb/> to words of wisdom and instruction from his gifted
+                and fluent lips<lb/> and the vivid lightning flashes of his Brilliant and Prolific
+                mind.<lb/> The meeting was well attended and the decorum and order observed<lb/> at
+                the same showed that his instruction made a deep impression upon<lb/> the minds of
+                his hearers and were relished</p>
+            <p>
+                <add>כשעירים עלי דשא וכרביבים עלי עשב דברים לב</add>
+            </p>
+            <p>Like a spray upon Herbs, as a shower upon grass.</p>
+            <p>May kind Heaven prolong his life in his <sic>usefull</sic> career</p>
+            <p rend="indent(6)">With High regards I Have the honor to be</p>
+            <p rend="indent(6)">Sir yours very Respectfully</p>
+            <p rend="indent(7)">
+                <persName role="author">L. C</persName>
+            </p>
+            <p>
+                <persName role="author">L Carr</persName>
+            </p>
+            <p>
+                <placeName>Columbia</placeName>
+            </p>
+            <p rend="indent(1)">
+                <placeName>S.C.</placeName>
+            </p>
+            <pb n="2V"/>
+            <p>For Publication</p>
+        </body>
+    </text>
 </TEI>

@@ -1,255 +1,300 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="yes">Levingston, L. H.</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>LSKAP</repository>
-						<collection>The Arnold and Deanne Kaplan Collection of Early American Judaica</collection>
-						<idno>LSKAP0146</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="yes">Levingston, L. H.</author>
-						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac</addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>Bethania, NC</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1860-05" source="" attested="yes">May 25, 1860</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="LSKAP0146_1r.jpg"></graphic>
-								<graphic url="LSKAP0146_1v.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="false" paper_type="" size="">letter</material>
-								</support>
-								<extent>2 pages on 1 sheet
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="manuscript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="restricted">
-								<p>Restricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1R"/>
-				<p rend="align(right)"><placeName>Bethamia&#44; Forsyth Co. No. Ca.</placeName> <date>May 25th 1860</date>.</p>
-				<p><addressee>Rev. Isaac Leeser</addressee></p>
-			<p rend="indent(2)"><placeName>Philadelphia&#44; Pa.</placeName></p>
-			<p rend="indent(1)">Dear Sir.</p>
-			<p rend="indent(2)">My absence from home &#38;<lb/> the pressure of business awaiting me on my return have caused the delay<lb/> of my present answer &#38; remittance&#44; for which I beg your pardon.</p>
-			<p rend="indent(1)">Enclosed please find a ten Dollar Bill of the People&#39;s<lb/> Bank <placeName>Charleston&#44; So. Ca.</placeName>&#44; which is amount due you for your<lb/> Bible translation&#44; Catechism &#38; <persName>Dias&#39;</persName> letters all duly received in one<lb/> package through <persName>Adam&#39;s &#38; Co&#39;s</persName> Express.  Although I intended<lb/> to get your Bible&#45;translation after having effected my projected<lb/> &#38; early removal from here.  I am glad that you have anticipated<lb/> my wish by sending the same at the time you did.</p>
-			<p rend="indent(1)">I have not had as yet spare time to give the books the necessary<lb/> attention&#44; but hope to be enabled to do it soon.  From a superficial<lb/> perusal of some portions of the same I have been greatly benefitted &#38;<lb/> gratified &#38; I have already gained invaluable instruction.  I en<lb/>tertain the pleasing hope to find there a satisfactory amount of<lb/> affirmative striking &#38; national explanations &#38; the true <hi rend="underline">references</hi> of<lb/> the 53th Chapter &#38; of the 121th verse of the 7th Chap. of <persName>Isaiah</persName><lb/> as well as of the 6 verse of the 12 Chapt. of<persName> Zechariah</persName> <add>&#63;</add><lb/> There is not the most remote doubt in my mind as to the wrong<lb/> &#38; <sic>permited</sic> application <add>&#38; reference</add> of them &#38; similar prophecies&#44; which<lb/> christian commentators give to them&#44; for the whole system of <add>the</add> christian</p>
-			<pb n="1V"/>
-				<p>religion is hand upon contradictions&#44; nonsense &#38; sacrilegious doctrines</p>
-			<p rend="indent(1)">But still I would wish to see a more affirmative or<lb/> a more rational &#38; comprehensive explanation on the true<lb/> reference of the above named &#38; similar prophecies</p>
-			<p rend="indent(1)">I will however not precipitate my opinion &#38; <sic>judgement</sic><lb/> on matters of such high importance but endeavour to enlighten<lb/> &#38; instruct myself by attentive perusal &#38; study of the commentaries<lb/> which you have kindly placed into my hands.</p>
-				<p>The Kol<add>&#63;</add> <add>Hebrew</add> which you have kindly sent me&#44; shall be thankfully<lb/> returned by first <add>&#63;</add> opportunity.</p>
-			<p rend="indent(1)">I ask your pardon for troubling with so long an epistle<lb/> &#38; for <add>&#63;</add> you with such bad English.  I do not pre<lb/>sume any sort of ability in this branch &#38; have but very little<lb/> time just now to bestow upon letter writing.</p>
-			<p rend="indent(1)">Please acknowledge Receipt of the enclosed &#38; receipt the<lb/> assurance of my high esteem &#38; deference.</p>
-			<p rend="indent(6)"><persName role="author">L. H. Levingston</persName>.</p>
-				<p>P. S. You will please to send me No 2. <add>of <date>April</date></add> of the Occident&#44;<lb/> which I have never received.  I would be glad<lb/> to have this as without it some matters in the follo<lb/>wing numbers <del>would</del> could not be understood.</p>
-		</body>
-	</text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="yes">Levingston, L. H.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>LSKAP</repository>
+                        <collection>The Arnold and Deanne Kaplan Collection of Early American
+                            Judaica</collection>
+                        <idno>LSKAP0146</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="yes">Levingston, L.
+                            H.</author>
+                        <addressee accepted="yes" attested="yes" editor="false">Leeser,
+                            Isaac</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Bethania, NC</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1860-05">May 25, 1860</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="LSKAP0146_1r.jpg"/>
+                                <graphic url="LSKAP0146_1v.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >letter</material>
+                                </support>
+                                <extent>2 pages on 1 sheet <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="restricted">
+                                <p>Restricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1R"/>
+            <p rend="align(right)"><placeName>Bethamia, Forsyth Co. No. Ca.</placeName>
+                <date>May 25th 1860</date>.</p>
+            <p>
+                <addressee>Rev. Isaac Leeser</addressee>
+            </p>
+            <p rend="indent(2)">
+                <placeName>Philadelphia, Pa.</placeName>
+            </p>
+            <p rend="indent(1)">Dear Sir.</p>
+            <p rend="indent(2)">My absence from home &amp;<lb/> the pressure of business awaiting me
+                on my return have caused the delay<lb/> of my present answer &amp; remittance, for
+                which I beg your pardon.</p>
+            <p rend="indent(1)">Enclosed please find a ten Dollar Bill of the People's<lb/> Bank
+                    <placeName>Charleston, So. Ca.</placeName>, which is amount due you for
+                your<lb/> Bible translation, Catechism &amp; <persName>Dias'</persName> letters all
+                duly received in one<lb/> package through <persName>Adam's &amp; Co's</persName>
+                Express. Although I intended<lb/> to get your Bible-translation after having
+                effected my projected<lb/> &amp; early removal from here. I am glad that you have
+                anticipated<lb/> my wish by sending the same at the time you did.</p>
+            <p rend="indent(1)">I have not had as yet spare time to give the books the
+                necessary<lb/> attention, but hope to be enabled to do it soon. From a
+                superficial<lb/> perusal of some portions of the same I have been greatly benefitted
+                &amp;<lb/> gratified &amp; I have already gained invaluable instruction. I
+                en<lb/>tertain the pleasing hope to find there a satisfactory amount of<lb/>
+                affirmative striking &amp; national explanations &amp; the true <hi rend="underline"
+                    >references</hi> of<lb/> the 53th Chapter &amp; of the 121th verse of the 7th
+                Chap. of <persName>Isaiah</persName><lb/> as well as of the 6 verse of the 12 Chapt.
+                    of<persName> Zechariah</persName>
+                <add>?</add><lb/> There is not the most remote doubt in my mind as to the wrong<lb/>
+                &amp; <sic>permited</sic> application <add>&amp; reference</add> of them &amp;
+                similar prophecies, which<lb/> christian commentators give to them, for the whole
+                system of <add>the</add> christian</p>
+            <pb n="1V"/>
+            <p>religion is hand upon contradictions, nonsense &amp; sacrilegious doctrines</p>
+            <p rend="indent(1)">But still I would wish to see a more affirmative or<lb/> a more
+                rational &amp; comprehensive explanation on the true<lb/> reference of the above
+                named &amp; similar prophecies</p>
+            <p rend="indent(1)">I will however not precipitate my opinion &amp;
+                <sic>judgement</sic><lb/> on matters of such high importance but endeavour to
+                enlighten<lb/> &amp; instruct myself by attentive perusal &amp; study of the
+                commentaries<lb/> which you have kindly placed into my hands.</p>
+            <p>The Kol<add>?</add>
+                <add>יעקב</add> which you have kindly sent me, shall be thankfully<lb/> returned by
+                first <add>?</add> opportunity.</p>
+            <p rend="indent(1)">I ask your pardon for troubling with so long an epistle<lb/> &amp;
+                for <add>?</add> you with such bad English. I do not pre<lb/>sume any sort of
+                ability in this branch &amp; have but very little<lb/> time just now to bestow upon
+                letter writing.</p>
+            <p rend="indent(1)">Please acknowledge Receipt of the enclosed &amp; receipt the<lb/>
+                assurance of my high esteem &amp; deference.</p>
+            <p rend="indent(6)"><persName role="author">L. H. Levingston</persName>.</p>
+            <p>P. S. You will please to send me No 2. <add>of <date>April</date></add> of the
+                Occident,<lb/> which I have never received. I would be glad<lb/> to have this as
+                without it some matters in the follo<lb/>wing numbers <del>would</del> could not be
+                understood.</p>
+        </body>
+    </text>
 </TEI>

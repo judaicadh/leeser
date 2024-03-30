@@ -1,271 +1,331 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE TEI [
-<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
-%teibase;
-<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
-%teiext;
-]>
-<TEI>
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="yes">Wise, Dr.</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>LSKAP</repository>
-						<collection>The Arnold and Deanne Kaplan Collection of Early American Judaica</collection>
-						<idno>LSKAP0233</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="yes">Wise, Dr.</author>
-						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac</addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>Albany, NY</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1851-09" source="" attested="yes">September 20, 1851</dateLet>
-						<dateLet when="1851-09" source="" attested="yes">5611</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="LSKAP0233_1r.jpg"></graphic>
-								<graphic url="LSKAP0233_1v.jpg"></graphic>
-								<graphic url="LSKAP0233_2r.jpg"></graphic>
-								<graphic url="LSKAP0233_2v.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="false" paper_type="" size="">letter</material>
-								</support>
-								<extent>4 pages on 2 sheets
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="manuscript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="restricted">
-								<p>Restricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-				<language ident="he">Hebrew</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1R"/>
-				<p><addressee>Rev. Mr. Isaac Leeser</addressee>&#33;</p>
-			<p rend="indent(2)"><placeName>Albany</placeName>&#44; <date>September 20 5611</date>.</p>
-				<p>Dear Sir&#33;</p>
-			<p rend="indent(1)">Thanking you for your treating the<lb/> subject in which I am the foremost actor or<lb/> rather sufferer with your usual boldness&#59; I<lb/> hasten to give you the outlines of the continua&#8222;<lb/>tion of the <persName>Spanier</persName> comedy.</p>
-				<p>When <persName>L. Spanier</persName> saw&#44; that his very pious<lb/> question in the papers brought no satisfactory<lb/> answer before the people&#59; he tried the force of<lb/> money.  He paid the dues for those&#44; that could not<lb/> pay themselves&#59; he gave money and promised the<lb/> more to every body&#44; who came to him and so he<lb/> bought so many votes&#44; that his party increased to<lb/> 45 or 49.  He then called a meeting at a time<lb/> when never a meeting was&#44; when many members<lb/> were absent&#44; and others had not time to attend&#59; He<lb/> did not as usually say what business will be<lb/> transacted at that meeting&#44; so that were altogether<lb/> indifferent to the whole concern.  But when the<lb/> meeting was organized he brought the very charges<lb/> against me before that meeting with which he<lb/> failed at the meeting of the Board.  My friends<lb/> protested against the reading of such charges&#59; but in<lb/> vain.  They proposed to adjourn the meeting&#59; but<lb/> in vain&#59; he put no motion before the meeting.<lb/>  Finally the majority of the Board declared the meeting<lb/> adjourned and withdrew together with all my<lb/> friends.  But <persName>Spanier</persName> with his party continued<lb/> the meeting&#44; and resolved that the contract<lb/> between me and them is dissolved and<lb/> that I am discharged from my office from<lb/> that very day&#44; <date>September 5</date>.</p>
-				<p>The majority of the Board declared that meeting</p>
-			<pb n="1V"/>
-				<p>illegal and ordered me to discharge my duties as<lb/> ever before&#44; my <sic>counsellor</sic> advised me the same.<lb/>  The first day of <add>Hebrew</add> when I went up to <add>Hebrew</add><lb/> <add>Hebrew</add> <persName>L. Spanier</persName> went to the <add>Hebrew</add> and<lb/> not merely pushed me&#44; but in a rage of madness<lb/> stroke me several times.  Hundred<del>s</del> commenced<lb/> at once to <sic>hollar</sic>&#58; Throw him out the<lb/> bankrupt&#44; the run of from <placeName>Germany</placeName>&#44; all young<lb/> men in the Synagogue run against him&#44; and<lb/> would have paid him&#44; when suddenly the<lb/> <sic>Sherif</sic> came and dissolved the meeting and<lb/> locked up the Synagogue.  Legal investigation<lb/> will be held in the matter.  My friends 75 to<lb/> 80 have <sic>seperated</sic> from the congregation&#44; since<lb/> I have declared to enter no more this Synagogue<lb/> A new Congregation will be constituted and a<lb/> new Synagogue built.  We rented a hall for<lb/> the purpose to worship in it&#44; which was<lb/> always thus overfilled&#44; that many could not<lb/> come in.  The members of the Congregation<lb/> subscribed in one evening &#36;1500.00 for a new<lb/> Synagogue&#59; so if we helped a little we will have<lb/> soon a new building.  The choir went with<lb/> us&#44; and so we have our divine service just<lb/> exactly as before.  The first day of <add>Hebrew</add> the<lb/> old Synagogue was reopened&#44; when <persName>L. Spanier</persName> came with<lb/> his 45 &#40;others having not made up their mind went to<lb/> no Synagogue&#41; and held divine service.  A<lb/> mournful sadness prevails here as I never<lb/> saw before.  A congregation was destroyed<lb/> by the ill&#45;will&#44; pride&#44; egotism and folly<lb/> of <persName>L. Spanier</persName>&#44; which none can re&#45;unite <add>Hebrew</add><lb/> We had a <add>Hebrew</add> and a <add>Hebrew</add> as I never have<lb/> lived to see before <add>Hebrew</add><lb/> I will write you every news&#44; when something<lb/> shall transpire.</p>
-			<pb n="2R"/>
-				<p>If your weekly paper appear you can <sic>sent</sic><lb/> to us a dozen of copies&#44; for which subscribers<lb/> are here&#44; who gave up the Asmonean.<lb/>  I am <sic>to</sic> much confused to answer <persName>Mr.<lb/> Miller&#39;s</persName> letter&#59; but I will surely answer him one<lb/> day for his imprudent and improper introduction<lb/> your articles on <add>Hebrew</add> and <add>Hebrew</add> I shall closely<lb/> examine&#44; and I will take the liberty to write down<lb/> my opposite opinion.<lb/></p>
-			<p rend="indent(1)">You must excuse me for the present<lb/> I am not disposed to write any thing reasonable<add>&#63;</add></p>
-			<p rend="indent(9)">Respectfully yours</p>
-			<p rend="indent(9)"><persName role="author">Dr Wise</persName></p>
-			<pb n="2V"/>
-			<p rend="indent(5)"><addressee>Rev Mr. Isaac Leeser</addressee></p>
-			<p rend="indent(6)"><placeName>371 Walnut St.</placeName></p>
-			<p rend="indent(7)"><placeName>Philadelphia</placeName></p>
-			
-			<div>
-				<p><ref target="Occident_PDFs/Occ_9_7.pdf">The above text refers to Occident Volume 9 No. 7 page 381. Click here to view.</ref></p>
-			</div>
-		</body>
-	</text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="yes">Wise, Dr.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>LSKAP</repository>
+                        <collection>The Arnold and Deanne Kaplan Collection of Early American
+                            Judaica</collection>
+                        <idno>LSKAP0233</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="yes">Wise, Dr.</author>
+                        <addressee accepted="yes" attested="yes" editor="false">Leeser,
+                            Isaac</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Albany, NY</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1851-09">September 20,
+                            1851</dateLet>
+                        <dateLet attested="yes" source="" when="1851-09">5611</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="LSKAP0233_1r.jpg"/>
+                                <graphic url="LSKAP0233_1v.jpg"/>
+                                <graphic url="LSKAP0233_2r.jpg"/>
+                                <graphic url="LSKAP0233_2v.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >letter</material>
+                                </support>
+                                <extent>4 pages on 2 sheets <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="restricted">
+                                <p>Restricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="he">Hebrew</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1R"/>
+            <p><addressee>Rev. Mr. Isaac Leeser</addressee>!</p>
+            <p rend="indent(2)"><placeName>Albany</placeName>, <date>September 20 5611</date>.</p>
+            <p>Dear Sir!</p>
+            <p rend="indent(1)">Thanking you for your treating the<lb/> subject in which I am the
+                foremost actor or<lb/> rather sufferer with your usual boldness; I<lb/> hasten to
+                give you the outlines of the continua„<lb/>tion of the <persName>Spanier</persName>
+                comedy.</p>
+            <p>When <persName>L. Spanier</persName> saw, that his very pious<lb/> question in the
+                papers brought no satisfactory<lb/> answer before the people; he tried the force
+                of<lb/> money. He paid the dues for those, that could not<lb/> pay themselves; he
+                gave money and promised the<lb/> more to every body, who came to him and so he<lb/>
+                bought so many votes, that his party increased to<lb/> 45 or 49. He then called a
+                meeting at a time<lb/> when never a meeting was, when many members<lb/> were absent,
+                and others had not time to attend; He<lb/> did not as usually say what business will
+                be<lb/> transacted at that meeting, so that were altogether<lb/> indifferent to the
+                whole concern. But when the<lb/> meeting was organized he brought the very
+                charges<lb/> against me before that meeting with which he<lb/> failed at the meeting
+                of the Board. My friends<lb/> protested against the reading of such charges; but
+                in<lb/> vain. They proposed to adjourn the meeting; but<lb/> in vain; he put no
+                motion before the meeting.<lb/> Finally the majority of the Board declared the
+                meeting<lb/> adjourned and withdrew together with all my<lb/> friends. But
+                    <persName>Spanier</persName> with his party continued<lb/> the meeting, and
+                resolved that the contract<lb/> between me and them is dissolved and<lb/> that I am
+                discharged from my office from<lb/> that very day, <date>September 5</date>.</p>
+            <p>The majority of the Board declared that meeting</p>
+            <pb n="1V"/>
+            <p>illegal and ordered me to discharge my duties as<lb/> ever before, my
+                    <sic>counsellor</sic> advised me the same.<lb/> The first day of <add>ר"ה</add>
+                when I went up to <add>הוצאת התורה</add><lb/>
+                <add>ארון הקודש</add>
+                <persName>L. Spanier</persName> went to the <add>סכות</add> and<lb/> not merely
+                pushed me, but in a rage of madness<lb/> stroke me several times.
+                    Hundred<del>s</del> commenced<lb/> at once to <sic>hollar</sic>: Throw him out
+                the<lb/> bankrupt, the run of from <placeName>Germany</placeName>, all young<lb/>
+                men in the Synagogue run against him, and<lb/> would have paid him, when suddenly the<lb/>
+                <sic>Sherif</sic> came and dissolved the meeting and<lb/> locked up the Synagogue.
+                Legal investigation<lb/> will be held in the matter. My friends 75 to<lb/> 80 have
+                    <sic>seperated</sic> from the congregation, since<lb/> I have declared to enter
+                no more this Synagogue<lb/> A new Congregation will be constituted and a<lb/> new
+                Synagogue built. We rented a hall for<lb/> the purpose to worship in it, which
+                was<lb/> always thus overfilled, that many could not<lb/> come in. The members of
+                the Congregation<lb/> subscribed in one evening $1500.00 for a new<lb/> Synagogue;
+                so if we helped a little we will have<lb/> soon a new building. The choir went
+                with<lb/> us, and so we have our divine service just<lb/> exactly as before. The
+                first day of <add>ישפט ה'</add> the<lb/> old Synagogue was reopened, when
+                    <persName>L. Spanier</persName> came with<lb/> his 45 (others having not made up
+                their mind went to<lb/> no Synagogue) and held divine service. A<lb/> mournful
+                sadness prevails here as I never<lb/> saw before. A congregation was destroyed<lb/>
+                by the ill-will, pride, egotism and folly<lb/> of <persName>L. Spanier</persName>,
+                which none can re-unite <add>ר"ה</add><lb/> We had a <add>י"ה</add> and a <add>כל
+                    ראש לחלי וכל לבב דוי ישעיהו א, ה</add> as I never have<lb/> lived to see before
+                    <add>גאולה</add><lb/> I will write you every news, when something<lb/> shall
+                transpire.</p>
+            <pb n="2R"/>
+            <p>If your weekly paper appear you can <sic>sent</sic><lb/> to us a dozen of copies, for
+                which subscribers<lb/> are here, who gave up the Asmonean.<lb/> I am <sic>to</sic>
+                much confused to answer <persName>Mr.<lb/> Miller's</persName> letter; but I will
+                surely answer him one<lb/> day for his imprudent and improper introduction<lb/> your
+                articles on <add>תחיה</add> and <add>Hebrew</add> I shall closely<lb/> examine, and
+                I will take the liberty to write down<lb/> my opposite opinion.<lb/></p>
+            <p rend="indent(1)">You must excuse me for the present<lb/> I am not disposed to write
+                any thing reasonable<add>?</add></p>
+            <p rend="indent(9)">Respectfully yours</p>
+            <p rend="indent(9)">
+                <persName role="author">Dr Wise</persName>
+            </p>
+            <pb n="2V"/>
+            <p rend="indent(5)">
+                <addressee>Rev Mr. Isaac Leeser</addressee>
+            </p>
+            <p rend="indent(6)">
+                <placeName>371 Walnut St.</placeName>
+            </p>
+            <p rend="indent(7)">
+                <placeName>Philadelphia</placeName>
+            </p>
+            <div>
+                <p>
+                    <ref target="Occident_PDFs/Occ_9_7.pdf">The above text refers to Occident Volume
+                        9 No. 7 page 381. Click here to view.</ref>
+                </p>
+            </div>
+        </body>
+    </text>
 </TEI>

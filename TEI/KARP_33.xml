@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
         <fileDesc>
             <titleStmt>
                 <title>[no title given]</title>
-                <author attested="yes" accepted="yes" signature="yes">Picnot, Simon</author>
+                <author accepted="yes" attested="yes" signature="yes">Picnot, Simon</author>
                 <editor/>
                 <sponsor/>
                 <funder/>
@@ -47,7 +49,9 @@
                         <settlement>New York</settlement>
                         <institution>Jewish Theological Seminary</institution>
                         <repository/>
-                        <collection>The Abraham and Deborah Karp Collection of Early American Judaica at the Library of the Jewish Theological Seminary of America</collection>
+                        <collection>The Abraham and Deborah Karp Collection of Early American
+                            Judaica at the Library of the Jewish Theological Seminary of
+                            America</collection>
                         <idno/>
                         <altIdentifier>
                             <idno/>
@@ -56,8 +60,8 @@
                     </msIdentifier>
                     <head/>
                     <letHeading>
-                        <author attested="yes" accepted="yes" signature="yes">Picnot, Simon</author>
-                        <addressee editor="false" attested="yes" accepted="yes">Leeser,
+                        <author accepted="yes" attested="yes" signature="yes">Picnot, Simon</author>
+                        <addressee accepted="yes" attested="yes" editor="false">Leeser,
                             Isaac</addressee>
                         <deliverer/>
                         <respStmt>
@@ -66,7 +70,7 @@
                         </respStmt>
                         <placeLet>Philadelphia, PA</placeLet>
                         <placeRec>Philadelphia, PA</placeRec>
-                        <dateLet when="1858" source="" attested="yes">1858</dateLet>
+                        <dateLet attested="yes" source="" when="1858">1858</dateLet>
                     </letHeading>
                     <msContents>
                         <msItem>
@@ -92,7 +96,8 @@
                         <objectDesc>
                             <supportDesc>
                                 <support>
-                                    <material color="" lined="false" paper_type="" size="Letter">letter</material>
+                                    <material color="" lined="false" paper_type="" size="Letter"
+                                        >letter</material>
                                 </support>
                                 <extent>4 pages on 4 sheets <dimensions/>
                                 </extent>
@@ -233,58 +238,49 @@
     </teiHeader>
     <text>
         <body>
-
             <pb n="1"/>
-
             <p>With the Help of the Almighty God.</p>
             <p><placeName>Philadelphia</placeName> Thursday.</p>
-            <p rend="indent(1)">Chapter of the week&#58; &#8220;You shall command&#8221;<lb/> of the
-                year <date>5618</date>.</p>
+            <p rend="indent(1)">Chapter of the week: “You shall command”<lb/> of the year
+                    <date>5618</date>.</p>
             <p>Greetings to the highly esteemed father<lb/> the famous scholar Rabbi
-                        <sic><addressee>Isaac Lesser</addressee></sic><lb/> in peace &#38; freedom
+                        <sic><addressee>Isaac Lesser</addressee></sic><lb/> in peace &amp; freedom
                 will follow surround you till<lb/> the moon will stop to exist
                 <sic>exist</sic>.<lb/>
             </p>
-            <p rend="indent(1)">My dear beloved sir&#58;</p>
-            <p rend="indent(2)">Last week I was informed&#44;<lb/> that the directors of the Holy
-                Community<lb/> Bnai&#8211;Israel intend to elect you&#44; my friend&#44;<lb/> as a
-                judge and preside&#44; when the cantor<lb/> will read the
-                    <add>&#91;Hebrew&#93;</add> megilah.</p>
-
+            <p rend="indent(1)">My dear beloved sir:</p>
+            <p rend="indent(2)">Last week I was informed,<lb/> that the directors of the Holy
+                Community<lb/> Bnai–Israel intend to elect you, my friend,<lb/> as a judge and
+                preside, when the cantor<lb/> will read the <add>[Hebrew]</add> megilah.</p>
             <pb n="2"/>
             <p>according to the custom of the sons of Israel<lb/> Last Monday was<hi rend="sup"
-                    >2</hi> held a meeting<hi rend="sup">1</hi> and the directors<lb/> decided&#44;
-                that your Honor shall be one of the judges<lb/> during the time&#44; when the
-                megilah <add>&#91;Hebrew&#93;</add><lb/> will be read on all also to every coming
-                year Kal&#8211;Midrai <add>&#91;Hebrew&#93;</add><lb/> The directors gave me the
-                    <add>Hebrew</add> the liberty to send<lb/> you a letter in appreciation and
-                respect due<lb/> to your personality and the letter was sent to <persName>Mr<lb/> Mr.
-                    S. Blitz&#44;</persName> who refused to forward to you&#44; as<lb/> he
-                noticed in the letter many mistakes&#44; and<lb/> especially&#44; when the members
-                of the community read<lb/> it when they had their meeting on Saturday&#44; and
-                it<lb/> they decided&#44; that such a letter is below the dignity<lb/> &#40;or
-                    furtige<add>&#63;</add>&#41; of the community&#44; so they applied</p>
-
+                    >2</hi> held a meeting<hi rend="sup">1</hi> and the directors<lb/> decided, that
+                your Honor shall be one of the judges<lb/> during the time, when the megilah
+                    <add>[Hebrew]</add><lb/> will be read on all also to every coming year
+                Kal–Midrai <add>[Hebrew]</add><lb/> The directors gave me the <add>Hebrew</add> the
+                liberty to send<lb/> you a letter in appreciation and respect due<lb/> to your
+                personality and the letter was sent to Mr<lb/> Mr. <persName>S. Blitz</persName>,
+                who refused to forward to you, as<lb/> he noticed in the letter many mistakes,
+                and<lb/> especially, when the members of the community read<lb/> it when they had
+                their meeting on Saturday, and it<lb/> they decided, that such a letter is below the
+                dignity<lb/> (or furtige<add>?</add>) of the community, so they applied</p>
             <pb n="3"/>
             <p>to me to notify you about and I have my full confidence<lb/> in them and in their
                 sayings. I also <sic>inclosed</sic> the<lb/> mentioned above letter in this letter
-                and your<lb/> honor shall forgive and return the letter c&#47;o<lb/> the eve. the
-                idea is that this incident<lb/> shall remain in strict confidence and shall<lb/> not
-                reach any publicity. I hope that you under&#8211;<lb/> stand the hint I hope that
-                the hing is under&#8211;<lb/>stood. And shall your Honor be informed<lb/> that with
-                the coming fast of Esther we&#39;ll shout<lb/> our <add>Hebrew</add> prayers at 5
-                p.m.<lb/> and shall the lord prolong his your life<lb/> that you&#39;ll be able to
-                see all the<lb/> wonders&#44; that as God did so our ancestors</p>
-
+                and your<lb/> honor shall forgive and return the letter c/o<lb/> the eve. the idea
+                is that this incident<lb/> shall remain in strict confidence and shall<lb/> not
+                reach any publicity. I hope that you under–<lb/> stand the hint I hope that the hing
+                is under–<lb/>stood. And shall your Honor be informed<lb/> that with the coming fast
+                of Esther we'll shout<lb/> our <add>Hebrew</add> prayers at 5 p.m.<lb/> and shall
+                the lord prolong his your life<lb/> that you'll be able to see all the<lb/> wonders,
+                that as God did so our ancestors</p>
             <pb n="4"/>
             <p>in the ancient times.</p>
             <p rend="indent(1)">From me the writer who</p>
             <p rend="indent(1)">loves you and remain your</p>
             <p rend="indent(1)">obedient servant.</p>
-            <p rend="indent(1)"><add>&#91;Hebrew&#93;</add>
+            <p rend="indent(1)"><add>[Hebrew]</add>
                 <persName role="author">Simon Picnot</persName>.</p>
-
-
         </body>
     </text>
 </TEI>

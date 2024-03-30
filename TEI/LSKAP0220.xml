@@ -1,256 +1,369 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="yes">Pleasants, T. S.</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>LSKAP</repository>
-						<collection>The Arnold and Deanne Kaplan Collection of Early American Judaica</collection>
-						<idno>LSKAP0220</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="yes">Pleasants, T. S.</author>
-						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac</addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>Beaver Dam, VA</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1829-06" source="" attested="yes">June 20, 1829</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="LSKAP0220_1r.jpg"></graphic>
-								<graphic url="LSKAP0220_1v.jpg"></graphic>
-								<graphic url="LSKAP0220_2r.jpg"></graphic>
-								<graphic url="LSKAP0220_2v.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="false" paper_type="" size="">letter</material>
-								</support>
-								<extent>4 pages on 2 sheets
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="manuscript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="restricted">
-								<p>Restricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1R"/>
-			<p rend="indent(7)"><placeName>Beaver dam</placeName> <date>June 20<hi rend="sup">th</hi> 1829</date></p>
-				<p>My dear friend&#44;</p>
-			<p rend="indent(2)">I intended to write in the course of a few days&#44; tut the<lb/> note which I recd yesterday&#44; induces me to write immediately&#44; and to offer<lb/> some apology for my not calling on thee while in <placeName>Richmond</placeName> last week.  I left<lb/> home at a time that ill suited my convenience&#8212;though I full promised<lb/> myself the pleasure of an interview with thee.  After doing my little<lb/> business&#44; I was so tired &#38; exhausted&#44; and had so little time left&#44; that<lb/> I concluded&#44; very reluctantly&#44; to satisfy myself with a call on <persName>B. H.<lb/> Judah</persName> at the museum&#44; and to leave with him a message for thee&#44;<lb/> stating my disappointment &#38; regret at being deprived of the pleasure of<lb/> seeing thee.  Had I received the least intimation while there&#44; that thou<lb/> wouldst be down&#44; I would have remained.  But I did not know that<lb/> he sent thee word&#44; neither do I yet&#59; but I presume so&#44; from the fact of<lb/> thy hearing I was there.  I hope therefore&#44; my friend&#44; thou will ascribe my not<lb/> calling on thee to the right cause&#59; for I assure thee it would have given me the<lb/> highest gratification to see thee&#44; if I could have found time to have an hour or<lb/> two of conversation with thee.  I should have <sic>staid</sic> longer at the museum with<lb/> our friend <persName>B. H. Judah</persName>&#44; with whose urbanity I was highly pleased&#59; but we<lb/> were interrupted by visitors&#44; &#38; as I expected his duty required he should<lb/> wait on them&#44; I withdrew.  He appears to be a man well versed in Hebrew<lb/> learning&#44; &#38; of much intelligence&#59; but above all he possesses I think in a<lb/> great degree&#44; the virtue of charity&#59; the brightest gem which can adorn the<lb/> profession of religion.  It is truly gratifying to meet with a man of such<lb/> enlarged views&#59; &#38; the last <sic>enquiry</sic> I would make concerning him&#44; would be&#44;<lb/> to what particular profession he belonged&#63; for where we see virtue &#38; charity &#38;<lb/> humility abound&#44; we should never avil<add>&#63;</add> about particular modes of belief.<lb/>  Those amiable feelings&#44; are in all&#44; the legitimate offspring of the divine perfection&#44;<lb/> the influences of which are universal&#44; in proportion to the reciprocal action<lb/> on the part of the creature.  Such being the impressions I feel towards him&#44; I was<lb/> sorry to be interrupted&#44; especially as I wished to gain some information from</p>
-			<pb n="1V"/>
-				<p>an authentic source of the present state of the Jews&#44; their manners &#38;c.  While in<lb/> conversation he offered me a controversial work&#44; the letters of <persName>D. Levi</persName> to <persName>Dr.<lb/> Priestly</persName> on the merits &#38; evidences of their respective religions.  I did not intend<lb/> to write to thee until I had done reading it&#44; but having finished the first series<lb/> &#38; made some progress in the second&#44; I can form some judgment of its execution.<lb/>  He is a writer of very considerable talent&#44; and great ingenuity.  His exposition of<lb/> the prophecy of <persName>David</persName> was new to me&#58; as well as some of his translations of<lb/> Hebrew terms&#59; of which however I am no judge.  The common mass of mankind<lb/> has to depend very much on the learned for a correct interpretation of many<lb/> passages of scripture&#44; and when they differ among themselves&#44; what are the ignorant<lb/> to do&#63;  &#8220;Who shall decide where doctors disagree&#8221;&#63;  As long as this is the case&#44;<lb/> controversy must be endless&#44; in respect to particular doctrines&#59; and we must<lb/> therefore be left to do that which we know to be right&#44; by cultivating every<lb/> virtue&#44; doing injury to none&#44; and <sic>practising</sic> all the good we can.  This is the<lb/> end&#44; doubtless&#44; of the law &#38; the prophets.  Indeed&#44; my friend&#44; I delight to contemplate&#44;<lb/> the <hi rend="underline">practical</hi> exhibition of those sublime principles which ought to regulate our<lb/> lives&#44; for more than the mere profession of them.  To return to <persName>Levi&#39;s</persName> work&#44;<lb/> I think many of his arguments against the new testament might be<lb/> readily answered.  Sagacious critics may no doubt be able to make<lb/> many things appear absurd&#44; which are founded on truth.  For a controversial<lb/> writer though&#44; he is very exempt from bitterness&#44; and I am reading his book<lb/> with a good deal of interest&#59; for I am always pleased to see both sides.<lb/>  Many of his strictures are very just on the Christians&#44; particularly when he<lb/> speaks of the animosity between different sects&#8212;a fact which I confess gives<lb/> a powerful advantage to our opponents&#44; and which has sometimes almost<lb/> disgusted me with the name of Christian.  This has been the rock on which many<lb/> have split in their search after  truth&#44; when they judged of the Christian religion<lb/> by the acts of its professors&#59; thereby denying such a principle as vital&#44; redeeming<lb/> religion to exist in any people.  But as <persName>D. Levi</persName> himself candidly &#38; zealously<lb/> admits&#44; the new testament does not <sic>authorise</sic> such <sic>abberation</sic> from the law<lb/> of moral rectitude.</p>
-			<p rend="indent(1)">I should have answered thy last valued letter&#44; received some weeks<lb/> since&#44; but that I flattered myself I should have had the pleasure to acknowledge<lb/> it in person.  I can only account for our friend <persName>J. P. Staker&#39;s</persName> not writing from</p>
-			<pb n="2R"/>
-				<p>the circumstance that he received an important appointment immediately on<lb/> his return home in the <placeName>Baltimore</placeName> rail Road Company&#44; which together with the<lb/> arrangements previous to entering upon its duties occupied nearly all his time.<lb/>  Indeed I have only received a very few lines&#44; at a time&#44; from him since he left<lb/> me&#44; though when he is at leisure I get a letter from him almost every week.<lb/>  I am sorry now he did not leave his letter with me&#44; to copy &#40;as he wrote it in<lb/> a hurry &#38; it required a few corrections&#41;&#44; but I thought he could do it himself much<lb/> better.  I have written to him about it&#44; but have received no answer yet.</p>
-			<p rend="indent(1)">I assure thee my dear friend&#44; I feel very much gratified that my correspondence<lb/> should&#44; on account of the spirit of moderation which I sincerely felt&#44; have recd.<lb/> such a compliment from a Jew as it did from thy friend <persName>Jacob Mordecai</persName>.  It<lb/> is a very desirable thing to gain the respect of our opponents&#44; so seldom the<lb/> fruit of religious controversy.  Hard names are never productive of any benefit.  I<lb/> think I have informed thee before&#44; of the pleasure which the perusal of thy letter<lb/> by one or two of my friends afforded them&#44; one of whom congratulated me on the<lb/> agreeable result of gaining a friend instead of making an enemy by religious<lb/> disputation.  When I quoted the passage from Deuteronomy in my last letter<lb/> I was not fully aware that it was so literally complied with by the Jews.<lb/>  I thought however&#44; &#38; I still think&#44; that <hi rend="underline">literally</hi>&#44; the words &#8220;when thou liest<lb/> down &#38; when thou risest up &#38; when tho walkest by the way &#38;c&#8221; might embrace<lb/> almost ever division of time.  I did not intend to convey the idea that it<lb/> was impracticable to love God above all things&#58; by no means.  I hope &#38; believe<lb/> it is attainable both by Jew &#38; Gentile.  If I recollect right&#44; there were certain<lb/> parts which I underscored&#44; some of which I thought it would be difficult to<lb/> comply with&#44; particularly that which requires the commandment to be placed as front<lb/>lets between the eyes.</p>
-			<p rend="indent(1)">I learned from <persName>B. H. Judah</persName> the probability that thou mightest take charge<lb/> of the Jewish Congregation in <placeName>Philada</placeName>.  If this be so&#44; and it should compel<lb/> thee to leave <placeName>Richmond</placeName> before I go down again&#44; it will produce a lasting regret<lb/> on my mind that I did not see thee when I was down.  If the offer should<lb/> be accepted I yet cherish the hope that I may have the pleasure of seeing<lb/> thee before they departure.  I shall be glad to know they decision on the subject.</p>
-			<p rend="indent(1)">I recd. The whig thou sent me some weeks since&#44; but did not get the<lb/> letter which accompanied it.  Please to give my respects to <persName>B. H. Judah</persName><lb/> and believe me to be very sincerely thy friend</p>
-			<p rend="indent(10)"><persName role="author">T S Pleasants</persName></p>
-			<pb n="2V"/>
-			<p rend="indent(5)"><addressee>Mr. Isaac Leeser</addressee>.</p>
-			<p rend="indent(8)"><placeName>Richmond</placeName></p>
-		</body>
-	</text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="yes">Pleasants, T. S.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>LSKAP</repository>
+                        <collection>The Arnold and Deanne Kaplan Collection of Early American
+                            Judaica</collection>
+                        <idno>LSKAP0220</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="yes">Pleasants, T.
+                            S.</author>
+                        <addressee accepted="yes" attested="yes" editor="false">Leeser,
+                            Isaac</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Beaver Dam, VA</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1829-06">June 20, 1829</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="LSKAP0220_1r.jpg"/>
+                                <graphic url="LSKAP0220_1v.jpg"/>
+                                <graphic url="LSKAP0220_2r.jpg"/>
+                                <graphic url="LSKAP0220_2v.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >letter</material>
+                                </support>
+                                <extent>4 pages on 2 sheets <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="restricted">
+                                <p>Restricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1R"/>
+            <p rend="indent(7)">
+                <placeName>Beaver dam</placeName>
+                <date>June 20<hi rend="sup">th</hi> 1829</date>
+            </p>
+            <p>My dear friend,</p>
+            <p rend="indent(2)">I intended to write in the course of a few days, tut the<lb/> note
+                which I recd yesterday, induces me to write immediately, and to offer<lb/> some
+                apology for my not calling on thee while in <placeName>Richmond</placeName> last
+                week. I left<lb/> home at a time that ill suited my convenience—though I full
+                promised<lb/> myself the pleasure of an interview with thee. After doing my
+                little<lb/> business, I was so tired &amp; exhausted, and had so little time left,
+                that<lb/> I concluded, very reluctantly, to satisfy myself with a call on
+                    <persName>B. H.<lb/> Judah</persName> at the museum, and to leave with him a
+                message for thee,<lb/> stating my disappointment &amp; regret at being deprived of
+                the pleasure of<lb/> seeing thee. Had I received the least intimation while there,
+                that thou<lb/> wouldst be down, I would have remained. But I did not know that<lb/>
+                he sent thee word, neither do I yet; but I presume so, from the fact of<lb/> thy
+                hearing I was there. I hope therefore, my friend, thou will ascribe my not<lb/>
+                calling on thee to the right cause; for I assure thee it would have given me
+                the<lb/> highest gratification to see thee, if I could have found time to have an
+                hour or<lb/> two of conversation with thee. I should have <sic>staid</sic> longer at
+                the museum with<lb/> our friend <persName>B. H. Judah</persName>, with whose
+                urbanity I was highly pleased; but we<lb/> were interrupted by visitors, &amp; as I
+                expected his duty required he should<lb/> wait on them, I withdrew. He appears to be
+                a man well versed in Hebrew<lb/> learning, &amp; of much intelligence; but above all
+                he possesses I think in a<lb/> great degree, the virtue of charity; the brightest
+                gem which can adorn the<lb/> profession of religion. It is truly gratifying to meet
+                with a man of such<lb/> enlarged views; &amp; the last <sic>enquiry</sic> I would
+                make concerning him, would be,<lb/> to what particular profession he belonged? for
+                where we see virtue &amp; charity &amp;<lb/> humility abound, we should never
+                    avil<add>?</add> about particular modes of belief.<lb/> Those amiable feelings,
+                are in all, the legitimate offspring of the divine perfection,<lb/> the influences
+                of which are universal, in proportion to the reciprocal action<lb/> on the part of
+                the creature. Such being the impressions I feel towards him, I was<lb/> sorry to be
+                interrupted, especially as I wished to gain some information from</p>
+            <pb n="1V"/>
+            <p>an authentic source of the present state of the Jews, their manners &amp;c. While
+                in<lb/> conversation he offered me a controversial work, the letters of <persName>D.
+                    Levi</persName> to <persName>Dr.<lb/> Priestly</persName> on the merits &amp;
+                evidences of their respective religions. I did not intend<lb/> to write to thee
+                until I had done reading it, but having finished the first series<lb/> &amp; made
+                some progress in the second, I can form some judgment of its execution.<lb/> He is a
+                writer of very considerable talent, and great ingenuity. His exposition of<lb/> the
+                prophecy of <persName>David</persName> was new to me: as well as some of his
+                translations of<lb/> Hebrew terms; of which however I am no judge. The common mass
+                of mankind<lb/> has to depend very much on the learned for a correct interpretation
+                of many<lb/> passages of scripture, and when they differ among themselves, what are
+                the ignorant<lb/> to do? “Who shall decide where doctors disagree”? As long as this
+                is the case,<lb/> controversy must be endless, in respect to particular doctrines;
+                and we must<lb/> therefore be left to do that which we know to be right, by
+                cultivating every<lb/> virtue, doing injury to none, and <sic>practising</sic> all
+                the good we can. This is the<lb/> end, doubtless, of the law &amp; the prophets.
+                Indeed, my friend, I delight to contemplate,<lb/> the <hi rend="underline"
+                    >practical</hi> exhibition of those sublime principles which ought to regulate
+                our<lb/> lives, for more than the mere profession of them. To return to
+                    <persName>Levi's</persName> work,<lb/> I think many of his arguments against the
+                new testament might be<lb/> readily answered. Sagacious critics may no doubt be able
+                to make<lb/> many things appear absurd, which are founded on truth. For a
+                controversial<lb/> writer though, he is very exempt from bitterness, and I am
+                reading his book<lb/> with a good deal of interest; for I am always pleased to see
+                both sides.<lb/> Many of his strictures are very just on the Christians,
+                particularly when he<lb/> speaks of the animosity between different sects—a fact
+                which I confess gives<lb/> a powerful advantage to our opponents, and which has
+                sometimes almost<lb/> disgusted me with the name of Christian. This has been the
+                rock on which many<lb/> have split in their search after truth, when they judged of
+                the Christian religion<lb/> by the acts of its professors; thereby denying such a
+                principle as vital, redeeming<lb/> religion to exist in any people. But as
+                    <persName>D. Levi</persName> himself candidly &amp; zealously<lb/> admits, the
+                new testament does not <sic>authorise</sic> such <sic>abberation</sic> from the
+                law<lb/> of moral rectitude.</p>
+            <p rend="indent(1)">I should have answered thy last valued letter, received some
+                weeks<lb/> since, but that I flattered myself I should have had the pleasure to
+                acknowledge<lb/> it in person. I can only account for our friend <persName>J. P.
+                    Staker's</persName> not writing from</p>
+            <pb n="2R"/>
+            <p>the circumstance that he received an important appointment immediately on<lb/> his
+                return home in the <placeName>Baltimore</placeName> rail Road Company, which
+                together with the<lb/> arrangements previous to entering upon its duties occupied
+                nearly all his time.<lb/> Indeed I have only received a very few lines, at a time,
+                from him since he left<lb/> me, though when he is at leisure I get a letter from him
+                almost every week.<lb/> I am sorry now he did not leave his letter with me, to copy
+                (as he wrote it in<lb/> a hurry &amp; it required a few corrections), but I thought
+                he could do it himself much<lb/> better. I have written to him about it, but have
+                received no answer yet.</p>
+            <p rend="indent(1)">I assure thee my dear friend, I feel very much gratified that my
+                correspondence<lb/> should, on account of the spirit of moderation which I sincerely
+                felt, have recd.<lb/> such a compliment from a Jew as it did from thy friend
+                    <persName>Jacob Mordecai</persName>. It<lb/> is a very desirable thing to gain
+                the respect of our opponents, so seldom the<lb/> fruit of religious controversy.
+                Hard names are never productive of any benefit. I<lb/> think I have informed thee
+                before, of the pleasure which the perusal of thy letter<lb/> by one or two of my
+                friends afforded them, one of whom congratulated me on the<lb/> agreeable result of
+                gaining a friend instead of making an enemy by religious<lb/> disputation. When I
+                quoted the passage from Deuteronomy in my last letter<lb/> I was not fully aware
+                that it was so literally complied with by the Jews.<lb/> I thought however, &amp; I
+                still think, that <hi rend="underline">literally</hi>, the words “when thou
+                liest<lb/> down &amp; when thou risest up &amp; when tho walkest by the way &amp;c”
+                might embrace<lb/> almost ever division of time. I did not intend to convey the idea
+                that it<lb/> was impracticable to love God above all things: by no means. I hope
+                &amp; believe<lb/> it is attainable both by Jew &amp; Gentile. If I recollect right,
+                there were certain<lb/> parts which I underscored, some of which I thought it would
+                be difficult to<lb/> comply with, particularly that which requires the commandment
+                to be placed as front<lb/>lets between the eyes.</p>
+            <p rend="indent(1)">I learned from <persName>B. H. Judah</persName> the probability that
+                thou mightest take charge<lb/> of the Jewish Congregation in
+                    <placeName>Philada</placeName>. If this be so, and it should compel<lb/> thee to
+                leave <placeName>Richmond</placeName> before I go down again, it will produce a
+                lasting regret<lb/> on my mind that I did not see thee when I was down. If the offer
+                should<lb/> be accepted I yet cherish the hope that I may have the pleasure of
+                seeing<lb/> thee before they departure. I shall be glad to know they decision on the
+                subject.</p>
+            <p rend="indent(1)">I recd. The whig thou sent me some weeks since, but did not get
+                the<lb/> letter which accompanied it. Please to give my respects to <persName>B. H.
+                    Judah</persName><lb/> and believe me to be very sincerely thy friend</p>
+            <p rend="indent(10)">
+                <persName role="author">T S Pleasants</persName>
+            </p>
+            <pb n="2V"/>
+            <p rend="indent(5)"><addressee>Mr. Isaac Leeser</addressee>.</p>
+            <p rend="indent(8)">
+                <placeName>Richmond</placeName>
+            </p>
+        </body>
+    </text>
 </TEI>

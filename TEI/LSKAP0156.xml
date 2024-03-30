@@ -1,261 +1,347 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="yes">Bomeisler, Evelyn</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>LSKAP</repository>
-						<collection>The Arnold and Deanne Kaplan Collection of Early American Judaica</collection>
-						<idno>LSKAP0156</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="yes">Bomeisler, Evelyn</author>
-						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac</addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>Philadelphia, PA</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="" source="" attested="unk"></dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="LSKAP0156_1r.jpg"></graphic>
-								<graphic url="LSKAP0156_1v.jpg"></graphic>
-								<graphic url="LSKAP0156_2r.jpg"></graphic>
-								<graphic url="LSKAP0156_2v.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="true" paper_type="" size="">letter</material>
-								</support>
-								<extent>4 pages on 2 sheets
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="manuscript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="restricted">
-								<p>Restricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1R"/>
-				<p rend="align(center)"><add>&#63;</add></p>
-				<p rend="align(center)">The Eighth Anniversary Meeting of the Jewish Foster</p>
-				<p rend="align(center)">Home Society of <placeName>Philadelphia</placeName>.</p>
-				<p rend="align(center)">Report</p>
-			<p rend="indent(1)">Another circle of months is perfected since our<lb/> last anniversary&#44; and trusting to enlist your earnest<lb/> interest and reawaken your sympathies we present to<lb/> the friends and members of &#8220;The Jewish Foster Home Sy&#8221;&#44; the<lb/> Eighth Annual record of its progress&#44; condition and<lb/> requirements.  To relieve distress&#44; to rescue innocence<lb/> from temptation&#44; to inculcate upon the minds of those<lb/> committed to our charge a knowledge of our holy<lb/> faith&#44; and in so doing foster in their hearts a love and<lb/> veneration for its sacred teachings &#38; obligations and<lb/> prepare them for all moral and social responsibilities<lb/> that may await them&#44; are the objects and aim of the<lb/> Institution&#44;&#8212;considerations that appeal equally to our<lb/> pride and principles&#44; and constitute the superstructure<lb/> that can be perfected only by the combined efforts<lb/> and influence of our people in giving aid&#44; strength<lb/> and substantial permanency to its foundation&#8212;<lb/> as unity is the watch&#45;word of our nation&#44; so should<lb/> unanimity be the main spring of our associated<lb/> charities.  A noble bridge spanning one of the<lb/> beautiful rivers of our own state becomes more secure<lb/> more stable in proportion to the pressure brought<lb/> to bear upon it&#8212;beautiful would be our record<lb/> if in our emergencies our friends would willingly so</p>
-			<pb n="1V"/>
-				<p>exert their energies and capabilities that we might<lb/> feel the assurance of a firmer more enduring<lb/> establishment.  The increased rates of provisions &#38;c<lb/> tell seriously &#38; ominously upon our means&#8212;the<lb/> detailed account of the Treasurer will give the financial<lb/> state of the Society&#8212;we have been obliged to dispose<lb/> of <add>&#63;</add> stock&#44; which was effected</p>
-			<p rend="indent(1)">Our receipts inclusive of donations and subscriptions<lb/> <add>&#38; a balance of last year of 361.19</add> amount to &#36;<del>2260.64</del>2499.45&#44; the expenditures of the Society to #2460.64<lb/> balance 245.29 Owing to the unfortunate state of our Country&#44;<lb/> the subscription from our Southern friends is very limited&#8212;<lb/> To our Triennial Subscribers we return our cordial<lb/> thanks&#8212;&#44; their obligations expire with this year&#44;&#8212;<lb/> it has been suggested that in view of our present<lb/> need&#44; many would be induced to continue their<lb/> subscriptions for a renewed limited period&#8212;we<lb/> respectfully present the matter for your consideration.</p>
-			<p rend="indent(1)">Since our last meeting children have been admitted<lb/> into the Home&#8212;three have been removed their parents being<lb/> enabled to maintain them&#44; &#8212;one has been indentured to a<lb/> trade&#8212;Another has been called from our band under<lb/> sad circumstances&#8212;from the midst of the youthful<lb/> family of the &#39;Home&#39;&#44; a bright little boy of nine years of<lb/> age was summoned to his Heavenly home&#8212;he died<lb/> suddenly from internal injuries received from a fall&#44;<lb/> while on his way to school&#44; and notwithstanding<lb/> the most careful attendance of the physician and</p>
-			<pb n="2R"/>
-				<p>the motherly kindness of the matron&#44; his case proved<lb/> beyond the reach of all human skill&#8212;His <add>The</add> funeral<lb/> arrangements were conducted by his relatives and members<lb/> of the <del>Board</del> Home&#44;&#8212;the <persName>Rev. S. Morais</persName> addressed the children<lb/> impressively on the occasion&#44; when with the usual last<lb/> rites&#44; his remains were interred in the <placeName>Federal St</placeName><lb/> cemetery&#44;&#8212;the lot was presented by the Congregation Mickve<lb/> Israel.  Since our organization five boys have<lb/> attained their religious majority&#44; which in each case<lb/> has been solemnized in synagogue and joyfully<lb/> celebrated at the Home&#8212;it has been the privilege of the<lb/> young Bar&#45;mitzvah to invite all his seniors who may<lb/> have left the Institution to enter upon life&#39;s duties&#44; to<lb/> celebrate the day with him at the Home&#8212;the affectionate<lb/> intimacy existing between those whose paths are now<lb/> cast in separate places&#44; which these re&#45;unions tend<lb/> to strengthen&#44; will we hope be life&#45;long and useful<lb/> in its consequences.&#42;  All accounts of the boys who<lb/> have been indentured are entirely satisfactory&#8212;the<lb/> eldest now in his 18th year&#44; appropriates a regular<lb/> monthly allowance to his mother&#8212;his term of apprenticeship<lb/> expired some time since&#44; but he still remains with<lb/> his employer from whom he receives the kindest<lb/> paternal care.  Two boys yet remain in the Institution<lb/> who are of a suitable age to be placed to a trade&#44; as<lb/> soon as an eligible situation can be secured for<lb/> them.  We are happy here to express our warm</p>
-			<pb n="2V"/>
-				<p>appreciation of the ability and fidelity of the matron<lb/> she exerts a most <sic>happyfying</sic> influence upon the<lb/> children so intimately dependent upon her.</p>
-			<p rend="indent(1)">We regret having been obliged to dispense with the<lb/> useful services of <persName>Mrs. M. Dormitzer</persName> as a manager of the<lb/> Society&#8212;&#44; the Board cordially unite in an expression<lb/> of kind wishes for her perfect restoration to health.</p>
-			<p rend="indent(1)">A legacy of &#36;50 has been bequested to the Society from<lb/> the benevolence of <persName>Mrs. B. Spanier</persName>&#44; deceased.  Twenty dollars<lb/> were realized by the disposal of a tasteful ornamental<lb/> sofa&#45;cushion&#44; presented by <persName>Mrs. J. L. Filerance</persName>.</p>
-			<p rend="indent(1)">To <persName>Dr. A.C. Bournonville</persName> we would express our reserved<lb/> obligations&#8212;he is unwearying in his attention&#44; and<lb/> unremitting in his kindness.  From the German Ladies<lb/> Sewing Society we received a handsome donation of<lb/> clothing&#8212;we are extremely indebted for their contributions<lb/> during this and the preceding year.  We would also<lb/> make acknowledgments to <persName>Dr. D. Roberts</persName>&#44; Dental Surgeon&#44; to the<lb/> Hebrew Education Sy&#44; and to all friends from whom we have<lb/> received gifts or services.  To <persName>Mr Alfred A. Allen</persName>&#44; Conveyances&#44; we<lb/> are indebted for gratuitous services and disinterested<lb/> exertions<add>&#63;</add> in behalf of the Home.</p>
-			<p rend="indent(1)">We earnestly ask the protection of the Most High<lb/> trusting that <sic>that</sic> His kind Providence may shield<lb/> &#38; bless us now &#38; evermore.</p>
-			<p rend="indent(5)">&#8212;<persName role="author">Evelyn Bomeisler</persName></p>
-			<p rend="indent(6)">Sec.</p>
-				<p>&#42; For instruction &#38; preparation of <add>two of</add> the boys<lb/> for the reading of their Bar Mitzvah portions&#44; we<lb/> are deeply indebted to <persName>Miss S. C. Peixotta</persName>&#44; who kindly<lb/> and opportunely volunteered her efficient services.</p>
-		</body>
-	</text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="yes">Bomeisler, Evelyn</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>LSKAP</repository>
+                        <collection>The Arnold and Deanne Kaplan Collection of Early American
+                            Judaica</collection>
+                        <idno>LSKAP0156</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="yes">Bomeisler,
+                            Evelyn</author>
+                        <addressee accepted="yes" attested="yes" editor="false">Leeser,
+                            Isaac</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="unk" source="" when=""/>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="LSKAP0156_1r.jpg"/>
+                                <graphic url="LSKAP0156_1v.jpg"/>
+                                <graphic url="LSKAP0156_2r.jpg"/>
+                                <graphic url="LSKAP0156_2v.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="true" paper_type="" size=""
+                                        >letter</material>
+                                </support>
+                                <extent>4 pages on 2 sheets <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="restricted">
+                                <p>Restricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1R"/>
+            <p rend="align(center)">
+                <add>?</add>
+            </p>
+            <p rend="align(center)">The Eighth Anniversary Meeting of the Jewish Foster</p>
+            <p rend="align(center)">Home Society of <placeName>Philadelphia</placeName>.</p>
+            <p rend="align(center)">Report</p>
+            <p rend="indent(1)">Another circle of months is perfected since our<lb/> last
+                anniversary, and trusting to enlist your earnest<lb/> interest and reawaken your
+                sympathies we present to<lb/> the friends and members of “The Jewish Foster Home
+                Sy”, the<lb/> Eighth Annual record of its progress, condition and<lb/> requirements.
+                To relieve distress, to rescue innocence<lb/> from temptation, to inculcate upon the
+                minds of those<lb/> committed to our charge a knowledge of our holy<lb/> faith, and
+                in so doing foster in their hearts a love and<lb/> veneration for its sacred
+                teachings &amp; obligations and<lb/> prepare them for all moral and social
+                responsibilities<lb/> that may await them, are the objects and aim of the<lb/>
+                Institution,—considerations that appeal equally to our<lb/> pride and principles,
+                and constitute the superstructure<lb/> that can be perfected only by the combined
+                efforts<lb/> and influence of our people in giving aid, strength<lb/> and
+                substantial permanency to its foundation—<lb/> as unity is the watch-word of our
+                nation, so should<lb/> unanimity be the main spring of our associated<lb/>
+                charities. A noble bridge spanning one of the<lb/> beautiful rivers of our own state
+                becomes more secure<lb/> more stable in proportion to the pressure brought<lb/> to
+                bear upon it—beautiful would be our record<lb/> if in our emergencies our friends
+                would willingly so</p>
+            <pb n="1V"/>
+            <p>exert their energies and capabilities that we might<lb/> feel the assurance of a
+                firmer more enduring<lb/> establishment. The increased rates of provisions
+                &amp;c<lb/> tell seriously &amp; ominously upon our means—the<lb/> detailed account
+                of the Treasurer will give the financial<lb/> state of the Society—we have been
+                obliged to dispose<lb/> of <add>?</add> stock, which was effected</p>
+            <p rend="indent(1)">Our receipts inclusive of donations and subscriptions<lb/>
+                <add>&amp; a balance of last year of 361.19</add> amount to
+                $<del>2260.64</del>2499.45, the expenditures of the Society to #2460.64<lb/> balance
+                245.29 Owing to the unfortunate state of our Country,<lb/> the subscription from our
+                Southern friends is very limited—<lb/> To our Triennial Subscribers we return our
+                cordial<lb/> thanks—, their obligations expire with this year,—<lb/> it has been
+                suggested that in view of our present<lb/> need, many would be induced to continue
+                their<lb/> subscriptions for a renewed limited period—we<lb/> respectfully present
+                the matter for your consideration.</p>
+            <p rend="indent(1)">Since our last meeting children have been admitted<lb/> into the
+                Home—three have been removed their parents being<lb/> enabled to maintain them, —one
+                has been indentured to a<lb/> trade—Another has been called from our band under<lb/>
+                sad circumstances—from the midst of the youthful<lb/> family of the 'Home', a bright
+                little boy of nine years of<lb/> age was summoned to his Heavenly home—he died<lb/>
+                suddenly from internal injuries received from a fall,<lb/> while on his way to
+                school, and notwithstanding<lb/> the most careful attendance of the physician
+                and</p>
+            <pb n="2R"/>
+            <p>the motherly kindness of the matron, his case proved<lb/> beyond the reach of all
+                human skill—His <add>The</add> funeral<lb/> arrangements were conducted by his
+                relatives and members<lb/> of the <del>Board</del> Home,—the <persName>Rev. S.
+                    Morais</persName> addressed the children<lb/> impressively on the occasion, when
+                with the usual last<lb/> rites, his remains were interred in the <placeName>Federal
+                    St</placeName><lb/> cemetery,—the lot was presented by the Congregation
+                Mickve<lb/> Israel. Since our organization five boys have<lb/> attained their
+                religious majority, which in each case<lb/> has been solemnized in synagogue and
+                joyfully<lb/> celebrated at the Home—it has been the privilege of the<lb/> young
+                Bar-mitzvah to invite all his seniors who may<lb/> have left the Institution to
+                enter upon life's duties, to<lb/> celebrate the day with him at the Home—the
+                affectionate<lb/> intimacy existing between those whose paths are now<lb/> cast in
+                separate places, which these re-unions tend<lb/> to strengthen, will we hope be
+                life-long and useful<lb/> in its consequences.* All accounts of the boys who<lb/>
+                have been indentured are entirely satisfactory—the<lb/> eldest now in his 18th year,
+                appropriates a regular<lb/> monthly allowance to his mother—his term of
+                apprenticeship<lb/> expired some time since, but he still remains with<lb/> his
+                employer from whom he receives the kindest<lb/> paternal care. Two boys yet remain
+                in the Institution<lb/> who are of a suitable age to be placed to a trade, as<lb/>
+                soon as an eligible situation can be secured for<lb/> them. We are happy here to
+                express our warm</p>
+            <pb n="2V"/>
+            <p>appreciation of the ability and fidelity of the matron<lb/> she exerts a most
+                    <sic>happyfying</sic> influence upon the<lb/> children so intimately dependent
+                upon her.</p>
+            <p rend="indent(1)">We regret having been obliged to dispense with the<lb/> useful
+                services of <persName>Mrs. M. Dormitzer</persName> as a manager of the<lb/>
+                Society—, the Board cordially unite in an expression<lb/> of kind wishes for her
+                perfect restoration to health.</p>
+            <p rend="indent(1)">A legacy of $50 has been bequested to the Society from<lb/> the
+                benevolence of <persName>Mrs. B. Spanier</persName>, deceased. Twenty dollars<lb/>
+                were realized by the disposal of a tasteful ornamental<lb/> sofa-cushion, presented
+                by <persName>Mrs. J. L. Filerance</persName>.</p>
+            <p rend="indent(1)">To <persName>Dr. A.C. Bournonville</persName> we would express our
+                reserved<lb/> obligations—he is unwearying in his attention, and<lb/> unremitting in
+                his kindness. From the German Ladies<lb/> Sewing Society we received a handsome
+                donation of<lb/> clothing—we are extremely indebted for their contributions<lb/>
+                during this and the preceding year. We would also<lb/> make acknowledgments to
+                    <persName>Dr. D. Roberts</persName>, Dental Surgeon, to the<lb/> Hebrew
+                Education Sy, and to all friends from whom we have<lb/> received gifts or services.
+                To <persName>Mr Alfred A. Allen</persName>, Conveyances, we<lb/> are indebted for
+                gratuitous services and disinterested<lb/> exertions<add>?</add> in behalf of the
+                Home.</p>
+            <p rend="indent(1)">We earnestly ask the protection of the Most High<lb/> trusting that
+                    <sic>that</sic> His kind Providence may shield<lb/> &amp; bless us now &amp;
+                evermore.</p>
+            <p rend="indent(5)">—<persName role="author">Evelyn Bomeisler</persName></p>
+            <p rend="indent(6)">Sec.</p>
+            <p>* For instruction &amp; preparation of <add>two of</add> the boys<lb/> for the
+                reading of their Bar Mitzvah portions, we<lb/> are deeply indebted to <persName>Miss
+                    S. C. Peixotta</persName>, who kindly<lb/> and opportunely volunteered her
+                efficient services.</p>
+        </body>
+    </text>
 </TEI>

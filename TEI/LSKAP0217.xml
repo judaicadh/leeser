@@ -1,262 +1,343 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="yes">Ezekiel, Jacob</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>LSKAP</repository>
-						<collection>The Arnold and Deanne Kaplan Collection of Early American Judaica</collection>
-						<idno>LSKAP0217</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="yes">Ezekiel, Jacob</author>
-						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac</addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>Richmond, VA</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1866-08" source="" attested="yes">Aug 27, 1866</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="LSKAP0217_1r.jpg"></graphic>
-								<graphic url="LSKAP0217_1v.jpg"></graphic>
-								<graphic url="LSKAP0217_2r.jpg"></graphic>
-								<graphic url="LSKAP0217_2v.jpg"></graphic>
-								<graphic url="LSKAP0217_3r.jpg"></graphic>
-								<graphic url="LSKAP0217_3v.jpg"></graphic>
-								<graphic url="LSKAP0217_4r.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="true" paper_type="" size="">letter</material>
-								</support>
-								<extent>8 pages on 4 sheets
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="manuscript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="restricted">
-								<p>Restricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1R"/>
-				<p rend="align(right)"><placeName>Richmond</placeName> <date>Aug 27&#44; 1866</date></p>
-				<p><addressee>Revd Isaac Leeser</addressee>&#44;</p>
-				<p rend="indent(2)">My Valued Friend&#33;</p>
-			<p rend="indent(4)">You must excuse<lb/> my remissness in not replying to<lb/> your kind favour received<lb/> some time since containing a<lb/> circular for the publication<lb/> of your works &#38;c now my<lb/> dear friend I am under the<lb/> opinion if you should propose<lb/> to publish <hi rend="underline">your own productions</hi><lb/> separately&#44; and issue a circu<lb/>lar for that specific purpose<lb/> you might succeed in obtaining<lb/> a large bit of subscribers&#44; I<lb/> feel there are many persons<lb/> who would like to benefit you<lb/> in some becoming manner<lb/> and would subscribe <sic>liberaly</sic></p>
-			<pb n="1V"/>
-				<p>for copies of your own produc&#45;<lb/>tions and lay accompanied<lb/> with a Sketch of your life and<lb/> your portrait to embellish the<lb/> first volume&#44; and fix the work<lb/> at a definite price&#44; so that<lb/> you might be well renumerated<add>&#63;</add>&#44;<lb/> and the other works you propose<lb/> to publish issue a separate<lb/> circular for&#44; I will try and<lb/> do the best I can for you.  I<lb/> should suppose Four Octavo<lb/> volumes 500 pages each large<lb/> margins and stout paper<lb/> would be capable if contain&#45;<lb/>ing all you desire&#44; and print<lb/> a page or two on the prospectus<lb/> as a specimen of the work&#44;<lb/> then put in the hands of one or<lb/> two persons in each city&#44; I can<lb/> see no reason why a edition<lb/> of at least 1000 copies could<lb/> not be sold&#44; I will do all I can</p>
-			<pb n="2R"/>
-				<p>for it.  I am under many obliga&#45;<lb/>tions to you for the prompt and ef&#45;<lb/>ficient manner you executed my<lb/> order with the bibles I ordered for<lb/> <persName>Sarah</persName> &#38; <persName>Leonora</persName>&#44; they were high&#45;<lb/>ly pleased with them&#44; and considered<lb/> it a well timed present to each&#44;<lb/> when you write&#44; please let me<lb/> know the <add>&#63;</add> I will re&#45;<lb/>mit you the amount.</p>
-			<p rend="indent(1)">Now for our congregation affairs&#44;<lb/> I enclose you two circulars I<lb/> had struck off&#44; I suppose you are<lb/> aware that <persName>Mr Jacobs</persName> has receivd<lb/> an offer from the congregation<lb/> at <placeName>Savannah</placeName> of &#36;4200 to read<lb/> Lecture and Teach besides per&#45;<lb/><sic>quisites</sic> he does not desire to<lb/> leave here if we can raise a<lb/> reasonable amount for him&#44; he<lb/> does not expect <del>any</del> near the<lb/> amount here&#44; say if we can<lb/> raise about &#36;2000 to &#36;2500</p>
-			<pb n="2V"/>
-				<p>we had a meeting on <date><sic>Teusday</sic><lb/> last 21h</date> rather thinly attended<lb/> there was about 1000 dollars<lb/> subscribed.  <persName>Mr G. A. Myer</persName> was pres&#45;<lb/>ent and presided all worked very<lb/> harmoniously.  I have not the<lb/> least doubt the congregation<lb/> of <placeName>Richmond</placeName> will soon be con&#45;<lb/>centrated into two&#44; one Portu&#45;<lb/>guese and the other German<lb/> as I contemplated in the circu&#45;<lb/>lar&#44; the Polish congregations are<lb/> &#8220;played out&#8221; and the new Ger&#45;<lb/>man congregation will not be<lb/> able to sustain themselves I<lb/> understand&#44; most of those two<lb/> elements will join us&#44; and no<lb/> doubt those <sic>to</sic> wedded to the<lb/> German minhag will join <persName>Mr<lb/> Michelbach&#232;l&#39;s</persName> congregation&#44; I<lb/> do not now desire <hi rend="underline">only one</hi><lb/> congregation here I think <hi rend="underline">two</hi><lb/> will be better than there need</p>
-			<pb n="3R"/>
-				<p>be no concenious<add>&#63;</add> in regard<lb/> to minhag which might prove<lb/> very disastrous to us.  I think<lb/> we will have a large meeting<lb/> tomorrow night&#44; leading mem&#45;<lb/>bers of the Polish cong. told me to<lb/>day that they will join us&#44; I<lb/> understood that some desire to<lb/> join us if we will declare them<lb/> members instante with all the<lb/> rights and Privileges&#44; they must<lb/> certainly think we are &#8220;Green&#8221;<lb/> as they out number us 3 to 1 or<lb/> more&#44; and it would not take very<lb/> long ere they would oust us and<lb/> orange the whole system of loor&#45;<lb/>ship&#44; and we would be nowhere&#44;<lb/> <sic>I</sic> they wish to join us they can<lb/> do so voluntarily and fall<lb/> into our lives <hi rend="underline">as we are</hi> and the<lb/> next year if we give them the<lb/> right of membership we can do<lb/> so.  My idea is for to do away</p>
-			<pb n="3V"/>
-				<p>entirely with the <hi rend="underline">election</hi> for mem<lb/>bers and after they have been a<lb/> contributor for twelve months to<lb/> declare the members provided<lb/> they sign such conditions as we<lb/> think proper to prescribe to as to<lb/> guard against any difficulty<lb/> to have no congregation meeting<lb/> except for the Election of Hazan<lb/> for the contributing members to<lb/> elect on any given day <hi rend="underline">nine</hi><lb/> <hi rend="underline">trustees</hi>&#44; a poll to be opened for<lb/> that purpose with proper inspec&#45;<lb/>tors &#38; to be arranged in <add>&#63;</add><lb/> to serve three years so that an<lb/> election would be <add>held</add> every <del>three</del><lb/> year<del>s</del> for three trustees&#44; the<lb/> trustees to arrange the whole af<lb/>fair of the congregation&#44; to Elect<lb/> from among their number a<lb/> Parnass&#44; <add>&#63;</add> secretary also<lb/> to elect Hattanim &#38; Sharua<add>&#63;</add> to<lb/> fix all salaries for the officers</p>
-			<pb n="4R"/>
-				<p>&#38;c &#38;c&#44; I want to arrange not<lb/> to have any <hi rend="underline">congregational mee&#45;</hi><lb/><hi rend="underline">tings</hi> they always break up in<lb/> displeasure&#44; from the fact&#44; we<lb/> have no one here to manage<lb/> one properly&#44; I want to arrange<lb/> if I can a system of liberality<lb/> and equality to all contributors<lb/> and have things to work har&#45;<lb/>moniously if I can&#44; I should<lb/> like a good looking plan of<lb/> your suggestions to carry out<lb/> my views&#44; there was one feature<lb/> you spoke of when here&#44; that was<lb/> a compact to be signed by all<lb/> who desired to be members&#44; that<lb/> the minhag should not be altered<lb/> &#38;c &#38;c has been impressed in my<lb/> mind as a good article.</p>
-			<p rend="indent(1)">Hoping this may meet you in<lb/> the enjoyment of good health&#44;<lb/> and may the almighty grant<lb/> you length of days in the fervent<lb/> wish of your friend&#8212;<hi rend="underline"><persName role="author">Jacob Ezekiel</persName></hi></p>
-		</body>
-	</text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="yes">Ezekiel, Jacob</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>LSKAP</repository>
+                        <collection>The Arnold and Deanne Kaplan Collection of Early American
+                            Judaica</collection>
+                        <idno>LSKAP0217</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="yes">Ezekiel,
+                            Jacob</author>
+                        <addressee accepted="yes" attested="yes" editor="false">Leeser,
+                            Isaac</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Richmond, VA</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1866-08">Aug 27, 1866</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="LSKAP0217_1r.jpg"/>
+                                <graphic url="LSKAP0217_1v.jpg"/>
+                                <graphic url="LSKAP0217_2r.jpg"/>
+                                <graphic url="LSKAP0217_2v.jpg"/>
+                                <graphic url="LSKAP0217_3r.jpg"/>
+                                <graphic url="LSKAP0217_3v.jpg"/>
+                                <graphic url="LSKAP0217_4r.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="true" paper_type="" size=""
+                                        >letter</material>
+                                </support>
+                                <extent>8 pages on 4 sheets <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="restricted">
+                                <p>Restricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1R"/>
+            <p rend="align(right)">
+                <placeName>Richmond</placeName>
+                <date>Aug 27, 1866</date>
+            </p>
+            <p><addressee>Revd Isaac Leeser</addressee>,</p>
+            <p rend="indent(2)">My Valued Friend!</p>
+            <p rend="indent(4)">You must excuse<lb/> my remissness in not replying to<lb/> your kind
+                favour received<lb/> some time since containing a<lb/> circular for the
+                publication<lb/> of your works &amp;c now my<lb/> dear friend I am under the<lb/>
+                opinion if you should propose<lb/> to publish <hi rend="underline">your own
+                    productions</hi><lb/> separately, and issue a circu<lb/>lar for that specific
+                purpose<lb/> you might succeed in obtaining<lb/> a large bit of subscribers, I<lb/>
+                feel there are many persons<lb/> who would like to benefit you<lb/> in some becoming
+                manner<lb/> and would subscribe <sic>liberaly</sic></p>
+            <pb n="1V"/>
+            <p>for copies of your own produc-<lb/>tions and lay accompanied<lb/> with a Sketch of
+                your life and<lb/> your portrait to embellish the<lb/> first volume, and fix the
+                work<lb/> at a definite price, so that<lb/> you might be well
+                    renumerated<add>?</add>,<lb/> and the other works you propose<lb/> to publish
+                issue a separate<lb/> circular for, I will try and<lb/> do the best I can for you.
+                I<lb/> should suppose Four Octavo<lb/> volumes 500 pages each large<lb/> margins and
+                stout paper<lb/> would be capable if contain-<lb/>ing all you desire, and print<lb/>
+                a page or two on the prospectus<lb/> as a specimen of the work,<lb/> then put in the
+                hands of one or<lb/> two persons in each city, I can<lb/> see no reason why a
+                edition<lb/> of at least 1000 copies could<lb/> not be sold, I will do all I can</p>
+            <pb n="2R"/>
+            <p>for it. I am under many obliga-<lb/>tions to you for the prompt and ef-<lb/>ficient
+                manner you executed my<lb/> order with the bibles I ordered for<lb/>
+                <persName>Sarah</persName> &amp; <persName>Leonora</persName>, they were
+                high-<lb/>ly pleased with them, and considered<lb/> it a well timed present to
+                each,<lb/> when you write, please let me<lb/> know the <add>?</add> I will
+                re-<lb/>mit you the amount.</p>
+            <p rend="indent(1)">Now for our congregation affairs,<lb/> I enclose you two circulars
+                I<lb/> had struck off, I suppose you are<lb/> aware that <persName>Mr
+                    Jacobs</persName> has receivd<lb/> an offer from the congregation<lb/> at
+                    <placeName>Savannah</placeName> of $4200 to read<lb/> Lecture and Teach besides
+                    per-<lb/><sic>quisites</sic> he does not desire to<lb/> leave here if we can
+                raise a<lb/> reasonable amount for him, he<lb/> does not expect <del>any</del> near
+                the<lb/> amount here, say if we can<lb/> raise about $2000 to $2500</p>
+            <pb n="2V"/>
+            <p>we had a meeting on <date><sic>Teusday</sic><lb/> last 21h</date> rather thinly
+                attended<lb/> there was about 1000 dollars<lb/> subscribed. <persName>Mr G. A.
+                    Myer</persName> was pres-<lb/>ent and presided all worked very<lb/>
+                harmoniously. I have not the<lb/> least doubt the congregation<lb/> of
+                    <placeName>Richmond</placeName> will soon be con-<lb/>centrated into two, one
+                Portu-<lb/>guese and the other German<lb/> as I contemplated in the circu-<lb/>lar,
+                the Polish congregations are<lb/> “played out” and the new Ger-<lb/>man congregation
+                will not be<lb/> able to sustain themselves I<lb/> understand, most of those
+                two<lb/> elements will join us, and no<lb/> doubt those <sic>to</sic> wedded to
+                the<lb/> German minhag will join <persName>Mr<lb/> Michelbachèl's</persName>
+                congregation, I<lb/> do not now desire <hi rend="underline">only one</hi><lb/>
+                congregation here I think <hi rend="underline">two</hi><lb/> will be better than
+                there need</p>
+            <pb n="3R"/>
+            <p>be no concenious<add>?</add> in regard<lb/> to minhag which might prove<lb/> very
+                disastrous to us. I think<lb/> we will have a large meeting<lb/> tomorrow night,
+                leading mem-<lb/>bers of the Polish cong. told me to<lb/>day that they will join us,
+                I<lb/> understood that some desire to<lb/> join us if we will declare them<lb/>
+                members instante with all the<lb/> rights and Privileges, they must<lb/> certainly
+                think we are “Green”<lb/> as they out number us 3 to 1 or<lb/> more, and it would
+                not take very<lb/> long ere they would oust us and<lb/> orange the whole system of
+                loor-<lb/>ship, and we would be nowhere,<lb/>
+                <sic>I</sic> they wish to join us they can<lb/> do so voluntarily and fall<lb/> into
+                our lives <hi rend="underline">as we are</hi> and the<lb/> next year if we give them
+                the<lb/> right of membership we can do<lb/> so. My idea is for to do away</p>
+            <pb n="3V"/>
+            <p>entirely with the <hi rend="underline">election</hi> for mem<lb/>bers and after they
+                have been a<lb/> contributor for twelve months to<lb/> declare the members
+                provided<lb/> they sign such conditions as we<lb/> think proper to prescribe to as
+                to<lb/> guard against any difficulty<lb/> to have no congregation meeting<lb/>
+                except for the Election of Hazan<lb/> for the contributing members to<lb/> elect on
+                any given day <hi rend="underline">nine</hi><lb/>
+                <hi rend="underline">trustees</hi>, a poll to be opened for<lb/> that purpose with
+                proper inspec-<lb/>tors &amp; to be arranged in <add>?</add><lb/> to serve three
+                years so that an<lb/> election would be <add>held</add> every <del>three</del><lb/>
+                    year<del>s</del> for three trustees, the<lb/> trustees to arrange the whole
+                af<lb/>fair of the congregation, to Elect<lb/> from among their number a<lb/>
+                Parnass, <add>?</add> secretary also<lb/> to elect Hattanim &amp; Sharua<add>?</add>
+                to<lb/> fix all salaries for the officers</p>
+            <pb n="4R"/>
+            <p>&amp;c &amp;c, I want to arrange not<lb/> to have any <hi rend="underline"
+                    >congregational mee-</hi><lb/><hi rend="underline">tings</hi> they always break
+                up in<lb/> displeasure, from the fact, we<lb/> have no one here to manage<lb/> one
+                properly, I want to arrange<lb/> if I can a system of liberality<lb/> and equality
+                to all contributors<lb/> and have things to work har-<lb/>moniously if I can, I
+                should<lb/> like a good looking plan of<lb/> your suggestions to carry out<lb/> my
+                views, there was one feature<lb/> you spoke of when here, that was<lb/> a compact to
+                be signed by all<lb/> who desired to be members, that<lb/> the minhag should not be
+                altered<lb/> &amp;c &amp;c has been impressed in my<lb/> mind as a good article.</p>
+            <p rend="indent(1)">Hoping this may meet you in<lb/> the enjoyment of good health,<lb/>
+                and may the almighty grant<lb/> you length of days in the fervent<lb/> wish of your
+                    friend—<hi rend="underline"><persName role="author">Jacob
+                    Ezekiel</persName></hi></p>
+        </body>
+    </text>
 </TEI>

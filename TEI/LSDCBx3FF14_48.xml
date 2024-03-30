@@ -1,242 +1,297 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="unk"></author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>CAJS Isaac Leeser Collection</repository>
-						<collection>The Library of the Dropsie College for Hebrew and Cognate Learning</collection>
-						<idno>LSDCBx3FF14_48</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="unk"></author>
-						<addressee editor="false" attested="yes" accepted="yes"></addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet></placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="" source="" attested="unk"></dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="ilcajs_b3f14_wk1_body0084.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="false" paper_type="" size="Letter">letter</material>
-								</support>
-								<extent>1 page on 1 sheet
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false">Fragile</condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="manuscript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="free">
-								<p>Unrestricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-				<p><add>&#63;</add> Synagogue beautiful building having a pretty <add>&#63;</add>ortico and<lb/> <add>&#63;</add> arrangement within&#59; only<add>&#63;</add> we regretted to observe that the work had not<lb/> <add>&#63;</add> will <add>&#63;</add> and will require repairs before long&#59; there is much to be lamented as<lb/> we <add>&#63;</add> have made real efforts to erect a structure worthy of themselves<lb/> if we understood correctly our <add>&#63;</add> about four thousand <hi rend="underline">Dollars</hi> per cent of<lb/> <add>&#63;</add> thousand Dollars&#44; the whole of which&#44; if <add>&#63;</add> not&#44; has been contributed<lb/> <add>&#63;</add> <add>&#63;</add>selors&#44; with perhaps the exceptions of <sic>personall</sic> donations from elsewhere.<lb/>  <add>&#63;</add> think that there are about one hundred &#38; twenty members&#59; but the day<lb/> <add>&#63;</add> were there&#44; the number present exceeded this greatly in the men&#39;s department.<lb/>  in<add>&#63;</add> the ladies galley was also well filled.  If the seats could be greatly<lb/> <add>&#63;</add>quested&#44; which would have been soon required&#44; had the persons favouring the Polish<lb/> minhag which differs exceedingly little from the German&#44; to which the AI<add>&#63;</add> at the Israel Kabal<lb/> <add>&#63;</add>&#44;  not separated lately to form occupation of their own&#59; but it gives us<lb/> <add>&#63;</add> to ask<add>&#63;</add> <persName>Mr Rev B. H. Gotthelf</persName> assisted in consenting<add>&#63;</add> the Half which<lb/> <add>&#63;</add> occupy as a temporary place of worship&#44; thus showing that the separation<lb/> has not led to estrangement and <add>&#63;</add> will among the people.  The dedication took place<lb/> the <date>21st of November</date>&#44; and we have been favored with the <persName>Gotthelfs</persName> address which<lb/> delivered on the occasion.</p>
-			<p rend="indent(1)"><hi rend="underline">Address of the <persName>Rev. B. H. Gotthelf</persName> at the dedication of<lb/> the new Synagogue at <placeName>Louisville</placeName>&#44; on <date>Friday the 21st of November</date></hi></p>
-			<p rend="indent(1)">Copy the address in long primer and quite <add>&#63;</add> with<lb/> Having been invited first by the <add>Hebrew</add> congregation we were precluded by the<lb/> shortness of our stay to speak in the new Synagogue&#59; and indeed had we <add>&#63;</add><lb/> with all the <add>&#63;</add> to address the people we <add>&#63;</add> would have been broken<lb/> much be <add>&#63;</add> what it was&#44; although we were away for much longer than we calculated<lb/> on at our first.  <add>&#63;</add> We were pleased to observe that <persName>Mr Gotthelf</persName> <add>&#63;</add><lb/> <add>&#63;</add> of his constituents&#44; and we still hope that he may have an opportunity<lb/> of effecting much good&#59; A school for religious education is much wanted at <placeName>Louisville</placeName><lb/> and no doubt that due efforts will be made to <add>&#63;</add> try to establish one on a<lb/> permanent footing.</p>
-			<p rend="indent(1)"><hi rend="underline"><placeName>Lafayette Louisiana</placeName></hi>.  The following gentlemen are the officers of the new congregation<lb/> <persName>S. Kuhn</persName>&#44; President&#59; <persName>H Frank</persName> Vice President&#59; <persName>M Amburg</persName>&#44; Treasurer&#59; <add>&#63;</add><lb/> Secretary&#59; <persName>M. Kuhn</persName>&#44; <persName>E B Shoenfeld</persName> and <persName>Fisher</persName>&#44; Trustees&#59; and <persName>Rev. Jacob<lb/> Goodman</persName> Hazan.</p>
-			<p rend="indent(1)"><hi rend="underline"><placeName>Fort Wayne Indiana</placeName></hi> We have obtained the following names as the officers of the<lb/> Jewish community of this place&#58; <persName>Isaac Laufferty</persName> President&#45;<persName>Isaac Wolff</persName><lb/> Treasurer&#44; <persName>Jacob Weil</persName>&#44; Secretary&#59; &#38; <persName>Rev Jos. Solomons</persName>&#44; Hazan.</p>
-		</body>
-	</text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="unk"/>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS Isaac Leeser Collection</repository>
+                        <collection>The Library of the Dropsie College for Hebrew and Cognate
+                            Learning</collection>
+                        <idno>LSDCBx3FF14_48</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="unk"/>
+                        <addressee accepted="yes" attested="yes" editor="false"/>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet/>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="unk" source="" when=""/>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="ilcajs_b3f14_wk1_body0084.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size="Letter"
+                                        >letter</material>
+                                </support>
+                                <extent>1 page on 1 sheet <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false">Fragile</condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><add>?</add> Synagogue beautiful building having a pretty <add>?</add>ortico and<lb/>
+                <add>?</add> arrangement within; only<add>?</add> we regretted to observe that the
+                work had not<lb/>
+                <add>?</add> will <add>?</add> and will require repairs before long; there is much
+                to be lamented as<lb/> we <add>?</add> have made real efforts to erect a structure
+                worthy of themselves<lb/> if we understood correctly our <add>?</add> about four
+                thousand <hi rend="underline">Dollars</hi> per cent of<lb/>
+                <add>?</add> thousand Dollars, the whole of which, if <add>?</add> not, has been contributed<lb/>
+                <add>?</add>
+                <add>?</add>selors, with perhaps the exceptions of <sic>personall</sic> donations
+                from elsewhere.<lb/>
+                <add>?</add> think that there are about one hundred &amp; twenty members; but the day<lb/>
+                <add>?</add> were there, the number present exceeded this greatly in the men's
+                department.<lb/> in<add>?</add> the ladies galley was also well filled. If the seats
+                could be greatly<lb/>
+                <add>?</add>quested, which would have been soon required, had the persons favouring
+                the Polish<lb/> minhag which differs exceedingly little from the German, to which
+                the AI<add>?</add> at the Israel Kabal<lb/>
+                <add>?</add>, not separated lately to form occupation of their own; but it gives us<lb/>
+                <add>?</add> to ask<add>?</add>
+                <persName>Mr Rev B. H. Gotthelf</persName> assisted in consenting<add>?</add> the
+                Half which<lb/>
+                <add>?</add> occupy as a temporary place of worship, thus showing that the
+                separation<lb/> has not led to estrangement and <add>?</add> will among the people.
+                The dedication took place<lb/> the <date>21st of November</date>, and we have been
+                favored with the <persName>Gotthelfs</persName> address which<lb/> delivered on the
+                occasion.</p>
+            <p rend="indent(1)">
+                <hi rend="underline">Address of the <persName>Rev. B. H. Gotthelf</persName> at the
+                    dedication of<lb/> the new Synagogue at <placeName>Louisville</placeName>, on
+                        <date>Friday the 21st of November</date></hi>
+            </p>
+            <p rend="indent(1)">Copy the address in long primer and quite <add>?</add> with<lb/>
+                Having been invited first by the <add>Hebrew</add> congregation we were precluded by
+                the<lb/> shortness of our stay to speak in the new Synagogue; and indeed had we
+                    <add>?</add><lb/> with all the <add>?</add> to address the people we
+                    <add>?</add> would have been broken<lb/> much be <add>?</add> what it was,
+                although we were away for much longer than we calculated<lb/> on at our first.
+                    <add>?</add> We were pleased to observe that <persName>Mr Gotthelf</persName>
+                <add>?</add><lb/>
+                <add>?</add> of his constituents, and we still hope that he may have an
+                opportunity<lb/> of effecting much good; A school for religious education is much
+                wanted at <placeName>Louisville</placeName><lb/> and no doubt that due efforts will
+                be made to <add>?</add> try to establish one on a<lb/> permanent footing.</p>
+            <p rend="indent(1)"><hi rend="underline"><placeName>Lafayette
+                Louisiana</placeName></hi>. The following gentlemen are the officers of the new congregation<lb/>
+                <persName>S. Kuhn</persName>, President; <persName>H Frank</persName> Vice
+                President; <persName>M Amburg</persName>, Treasurer; <add>?</add><lb/> Secretary;
+                    <persName>M. Kuhn</persName>, <persName>E B Shoenfeld</persName> and
+                    <persName>Fisher</persName>, Trustees; and <persName>Rev. Jacob<lb/>
+                    Goodman</persName> Hazan.</p>
+            <p rend="indent(1)"><hi rend="underline"><placeName>Fort Wayne Indiana</placeName></hi>
+                We have obtained the following names as the officers of the<lb/> Jewish community of
+                this place: <persName>Isaac Laufferty</persName> President-<persName>Isaac
+                    Wolff</persName><lb/> Treasurer, <persName>Jacob Weil</persName>, Secretary;
+                &amp; <persName>Rev Jos. Solomons</persName>, Hazan.</p>
+        </body>
+    </text>
 </TEI>

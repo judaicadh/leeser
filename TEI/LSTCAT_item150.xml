@@ -1,265 +1,394 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="yes">Nathan, M. N.</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>TCAT</repository>
-						<collection>Anonymous</collection>
-						<idno>LSTCAT_item150</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="yes">Nathan, M. N.</author>
-						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac</addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>Kingston, Jamaica</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1858-12" source="" attested="yes">20 December 1858</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="il_tcat_item150_wk1_body0001.jpg"></graphic>
-								<graphic url="il_tcat_item150_wk1_body0002.jpg"></graphic>
-								<graphic url="il_tcat_item150_wk1_body0003.jpg"></graphic>
-								<graphic url="il_tcat_item150_wk1_body0004.jpg"></graphic>
-								<graphic url="il_tcat_item150_wk1_body0005.jpg"></graphic>
-								<graphic url="il_tcat_item150_wk1_body0006.jpg"></graphic>
-								<graphic url="il_tcat_item150_wk1_body0007.jpg"></graphic>
-								<graphic url="il_tcat_item150_wk1_body0008.jpg"></graphic>
-								<graphic url="il_tcat_item150_wk1_body0009.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="false" paper_type="" size="">letter</material>
-								</support>
-								<extent>9 pages on 9 sheets
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="manuscript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="free">
-								<p>Unrestricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1"/>
-				<p rend="align(right)"><placeName>Kingston Jam</placeName>&#58; <date>20<hi rend="sup">th</hi>. Decr. 1858</date>.</p>
-				<p><addressee>Revd. Isaac Leeser</addressee></p>
-				<p rend="indent(1)">Dear Friend.</p>
-			<p rend="indent(2)">The Occidents for <date>October</date> have come<lb/> to hand&#44; but no letter from you.  By this time you will have<lb/> received my last p <persName>Abby Watson</persName> requesting you to obtain<lb/> 50 copies of my catechism from the Sunday School in your city.<lb/>  I have not a copy&#44; and none are to be had here.  I wish you<lb/> also to forward a couple dozen of <persName>Miss <sic>Peixottos</sic></persName> Book&#44; and about<lb/> 3 dozen <persName>Henry&#39;s</persName> Class Books&#44; of the Edition published in <placeName>America</placeName>.<lb/>  On consideration you need <hi rend="underline">not</hi> send <persName>Miss P&#39;s</persName> Books for <persName>Henry&#39;s</persName><lb/> will answer my purpose as well.  I require also about 1 dz<lb/> copies of <hi rend="underline"><persName>Cohen&#39;s</persName> Hebrew Grammar</hi> on the <hi rend="underline"><persName>Ellendorff<add>&#63;</add></persName> system</hi><lb/> which you will oblige me by procuring.  All these books I want<lb/> without delay&#44; and the money shall be remitted as soon as<lb/> they arrive.  On the <sic>inclosed</sic> tracing paper is the pattern of<lb/> the binding of a book&#44; side and back.  Send one of your daily<lb/> prayers &#40;<sic>portuguese</sic>&#41; similarly bound&#44; color red maroon approaching to<lb/> red morocco.  I had sold another copy of the Festival prayers<lb/> and if I get the money for them before an opportunity offers for forwarding<lb/> this&#44; the money <del>not</del> I have in hand &#40;&#36;60&#41; with that &#40;nearly &#36;20&#41;<lb/> will be sent by same via.  I have still on hand the 2 best bound<lb/> sets&#44; 91 Vol deft.&#41; and part of one set common sheep &#40;3 deft.&#41;.  If<lb/> your small Bibles were a dollar or &#36;1 &#189; each I could sell them<lb/> readily but 2 &#189; people decline to give.</p>
-			<p rend="indent(1)">Have you ever felt an Earthquake&#63;  For a quarter of a century</p>
-			<pb n="2"/>
-				<p>I have been familiar with them&#44; and their nature is such that&#44;<lb/> totally different from other dangers to which one gets accustomed<lb/> They excite and increase our fears the oftener their shock is felt.<lb/>  You become paralyzed&#44; your faculties are suspended&#44; the<lb/> will ceases to act on the voluntary parts of the body&#44; and tho&#39;<lb/> fully alive to the horrors of entombment&#44; whether in or out of<lb/> doors&#44; which threaten your life&#44; you are incapable of making<lb/> the effort to move from the spot.  To ejaculate a word or two<lb/> of prayer <del>and</del> in prospect of an immediate and awful death<lb/> which hundreds may share with you at the same moment is<lb/> all that your consciousness of the alarming extent of your peril<lb/> and the impossibility of escaping it&#44; permits you to do.  When<lb/> the earthquake is felt in the day time&#44; a rush from the house to<lb/> the street may be effected by some <del>one</del> whom fear does not render<lb/> incapable of moving.  At night however&#44; when enfolded in the bonds<lb/> of sleep&#44; you become suddenly awakened by the house shaking<lb/> and riding on its foundation&#44; the <sic>upheaved</sic> and undulating<lb/> earth on which it rests&#44; then can one realize in all its positive<lb/> meaning the <add>Hebrew</add> the Psalmist speaks of.  Not the bad dream<lb/> not the distressing night&#45;mare&#44; not the terrifying images which<lb/> a heated brain&#44; a sickly fancy&#44; or a superstitious mind<lb/> conjures up&#8212;but it is the awe of an instant dissolution&#44; a<lb/> stern summons to give up life in a few seconds which stops<lb/> the beating of the heart&#44; checks the current of the blood&#44; and<lb/> &#8220;<sic>distils</sic> you to jelly with the effect of fear.&#8221;</p>
-				<p>On <date>Thursday at &#189; past 1 A M &#40;23<hi rend="sup">rd</hi> Decr.</date>&#41; the whole city was<lb/> on the verge of destruction from one of the severest earthquakes<lb/> I ever yet felt.  A few seconds longer&#44; say 3 or 4 and every</p>
-			<pb n="3"/>
-				<p>building would have fallen in and buried its inmates alive.<lb/>  Truly&#44; &#8220;God is merciful&#8221; or I would now not be writing.<lb/>  Imagine&#44; if you can&#44; the house <del>riding</del> being lifted and down&#44; rocking<lb/> from side to side&#44; the walls shaking&#44; beams&#44; joists&#44; rafters<lb/> roof&#44; cracking&#44; creaking as yielding to the irresistible force<lb/> of the subterranean movements&#44; one and all writhed and struggled<lb/> to disjoint itself from mortise and tenon&#44; to wrench itself from<lb/> the hold of girder&#44; screw&#44; and nail.  My wife and I were awake<lb/> when it began.  It must have lasted 15 seconds&#44; some say half a<lb/> minute.  Neither of us could move&#59; both were calm &#38; collected.  I<lb/> never&#44; during the agonizing interval&#44; indulged the slightest hope<lb/> of deliverance&#44; but momentarily expected to see the walls give way and<lb/> the roof fall in and crush us to death.  Short as was the<lb/> continuance of the horrid throes of our &#8220;mother and our grave<add>&#63;</add>&#8221;<lb/> they have left a never to be forgotten remembrance.  Thanks be to<lb/> the Almighty&#44; no life was lost&#44; no one injured.  But I fear that<lb/> every building has been so shaken that in case of a similar recur&#45;<lb/>rence there may be loss of life and destruction of property.<lb/>  Shortly after the occurrence&#44; several places of worship were opened<lb/> and thronged by <sic>worshippers</sic> scared and trembling with affright.  My<lb/> wife begged me not to leave her&#44; and therefore I did not go.  The<lb/> night was beautiful&#44; moon and stars shining brilliantly&#44; the<lb/> air cool and fresh.  The occultation of Saturn took place that<lb/> night.  There are many mining enterprises going forward on the<lb/> <placeName>Island</placeName>&#44; and as the work is carried on through the whole 24 <del>years</del> hours<lb/> fears were entertained for the safety of the miners&#44; but no accident<lb/> has been heard of&#44; altho&#39; the earthquake was severely felt in<lb/> the mining district.</p>
-			<pb n="4"/>
-			<p rend="indent(1)">Have you seen <persName>Dr. Kalisch&#39;s</persName> translation of Genesis.  From<lb/> a review of it in the &#8220;Westminster Review&#44;&#8221; whose tendencies<lb/> are rationalistic I have gleaned an extract or two.  He has<lb/> not been more fortunate in his rendering of <add>Hebrew</add> than his<lb/> predecessors.  I do not like <add>Hebrew</add> &#8220;tho&#39; many flock to <placeName>Shiloh</placeName>.&#8221;<lb/>  You may differ from me in opinion&#44; but I prefer the translation<lb/> given in the &#8220;Israelite&#44;&#8221; and <del>&#63;</del> the more I examine and<lb/> consider it with reference to history&#44; the more am I convinced<lb/> of its truth.  <persName>Onkelos</persName> and the masora have led the whole Jewish<lb/> and Christian world astray.  <add>Hebrew</add> occurs 3 times in the chapter<lb/> and why the first time it should be translated &#8220;<hi rend="underline">sceptre or</hi><lb/> <hi rend="underline">staff</hi> and the second &#38; 3<hi rend="sup">rd</hi> &#8220;<hi rend="underline">tribes</hi>&#8221; I cannot understand.  Again<lb/> why <add>Hebrew</add> should not apply to the &#8220;confederated Israelites&#8221; when<lb/> <persName>Judah</persName> is blessed&#44; and understood to allude to a portion of<lb/> that confederacy under the leadership of <persName>David</persName> and &#8220;<add>Hebrew</add>&#8221; is<lb/> also an enigma to me.  The passage is very simple&#44; if the legitim<lb/>ate rendering of <add>Hebrew</add> <del>be</del> as &#8220;tribe&#8221; be given.  Not shall depart<lb/> a tribe from <persName>Judah</persName>&#44; nor a commander from between his feet<lb/> from among his followers until he come to <placeName>Shiloh</placeName>&#44; and to him &#40;<persName>Judah</persName>&#41;<lb/> should be the gathering &#40;assembling&#44; marshalling&#44; in array&#41; of the<lb/> people  The armed confederacy as it existed from the Exodus<lb/> to the division of the land among the tribes&#44; was dissolved at<lb/> <placeName>Shiloh</placeName>&#44; by <persName>Joshua</persName>.  And the best proof that <persName>Judah</persName> was then<lb/> divested of the leadership is the divine permission to rescue<lb/> in Judges <add>&#63;</add> for a temporary purpose.</p>
-			<p rend="indent(1)">So our friend <persName>Gutheim</persName> is going to be married.  I am<lb/> glad to hear of it&#44; and wish him all happiness.  Your<lb/> intended <del>periodically</del> weekly ought to succeed such an array of<lb/> talent taste and industry as <persName>Jacob</persName>&#44; <persName>Raphall</persName> &#38; yourself<lb/> is not often to be met with&#44; and in the ranks of <placeName>Israel</placeName> is<lb/> an anomaly considering that our utterances rarely combine<lb/> to advance the General Good.  I am glad the Pope still<lb/> refuses to give up the child of mortara&#59; his obstinacy will<lb/> the sooner bring on the crisis in which the Papacy and<lb/> its supporters &#40;<persName>Louis Napoleon</persName> &#38; <placeName>Austria</placeName>&#41; will be crushed.</p>
-				<p rend="The following is written sideways over the above text."></p>
-			<p rend="indent(1)">The proceedings of the Habane Bushi<add>&#63;</add> at <placeName>Constantinople</placeName> are<lb/> very mischievous.  United <placeName>Israel</placeName> in <placeName>Europe</placeName> should by means of<lb/> its enlightened Rabbi&#39;s abolish the power of Cherem &#38; <add>&#63;</add><lb/> and the whole of this irresponsible power so insolently assumed by<lb/> such fellows as the Turkish Rabbis.  All this is the effect of the<lb/> dangerous precedents set by the Rabbinism<add>&#63;</add> of the dark middle<lb/> ages&#44; and its usurpation of a power which men like <persName>Akiba</persName> would<lb/> never have tolerated for an instant.  It will be unquestionably<lb/> beneficial to the Turkish Jews Generally that their Rabbis have<lb/> aimed so high as the <persName>Rothschilds</persName> and <persName>Albert Cohen</persName>&#44; who will now<lb/> keep them to break the gallery chain which ignorant zeal has bound<lb/> them.  What say you&#63;  Is this stupid orthodoxy less dangerous to <placeName>Israel</placeName><lb/> than cold rationalism&#63;  I say no.</p>
-			<p rend="indent(1)"><persName>Mrs. Nathan</persName> and her mother unite with me<lb/> in kind and friendly regards and trusting that you are<lb/> more cheerful and in higher spirits than when you last<lb/> wrote</p>
-			<p rend="indent(9)">I am</p>
-			<p rend="indent(9)">yours sincerely</p>
-			<p rend="indent(9)"><persName role="author">M N Nathan</persName></p>
-		</body>
-	</text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="yes">Nathan, M. N.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>TCAT</repository>
+                        <collection>Anonymous</collection>
+                        <idno>LSTCAT_item150</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="yes">Nathan, M. N.</author>
+                        <addressee accepted="yes" attested="yes" editor="false">Leeser,
+                            Isaac</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Kingston, Jamaica</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1858-12">20 December 1858</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="il_tcat_item150_wk1_body0001.jpg"/>
+                                <graphic url="il_tcat_item150_wk1_body0002.jpg"/>
+                                <graphic url="il_tcat_item150_wk1_body0003.jpg"/>
+                                <graphic url="il_tcat_item150_wk1_body0004.jpg"/>
+                                <graphic url="il_tcat_item150_wk1_body0005.jpg"/>
+                                <graphic url="il_tcat_item150_wk1_body0006.jpg"/>
+                                <graphic url="il_tcat_item150_wk1_body0007.jpg"/>
+                                <graphic url="il_tcat_item150_wk1_body0008.jpg"/>
+                                <graphic url="il_tcat_item150_wk1_body0009.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >letter</material>
+                                </support>
+                                <extent>9 pages on 9 sheets <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <p rend="align(right)"><placeName>Kingston Jam</placeName>: <date>20<hi rend="sup"
+                        >th</hi>. Decr. 1858</date>.</p>
+            <p>
+                <addressee>Revd. Isaac Leeser</addressee>
+            </p>
+            <p rend="indent(1)">Dear Friend.</p>
+            <p rend="indent(2)">The Occidents for <date>October</date> have come<lb/> to hand, but
+                no letter from you. By this time you will have<lb/> received my last p
+                    <persName>Abby Watson</persName> requesting you to obtain<lb/> 50 copies of my
+                catechism from the Sunday School in your city.<lb/> I have not a copy, and none are
+                to be had here. I wish you<lb/> also to forward a couple dozen of <persName>Miss
+                        <sic>Peixottos</sic></persName> Book, and about<lb/> 3 dozen
+                    <persName>Henry's</persName> Class Books, of the Edition published in
+                    <placeName>America</placeName>.<lb/> On consideration you need <hi
+                    rend="underline">not</hi> send <persName>Miss P's</persName> Books for
+                    <persName>Henry's</persName><lb/> will answer my purpose as well. I require also
+                about 1 dz<lb/> copies of <hi rend="underline"><persName>Cohen's</persName> Hebrew
+                    Grammar</hi> on the <hi rend="underline"
+                        ><persName>Ellendorff<add>?</add></persName> system</hi><lb/> which you will
+                oblige me by procuring. All these books I want<lb/> without delay, and the money
+                shall be remitted as soon as<lb/> they arrive. On the <sic>inclosed</sic> tracing
+                paper is the pattern of<lb/> the binding of a book, side and back. Send one of your
+                daily<lb/> prayers (<sic>portuguese</sic>) similarly bound, color red maroon
+                approaching to<lb/> red morocco. I had sold another copy of the Festival
+                prayers<lb/> and if I get the money for them before an opportunity offers for
+                forwarding<lb/> this, the money <del>not</del> I have in hand ($60) with that
+                (nearly $20)<lb/> will be sent by same via. I have still on hand the 2 best
+                bound<lb/> sets, 91 Vol deft.) and part of one set common sheep (3 deft.). If<lb/>
+                your small Bibles were a dollar or $1 ½ each I could sell them<lb/> readily but 2 ½
+                people decline to give.</p>
+            <p rend="indent(1)">Have you ever felt an Earthquake? For a quarter of a century</p>
+            <pb n="2"/>
+            <p>I have been familiar with them, and their nature is such that,<lb/> totally different
+                from other dangers to which one gets accustomed<lb/> They excite and increase our
+                fears the oftener their shock is felt.<lb/> You become paralyzed, your faculties are
+                suspended, the<lb/> will ceases to act on the voluntary parts of the body, and
+                tho'<lb/> fully alive to the horrors of entombment, whether in or out of<lb/> doors,
+                which threaten your life, you are incapable of making<lb/> the effort to move from
+                the spot. To ejaculate a word or two<lb/> of prayer <del>and</del> in prospect of an
+                immediate and awful death<lb/> which hundreds may share with you at the same moment
+                is<lb/> all that your consciousness of the alarming extent of your peril<lb/> and
+                the impossibility of escaping it, permits you to do. When<lb/> the earthquake is
+                felt in the day time, a rush from the house to<lb/> the street may be effected by
+                some <del>one</del> whom fear does not render<lb/> incapable of moving. At night
+                however, when enfolded in the bonds<lb/> of sleep, you become suddenly awakened by
+                the house shaking<lb/> and riding on its foundation, the <sic>upheaved</sic> and
+                undulating<lb/> earth on which it rests, then can one realize in all its
+                positive<lb/> meaning the <add>פחד לילה</add> the Psalmist speaks of. Not the bad
+                dream<lb/> not the distressing night-mare, not the terrifying images which<lb/> a
+                heated brain, a sickly fancy, or a superstitious mind<lb/> conjures up—but it is the
+                awe of an instant dissolution, a<lb/> stern summons to give up life in a few seconds
+                which stops<lb/> the beating of the heart, checks the current of the blood, and<lb/>
+                    “<sic>distils</sic> you to jelly with the effect of fear.”</p>
+            <p>On <date>Thursday at ½ past 1 A M (23<hi rend="sup">rd</hi> Decr.</date>) the whole
+                city was<lb/> on the verge of destruction from one of the severest earthquakes<lb/>
+                I ever yet felt. A few seconds longer, say 3 or 4 and every</p>
+            <pb n="3"/>
+            <p>building would have fallen in and buried its inmates alive.<lb/> Truly, “God is
+                merciful” or I would now not be writing.<lb/> Imagine, if you can, the house
+                    <del>riding</del> being lifted and down, rocking<lb/> from side to side, the
+                walls shaking, beams, joists, rafters<lb/> roof, cracking, creaking as yielding to
+                the irresistible force<lb/> of the subterranean movements, one and all writhed and
+                struggled<lb/> to disjoint itself from mortise and tenon, to wrench itself from<lb/>
+                the hold of girder, screw, and nail. My wife and I were awake<lb/> when it began. It
+                must have lasted 15 seconds, some say half a<lb/> minute. Neither of us could move;
+                both were calm &amp; collected. I<lb/> never, during the agonizing interval,
+                indulged the slightest hope<lb/> of deliverance, but momentarily expected to see the
+                walls give way and<lb/> the roof fall in and crush us to death. Short as was
+                the<lb/> continuance of the horrid throes of our “mother and our
+                grave<add>?</add>”<lb/> they have left a never to be forgotten remembrance. Thanks
+                be to<lb/> the Almighty, no life was lost, no one injured. But I fear that<lb/>
+                every building has been so shaken that in case of a similar recur-<lb/>rence there
+                may be loss of life and destruction of property.<lb/> Shortly after the occurrence,
+                several places of worship were opened<lb/> and thronged by <sic>worshippers</sic>
+                scared and trembling with affright. My<lb/> wife begged me not to leave her, and
+                therefore I did not go. The<lb/> night was beautiful, moon and stars shining
+                brilliantly, the<lb/> air cool and fresh. The occultation of Saturn took place
+                that<lb/> night. There are many mining enterprises going forward on the<lb/>
+                <placeName>Island</placeName>, and as the work is carried on through the whole 24
+                    <del>years</del> hours<lb/> fears were entertained for the safety of the miners,
+                but no accident<lb/> has been heard of, altho' the earthquake was severely felt
+                in<lb/> the mining district.</p>
+            <pb n="4"/>
+            <p rend="indent(1)">Have you seen <persName>Dr. Kalisch's</persName> translation of
+                Genesis. From<lb/> a review of it in the “Westminster Review,” whose tendencies<lb/>
+                are rationalistic I have gleaned an extract or two. He has<lb/> not been more
+                fortunate in his rendering of <add>לא יסור שבט</add> than his<lb/> predecessors. I
+                do not like <add>עד כי יבא שילה</add> “tho' many flock to
+                    <placeName>Shiloh</placeName>.”<lb/> You may differ from me in opinion, but I
+                prefer the translation<lb/> given in the “Israelite,” and <del>?</del> the more I
+                examine and<lb/> consider it with reference to history, the more am I convinced<lb/>
+                of its truth. <persName>Onkelos</persName> and the masora have led the whole
+                Jewish<lb/> and Christian world astray. <add>שבט</add> occurs 3 times in the
+                chapter<lb/> and why the first time it should be translated “<hi rend="underline"
+                    >sceptre or</hi><lb/>
+                <hi rend="underline">staff</hi> and the second &amp; 3<hi rend="sup">rd</hi> “<hi
+                    rend="underline">tribes</hi>” I cannot understand. Again<lb/> why
+                    <add>עמרם</add> should not apply to the “confederated Israelites” when<lb/>
+                <persName>Judah</persName> is blessed, and understood to allude to a portion of<lb/>
+                that confederacy under the leadership of <persName>David</persName> and “<add>דן
+                    ידין עמו</add>” is<lb/> also an enigma to me. The passage is very simple, if the
+                legitim<lb/>ate rendering of <add>שבט</add>
+                <del>be</del> as “tribe” be given. Not shall depart<lb/> a tribe from
+                    <persName>Judah</persName>, nor a commander from between his feet<lb/> from
+                among his followers until he come to <placeName>Shiloh</placeName>, and to him
+                    (<persName>Judah</persName>)<lb/> should be the gathering (assembling,
+                marshalling, in array) of the<lb/> people The armed confederacy as it existed from
+                the Exodus<lb/> to the division of the land among the tribes, was dissolved at<lb/>
+                <placeName>Shiloh</placeName>, by <persName>Joshua</persName>. And the best proof
+                that <persName>Judah</persName> was then<lb/> divested of the leadership is the
+                divine permission to rescue<lb/> in Judges <add>?</add> for a temporary purpose.</p>
+            <p rend="indent(1)">So our friend <persName>Gutheim</persName> is going to be married. I
+                am<lb/> glad to hear of it, and wish him all happiness. Your<lb/> intended
+                    <del>periodically</del> weekly ought to succeed such an array of<lb/> talent
+                taste and industry as <persName>Jacob</persName>, <persName>Raphall</persName> &amp;
+                yourself<lb/> is not often to be met with, and in the ranks of
+                    <placeName>Israel</placeName> is<lb/> an anomaly considering that our utterances
+                rarely combine<lb/> to advance the General Good. I am glad the Pope still<lb/>
+                refuses to give up the child of mortara; his obstinacy will<lb/> the sooner bring on
+                the crisis in which the Papacy and<lb/> its supporters (<persName>Louis
+                    Napoleon</persName> &amp; <placeName>Austria</placeName>) will be crushed.</p>
+            <p rend="The following is written sideways over the above text."/>
+            <p rend="indent(1)">The proceedings of the Habane Bushi<add>?</add> at
+                    <placeName>Constantinople</placeName> are<lb/> very mischievous. United
+                    <placeName>Israel</placeName> in <placeName>Europe</placeName> should by means
+                of<lb/> its enlightened Rabbi's abolish the power of Cherem &amp; <add>?</add><lb/>
+                and the whole of this irresponsible power so insolently assumed by<lb/> such fellows
+                as the Turkish Rabbis. All this is the effect of the<lb/> dangerous precedents set
+                by the Rabbinism<add>?</add> of the dark middle<lb/> ages, and its usurpation of a
+                power which men like <persName>Akiba</persName> would<lb/> never have tolerated for
+                an instant. It will be unquestionably<lb/> beneficial to the Turkish Jews Generally
+                that their Rabbis have<lb/> aimed so high as the <persName>Rothschilds</persName>
+                and <persName>Albert Cohen</persName>, who will now<lb/> keep them to break the
+                gallery chain which ignorant zeal has bound<lb/> them. What say you? Is this stupid
+                orthodoxy less dangerous to <placeName>Israel</placeName><lb/> than cold
+                rationalism? I say no.</p>
+            <p rend="indent(1)"><persName>Mrs. Nathan</persName> and her mother unite with me<lb/>
+                in kind and friendly regards and trusting that you are<lb/> more cheerful and in
+                higher spirits than when you last<lb/> wrote</p>
+            <p rend="indent(9)">I am</p>
+            <p rend="indent(9)">yours sincerely</p>
+            <p rend="indent(9)">
+                <persName role="author">M N Nathan</persName>
+            </p>
+        </body>
+    </text>
 </TEI>

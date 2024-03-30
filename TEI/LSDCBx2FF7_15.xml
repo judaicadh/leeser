@@ -1,309 +1,330 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="no">H. Cowperthwait &#38; Co.</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>CAJS Isaac Leeser Collection</repository>
-						<collection>The Library of the Dropsie College for Hebrew and Cognate Learning</collection>
-						<idno>LSDCBx2FF7_15</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="no">H. Cowperthwait &#38; Co.</author>
-						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac, Rev.</addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>Philadelphia, PA</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1860-03" source="" attested="yes">22 March 1860</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="ilcajs_b2f7_0015_1r.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="true" paper_type="" size="Letter">letter</material>
-								</support>
-								<extent>1 page on 1 sheet
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="manuscript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="free">
-								<p>Unrestricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-				<p rend="align(right)"><placeName>Philadelphia</placeName>&#44; <date>March 22nd <sic>186</sic></date></p>
-				<p><addressee>Mr I Leeser</addressee></p>
-				<p>Bought of <hi rend="bold"><persName role="author">H. COWPERTHWAIT &#38; CO.</persName>&#44;</hi></p>
-				<p>Terms&#44; <hi rend="bold">PUBLISHERS&#44; BOOKSELLERS &#38; IMPORTERS&#44;</hi></p>
-				<p>Conveyance&#44; <placeName>No. 609 Chestnut Street</placeName>&#44;</p>
-				<p>AND <placeName>608 &#38; 610 JAYNE STREET&#44; ABOVE SIXTH</placeName>.</p>
-				<table rows="7" cols="4">
-				<row>
-				<cell>1</cell>
-				<cell>doz Slates 7 x 11 wired</cell>
-				<cell>1.25 doz</cell>
-				<cell>1.25</cell>
-				</row>
-				<row>
-				<cell>1</cell>
-				<cell>&#8220; <persName>Davenports</persName> <placeName>U. S.</placeName></cell>
-				<cell>18 &#190;</cell>
-				<cell>2.25</cell>
-				</row>
-				<row>
-				<cell>&#189;</cell>
-				<cell>&#8220; <persName>Warrens</persName> Com Sch Geog</cell>
-				<cell>67</cell>
-				<cell>4.02</cell>
-				</row>
-				<row>
-				<cell>&#189;</cell>
-				<cell>&#8220; Childs <placeName>U. S</placeName></cell>
-				<cell>25</cell>
-				<cell>1.50</cell>
-				</row>
-				<row>
-				<cell>50</cell>
-				<cell>Envelopes Buff</cell>
-				<cell>20</cell>
-				<cell>20</cell>
-				</row>
-				<row>
-				<cell>2</cell>
-				<cell>doz <persName>P &#38; H</persName> Copy Books</cell>
-				<cell><hi rend="underline">90 doz</hi></cell>
-				<cell><hi rend="underline">1.80</hi></cell>
-				</row>
-				<row>
-				<cell/>
-				<cell/>
-				<cell/>
-				<cell>&#36;<hi rend="underline">11.52</hi></cell>
-				</row>
-				</table>
-				<p rend="The following is typewritten in a box at the top left corner."></p>
-				<p rend="align(center)">PUBLISHERS OF</p>
-				<p rend="align(center)"><persName>WARREN&#39;S</persName> GEOGRAPHIES&#44;</p>
-				<p rend="align(center)"><persName>GREENE&#39;S</persName> GRAMMARS&#44;</p>
-				<p rend="align(center)"><persName>SWAN&#39;S</persName> SPELLERS AND READERS&#44;</p>
-				<p rend="align(center)"><persName>LEACH&#39;S</persName> COMPLETE SPELLER&#44;</p>
-				<p rend="align(center)"><persName>COWDERY&#39;S</persName> MORAL LESSONS&#44;</p>
-				<p rend="align(center)"><persName>BERARD&#39;S</persName> <placeName>UNITED STATES</placeName>&#44;</p>
-				<p rend="align(center)">THE CHILD&#39;S <placeName>U.S.</placeName> HISTORY&#44;</p>
-				<p rend="align(center)"><persName>DANA P. COLBURN&#39;S</persName> ARITHMETICS&#44;</p>
-				<p rend="align(center)"><persName>ANGELL&#39;S</persName> FRENCH LITERATURE&#44;</p>
-				<p rend="align(center)"><persName>PICOT&#39;S</persName> FRENCH SERIES&#44;</p>
-				<p rend="align(center)"><persName>JARVIS&#39;</persName> PHYSIOLOGIES&#44;</p>
-				<p rend="align(center)"><persName>URCULU&#39;S</persName> GRAMMARS&#44;</p>
-				<p rend="align(center)"><persName>F. A. ADAMS&#39;</persName> ARITHMETICS&#44;</p>
-				<p rend="align(center)"><persName>CLARK&#39;S</persName> CAESAR&#44;</p>
-				<p rend="align(center)"><persName>BROOKS&#39;</persName> <persName>ROSS&#39;</persName> LATIN GRAMMAR&#44;</p>
-				<p rend="align(center)"><persName>BARNARD&#39;S</persName> EDUCATIONAL WORKS&#44;</p>
-				<p rend="align(center)"><persName>BLAKE&#39;S</persName> BIOGRAPHICAL DICTIONARY&#44;</p>
-				<p rend="align(center)"><emph rend="italics">New Edition&#44;</emph></p>
-				<p rend="align(center)"><persName>POTTER &#38; HAMMOND&#39;S</persName> PENMANSHIP&#44; 12 NOS.</p>
-				<p rend="align(center)">&#8220;&#8220;BOOK&#45;KEEPING.</p>
-		</body>
-	</text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="no">H. Cowperthwait &amp;
+                    Co.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS Isaac Leeser Collection</repository>
+                        <collection>The Library of the Dropsie College for Hebrew and Cognate
+                            Learning</collection>
+                        <idno>LSDCBx2FF7_15</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="no">H. Cowperthwait &amp;
+                            Co.</author>
+                        <addressee accepted="yes" attested="yes" editor="false">Leeser, Isaac,
+                            Rev.</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1860-03">22 March 1860</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="ilcajs_b2f7_0015_1r.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="true" paper_type="" size="Letter"
+                                        >letter</material>
+                                </support>
+                                <extent>1 page on 1 sheet <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p rend="align(right)"><placeName>Philadelphia</placeName>, <date>March 22nd
+                        <sic>186</sic></date></p>
+            <p>
+                <addressee>Mr I Leeser</addressee>
+            </p>
+            <p>Bought of <hi rend="bold"><persName role="author">H. COWPERTHWAIT &amp;
+                        CO.</persName>,</hi></p>
+            <p>Terms, <hi rend="bold">PUBLISHERS, BOOKSELLERS &amp; IMPORTERS,</hi></p>
+            <p>Conveyance, <placeName>No. 609 Chestnut Street</placeName>,</p>
+            <p>AND <placeName>608 &amp; 610 JAYNE STREET, ABOVE SIXTH</placeName>.</p>
+            <table cols="4" rows="7">
+                <row>
+                    <cell>1</cell>
+                    <cell>doz Slates 7 x 11 wired</cell>
+                    <cell>1.25 doz</cell>
+                    <cell>1.25</cell>
+                </row>
+                <row>
+                    <cell>1</cell>
+                    <cell>“ <persName>Davenports</persName>
+                        <placeName>U. S.</placeName></cell>
+                    <cell>18 ¾</cell>
+                    <cell>2.25</cell>
+                </row>
+                <row>
+                    <cell>½</cell>
+                    <cell>“ <persName>Warrens</persName> Com Sch Geog</cell>
+                    <cell>67</cell>
+                    <cell>4.02</cell>
+                </row>
+                <row>
+                    <cell>½</cell>
+                    <cell>“ Childs <placeName>U. S</placeName></cell>
+                    <cell>25</cell>
+                    <cell>1.50</cell>
+                </row>
+                <row>
+                    <cell>50</cell>
+                    <cell>Envelopes Buff</cell>
+                    <cell>20</cell>
+                    <cell>20</cell>
+                </row>
+                <row>
+                    <cell>2</cell>
+                    <cell>doz <persName>P &amp; H</persName> Copy Books</cell>
+                    <cell>
+                        <hi rend="underline">90 doz</hi>
+                    </cell>
+                    <cell>
+                        <hi rend="underline">1.80</hi>
+                    </cell>
+                </row>
+                <row>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell>$<hi rend="underline">11.52</hi></cell>
+                </row>
+            </table>
+            <p rend="The following is typewritten in a box at the top left corner."/>
+            <p rend="align(center)">PUBLISHERS OF</p>
+            <p rend="align(center)"><persName>WARREN'S</persName> GEOGRAPHIES,</p>
+            <p rend="align(center)"><persName>GREENE'S</persName> GRAMMARS,</p>
+            <p rend="align(center)"><persName>SWAN'S</persName> SPELLERS AND READERS,</p>
+            <p rend="align(center)"><persName>LEACH'S</persName> COMPLETE SPELLER,</p>
+            <p rend="align(center)"><persName>COWDERY'S</persName> MORAL LESSONS,</p>
+            <p rend="align(center)"><persName>BERARD'S</persName>
+                <placeName>UNITED STATES</placeName>,</p>
+            <p rend="align(center)">THE CHILD'S <placeName>U.S.</placeName> HISTORY,</p>
+            <p rend="align(center)"><persName>DANA P. COLBURN'S</persName> ARITHMETICS,</p>
+            <p rend="align(center)"><persName>ANGELL'S</persName> FRENCH LITERATURE,</p>
+            <p rend="align(center)"><persName>PICOT'S</persName> FRENCH SERIES,</p>
+            <p rend="align(center)"><persName>JARVIS'</persName> PHYSIOLOGIES,</p>
+            <p rend="align(center)"><persName>URCULU'S</persName> GRAMMARS,</p>
+            <p rend="align(center)"><persName>F. A. ADAMS'</persName> ARITHMETICS,</p>
+            <p rend="align(center)"><persName>CLARK'S</persName> CAESAR,</p>
+            <p rend="align(center)"><persName>BROOKS'</persName>
+                <persName>ROSS'</persName> LATIN GRAMMAR,</p>
+            <p rend="align(center)"><persName>BARNARD'S</persName> EDUCATIONAL WORKS,</p>
+            <p rend="align(center)"><persName>BLAKE'S</persName> BIOGRAPHICAL DICTIONARY,</p>
+            <p rend="align(center)">
+                <emph rend="italics">New Edition,</emph>
+            </p>
+            <p rend="align(center)"><persName>POTTER &amp; HAMMOND'S</persName> PENMANSHIP, 12
+                NOS.</p>
+            <p rend="align(center)">““BOOK-KEEPING.</p>
+        </body>
+    </text>
 </TEI>

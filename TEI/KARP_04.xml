@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
         <fileDesc>
             <titleStmt>
                 <title>[no title given]</title>
-                <author attested="yes" accepted="yes" signature="yes">Kalisch, Isidor</author>
+                <author accepted="yes" attested="yes" signature="yes">Kalisch, Isidor</author>
                 <editor/>
                 <sponsor/>
                 <funder/>
@@ -47,7 +49,9 @@
                         <settlement>New York</settlement>
                         <institution>Jewish Theological Seminary</institution>
                         <repository/>
-                        <collection>The Abraham and Deborah Karp Collection of Early American Judaica at the Library of the Jewish Theological Seminary of America</collection>
+                        <collection>The Abraham and Deborah Karp Collection of Early American
+                            Judaica at the Library of the Jewish Theological Seminary of
+                            America</collection>
                         <idno/>
                         <altIdentifier>
                             <idno/>
@@ -56,9 +60,9 @@
                     </msIdentifier>
                     <head/>
                     <letHeading>
-                        <author attested="yes" accepted="yes" signature="yes">Kalisch,
+                        <author accepted="yes" attested="yes" signature="yes">Kalisch,
                             Isidor</author>
-                        <addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac,
+                        <addressee accepted="yes" attested="yes" editor="false">Leeser, Isaac,
                             Rev.</addressee>
                         <deliverer/>
                         <respStmt>
@@ -67,7 +71,7 @@
                         </respStmt>
                         <placeLet>Cleveland, OH</placeLet>
                         <placeRec>Philadelphia, PA</placeRec>
-                        <dateLet when="1852-08" source="" attested="yes">1 August 1852</dateLet>
+                        <dateLet attested="yes" source="" when="1852-08">1 August 1852</dateLet>
                     </letHeading>
                     <msContents>
                         <msItem>
@@ -93,7 +97,8 @@
                         <objectDesc>
                             <supportDesc>
                                 <support>
-                                    <material color="" lined="false" paper_type="" size="Letter">letter</material>
+                                    <material color="" lined="false" paper_type="" size="Letter"
+                                        >letter</material>
                                 </support>
                                 <extent>2 pages on 2 sheets <dimensions/>
                                 </extent>
@@ -234,47 +239,43 @@
     </teiHeader>
     <text>
         <body>
-
             <pb n="1"/>
             <p><addressee>Rev. Isaac Leeser</addressee> in <placeName>Phila.</placeName></p>
-            <p rend="align(right)"><placeName>Cleveland&#44;</placeName>
+            <p rend="align(right)"><placeName>Cleveland,</placeName>
                 <date>August 1st 5612</date> AM</p>
-            <p>Dear sir&#58;</p>
-
-            <p rend="indent(1)">This is to inform you that I am now able<lb/> to send you within 14 days the
-                continuation&#44; that is<lb/> the entire manuscript of my work which I<lb/> intend
-                to publish. <del>Should</del> it<add>&#63;</add> would make me very happy if you not yet have
-                    chang<add>ed</add><lb/> your decision&#44; as you told me in your recent
+            <p>Dear sir:</p>
+            <p rend="indent(1)">This is to inform you that I am now able<lb/> to send you within 14
+                days the continuation, that is<lb/> the entire manuscript of my work which I<lb/>
+                intend to publish. <del>Should</del> it<add>?</add> would make me very happy if you
+                not yet have chang<add>ed</add><lb/> your decision, as you told me in your recent
                     lette<add>r</add><lb/> and started with my work. But should that not<lb/> be the
-                case&#44; I ask you&#44; to send me the manusc<add>ript</add><lb/> as soon as
-                possible by express. I shall be glad to<lb/> pay for the postage. I suppose that you
-                have<lb/> printed <del>my es</del> already my essays&#44; concerning the<lb/> G E T in the
-                Occident. In case you have<lb/> failed to print them&#44; may I ask you to have
+                case, I ask you, to send me the manusc<add>ript</add><lb/> as soon as possible by
+                express. I shall be glad to<lb/> pay for the postage. I suppose that you have<lb/>
+                printed <del>my es</del> already my essays, concerning the<lb/> G E T in the
+                Occident. In case you have<lb/> failed to print them, may I ask you to have
                     the<add>m</add><lb/> printed in the very next issue. I <sic>dont</sic> doubt for
-                a<lb/> moment &#40;note his psychology&#41; that you will gra<add>nt</add><lb/> me
-                as much right and justice as you gran<add>t</add><lb/>
-                <persName>Levi</persName>. You can see&#44; that in my essays I<lb/> did not <del>mak</del>
-                mention any <del>personalities</del> pers<add>&#63;</add><lb/> though I possess ample material
-                &#40;note psycholo<add>&#63;</add><lb/> I only discussed in detail the
-                questionable<lb/> object itself. Although I <del>still</del> would have to<lb/> say still a
-                whole lot in this respect&#44;</p>
-
+                a<lb/> moment (note his psychology) that you will gra<add>nt</add><lb/> me as much
+                right and justice as you gran<add>t</add><lb/>
+                <persName>Levi</persName>. You can see, that in my essays I<lb/> did not
+                    <del>mak</del> mention any <del>personalities</del> pers<add>?</add><lb/> though
+                I possess ample material (note psycholo<add>?</add><lb/> I only discussed in detail
+                the questionable<lb/> object itself. Although I <del>still</del> would have to<lb/>
+                say still a whole lot in this respect,</p>
             <pb n="2"/>
-            <p>however&#44; I think that the matter is by far<lb/> finished&#44; and a remark made
-                at the proper time weig<add>&#63;</add><lb/> more&#44; than rash untimely
-                expressions. As a fighter f<add>or</add><lb/> Jewish truths you&#44; as an editor
-                really shoul<add>d</add><lb/> not belong to any party but should permit<lb/> anybody
-                to step in the arena &#40;to show his wits&#41;<lb/> so that the literary &#40;the
-                German orthography&#44; used by<lb/><persName>Kalisch</persName> is wrong&#44;
-                considering the time in which it<lb/> was written. He writes according to sound not
-                acco<lb/> to rules&#41; public may and can pass a correct<lb/> sentence and the
-                truth may really be found<lb/> out. Whatever more I would have to say
-                <add>on</add><lb/> this subject you will find if you think (contem/plate) at bit for
-                yourself&#44; and so I <del>finish</del> end my let<add>ter</add><lb/> hoping that you will
-                fulfill my desires as<lb/> I expressed them in this letter. Ex&#8212;<lb/>pecting
-                your early reply&#44; I am<lb/> Very truly yours<lb/>
+            <p>however, I think that the matter is by far<lb/> finished, and a remark made at the
+                proper time weig<add>?</add><lb/> more, than rash untimely expressions. As a fighter
+                    f<add>or</add><lb/> Jewish truths you, as an editor really
+                shoul<add>d</add><lb/> not belong to any party but should permit<lb/> anybody to
+                step in the arena (to show his wits)<lb/> so that the literary (the German
+                orthography, used by<lb/><persName>Kalisch</persName> is wrong, considering the time
+                in which it<lb/> was written. He writes according to sound not acco<lb/> to rules)
+                public may and can pass a correct<lb/> sentence and the truth may really be
+                found<lb/> out. Whatever more I would have to say <add>on</add><lb/> this subject
+                you will find if you think (contem/plate) at bit for yourself, and so I
+                    <del>finish</del> end my let<add>ter</add><lb/> hoping that you will fulfill my
+                desires as<lb/> I expressed them in this letter. Ex—<lb/>pecting your early reply, I
+                am<lb/> Very truly yours<lb/>
                 <persName role="author">Isidor Kalisch</persName></p>
-
         </body>
     </text>
 </TEI>

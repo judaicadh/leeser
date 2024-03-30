@@ -1,254 +1,294 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="unk">Parsons, J. W.</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>CAJS Isaac Leeser Collection</repository>
-						<collection>The Library of the Dropsie College for Hebrew and Cognate Learning</collection>
-						<idno>LSDCBx2FF2_5</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="unk">Parsons, J. W.</author>
-						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac</addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>Smyrna, GA</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1855-01" source="" attested="yes">24 January 1855</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="unk" paper_type="" size="Letter">letter</material>
-								</support>
-								<extent>2 pages on 2 sheets
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="typescript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="free">
-								<p>Unrestricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1"/>
-				<p rend="align(center)">JEWS IN <hi rend="underline"><placeName>TURKEY</placeName>.</hi></p>
-				<p rend="align(right)"><placeName>Smyrna</placeName>&#44; <date>January 24&#44; 1855</date>.</p>
-			<p rend="indent(1)"><addressee>ISAAC LEESER&#44; ESQ.</addressee>&#58;&#8212;Dear Sir&#8212;<persName>Mr. Mitchell</persName>&#44; of your<lb/> city&#44; <sic>s</sic> friend of yours&#44; was several days detained in<lb/> this city&#44; and fortunately I became acquainted with<lb/> him.  He requested me to address a letter to you&#44; giv&#45;<lb/>ing you some information respecting the Jews in this<lb/> place and in this vicinity.  This I readily assented<lb/> to do&#59; but I <sic>mustconfess</sic> to negligence in allowing so<lb/> many weeks to pass without fulfilling my promise.  I<lb/> shall not set it down entirely as negligence&#59; for I<lb/> have been so fully occupied that I have not found time<lb/> to write many letters to personal relatives&#44; which I<lb/> acknowledge as due from me.  But as I have at present<lb/> no time to spare I will not prolong to apologize.</p>
-			<p rend="indent(1)">I came to this country in the year <date>1850</date>&#44; as mission&#45;<lb/>ary to the Jews of the A.B.C.F.M.  Two years we were<lb/> in <placeName>Thessalonica</placeName>&#44; six months&#44; on account of health&#44; in<lb/> <placeName>Constantinople</placeName>&#44; and the rest of the time in this city.<lb/>  While in <placeName>Thessalonica</placeName> I made several short tours&#8212;ra&#45;<lb/>ther&#44; one long one and one short one.  I will give you<lb/> the names of the Jewish places and their population&#44;<lb/> as nearly as I can be tolerably certain of correctness.<lb/>  You know how difficult it is to obtain exact statistics.</p>
-				<p>&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;</p>
-				<p>&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#45;</p>
-			<p rend="indent(1)"><persName>Mr. Mitchell</persName> said he would send me a copy of your<lb/> paper&#44; which I am sure will be very valuable to us&#44;<lb/> in giving extracts from it&#44; and information respecting<lb/> the Jews in <placeName>America</placeName>.  The very appearance of your<lb/> beautiful journal &#40;of which <persName>Mr. M.</persName> showed me a copy&#41;<lb/> would be a marvel to our Jewish friends here&#44; when told<lb/> that it was published by a Jew.  I told <persName>Mr. Mitchell</persName><lb/> that I should value very highly the back numbers of<lb/> your periodical&#59; he said he would inquire if they could<lb/> be furnished&#44; and at what price.  I trust he will not<lb/> forget it&#44; or that you will be so kind as to inform me<lb/> directly.</p>
-				<p>If you have any particular inquiries to make&#44; I shall</p>
-			<pb n="2"/>
-				<p><del>&#63;</del> be most happy to<lb/> answer them as far as I am able.</p>
-			<p rend="indent(1)">Your work is arduous&#44; but I trust you will see the<lb/> benefit resulting to your people.  May the Lord bless<lb/> you&#59; and I remain yours&#44; truly&#44;</p>
-			<p rend="indent(6)"><persName role="author">J. W. PARSONS</persName>.</p>
-				<p><hi rend="underline">Occ. Vol. XIII&#44; <sic>page45</sic>&#59; <date>Nissan 5615&#44; April 1855</date>.     </hi></p>
-		
-			<div>
-				<p><ref target="Occident_PDFs/Occ_13_1.pdf">The above text refers to Occident Volume 13 No. 1 pages 45 through 47. Click here to view.</ref></p>
-			</div>
-		</body>
-	</text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="unk">Parsons, J. W.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS Isaac Leeser Collection</repository>
+                        <collection>The Library of the Dropsie College for Hebrew and Cognate
+                            Learning</collection>
+                        <idno>LSDCBx2FF2_5</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="unk">Parsons, J.
+                            W.</author>
+                        <addressee accepted="yes" attested="yes" editor="false">Leeser,
+                            Isaac</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Smyrna, GA</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1855-01">24 January 1855</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure> </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="unk" paper_type="" size="Letter"
+                                        >letter</material>
+                                </support>
+                                <extent>2 pages on 2 sheets <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <p rend="align(center)">JEWS IN <hi rend="underline"
+                ><placeName>TURKEY</placeName>.</hi></p>
+            <p rend="align(right)"><placeName>Smyrna</placeName>, <date>January 24, 1855</date>.</p>
+            <p rend="indent(1)"><addressee>ISAAC LEESER, ESQ.</addressee>:—Dear Sir—<persName>Mr.
+                    Mitchell</persName>, of your<lb/> city, <sic>s</sic> friend of yours, was
+                several days detained in<lb/> this city, and fortunately I became acquainted
+                with<lb/> him. He requested me to address a letter to you, giv-<lb/>ing you some
+                information respecting the Jews in this<lb/> place and in this vicinity. This I
+                readily assented<lb/> to do; but I <sic>mustconfess</sic> to negligence in allowing
+                so<lb/> many weeks to pass without fulfilling my promise. I<lb/> shall not set it
+                down entirely as negligence; for I<lb/> have been so fully occupied that I have not
+                found time<lb/> to write many letters to personal relatives, which I<lb/>
+                acknowledge as due from me. But as I have at present<lb/> no time to spare I will
+                not prolong to apologize.</p>
+            <p rend="indent(1)">I came to this country in the year <date>1850</date>, as
+                mission-<lb/>ary to the Jews of the A.B.C.F.M. Two years we were<lb/> in
+                    <placeName>Thessalonica</placeName>, six months, on account of health, in<lb/>
+                <placeName>Constantinople</placeName>, and the rest of the time in this city.<lb/>
+                While in <placeName>Thessalonica</placeName> I made several short
+                tours—ra-<lb/>ther, one long one and one short one. I will give you<lb/> the names
+                of the Jewish places and their population,<lb/> as nearly as I can be tolerably
+                certain of correctness.<lb/> You know how difficult it is to obtain exact
+                statistics.</p>
+            <p>—————————————————</p>
+            <p>——————-</p>
+            <p rend="indent(1)"><persName>Mr. Mitchell</persName> said he would send me a copy of
+                your<lb/> paper, which I am sure will be very valuable to us,<lb/> in giving
+                extracts from it, and information respecting<lb/> the Jews in
+                    <placeName>America</placeName>. The very appearance of your<lb/> beautiful
+                journal (of which <persName>Mr. M.</persName> showed me a copy)<lb/> would be a
+                marvel to our Jewish friends here, when told<lb/> that it was published by a Jew. I
+                told <persName>Mr. Mitchell</persName><lb/> that I should value very highly the back
+                numbers of<lb/> your periodical; he said he would inquire if they could<lb/> be
+                furnished, and at what price. I trust he will not<lb/> forget it, or that you will
+                be so kind as to inform me<lb/> directly.</p>
+            <p>If you have any particular inquiries to make, I shall</p>
+            <pb n="2"/>
+            <p><del>?</del> be most happy to<lb/> answer them as far as I am able.</p>
+            <p rend="indent(1)">Your work is arduous, but I trust you will see the<lb/> benefit
+                resulting to your people. May the Lord bless<lb/> you; and I remain yours,
+                truly,</p>
+            <p rend="indent(6)"><persName role="author">J. W. PARSONS</persName>.</p>
+            <p>
+                <hi rend="underline">Occ. Vol. XIII, <sic>page45</sic>; <date>Nissan 5615, April
+                        1855</date>. </hi>
+            </p>
+            <div>
+                <p>
+                    <ref target="Occident_PDFs/Occ_13_1.pdf">The above text refers to Occident
+                        Volume 13 No. 1 pages 45 through 47. Click here to view.</ref>
+                </p>
+            </div>
+        </body>
+    </text>
 </TEI>

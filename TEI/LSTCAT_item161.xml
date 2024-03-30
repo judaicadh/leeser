@@ -1,267 +1,333 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE TEI [
-<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
-%teibase;
-<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
-%teiext;
-]>
-<TEI>
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="yes">Meyer, Morris</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>TCAT</repository>
-						<collection>Anonymous</collection>
-						<idno>LSTCAT_item161</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="yes">Meyer, Morris</author>
-						<addressee editor="true" attested="yes" accepted="yes">Leeser, Isaac</addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>New York, NY</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="" source="" attested="unk"></dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="il_tcat_item161_wk1_body0001.jpg"></graphic>
-								<graphic url="il_tcat_item161_wk1_body0002.jpg"></graphic>
-								<graphic url="il_tcat_item161_wk1_body0003.jpg"></graphic>
-								<graphic url="il_tcat_item161_wk1_body0004.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="false" paper_type="" size="">letter</material>
-								</support>
-								<extent>4 pages on 2 sheets
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="manuscript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="free">
-								<p>Unrestricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="de">German</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1"/>
-				<p><addressee>Revd Isaac Leeser</addressee></p>
-			<p rend="indent(1)"><placeName>Philadelphia</placeName></p>
-			<p rend="indent(3)">Dear Sir&#33;</p>
-				<p>Ihre <add>&#63;</add> Zuschrift <add>&#63;</add> 3 Briefer hab zur Zeit<lb/> erhalten und er<add>&#63;</add> wird schon fur <add>&#63;</add> habe<lb/> jedoch ein <sic>Gescheftsreise</sic> in <placeName>Georgia</placeName> hielten mich<lb/> dran zur&#252;ck.  Die Bucher finden Allgemeinen Beifall<lb/> und bin ich Ihren f&#252;r Ihre G&#252;te <add>&#63;</add>.  Was<lb/> Sie mir in <add>&#63;</add> Ihr <add>&#63;</add> Publicationen<add>&#63;</add> schreiben<lb/> <add>&#63;</add> sehen und f&#252;r Sie <add>&#63;</add> kann&#44; und mit<lb/> <add>&#63;</add> soll es geschehen&#44; jedoch bef<add>&#63;</add> <add>&#63;</add><lb/> Erfolg <add>&#63;</add> gut sein <add>&#63;</add>d&#44; es ist leide hier<lb/> zu mal P<add>&#63;</add> Gefuhl und dadurch mu&#223; Religion<lb/> naturlich leiden <persName>N Eckman</persName> ist s<add>&#63;</add> mit ich ihr<lb/> <add>&#63;</add> ein <add>&#63;</add> guter Mann ihr Alles <add>&#63;</add>tet<lb/> unsere Religion zu haben<add>&#63;</add>&#44; er hat leide in seiner</p>
-			<pb n="2"/>
-				<p>G<add>&#63;</add> <add>&#63;</add> Geg<add>&#63;</add> wir ein<add>&#63;</add> guter Mann<lb/> sie hat&#44; der furchtbar die Wahrheit <add>&#63;</add>&#44; nicht<lb/> ein Leichtig<add>&#63;</add> gelehrter Mann &#38; die F<add>&#63;</add> <add>&#63;</add>lese Sie<lb/> in Ihrer letzte No stellten ab die <hi rend="underline">Bibel</hi> sein <hi rend="underline"><add>&#63;</add></hi><lb/> ist <add>&#63;</add>&#44; ich Ihren bef<add>&#63;</add>gand b<add>&#63;</add> er ist<lb/> die Gottesfurcht <add>&#63;</add> er seiner G<add>&#63;</add> g<add>&#63;</add><lb/> er arbeitet seh<add>&#63;</add> und so bringe ich sehr d<add>&#63;</add> sein<lb/> <add>&#63;</add> ein Edler und G&#252;ter ist&#44; an <add>&#63;</add> ich seine<lb/> Freund bleiben ein M&#228;chter Gottes <add>&#63;</add> seine Zeuge<lb/> nicht gel<add>&#63;</add> haben&#44; und wenn er Diese sieht<lb/> die er f&#252;r <add>&#63;</add>cht halt<add>&#63;</add> so mu&#223; er ihr Recht haben<lb/> furchtbar und gut<add>&#63;</add>&#44; ich w&#252;nsche da&#223; <persName>N Eckman</persName><lb/> Ihren freie Ansicht selbst <add>&#63;</add> ich bin es fest<lb/> <add>&#63;</add> da&#223; Sie mit ihre <add>&#63;</add>br<add>&#63;</add>gt<add>&#63;</add> er unter<lb/> ich besitzen nicht die F&#228;higkeit es zu Ihrer Zufriedenheit<add>&#63;</add> zu<lb/> <add>&#63;</add></p>
-			<pb n="3"/>
-				<p>Schmerzlich ist er mir Ihre Angelegenheiten zu <add>&#63;</add><lb/> wir sehe ich und <hi rend="underline">viele</hi> Ihrer Freunde er hier h<add>&#63;</add><lb/> da&#223; Sie wieder <add>&#63;</add> <add>&#63;</add> bedarf ich Ihren k<add>&#63;</add><lb/> zu versichere&#44; ich b<add>&#63;</add> er sehe da&#223; die Leute so<lb/> bl<add>&#63;</add>d seine ko<add>&#63;</add>ten meine m<add>&#63;</add> der in <add>&#63;</add> hinsicht<add>&#63;</add><lb/> so <add>&#63;</add>dig der Stelle ist und ihr ihren sch&#246;ne und<lb/> endlich von so viele F<add>&#63;</add> d<add>&#63;</add>te nicht wieder zu<lb/> <add>&#63;</add>&#44; s<add>&#63;</add> Sie seht versichert da&#223; Ihre Freunder<lb/> sein f&#252;hlen&#44; und der Gott der die Guten Besch&#252;tz und<lb/> bel<add>&#63;</add>t wird Sie auf eine lieber Freund in seinen<lb/> V&#228;terlichen Sch&#252;tzen erfreuen.  Ich sagte da&#223; Sie mir<lb/> bald die Nachricht <add>&#63;</add>theilen da&#223; Sie eine Stellung<lb/> gefunden haben die in <add>&#63;</add> hinsicht f&#252;r Sie b<add>&#63;</add><lb/> ist.  Ich glaube Sie haben ganz recht gefundet gegen<add>&#63;</add><lb/> b<add>&#63;</add> Ihren <add>&#63;</add> Stellen abzulehnen und meiner<lb/> M&#252;tter Cousin <persName>Dr Adler</persName> auf dem ich wahrlich stolz<lb/> bin <add>&#63;</add> Ihnen W<add>&#63;</add> zu gut und wird mein<lb/> <add>&#63;</add> S<add>&#63;</add> stelle f&#252;r Sie finde.  Verlassen Sie die <placeName>U S</placeName><lb/> nicht es mehre <add>&#63;</add>lich ein harter Verlust f&#252;r<lb/> <hi rend="underline">Alle</hi> <hi rend="underline"><sic>Israelieten</sic></hi><add>&#63;</add> <hi rend="underline">der</hi> <hi rend="underline"><placeName>U S</placeName></hi>.  Einlegend <add>&#63;</add> Ihre<lb/> Check f&#252;r &#36;18 37&#47;100&#44; fallt Sie Zeit hat <add>&#63;</add> soll er mir<lb/> lieb sein <add>&#63;</add> Sie mir schriftlich unter <add>&#63;</add><lb/> nicht <add>&#63;</add> Sie in Ihrer n&#228;chst No ihr Occidents<lb/> Ich mu&#223; f&#252;r heute schelchte Leb Sie in <add>&#63;</add> ich verbleibe<lb/> achtungs voll</p> 
-			<p rend="indent(4)">ganz <add>&#63;</add>brecht</p>
-			<p rend="indent(5)"><persName role="author">Morris Meyer</persName></p>
-				<p>15.37 for 3 Books</p>
-				<p><hi rend="underline">   3 00</hi> Occident</p>
-				<p>&#36;18.37</p>
-			<pb n="4"/>
-				<p>paid</p>
-			<p rend="indent(1)"><addressee>Revd Isaac Leeser</addressee></p>
-			<p rend="indent(2)"><placeName>371 Walnut Street</placeName></p>
-			<p rend="indent(3)"><placeName><hi rend="underline">Philadelphia</hi></placeName></p>
-			<p rend="indent(4)"><placeName>P<hi rend="underline">a</hi></placeName></p>
-		</body>
-	</text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="yes">Meyer, Morris</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>TCAT</repository>
+                        <collection>Anonymous</collection>
+                        <idno>LSTCAT_item161</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="yes">Meyer, Morris</author>
+                        <addressee accepted="yes" attested="yes" editor="true">Leeser,
+                            Isaac</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>New York, NY</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="unk" source="" when=""/>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="il_tcat_item161_wk1_body0001.jpg"/>
+                                <graphic url="il_tcat_item161_wk1_body0002.jpg"/>
+                                <graphic url="il_tcat_item161_wk1_body0003.jpg"/>
+                                <graphic url="il_tcat_item161_wk1_body0004.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >letter</material>
+                                </support>
+                                <extent>4 pages on 2 sheets <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="de">German</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <p>
+                <addressee>Revd Isaac Leeser</addressee>
+            </p>
+            <p rend="indent(1)">
+                <placeName>Philadelphia</placeName>
+            </p>
+            <p rend="indent(3)">Dear Sir!</p>
+            <p>Ihre <add>?</add> Zuschrift <add>?</add> 3 Briefer hab zur Zeit<lb/> erhalten und
+                    er<add>?</add> wird schon fur <add>?</add> habe<lb/> jedoch ein
+                    <sic>Gescheftsreise</sic> in <placeName>Georgia</placeName> hielten mich<lb/>
+                dran zurück. Die Bucher finden Allgemeinen Beifall<lb/> und bin ich Ihren für Ihre
+                Güte <add>?</add>. Was<lb/> Sie mir in <add>?</add> Ihr <add>?</add>
+                    Publicationen<add>?</add> schreiben<lb/>
+                <add>?</add> sehen und für Sie <add>?</add> kann, und mit<lb/>
+                <add>?</add> soll es geschehen, jedoch bef<add>?</add>
+                <add>?</add><lb/> Erfolg <add>?</add> gut sein <add>?</add>d, es ist leide hier<lb/>
+                zu mal P<add>?</add> Gefuhl und dadurch muß Religion<lb/> naturlich leiden
+                    <persName>N Eckman</persName> ist s<add>?</add> mit ich ihr<lb/>
+                <add>?</add> ein <add>?</add> guter Mann ihr Alles <add>?</add>tet<lb/> unsere
+                Religion zu haben<add>?</add>, er hat leide in seiner</p>
+            <pb n="2"/>
+            <p>G<add>?</add>
+                <add>?</add> Geg<add>?</add> wir ein<add>?</add> guter Mann<lb/> sie hat, der
+                furchtbar die Wahrheit <add>?</add>, nicht<lb/> ein Leichtig<add>?</add> gelehrter
+                Mann &amp; die F<add>?</add>
+                <add>?</add>lese Sie<lb/> in Ihrer letzte No stellten ab die <hi rend="underline"
+                    >Bibel</hi> sein <hi rend="underline"><add>?</add></hi><lb/> ist <add>?</add>,
+                ich Ihren bef<add>?</add>gand b<add>?</add> er ist<lb/> die Gottesfurcht
+                    <add>?</add> er seiner G<add>?</add> g<add>?</add><lb/> er arbeitet
+                    seh<add>?</add> und so bringe ich sehr d<add>?</add> sein<lb/>
+                <add>?</add> ein Edler und Güter ist, an <add>?</add> ich seine<lb/> Freund bleiben
+                ein Mächter Gottes <add>?</add> seine Zeuge<lb/> nicht gel<add>?</add> haben, und
+                wenn er Diese sieht<lb/> die er für <add>?</add>cht halt<add>?</add> so muß er ihr
+                Recht haben<lb/> furchtbar und gut<add>?</add>, ich wünsche daß <persName>N
+                    Eckman</persName><lb/> Ihren freie Ansicht selbst <add>?</add> ich bin es fest<lb/>
+                <add>?</add> daß Sie mit ihre <add>?</add>br<add>?</add>gt<add>?</add> er unter<lb/>
+                ich besitzen nicht die Fähigkeit es zu Ihrer Zufriedenheit<add>?</add> zu<lb/>
+                <add>?</add></p>
+            <pb n="3"/>
+            <p>Schmerzlich ist er mir Ihre Angelegenheiten zu <add>?</add><lb/> wir sehe ich und <hi
+                    rend="underline">viele</hi> Ihrer Freunde er hier h<add>?</add><lb/> daß Sie
+                wieder <add>?</add>
+                <add>?</add> bedarf ich Ihren k<add>?</add><lb/> zu versichere, ich b<add>?</add> er
+                sehe daß die Leute so<lb/> bl<add>?</add>d seine ko<add>?</add>ten meine
+                    m<add>?</add> der in <add>?</add> hinsicht<add>?</add><lb/> so <add>?</add>dig
+                der Stelle ist und ihr ihren schöne und<lb/> endlich von so viele F<add>?</add>
+                    d<add>?</add>te nicht wieder zu<lb/>
+                <add>?</add>, s<add>?</add> Sie seht versichert daß Ihre Freunder<lb/> sein fühlen,
+                und der Gott der die Guten Beschütz und<lb/> bel<add>?</add>t wird Sie auf eine
+                lieber Freund in seinen<lb/> Väterlichen Schützen erfreuen. Ich sagte daß Sie
+                mir<lb/> bald die Nachricht <add>?</add>theilen daß Sie eine Stellung<lb/> gefunden
+                haben die in <add>?</add> hinsicht für Sie b<add>?</add><lb/> ist. Ich glaube Sie
+                haben ganz recht gefundet gegen<add>?</add><lb/> b<add>?</add> Ihren <add>?</add>
+                Stellen abzulehnen und meiner<lb/> Mütter Cousin <persName>Dr Adler</persName> auf
+                dem ich wahrlich stolz<lb/> bin <add>?</add> Ihnen W<add>?</add> zu gut und wird mein<lb/>
+                <add>?</add> S<add>?</add> stelle für Sie finde. Verlassen Sie die <placeName>U
+                    S</placeName><lb/> nicht es mehre <add>?</add>lich ein harter Verlust für<lb/>
+                <hi rend="underline">Alle</hi>
+                <hi rend="underline"><sic>Israelieten</sic></hi><add>?</add>
+                <hi rend="underline">der</hi>
+                <hi rend="underline"><placeName>U S</placeName></hi>. Einlegend <add>?</add>
+                Ihre<lb/> Check für $18 37/100, fallt Sie Zeit hat <add>?</add> soll er mir<lb/>
+                lieb sein <add>?</add> Sie mir schriftlich unter <add>?</add><lb/> nicht
+                    <add>?</add> Sie in Ihrer nächst No ihr Occidents<lb/> Ich muß für heute
+                schelchte Leb Sie in <add>?</add> ich verbleibe<lb/> achtungs voll</p>
+            <p rend="indent(4)">ganz <add>?</add>brecht</p>
+            <p rend="indent(5)">
+                <persName role="author">Morris Meyer</persName>
+            </p>
+            <p>15.37 for 3 Books</p>
+            <p><hi rend="underline"> 3 00</hi> Occident</p>
+            <p>$18.37</p>
+            <pb n="4"/>
+            <p>paid</p>
+            <p rend="indent(1)">
+                <addressee>Revd Isaac Leeser</addressee>
+            </p>
+            <p rend="indent(2)">
+                <placeName>371 Walnut Street</placeName>
+            </p>
+            <p rend="indent(3)">
+                <placeName>
+                    <hi rend="underline">Philadelphia</hi>
+                </placeName>
+            </p>
+            <p rend="indent(4)">
+                <placeName>P<hi rend="underline">a</hi></placeName>
+            </p>
+        </body>
+    </text>
 </TEI>

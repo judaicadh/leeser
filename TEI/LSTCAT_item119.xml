@@ -1,260 +1,347 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="yes">Carvalho, S. N.</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>TCAT</repository>
-						<collection>Anonymous</collection>
-						<idno>LSTCAT_item119</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="yes">Carvalho, S. N.</author>
-						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac</addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>Charleston, SC</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1852-08" source="" attested="yes">10 August 1852</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="il_tcat_item119_wk1_body0001.jpg"></graphic>
-								<graphic url="il_tcat_item119_wk1_body0002.jpg"></graphic>
-								<graphic url="il_tcat_item119_wk1_body0003.jpg"></graphic>
-								<graphic url="il_tcat_item119_wk1_body0004.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="false" paper_type="" size="">letter</material>
-								</support>
-								<extent>3 pages on 4 sheets
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="manuscript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="free">
-								<p>Unrestricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1"/>
-				<p><placeName>Charleston</placeName> <date>August 10<hi rend="sup">th</hi> 1852</date></p>
-				<p><addressee>Rev. I. Leeser</addressee> <placeName>Phil</placeName></p>
-			<p rend="indent(1)">My dear Sir</p>
-			<p rend="indent(2)">Your esteemed favor is at hand&#44; also<lb/> the <date>August</date> number of the Occident&#59; I trust the general<lb/> contents may cause men to see the necessity of making<lb/> some improvements in our Synagogue <sic>goverment</sic>.</p>
-			<p rend="indent(1)">Since I last wrote you&#44; <persName>Rev S Jacobs</persName> has been<lb/> here and he will in all probability be the minister<lb/> of KKSI. as over Thirty members including <persName>M Levin</persName><lb/> and <persName>M Valentine</persName> have pledged themselves to vote for him.<lb/>  To the great injustice of any other candidate who may<lb/> be on the way to apply for the situation.  I begin<lb/> to see now that those gentlemen who made objections<lb/> to your being our minister on account of your personal<lb/> inconvenience<add>&#63;</add>&#44; know more about the vacillating character<lb/> of the Congregation&#44; and had <hi rend="underline">your interest</hi> more at heart<lb/> that <hi rend="underline">I</hi> gave them credit for.  They pledged themselves<lb/> to you&#44; and notwithstanding your declining to become<lb/> a candidate&#44; if they really wanted you they should<lb/> at the Election have voted for you at all events for<lb/> the first ballots the converse was the case on receipt of your<lb/> letter they no longer considered themselves bound&#44; and almost<lb/> immediately&#44; transferred their preference for <persName>Dr Eckman</persName><lb/> a number sufficient to elect him&#44; was obtained<lb/> &#40;not by me for I took no ostensible part in it.&#41;<lb/>  <persName>M Valentine</persName> intended to call a caucus meeting to<lb/> get those persons to pledge themselves to elect him</p>
-			<pb n="2"/>
-				<p> &#8212; in mean time <persName>Mr Jacobs</persName> appears on the Japir<add>&#63;</add><lb/> on his way to <placeName>Mobile</placeName>.  He is invited to preach<lb/> and to say the prayers&#44; his manner of reading<lb/> and his <del>delivery</del> oratorical powers giving<lb/> satisfaction to the people&#44; without any more<lb/> ado.&#8212;they at once confer with him&#44; induce him<lb/> not to proceed to <placeName>Mobile</placeName>&#44; and at an informal meeting<lb/> unanimously invite him &#40;<persName>Mr Levin</persName> in the chair&#41; to<lb/> become a candidate&#44; and as a guarantee&#44; that<lb/> they will elect him&#44; provided him with a paper<lb/> signed by over thirty members pledging themselves<lb/> to that effect.  <hi rend="underline"><persName>Mr Leeser</persName></hi> &#38; <hi rend="underline"><persName>Dr Eckman</persName></hi> thrown<lb/> <hi rend="underline">under the Table</hi>.  I told <persName>Mr Jacobs</persName> that I could<lb/> not advocate his election in the first place I have<lb/> no vote and if I had it would be cast first<lb/> for yourself and if you could not be elected I would<lb/> then vote for <persName>Dr. E. Saml Hart Sen.</persName> &#38; <persName>Hyman Hart</persName><lb/> then present at the meeting but took no part except<lb/> to say that their action was doing injustice to<lb/> other candidates who might intend to apply.</p>
-				<p> &#8212; Comment is unnerving and you are better away<lb/> from them&#59; I enclose you a letter recd yesterday<lb/> from <persName>Mr Henry</persName> by <persName>Mr Valentine</persName>&#44; I requested it of him<lb/> and I send it to you that you may &#8220;<hi rend="underline">Prepare</hi>&#8221; as<lb/> the congregation <hi rend="underline">do not intend</hi> to act in the matter<lb/> so says <persName>Valentine</persName>&#44; at same time I would advise that<lb/> <hi rend="underline">you</hi> remain <hi rend="underline">perfectly silent</hi>.<lb/> &#8220;entre nous&#8221; Yesterday I recd a letter from <placeName>New Orleans</placeName><lb/> from one of the Trustees of K. K. Dispersed of Israel</p>
-			<pb n="3"/>
-				<p>informing me that <persName>Rev M N Nathan</persName> had <sic>voluntary</sic><lb/> resigned his office as minister&#44; and requesting me to<lb/> inform <persName>Dr Eckman</persName> of this fact and to invite him<lb/> to <del>become a candidate</del> apply for the situation<lb/> as <sic>If</sic> they can procure a minister without advertising<lb/> they would prefer it no reason being assigned<lb/> for the resignation of <persName>Mr Nathan</persName>.  <persName>Dr Eckman</persName><lb/> has written to <persName>Mr Nathan</persName> to know from him<lb/> whether his resignation is permanent or whether<lb/> he would again resume office if matters were<lb/> accommodated to him&#44; as he would not interrupt<lb/> or make application&#44; without he first <hi rend="underline">was certain</hi><lb/> of this fact.  Should such be the case&#44; and<lb/> you do not intend to apply&#44; your influence <add>&#63;</add><lb/> the President <persName>S Kursheet</persName> might have some weight<lb/> to induce them to accept him&#44; I take it for granted<lb/> that they have not <hi rend="underline">offered</hi> you the situation as my<lb/> letter is from one of the Trustees.  <persName>Mr Myer Simpson</persName></p>
-			<p rend="indent(1)">I should like to see the Doctor in a proper position<lb/> when his usefulness could be made available&#44;<lb/> the more I see and know of him the more impressed<lb/> I am with the importance of his mission to <placeName>Israel</placeName>.<lb/>  He is preparing a continuation of his article for<lb/> the Occident <hi rend="underline">save room</hi> for it it will be on in a<lb/> few days.</p>
-			<p rend="indent(1)"><sic>remember</sic> me to our friend <persName>S.S.</persName> and Lady and<lb/> all friends.  I intended to have written more but<lb/> I am called of. &#32;  Yours Sincerely</p>
-			<p rend="indent(5)"><persName role="author">S N Carvalho</persName></p>
-				<p><persName>Sarah</persName> regards to you</p>
-			<pb n="4"/>
-				<p><addressee>Rev Isaac Leeser</addressee></p>
-				<p>Editor Occident</p>
-				<p><placeName>Walnut St near Thirteenth</placeName></p>
-			<p rend="indent(1)"><placeName>Philadelphia</placeName></p>
-		</body>
-	</text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="yes">Carvalho, S. N.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>TCAT</repository>
+                        <collection>Anonymous</collection>
+                        <idno>LSTCAT_item119</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="yes">Carvalho, S.
+                            N.</author>
+                        <addressee accepted="yes" attested="yes" editor="false">Leeser,
+                            Isaac</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Charleston, SC</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1852-08">10 August 1852</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="il_tcat_item119_wk1_body0001.jpg"/>
+                                <graphic url="il_tcat_item119_wk1_body0002.jpg"/>
+                                <graphic url="il_tcat_item119_wk1_body0003.jpg"/>
+                                <graphic url="il_tcat_item119_wk1_body0004.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >letter</material>
+                                </support>
+                                <extent>3 pages on 4 sheets <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <p>
+                <placeName>Charleston</placeName>
+                <date>August 10<hi rend="sup">th</hi> 1852</date>
+            </p>
+            <p>
+                <addressee>Rev. I. Leeser</addressee>
+                <placeName>Phil</placeName>
+            </p>
+            <p rend="indent(1)">My dear Sir</p>
+            <p rend="indent(2)">Your esteemed favor is at hand, also<lb/> the <date>August</date>
+                number of the Occident; I trust the general<lb/> contents may cause men to see the
+                necessity of making<lb/> some improvements in our Synagogue
+                <sic>goverment</sic>.</p>
+            <p rend="indent(1)">Since I last wrote you, <persName>Rev S Jacobs</persName> has
+                been<lb/> here and he will in all probability be the minister<lb/> of KKSI. as over
+                Thirty members including <persName>M Levin</persName><lb/> and <persName>M
+                    Valentine</persName> have pledged themselves to vote for him.<lb/> To the great
+                injustice of any other candidate who may<lb/> be on the way to apply for the
+                situation. I begin<lb/> to see now that those gentlemen who made objections<lb/> to
+                your being our minister on account of your personal<lb/> inconvenience<add>?</add>,
+                know more about the vacillating character<lb/> of the Congregation, and had <hi
+                    rend="underline">your interest</hi> more at heart<lb/> that <hi rend="underline"
+                    >I</hi> gave them credit for. They pledged themselves<lb/> to you, and
+                notwithstanding your declining to become<lb/> a candidate, if they really wanted you
+                they should<lb/> at the Election have voted for you at all events for<lb/> the first
+                ballots the converse was the case on receipt of your<lb/> letter they no longer
+                considered themselves bound, and almost<lb/> immediately, transferred their
+                preference for <persName>Dr Eckman</persName><lb/> a number sufficient to elect him,
+                was obtained<lb/> (not by me for I took no ostensible part in it.)<lb/>
+                <persName>M Valentine</persName> intended to call a caucus meeting to<lb/> get those
+                persons to pledge themselves to elect him</p>
+            <pb n="2"/>
+            <p> — in mean time <persName>Mr Jacobs</persName> appears on the Japir<add>?</add><lb/>
+                on his way to <placeName>Mobile</placeName>. He is invited to preach<lb/> and to say
+                the prayers, his manner of reading<lb/> and his <del>delivery</del> oratorical
+                powers giving<lb/> satisfaction to the people, without any more<lb/> ado.—they at
+                once confer with him, induce him<lb/> not to proceed to
+                    <placeName>Mobile</placeName>, and at an informal meeting<lb/> unanimously
+                invite him (<persName>Mr Levin</persName> in the chair) to<lb/> become a candidate,
+                and as a guarantee, that<lb/> they will elect him, provided him with a paper<lb/>
+                signed by over thirty members pledging themselves<lb/> to that effect. <hi
+                    rend="underline"><persName>Mr Leeser</persName></hi> &amp; <hi rend="underline"
+                        ><persName>Dr Eckman</persName></hi> thrown<lb/>
+                <hi rend="underline">under the Table</hi>. I told <persName>Mr Jacobs</persName>
+                that I could<lb/> not advocate his election in the first place I have<lb/> no vote
+                and if I had it would be cast first<lb/> for yourself and if you could not be
+                elected I would<lb/> then vote for <persName>Dr. E. Saml Hart Sen.</persName> &amp;
+                    <persName>Hyman Hart</persName><lb/> then present at the meeting but took no
+                part except<lb/> to say that their action was doing injustice to<lb/> other
+                candidates who might intend to apply.</p>
+            <p> — Comment is unnerving and you are better away<lb/> from them; I enclose you a
+                letter recd yesterday<lb/> from <persName>Mr Henry</persName> by <persName>Mr
+                    Valentine</persName>, I requested it of him<lb/> and I send it to you that you
+                may “<hi rend="underline">Prepare</hi>” as<lb/> the congregation <hi
+                    rend="underline">do not intend</hi> to act in the matter<lb/> so says
+                    <persName>Valentine</persName>, at same time I would advise that<lb/>
+                <hi rend="underline">you</hi> remain <hi rend="underline">perfectly
+                silent</hi>.<lb/> “entre nous” Yesterday I recd a letter from <placeName>New
+                    Orleans</placeName><lb/> from one of the Trustees of K. K. Dispersed of
+                Israel</p>
+            <pb n="3"/>
+            <p>informing me that <persName>Rev M N Nathan</persName> had <sic>voluntary</sic><lb/>
+                resigned his office as minister, and requesting me to<lb/> inform <persName>Dr
+                    Eckman</persName> of this fact and to invite him<lb/> to <del>become a
+                    candidate</del> apply for the situation<lb/> as <sic>If</sic> they can procure a
+                minister without advertising<lb/> they would prefer it no reason being assigned<lb/>
+                for the resignation of <persName>Mr Nathan</persName>. <persName>Dr
+                    Eckman</persName><lb/> has written to <persName>Mr Nathan</persName> to know
+                from him<lb/> whether his resignation is permanent or whether<lb/> he would again
+                resume office if matters were<lb/> accommodated to him, as he would not
+                interrupt<lb/> or make application, without he first <hi rend="underline">was
+                    certain</hi><lb/> of this fact. Should such be the case, and<lb/> you do not
+                intend to apply, your influence <add>?</add><lb/> the President <persName>S
+                    Kursheet</persName> might have some weight<lb/> to induce them to accept him, I
+                take it for granted<lb/> that they have not <hi rend="underline">offered</hi> you
+                the situation as my<lb/> letter is from one of the Trustees. <persName>Mr Myer
+                    Simpson</persName></p>
+            <p rend="indent(1)">I should like to see the Doctor in a proper position<lb/> when his
+                usefulness could be made available,<lb/> the more I see and know of him the more
+                impressed<lb/> I am with the importance of his mission to
+                    <placeName>Israel</placeName>.<lb/> He is preparing a continuation of his
+                article for<lb/> the Occident <hi rend="underline">save room</hi> for it it will be
+                on in a<lb/> few days.</p>
+            <p rend="indent(1)"><sic>remember</sic> me to our friend <persName>S.S.</persName> and
+                Lady and<lb/> all friends. I intended to have written more but<lb/> I am called of.
+                Yours Sincerely</p>
+            <p rend="indent(5)">
+                <persName role="author">S N Carvalho</persName>
+            </p>
+            <p><persName>Sarah</persName> regards to you</p>
+            <pb n="4"/>
+            <p>
+                <addressee>Rev Isaac Leeser</addressee>
+            </p>
+            <p>Editor Occident</p>
+            <p>
+                <placeName>Walnut St near Thirteenth</placeName>
+            </p>
+            <p rend="indent(1)">
+                <placeName>Philadelphia</placeName>
+            </p>
+        </body>
+    </text>
 </TEI>

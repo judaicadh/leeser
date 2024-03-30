@@ -1,302 +1,458 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE TEI [
-<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
-%teibase;
-<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
-%teiext;
-]>
-<TEI>
-    <teiHeader>
-      <fileDesc>
-        <titleStmt>
-          <title>[no title given]</title>
-          <author attested="yes" accepted="yes" signature="yes">Slatky, Isaac M.</author>
-          <editor></editor>
-          <sponsor></sponsor>
-          <funder></funder>
-          <principal></principal>
-          <respStmt>
-            <resp></resp>
-            <name></name>
-          </respStmt>
-        </titleStmt>
-        <editionStmt>
-          <edition></edition>
-          <respStmt>
-            <resp></resp>
-            <name></name>
-          </respStmt>
-        </editionStmt>
-        <extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-        <publicationStmt>
-          <publisher>Unpublished manuscript</publisher>
-        </publicationStmt>
-        <seriesStmt>
-          <p>Not part of a series</p>
-        </seriesStmt>
-        <notesStmt>
-          <note></note>
-        </notesStmt>
-        <sourceDesc>
-          <biblStruct>
-            <!-- catalog entry goes here -->
-            <monogr>
-              <imprint>
-                <dateLet></dateLet>
-              </imprint>
-            </monogr>
-          </biblStruct>
-          <msDesc>
-            <msIdentifier>
-              <country>USA</country>
-              <region>PA</region>
-              <settlement>Philadelphia</settlement>
-              <institution></institution>
-              <repository>CAJS Isaac Leeser Collection</repository>
-              <collection>The Library of the Dropsie College for Hebrew and Cognate Learning</collection>
-              <idno>LSDCBx1FF6_41</idno>
-              <altIdentifier>
-                <idno></idno>
-              </altIdentifier>
-              <msName></msName>
-            </msIdentifier>
-            <head></head>
-            <letHeading>
-              <author attested="yes" accepted="yes" signature="yes">Slatky, Isaac M.</author>
-              <addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac, Rev.</addressee>
-              <deliverer></deliverer>
-              <respStmt>
-                <resp></resp>
-                <name></name>
-              </respStmt>
-              <placeLet>Buffalo, NY</placeLet>
-              <placeRec>Philadelphia, PA</placeRec>
-              <dateLet when="1849-06" source="" attested="yes">June 1849</dateLet>
-              <dateLet when="1849-06" source="" attested="yes">14 Sivan 5609</dateLet>
-            </letHeading>
-            <msContents>
-              <msItem>
-                <author></author>
-                <editor></editor>
-                <respStmt>
-                  <resp></resp>
-                  <name></name>
-                </respStmt>
-                <title></title>
-                <decoNote></decoNote>
-                <listBibl>
-                  <bibl></bibl>
-                </listBibl>
-                <filiation></filiation>
-                <textLang></textLang>
-                <figure>
-                  <graphic url="ilcajs_b1f6_0038_1r.tif"/>
-                  <graphic url="ilcajs_b1f6_0038_1v.tif"/>
-                  <graphic url="ilcajs_b1f6_0038_2r.tif"/>
-                  <graphic url="ilcajs_b1f6_0038_2v.tif"/>
-                </figure>
-              </msItem>
-            </msContents>
-            <physDesc>
-              <objectDesc>
-                <supportDesc>
-                  <support>
-                    <material color="" lined="unk" paper_type="" size="Letter">letter</material>
-                  </support>
-                  <extent>9 pages on 7 sheets
-                    <dimensions></dimensions>
-                  </extent>
-                  <foliation></foliation>
-                  <collation></collation>
-                  <condition fragment="false"></condition>
-                </supportDesc>
-                <layoutDesc>
-                  <layout></layout>
-                </layoutDesc>
-              </objectDesc>
-              <handDesc script="manuscript">
-                  <handNote></handNote>
-              </handDesc>
-              <decoDesc>
-                <decoNote></decoNote>
-              </decoDesc>
-              <additions></additions>
-              <bindingDesc>
-                <binding>
-                  <decoNote></decoNote>
-                </binding>
-              </bindingDesc>
-              <sealDesc>
-                <seal>
-                  <p>Wax seal</p>
-                </seal>
-              </sealDesc>
-              <accMat></accMat>
-              <envDesc occ="false"></envDesc>
-            </physDesc>
-            <history>
-              <origin></origin>
-              <provenance></provenance>
-              <acquisition></acquisition>
-            </history>
-            <additional>
-              <adminInfo>
-                <recordHist>
-                  <source></source>
-                  <change></change>
-                </recordHist>
-                <availability status="free">
-                  <p>Unrestricted</p>
-                </availability>
-                <custodialHist>
-                  <custEvent></custEvent>
-                </custodialHist>
-              </adminInfo>
-              <surrogates></surrogates>
-              <listBibl>
-                <bibl></bibl>
-              </listBibl>
-            </additional>
-            <msPart>
-              <altIdentifier>
-                <idno></idno>
-              </altIdentifier>
-            </msPart>
-          </msDesc>
-        </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-        <projectDesc>
-          <p></p>
-        </projectDesc>
-        <samplingDecl>
-          <p></p>
-        </samplingDecl>
-        <editorialDecl>
-          <correction>
-            <p></p>
-          </correction>
-          <normalization>
-            <p></p>
-          </normalization>
-          <quotation>
-            <p></p>
-          </quotation>
-          <hyphenation>
-            <p></p>
-          </hyphenation>
-          <segmentation>
-            <p></p>
-          </segmentation>
-          <stdVals>
-            <p></p>
-          </stdVals>
-          <interpretation>
-            <p></p>
-          </interpretation>
-        </editorialDecl>
-        <tagsDecl>
-          <rendition></rendition>
-          <namespace name="http://www.tei-c.org/ns/1.0">
-            <tagUsage gi=""></tagUsage>
-          </namespace>
-        </tagsDecl>
-        <refsDecl>
-          <cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-        </refsDecl>
-        <refsDecl>
-          <refState unit=""/>
-        </refsDecl>
-        <classDecl>
-          <taxonomy>
-            <category>
-              <catDesc></catDesc>
-            </category>
-          </taxonomy>
-        </classDecl>
-        <appInfo>
-          <application ident="" version="">
-            <desc></desc>
-            <label></label>
-          </application>
-        </appInfo>
-      </encodingDesc>
-      <profileDesc>
-        <creation></creation>
-        <langUsage>
-          <language ident="en">English</language>
-          <language ident="he">Hebrew</language>
-        </langUsage>
-        <textClass>
-          <keywords scheme="unknown">
-            <list>
-              <item></item>
-              <item></item>
-            </list>
-          </keywords>
-          <classCode scheme=""></classCode>
-          <catRef/>
-        </textClass>
-      </profileDesc>
-      <revisionDesc>
-        <change></change>
-      </revisionDesc>
-    </teiHeader>
-    <text>
-        <body>
-      
-		<pb n="1"/>
-			<p><add>Hebrew</add></p>
-		<pb n="2"/>
-			<p><add>Hebrew</add></p>
-			<p>to institute the Portuguese <add>Hebrew</add> through whole<lb/> <placeName><hi rend="underline">America</hi></placeName>. with out distintione<add>&#63;</add> of <hi rend="underline">Native Land</hi><lb/> whether&#44; <hi rend="underline">Pole</hi>&#44; <hi rend="underline">German</hi>&#44; <hi rend="underline">English</hi>&#44; or<lb/> <sic><hi rend="underline">Americane</hi></sic>&#44;</p>
-          <p rend="indent(2)"><addressee>Revd Sir Mr Leeser</addressee>.</p>
-          <p rend="indent(1)">I am in great hope&#44; that&#44; the assembly&#44;<lb/> will cause&#44; my freedom in giving <add>&#63;</add><lb/> my advice <sic>gratio</sic>&#44; and prove a Body<lb/> who is not much learned mere&#44; who are to<lb/> assemble very soon&#44; please&#44; to lay<lb/> my Letter before the Assembly</p>
-		<pb n="3"/>
-			<p>and also to put it in <hi rend="underline">print</hi>&#44; in your<lb/> valuable Book the Occident. and<lb/> have the goodness&#44; to inform me<lb/> of the result&#44; of your Meeting.<lb/> I <sic>wuld</sic> have written&#44; in the English<lb/> Language <sic>intyrly</sic>&#44; but&#44; I<lb/> can&#39;t express myself so well with<lb/> English language&#44; as in the Hebrew<lb/> therefore&#44; I was compelled by<lb/> persuasion of my friends to <sic>adress</sic><lb/> my letter to you&#44; in the Holy Langu&#44;&#44;<lb/>&#44;&#44;age&#44; and hope that&#44; the awe also form<lb/> of Prayers&#44; and also&#44; the <add>Hebrew</add> of Reading<lb/> fore ever&#44; and ever&#44; Amen.</p>
-			<p><add>Hebrew</add></p>
-			<p><hi rend="underline">Amen</hi></p>
-          <p><sic>adress</sic> <hi rend="indent(7)">I am your most Respected</hi></p>
-          <p><persName role="author">Isaac Moses Slatky</persName> <hi rend="indent(6)">and <sic>devouted</sic> for the Israe&#44;&#44;</hi></p>
-          <p>care of Mr <hi rend="indent(7)">litsch faith <sic>voor</sic> ever and</hi></p>
-          <p><persName>E. Bernheimer</persName> <hi rend="indent(7)">ever.</hi></p>
-          <p><placeName><hi rend="underline">Buffalo N. Y. </hi></placeName> <hi rend="indent(7)"><persName role="author">Isaac M. Slatky</persName></hi></p>
-          <p rend="indent(8)"> care <add>&#63;</add> of</p> 
-          <p rend="indent(8)">the Buffalo Hebrew</p> 
-          <p rend="indent(9)">Congregation.</p>
-			<p rend="A note in Hebrew is written sideways in left margin"></p>
-		<pb n="4"/>
-			<p>Revd</p>
-			<p><addressee>Isaac Leeser</addressee></p>
-			<p>Editor of the Occident</p>
-			<p><placeName><hi rend="underline">Philadelphia.Pa</hi></placeName></p>
-		<pb n="5"/>
-			<p>The interesting thing about this<lb/> letter which comes from a pious soul<lb/> though a befuddled mind&#44; is the <sic>naivite</sic><lb/> with which orthodox Jews regarded<lb/> reformers. This man thought that<lb/> they were aching for a change&#44; any<lb/> change</p>
-		<pb n="6"/>
-			<p><placeName>Buffalo</placeName>&#44; <date>Sunday&#44; 14 Sivan&#44; 5609</date> &#91;<date>June 1849</date>&#93;</p>
-			<p>To the accomplished etc. etc</p>
-			<p>I heard from indirect sources&#44; and also have read in the<lb/> Occident&#44; that scholars and rabbis living here in <placeName>America</placeName>&#44; and<lb/> who sit on the seat of instruction to teach the children of <placeName>Israel</placeName> the<lb/> way to go and the thing to do&#44; will soon gather in assembly.<lb/> Although I have not attained to the destruction of being one of the<lb/> delegates&#44; for I am a stranger here&#44; a guest who seeks no more<lb/> than lodgings&#44; and cannot compare with you&#59; nevertheless&#44;<lb/> I cannot refrain&#44; and shut my mouth. I want to know why<lb/> and wherefore. In this great cry I&#44; the youngest among the<lb/> families of <placeName>Israel</placeName>&#44; agree with the learned <persName>Mr. S. Abraham</persName><lb/> with regard to everything he pointed out in the Occident of<lb/> last month. Your Honor knows that to the customs of our<lb/> fathers one may not add&#44; nor detract from them. Then again&#44;<lb/> my soul wants to know how it is possible to imagine<lb/> changing the prayers now established&#59; to distort the<lb/> established rules of <persName>Ezra</persName> the Scribe &#91;his memory for a<lb/> blessing&#93;&#44; with whom were many prophets&#44; and whose<lb/> actions were undertaken at God&#39;s command and <sic>insperation</sic>.<lb/> How can we&#44; therefore&#44; consider the reduction of the number<lb/> called up to the Torah on every holy <date>Sabbath</date> from the<lb/> number severe and one <hi rend="underline"><add>&#63;</add></hi>. They may be wise&#44; but<lb/> they do not know how to do good. All they can do is to come<lb/> together and place a yoke and a burden upon us. They<lb/> have a sword in their hand to cut down the tree of the<lb/> knowledge of good&#44; and to change the traditions of our</p>
-		<pb n="7"/>
-			<p>sages &#91;their memory for a blessing&#93; and prophets<lb/> &#91;their soul rest in the bag of life&#93;. I therefore come with<lb/> a plea and request to your Great Honor not to<lb/> obey the priest who comes to perform the service of<lb/> the high priest in the holy place&#44; and like a poor<lb/> man on <date><hi rend="underline">Passover</hi></date> <del>who</del> begs for a piece of <hi rend="underline">bread</hi> to<lb/> support his breaking heart&#44; thus changing the order of<lb/> <sic>of</sic> purity and holiness&#44; to pray in a strange language&#44;<lb/> and perverted speech. What is this strange service<lb/> which we&#44; the congregation of <placeName>Israel</placeName>&#44; the witnesses of<lb/> <placeName>Sinai</placeName>&#44; the descendants of <persName>Abraham</persName>&#44; must never&#44; never<lb/> God forbid&#44; do this&#63;</p>
-			<p>My hand is still stretched out&#44; and my quick pen<lb/> continues to speak&#44; to be a good pleader and intercessor&#44;<lb/> to speak righteousness for those who are about to<lb/> meet in the shadow of fine perfume. Who is the first<lb/> who began to change our holy language for a foreign one&#63; And<lb/> seeking one&#39;s people&#39;s good&#44; for the remnant of <placeName>Israel</placeName> who do<lb/> no evil&#44; &#40;one understands that&#41; the scattered grapes of <persName>Ephraim</persName><lb/> are better than the entire crop of <persName><hi rend="underline">Yahuda</hi></persName>&#42;. Outside of the lang<add>&#63;</add><lb/> is there no wisdom in it. Ah&#44; to teach these <hi rend="underline">goyim</hi> we have<lb/> numerous commentaries on the Torah and the commandments&#44; so<lb/> what more do we have to call out to God&#44; the Lord of Hosts&#44;<lb/> the God of <placeName>Israel</placeName>. We have six volumes of <hi rend="underline">Gemara</hi>&#44;<lb/> and ethical books&#44; and legal works of the elder and younger<lb/> legalists&#8212;wealth of mind. We have no portion or inheritance</p>
-			<p>&#42;Evidently this scatter brain means that the least of the Hebrew is superior to<lb/> the most of the German&#45;Jewish culture.</p>
-		<pb n="8"/>
-			<p>in new covenants. Why then are Jewish children taught<lb/> to go in foreign ways&#44; contrary to our holy Law. My<lb/> heart&#44; my heart&#33; How great is my pain&#44; and my<lb/> eyes shed tears because of the breach of my people</p>
-			<p>But&#33; I have a good plan&#44; that seems to me<lb/> excellent. If you want to take my advice&#44; let it be<lb/> as you say&#44; change the ordinances of the sages and<lb/> at the same time remain God&#45;fearing&#44; Create a new<lb/> tradition among the Jews who live in <placeName>America</placeName></p>
-		<pb n="9"/>
-			<p rend="align(center)"><hi rend="underline">On last page of the Letter</hi></p>
-			<p>Torah</p>
-			<p>Till the coming of the Messiah&#44; soon in our<lb/> day. So may it be God&#39;s will&#44; and let us say</p>
-			<p><hi rend="underline">Amen</hi></p>
-			<p rend="On margin"></p>
-			<p><hi rend="underline">P. S.</hi></p>
-			<p>This moment I spoke with the president of the<lb/> <placeName>Buffalo</placeName> congregation&#44; and pleaded with him to send<lb/> to the place of your meeting. At the moment who could<lb/> not give me a <del>proper</del> satisfactory reply&#8212;not<lb/> till he talks to the members of the congregation. Then<lb/> we shall see about his plans...</p>
-			<p><persName role="author">S. M. S.</persName></p>
-			<p>from <placeName><hi rend="underline">Posen</hi></placeName></p>
-          
-          <div>
-            <p><ref target="Occident_PDFs/Occ_7_4.pdf">The above text refers to Occident Volume 7 No. 4 page 143. Click here to view.</ref></p>
-          </div> 
-        </body>
-    </text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+          <teiHeader>
+
+                    <fileDesc>
+                              <titleStmt>
+                                        <title>[no title given]</title>
+                                        <author accepted="yes" attested="yes" signature="yes"
+                                                  >Slatky, Isaac M.</author>
+                                        <editor/>
+                                        <sponsor/>
+                                        <funder/>
+                                        <principal/>
+                                        <respStmt>
+                                                  <resp/>
+                                                  <name/>
+                                        </respStmt>
+                              </titleStmt>
+                              <editionStmt>
+                                        <edition/>
+                                        <respStmt>
+                                                  <resp/>
+                                                  <name/>
+                                        </respStmt>
+                              </editionStmt>
+                              <extent>[information about file size goes here, information about
+                                        extent of physical item comes later]</extent>
+                              <publicationStmt>
+                                        <publisher>Unpublished manuscript</publisher>
+                              </publicationStmt>
+                              <seriesStmt>
+                                        <p>Not part of a series</p>
+                              </seriesStmt>
+                              <notesStmt>
+                                        <note/>
+                              </notesStmt>
+                              <sourceDesc>
+                                        <biblStruct>
+                                                  <!-- catalog entry goes here -->
+                                                  <monogr>
+                                                  <imprint>
+                                                  <dateLet/>
+                                                  </imprint>
+                                                  </monogr>
+                                        </biblStruct>
+                                        <msDesc>
+                                                  <msIdentifier>
+                                                  <country>USA</country>
+                                                  <region>PA</region>
+                                                  <settlement>Philadelphia</settlement>
+                                                  <institution/>
+                                                  <repository>CAJS Isaac Leeser
+                                                  Collection</repository>
+                                                  <collection>The Library of the Dropsie College for
+                                                  Hebrew and Cognate Learning</collection>
+                                                  <idno>LSDCBx1FF6_41</idno>
+                                                  <altIdentifier>
+                                                  <idno/>
+                                                  </altIdentifier>
+                                                  <msName/>
+                                                  </msIdentifier>
+                                                  <head/>
+                                                  <letHeading>
+                                                  <author accepted="yes" attested="yes"
+                                                  signature="yes">Slatky, Isaac M.</author>
+                                                  <addressee accepted="yes" attested="yes"
+                                                  editor="false">Leeser, Isaac, Rev.</addressee>
+                                                  <deliverer/>
+                                                  <respStmt>
+                                                  <resp/>
+                                                  <name/>
+                                                  </respStmt>
+                                                  <placeLet>Buffalo, NY</placeLet>
+                                                  <placeRec>Philadelphia, PA</placeRec>
+                                                  <dateLet attested="yes" source="" when="1849-06"
+                                                  >June 1849</dateLet>
+                                                  <dateLet attested="yes" source="" when="1849-06"
+                                                  >14 Sivan 5609</dateLet>
+                                                  </letHeading>
+                                                  <msContents>
+                                                  <msItem>
+                                                  <author/>
+                                                  <editor/>
+                                                  <respStmt>
+                                                  <resp/>
+                                                  <name/>
+                                                  </respStmt>
+                                                  <title/>
+                                                  <decoNote/>
+                                                  <listBibl>
+                                                  <bibl/>
+                                                  </listBibl>
+                                                  <filiation/>
+                                                  <textLang/>
+                                                  <figure>
+                                                  <graphic url="ilcajs_b1f6_0038_1r.tif"/>
+                                                  <graphic url="ilcajs_b1f6_0038_1v.tif"/>
+                                                  <graphic url="ilcajs_b1f6_0038_2r.tif"/>
+                                                  <graphic url="ilcajs_b1f6_0038_2v.tif"/>
+                                                  </figure>
+                                                  </msItem>
+                                                  </msContents>
+                                                  <physDesc>
+                                                  <objectDesc>
+                                                  <supportDesc>
+                                                  <support>
+                                                  <material color="" lined="unk" paper_type=""
+                                                  size="Letter">letter</material>
+                                                  </support>
+                                                  <extent>9 pages on 7 sheets <dimensions/>
+                                                  </extent>
+                                                  <foliation/>
+                                                  <collation/>
+                                                  <condition fragment="false"/>
+                                                  </supportDesc>
+                                                  <layoutDesc>
+                                                  <layout/>
+                                                  </layoutDesc>
+                                                  </objectDesc>
+                                                  <handDesc script="manuscript">
+                                                  <handNote/>
+                                                  </handDesc>
+                                                  <decoDesc>
+                                                  <decoNote/>
+                                                  </decoDesc>
+                                                  <additions/>
+                                                  <bindingDesc>
+                                                  <binding>
+                                                  <decoNote/>
+                                                  </binding>
+                                                  </bindingDesc>
+                                                  <sealDesc>
+                                                  <seal>
+                                                  <p>Wax seal</p>
+                                                  </seal>
+                                                  </sealDesc>
+                                                  <accMat/>
+                                                  <envDesc occ="false"/>
+                                                  </physDesc>
+                                                  <history>
+                                                  <origin/>
+                                                  <provenance/>
+                                                  <acquisition/>
+                                                  </history>
+                                                  <additional>
+                                                  <adminInfo>
+                                                  <recordHist>
+                                                  <source/>
+                                                  <change/>
+                                                  </recordHist>
+                                                  <availability status="free">
+                                                  <p>Unrestricted</p>
+                                                  </availability>
+                                                  <custodialHist>
+                                                  <custEvent/>
+                                                  </custodialHist>
+                                                  </adminInfo>
+                                                  <surrogates/>
+                                                  <listBibl>
+                                                  <bibl/>
+                                                  </listBibl>
+                                                  </additional>
+                                                  <msPart>
+                                                  <altIdentifier>
+                                                  <idno/>
+                                                  </altIdentifier>
+                                                  </msPart>
+                                        </msDesc>
+                              </sourceDesc>
+                    </fileDesc>
+                    <encodingDesc>
+                              <projectDesc>
+                                        <p/>
+                              </projectDesc>
+                              <samplingDecl>
+                                        <p/>
+                              </samplingDecl>
+                              <editorialDecl>
+                                        <correction>
+                                                  <p/>
+                                        </correction>
+                                        <normalization>
+                                                  <p/>
+                                        </normalization>
+                                        <quotation>
+                                                  <p/>
+                                        </quotation>
+                                        <hyphenation>
+                                                  <p/>
+                                        </hyphenation>
+                                        <segmentation>
+                                                  <p/>
+                                        </segmentation>
+                                        <stdVals>
+                                                  <p/>
+                                        </stdVals>
+                                        <interpretation>
+                                                  <p/>
+                                        </interpretation>
+                              </editorialDecl>
+                              <tagsDecl>
+                                        <rendition/>
+                                        <namespace name="http://www.tei-c.org/ns/1.0">
+                                                  <tagUsage gi=""/>
+                                        </namespace>
+                              </tagsDecl>
+                              <refsDecl>
+                                        <cRefPattern matchPattern="" replacementPattern=""/>
+                              </refsDecl>
+                              <refsDecl>
+                                        <refState unit=""/>
+                              </refsDecl>
+                              <classDecl>
+                                        <taxonomy>
+                                                  <category>
+                                                  <catDesc/>
+                                                  </category>
+                                        </taxonomy>
+                              </classDecl>
+                              <appInfo>
+                                        <application ident="" version="">
+                                                  <desc/>
+                                                  <label/>
+                                        </application>
+                              </appInfo>
+                    </encodingDesc>
+                    <profileDesc>
+                              <creation/>
+                              <langUsage>
+                                        <language ident="en">English</language>
+                                        <language ident="he">Hebrew</language>
+                              </langUsage>
+                              <textClass>
+                                        <keywords scheme="unknown">
+                                                  <list>
+                                                  <item/>
+                                                  <item/>
+                                                  </list>
+                                        </keywords>
+                                        <classCode scheme=""/>
+                                        <catRef/>
+                              </textClass>
+                    </profileDesc>
+                    <revisionDesc>
+                              <change/>
+                    </revisionDesc>
+          </teiHeader>
+          <text>
+                    <body>
+                              <pb n="1"/>
+                              <p>
+                                        <add>??? ?? יום א ז"ך סיון קול מבשר ואומר ???</add>
+                              </p>
+                              <pb n="2"/>
+                              <p>
+                                        <add>אל ה"ב המושלם נעים ??? ישראל ?? יצחק ??? בעיר
+                                                  פילאדאלפיה עא</add>
+                              </p>
+                              <p>to institute the Portuguese <add>הנה שמעתי מאחורי הפרגוד, וגם זכיתי
+                                                  לקרוא בספר אקסידענט, ??? ???</add> through whole<lb/>
+                                        <placeName><hi rend="underline">America</hi></placeName>.
+                                        with out distintione<add>?</add> of <hi rend="underline"
+                                                  >Native Land</hi><lb/> whether, <hi
+                                                  rend="underline">Pole</hi>, <hi rend="underline"
+                                                  >German</hi>, <hi rend="underline">English</hi>, or<lb/>
+                                        <sic><hi rend="underline">Americane</hi></sic>,</p>
+                              <p rend="indent(2)"><addressee>Revd Sir Mr Leeser</addressee>.</p>
+                              <p rend="indent(1)">I am in great hope, that, the assembly,<lb/> will
+                                        cause, my freedom in giving <add>?</add><lb/> my advice
+                                                  <sic>gratio</sic>, and prove a Body<lb/> who is
+                                        not much learned mere, who are to<lb/> assemble very soon,
+                                        please, to lay<lb/> my Letter before the Assembly</p>
+                              <pb n="3"/>
+                              <p>and also to put it in <hi rend="underline">print</hi>, in your<lb/>
+                                        valuable Book the Occident. and<lb/> have the goodness, to
+                                        inform me<lb/> of the result, of your Meeting.<lb/> I
+                                                  <sic>wuld</sic> have written, in the English<lb/>
+                                        Language <sic>intyrly</sic>, but, I<lb/> can't express
+                                        myself so well with<lb/> English language, as in the
+                                        Hebrew<lb/> therefore, I was compelled by<lb/> persuasion of
+                                        my friends to <sic>adress</sic><lb/> my letter to you, in
+                                        the Holy Langu,,<lb/>,,age, and hope that, the awe also
+                                        form<lb/> of Prayers, and also, the <add>אשר המה מתגוררים פה
+                                                  אמריקא, ויושבים על כס ההוראה , להורות את</add> of
+                                        Reading<lb/> fore ever, and ever, Amen.</p>
+                              <p>
+                                        <add>בית ישראל, הדרך שר ילכו בו, ואת המעשה אשר ???, מתאפסים
+                                                  יחד</add>
+                              </p>
+                              <p>
+                                        <hi rend="underline">Amen</hi>
+                              </p>
+                              <p>
+                                        <sic>adress</sic>
+                                        <hi rend="indent(7)">I am your most Respected</hi>
+                              </p>
+                              <p>
+                                        <persName role="author">Isaac Moses Slatky</persName>
+                                        <hi rend="indent(6)">and <sic>devouted</sic> for the
+                                                  Israe,,</hi>
+                              </p>
+                              <p>care of Mr <hi rend="indent(7)">litsch faith <sic>voor</sic> ever
+                                                  and</hi></p>
+                              <p>
+                                        <persName>E. Bernheimer</persName>
+                                        <hi rend="indent(7)">ever.</hi>
+                              </p>
+                              <p>
+                                        <placeName>
+                                                  <hi rend="underline">Buffalo N. Y. </hi>
+                                        </placeName>
+                                        <hi rend="indent(7)">
+                                                  <persName role="author">Isaac M. Slatky</persName>
+                                        </hi>
+                              </p>
+                              <p rend="indent(8)"> care <add>?</add> of</p>
+                              <p rend="indent(8)">the Buffalo Hebrew</p>
+                              <p rend="indent(9)">Congregation.</p>
+                              <p rend="A note in Hebrew is written sideways in left margin"/>
+                              <pb n="4"/>
+                              <p>Revd</p>
+                              <p>
+                                        <addressee>Isaac Leeser</addressee>
+                              </p>
+                              <p>Editor of the Occident</p>
+                              <p>
+                                        <placeName>
+                                                  <hi rend="underline">Philadelphia.Pa</hi>
+                                        </placeName>
+                              </p>
+                              <pb n="5"/>
+                              <p>The interesting thing about this<lb/> letter which comes from a
+                                        pious soul<lb/> though a befuddled mind, is the
+                                                  <sic>naivite</sic><lb/> with which orthodox Jews
+                                        regarded<lb/> reformers. This man thought that<lb/> they
+                                        were aching for a change, any<lb/> change</p>
+                              <pb n="6"/>
+                              <p><placeName>Buffalo</placeName>, <date>Sunday, 14 Sivan, 5609</date>
+                                                  [<date>June 1849</date>]</p>
+                              <p>To the accomplished etc. etc</p>
+                              <p>I heard from indirect sources, and also have read in the<lb/>
+                                        Occident, that scholars and rabbis living here in
+                                                  <placeName>America</placeName>, and<lb/> who sit
+                                        on the seat of instruction to teach the children of
+                                                  <placeName>Israel</placeName> the<lb/> way to go
+                                        and the thing to do, will soon gather in assembly.<lb/>
+                                        Although I have not attained to the destruction of being one
+                                        of the<lb/> delegates, for I am a stranger here, a guest who
+                                        seeks no more<lb/> than lodgings, and cannot compare with
+                                        you; nevertheless,<lb/> I cannot refrain, and shut my mouth.
+                                        I want to know why<lb/> and wherefore. In this great cry I,
+                                        the youngest among the<lb/> families of
+                                                  <placeName>Israel</placeName>, agree with the
+                                        learned <persName>Mr. S. Abraham</persName><lb/> with regard
+                                        to everything he pointed out in the Occident of<lb/> last
+                                        month. Your Honor knows that to the customs of our<lb/>
+                                        fathers one may not add, nor detract from them. Then
+                                        again,<lb/> my soul wants to know how it is possible to
+                                        imagine<lb/> changing the prayers now established; to
+                                        distort the<lb/> established rules of
+                                                  <persName>Ezra</persName> the Scribe [his memory
+                                        for a<lb/> blessing], with whom were many prophets, and
+                                        whose<lb/> actions were undertaken at God's command and
+                                                  <sic>insperation</sic>.<lb/> How can we,
+                                        therefore, consider the reduction of the number<lb/> called
+                                        up to the Torah on every holy <date>Sabbath</date> from
+                                        the<lb/> number severe and one <hi rend="underline"
+                                                  ><add>?</add></hi>. They may be wise, but<lb/>
+                                        they do not know how to do good. All they can do is to
+                                        come<lb/> together and place a yoke and a burden upon us.
+                                        They<lb/> have a sword in their hand to cut down the tree of
+                                        the<lb/> knowledge of good, and to change the traditions of
+                                        our</p>
+                              <pb n="7"/>
+                              <p>sages [their memory for a blessing] and prophets<lb/> [their soul
+                                        rest in the bag of life]. I therefore come with<lb/> a plea
+                                        and request to your Great Honor not to<lb/> obey the priest
+                                        who comes to perform the service of<lb/> the high priest in
+                                        the holy place, and like a poor<lb/> man on <date><hi
+                                                  rend="underline">Passover</hi></date>
+                                        <del>who</del> begs for a piece of <hi rend="underline"
+                                                  >bread</hi> to<lb/> support his breaking heart,
+                                        thus changing the order of<lb/>
+                                        <sic>of</sic> purity and holiness, to pray in a strange
+                                        language,<lb/> and perverted speech. What is this strange
+                                        service<lb/> which we, the congregation of
+                                                  <placeName>Israel</placeName>, the witnesses of<lb/>
+                                        <placeName>Sinai</placeName>, the descendants of
+                                                  <persName>Abraham</persName>, must never,
+                                        never<lb/> God forbid, do this?</p>
+                              <p>My hand is still stretched out, and my quick pen<lb/> continues to
+                                        speak, to be a good pleader and intercessor,<lb/> to speak
+                                        righteousness for those who are about to<lb/> meet in the
+                                        shadow of fine perfume. Who is the first<lb/> who began to
+                                        change our holy language for a foreign one? And<lb/> seeking
+                                        one's people's good, for the remnant of
+                                                  <placeName>Israel</placeName> who do<lb/> no evil,
+                                        (one understands that) the scattered grapes of
+                                                  <persName>Ephraim</persName><lb/> are better than
+                                        the entire crop of <persName><hi rend="underline"
+                                                  >Yahuda</hi></persName>*. Outside of the
+                                                  lang<add>?</add><lb/> is there no wisdom in it.
+                                        Ah, to teach these <hi rend="underline">goyim</hi> we
+                                        have<lb/> numerous commentaries on the Torah and the
+                                        commandments, so<lb/> what more do we have to call out to
+                                        God, the Lord of Hosts,<lb/> the God of
+                                                  <placeName>Israel</placeName>. We have six volumes
+                                        of <hi rend="underline">Gemara</hi>,<lb/> and ethical books,
+                                        and legal works of the elder and younger<lb/>
+                                        legalists—wealth of mind. We have no portion or
+                                        inheritance</p>
+                              <p>*Evidently this scatter brain means that the least of the Hebrew is
+                                        superior to<lb/> the most of the German-Jewish culture.</p>
+                              <pb n="8"/>
+                              <p>in new covenants. Why then are Jewish children taught<lb/> to go in
+                                        foreign ways, contrary to our holy Law. My<lb/> heart, my
+                                        heart! How great is my pain, and my<lb/> eyes shed tears
+                                        because of the breach of my people</p>
+                              <p>But! I have a good plan, that seems to me<lb/> excellent. If you
+                                        want to take my advice, let it be<lb/> as you say, change
+                                        the ordinances of the sages and<lb/> at the same time remain
+                                        God-fearing, Create a new<lb/> tradition among the Jews who
+                                        live in <placeName>America</placeName></p>
+                              <pb n="9"/>
+                              <p rend="align(center)">
+                                        <hi rend="underline">On last page of the Letter</hi>
+                              </p>
+                              <p>Torah</p>
+                              <p>Till the coming of the Messiah, soon in our<lb/> day. So may it be
+                                        God's will, and let us say</p>
+                              <p>
+                                        <hi rend="underline">Amen</hi>
+                              </p>
+                              <p rend="On margin"/>
+                              <p>
+                                        <hi rend="underline">P. S.</hi>
+                              </p>
+                              <p>This moment I spoke with the president of the<lb/>
+                                        <placeName>Buffalo</placeName> congregation, and pleaded
+                                        with him to send<lb/> to the place of your meeting. At the
+                                        moment who could<lb/> not give me a <del>proper</del>
+                                        satisfactory reply—not<lb/> till he talks to the members of
+                                        the congregation. Then<lb/> we shall see about his
+                                        plans...</p>
+                              <p>
+                                        <persName role="author">S. M. S.</persName>
+                              </p>
+                              <p>from <placeName><hi rend="underline">Posen</hi></placeName></p>
+                              <div>
+                                        <p>
+                                                  <ref target="Occident_PDFs/Occ_7_4.pdf">The above
+                                                  text refers to Occident Volume 7 No. 4 page 143.
+                                                  Click here to view.</ref>
+                                        </p>
+                              </div>
+                    </body>
+          </text>
 </TEI>

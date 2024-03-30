@@ -1,268 +1,348 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE TEI [
-<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
-%teibase;
-<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
-%teiext;
-]>
-<TEI>
-    <teiHeader>
-      <fileDesc>
-        <titleStmt>
-          <title>[no title given]</title>
-          <author attested="yes" accepted="yes" signature="yes">Manheim, Mayer</author>
-          <editor></editor>
-          <sponsor></sponsor>
-          <funder></funder>
-          <principal></principal>
-          <respStmt>
-            <resp></resp>
-            <name></name>
-          </respStmt>
-        </titleStmt>
-        <editionStmt>
-          <edition></edition>
-          <respStmt>
-            <resp></resp>
-            <name></name>
-          </respStmt>
-        </editionStmt>
-        <extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-        <publicationStmt>
-          <publisher>Unpublished manuscript</publisher>
-        </publicationStmt>
-        <seriesStmt>
-          <p>Not part of a series</p>
-        </seriesStmt>
-        <notesStmt>
-          <note></note>
-        </notesStmt>
-        <sourceDesc>
-          <biblStruct>
-            <!-- catalog entry goes here -->
-            <monogr>
-              <imprint>
-                <dateLet></dateLet>
-              </imprint>
-            </monogr>
-          </biblStruct>
-          <msDesc>
-            <msIdentifier>
-              <country>USA</country>
-              <region>PA</region>
-              <settlement>Philadelphia</settlement>
-              <institution></institution>
-              <repository>CAJS Isaac Leeser Collection</repository>
-              <collection>The Library of the Dropsie College for Hebrew and Cognate Learning</collection>
-              <idno>LSDCBx1FF6_21</idno>
-              <altIdentifier>
-                <idno></idno>
-              </altIdentifier>
-              <msName></msName>
-            </msIdentifier>
-            <head></head>
-            <letHeading>
-              <author attested="yes" accepted="yes" signature="yes">Manheim, Mayer</author>
-              <addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac, Rev.</addressee>
-              <deliverer></deliverer>
-              <respStmt>
-                <resp></resp>
-                <name></name>
-              </respStmt>
-              <placeLet>Pittsburgh, PA</placeLet>
-              <placeRec>Philadelphia, PA</placeRec>
-              <dateLet when="1849-03" source="" attested="yes">15 March 1849</dateLet>
-            </letHeading>
-            <msContents>
-              <msItem>
-                <author></author>
-                <editor></editor>
-                <respStmt>
-                  <resp></resp>
-                  <name></name>
-                </respStmt>
-                <title></title>
-                <decoNote></decoNote>
-                <listBibl>
-                  <bibl></bibl>
-                </listBibl>
-                <filiation></filiation>
-                <textLang></textLang>
-                <figure>
-                  <graphic url="ilcajs_b1f6_0019_1r.jpg"/>
-                  <graphic url="ilcajs_b1f6_0019_1v.jpg"/>
-                </figure>
-              </msItem>
-            </msContents>
-            <physDesc>
-              <objectDesc>
-                <supportDesc>
-                  <support>
-                    <material color="" lined="false" paper_type="" size="Letter">letter</material>
-                  </support>
-                  <extent>3 pages on 2 sheets
-                    <dimensions></dimensions>
-                  </extent>
-                  <foliation></foliation>
-                  <collation></collation>
-                  <condition fragment="false"></condition>
-                </supportDesc>
-                <layoutDesc>
-                  <layout></layout>
-                </layoutDesc>
-              </objectDesc>
-              <handDesc script="manuscript">
-                  <handNote></handNote>
-              </handDesc>
-              <decoDesc>
-                <decoNote></decoNote>
-              </decoDesc>
-              <additions></additions>
-              <bindingDesc>
-                <binding>
-                  <decoNote></decoNote>
-                </binding>
-              </bindingDesc>
-              <sealDesc>
-                <seal>
-                  <p></p>
-                </seal>
-              </sealDesc>
-              <accMat></accMat>
-              <envDesc occ="false"></envDesc>
-            </physDesc>
-            <history>
-              <origin></origin>
-              <provenance></provenance>
-              <acquisition></acquisition>
-            </history>
-            <additional>
-              <adminInfo>
-                <recordHist>
-                  <source></source>
-                  <change></change>
-                </recordHist>
-                <availability status="free">
-                  <p>Unrestricted</p>
-                </availability>
-                <custodialHist>
-                  <custEvent></custEvent>
-                </custodialHist>
-              </adminInfo>
-              <surrogates></surrogates>
-              <listBibl>
-                <bibl></bibl>
-              </listBibl>
-            </additional>
-            <msPart>
-              <altIdentifier>
-                <idno></idno>
-              </altIdentifier>
-            </msPart>
-          </msDesc>
-        </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-        <projectDesc>
-          <p></p>
-        </projectDesc>
-        <samplingDecl>
-          <p></p>
-        </samplingDecl>
-        <editorialDecl>
-          <correction>
-            <p></p>
-          </correction>
-          <normalization>
-            <p></p>
-          </normalization>
-          <quotation>
-            <p></p>
-          </quotation>
-          <hyphenation>
-            <p></p>
-          </hyphenation>
-          <segmentation>
-            <p></p>
-          </segmentation>
-          <stdVals>
-            <p></p>
-          </stdVals>
-          <interpretation>
-            <p></p>
-          </interpretation>
-        </editorialDecl>
-        <tagsDecl>
-          <rendition></rendition>
-          <namespace name="http://www.tei-c.org/ns/1.0">
-            <tagUsage gi=""></tagUsage>
-          </namespace>
-        </tagsDecl>
-        <refsDecl>
-          <cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-        </refsDecl>
-        <refsDecl>
-          <refState unit=""/>
-        </refsDecl>
-        <classDecl>
-          <taxonomy>
-            <category>
-              <catDesc></catDesc>
-            </category>
-          </taxonomy>
-        </classDecl>
-        <appInfo>
-          <application ident="" version="">
-            <desc></desc>
-            <label></label>
-          </application>
-        </appInfo>
-      </encodingDesc>
-      <profileDesc>
-        <creation></creation>
-        <langUsage>
-			<language ident="en">English</language>
-			<language ident="he">Hebrew</language>
-        </langUsage>
-        <textClass>
-          <keywords scheme="unknown">
-            <list>
-              <item></item>
-              <item></item>
-            </list>
-          </keywords>
-          <classCode scheme=""></classCode>
-          <catRef/>
-        </textClass>
-      </profileDesc>
-      <revisionDesc>
-        <change></change>
-      </revisionDesc>
-    </teiHeader>
-    <text>
-        <body>
-      
-		<pb n="1"/>
-			<p rend="align(right)"><addressee>Mr I. Leeser</addressee> <placeName>Philadelphia</placeName></p>
-			<p><placeName><sic>Pittsburg</sic></placeName> the <date>15 March 1849</date></p>
-			<p><add>Hebrew</add></p>
-          <p rend="indent(2)"><persName role="author">Mayer Manheim</persName></p>
-		<pb n="2"/>
-			<p><addressee>Rev. I. Leeser</addressee> the within letter you will <sic>persive</sic> how <persName>Mr Kohen</persName> acted<lb/> contrary to the station he was in also the wrong the writer of the letter<lb/> has done <del>to give</del> on giving <persName>Mr Cohen</persName> <add>Hebrew</add> if you think it proper<lb/> to and for the Good of <placeName>Israel</placeName>.  I think it would do good<lb/> to Expose both of the <sic>offenters</sic> <sic>trough</sic> your Occident<lb/>  I only make the remark and leave it at your<lb/> <sic>disgresion</sic>  yours very Respectfully</p>
-          <p rend="indent(1)"><persName role="author">N Gallinger</persName></p>
-			<p rend="The following address is written sideways near the right side of the page"><addressee>Rev. Isaac Leeser</addressee></p>
-			<p rend="The following address is written sideways near the right side of the page">favor of <persName role="author">Mr. N. Galinger</persName> <placeName>Philadelphia. Pa.</placeName></p>
-		<pb n="3"/>
-			<p rend="align(right)"><placeName>Pittsburgh</placeName>&#44; <date>March 15&#44; 1849</date>.</p>
-			<p>Peace and well&#45;being to my dear sir&#44;</p>
-          <p rend="indent(1)">Please be good enough to forgive my intrusion&#44; that I burden<lb/> you with my letters&#44; even though this matter is of no practical value to you<lb/> I write simply to defend myself against you and to justify myself in<lb/> view of the fact that in this matter I am completely unhampered<add>&#63;</add>&#44; since I can per<lb/>form marriages without the permission of a representative of the congregation<lb/> <persName>Mr. Cohen</persName> came to me and asked that I should perform the marriage<lb/> ceremony for him.  He told me that his bride was a proselyte.  She<lb/> had been proselytized in <placeName>Philadelphia</placeName>&#44; and was&#44; therefore&#44; compelled<lb/> to remain unmarried until the first of <date>April</date>.  It seemed pecu<lb/>liar to the gentiles that the woman should remain in a separate<lb/> room.  Therefore&#44; he wanted to settle the matter as soon as possible.  I<lb/> asked him whether his bride had a document about this and he<lb/> told me that he had forgotten to bring it along&#44; and that I<lb/> could believe him&#44; upon his honor&#44; that she was a proselyte&#44;<lb/> that he could get it from <placeName>Philadelphia</placeName> at any time&#44; also that <persName>Mr<lb/> Cohen</persName> had <add>enjoyed</add> a great deal of confidence in <placeName>Philadelphia</placeName> since he has<lb/> been a preacher.  I&#44; therefore&#44; reposed the same confidence in him and<lb/> took his word for it.  There is one other consideration&#8212;that <persName>Mr.<lb/> Cohen</persName> had at one time married her among the gentiles and had<lb/> therefore kept he and had lived with her contrary to law.  Since<lb/> she was satisfied to live as a Jewess and&#44; as she said that&#44; if <persName>Mr. Cohen</persName><lb/> would let her live according to Jewish law&#44; she would do so with the<lb/> greatest pleasure and try to act accordingly&#44; it would be better that<lb/> she should have a Jewish marriage performed.  In such a case&#44;<lb/> if they had children&#44; they would be called Jewish children.  Let<lb/> there at least be the descendants of parents who had been properly<lb/> married.  As in the case of <persName>Joseph</persName>&#44; who said to <persName>Jacob</persName>&#44; our father&#44;<lb/> &#42; &#8220;Whom God had given me here&#8221;&#44; <persName>Rashi</persName> says&#44; that <persName>Joseph</persName> had shown<lb/> <persName>Jacob</persName> the document of a Jewish marriage.  We do not find that he had<lb/> made them proselytes&#44; for we find that they were already the proselytes.<lb/>  That is what is written in the case of our father&#44; <persName>Abraham</persName>.  &#8220;And the &#42;&#42;<lb/> souls which they made in Haran&#8221; and <persName>Rashi</persName> says&#44; &#8220;<persName>Abraham</persName> used to<lb/> proselytize the men&#44; and <persName>Sarah</persName>&#44; the women&#8221;.</p>
-          <p rend="indent(1)">Aside from this&#44; I have nothing more to write to you.  I hope you<lb/> will not take it amiss that I burden you with my writing</p>
-          <p rend="indent(3)"> I remain&#44; your most devoted servant&#44;</p>
-          <p rend="indent(3)"><date>3&#45;15&#45;1849</date> <persName role="author">Meyer Manheim</persName></p>
-			<p>&#42;Genesis 48&#58;9</p> 
-          <p rend="indent(11)">&#42;&#42;Genesis 12&#58;5</p>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+          <teiHeader>
 
-          
-        </body>
-    </text>
+                    <fileDesc>
+                              <titleStmt>
+                                        <title>[no title given]</title>
+                                        <author accepted="yes" attested="yes" signature="yes"
+                                                  >Manheim, Mayer</author>
+                                        <editor/>
+                                        <sponsor/>
+                                        <funder/>
+                                        <principal/>
+                                        <respStmt>
+                                                  <resp/>
+                                                  <name/>
+                                        </respStmt>
+                              </titleStmt>
+                              <editionStmt>
+                                        <edition/>
+                                        <respStmt>
+                                                  <resp/>
+                                                  <name/>
+                                        </respStmt>
+                              </editionStmt>
+                              <extent>[information about file size goes here, information about
+                                        extent of physical item comes later]</extent>
+                              <publicationStmt>
+                                        <publisher>Unpublished manuscript</publisher>
+                              </publicationStmt>
+                              <seriesStmt>
+                                        <p>Not part of a series</p>
+                              </seriesStmt>
+                              <notesStmt>
+                                        <note/>
+                              </notesStmt>
+                              <sourceDesc>
+                                        <biblStruct>
+                                                  <!-- catalog entry goes here -->
+                                                  <monogr>
+                                                  <imprint>
+                                                  <dateLet/>
+                                                  </imprint>
+                                                  </monogr>
+                                        </biblStruct>
+                                        <msDesc>
+                                                  <msIdentifier>
+                                                  <country>USA</country>
+                                                  <region>PA</region>
+                                                  <settlement>Philadelphia</settlement>
+                                                  <institution/>
+                                                  <repository>CAJS Isaac Leeser
+                                                  Collection</repository>
+                                                  <collection>The Library of the Dropsie College for
+                                                  Hebrew and Cognate Learning</collection>
+                                                  <idno>LSDCBx1FF6_21</idno>
+                                                  <altIdentifier>
+                                                  <idno/>
+                                                  </altIdentifier>
+                                                  <msName/>
+                                                  </msIdentifier>
+                                                  <head/>
+                                                  <letHeading>
+                                                  <author accepted="yes" attested="yes"
+                                                  signature="yes">Manheim, Mayer</author>
+                                                  <addressee accepted="yes" attested="yes"
+                                                  editor="false">Leeser, Isaac, Rev.</addressee>
+                                                  <deliverer/>
+                                                  <respStmt>
+                                                  <resp/>
+                                                  <name/>
+                                                  </respStmt>
+                                                  <placeLet>Pittsburgh, PA</placeLet>
+                                                  <placeRec>Philadelphia, PA</placeRec>
+                                                  <dateLet attested="yes" source="" when="1849-03"
+                                                  >15 March 1849</dateLet>
+                                                  </letHeading>
+                                                  <msContents>
+                                                  <msItem>
+                                                  <author/>
+                                                  <editor/>
+                                                  <respStmt>
+                                                  <resp/>
+                                                  <name/>
+                                                  </respStmt>
+                                                  <title/>
+                                                  <decoNote/>
+                                                  <listBibl>
+                                                  <bibl/>
+                                                  </listBibl>
+                                                  <filiation/>
+                                                  <textLang/>
+                                                  <figure>
+                                                  <graphic url="ilcajs_b1f6_0019_1r.jpg"/>
+                                                  <graphic url="ilcajs_b1f6_0019_1v.jpg"/>
+                                                  </figure>
+                                                  </msItem>
+                                                  </msContents>
+                                                  <physDesc>
+                                                  <objectDesc>
+                                                  <supportDesc>
+                                                  <support>
+                                                  <material color="" lined="false" paper_type=""
+                                                  size="Letter">letter</material>
+                                                  </support>
+                                                  <extent>3 pages on 2 sheets <dimensions/>
+                                                  </extent>
+                                                  <foliation/>
+                                                  <collation/>
+                                                  <condition fragment="false"/>
+                                                  </supportDesc>
+                                                  <layoutDesc>
+                                                  <layout/>
+                                                  </layoutDesc>
+                                                  </objectDesc>
+                                                  <handDesc script="manuscript">
+                                                  <handNote/>
+                                                  </handDesc>
+                                                  <decoDesc>
+                                                  <decoNote/>
+                                                  </decoDesc>
+                                                  <additions/>
+                                                  <bindingDesc>
+                                                  <binding>
+                                                  <decoNote/>
+                                                  </binding>
+                                                  </bindingDesc>
+                                                  <sealDesc>
+                                                  <seal>
+                                                  <p/>
+                                                  </seal>
+                                                  </sealDesc>
+                                                  <accMat/>
+                                                  <envDesc occ="false"/>
+                                                  </physDesc>
+                                                  <history>
+                                                  <origin/>
+                                                  <provenance/>
+                                                  <acquisition/>
+                                                  </history>
+                                                  <additional>
+                                                  <adminInfo>
+                                                  <recordHist>
+                                                  <source/>
+                                                  <change/>
+                                                  </recordHist>
+                                                  <availability status="free">
+                                                  <p>Unrestricted</p>
+                                                  </availability>
+                                                  <custodialHist>
+                                                  <custEvent/>
+                                                  </custodialHist>
+                                                  </adminInfo>
+                                                  <surrogates/>
+                                                  <listBibl>
+                                                  <bibl/>
+                                                  </listBibl>
+                                                  </additional>
+                                                  <msPart>
+                                                  <altIdentifier>
+                                                  <idno/>
+                                                  </altIdentifier>
+                                                  </msPart>
+                                        </msDesc>
+                              </sourceDesc>
+                    </fileDesc>
+                    <encodingDesc>
+                              <projectDesc>
+                                        <p/>
+                              </projectDesc>
+                              <samplingDecl>
+                                        <p/>
+                              </samplingDecl>
+                              <editorialDecl>
+                                        <correction>
+                                                  <p/>
+                                        </correction>
+                                        <normalization>
+                                                  <p/>
+                                        </normalization>
+                                        <quotation>
+                                                  <p/>
+                                        </quotation>
+                                        <hyphenation>
+                                                  <p/>
+                                        </hyphenation>
+                                        <segmentation>
+                                                  <p/>
+                                        </segmentation>
+                                        <stdVals>
+                                                  <p/>
+                                        </stdVals>
+                                        <interpretation>
+                                                  <p/>
+                                        </interpretation>
+                              </editorialDecl>
+                              <tagsDecl>
+                                        <rendition/>
+                                        <namespace name="http://www.tei-c.org/ns/1.0">
+                                                  <tagUsage gi=""/>
+                                        </namespace>
+                              </tagsDecl>
+                              <refsDecl>
+                                        <cRefPattern matchPattern="" replacementPattern=""/>
+                              </refsDecl>
+                              <refsDecl>
+                                        <refState unit=""/>
+                              </refsDecl>
+                              <classDecl>
+                                        <taxonomy>
+                                                  <category>
+                                                  <catDesc/>
+                                                  </category>
+                                        </taxonomy>
+                              </classDecl>
+                              <appInfo>
+                                        <application ident="" version="">
+                                                  <desc/>
+                                                  <label/>
+                                        </application>
+                              </appInfo>
+                    </encodingDesc>
+                    <profileDesc>
+                              <creation/>
+                              <langUsage>
+                                        <language ident="en">English</language>
+                                        <language ident="he">Hebrew</language>
+                              </langUsage>
+                              <textClass>
+                                        <keywords scheme="unknown">
+                                                  <list>
+                                                  <item/>
+                                                  <item/>
+                                                  </list>
+                                        </keywords>
+                                        <classCode scheme=""/>
+                                        <catRef/>
+                              </textClass>
+                    </profileDesc>
+                    <revisionDesc>
+                              <change/>
+                    </revisionDesc>
+          </teiHeader>
+          <text>
+                    <body>
+                              <pb n="1"/>
+                              <p rend="align(right)">
+                                        <addressee>Mr I. Leeser</addressee>
+                                        <placeName>Philadelphia</placeName>
+                              </p>
+                              <p><placeName><sic>Pittsburg</sic></placeName> the <date>15 March
+                                                  1849</date></p>
+                              <p>
+                                        <add>שלום וכל טוב לאדוני ש</add>
+                              </p>
+                              <p rend="indent(2)">
+                                        <persName role="author">Mayer Manheim</persName>
+                              </p>
+                              <pb n="2"/>
+                              <p><addressee>Rev. I. Leeser</addressee> the within letter you will
+                                                  <sic>persive</sic> how <persName>Mr
+                                                  Kohen</persName> acted<lb/> contrary to the
+                                        station he was in also the wrong the writer of the
+                                        letter<lb/> has done <del>to give</del> on giving
+                                                  <persName>Mr Cohen</persName>
+                                        <add>Hebrew</add> if you think it proper<lb/> to and for the
+                                        Good of <placeName>Israel</placeName>. I think it would do
+                                        good<lb/> to Expose both of the <sic>offenters</sic>
+                                        <sic>trough</sic> your Occident<lb/> I only make the remark
+                                        and leave it at your<lb/>
+                                        <sic>disgresion</sic> yours very Respectfully</p>
+                              <p rend="indent(1)">
+                                        <persName role="author">N Gallinger</persName>
+                              </p>
+                              <p
+                                        rend="The following address is written sideways near the right side of the page">
+                                        <addressee>Rev. Isaac Leeser</addressee>
+                              </p>
+                              <p
+                                        rend="The following address is written sideways near the right side of the page"
+                                        >favor of <persName role="author">Mr. N. Galinger</persName>
+                                        <placeName>Philadelphia. Pa.</placeName></p>
+                              <pb n="3"/>
+                              <p rend="align(right)"><placeName>Pittsburgh</placeName>, <date>March
+                                                  15, 1849</date>.</p>
+                              <p>Peace and well-being to my dear sir,</p>
+                              <p rend="indent(1)">Please be good enough to forgive my intrusion,
+                                        that I burden<lb/> you with my letters, even though this
+                                        matter is of no practical value to you<lb/> I write simply
+                                        to defend myself against you and to justify myself in<lb/>
+                                        view of the fact that in this matter I am completely
+                                                  unhampered<add>?</add>, since I can per<lb/>form
+                                        marriages without the permission of a representative of the congregation<lb/>
+                                        <persName>Mr. Cohen</persName> came to me and asked that I
+                                        should perform the marriage<lb/> ceremony for him. He told
+                                        me that his bride was a proselyte. She<lb/> had been
+                                        proselytized in <placeName>Philadelphia</placeName>, and
+                                        was, therefore, compelled<lb/> to remain unmarried until the
+                                        first of <date>April</date>. It seemed pecu<lb/>liar to the
+                                        gentiles that the woman should remain in a separate<lb/>
+                                        room. Therefore, he wanted to settle the matter as soon as
+                                        possible. I<lb/> asked him whether his bride had a document
+                                        about this and he<lb/> told me that he had forgotten to
+                                        bring it along, and that I<lb/> could believe him, upon his
+                                        honor, that she was a proselyte,<lb/> that he could get it
+                                        from <placeName>Philadelphia</placeName> at any time, also
+                                        that <persName>Mr<lb/> Cohen</persName> had
+                                                  <add>enjoyed</add> a great deal of confidence in
+                                                  <placeName>Philadelphia</placeName> since he
+                                        has<lb/> been a preacher. I, therefore, reposed the same
+                                        confidence in him and<lb/> took his word for it. There is
+                                        one other consideration—that <persName>Mr.<lb/>
+                                                  Cohen</persName> had at one time married her among
+                                        the gentiles and had<lb/> therefore kept he and had lived
+                                        with her contrary to law. Since<lb/> she was satisfied to
+                                        live as a Jewess and, as she said that, if <persName>Mr.
+                                                  Cohen</persName><lb/> would let her live according
+                                        to Jewish law, she would do so with the<lb/> greatest
+                                        pleasure and try to act accordingly, it would be better
+                                        that<lb/> she should have a Jewish marriage performed. In
+                                        such a case,<lb/> if they had children, they would be called
+                                        Jewish children. Let<lb/> there at least be the descendants
+                                        of parents who had been properly<lb/> married. As in the
+                                        case of <persName>Joseph</persName>, who said to
+                                                  <persName>Jacob</persName>, our father,<lb/> *
+                                        “Whom God had given me here”, <persName>Rashi</persName>
+                                        says, that <persName>Joseph</persName> had shown<lb/>
+                                        <persName>Jacob</persName> the document of a Jewish
+                                        marriage. We do not find that he had<lb/> made them
+                                        proselytes, for we find that they were already the
+                                        proselytes.<lb/> That is what is written in the case of our
+                                        father, <persName>Abraham</persName>. “And the **<lb/> souls
+                                        which they made in Haran” and <persName>Rashi</persName>
+                                        says, “<persName>Abraham</persName> used to<lb/> proselytize
+                                        the men, and <persName>Sarah</persName>, the women”.</p>
+                              <p rend="indent(1)">Aside from this, I have nothing more to write to
+                                        you. I hope you<lb/> will not take it amiss that I burden
+                                        you with my writing</p>
+                              <p rend="indent(3)"> I remain, your most devoted servant,</p>
+                              <p rend="indent(3)">
+                                        <date>3-15-1849</date>
+                                        <persName role="author">Meyer Manheim</persName>
+                              </p>
+                              <p>*Genesis 48:9</p>
+                              <p rend="indent(11)">**Genesis 12:5</p>
+                    </body>
+          </text>
 </TEI>

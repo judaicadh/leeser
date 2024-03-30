@@ -1,260 +1,340 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="unk"></author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>CAJS Isaac Leeser Collection</repository>
-						<collection>The Library of the Dropsie College for Hebrew and Cognate Learning</collection>
-						<idno>LSDCBx2FF4_40</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="unk"></author>
-						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac, Rev.</addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>San Francisco, CA</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1857-05" source="" attested="yes">18 May 1857</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="ilcajs_b2f4_0037_1r.jpg"></graphic>
-								<graphic url="ilcajs_b2f4_0037_1v.jpg"></graphic>
-								<graphic url="ilcajs_b2f4_0037_2r.jpg"></graphic>
-								<graphic url="ilcajs_b2f4_0037_2v.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="false" paper_type="" size="Letter">letter</material>
-								</support>
-								<extent>4 pages on 2 sheets
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="true"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="manuscript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="free">
-								<p>Unrestricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1"/>
-				<p rend="align(right)"><placeName>San Francisco</placeName> <date>May 18. 1857</date></p>
-				<p><addressee>Revd Isaac Leeser</addressee></p>
-			<p rend="indent(2)">Dear friend</p>
-			<p rend="indent(4)">I have duly<lb/> received yours of the <date>19<hi rend="sup">th</hi> February</date>&#44; &#38; I hope<lb/> you will excuse me for not writing to you<lb/> ere this&#44; as I have been continually closely<lb/> occupied for the last few months.</p>
-			<p rend="indent(1)">In the <date>20<hi rend="sup">th</hi> of April</date>&#44; I have sent you by letter to <persName>Mr. M. Roggenburger</persName> a Dft. Of 33&#8212;&#44;<lb/> which I trust you have recd in the full en&#45;<lb/>joyment of health.</p>
-			<p rend="indent(1)">I send you enclosed a statement of<lb/> your a&#47;c&#44; which exhibits Balance of 13.42 on<lb/> hand&#44; which I shall endeavor to swell to<lb/> a larger amt.&#44; &#38; then I&#39;ll remit.  In the said<lb/> statement you will perceive what is for the<lb/> &#8220;Occident&#8221; &#38; acknowledge the same as usual<lb/> in the &#8220;Occ.&#8221;  I have settled with <persName>Haas</persName><lb/> &#38; <persName>Rosenfeld</persName> for &#36;97 to be in <hi rend="underline">full</hi> &#38; they<lb/> desire a discontinuance of the subscription<lb/> of the O. that in the best I could effect<lb/> with them.  <persName>Mr. S. R. Rosenthal</persName> also wishes<lb/> to discontinue the &#8220;Occid.&#44;&#8221; &#38; promised to pay<lb/> son his subscription dues.  <persName>Mr. Dessau</persName> has<lb/> left the state with his family&#44; &#38; I do not see<lb/> any chance how you will ever receive<lb/> one Cent from him.  I hope you have</p>
-			<pb n="2"/>
-				<p>stopped long since to send him the &#8220;Occid.&#8221;<lb/> <persName>Mr. S. I. Meyer &#38; Co</persName> have only paid &#36;6.00&#44; as<lb/> you&#39;ll perceive&#44; as they say it were possible<lb/> <persName>Mr. A. Jacobs</persName> their partner&#44; residing in <placeName>New<lb/> York</placeName> may have paid their subscription dues<lb/> therefore please let me know in relation<lb/> to it.  You will otherwise notice&#44; that<lb/> collections are made very slowly&#59; people<lb/> here do not like to pay.  &#38; in reference<lb/> to getting subscriptions to the contemplated<lb/> translations&#44; I have been unsuccessful.</p>
-			<p rend="indent(1)"><persName>Dr. Eckman</persName> has requested me to<lb/> ask you the amt. Of his dues to the Occi&#45;<lb/>dent&#59; wishing to pay the same.</p>
-			<p rend="indent(1)">The President of the Congregation<lb/> &#8220;Emanu&#45;El&#8221; has also desired me to<lb/> inform you to send the Bill for the adver&#45;<lb/>tisement of the ministry of this congregation<lb/> for payment.</p>
-			<p rend="indent(1)">I am truly sorry&#44; that you find<lb/> cause of so much complaint against <del>your</del><lb/> the course of your religious opponents.  Though<lb/> to advise you would for me be out of<lb/> place&#44; yet as a true friend I take the<lb/> liberty to remark&#44; that whilst I do deeply<lb/> sympathize with your arduous duties in battling<lb/> against such a bitter opposition&#44; &#38; whilst your<lb/> course is applauded still by a large multi&#45;<lb/>tude&#44; it being a noble &#38; honorable one&#44;</p>
-			<pb n="3"/>
-				<p>I regret very much that the writings should<lb/> trouble you so much.  You should remember&#44;<lb/> that the mass of the people are capable<lb/> of judging between right &#38; wrong&#44; &#38; there&#45;<lb/>fore your severe opponents cannot hurt<lb/> you.  As a journalist you must expect<lb/> such attacks&#44; &#38; your success in meeting<lb/> them reflects upon your credit &#38; honor.</p>
-			<p rend="indent(1)">I have with much gratification learned<lb/> that you are being elected as minister of<lb/> a new Portuguese congregation in <placeName>Phil.</placeName>&#59;<lb/> allow me to extend my congratulations&#44; &#38;<lb/> my sincere wishes for true success.</p>
-			<p rend="indent(1)">The news relating to Jewish affairs are<lb/> very dull &#38; scarce.  The congregation<lb/> Emanu&#45;El&#44; are now without any<lb/> minister&#59; they are anxiously awaiting<lb/> a response of some suitable person to their advertisements.  An able man can<lb/> here find a good post&#44; &#38; can find a<lb/> wide field for doing good.  The congre&#45;<lb/>gation at their last meeting have changed<lb/> the resolution effecting the election of<lb/> a minister&#44; so that &#36;3000&#8212; salary annually<lb/> is paid for 2 years &#38;c.  I understand<lb/> that you have officially been informed of this<lb/> change&#44; &#38; that an advertisement to that effect<lb/> had been ordered.  <persName>Mr. D. Levy</persName> is now<lb/> the teacher of the Hebrew School attached</p>
-			<pb n="4"/>
-				<p>to &#38; supported by the congregation E&#45;El&#44; who in<lb/> connection with the Heb. Department has established<lb/> a regular school for the instruction of all other<lb/> &#38; secular branches.  This school is well &#38; ably<lb/> conducted&#44; &#38; the pupils have made great pro&#45;<lb/>gress within the short time since&#59; the school<lb/> is under the direction of <persName>D. Levy Esq.</persName></p>
-			<p rend="indent(1)">At the meeting of the congregation<lb/> &#8220;Bnai Israel&#8221; <placeName>Sacramento</placeName>&#44; <date>April 12<hi rend="sup">th</hi></date> the following<lb/> officers were elected for the ensuing<lb/> year&#58; <persName>Geo. Aaronson</persName> Pres. <persName>A. Mayer</persName><lb/> Vice. Pres.&#44; <persName>J. S. Winehill</persName> Sec.<lb/> <persName>M. S. Myers</persName> Treasu. <persName>L. Godstein</persName>&#44;<lb/> <persName>I. Rosenheim</persName> &#38; <persName>L. Shawl</persName> Trustees<lb/> <persName>A. Gallard</persName> Chazan &#38; Shochet.</p>
-			<p rend="indent(1)">Owing to some difficulty originating<lb/> from the desire of the minority of members<lb/> to establish a Heb. School to be supported<lb/> by the congregation&#44; a succession of those<lb/> members&#44; composing the minority has<lb/> taken place&#44; who have recently organized<lb/> a distinct congregation&#44; and have<lb/> elected the following gent. for their officers&#58;<lb/> <persName>Louis Sloss</persName>&#44; Pres.&#44; <persName>L. Lehman</persName> Vice<lb/> Pres.&#44; <persName>I. Eppinger</persName> Sec. <persName>L. Bucki</persName> Treas.<lb/> <persName>L. Godshaw</persName>&#44; <persName>S. Hoffman</persName> &#38;  <persName>H. Davis</persName> Trust.<lb/>  This congregation has established a religious<lb/> school&#44; in connection <del>with</del> &#38; have elected<lb/> <persName>Mr. Borris</persName> as the teacher &#38; shochet.</p>
-		</body>
-	</text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="unk"/>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS Isaac Leeser Collection</repository>
+                        <collection>The Library of the Dropsie College for Hebrew and Cognate
+                            Learning</collection>
+                        <idno>LSDCBx2FF4_40</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="unk"/>
+                        <addressee accepted="yes" attested="yes" editor="false">Leeser, Isaac,
+                            Rev.</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>San Francisco, CA</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1857-05">18 May 1857</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="ilcajs_b2f4_0037_1r.jpg"/>
+                                <graphic url="ilcajs_b2f4_0037_1v.jpg"/>
+                                <graphic url="ilcajs_b2f4_0037_2r.jpg"/>
+                                <graphic url="ilcajs_b2f4_0037_2v.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size="Letter"
+                                        >letter</material>
+                                </support>
+                                <extent>4 pages on 2 sheets <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="true"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <p rend="align(right)">
+                <placeName>San Francisco</placeName>
+                <date>May 18. 1857</date>
+            </p>
+            <p>
+                <addressee>Revd Isaac Leeser</addressee>
+            </p>
+            <p rend="indent(2)">Dear friend</p>
+            <p rend="indent(4)">I have duly<lb/> received yours of the <date>19<hi rend="sup"
+                        >th</hi> February</date>, &amp; I hope<lb/> you will excuse me for not
+                writing to you<lb/> ere this, as I have been continually closely<lb/> occupied for
+                the last few months.</p>
+            <p rend="indent(1)">In the <date>20<hi rend="sup">th</hi> of April</date>, I have sent
+                you by letter to <persName>Mr. M. Roggenburger</persName> a Dft. Of 33—,<lb/> which
+                I trust you have recd in the full en-<lb/>joyment of health.</p>
+            <p rend="indent(1)">I send you enclosed a statement of<lb/> your a/c, which exhibits
+                Balance of 13.42 on<lb/> hand, which I shall endeavor to swell to<lb/> a larger
+                amt., &amp; then I'll remit. In the said<lb/> statement you will perceive what is
+                for the<lb/> “Occident” &amp; acknowledge the same as usual<lb/> in the “Occ.” I
+                have settled with <persName>Haas</persName><lb/> &amp;
+                    <persName>Rosenfeld</persName> for $97 to be in <hi rend="underline">full</hi>
+                &amp; they<lb/> desire a discontinuance of the subscription<lb/> of the O. that in
+                the best I could effect<lb/> with them. <persName>Mr. S. R. Rosenthal</persName>
+                also wishes<lb/> to discontinue the “Occid.,” &amp; promised to pay<lb/> son his
+                subscription dues. <persName>Mr. Dessau</persName> has<lb/> left the state with his
+                family, &amp; I do not see<lb/> any chance how you will ever receive<lb/> one Cent
+                from him. I hope you have</p>
+            <pb n="2"/>
+            <p>stopped long since to send him the “Occid.”<lb/>
+                <persName>Mr. S. I. Meyer &amp; Co</persName> have only paid $6.00, as<lb/> you'll
+                perceive, as they say it were possible<lb/>
+                <persName>Mr. A. Jacobs</persName> their partner, residing in <placeName>New<lb/>
+                    York</placeName> may have paid their subscription dues<lb/> therefore please let
+                me know in relation<lb/> to it. You will otherwise notice, that<lb/> collections are
+                made very slowly; people<lb/> here do not like to pay. &amp; in reference<lb/> to
+                getting subscriptions to the contemplated<lb/> translations, I have been
+                unsuccessful.</p>
+            <p rend="indent(1)"><persName>Dr. Eckman</persName> has requested me to<lb/> ask you the
+                amt. Of his dues to the Occi-<lb/>dent; wishing to pay the same.</p>
+            <p rend="indent(1)">The President of the Congregation<lb/> “Emanu-El” has also desired
+                me to<lb/> inform you to send the Bill for the adver-<lb/>tisement of the ministry
+                of this congregation<lb/> for payment.</p>
+            <p rend="indent(1)">I am truly sorry, that you find<lb/> cause of so much complaint
+                against <del>your</del><lb/> the course of your religious opponents. Though<lb/> to
+                advise you would for me be out of<lb/> place, yet as a true friend I take the<lb/>
+                liberty to remark, that whilst I do deeply<lb/> sympathize with your arduous duties
+                in battling<lb/> against such a bitter opposition, &amp; whilst your<lb/> course is
+                applauded still by a large multi-<lb/>tude, it being a noble &amp; honorable
+                one,</p>
+            <pb n="3"/>
+            <p>I regret very much that the writings should<lb/> trouble you so much. You should
+                remember,<lb/> that the mass of the people are capable<lb/> of judging between right
+                &amp; wrong, &amp; there-<lb/>fore your severe opponents cannot hurt<lb/> you. As a
+                journalist you must expect<lb/> such attacks, &amp; your success in meeting<lb/>
+                them reflects upon your credit &amp; honor.</p>
+            <p rend="indent(1)">I have with much gratification learned<lb/> that you are being
+                elected as minister of<lb/> a new Portuguese congregation in
+                    <placeName>Phil.</placeName>;<lb/> allow me to extend my congratulations,
+                &amp;<lb/> my sincere wishes for true success.</p>
+            <p rend="indent(1)">The news relating to Jewish affairs are<lb/> very dull &amp; scarce.
+                The congregation<lb/> Emanu-El, are now without any<lb/> minister; they are
+                anxiously awaiting<lb/> a response of some suitable person to their advertisements.
+                An able man can<lb/> here find a good post, &amp; can find a<lb/> wide field for
+                doing good. The congre-<lb/>gation at their last meeting have changed<lb/> the
+                resolution effecting the election of<lb/> a minister, so that $3000— salary
+                annually<lb/> is paid for 2 years &amp;c. I understand<lb/> that you have officially
+                been informed of this<lb/> change, &amp; that an advertisement to that effect<lb/>
+                had been ordered. <persName>Mr. D. Levy</persName> is now<lb/> the teacher of the
+                Hebrew School attached</p>
+            <pb n="4"/>
+            <p>to &amp; supported by the congregation E-El, who in<lb/> connection with the Heb.
+                Department has established<lb/> a regular school for the instruction of all
+                other<lb/> &amp; secular branches. This school is well &amp; ably<lb/> conducted,
+                &amp; the pupils have made great pro-<lb/>gress within the short time since; the
+                school<lb/> is under the direction of <persName>D. Levy Esq.</persName></p>
+            <p rend="indent(1)">At the meeting of the congregation<lb/> “Bnai Israel”
+                    <placeName>Sacramento</placeName>, <date>April 12<hi rend="sup">th</hi></date>
+                the following<lb/> officers were elected for the ensuing<lb/> year: <persName>Geo.
+                    Aaronson</persName> Pres. <persName>A. Mayer</persName><lb/> Vice. Pres.,
+                    <persName>J. S. Winehill</persName> Sec.<lb/>
+                <persName>M. S. Myers</persName> Treasu. <persName>L. Godstein</persName>,<lb/>
+                <persName>I. Rosenheim</persName> &amp; <persName>L. Shawl</persName> Trustees<lb/>
+                <persName>A. Gallard</persName> Chazan &amp; Shochet.</p>
+            <p rend="indent(1)">Owing to some difficulty originating<lb/> from the desire of the
+                minority of members<lb/> to establish a Heb. School to be supported<lb/> by the
+                congregation, a succession of those<lb/> members, composing the minority has<lb/>
+                taken place, who have recently organized<lb/> a distinct congregation, and have<lb/>
+                elected the following gent. for their officers:<lb/>
+                <persName>Louis Sloss</persName>, Pres., <persName>L. Lehman</persName> Vice<lb/>
+                Pres., <persName>I. Eppinger</persName> Sec. <persName>L. Bucki</persName> Treas.<lb/>
+                <persName>L. Godshaw</persName>, <persName>S. Hoffman</persName> &amp; <persName>H.
+                    Davis</persName> Trust.<lb/> This congregation has established a religious<lb/>
+                school, in connection <del>with</del> &amp; have elected<lb/>
+                <persName>Mr. Borris</persName> as the teacher &amp; shochet.</p>
+        </body>
+    </text>
 </TEI>

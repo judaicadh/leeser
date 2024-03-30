@@ -1,269 +1,350 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE TEI [
-<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
-%teibase;
-<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
-%teiext;
-]>
-<TEI>
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="unk"></author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>CAJS Isaac Leeser Collection</repository>
-						<collection>The Library of the Dropsie College for Hebrew and Cognate Learning</collection>
-						<idno>LSDCBx1FF9_51</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="unk"></author>
-						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac</addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>Cleveland, OH</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1852-08" source="" attested="yes">26 August 1852</dateLet>
-						<dateLet when="1852-08" source="" attested="yes">5612</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="ilcajs_b1f9_0049_1r.jpg"></graphic>
-								<graphic url="ilcajs_b1f9_0049_1v.jpg"></graphic>
-								<graphic url="ilcajs_b1f9_0049_2r.jpg"></graphic>
-								<graphic url="ilcajs_b1f9_0049_2v.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="false" paper_type="" size="">letter</material>
-								</support>
-								<extent>4 pages on 2 sheets
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="manuscript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="free">
-								<p>Unrestricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="de">German</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-				<p rend="align(right)"><addressee>Rev. Isaac Leeser</addressee> in <placeName>Philadelphia</placeName></p>
-				<p rend="align(right)"><placeName>Cleveland O. H.</placeName> <date>26<hi rend="underline">ten</hi> August <hi rend="underline">5612</hi></date>.</p>
-				<p rend="align(center)">Geehrtester Herr&#44;</p>
-				<p>Ihr werthes<add>&#63;</add> Schreiben zum <date>6<hi rend="underline">ten</hi></date> <add>&#63;</add>. M. habe ich richtig<lb/> angefangen&#44; und &#252;bersende Ihnen mit Vergn&#252;gen<lb/> auf Ihr Verlangen die fortsetzung meines<lb/> Werks mit der Hiesigen American Express.  Ich<lb/> verspreche Ihnen zugleich&#44; so Gott will&#44; binnen 14 Tagen<lb/> den Schlu&#223; dasselben&#44; <add>&#63;</add>gef&#228;hr noch 100 Seiten dicht ge&#44;<lb/>schrieben im &#188; <add>&#63;</add>egen mit der Er<add>&#63;</add>&#223; wider&#44;<lb/>um einzuschicken.  Ich bin auch Willens am neues<lb/> Vorg<add>&#63;</add>t&#44; wenn Sie glauben&#44; da&#223; es <sic>nothwendig</sic><lb/> <add>&#63;</add>&#44; auszuarbeiten.  &#252;bersetzen Sie es nur<lb/> gef&#228;lligst <add>&#63;</add> als m&#246;glich&#59; denn ich <add>&#63;</add><lb/>aufh&#246;rlich zur allen Seiten aufgefordert das<lb/> Werk bald erscheinen zu lassen.</p>
-				<p>Sie empfangen auch beiliegend einen Aufsetz un&#44;<lb/>ter denn Titel <add>Hebrew</add> in <add>&#63;</add> der Angelegenheit<lb/> mit den Er<add>&#63;</add>&#44; da&#223; Sie diese <add>&#63;</add> Herr&#44; im Occident<lb/> baldigst aufnehmen m&#246;chten.</p>
-				<p>Doch <add>&#63;</add> sage ich &#8222;Herr&#8221; wie <add>&#63;</add> wollte ich &#8222;Freund&#8221;<lb/> schreiben&#59; allein wie soll und kann ich es&#44; wenn Sie<lb/> so freund und unfreundlich gegen mich handelten&#44;<lb/> wenn Sie mich abgleich nicht namentlich&#44; doch sehr<lb/> schwer compromittirten<add>&#63;</add>&#63;  So sehe Sie auch glauben<lb/> m&#246;gen&#44; da&#223; ich am wenigsten dabei ber&#252;hrt bin&#44;</p>
-			<pb n="2"/>
-				<p>2</p>
-				<p>so ist es doch zu allgemein bekannt&#44; war dann<lb/> eigentlich der Hauptgegner<add>&#63;</add> der <add>&#63;</add> Angelegenheit<lb/> ist.  Ich kann es Ihnen durch Briefe von meinen <add>&#63;</add><lb/> und fernen Freunden beweisen&#44; da&#223; ich unaufh&#246;r&#44;<lb/>lich aufgefordert werde mein Still<add>&#63;</add>eigen<lb/> in dieser Sache zu brechen&#44; und &#246;ffentlich mich dar&#44;<lb/>&#252;ber auszulassen.</p>
-				<p>Wohl&#44; ich lie&#223; mich b<add>&#63;</add>egen.  Ich habe also meine<lb/> Gr&#252;nde gegen die G&#252;ltigkeit das es bereits Ihnen zu Ver&#44;<lb/><add>&#63;</add>ssentlichung eingesandt&#44; und ganz dasselbe habe<lb/> ich doch<add>&#63;</add> an den Redacteur das Asmonean ein&#44;<lb/>geschickt.  Wie schwer Sie mich auch beleidigen lie&#223;en&#44;<lb/> oder selbst beleidigen&#44; so habe ich dennoch&#44; wie<lb/> Sie Selbst sehen k&#246;nnen&#44; in allen meinen Aus&#44;<lb/><sic>er</sic> b<add>&#63;</add>ungen nicht in G<add>&#63;</add>ingsten auf Sie<lb/> <add>&#63;</add>geschielt&#44; und beobachtete den Wahlspruch&#58;</p>
-				<p rend="align(right)">&#33;<add>Hebrew</add></p>
-				<p>Womit der <add>&#63;</add> Sie bezauberte&#44; wei&#223; ich<lb/> nicht.  Siene Gelehrsamkeit ist es nicht.  Soweit<lb/> ich dieser Menschen kenn&#44; so ist er weiter S<add>&#63;</add><lb/> als wei man es unter <add>Hebrew</add> nennt&#44; ein alter<lb/> wersch<add>&#63;</add> alter <add>&#63;</add>tscher&#44; und ich gebe Ihnen&#44;<lb/> mein Freund&#44; das heiligste Versprechen&#44; da&#223; ich<lb/> dieses nachweisen werde und k&#246;nne.  Er ist ein Mensch&#44;<lb/> der an der Oberfl&#228;che blieb&#44; und ein in den Geist<lb/> das Talmuds und in die <add>Hebrew</add> eingedrungen ist&#44; und<lb/> so bescheiden er auch spricht&#44; so ist er das Einer<lb/> von der <add>Hebrew</add>.  Sie sagen&#58; er hatte volles <add>&#63;</add>echt<lb/> sich zu <sic>vertheidigen</sic>.  Wie&#63; mein Freund&#33;  Ich&#44; der ich</p>
-			<pb n="3"/>
-				<p rend="align(right)">3.</p>
-				<p>sein unverantwortliches Treiben r&#252;gte&#44; sollte<lb/> nicht dasselbe <add>&#63;</add>echt haben mein gerechten Behaup&#44;<lb/>tungen <add>&#63;</add> zu rechtfertigen&#63;  Sollten Sie<lb/> mir nicht nach Ihre hilfreiche Hand freund&#44;<lb/>schaftlich bieten und mein vorhaben aus<lb/> zuf&#252;hren&#63;  Besonderes&#44; der Sie&#44; mein Freund&#44; wieder<lb/> mein Erwarten&#44; diese Sache den <sic>Publicum</sic><lb/> vorlegten&#44; so ist es auch Ihre heiligste Pflicht<lb/> vollst&#228;ndig vorzulegen.  Was es aber das<lb/> <sic>Publicum</sic> interessirt&#44; das will ich Ihnen kurz<lb/> sagen.  Alle Welt soll es wissen&#44; das der von<lb/> <add>&#63;</add> <sic>ertheilte</sic> <add>&#63;</add> ist <add>Hebrew</add>&#44; und der <persName>N. N. Becker</persName><lb/> nicht eher <sic>heirathen</sic> darf bis es einen andere&#44;<lb/> und war einen <add>Hebrew</add> seiner Freude gegeben hat&#59; und<lb/> alle Welt soll es wissen&#44; da&#223; der <add>&#63;</add> keine <add>&#63;</add>&#44;<lb/>eische Autorit&#228;t ist und folglich sich aller <add>&#63;</add>&#44;<lb/>schen <add>&#63;</add> zu enthalten habe.</p>
-				<p>Und wie k&#246;nnte man es denn Publicum besser be&#44;<lb/>kannt w&#252;nschen&#44; als durch die j&#252;dische Presse&#63;<lb/>  Ich zweifle nicht&#44; mein Freund&#44; da&#223; Sie unverz&#252;g&#44;<lb/>lich meine Ihnen &#252;bersandten.  Aufs&#228;tze in<lb/> Beziehung das <add>Hebrew</add> zu <placeName>Cleveland</placeName> in Occident am <add>&#63;</add> <add>&#63;</add><lb/>den&#44; um das&#44; womit Sie mich <add>&#63;</add>s beleidig&#44;<lb/>sten&#44;   wieder gut zu machen.  Hieraus werde ich<lb/> erkennen&#44; da&#223; Sie mein <add>&#63;</add>hatter Freund sind<lb/> und ich nicht gen&#246;<sic>thigt</sic> w&#228;re den Schlu&#223; zu ziehen&#58;</p>
-				<p>&#8222;Wer nicht f&#252;r mich ist&#44; der ist wieder mich&#33;&#8221;</p>
-				<p>Ich mu&#223; Sie als Freund bitten und <add>&#63;</add><lb/> die besondere Vor<add>&#63;</add>ebe f&#252;r den <add>&#63;</add>&#44; der <add>&#63;</add>ch<add>&#63;</add>lich&#33;<lb/>  weder ein Gelehrter noch ein <add>Hebrew</add> ist&#44; aufzugeben</p>
-			<pb n="4"/>
-				<p>4</p>
-				<p>und der rechte und gerechte Sache un<add>&#63;</add>eisch zu<lb/> vertreten und ihr das Werk zu reden&#44; und<lb/> ich bin fast &#252;berzeugt&#44; da&#223; die t&#252;chtigsten<add>&#63;</add> Gelehr&#44;<lb/>ten das J<add>&#63;</add>&#61; und Ausland&#39;s Ihnen beifall zellen<lb/> werden.  Ist die&#223; nicht der Fall&#44; so ist es ganz nat&#252;r&#44;<lb/>lich&#44; da&#223; Sie Sich nach und fern immer mehr<lb/> Friede zuziehen und die <add>&#63;</add> Gelehrten von<lb/> ein Mann gegen Sie aufstehe werden und m&#252;&#223;en<lb/> Sie haben wohl Recht&#44; da&#223; man die Achtung der<lb/> Gelehrten zu erhalten suchen mu&#223;&#59; aber nicht auf<lb/> diese Art&#44; da&#223; man jeden H<add>&#63;</add> und<lb/> jeden <add>Hebrew</add>&#44; der ein bischen hebr&#228;isch schreibt&#44;<lb/> dem <sic>Publicum</sic> als ein non plus ultra pro&#44;<lb/>duziert.  <add>&#63;</add>ein&#44; mein Freund&#44; das hei&#223;t die Gelehr&#44;<lb/>ten gesch&#228;ndet und nicht geachtet&#44; wenn Sie mit jedem<lb/> Dummkopf in eine Kategorie gestellt werden.<lb/>  Man mu&#223; gar sehr worsichtig sage befor man<lb/> irgend Je<add>&#63;</add>d als Gelehrten der <add>Hebrew</add> dem<lb/> Publicum pr&#228;<sic>sentirt</sic>.  Ein Zeugnis und <add>&#63;</add>&#44;<lb/><add>&#63;</add>ebungen&#44; die Jederman erh&#228;lt haben keinen<lb/> absoluten Werth&#44; und stellt auch den Geben der&#44;<lb/>selben in jeder Beziehung in ein sehr dunkeles<lb/> <add>&#63;</add>setzt Sticht&#44; weil ein Parr Dutzend Leute&#44;<lb/> die vielleicht s&#228;<sic>mmtlich</sic> un<add>&#63;</add>d sind&#44; sagen&#58;<lb/> das ist ein gro&#223;er <add>Hebrew</add> oder eine <add>Hebrew</add>&#44; oder weil<lb/> Einer viele <add>Hebrew</add> besetzt&#44; oder viel er ein bischen<lb/> Schuler<add>&#63;</add>sen kann&#44; und ein Bogen voll heb&#44;<lb/>r&#228;ischen Wort schreibt ist ma&#223;gebend f&#252;r die Gelehr&#44;<lb/>samkeit eines Mannes&#44; nein&#44; die <add>&#63;</add> lichen<lb/> Leistungen allein sind der Ma&#223;stab dasselben.</p>
-		</body>
-	</text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="unk"/>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS Isaac Leeser Collection</repository>
+                        <collection>The Library of the Dropsie College for Hebrew and Cognate
+                            Learning</collection>
+                        <idno>LSDCBx1FF9_51</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="unk"/>
+                        <addressee accepted="yes" attested="yes" editor="false">Leeser,
+                            Isaac</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Cleveland, OH</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1852-08">26 August 1852</dateLet>
+                        <dateLet attested="yes" source="" when="1852-08">5612</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="ilcajs_b1f9_0049_1r.jpg"/>
+                                <graphic url="ilcajs_b1f9_0049_1v.jpg"/>
+                                <graphic url="ilcajs_b1f9_0049_2r.jpg"/>
+                                <graphic url="ilcajs_b1f9_0049_2v.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >letter</material>
+                                </support>
+                                <extent>4 pages on 2 sheets <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="de">German</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p rend="align(right)"><addressee>Rev. Isaac Leeser</addressee> in
+                    <placeName>Philadelphia</placeName></p>
+            <p rend="align(right)"><placeName>Cleveland O. H.</placeName>
+                <date>26<hi rend="underline">ten</hi> August <hi rend="underline"
+                >5612</hi></date>.</p>
+            <p rend="align(center)">Geehrtester Herr,</p>
+            <p>Ihr werthes<add>?</add> Schreiben zum <date>6<hi rend="underline">ten</hi></date>
+                <add>?</add>. M. habe ich richtig<lb/> angefangen, und übersende Ihnen mit
+                Vergnügen<lb/> auf Ihr Verlangen die fortsetzung meines<lb/> Werks mit der Hiesigen
+                American Express. Ich<lb/> verspreche Ihnen zugleich, so Gott will, binnen 14
+                Tagen<lb/> den Schluß dasselben, <add>?</add>gefähr noch 100 Seiten dicht
+                ge,<lb/>schrieben im ¼ <add>?</add>egen mit der Er<add>?</add>ß wider,<lb/>um
+                einzuschicken. Ich bin auch Willens am neues<lb/> Vorg<add>?</add>t, wenn Sie
+                glauben, daß es <sic>nothwendig</sic><lb/>
+                <add>?</add>, auszuarbeiten. übersetzen Sie es nur<lb/> gefälligst <add>?</add> als
+                möglich; denn ich <add>?</add><lb/>aufhörlich zur allen Seiten aufgefordert das<lb/>
+                Werk bald erscheinen zu lassen.</p>
+            <p>Sie empfangen auch beiliegend einen Aufsetz un,<lb/>ter denn Titel <add>מודעה</add>
+                in <add>?</add> der Angelegenheit<lb/> mit den Er<add>?</add>, daß Sie diese
+                    <add>?</add> Herr, im Occident<lb/> baldigst aufnehmen möchten.</p>
+            <p>Doch <add>?</add> sage ich „Herr” wie <add>?</add> wollte ich „Freund”<lb/>
+                schreiben; allein wie soll und kann ich es, wenn Sie<lb/> so freund und unfreundlich
+                gegen mich handelten,<lb/> wenn Sie mich abgleich nicht namentlich, doch sehr<lb/>
+                schwer compromittirten<add>?</add>? So sehe Sie auch glauben<lb/> mögen, daß ich am
+                wenigsten dabei berührt bin,</p>
+            <pb n="2"/>
+            <p>2</p>
+            <p>so ist es doch zu allgemein bekannt, war dann<lb/> eigentlich der
+                    Hauptgegner<add>?</add> der <add>?</add> Angelegenheit<lb/> ist. Ich kann es
+                Ihnen durch Briefe von meinen <add>?</add><lb/> und fernen Freunden beweisen, daß
+                ich unaufhör,<lb/>lich aufgefordert werde mein Still<add>?</add>eigen<lb/> in dieser
+                Sache zu brechen, und öffentlich mich dar,<lb/>über auszulassen.</p>
+            <p>Wohl, ich ließ mich b<add>?</add>egen. Ich habe also meine<lb/> Gründe gegen die
+                Gültigkeit das es bereits Ihnen zu Ver,<lb/><add>?</add>ssentlichung eingesandt, und
+                ganz dasselbe habe<lb/> ich doch<add>?</add> an den Redacteur das Asmonean
+                ein,<lb/>geschickt. Wie schwer Sie mich auch beleidigen ließen,<lb/> oder selbst
+                beleidigen, so habe ich dennoch, wie<lb/> Sie Selbst sehen können, in allen meinen
+                    Aus,<lb/><sic>er</sic> b<add>?</add>ungen nicht in G<add>?</add>ingsten auf Sie<lb/>
+                <add>?</add>geschielt, und beobachtete den Wahlspruch:</p>
+            <p rend="align(right)">!<add>על כל פשעים תכסה אהבה!</add></p>
+            <p>Womit der <add>?</add> Sie bezauberte, weiß ich<lb/> nicht. Siene Gelehrsamkeit ist
+                es nicht. Soweit<lb/> ich dieser Menschen kenn, so ist er weiter S<add>?</add><lb/>
+                als wei man es unter <add>לומדים</add> nennt, ein alter<lb/> wersch<add>?</add>
+                alter <add>?</add>tscher, und ich gebe Ihnen,<lb/> mein Freund, das heiligste
+                Versprechen, daß ich<lb/> dieses nachweisen werde und könne. Er ist ein Mensch,<lb/>
+                der an der Oberfläche blieb, und ein in den Geist<lb/> das Talmuds und in die
+                    <add>פוסקים</add> eingedrungen ist, und<lb/> so bescheiden er auch spricht, so
+                ist er das Einer<lb/> von der <add>מחבלי כרמים</add>. Sie sagen: er hatte volles
+                    <add>?</add>echt<lb/> sich zu <sic>vertheidigen</sic>. Wie? mein Freund! Ich,
+                der ich</p>
+            <pb n="3"/>
+            <p rend="align(right)">3.</p>
+            <p>sein unverantwortliches Treiben rügte, sollte<lb/> nicht dasselbe <add>?</add>echt
+                haben mein gerechten Behaup,<lb/>tungen <add>?</add> zu rechtfertigen? Sollten
+                Sie<lb/> mir nicht nach Ihre hilfreiche Hand freund,<lb/>schaftlich bieten und mein
+                vorhaben aus<lb/> zuführen? Besonderes, der Sie, mein Freund, wieder<lb/> mein
+                Erwarten, diese Sache den <sic>Publicum</sic><lb/> vorlegten, so ist es auch Ihre
+                heiligste Pflicht<lb/> vollständig vorzulegen. Was es aber das<lb/>
+                <sic>Publicum</sic> interessirt, das will ich Ihnen kurz<lb/> sagen. Alle Welt soll
+                es wissen, das der von<lb/>
+                <add>?</add>
+                <sic>ertheilte</sic>
+                <add>?</add> ist <add>פסול</add>, und der <persName>N. N. Becker</persName><lb/>
+                nicht eher <sic>heirathen</sic> darf bis es einen andere,<lb/> und war einen <add>גט
+                    כשר</add> seiner Freude gegeben hat; und<lb/> alle Welt soll es wissen, daß der
+                    <add>?</add> keine <add>?</add>,<lb/>eische Autorität ist und folglich sich
+                aller <add>?</add>,<lb/>schen <add>?</add> zu enthalten habe.</p>
+            <p>Und wie könnte man es denn Publicum besser be,<lb/>kannt wünschen, als durch die
+                jüdische Presse?<lb/> Ich zweifle nicht, mein Freund, daß Sie unverzüg,<lb/>lich
+                meine Ihnen übersandten. Aufsätze in<lb/> Beziehung das <add>גט</add> zu
+                    <placeName>Cleveland</placeName> in Occident am <add>?</add>
+                <add>?</add><lb/>den, um das, womit Sie mich <add>?</add>s beleidig,<lb/>sten,
+                wieder gut zu machen. Hieraus werde ich<lb/> erkennen, daß Sie mein
+                <add>?</add>hatter Freund sind<lb/> und ich nicht genö<sic>thigt</sic> wäre den
+                Schluß zu ziehen:</p>
+            <p>„Wer nicht für mich ist, der ist wieder mich!”</p>
+            <p>Ich muß Sie als Freund bitten und <add>?</add><lb/> die besondere Vor<add>?</add>ebe
+                für den <add>?</add>, der <add>?</add>ch<add>?</add>lich!<lb/> weder ein Gelehrter
+                noch ein <add>תלמיד חכם</add> ist, aufzugeben</p>
+            <pb n="4"/>
+            <p>4</p>
+            <p>und der rechte und gerechte Sache un<add>?</add>eisch zu<lb/> vertreten und ihr das
+                Werk zu reden, und<lb/> ich bin fast überzeugt, daß die tüchtigsten<add>?</add>
+                Gelehr,<lb/>ten das J<add>?</add>= und Ausland's Ihnen beifall zellen<lb/> werden.
+                Ist dieß nicht der Fall, so ist es ganz natür,<lb/>lich, daß Sie Sich nach und fern
+                immer mehr<lb/> Friede zuziehen und die <add>?</add> Gelehrten von<lb/> ein Mann
+                gegen Sie aufstehe werden und müßen<lb/> Sie haben wohl Recht, daß man die Achtung
+                der<lb/> Gelehrten zu erhalten suchen muß; aber nicht auf<lb/> diese Art, daß man
+                jeden H<add>?</add> und<lb/> jeden <add>בר אוריין</add>, der ein bischen hebräisch
+                schreibt,<lb/> dem <sic>Publicum</sic> als ein non plus ultra pro,<lb/>duziert.
+                    <add>?</add>ein, mein Freund, das heißt die Gelehr,<lb/>ten geschändet und nicht
+                geachtet, wenn Sie mit jedem<lb/> Dummkopf in eine Kategorie gestellt werden.<lb/>
+                Man muß gar sehr worsichtig sage befor man<lb/> irgend Je<add>?</add>d als Gelehrten
+                der <add>למדן</add> dem<lb/> Publicum prä<sic>sentirt</sic>. Ein Zeugnis und
+                    <add>?</add>,<lb/><add>?</add>ebungen, die Jederman erhält haben keinen<lb/>
+                absoluten Werth, und stellt auch den Geben der,<lb/>selben in jeder Beziehung in ein
+                sehr dunkeles<lb/>
+                <add>?</add>setzt Sticht, weil ein Parr Dutzend Leute,<lb/> die vielleicht
+                    sä<sic>mmtlich</sic> un<add>?</add>d sind, sagen:<lb/> das ist ein großer
+                    <add>למדן</add> oder eine <add>מורנו</add>, oder weil<lb/> Einer viele
+                    <add>ספרים</add> besetzt, oder viel er ein bischen<lb/> Schuler<add>?</add>sen
+                kann, und ein Bogen voll heb,<lb/>räischen Wort schreibt ist maßgebend für die
+                Gelehr,<lb/>samkeit eines Mannes, nein, die <add>?</add> lichen<lb/> Leistungen
+                allein sind der Maßstab dasselben.</p>
+        </body>
+    </text>
 </TEI>

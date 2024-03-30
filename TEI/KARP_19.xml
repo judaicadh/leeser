@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
         <fileDesc>
             <titleStmt>
                 <title>[no title given]</title>
-                <author attested="yes" accepted="yes" signature="yes">Eckman, Julius</author>
+                <author accepted="yes" attested="yes" signature="yes">Eckman, Julius</author>
                 <editor/>
                 <sponsor/>
                 <funder/>
@@ -47,7 +49,9 @@
                         <settlement>New York</settlement>
                         <institution>Jewish Theological Seminary</institution>
                         <repository/>
-                        <collection>The Abraham and Deborah Karp Collection of Early American Judaica at the Library of the Jewish Theological Seminary of America</collection>
+                        <collection>The Abraham and Deborah Karp Collection of Early American
+                            Judaica at the Library of the Jewish Theological Seminary of
+                            America</collection>
                         <idno/>
                         <altIdentifier>
                             <idno/>
@@ -56,9 +60,9 @@
                     </msIdentifier>
                     <head/>
                     <letHeading>
-                        <author attested="yes" accepted="yes" signature="yes">Eckman,
+                        <author accepted="yes" attested="yes" signature="yes">Eckman,
                             Julius</author>
-                        <addressee editor="false" attested="yes" accepted="yes">Leeser,
+                        <addressee accepted="yes" attested="yes" editor="false">Leeser,
                             Isaac</addressee>
                         <deliverer/>
                         <respStmt>
@@ -67,7 +71,7 @@
                         </respStmt>
                         <placeLet>Augusta, GA</placeLet>
                         <placeRec>Philadelphia, PA</placeRec>
-                        <dateLet when="1852-03" source="" attested="yes">30 March 1852</dateLet>
+                        <dateLet attested="yes" source="" when="1852-03">30 March 1852</dateLet>
                     </letHeading>
                     <msContents>
                         <msItem>
@@ -93,7 +97,8 @@
                         <objectDesc>
                             <supportDesc>
                                 <support>
-                                    <material color="" lined="false" paper_type="" size="Letter">letter</material>
+                                    <material color="" lined="false" paper_type="" size="Letter"
+                                        >letter</material>
                                 </support>
                                 <extent>1 page on 1 sheet <dimensions/>
                                 </extent>
@@ -234,50 +239,47 @@
     </teiHeader>
     <text>
         <body>
-
             <pb n="1"/>
-            <p rend="align(center)"> <persName role="author">Rev. D<hi rend="sup">r</hi>.Eckman</persName> at
-                    <placeName>Augusta</placeName></p>
-            <p rend="align(right)"><placeName>Augusta</placeName><date>Augusta March 30<hi rend="sup">th</hi>
-                    1852</date>
+            <p rend="align(center)">Rev. D<hi rend="sup">r</hi>. <persName role="author"
+                    >Eckman</persName> at <placeName>Augusta</placeName></p>
+            <p rend="align(right)">
+                <placeName>Augusta</placeName>
+                <date>Augusta March 30<hi rend="sup">th</hi> 1852</date>
             </p>
-            <p><addressee>Rev. Mr. Leeser</addressee></p>
-            <p rend="indent(1)">Dear Sir&#33;</p>
-            <p rend="indent(2)">You will please insert the following<lb/> once in your periodical.&#8212;&#8212; </p>
-            <p><add>In left margin&#58; Long Primo</add> &#8220;At a meeting of the Board of Managers of the
-                Congregation &#8220;B&#39;nai&#8211;<lb/>Israel&#8221; of <placeName>Augusta
-                    Ga</placeName>&#44; on <date>February 23&#44; 1852</date>&#40; The following
-                preamble<lb/> and resolution were unanimously passed&#8212;&#8220;Whereas the<lb/>
-                <persName>Rev. Dr Julius Eckman</persName> having accepted the special invitation of
-                this<lb/> congregation&#44; and delivered a series of Lectures long to be
-                remembered<lb/> with feelings of admiration&#8212;and whereas this congregation
-                have<lb/> found in the <persName>Rev. Dr.</persName> a truly pious man&#8212;a profound scholar and
-                a<lb/> gentleman........./</p>
-            <p>Resolved&#8212;That a proper and suitable token expressive of our feelings be
-                purchased&#8212;<lb/>&#8212;&#8211;A <sic>committy</sic> being appointed for <del>that</del>
-                its selection&#8212;they reported<lb/> at a meeting of the Congregation on the
-                        <date>28<hi rend="sup">th</hi> Feby</date>. that <persName>Lewis
-                    Levy</persName> and<lb/>
-                <persName>Samuel Levy Esqrs</persName>  had purchased a silver Goblet&#44; as
-                directed&#44; and that<lb/> this Goblet and the sum of Fifty Dollars be presented to
-                the Rev gentleman<lb/> the <sic>Committy</sic> further reported&#44; that they had
-                selected <persName>Henry Morrison Esqr</persName> <lb/> to present the same....At a
-                meeting of the Congregation on <date>29<hi rend="sup">th</hi> March</date>&#44; it
+            <p>Rev. Mr. <addressee>Leeser</addressee></p>
+            <p rend="indent(1)">Dear Sir!</p>
+            <p rend="indent(2)">You will please insert the following<lb/> once in your periodical.—— </p>
+            <p><add>In left margin: Long Primo</add> “At a meeting of the Board of Managers of the
+                Congregation “B'nai–<lb/>Israel” of <placeName>Augusta Ga</placeName>, on
+                    <date>February 23, 1852</date>( The following preamble<lb/> and resolution were
+                unanimously passed—“Whereas the Rev. Dr<lb/>
+                <persName>Julius Eckman</persName> having accepted the special invitation of
+                this<lb/> congregation, and delivered a series of Lectures long to be
+                remembered<lb/> with feelings of admiration—and whereas this congregation have<lb/>
+                found in the Rev. Dr. a truly pious man—a profound scholar and a<lb/>
+                gentleman........./</p>
+            <p>Resolved—That a proper and suitable token expressive of our feelings be
+                purchased—<lb/>—–A <sic>committy</sic> being appointed for <del>that</del> its
+                selection—they reported<lb/> at a meeting of the Congregation on the <date>28<hi
+                        rend="sup">th</hi> Feby</date>. that <persName>Lewis Levy</persName> and<lb/>
+                <persName>Samuel Levy</persName> Esqrs had purchased a silver Goblet, as directed,
+                and that<lb/> this Goblet and the sum of Fifty Dollars be presented to the Rev
+                gentleman<lb/> the <sic>Committy</sic> further reported, that they had selected
+                    <persName>Henry Morrison</persName> Esqr<lb/> to present the same....At a
+                meeting of the Congregation on <date>29<hi rend="sup">th</hi> March</date>, it
                 was/</p>
             <p>Resolved. That a <sic>committy</sic> be appointed to return the thanks of this
                 congregation to<lb/>
-                <persName>H. Morrison Esqr.</persName>  for his able address delivered at the
-                Presentation&#59; and that<lb/>
-                <persName>H. Morrison Esqr&#44;</persName>  and the <persName>Rev. Dr.
-                    Eckman</persName> be respectfully requested to furnish<lb/> the
-                    <sic>Committy</sic> with a copy of their respective addresses.</p>
-            <p>Resolved That the whole of these proceedings be published in the Asmonean and<lb/>
-                Occident.....<lb/> <add>In left margin&#58; Small Pica</add> After the <persName> Rev. Dr.
-                    Eckman</persName> had delivered his last lecture&#44; on<lb/> Sunday
-                    <date>March 7<hi rend="sup">th</hi></date> <persName>Mr Morrison</persName>
-                arose and addressed him as follows.&#8212;&#8211; </p>
-
-
+                <persName>H. Morrison</persName> Esqr. for his able address delivered at the
+                Presentation; and that<lb/>
+                <persName>H. Morrison</persName> Esqr, and the Rev. Dr. <persName>Eckman</persName>
+                be respectfully requested to furnish<lb/> the <sic>Committy</sic> with a copy of
+                their respective addresses.</p>
+            <p>Resolved That the whole of these proceedings be published in the Asmonean and<lb/> Occident.....<lb/>
+                <add>In left margin: Small Pica</add> After the Rev. Dr. <persName>Eckman</persName>
+                had delivered his last lecture, on<lb/> Sunday <date>March 7<hi rend="sup"
+                    >th</hi></date> Mr <persName>Morrison</persName> arose and addressed him as
+                follows.—– </p>
         </body>
     </text>
 </TEI>

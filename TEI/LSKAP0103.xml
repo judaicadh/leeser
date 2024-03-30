@@ -1,294 +1,407 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE TEI [
-<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
-%teibase;
-<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
-%teiext;
-]>
-<TEI>
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="yes">Bush, Isidor</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>LSKAP</repository>
-						<collection>The Arnold and Deanne Kaplan Collection of Early American Judaica</collection>
-						<idno>LSKAP0103</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="yes">Bush, Isidor</author>
-						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac</addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>St. Louis, MO</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1851-01" source="" attested="yes">January 6, 1851</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="LSKAP0103_1r.jpg"></graphic>
-								<graphic url="LSKAP0103_1v.jpg"></graphic>
-								<graphic url="LSKAP0103_2_1r.jpg"></graphic>
-								<graphic url="LSKAP0103_2_2r.jpg"></graphic>
-								<graphic url="LSKAP0103_2_3r.jpg"></graphic>
-								<graphic url="LSKAP0103_2_4r.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="false" paper_type="" size="">letter</material>
-								</support>
-								<extent>6 pages on 3 sheets
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="manuscript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="restricted">
-								<p>Restricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-				<language ident="de">German</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1"/>
-				<p><addressee>Revd Isaac Leeser</addressee> <placeName>Philada.</placeName></p>
-				<p><placeName>St Louis</placeName>&#44; <date>Janry 6<hi rend="sup">th</hi> 1851</date>.</p>
-				<p>Sehr geehrter Herr&#33;</p>
-				<p>Seit langer Zeit wenigste ich die Zusendung<lb/> Ihrer werthen Zeitschrift The Occident&#44; und ich wie&#223; nicht ob ichs einem<lb/> Aufh&#246;ren dieser&#44; oder andere Ursacher zuschreiben soll&#63;</p>
-				<p>Ich hab bereits in einem fr&#252;her Brief&#44; an Sie ein prachtvolles Sepher Tora<lb/> Ihnen angetragen&#44; das ich in <placeName>N.Y.</placeName> bei <persName>Hr Pesschan</persName> liegen hatte&#44; und Ihnen<lb/> dabei zu erkommen gegeben&#44; dass ich gerne auch meine Schuld an Sie<lb/> &#40;f&#252;r einige theils verkaufte theils hierhermitgenommene und noch nur er&#44;<lb/>kaufte B&#252;cher Ihres verlags&#41; tilgen m&#246;chte.  Auch h&#228;tte ich gerne Ihnen Bei&#44;<lb/>trage fur Ihren Occident gesendet&#44; wenn nicht einerseits die materielen<lb/> m&#252;hsale&#44; des um seine <add>&#63;</add> kau<add>&#63;</add>fenden Auf&#228;gers&#44; anderseits mei&#44;<lb/>ne noch ungen&#252;genden Kau<add>&#63;</add> der engl. Sprache um in dieser zu schreiben&#44;<lb/> mich nicht daran verfindert f&#228;llen.</p>
-				<p>Ich hatte noch uberdreht das Ungl&#252;ck von <persName>Mr De Young</persName> in <placeName>New York</placeName> arg be&#44;<lb/>tragen zu werden derselbe hatte mir vor <add>Hebrew</add>&#44; eine Parthie Storim<add>&#63;</add> &#38;<lb/> Tallit f&#252;r &#36;70 00 abgekauft und ausser &#36;10&#44;00 baar seinen Wechsel auf<lb/> 3 Monate &#252;ber den Rest von &#36;60&#44;00 gegeben.  Ich gab diese meinem<lb/> Buchdrucker <persName>Hr M&#252;hlh&#228;user</persName> in <placeName>New York</placeName> an zahlungs statt&#44; aber die<lb/> Note wurde bis heute nicht gezahlt.  Ich habe indess als ehrleher Mann trotz<lb/> meinen sehr geringen Mittele und so schwer es wir ankam&#44; und obschon<lb/> <persName>Hr M&#252;hlh&#228;user</persName> mich <hi rend="underline">gar nicht</hi> dr&#228;ngte&#44; denselben bezahlt&#59; eben so liegt<lb/> es mir am Herzen meine Verpflichtung gegen Sie zu l&#246;sen&#44; und wenn<lb/> es mir ohne Gefahr f&#252;r mein junges&#44; kaum gegr&#252;ndetes Gesch&#228;ft m&#246;glich<lb/> w&#228;re&#44; h&#228;tte ich es schon gethan&#59; da ich aber uberd<add>&#63;</add> noch einen Theil Ihrer<lb/> B&#252;cher hier liegen habe&#44; theils an Leute verkaufte von denen ich noch heute<lb/> nicht bezahlt bin&#44; werden Sie folgend Antr&#228;ge nicht unbillig finden&#58;<lb/> stens<add>&#63;</add> Ich <sic>offerire</sic> Ihnen den Wechsel des <persName>De Young</persName>.  Sie kennen ihn&#44; haben<lb/> ihn &#246;fter <sic>Einkassirung</sic><add>&#63;</add> von Gelder anvertraut&#59; was mich&#44; nebst der besten<lb/> Ein<add>&#63;</add>fehlung seines Gemein<add>&#63;</add> vorstehers eines <persName>Mr Levy</persName>&#44; &#40;<sic>Clothingstore</sic> in <placeName>Chatam <sic>str.</sic></placeName>&#41;&#8212;<lb/> &#8222;desser<add>&#63;</add>&#59; <persName>Levy</persName>&#44; ihm unbedingt &#36;500&#44;00 anvertrauen wirde&#44; desser<add>&#63;</add> so ehrlich sei&#44; os</p>
-			<pb n="2"/>
-				<p>er auch die <sic>Einkassirung</sic> der gemeinde Gelder seit Jahren besorge &#38;c.&#8212;ihm zu creditiren<lb/> bestimmte.&#41;  Ich meine nicht dass Sie den Wechsel kaufen&#44; sondern dass Sie<lb/> wo m&#246;glich <persName>De Young</persName> zur Zahlung deshalben verm&#246;gen sollen&#44; wovon Sie sich den<lb/> Ihnen kommanden gangen Betrag &#40;von &#36;21&#44;00 lt meinem Buche&#41; abziehen k&#246;nnen.<lb/>  Ich gebe Ihren dabei zugleich Vollmacht sich mit denselben auf einen Ver&#44;<lb/>gleich in bezug auf Zeits und wenn b<add>&#63;</add>r sogar auf &#36;40&#44;00 stett &#36;60&#44;00 einzu&#44;<lb/>lassen&#44; wobei ich blos auf den Restbetrag &#252;ber die &#36;21&#44;00 Anspruch mache.</p>
-				<p>Bei Ihren geachteten Stellung&#44; Ihrer Bekanntschaft und Ihren Einflusse<lb/> durfte Ihren das gelingen&#44; w&#228;hrend ich von hier aus&#44; und mein Agent in dieser<lb/> Sache dort nichts thun kann.  Wenn Sie also irgend eine Aussicht auf ein g&#252;n&#44;<lb/>stiges Resultat haben&#44; dient Ihnen inliegender Brief an <persName>Hr Dormtze</persName> gegen<lb/> welchen Sie&#44; oder Ihr Bestellten in <placeName>New York</placeName> den Wechsel ohne Weiteres auszu<lb/>folgt erhalten.</p>
-				<p>2ts Sollte des jedoch Ihnen unannehmbar sein&#44; so bin ich bereit Ihnen<lb/> bei <persName>Hr Desshan</persName> in <placeName>New York</placeName> Bucher meines Verlages&#44; welche dort in<lb/> Commission liegen f&#252;r den gleichen Betrag &#40;auch Abzug &#8531;tet Rabbas vom Catal.<lb/> Preise&#41; noch Ihrer Anwohl ausfolgen zu lassen.</p>
-				<p>Mogen Sie aus dieser antragen erkeimen&#44; dass er mir ernst ist Ihnen&#44;<lb/> so gut es mir <hi rend="underline">m&#246;glich</hi> ists&#44; gerecht zu werden.</p>
-				<p>Sollte Ihre Zeitschrift forterscheinen&#44; so w&#228;re ich&#44; Ihnen f&#252;r die Zusendung<lb/> dankbar und ich wurde trachten&#44; es mir durch einen der Aufnahme vielleicht<lb/> werthen Aufsatz verdent<add>&#63;</add> zu machen.</p>
-				<p>Ubrigens leben Sie wohl und lange in edler Wirksamkeit fur<lb/> nsere Glaubensbr&#252;der nach dem Wunsche</p>
-				<p>Ihrer freundschaftlich ergebener</p>
-				<p><persName role="author">Isidor Bush</persName></p>
-			<pb n="3"/>
-				<p><addressee>Rev. Isaac Leeser</addressee> <placeName>Phila.</placeName></p>
-			<p rend="indent(2)"><placeName>St. Louis</placeName>&#44; <date>January 6<hi rend="sup">th</hi> 1851</date></p>
-			<p rend="indent(1)">Dear Sir&#58;&#8212;</p>
-			<p rend="indent(2)">I am missing your publication the<lb/> Occident&#8221; and I don&#39;t know what<lb/> caused you to stop sending it to me.</p>
-			<p rend="indent(2)">In an earlier letter&#44; I<lb/> offered you a magnificent Sepher Tora<lb/> which I had in <placeName>New York</placeName> with<lb/> <persName>Mr. Petuchau</persName>&#44; to show you that I<lb/> would like to pay my debt <add>to you</add> for sold and<lb/> unsold books of your publishing Co. &#38;<lb/> also had in mind to send my dues<lb/> for your Occident.  However the<lb/> struggle of a beginner who is fighting<add>&#63;</add><lb/> for his mere existence <del> <add>&#63;</add> </del> speaking and writing<lb/> as well as my insufficient<lb/> knowledge of the English language<lb/> prevented me to do so.</p>
-			<p rend="indent(2)">I had moreover the bad<lb/> fortune to be cheated by <persName>Mr. De Young</persName><lb/> of <placeName>New York</placeName> <add>&#38; have sold to</add> <persName>Mr. De Young</persName> <del> <add>&#63;</add> </del><lb/> <add>Hebrew</add> <add><date>Rosh Ha&#45;Shana 1850</date></add> ago&#8212;an order of storim<lb/> and Tallis <del>altogether</del> <add>the whole</add> for &#36;70.&#8212; He gave me &#36;10.&#8212;cash and a money order</p>
-				<p rend="The following is written in red at top right corner of page.">32E</p>
-			<pb n="4"/>
-				<p rend="align(center)">2</p>
-				<p>for 3 months for &#36;60.&#8212;&#38; gave<lb/> this money order to my printer<lb/> <persName>Mr. M&#252;hlh&#228;user</persName> in <placeName>New York</placeName><lb/> but he could not cash it up to this<lb/> day.  In spite of my very small<lb/> means and the hardship and in spite<lb/> of the fact that <persName>Mr. M&#252;hlh&#228;user</persName> did<lb/> not press for his money&#44; I paid him.<lb/>  I am anxious to fulfill my obligation<lb/> <del>against</del> to you <add>too</add> and I would have done<lb/> it long ago if it would have been<lb/> possible without endangering my young<lb/> business.  <del>B</del> Some of your books<lb/> however are still unsold and some<lb/> I have sold to people who have not<lb/> paid up to now.</p>
-			<p rend="indent(1)">I therefore offer you the<lb/> money order of <persName>Mr. De Young</persName>.  You<lb/> know him and entrusted him with<lb/> the <del>cashing of</del> reception of notes<add>&#63;</add>.  And<lb/> this together with a recommendation of <del>his</del> the president of<lb/> his congregation <del>president</del>&#45;&#91;<persName>Mr. Levy</persName> &#40;clothing&#45;<lb/>store in <placeName><sic>Chetainstreet</sic></placeName>&#41;&#8212;this man<lb/> <persName>Levy</persName> vouched that he is honest and he<lb/> would trust him &#36;500.&#8212; <del>&#93; he is</del></p>
-			<pb n="5"/>
-				<p rend="align(center)">3</p>
-				<p>since <del>a number of</del> several years he <add>&#40;<persName>Mr. De Young</persName>&#41;</add> was also<lb/> in charge of taking in the money from<lb/> the members of the congregation&#93; caused<lb/> me to give him credit.</p>
-			<p rend="indent(2)">I <sic>dont</sic> want you to buy<lb/> the money order&#44; but to cause<lb/> <persName>Mr. De Young</persName> to cash it and you<lb/> can deduct your amount &#40;&#36;21.&#8212;according<lb/> to my book&#41;.  I also authorize you to<lb/> settle with <persName>Mr. De Young</persName> as far<lb/> as <del>the</del> time is concerned and if he<lb/> wants to pay cash to accept even<lb/> &#36;40.&#8212; instead of &#36;60.  I would<lb/> request only the surplus money over<lb/> &#36;21.&#8212;</p>
-			<p rend="indent(2)">With your honorable standing&#44;<lb/> your acquaintance and your<lb/> influence&#44; you should have no trouble<lb/> at all&#44; while neither I in <placeName>St. Louis</placeName><lb/> nor my agent in <placeName>N. Y.</placeName> can do a<lb/> thing in this matter.  So if you<lb/> have any prospect of getting the money&#44;<lb/> <add>you may use the</add> <del>the</del> enclosed letter to <persName>Mr. Dormitzer</persName><lb/> to obtain the money order.</p>
-				<p>2&#41; Should you not wish to</p>
-			<pb n="6"/>
-				<p rend="align(center)">4</p>
-				<p>accept this offer then you may choose x<lb/> and receive books of my publishing Co <add>for the same amount</add><lb/> which <persName>Mr. Petuchau</persName> in <placeName>New York</placeName> has<lb/> on consignment.</p>
-				<p>&#40;x after deducting <del>&#8531;</del> &#8531; discount from the list price&#41; <del>&#8531; discount&#41;</del>.</p>
-			<p rend="indent(1)"><del>May</del> I hope that my offers <del>serve to</del> will show<lb/> you that I really mean to pay<lb/> as good as I can.</p>
-			<p rend="indent(2)">Should your journal continue<lb/> I would appreciate your sending it<lb/> to me.  Eventually I would contribute<lb/> an article worthy of printing.</p>
-			<p rend="indent(2)">Wishing you a happy<lb/> and long life in noble action<lb/> for our <del>brether</del> brothers of faith</p>
-			<p rend="indent(1)">I am</p>
-			<p rend="indent(2)">cordially yours</p>
-			<p rend="indent(1)"><persName role="author">Isidor Bush</persName></p>
-		</body>
-	</text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="yes">Bush, Isidor</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>LSKAP</repository>
+                        <collection>The Arnold and Deanne Kaplan Collection of Early American
+                            Judaica</collection>
+                        <idno>LSKAP0103</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="yes">Bush, Isidor</author>
+                        <addressee accepted="yes" attested="yes" editor="false">Leeser,
+                            Isaac</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>St. Louis, MO</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1851-01">January 6, 1851</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="LSKAP0103_1r.jpg"/>
+                                <graphic url="LSKAP0103_1v.jpg"/>
+                                <graphic url="LSKAP0103_2_1r.jpg"/>
+                                <graphic url="LSKAP0103_2_2r.jpg"/>
+                                <graphic url="LSKAP0103_2_3r.jpg"/>
+                                <graphic url="LSKAP0103_2_4r.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >letter</material>
+                                </support>
+                                <extent>6 pages on 3 sheets <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="restricted">
+                                <p>Restricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="de">German</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <p>
+                <addressee>Revd Isaac Leeser</addressee>
+                <placeName>Philada.</placeName>
+            </p>
+            <p><placeName>St Louis</placeName>, <date>Janry 6<hi rend="sup">th</hi> 1851</date>.</p>
+            <p>Sehr geehrter Herr!</p>
+            <p>Seit langer Zeit wenigste ich die Zusendung<lb/> Ihrer werthen Zeitschrift The
+                Occident, und ich wieß nicht ob ichs einem<lb/> Aufhören dieser, oder andere
+                Ursacher zuschreiben soll?</p>
+            <p>Ich hab bereits in einem früher Brief, an Sie ein prachtvolles Sepher Tora<lb/> Ihnen
+                angetragen, das ich in <placeName>N.Y.</placeName> bei <persName>Hr
+                    Pesschan</persName> liegen hatte, und Ihnen<lb/> dabei zu erkommen gegeben, dass
+                ich gerne auch meine Schuld an Sie<lb/> (für einige theils verkaufte theils
+                hierhermitgenommene und noch nur er,<lb/>kaufte Bücher Ihres verlags) tilgen möchte.
+                Auch hätte ich gerne Ihnen Bei,<lb/>trage fur Ihren Occident gesendet, wenn nicht
+                einerseits die materielen<lb/> mühsale, des um seine <add>?</add>
+                kau<add>?</add>fenden Aufägers, anderseits mei,<lb/>ne noch ungenügenden
+                    Kau<add>?</add> der engl. Sprache um in dieser zu schreiben,<lb/> mich nicht
+                daran verfindert fällen.</p>
+            <p>Ich hatte noch uberdreht das Unglück von <persName>Mr De Young</persName> in
+                    <placeName>New York</placeName> arg be,<lb/>tragen zu werden derselbe hatte mir
+                vor <add>תר"י ר"ה</add>, eine Parthie Storim<add>?</add> &amp;<lb/> Tallit für $70
+                00 abgekauft und ausser $10,00 baar seinen Wechsel auf<lb/> 3 Monate über den Rest
+                von $60,00 gegeben. Ich gab diese meinem<lb/> Buchdrucker <persName>Hr
+                    Mühlhäuser</persName> in <placeName>New York</placeName> an zahlungs statt, aber
+                die<lb/> Note wurde bis heute nicht gezahlt. Ich habe indess als ehrleher Mann
+                trotz<lb/> meinen sehr geringen Mittele und so schwer es wir ankam, und obschon<lb/>
+                <persName>Hr Mühlhäuser</persName> mich <hi rend="underline">gar nicht</hi> drängte,
+                denselben bezahlt; eben so liegt<lb/> es mir am Herzen meine Verpflichtung gegen Sie
+                zu lösen, und wenn<lb/> es mir ohne Gefahr für mein junges, kaum gegründetes
+                Geschäft möglich<lb/> wäre, hätte ich es schon gethan; da ich aber uberd<add>?</add>
+                noch einen Theil Ihrer<lb/> Bücher hier liegen habe, theils an Leute verkaufte von
+                denen ich noch heute<lb/> nicht bezahlt bin, werden Sie folgend Anträge nicht
+                unbillig finden:<lb/> stens<add>?</add> Ich <sic>offerire</sic> Ihnen den Wechsel
+                des <persName>De Young</persName>. Sie kennen ihn, haben<lb/> ihn öfter
+                    <sic>Einkassirung</sic><add>?</add> von Gelder anvertraut; was mich, nebst der
+                besten<lb/> Ein<add>?</add>fehlung seines Gemein<add>?</add> vorstehers eines
+                    <persName>Mr Levy</persName>, (<sic>Clothingstore</sic> in <placeName>Chatam
+                        <sic>str.</sic></placeName>)—<lb/> „desser<add>?</add>;
+                    <persName>Levy</persName>, ihm unbedingt $500,00 anvertrauen wirde,
+                    desser<add>?</add> so ehrlich sei, os</p>
+            <pb n="2"/>
+            <p>er auch die <sic>Einkassirung</sic> der gemeinde Gelder seit Jahren besorge
+                &amp;c.—ihm zu creditiren<lb/> bestimmte.) Ich meine nicht dass Sie den Wechsel
+                kaufen, sondern dass Sie<lb/> wo möglich <persName>De Young</persName> zur Zahlung
+                deshalben vermögen sollen, wovon Sie sich den<lb/> Ihnen kommanden gangen Betrag
+                (von $21,00 lt meinem Buche) abziehen können.<lb/> Ich gebe Ihren dabei zugleich
+                Vollmacht sich mit denselben auf einen Ver,<lb/>gleich in bezug auf Zeits und wenn
+                    b<add>?</add>r sogar auf $40,00 stett $60,00 einzu,<lb/>lassen, wobei ich blos
+                auf den Restbetrag über die $21,00 Anspruch mache.</p>
+            <p>Bei Ihren geachteten Stellung, Ihrer Bekanntschaft und Ihren Einflusse<lb/> durfte
+                Ihren das gelingen, während ich von hier aus, und mein Agent in dieser<lb/> Sache
+                dort nichts thun kann. Wenn Sie also irgend eine Aussicht auf ein gün,<lb/>stiges
+                Resultat haben, dient Ihnen inliegender Brief an <persName>Hr Dormtze</persName>
+                gegen<lb/> welchen Sie, oder Ihr Bestellten in <placeName>New York</placeName> den
+                Wechsel ohne Weiteres auszu<lb/>folgt erhalten.</p>
+            <p>2ts Sollte des jedoch Ihnen unannehmbar sein, so bin ich bereit Ihnen<lb/> bei
+                    <persName>Hr Desshan</persName> in <placeName>New York</placeName> Bucher meines
+                Verlages, welche dort in<lb/> Commission liegen für den gleichen Betrag (auch Abzug
+                ⅓tet Rabbas vom Catal.<lb/> Preise) noch Ihrer Anwohl ausfolgen zu lassen.</p>
+            <p>Mogen Sie aus dieser antragen erkeimen, dass er mir ernst ist Ihnen,<lb/> so gut es
+                mir <hi rend="underline">möglich</hi> ists, gerecht zu werden.</p>
+            <p>Sollte Ihre Zeitschrift forterscheinen, so wäre ich, Ihnen für die Zusendung<lb/>
+                dankbar und ich wurde trachten, es mir durch einen der Aufnahme vielleicht<lb/>
+                werthen Aufsatz verdent<add>?</add> zu machen.</p>
+            <p>Ubrigens leben Sie wohl und lange in edler Wirksamkeit fur<lb/> nsere Glaubensbrüder
+                nach dem Wunsche</p>
+            <p>Ihrer freundschaftlich ergebener</p>
+            <p>
+                <persName role="author">Isidor Bush</persName>
+            </p>
+            <pb n="3"/>
+            <p>
+                <addressee>Rev. Isaac Leeser</addressee>
+                <placeName>Phila.</placeName>
+            </p>
+            <p rend="indent(2)"><placeName>St. Louis</placeName>, <date>January 6<hi rend="sup"
+                        >th</hi> 1851</date></p>
+            <p rend="indent(1)">Dear Sir:—</p>
+            <p rend="indent(2)">I am missing your publication the<lb/> Occident” and I don't know
+                what<lb/> caused you to stop sending it to me.</p>
+            <p rend="indent(2)">In an earlier letter, I<lb/> offered you a magnificent Sepher
+                Tora<lb/> which I had in <placeName>New York</placeName> with<lb/>
+                <persName>Mr. Petuchau</persName>, to show you that I<lb/> would like to pay my debt
+                    <add>to you</add> for sold and<lb/> unsold books of your publishing Co.
+                &amp;<lb/> also had in mind to send my dues<lb/> for your Occident. However the<lb/>
+                struggle of a beginner who is fighting<add>?</add><lb/> for his mere existence <del>
+                    <add>?</add>
+                </del> speaking and writing<lb/> as well as my insufficient<lb/> knowledge of the
+                English language<lb/> prevented me to do so.</p>
+            <p rend="indent(2)">I had moreover the bad<lb/> fortune to be cheated by <persName>Mr.
+                    De Young</persName><lb/> of <placeName>New York</placeName>
+                <add>&amp; have sold to</add>
+                <persName>Mr. De Young</persName>
+                <del>
+                    <add>?</add>
+                </del><lb/>
+                <add>תר"י ר"ה</add>
+                <add><date>Rosh Ha-Shana 1850</date></add> ago—an order of storim<lb/> and Tallis
+                    <del>altogether</del>
+                <add>the whole</add> for $70.— He gave me $10.—cash and a money order</p>
+            <p rend="The following is written in red at top right corner of page.">32E</p>
+            <pb n="4"/>
+            <p rend="align(center)">2</p>
+            <p>for 3 months for $60.—&amp; gave<lb/> this money order to my printer<lb/>
+                <persName>Mr. Mühlhäuser</persName> in <placeName>New York</placeName><lb/> but he
+                could not cash it up to this<lb/> day. In spite of my very small<lb/> means and the
+                hardship and in spite<lb/> of the fact that <persName>Mr. Mühlhäuser</persName>
+                did<lb/> not press for his money, I paid him.<lb/> I am anxious to fulfill my obligation<lb/>
+                <del>against</del> to you <add>too</add> and I would have done<lb/> it long ago if
+                it would have been<lb/> possible without endangering my young<lb/> business.
+                    <del>B</del> Some of your books<lb/> however are still unsold and some<lb/> I
+                have sold to people who have not<lb/> paid up to now.</p>
+            <p rend="indent(1)">I therefore offer you the<lb/> money order of <persName>Mr. De
+                    Young</persName>. You<lb/> know him and entrusted him with<lb/> the <del>cashing
+                    of</del> reception of notes<add>?</add>. And<lb/> this together with a
+                recommendation of <del>his</del> the president of<lb/> his congregation
+                    <del>president</del>-[<persName>Mr. Levy</persName> (clothing-<lb/>store in
+                        <placeName><sic>Chetainstreet</sic></placeName>)—this man<lb/>
+                <persName>Levy</persName> vouched that he is honest and he<lb/> would trust him
+                $500.— <del>] he is</del></p>
+            <pb n="5"/>
+            <p rend="align(center)">3</p>
+            <p>since <del>a number of</del> several years he <add>(<persName>Mr. De
+                    Young</persName>)</add> was also<lb/> in charge of taking in the money from<lb/>
+                the members of the congregation] caused<lb/> me to give him credit.</p>
+            <p rend="indent(2)">I <sic>dont</sic> want you to buy<lb/> the money order, but to cause<lb/>
+                <persName>Mr. De Young</persName> to cash it and you<lb/> can deduct your amount
+                ($21.—according<lb/> to my book). I also authorize you to<lb/> settle with
+                    <persName>Mr. De Young</persName> as far<lb/> as <del>the</del> time is
+                concerned and if he<lb/> wants to pay cash to accept even<lb/> $40.— instead of $60.
+                I would<lb/> request only the surplus money over<lb/> $21.—</p>
+            <p rend="indent(2)">With your honorable standing,<lb/> your acquaintance and your<lb/>
+                influence, you should have no trouble<lb/> at all, while neither I in <placeName>St.
+                    Louis</placeName><lb/> nor my agent in <placeName>N. Y.</placeName> can do
+                a<lb/> thing in this matter. So if you<lb/> have any prospect of getting the money,<lb/>
+                <add>you may use the</add>
+                <del>the</del> enclosed letter to <persName>Mr. Dormitzer</persName><lb/> to obtain
+                the money order.</p>
+            <p>2) Should you not wish to</p>
+            <pb n="6"/>
+            <p rend="align(center)">4</p>
+            <p>accept this offer then you may choose x<lb/> and receive books of my publishing Co
+                    <add>for the same amount</add><lb/> which <persName>Mr. Petuchau</persName> in
+                    <placeName>New York</placeName> has<lb/> on consignment.</p>
+            <p>(x after deducting <del>⅓</del> ⅓ discount from the list price) <del>⅓
+                    discount)</del>.</p>
+            <p rend="indent(1)"><del>May</del> I hope that my offers <del>serve to</del> will
+                show<lb/> you that I really mean to pay<lb/> as good as I can.</p>
+            <p rend="indent(2)">Should your journal continue<lb/> I would appreciate your sending
+                it<lb/> to me. Eventually I would contribute<lb/> an article worthy of printing.</p>
+            <p rend="indent(2)">Wishing you a happy<lb/> and long life in noble action<lb/> for our
+                    <del>brether</del> brothers of faith</p>
+            <p rend="indent(1)">I am</p>
+            <p rend="indent(2)">cordially yours</p>
+            <p rend="indent(1)">
+                <persName role="author">Isidor Bush</persName>
+            </p>
+        </body>
+    </text>
 </TEI>

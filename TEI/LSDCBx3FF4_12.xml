@@ -1,271 +1,355 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="unk">Leeser, Isaac</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>CAJS Isaac Leeser Collection</repository>
-						<collection>The Library of the Dropsie College for Hebrew and Cognate Learning</collection>
-						<idno>LSDCBx3FF4_12</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="unk">Leeser, Isaac</author>
-						<addressee editor="false" attested="yes" accepted="yes">Cohen, J. I.</addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>Philadelphia, PA</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1864-02" source="" attested="yes">16 February 1864</dateLet>
-						<dateLet when="1864-02" source="" attested="yes">16 February 5624</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url=""/>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="unk" paper_type="" size="Letter">letter</material>
-								</support>
-								<extent>3 pages on 3 sheets
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="typescript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="free">
-								<p>Unrestricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1"/>
-				<p rend="align(center)"><placeName>Philadelphia</placeName> <date>Feb 16th 5624</date></p>
-				<p><addressee>Dr J. I. Cohen</addressee></p>
-			<p rend="indent(1)"><placeName>Baltimore</placeName></p>
-			<p rend="indent(1)">Dr Sir</p>
-				<p>By rights I ought not to have noticed the report which reached me<lb/> respecting the hospital movement in <placeName>baltimore</placeName><add>&#63;</add>&#59; for if people do not<lb/> choose to inform the conductors of Hebrew periodicals of their<lb/> doings&#44; I do not see any necessity on the part of the conductors<lb/> of these to bother themselves about what has not been communicated<lb/> <sic>officiallyy</sic>.  I really do not see the propriety in the people of<lb/> <placeName>Baltimore</placeName> <del>&#63;</del> hardly ever sending me a line respecting any thing<lb/> taking place among them&#59; in this the reformer&#44; the <hi rend="underline"><sic>moderador</sic></hi> and<lb/> orthodox are alike&#59; it seems the Occident with its editor are of<lb/> no use to them.  It is otherwise with the Israelite&#59; this<lb/> <add>blank</add> edited by the gentlemanly of polished<lb/> <add>blank</add> has its favorite<add>&#63;</add> in large numbers.  If you<lb/> <add>blank</add> on the old proverb have <sic>I</sic><add>&#63;</add> &#8220;a fellow&#45;feeling makes us<lb/> wondrous kind.&#8221;  It is not joke what I say.  I felt the reverse of<lb/> pleased to receive the first and only information of the hospital<lb/> movement from a person who had been in <placeName>Baltimore</placeName>&#44; or rather from<lb/> one who heard it from another.  They say &#8220;reported&#8221; to some and<lb/> some to me.  It is not fair<add>&#63;</add> and those who labor for the <sic>Israelit</sic><lb/> in this country&#44; if their treatment that <add>blank</add> mine<lb/> have another cause for complaint&#44; nay disgust for the cruel <sic>neglec</sic><lb/> with which they are uniformly treated.</p>
-			<p rend="indent(1)">But a truce to complaining&#44; which I am certain will produce no<lb/> remedy.  <sic>let</sic> me resort to your request <del>&#63;</del> retired<lb/> last evening at nine P. M. &#40;your letter reached me at &#189; p.5 P.M.<lb/> on Dr <add>blank</add> and he kindly lent me the accompanying volume&#44; at<lb/> the same time stating that &#36;4 would buy it.  I thought the hint</p>
-			<pb n="2"/>
-				<p>about the price not very polite&#59; while it is an offer&#44; which you need<lb/> not mind however&#44; as you can at your leisure return the book to<lb/> me&#44; when I will restore it to <sic>it</sic> owner&#44; <sic>It</sic> sounded however&#44; like<lb/> <persName>Ephron&#39;s</persName> disinterestedness&#44; in offering a piece of land for nothing<lb/> valued at 400 shekels&#59; thought the present is only the<lb/> percent in greenbacks&#59; a great difference truly.</p>
-				<p>I hope you may soon succeed in erecting a building of enough dimen<lb/>sions for all <add>blank</add>&#59; since it is a cruelty to leave our<lb/> poor to the mercy of Christians who use all the means at their<lb/> command to affect conversions while they professedly attend to the<lb/> bodily wants of the sufferers.  This has proved in <placeName>America</placeName> no<lb/> less than in <placeName>Europe</placeName>&#59; and I rejoice therefore at every effort made to<lb/> lessen the evil.</p>
-			<p rend="indent(1)">Regarding a contribution of <sic>5000Dollars</sic> from here&#59; though stated<lb/> by you seemingly as a jest may prove a reality if the proper means<lb/> be resorted to <sic>tA</sic><add>&#63;</add> committee of your associates may with perfect<lb/> propriety propose joint action between <placeName>Philadelphia</placeName> &#38; <placeName>Baltimore</placeName>&#44; and<lb/> offer the former a share and vote in the management provided a<lb/> certain amount in subscription to the hospital fund and in <sic>sufficie</sic><lb/> contribution to the annual expenses be secured here.<sic>My</sic> cooperation<lb/> in urging the plan you can calculate on&#59; though I regret <sic>saty</sic><lb/> of means. <sic>absence</sic>. <sic>had</sic> I the pecuniary ability to start a liberal<lb/> subscription&#44; it could require no prompting to commence the work this<lb/> day.  But I have little to give&#44; I am as you are perhaps <sic>awre</sic>&#44; <sic>engage</sic><lb/> in <sic>anew</sic> <sic>enterprize</sic>&#44; to form a publication fund&#44; to print books as<lb/> far <sic>ar</sic> the contributions will reach.  I have set up about 240 pages<lb/> of <persName>Miss G. Aguilar&#39;s</persName> Jewish Faith&#44; and hope to complete the present<lb/> series of books sooner <sic>tha</sic> when the mechanics can be obtained<lb/> as at present they work so slowly that I know not how to promise a</p>
-			<pb n="3"/>
-				<p>completion of the works.  From <placeName>Baltimore</placeName> as yet I have had no <sic>res</sic><lb/> response only from Dr <add>blank</add> who writes that he cannot obtain any<lb/> aid for same.  However I hope to come down after a while in person&#44;<lb/> and then see what I can do.  The idea&#44; it strikes me is a good one&#44;<lb/> as only when people are so to say partners in literary <sic>enterprizes</sic><lb/> can they be induced to read&#44; as they then do not want to lay out<lb/> their money without reaping the benefit.</p>
-			<p rend="indent(1)">Give my <del>&#63;</del> best regards to all at home&#44; and accept the<lb/> assurance of my regard old for yourself and family.</p>
-			<p rend="indent(4)">Truly yours</p>
-			<p rend="indent(4)"><persName role="author">Isaac Leeser</persName></p>
-				<p rend="Envelope Postmarked&#58;"><date>Feb 22</date>&#44; <placeName>Philadelphia</placeName></p>
-				<p rend="Addressed to&#58;"></p>
-			<p rend="indent(1)"><addressee>Dr Joshua I Cohen</addressee></p>
-			<p rend="indent(1)"><placeName>115 N Charles Street</placeName></p>
-			<p rend="indent(1)"><placeName>Baltimore</placeName></p>
-			<p rend="indent(1)"><placeName>Maryland</placeName></p>
-				<p rend="Pencilled on reverse is&#58;"></p>
-			<p rend="indent(1)">American Author</p>
-			<p rend="indent(1)">Journalist</p>
-				<p>B. <placeName>Balt</placeName> <date>1784</date></p>
-				<p>D. <sic><placeName>Paris</placeName><date>Feb</date></sic>. 7&#44; <date>1858</date></p>
-				<p><date>1813</date> Correspend &#38; G</p>
-			<p rend="indent(1)">R. W.</p>
-			<p rend="indent(1)">45 Consul in <placeName>Paris</placeName> till 51</p>
-				<p>37.7</p>
-				<p>Gen vl 5&#160;&#160;&#160;&#160; vi 12</p>
-				<p>7&#160;&#160;&#160;&#160; 13</p>
-		</body>
-	</text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="unk">Leeser, Isaac</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS Isaac Leeser Collection</repository>
+                        <collection>The Library of the Dropsie College for Hebrew and Cognate
+                            Learning</collection>
+                        <idno>LSDCBx3FF4_12</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="unk">Leeser, Isaac</author>
+                        <addressee accepted="yes" attested="yes" editor="false">Cohen, J.
+                            I.</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1864-02">16 February 1864</dateLet>
+                        <dateLet attested="yes" source="" when="1864-02">16 February 5624</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url=""/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="unk" paper_type="" size="Letter"
+                                        >letter</material>
+                                </support>
+                                <extent>3 pages on 3 sheets <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <p rend="align(center)">
+                <placeName>Philadelphia</placeName>
+                <date>Feb 16th 5624</date>
+            </p>
+            <p>
+                <addressee>Dr J. I. Cohen</addressee>
+            </p>
+            <p rend="indent(1)">
+                <placeName>Baltimore</placeName>
+            </p>
+            <p rend="indent(1)">Dr Sir</p>
+            <p>By rights I ought not to have noticed the report which reached me<lb/> respecting the
+                hospital movement in <placeName>baltimore</placeName><add>?</add>; for if people do
+                not<lb/> choose to inform the conductors of Hebrew periodicals of their<lb/> doings,
+                I do not see any necessity on the part of the conductors<lb/> of these to bother
+                themselves about what has not been communicated<lb/>
+                <sic>officiallyy</sic>. I really do not see the propriety in the people of<lb/>
+                <placeName>Baltimore</placeName>
+                <del>?</del> hardly ever sending me a line respecting any thing<lb/> taking place
+                among them; in this the reformer, the <hi rend="underline"><sic>moderador</sic></hi>
+                and<lb/> orthodox are alike; it seems the Occident with its editor are of<lb/> no
+                use to them. It is otherwise with the Israelite; this<lb/>
+                <add>blank</add> edited by the gentlemanly of polished<lb/>
+                <add>blank</add> has its favorite<add>?</add> in large numbers. If you<lb/>
+                <add>blank</add> on the old proverb have <sic>I</sic><add>?</add> “a fellow-feeling
+                makes us<lb/> wondrous kind.” It is not joke what I say. I felt the reverse of<lb/>
+                pleased to receive the first and only information of the hospital<lb/> movement from
+                a person who had been in <placeName>Baltimore</placeName>, or rather from<lb/> one
+                who heard it from another. They say “reported” to some and<lb/> some to me. It is
+                not fair<add>?</add> and those who labor for the <sic>Israelit</sic><lb/> in this
+                country, if their treatment that <add>blank</add> mine<lb/> have another cause for
+                complaint, nay disgust for the cruel <sic>neglec</sic><lb/> with which they are
+                uniformly treated.</p>
+            <p rend="indent(1)">But a truce to complaining, which I am certain will produce no<lb/>
+                remedy. <sic>let</sic> me resort to your request <del>?</del> retired<lb/> last
+                evening at nine P. M. (your letter reached me at ½ p.5 P.M.<lb/> on Dr
+                    <add>blank</add> and he kindly lent me the accompanying volume, at<lb/> the same
+                time stating that $4 would buy it. I thought the hint</p>
+            <pb n="2"/>
+            <p>about the price not very polite; while it is an offer, which you need<lb/> not mind
+                however, as you can at your leisure return the book to<lb/> me, when I will restore
+                it to <sic>it</sic> owner, <sic>It</sic> sounded however, like<lb/>
+                <persName>Ephron's</persName> disinterestedness, in offering a piece of land for
+                nothing<lb/> valued at 400 shekels; thought the present is only the<lb/> percent in
+                greenbacks; a great difference truly.</p>
+            <p>I hope you may soon succeed in erecting a building of enough dimen<lb/>sions for all
+                    <add>blank</add>; since it is a cruelty to leave our<lb/> poor to the mercy of
+                Christians who use all the means at their<lb/> command to affect conversions while
+                they professedly attend to the<lb/> bodily wants of the sufferers. This has proved
+                in <placeName>America</placeName> no<lb/> less than in
+                <placeName>Europe</placeName>; and I rejoice therefore at every effort made to<lb/>
+                lessen the evil.</p>
+            <p rend="indent(1)">Regarding a contribution of <sic>5000Dollars</sic> from here; though
+                stated<lb/> by you seemingly as a jest may prove a reality if the proper means<lb/>
+                be resorted to <sic>tA</sic><add>?</add> committee of your associates may with
+                perfect<lb/> propriety propose joint action between
+                    <placeName>Philadelphia</placeName> &amp; <placeName>Baltimore</placeName>,
+                and<lb/> offer the former a share and vote in the management provided a<lb/> certain
+                amount in subscription to the hospital fund and in <sic>sufficie</sic><lb/>
+                contribution to the annual expenses be secured here.<sic>My</sic> cooperation<lb/>
+                in urging the plan you can calculate on; though I regret <sic>saty</sic><lb/> of
+                means. <sic>absence</sic>. <sic>had</sic> I the pecuniary ability to start a
+                liberal<lb/> subscription, it could require no prompting to commence the work
+                this<lb/> day. But I have little to give, I am as you are perhaps <sic>awre</sic>,
+                    <sic>engage</sic><lb/> in <sic>anew</sic>
+                <sic>enterprize</sic>, to form a publication fund, to print books as<lb/> far
+                    <sic>ar</sic> the contributions will reach. I have set up about 240 pages<lb/>
+                of <persName>Miss G. Aguilar's</persName> Jewish Faith, and hope to complete the
+                present<lb/> series of books sooner <sic>tha</sic> when the mechanics can be
+                obtained<lb/> as at present they work so slowly that I know not how to promise a</p>
+            <pb n="3"/>
+            <p>completion of the works. From <placeName>Baltimore</placeName> as yet I have had no
+                    <sic>res</sic><lb/> response only from Dr <add>blank</add> who writes that he
+                cannot obtain any<lb/> aid for same. However I hope to come down after a while in
+                person,<lb/> and then see what I can do. The idea, it strikes me is a good one,<lb/>
+                as only when people are so to say partners in literary <sic>enterprizes</sic><lb/>
+                can they be induced to read, as they then do not want to lay out<lb/> their money
+                without reaping the benefit.</p>
+            <p rend="indent(1)">Give my <del>?</del> best regards to all at home, and accept
+                the<lb/> assurance of my regard old for yourself and family.</p>
+            <p rend="indent(4)">Truly yours</p>
+            <p rend="indent(4)">
+                <persName role="author">Isaac Leeser</persName>
+            </p>
+            <p rend="Envelope Postmarked:"><date>Feb 22</date>,
+                <placeName>Philadelphia</placeName></p>
+            <p rend="Addressed to:"/>
+            <p rend="indent(1)">
+                <addressee>Dr Joshua I Cohen</addressee>
+            </p>
+            <p rend="indent(1)">
+                <placeName>115 N Charles Street</placeName>
+            </p>
+            <p rend="indent(1)">
+                <placeName>Baltimore</placeName>
+            </p>
+            <p rend="indent(1)">
+                <placeName>Maryland</placeName>
+            </p>
+            <p rend="Pencilled on reverse is:"/>
+            <p rend="indent(1)">American Author</p>
+            <p rend="indent(1)">Journalist</p>
+            <p>B. <placeName>Balt</placeName>
+                <date>1784</date></p>
+            <p>D. <sic><placeName>Paris</placeName><date>Feb</date></sic>. 7, <date>1858</date></p>
+            <p><date>1813</date> Correspend &amp; G</p>
+            <p rend="indent(1)">R. W.</p>
+            <p rend="indent(1)">45 Consul in <placeName>Paris</placeName> till 51</p>
+            <p>37.7</p>
+            <p>Gen vl 5     vi 12</p>
+            <p>7     13</p>
+        </body>
+    </text>
 </TEI>

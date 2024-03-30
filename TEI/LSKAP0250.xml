@@ -1,259 +1,367 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="yes">Mo&#239;se, R. C.; Sarah Anna</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>LSKAP</repository>
-						<collection>The Arnold and Deanne Kaplan Collection of Early American Judaica</collection>
-						<idno>LSKAP0250</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="yes">Mo&#239;se, R. C.; Sarah Anna</author>
-						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac</addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet></placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="" source="" attested="yes">14 December</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="il_kaplan_20_847_body0001.jpg"></graphic>
-								<graphic url="il_kaplan_20_847_body0002.jpg"></graphic>
-								<graphic url="il_kaplan_20_847_body0003.jpg"></graphic>
-								<graphic url="il_kaplan_20_847_body0004.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="false" paper_type="" size="">letter</material>
-								</support>
-								<extent>4 pages on 2 sheets
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="manuscript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="restricted">
-								<p>Restricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1R"/>
-				<p rend="align(right)"><date>December 14th</date></p>
-				<p><addressee>Rev. I. Leeser</addressee></p>
-			<p rend="indent(1)">Dr Friend</p>
-			<p rend="indent(2)">As your monthly has been<lb/> presented I presume that my ladyship may claim<lb/> a portion of your time without having it distracted<lb/> by more important matter&#58; for let me tell you<lb/> my dear Sir I like not to be numbered with the<lb/> public in your esteem or attention&#59; &#38; you are sadly<lb/> mistaken&#44; if you think that by hearing from you<lb/> through your Occident I am repaid for a reply<lb/> to my favors.  But badinage aside I like to<lb/> read you as you are not clad in your holy day<lb/> garb to meet the public scrutiny&#44; but plain friend<lb/> <persName>Leeser</persName> with all his odd notions &#38; novel views of men &#38; things<lb/> The world has tended somewhat to improve me&#44; as they<lb/> shew me&#44; that I am a very insignificant personage to<lb/> them&#44; without the claims which fortune Talent or<lb/> beauty give But to my friends I am still something<lb/> <hi rend="underline">of une enfante gat&#233;</hi> &#38; not content with demi<lb/> favors.  Therefore have I punished myself by not<lb/> writing before&#44; that when I did I should receive your<lb/> undivided attention I am not willing to recognize<lb/> you in your works&#44; for you appear so <hi rend="underline">august</hi> that<lb/> I should never dare to enjoy the pleasure of writing<lb/> my thoughts as they flow to you.  Believe me you<lb/> are <hi rend="underline">two in one</hi> &#38; two very distinct personages.</p>
-				<p rend="The following is written sideways at the top of the page and is the continuation of page 2V"></p>
-				<p>I often think of<lb/> them with much<lb/> pleasure&#8212;Will<lb/> you be kind<lb/> enough to remem<lb/>ber me also to<lb/> <persName>Miss Adler</persName><lb/> if she has yet<lb/> retained that<lb/> name&#8212;also to<lb/> any friends that<lb/> I may have in<lb/> sweet <placeName>Philadelphia</placeName><lb/> Yrs resptly<lb/> <persName role="author">Sarah Anna</persName><lb/> <persName>Rose</persName> sends<lb/> her love to her<lb/> little playmate<lb/> <persName>Edward</persName> and<lb/> also to <persName>Myr<lb/>tilla</persName>.  How<lb/> much I should<lb/> like to see<lb/> them again</p>
-			<pb n="1V"/>
-				<p>Our weather has been &#38; continues intensely cold with<lb/> rain &#38; damp in place of sunshine &#38; a dry genial<lb/> atmosphere.  We can hardly be comfortable with large<lb/> fires &#38; extra <sic>cloathing</sic> for our houses are not built<lb/> for extreme cold nor are our servants prepared for<lb/> it&#59; there is something in their nature repugnant<lb/> to cold &#38; like the beaver they would remain torpid<lb/> until Spring if our demands on their services were<lb/> not so imperative.  We have had some of your<lb/> citizens among us who seem astonished to meet the<lb/> cold winds of winter instead of spring &#38; flowers&#58;<lb/> Among our strangers are <persName>Mrs B Henry</persName> &#38; daughter<lb/> of your city very fashionable people.  The Mother<lb/> a very intelligent fascinating woman who has<lb/> been beautiful but the scythe of father Time has<lb/> nearly destroyed it all&#33;  The daughter is a beautiful<lb/> <sic>blonde</sic> brought up too much in fashionable<lb/> to inherit her mothers talents or acquirements.  As<lb/> they were with their relatives the <persName>Henrys</persName> I saw much<lb/> of them.  We have also a <persName>Mrs &#38; Mr Aulden</persName> residents<lb/> of <placeName>Philadelphia</placeName> <persName>Mr A</persName> is <sic>chaplin</sic> in the Navy &#38; alth<lb/>&#45;ough very cultivated &#38; accomplished people&#44; moving<lb/> in a different circle from the <persName>Henrys</persName> in your city<lb/> but receiving much attention in ours.  I am happy<lb/> to learn the good fortune of our friends &#38; trust as they<lb/> increase in worldly goods so may they in piety<lb/> &#38; religion &#38; may their purses &#38; hearts be ever open<lb/> to the wants of their fellow creatures.  While the Fickle<lb/> God is so liberally pouring his blessings on some of</p>
-			<pb n="2R"/>
-				<p>your friends could you not allure him to bestow a few<lb/> of his favors on a certain friend of yours who would<lb/> endeavour to make good use of them.  I am glad you<lb/> have by your perseverance succeeded in organizing a<lb/> Jewish publication Society in <placeName>America</placeName> May you be<lb/> able to carry out your plan.  I feel assured many bless&#45;<lb/>ings will attend your exertions &#38; the poor will more<lb/> particularly feel the advantage of your untiring<lb/> efforts.  I said from what I could learn you would<lb/> have many subscribers in <placeName>Charleston</placeName> &#38; you have<lb/> taken a sensible course by acting <hi rend="underline">under the rose</hi><lb/> &#38; making it appear as if you were only an agent<lb/> &#38; not an originator of this good object&#33;  Those who<lb/> <hi rend="underline">know</hi> you feel that the <sic>benifit</sic> of the Jews &#38; their<lb/> Salvation is your highest <hi rend="underline">aim</hi>.  Like all great men<lb/> your good deeds will live after you &#38; this must<lb/> console you for the many hard rubs you have<lb/> received from those you have by your <hi rend="underline">independence</hi><lb/> prejudiced <del>you</del> against you.  I have <sic>inclosed</sic> the poetry<lb/> I would satisfy your curiosity which seems to be equal to<lb/> a womans but The Dying Hebrew was sent <persName role="author">S A</persName> by a<lb/> friend &#38; we know not the author.  <persName>Mana<add>&#63;</add></persName> is not re&#45;<lb/>converted that I know of&#44; she is not however more<lb/> advanced in the Christian faith as she only attends church<lb/> occasionally&#45;but she rides &#38; goes to parties on <date>Sabbath</date><lb/> in truth I cannot tell what she <hi rend="underline">is</hi> for she appears<lb/> different at different times.  I do not believe she is writing<lb/> or studying any thing &#38; I asked <persName>Anna</persName> &#38; she said she<lb/> knew no more than I did about it.  Her Father reques</p>
-			<pb n="2V"/>
-				<p>ted her to examine the scriptures before she decided &#38; she<lb/> may be making up her mind.  She is my relative but I think<lb/> her of the <add>&#63;</add> <hi rend="underline">Worldly</hi> entr&#233; nous.  As <persName role="author">S A</persName> wishes<lb/> to add a few lines&#44; I must conclude after requesting<lb/> you to remember me to all those who ask after<lb/> me.  What can a plain moderate sized bible with<lb/> good print be bought at&#63;  We want them for our<lb/> Sunday school.  May your health &#38; strength be equal to your<lb/> exertions in the cause of our blessed faith prays an unworthy</p>
-			<p rend="indent(7)">member of the house of <placeName>Israel</placeName></p>
-			<p rend="indent(11)"><persName role="author">R C Mo&#239;se</persName></p>
-			<p rend="indent(1)"><addressee>Mr Leeser</addressee></p>
-			<p rend="indent(3)">Dear Sir</p>
-			<p rend="indent(5)">Mother asked me to copy<lb/> the piece sent&#44; I hope it will suit you&#44; and<lb/> if it does&#44; I have another given me by the<lb/> same friend thought I am acquainted with the<lb/> authoress.  The other piece is called &#8220;<persName>Rachael&#39;s</persName><lb/> pillar in the wilderness&#8221; and though the style<lb/> is quite simple I think it pretty.  Perhaps it<lb/> is requisite for <hi rend="underline">you</hi>&#44; to have <hi rend="underline">only</hi> superior pro<lb/>ductions&#44; if so I fear my contributions will<lb/> be deemed unworthy.  There are a few questions<lb/> Dear Sir that I have for some time wished<lb/> to have answered satisfactorily&#44; if it would<lb/> not be too much trouble I would really<lb/> feel indebted if you would explain them.<lb/>  Pray excuse this informal visit of mine&#44; you<lb/> no doubt deem me an intruder&#44; but forgive this first<lb/> act &#38; like the children I promise not to do so again<lb/> Pray give my love to cousin <persName>A &#38; R. Hart</persName> and tell them</p>
-				<p rend="Continues at the top of page 1R "></p>
-		</body>
-	</text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="yes">Moïse, R. C.; Sarah
+                    Anna</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>LSKAP</repository>
+                        <collection>The Arnold and Deanne Kaplan Collection of Early American
+                            Judaica</collection>
+                        <idno>LSKAP0250</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="yes">Moïse, R. C.; Sarah
+                            Anna</author>
+                        <addressee accepted="yes" attested="yes" editor="false">Leeser,
+                            Isaac</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet/>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="">14 December</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="il_kaplan_20_847_body0001.jpg"/>
+                                <graphic url="il_kaplan_20_847_body0002.jpg"/>
+                                <graphic url="il_kaplan_20_847_body0003.jpg"/>
+                                <graphic url="il_kaplan_20_847_body0004.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >letter</material>
+                                </support>
+                                <extent>4 pages on 2 sheets <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="restricted">
+                                <p>Restricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1R"/>
+            <p rend="align(right)">
+                <date>December 14th</date>
+            </p>
+            <p>
+                <addressee>Rev. I. Leeser</addressee>
+            </p>
+            <p rend="indent(1)">Dr Friend</p>
+            <p rend="indent(2)">As your monthly has been<lb/> presented I presume that my ladyship
+                may claim<lb/> a portion of your time without having it distracted<lb/> by more
+                important matter: for let me tell you<lb/> my dear Sir I like not to be numbered
+                with the<lb/> public in your esteem or attention; &amp; you are sadly<lb/> mistaken,
+                if you think that by hearing from you<lb/> through your Occident I am repaid for a
+                reply<lb/> to my favors. But badinage aside I like to<lb/> read you as you are not
+                clad in your holy day<lb/> garb to meet the public scrutiny, but plain friend<lb/>
+                <persName>Leeser</persName> with all his odd notions &amp; novel views of men &amp;
+                things<lb/> The world has tended somewhat to improve me, as they<lb/> shew me, that
+                I am a very insignificant personage to<lb/> them, without the claims which fortune
+                Talent or<lb/> beauty give But to my friends I am still something<lb/>
+                <hi rend="underline">of une enfante gaté</hi> &amp; not content with demi<lb/>
+                favors. Therefore have I punished myself by not<lb/> writing before, that when I did
+                I should receive your<lb/> undivided attention I am not willing to recognize<lb/>
+                you in your works, for you appear so <hi rend="underline">august</hi> that<lb/> I
+                should never dare to enjoy the pleasure of writing<lb/> my thoughts as they flow to
+                you. Believe me you<lb/> are <hi rend="underline">two in one</hi> &amp; two very
+                distinct personages.</p>
+            <p
+                rend="The following is written sideways at the top of the page and is the continuation of page 2V"/>
+            <p>I often think of<lb/> them with much<lb/> pleasure—Will<lb/> you be kind<lb/> enough
+                to remem<lb/>ber me also to<lb/>
+                <persName>Miss Adler</persName><lb/> if she has yet<lb/> retained that<lb/>
+                name—also to<lb/> any friends that<lb/> I may have in<lb/> sweet
+                    <placeName>Philadelphia</placeName><lb/> Yrs resptly<lb/>
+                <persName role="author">Sarah Anna</persName><lb/>
+                <persName>Rose</persName> sends<lb/> her love to her<lb/> little playmate<lb/>
+                <persName>Edward</persName> and<lb/> also to <persName>Myr<lb/>tilla</persName>.
+                How<lb/> much I should<lb/> like to see<lb/> them again</p>
+            <pb n="1V"/>
+            <p>Our weather has been &amp; continues intensely cold with<lb/> rain &amp; damp in
+                place of sunshine &amp; a dry genial<lb/> atmosphere. We can hardly be comfortable
+                with large<lb/> fires &amp; extra <sic>cloathing</sic> for our houses are not
+                built<lb/> for extreme cold nor are our servants prepared for<lb/> it; there is
+                something in their nature repugnant<lb/> to cold &amp; like the beaver they would
+                remain torpid<lb/> until Spring if our demands on their services were<lb/> not so
+                imperative. We have had some of your<lb/> citizens among us who seem astonished to
+                meet the<lb/> cold winds of winter instead of spring &amp; flowers:<lb/> Among our
+                strangers are <persName>Mrs B Henry</persName> &amp; daughter<lb/> of your city very
+                fashionable people. The Mother<lb/> a very intelligent fascinating woman who
+                has<lb/> been beautiful but the scythe of father Time has<lb/> nearly destroyed it
+                all! The daughter is a beautiful<lb/>
+                <sic>blonde</sic> brought up too much in fashionable<lb/> to inherit her mothers
+                talents or acquirements. As<lb/> they were with their relatives the
+                    <persName>Henrys</persName> I saw much<lb/> of them. We have also a
+                    <persName>Mrs &amp; Mr Aulden</persName> residents<lb/> of
+                    <placeName>Philadelphia</placeName>
+                <persName>Mr A</persName> is <sic>chaplin</sic> in the Navy &amp; alth<lb/>-ough
+                very cultivated &amp; accomplished people, moving<lb/> in a different circle from
+                the <persName>Henrys</persName> in your city<lb/> but receiving much attention in
+                ours. I am happy<lb/> to learn the good fortune of our friends &amp; trust as
+                they<lb/> increase in worldly goods so may they in piety<lb/> &amp; religion &amp;
+                may their purses &amp; hearts be ever open<lb/> to the wants of their fellow
+                creatures. While the Fickle<lb/> God is so liberally pouring his blessings on some
+                of</p>
+            <pb n="2R"/>
+            <p>your friends could you not allure him to bestow a few<lb/> of his favors on a certain
+                friend of yours who would<lb/> endeavour to make good use of them. I am glad
+                you<lb/> have by your perseverance succeeded in organizing a<lb/> Jewish publication
+                Society in <placeName>America</placeName> May you be<lb/> able to carry out your
+                plan. I feel assured many bless-<lb/>ings will attend your exertions &amp; the poor
+                will more<lb/> particularly feel the advantage of your untiring<lb/> efforts. I said
+                from what I could learn you would<lb/> have many subscribers in
+                    <placeName>Charleston</placeName> &amp; you have<lb/> taken a sensible course by
+                acting <hi rend="underline">under the rose</hi><lb/> &amp; making it appear as if
+                you were only an agent<lb/> &amp; not an originator of this good object! Those who<lb/>
+                <hi rend="underline">know</hi> you feel that the <sic>benifit</sic> of the Jews
+                &amp; their<lb/> Salvation is your highest <hi rend="underline">aim</hi>. Like all
+                great men<lb/> your good deeds will live after you &amp; this must<lb/> console you
+                for the many hard rubs you have<lb/> received from those you have by your <hi
+                    rend="underline">independence</hi><lb/> prejudiced <del>you</del> against you. I
+                have <sic>inclosed</sic> the poetry<lb/> I would satisfy your curiosity which seems
+                to be equal to<lb/> a womans but The Dying Hebrew was sent <persName role="author">S
+                    A</persName> by a<lb/> friend &amp; we know not the author.
+                        <persName>Mana<add>?</add></persName> is not re-<lb/>converted that I know
+                of, she is not however more<lb/> advanced in the Christian faith as she only attends
+                church<lb/> occasionally-but she rides &amp; goes to parties on
+                <date>Sabbath</date><lb/> in truth I cannot tell what she <hi rend="underline"
+                    >is</hi> for she appears<lb/> different at different times. I do not believe she
+                is writing<lb/> or studying any thing &amp; I asked <persName>Anna</persName> &amp;
+                she said she<lb/> knew no more than I did about it. Her Father reques</p>
+            <pb n="2V"/>
+            <p>ted her to examine the scriptures before she decided &amp; she<lb/> may be making up
+                her mind. She is my relative but I think<lb/> her of the <add>?</add>
+                <hi rend="underline">Worldly</hi> entré nous. As <persName role="author">S
+                    A</persName> wishes<lb/> to add a few lines, I must conclude after
+                requesting<lb/> you to remember me to all those who ask after<lb/> me. What can a
+                plain moderate sized bible with<lb/> good print be bought at? We want them for
+                our<lb/> Sunday school. May your health &amp; strength be equal to your<lb/>
+                exertions in the cause of our blessed faith prays an unworthy</p>
+            <p rend="indent(7)">member of the house of <placeName>Israel</placeName></p>
+            <p rend="indent(11)">
+                <persName role="author">R C Moïse</persName>
+            </p>
+            <p rend="indent(1)">
+                <addressee>Mr Leeser</addressee>
+            </p>
+            <p rend="indent(3)">Dear Sir</p>
+            <p rend="indent(5)">Mother asked me to copy<lb/> the piece sent, I hope it will suit
+                you, and<lb/> if it does, I have another given me by the<lb/> same friend thought I
+                am acquainted with the<lb/> authoress. The other piece is called
+                    “<persName>Rachael's</persName><lb/> pillar in the wilderness” and though the
+                style<lb/> is quite simple I think it pretty. Perhaps it<lb/> is requisite for <hi
+                    rend="underline">you</hi>, to have <hi rend="underline">only</hi> superior
+                pro<lb/>ductions, if so I fear my contributions will<lb/> be deemed unworthy. There
+                are a few questions<lb/> Dear Sir that I have for some time wished<lb/> to have
+                answered satisfactorily, if it would<lb/> not be too much trouble I would
+                really<lb/> feel indebted if you would explain them.<lb/> Pray excuse this informal
+                visit of mine, you<lb/> no doubt deem me an intruder, but forgive this first<lb/>
+                act &amp; like the children I promise not to do so again<lb/> Pray give my love to
+                cousin <persName>A &amp; R. Hart</persName> and tell them</p>
+            <p rend="Continues at the top of page 1R "/>
+        </body>
+    </text>
 </TEI>

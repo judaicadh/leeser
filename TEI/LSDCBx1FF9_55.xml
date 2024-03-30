@@ -1,258 +1,325 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="unk"></author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>CAJS Isaac Leeser Collection</repository>
-						<collection>The Library of the Dropsie College for Hebrew and Cognate Learning</collection>
-						<idno>LSDCBx1FF9_55</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="unk"></author>
-						<addressee editor="true" attested="yes" accepted="yes"></addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>Cleveland, OH</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1852-09" source="" attested="yes">12 September 1852</dateLet>
-						<dateLet when="1852-09" source="" attested="yes">12 September 5612</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="ilcajs_b1f9_0052_1r.jpg"></graphic>
-								<graphic url="ilcajs_b1f9_0052_1v.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="false" paper_type="" size="Letter">letter</material>
-								</support>
-								<extent>2 pages on 1 sheet
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="true"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="manuscript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="free">
-								<p>Unrestricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1"/>
-				<p rend="align(center)">Israelites of <placeName>Cleveland</placeName></p>
-				<p>To the Editor of the Occident.</p>
-				<p>In reference to the report concerning the Israelitish <add>&#63;</add><lb/> <add>&#63;</add> congregation of <placeName>Cleveland&#44; Ohio</placeName> in No 6 <add>&#63;</add> of the Occident<lb/> we request you to notice a designed <add>&#63;</add> of your reporter <persName>B. L. F. Mr Isidor<lb/> Kalisch</persName> who has been educated as Rabbi in the highest <hi rend="underline">Yeshiboth</hi> under<lb/> the highest Talmudical authorities&#44; and as a theologian with<lb/> universities of <placeName>Berlin</placeName> &#38; <placeName>Breslaw</placeName>&#44; who moreover was a contributor<lb/> to various learned periodicals in German&#44; is among <add>&#63;</add> not only<lb/> <hi rend="underline">Hazan</hi>&#44; but likewise&#44; Rabbi&#44; Preacher&#44; and religious instructor.  We who<lb/> are thoroughly acquainted with the officers of both the congregation of<lb/> this place promise you speedily a detailed statement of the rise<lb/> and development of the same.  In conclusion we cannot avoid expres&#45;<lb/>sing our surprise&#44; that you Mr Editor&#44; who ought to be acquainted<lb/> with our congregational affairs no less than with <persName>Mr Kalisch</persName><lb/> who was lately your correspondent for the Occident&#44; should<lb/> have known better how to appreciate his services&#44; that to accept<lb/> the communication of <persName>B. L. F.</persName> which contains <add>&#63;</add> misrepresen&#45;<lb/>tations and is intended merely to praise himself&#44; without correcting the<lb/> same.  In the hope that you will insert this letter at once<lb/> in the Occident we remain respectfully yours.</p>
-				<p rend="align(right)"><persName>J. Englhart</persName>  President</p>
-				<p rend="align(right)"><persName>C Koch</persName>  Vice President</p>
-				<p rend="align(right)"><persName>G A Davis</persName>  Treasurer</p>
-				<p rend="align(center)"><persName>D Cauffman</persName></p>
-				<p rend="align(right)"><persName>David Henfer</persName></p>
-				<p rend="align(right)"><persName>Samuel Loeb</persName>  Trustees</p>
-				<p rend="align(right)"><persName>F. J. Cohn</persName></p>
-				<p rend="align(right)"><persName>A Schwab</persName> let President of<lb/> Israeli <add>&#63;</add><lb/> Israel congrn.</p>
-				<p><placeName>Cleveland</placeName> <date>Sep 12. 5612</date></p>
-			<pb n="2"/>
-				<p><hi rend="underline">Not by the Editor</hi>.  We indeed discovered that <persName>B. L. F.</persName> wished to place<lb/> his own labours somewhat prominently before the public&#59; but this we<lb/> did not deem any insult to <persName>Mr Kalisch</persName>&#59; as little as the statement that<lb/> he was Hazan and Teacher&#44; as we have in our own person filled both<lb/> these functions&#44; and were nevertheless the preacher of the older congregation<lb/> of <placeName>Philadelphia</placeName> for twenty years&#44; without any other title than Heizan&#44;<lb/> To be <add>&#63;</add> preaching was gratuitous&#44; and was not <add>&#63;</add> in the<lb/> contract which was drawn up by the managers of the congregation&#44;<lb/> but <add>&#63;</add> there is no insult in one being called the <hi rend="underline">Hazan</hi> of any<lb/> public body&#44; especially in <placeName>America</placeName> when&#44; until the arrival of<lb/> <persName>Rabbi A. Rice</persName> of <placeName>Baltimore</placeName> not long since it was the highest<lb/> <sic>ecclessiastical</sic> title among us.  We have borne it for upward of<lb/> twenty one years&#44; and thought it no degradation&#44; though we<lb/> occasionally acted as Rabbi &#38; preached not a few sermons&#44;<lb/> with what success is not for us to say.  <add>&#63;</add> we must that<lb/> on friends at <placeName>Cleveland</placeName> will discharge us from any <add>&#63;</add> of<lb/> slighting them or <persName>Mr Kalisch</persName>&#44; when contributors we have<lb/> from time to time inserted in the Occident  <add>&#63;</add> have thing we<lb/> must state&#44; that if <persName>Mr K</persName> should be attacked hereafter &#40;but<lb/> <hi rend="underline">not</hi> in the Occident as our work has a higher aim than destroying<lb/> observation&#44;&#41; it will be his own fault for his extremely injurious<lb/> course in the divine case&#44; since he has not <add>&#63;</add> till he<lb/> succeeded in appearing before the public in the Asmonean as the<lb/> accuser of <persName>Mr Joseph Levy</persName>.  For our part we are tired of the controversy<lb/> it is a subject for a <add>Hebrew</add> &#40;Question&#41; to the highest authorities in <placeName>Europe</placeName>&#59;<lb/> and we will abide by their decision&#59; but no man who understands<lb/> the nature of Jewish jurisprudence will for a moment contend that<lb/> either Plain dealer&#44; Asmonean or Occident is a proper vehicle to</p>
-		
-			<div>
-				<p><ref target="Occident_PDFs/Occ_10_6.pdf">The above text refers to Occident Volume 10 No. 6 pages 305 through 308. Click here to view.</ref></p>
-			</div>
-		</body>
-	</text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="unk"/>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS Isaac Leeser Collection</repository>
+                        <collection>The Library of the Dropsie College for Hebrew and Cognate
+                            Learning</collection>
+                        <idno>LSDCBx1FF9_55</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="unk"/>
+                        <addressee accepted="yes" attested="yes" editor="true"/>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Cleveland, OH</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1852-09">12 September 1852</dateLet>
+                        <dateLet attested="yes" source="" when="1852-09">12 September 5612</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="ilcajs_b1f9_0052_1r.jpg"/>
+                                <graphic url="ilcajs_b1f9_0052_1v.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size="Letter"
+                                        >letter</material>
+                                </support>
+                                <extent>2 pages on 1 sheet <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="true"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <p rend="align(center)">Israelites of <placeName>Cleveland</placeName></p>
+            <p>To the Editor of the Occident.</p>
+            <p>In reference to the report concerning the Israelitish <add>?</add><lb/>
+                <add>?</add> congregation of <placeName>Cleveland, Ohio</placeName> in No 6
+                    <add>?</add> of the Occident<lb/> we request you to notice a designed
+                    <add>?</add> of your reporter <persName>B. L. F. Mr Isidor<lb/>
+                    Kalisch</persName> who has been educated as Rabbi in the highest <hi
+                    rend="underline">Yeshiboth</hi> under<lb/> the highest Talmudical authorities,
+                and as a theologian with<lb/> universities of <placeName>Berlin</placeName> &amp;
+                    <placeName>Breslaw</placeName>, who moreover was a contributor<lb/> to various
+                learned periodicals in German, is among <add>?</add> not only<lb/>
+                <hi rend="underline">Hazan</hi>, but likewise, Rabbi, Preacher, and religious
+                instructor. We who<lb/> are thoroughly acquainted with the officers of both the
+                congregation of<lb/> this place promise you speedily a detailed statement of the
+                rise<lb/> and development of the same. In conclusion we cannot avoid
+                expres-<lb/>sing our surprise, that you Mr Editor, who ought to be acquainted<lb/>
+                with our congregational affairs no less than with <persName>Mr
+                Kalisch</persName><lb/> who was lately your correspondent for the Occident,
+                should<lb/> have known better how to appreciate his services, that to accept<lb/>
+                the communication of <persName>B. L. F.</persName> which contains <add>?</add>
+                misrepresen-<lb/>tations and is intended merely to praise himself, without
+                correcting the<lb/> same. In the hope that you will insert this letter at once<lb/>
+                in the Occident we remain respectfully yours.</p>
+            <p rend="align(right)"><persName>J. Englhart</persName> President</p>
+            <p rend="align(right)"><persName>C Koch</persName> Vice President</p>
+            <p rend="align(right)"><persName>G A Davis</persName> Treasurer</p>
+            <p rend="align(center)">
+                <persName>D Cauffman</persName>
+            </p>
+            <p rend="align(right)">
+                <persName>David Henfer</persName>
+            </p>
+            <p rend="align(right)"><persName>Samuel Loeb</persName> Trustees</p>
+            <p rend="align(right)">
+                <persName>F. J. Cohn</persName>
+            </p>
+            <p rend="align(right)"><persName>A Schwab</persName> let President of<lb/> Israeli
+                    <add>?</add><lb/> Israel congrn.</p>
+            <p>
+                <placeName>Cleveland</placeName>
+                <date>Sep 12. 5612</date>
+            </p>
+            <pb n="2"/>
+            <p><hi rend="underline">Not by the Editor</hi>. We indeed discovered that <persName>B.
+                    L. F.</persName> wished to place<lb/> his own labours somewhat prominently
+                before the public; but this we<lb/> did not deem any insult to <persName>Mr
+                    Kalisch</persName>; as little as the statement that<lb/> he was Hazan and
+                Teacher, as we have in our own person filled both<lb/> these functions, and were
+                nevertheless the preacher of the older congregation<lb/> of
+                    <placeName>Philadelphia</placeName> for twenty years, without any other title
+                than Heizan,<lb/> To be <add>?</add> preaching was gratuitous, and was not
+                    <add>?</add> in the<lb/> contract which was drawn up by the managers of the
+                congregation,<lb/> but <add>?</add> there is no insult in one being called the <hi
+                    rend="underline">Hazan</hi> of any<lb/> public body, especially in
+                    <placeName>America</placeName> when, until the arrival of<lb/>
+                <persName>Rabbi A. Rice</persName> of <placeName>Baltimore</placeName> not long
+                since it was the highest<lb/>
+                <sic>ecclessiastical</sic> title among us. We have borne it for upward of<lb/>
+                twenty one years, and thought it no degradation, though we<lb/> occasionally acted
+                as Rabbi &amp; preached not a few sermons,<lb/> with what success is not for us to
+                say. <add>?</add> we must that<lb/> on friends at <placeName>Cleveland</placeName>
+                will discharge us from any <add>?</add> of<lb/> slighting them or <persName>Mr
+                    Kalisch</persName>, when contributors we have<lb/> from time to time inserted in
+                the Occident <add>?</add> have thing we<lb/> must state, that if <persName>Mr
+                    K</persName> should be attacked hereafter (but<lb/>
+                <hi rend="underline">not</hi> in the Occident as our work has a higher aim than
+                destroying<lb/> observation,) it will be his own fault for his extremely
+                injurious<lb/> course in the divine case, since he has not <add>?</add> till he<lb/>
+                succeeded in appearing before the public in the Asmonean as the<lb/> accuser of
+                    <persName>Mr Joseph Levy</persName>. For our part we are tired of the
+                controversy<lb/> it is a subject for a <add>שאלה</add> (Question) to the highest
+                authorities in <placeName>Europe</placeName>;<lb/> and we will abide by their
+                decision; but no man who understands<lb/> the nature of Jewish jurisprudence will
+                for a moment contend that<lb/> either Plain dealer, Asmonean or Occident is a proper
+                vehicle to</p>
+            <div>
+                <p>
+                    <ref target="Occident_PDFs/Occ_10_6.pdf">The above text refers to Occident
+                        Volume 10 No. 6 pages 305 through 308. Click here to view.</ref>
+                </p>
+            </div>
+        </body>
+    </text>
 </TEI>

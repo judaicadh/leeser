@@ -1,281 +1,430 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
-      <fileDesc>
-        <titleStmt>
-          <title>[no title given]</title>
-          <author attested="yes" accepted="yes" signature="yes">Gotthelf, B. H.</author>
-          <editor></editor>
-          <sponsor></sponsor>
-          <funder></funder>
-          <principal></principal>
-          <respStmt>
-            <resp></resp>
-            <name></name>
-          </respStmt>
-        </titleStmt>
-        <editionStmt>
-          <edition></edition>
-          <respStmt>
-            <resp></resp>
-            <name></name>
-          </respStmt>
-        </editionStmt>
-        <extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-        <publicationStmt>
-          <publisher>Unpublished manuscript</publisher>
-        </publicationStmt>
-        <seriesStmt>
-          <p>Not part of a series</p>
-        </seriesStmt>
-        <notesStmt>
-          <note></note>
-        </notesStmt>
-        <sourceDesc>
-          <biblStruct>
-            <!-- catalog entry goes here -->
-            <monogr>
-              <imprint>
-                <dateLet></dateLet>
-              </imprint>
-            </monogr>
-          </biblStruct>
-          <msDesc>
-            <msIdentifier>
-              <country>USA</country>
-              <region>PA</region>
-              <settlement>Philadelphia</settlement>
-              <institution></institution>
-              <repository>CAJS Isaac Leeser Collection</repository>
-              <collection>The Library of the Dropsie College for Hebrew and Cognate Learning</collection>
-              <idno>LSDCBx1FF9_2</idno>
-              <altIdentifier>
-                <idno></idno>
-              </altIdentifier>
-              <msName></msName>
-            </msIdentifier>
-            <head></head>
-            <letHeading>
-              <author attested="yes" accepted="yes" signature="yes">Gotthelf, B. H.</author>
-              <addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac, Rev.</addressee>
-              <deliverer></deliverer>
-              <respStmt>
-                <resp></resp>
-                <name></name>
-              </respStmt>
-              <placeLet>Louisville, KY</placeLet>
-              <placeRec>Philadelphia, PA</placeRec>
-              <dateLet when="1852-01" source="" attested="yes">15 January 1852</dateLet>
-            </letHeading>
-            <msContents>
-              <msItem>
-                <author></author>
-                <editor></editor>
-                <respStmt>
-                  <resp></resp>
-                  <name></name>
-                </respStmt>
-                <title></title>
-                <decoNote></decoNote>
-                <listBibl>
-                  <bibl></bibl>
-                </listBibl>
-                <filiation></filiation>
-                <textLang></textLang>
-                <figure>
-                  <graphic url="ilcajs_b1f9_0002_1r.tif"/>
-                  <graphic url="ilcajs_b1f9_0002_1v.tif"/>
-                  <graphic url="ilcajs_b1f9_0002_2r.tif"/>
-                  <graphic url="ilcajs_b1f9_0002_2v.tif"/>
-                </figure>
-              </msItem>
-            </msContents>
-            <physDesc>
-              <objectDesc>
-                <supportDesc>
-                  <support>
-                    <material color="" lined="false" paper_type="" size="Letter">letter</material>
-                  </support>
-                  <extent>4 pages on 2 sheets
-                    <dimensions></dimensions>
-                  </extent>
-                  <foliation></foliation>
-                  <collation></collation>
-                  <condition fragment="false"></condition>
-                </supportDesc>
-                <layoutDesc>
-                  <layout></layout>
-                </layoutDesc>
-              </objectDesc>
-              <handDesc script="manuscript">
-                  <handNote></handNote>
-              </handDesc>
-              <decoDesc>
-                <decoNote></decoNote>
-              </decoDesc>
-              <additions></additions>
-              <bindingDesc>
-                <binding>
-                  <decoNote></decoNote>
-                </binding>
-              </bindingDesc>
-              <sealDesc>
-                <seal>
-                  <p></p>
-                </seal>
-              </sealDesc>
-              <accMat></accMat>
-              <envDesc occ="false"></envDesc>
-            </physDesc>
-            <history>
-              <origin></origin>
-              <provenance></provenance>
-              <acquisition></acquisition>
-            </history>
-            <additional>
-              <adminInfo>
-                <recordHist>
-                  <source></source>
-                  <change></change>
-                </recordHist>
-                <availability status="free">
-                  <p>Unrestricted</p>
-                </availability>
-                <custodialHist>
-                  <custEvent></custEvent>
-                </custodialHist>
-              </adminInfo>
-              <surrogates></surrogates>
-              <listBibl>
-                <bibl></bibl>
-              </listBibl>
-            </additional>
-            <msPart>
-              <altIdentifier>
-                <idno></idno>
-              </altIdentifier>
-            </msPart>
-          </msDesc>
-        </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-        <projectDesc>
-          <p></p>
-        </projectDesc>
-        <samplingDecl>
-          <p></p>
-        </samplingDecl>
-        <editorialDecl>
-          <correction>
-            <p></p>
-          </correction>
-          <normalization>
-            <p></p>
-          </normalization>
-          <quotation>
-            <p></p>
-          </quotation>
-          <hyphenation>
-            <p></p>
-          </hyphenation>
-          <segmentation>
-            <p></p>
-          </segmentation>
-          <stdVals>
-            <p></p>
-          </stdVals>
-          <interpretation>
-            <p></p>
-          </interpretation>
-        </editorialDecl>
-        <tagsDecl>
-          <rendition></rendition>
-          <namespace name="http://www.tei-c.org/ns/1.0">
-            <tagUsage gi=""></tagUsage>
-          </namespace>
-        </tagsDecl>
-        <refsDecl>
-          <cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-        </refsDecl>
-        <refsDecl>
-          <refState unit=""/>
-        </refsDecl>
-        <classDecl>
-          <taxonomy>
-            <category>
-              <catDesc></catDesc>
-            </category>
-          </taxonomy>
-        </classDecl>
-        <appInfo>
-          <application ident="" version="">
-            <desc></desc>
-            <label></label>
-          </application>
-        </appInfo>
-      </encodingDesc>
-      <profileDesc>
-        <creation></creation>
-        <langUsage>
-          <language ident="en">English</language>
-        </langUsage>
-        <textClass>
-          <keywords scheme="unknown">
-            <list>
-              <item></item>
-              <item></item>
-            </list>
-          </keywords>
-          <classCode scheme=""></classCode>
-          <catRef/>
-        </textClass>
-      </profileDesc>
-      <revisionDesc>
-        <change></change>
-      </revisionDesc>
-    </teiHeader>
-    <text>
-        <body>
-      
-		<pb n="1"/>
-          <p rend="indent(8)"><placeName>Louisville Ky</placeName> <date>January 15th 1852</date></p>
-          <p rend="indent(1)"><addressee>Revd Isaac Leeser</addressee> <placeName>Ph<hi rend="sup">a</hi></placeName></p>
-          <p rend="indent(1)">Respected and Dear Sir&#44;</p>
-			<p>I hope that you are home by this time and that your trip <sic>trough</sic> the states<lb/> will have had the effect of improving your health and of <sic>strenghtening</sic> and<lb/> renewing your energies to future spiritual labor.</p>
-			<p>I am in possession of your kind letter dated <placeName>St. Louis</placeName> <date>Dec. 18th</date> but fearing the<lb/> answer would not reach you in time&#44; as there <sic>were</sic> no mail&#45;boats <del>g</del> running&#44;<lb/> I thought it advisable to omit it.</p>
-			<p>With this letter I mail one to the Asmonean containing a statement of<lb/> the proceedings taken in your behalf&#44; while in this city. I will give you<lb/> on the other side the substance of my correspondence&#44; which would have<lb/> reached <placeName>New York</placeName> long before this&#44; were it not for an approval it had<lb/> to undergo at our Board of Trustees.</p>
-			<p>I am inclined to believe that all your subscribers would like to receive<lb/> the Occident for <date>January</date>&#44; as they&#44; or the most of them&#44; are <del>desirou</del><lb/> desirous to know something of your doings in other places also. I<lb/> would therefore humbly advise you to begin with the next number&#44;<lb/> if you deem it expedient and till<add>&#63;</add> up to spirit charge your abane<add>&#63;</add>.</p>
-			<p>Please let me hear from you&#44; as soon you are arrived in <placeName>Ph<hi rend="sup">a</hi></placeName><lb/> my wife requested me to give you her best respects.<lb/> <persName>Straus</persName>&#44; <persName>Lirhten<add>&#63;</add></persName>&#44; <persName>Lowensohn</persName>&#44; <persName>Oberudarfer</persName> and all your friends&#8212;and<lb/> there are a good many&#8212;return their heartfelt regard and esteem<lb/> to you.</p>
-			<p>May the Lord grant you many years of uninterrupted health and happi<lb/>ness&#44; to enable you to reap the fruits of your sowing.</p>
-          <p rend="indent(8)">Your devoted friend and obedient servant</p>
-          <p rend="indent(9)"><persName role="author">BHGotthelf</persName></p>
-		<pb n="2"/>
-			<p rend="align(right)">for the Occident&#44; by request of the Congregation Adath <sic>Isral</sic><lb/> <placeName>Louisville</placeName></p>
-			<p rend="align(center)">Presentation of a Silver Goblet</p>
-			<p rend="align(center)">to</p>
-			<p rend="align(center)"><persName>Revd Isaac Leeser</persName></p>
-			<p></p>
-			<p><placeName>Louisville Ky.</placeName> <persName>Rev<hi rend="sup">d</hi> Isaac Leeser</persName> visited this city. He arrived here on the morning<lb/> of the <date>11th of December</date> and as soon as this fact became known&#44; a meeting<lb/> of the Board was convened by order of our respected President&#44; <persName>M. Straus<lb/> Esqr.</persName>&#44; in consequence of which the <persName>Rev<hi rend="sup">d</hi> Is. Leeser</persName> received a form at invitation<lb/> to lecture on <date>Sabbath</date> morning following. The Rev<hi rend="sup">d</hi> Gentleman kindly assen<lb/>ted and delighted his numerous audience in a very able and luminous<lb/> discourse.&#8212;On <date>Sunday</date> afternoon a general meeting was called<lb/> and after stating the object of the meeting the following Resolutions<lb/> were unanimously adopted&#58;</p>
-			<p><hi rend="underline">Resolved</hi>&#44; that as small token of the appreciation in which the <persName>Rev<hi rend="sup">d</hi><lb/> Isaac Leeser</persName> is held by this Congregation&#44; he be presented with a Silver<lb/> Goblet bearing a suitable inscription.</p>
-			<p><hi rend="underline">Resolved</hi>&#44; that the presentation shall take place on <date>Monday evening&#44;<lb/> the 8<hi rend="sup">th</hi> of Dec.</date> in the presence of the whole Congregation&#44; and that the<lb/> Rev<hi rend="sup">d</hi> Gentleman be invited to attend.</p>
-          <p rend="indent(1)">In accordance with these Resolutions the members of the Congre<lb/>gation repaired on <date>Monday</date> evening to the Kofsath<add>&#63;</add> Hotel&#44; the ap<lb/>pointed place of meeting. <persName>Mr. M. Straus</persName> presided and&#44; as usual&#44;<lb/> after stating the object of the convocation selected a committee<lb/> of five to draft Resolutions suitable for the occasion&#8212;and<lb/> the following Resolutions were proposed&#44; seconded and unanimously<lb/> carried&#58; &#40;there follow the Resolutions&#44; a copy of which were handed to you.&#41;</p>
-          <p rend="indent(1)">Signed&#44; <persName role="author">B. H. Gotthelf</persName>&#44; <persName>Z. A. Jefsel</persName>&#44; <persName>B. Sachs</persName>&#44; <persName>L. Silberman</persName>&#44; <persName>H. Stern</persName>&#125;Committee<lb/> After the unanimous adoption of the foregoing Resolutions&#44; a Committee<lb/> was appointed to request the <persName>Rev<hi rend="sup">d</hi> I. L.</persName> to join the meeting. When<lb/> he made his appearance&#44; these Resolutions were read to him by the</p>
-		<pb n="3"/>
-			<p><persName>Rev<hi rend="sup">d</hi> B H. Gotthelf</persName>&#44; the Chairman of the Committee&#44; after which <persName>M. Straus Esqr</persName><lb/> by presenting the Goblet spoke very feelingly in substance as fellows&#58;&#8212;</p>
-          <p rend="indent(1)">&#8222;Rev<hi rend="sup">d</hi> Sir&#44; It affords me great and infinite pleasure to have been se<lb/> &#8222;lected as the organ of the religious body over which I have the honor<lb/> &#8222;to preside&#44; to request your acceptance of this goblet&#44; which I hold in<lb/> &#8222;my hand&#8212;and in doing so&#44; I must ask your kind indulgence if<lb/> &#8222;you find&#44; that I am not able to do justice to so interesting a<lb/> &#8222;subject&#44; not being accustomed to public speaking.</p>
-			<p>&#8222;&#160;&#160;This Silver Cup is not given to you to value the precious metal<lb/> &#8222;it contains&#44; nor is it given as a renumeration for the very efficient<lb/> &#8222;and able services you so voluntarily rendered us on <date>Sabbath</date> morning&#44;<lb/> &#8222;but Rev<hi rend="sup">d</hi> Sir&#44; it is presented to you as a small token of the high<lb/> &#8222;respect we entertain towards one&#44; whose best years have been spent<lb/> &#8222;in the unswerving&#44; unwavering and unflinching duty of defending the<lb/> &#8222;rights and privileges of our coreligionists&#59; whose daily task has been to<lb/> &#8222;spread abroad and at home a true knowledge of our Holy Faith and<lb/> &#8222;of the duties incumbent on us as a nation to which such glorious<lb/> &#8222;promises are held out.</p>
-			<p>&#8222;&#160;&#160;When we reflect&#44; Rev<hi rend="sup">d</hi> Sir&#44; on all that you have done so maintain<lb/> &#8222;the true dignity of <placeName>Israel</placeName>&#44; so implant in our youth the &#8222;fear of the Lord<lb/> &#8222;the beginning of wisdom&#34;&#44; to <sic>instil</sic> among our fellow&#45;citizens a current appre<lb/>&#8222;ciation of the Jewish character&#8212;&#44; the numerous works that have ema<lb/>&#8222;nated from your pen&#8212;&#58; we cannot but admire the versatility of your<lb/> &#8222;talents&#44; and to hail with sentiments of profound pleasure the opportunity<lb/> &#8222;you have so kindly afforded us of becoming acquainted personally with<lb/> &#8222;one&#44; whose well&#45;earned fame is widely spread over the four corners of<lb/> &#8222;the globe&#59; and I speak but the united sentiments of this congregation&#44; when<lb/> &#8222;I assure you&#44; that we will al<del>l</del>ways look up to you as our guide&#44; as our teacher.</p>
-			<pb n="4"/>
-			<p>&#8222;&#160;&#160;May He&#44; in whose Holy service you so faithfully ministered and for<lb/> &#8222;whose Glory you still labor&#44; retain you ever in His Holy Keeping&#59; may<lb/> &#8222;He <sic>strenghten</sic> you to complete your task&#59; may Health&#44; Long Life<lb/> &#8222;and Prosperity be long accorded you&#59; and may a <add>&#63;</add> of<lb/> &#8222;Glory await you in the realms above&#34;&#33;&#8212;</p>
-          <p rend="indent(1)">The inscription was then read&#58; &#8222;Presented by the Congregation<lb/> &#8222;Adath Israel <placeName>Louisville Ky</placeName>&#44; to the <persName>Rev<hi rend="sup">d</hi> Isaac Leeser</persName>&#44; the Champion of<lb/> &#8222;Jewish Rights&#8212;<date>Dec. 8th 1851&#8212;5612</date>.</p>
-			<p>after which the Rev<hi rend="sup">d</hi> Gentleman feelingly replied in a harangue which<lb/> much affected his attentive and numerous auditors.</p>
-          <p rend="indent(4)"><persName role="author">B H. G.</persName></p>
-			<p>P.S. Dear Sir&#44; you are permitted&#44; to alter&#44; <sic>ammend</sic>&#44; abridge <add>&#63;</add><lb/> according to your <sic>judgement</sic>.&#45;</p>
-          <p rend="indent(10)">yours</p>
-          <p rend="indent(11)"><persName role="author">BHG</persName></p>
-          
-          <div>
-            <p><ref target="Occident_PDFs/Occ_10_1.pdf">The above text refers to Occident Volume 10 No. 1 pages 31 through 37. Click here to view.</ref></p>
-          </div>
-        </body>
-    </text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+          <teiHeader>
+
+                    <fileDesc>
+                              <titleStmt>
+                                        <title>[no title given]</title>
+                                        <author accepted="yes" attested="yes" signature="yes"
+                                                  >Gotthelf, B. H.</author>
+                                        <editor/>
+                                        <sponsor/>
+                                        <funder/>
+                                        <principal/>
+                                        <respStmt>
+                                                  <resp/>
+                                                  <name/>
+                                        </respStmt>
+                              </titleStmt>
+                              <editionStmt>
+                                        <edition/>
+                                        <respStmt>
+                                                  <resp/>
+                                                  <name/>
+                                        </respStmt>
+                              </editionStmt>
+                              <extent>[information about file size goes here, information about
+                                        extent of physical item comes later]</extent>
+                              <publicationStmt>
+                                        <publisher>Unpublished manuscript</publisher>
+                              </publicationStmt>
+                              <seriesStmt>
+                                        <p>Not part of a series</p>
+                              </seriesStmt>
+                              <notesStmt>
+                                        <note/>
+                              </notesStmt>
+                              <sourceDesc>
+                                        <biblStruct>
+                                                  <!-- catalog entry goes here -->
+                                                  <monogr>
+                                                  <imprint>
+                                                  <dateLet/>
+                                                  </imprint>
+                                                  </monogr>
+                                        </biblStruct>
+                                        <msDesc>
+                                                  <msIdentifier>
+                                                  <country>USA</country>
+                                                  <region>PA</region>
+                                                  <settlement>Philadelphia</settlement>
+                                                  <institution/>
+                                                  <repository>CAJS Isaac Leeser
+                                                  Collection</repository>
+                                                  <collection>The Library of the Dropsie College for
+                                                  Hebrew and Cognate Learning</collection>
+                                                  <idno>LSDCBx1FF9_2</idno>
+                                                  <altIdentifier>
+                                                  <idno/>
+                                                  </altIdentifier>
+                                                  <msName/>
+                                                  </msIdentifier>
+                                                  <head/>
+                                                  <letHeading>
+                                                  <author accepted="yes" attested="yes"
+                                                  signature="yes">Gotthelf, B. H.</author>
+                                                  <addressee accepted="yes" attested="yes"
+                                                  editor="false">Leeser, Isaac, Rev.</addressee>
+                                                  <deliverer/>
+                                                  <respStmt>
+                                                  <resp/>
+                                                  <name/>
+                                                  </respStmt>
+                                                  <placeLet>Louisville, KY</placeLet>
+                                                  <placeRec>Philadelphia, PA</placeRec>
+                                                  <dateLet attested="yes" source="" when="1852-01"
+                                                  >15 January 1852</dateLet>
+                                                  </letHeading>
+                                                  <msContents>
+                                                  <msItem>
+                                                  <author/>
+                                                  <editor/>
+                                                  <respStmt>
+                                                  <resp/>
+                                                  <name/>
+                                                  </respStmt>
+                                                  <title/>
+                                                  <decoNote/>
+                                                  <listBibl>
+                                                  <bibl/>
+                                                  </listBibl>
+                                                  <filiation/>
+                                                  <textLang/>
+                                                  <figure>
+                                                  <graphic url="ilcajs_b1f9_0002_1r.tif"/>
+                                                  <graphic url="ilcajs_b1f9_0002_1v.tif"/>
+                                                  <graphic url="ilcajs_b1f9_0002_2r.tif"/>
+                                                  <graphic url="ilcajs_b1f9_0002_2v.tif"/>
+                                                  </figure>
+                                                  </msItem>
+                                                  </msContents>
+                                                  <physDesc>
+                                                  <objectDesc>
+                                                  <supportDesc>
+                                                  <support>
+                                                  <material color="" lined="false" paper_type=""
+                                                  size="Letter">letter</material>
+                                                  </support>
+                                                  <extent>4 pages on 2 sheets <dimensions/>
+                                                  </extent>
+                                                  <foliation/>
+                                                  <collation/>
+                                                  <condition fragment="false"/>
+                                                  </supportDesc>
+                                                  <layoutDesc>
+                                                  <layout/>
+                                                  </layoutDesc>
+                                                  </objectDesc>
+                                                  <handDesc script="manuscript">
+                                                  <handNote/>
+                                                  </handDesc>
+                                                  <decoDesc>
+                                                  <decoNote/>
+                                                  </decoDesc>
+                                                  <additions/>
+                                                  <bindingDesc>
+                                                  <binding>
+                                                  <decoNote/>
+                                                  </binding>
+                                                  </bindingDesc>
+                                                  <sealDesc>
+                                                  <seal>
+                                                  <p/>
+                                                  </seal>
+                                                  </sealDesc>
+                                                  <accMat/>
+                                                  <envDesc occ="false"/>
+                                                  </physDesc>
+                                                  <history>
+                                                  <origin/>
+                                                  <provenance/>
+                                                  <acquisition/>
+                                                  </history>
+                                                  <additional>
+                                                  <adminInfo>
+                                                  <recordHist>
+                                                  <source/>
+                                                  <change/>
+                                                  </recordHist>
+                                                  <availability status="free">
+                                                  <p>Unrestricted</p>
+                                                  </availability>
+                                                  <custodialHist>
+                                                  <custEvent/>
+                                                  </custodialHist>
+                                                  </adminInfo>
+                                                  <surrogates/>
+                                                  <listBibl>
+                                                  <bibl/>
+                                                  </listBibl>
+                                                  </additional>
+                                                  <msPart>
+                                                  <altIdentifier>
+                                                  <idno/>
+                                                  </altIdentifier>
+                                                  </msPart>
+                                        </msDesc>
+                              </sourceDesc>
+                    </fileDesc>
+                    <encodingDesc>
+                              <projectDesc>
+                                        <p/>
+                              </projectDesc>
+                              <samplingDecl>
+                                        <p/>
+                              </samplingDecl>
+                              <editorialDecl>
+                                        <correction>
+                                                  <p/>
+                                        </correction>
+                                        <normalization>
+                                                  <p/>
+                                        </normalization>
+                                        <quotation>
+                                                  <p/>
+                                        </quotation>
+                                        <hyphenation>
+                                                  <p/>
+                                        </hyphenation>
+                                        <segmentation>
+                                                  <p/>
+                                        </segmentation>
+                                        <stdVals>
+                                                  <p/>
+                                        </stdVals>
+                                        <interpretation>
+                                                  <p/>
+                                        </interpretation>
+                              </editorialDecl>
+                              <tagsDecl>
+                                        <rendition/>
+                                        <namespace name="http://www.tei-c.org/ns/1.0">
+                                                  <tagUsage gi=""/>
+                                        </namespace>
+                              </tagsDecl>
+                              <refsDecl>
+                                        <cRefPattern matchPattern="" replacementPattern=""/>
+                              </refsDecl>
+                              <refsDecl>
+                                        <refState unit=""/>
+                              </refsDecl>
+                              <classDecl>
+                                        <taxonomy>
+                                                  <category>
+                                                  <catDesc/>
+                                                  </category>
+                                        </taxonomy>
+                              </classDecl>
+                              <appInfo>
+                                        <application ident="" version="">
+                                                  <desc/>
+                                                  <label/>
+                                        </application>
+                              </appInfo>
+                    </encodingDesc>
+                    <profileDesc>
+                              <creation/>
+                              <langUsage>
+                                        <language ident="en">English</language>
+                              </langUsage>
+                              <textClass>
+                                        <keywords scheme="unknown">
+                                                  <list>
+                                                  <item/>
+                                                  <item/>
+                                                  </list>
+                                        </keywords>
+                                        <classCode scheme=""/>
+                                        <catRef/>
+                              </textClass>
+                    </profileDesc>
+                    <revisionDesc>
+                              <change/>
+                    </revisionDesc>
+          </teiHeader>
+          <text>
+                    <body>
+                              <pb n="1"/>
+                              <p rend="indent(8)">
+                                        <placeName>Louisville Ky</placeName>
+                                        <date>January 15th 1852</date>
+                              </p>
+                              <p rend="indent(1)">
+                                        <addressee>Revd Isaac Leeser</addressee>
+                                        <placeName>Ph<hi rend="sup">a</hi></placeName>
+                              </p>
+                              <p rend="indent(1)">Respected and Dear Sir,</p>
+                              <p>I hope that you are home by this time and that your trip
+                                                  <sic>trough</sic> the states<lb/> will have had
+                                        the effect of improving your health and of
+                                                  <sic>strenghtening</sic> and<lb/> renewing your
+                                        energies to future spiritual labor.</p>
+                              <p>I am in possession of your kind letter dated <placeName>St.
+                                                  Louis</placeName>
+                                        <date>Dec. 18th</date> but fearing the<lb/> answer would not
+                                        reach you in time, as there <sic>were</sic> no mail-boats
+                                                  <del>g</del> running,<lb/> I thought it advisable
+                                        to omit it.</p>
+                              <p>With this letter I mail one to the Asmonean containing a statement
+                                        of<lb/> the proceedings taken in your behalf, while in this
+                                        city. I will give you<lb/> on the other side the substance
+                                        of my correspondence, which would have<lb/> reached
+                                                  <placeName>New York</placeName> long before this,
+                                        were it not for an approval it had<lb/> to undergo at our
+                                        Board of Trustees.</p>
+                              <p>I am inclined to believe that all your subscribers would like to
+                                        receive<lb/> the Occident for <date>January</date>, as they,
+                                        or the most of them, are <del>desirou</del><lb/> desirous to
+                                        know something of your doings in other places also. I<lb/>
+                                        would therefore humbly advise you to begin with the next
+                                        number,<lb/> if you deem it expedient and till<add>?</add>
+                                        up to spirit charge your abane<add>?</add>.</p>
+                              <p>Please let me hear from you, as soon you are arrived in
+                                                  <placeName>Ph<hi rend="sup"
+                                        >a</hi></placeName><lb/> my wife requested me to give you
+                                        her best respects.<lb/>
+                                        <persName>Straus</persName>,
+                                                  <persName>Lirhten<add>?</add></persName>,
+                                                  <persName>Lowensohn</persName>,
+                                                  <persName>Oberudarfer</persName> and all your
+                                        friends—and<lb/> there are a good many—return their
+                                        heartfelt regard and esteem<lb/> to you.</p>
+                              <p>May the Lord grant you many years of uninterrupted health and
+                                        happi<lb/>ness, to enable you to reap the fruits of your
+                                        sowing.</p>
+                              <p rend="indent(8)">Your devoted friend and obedient servant</p>
+                              <p rend="indent(9)">
+                                        <persName role="author">BHGotthelf</persName>
+                              </p>
+                              <pb n="2"/>
+                              <p rend="align(right)">for the Occident, by request of the
+                                        Congregation Adath <sic>Isral</sic><lb/>
+                                        <placeName>Louisville</placeName></p>
+                              <p rend="align(center)">Presentation of a Silver Goblet</p>
+                              <p rend="align(center)">to</p>
+                              <p rend="align(center)">
+                                        <persName>Revd Isaac Leeser</persName>
+                              </p>
+                              <p/>
+                              <p><placeName>Louisville Ky.</placeName>
+                                        <persName>Rev<hi rend="sup">d</hi> Isaac Leeser</persName>
+                                        visited this city. He arrived here on the morning<lb/> of
+                                        the <date>11th of December</date> and as soon as this fact
+                                        became known, a meeting<lb/> of the Board was convened by
+                                        order of our respected President, <persName>M. Straus<lb/>
+                                                  Esqr.</persName>, in consequence of which the
+                                                  <persName>Rev<hi rend="sup">d</hi> Is.
+                                                  Leeser</persName> received a form at
+                                        invitation<lb/> to lecture on <date>Sabbath</date> morning
+                                        following. The Rev<hi rend="sup">d</hi> Gentleman kindly
+                                        assen<lb/>ted and delighted his numerous audience in a very
+                                        able and luminous<lb/> discourse.—On <date>Sunday</date>
+                                        afternoon a general meeting was called<lb/> and after
+                                        stating the object of the meeting the following
+                                        Resolutions<lb/> were unanimously adopted:</p>
+                              <p><hi rend="underline">Resolved</hi>, that as small token of the
+                                        appreciation in which the <persName>Rev<hi rend="sup"
+                                                  >d</hi><lb/> Isaac Leeser</persName> is held by
+                                        this Congregation, he be presented with a Silver<lb/> Goblet
+                                        bearing a suitable inscription.</p>
+                              <p><hi rend="underline">Resolved</hi>, that the presentation shall
+                                        take place on <date>Monday evening,<lb/> the 8<hi rend="sup"
+                                                  >th</hi> of Dec.</date> in the presence of the
+                                        whole Congregation, and that the<lb/> Rev<hi rend="sup"
+                                                  >d</hi> Gentleman be invited to attend.</p>
+                              <p rend="indent(1)">In accordance with these Resolutions the members
+                                        of the Congre<lb/>gation repaired on <date>Monday</date>
+                                        evening to the Kofsath<add>?</add> Hotel, the ap<lb/>pointed
+                                        place of meeting. <persName>Mr. M. Straus</persName>
+                                        presided and, as usual,<lb/> after stating the object of the
+                                        convocation selected a committee<lb/> of five to draft
+                                        Resolutions suitable for the occasion—and<lb/> the following
+                                        Resolutions were proposed, seconded and unanimously<lb/>
+                                        carried: (there follow the Resolutions, a copy of which were
+                                        handed to you.)</p>
+                              <p rend="indent(1)">Signed, <persName role="author">B. H.
+                                                  Gotthelf</persName>, <persName>Z. A.
+                                                  Jefsel</persName>, <persName>B. Sachs</persName>,
+                                                  <persName>L. Silberman</persName>, <persName>H.
+                                                  Stern</persName>}Committee<lb/> After the
+                                        unanimous adoption of the foregoing Resolutions, a
+                                        Committee<lb/> was appointed to request the <persName>Rev<hi
+                                                  rend="sup">d</hi> I. L.</persName> to join the
+                                        meeting. When<lb/> he made his appearance, these Resolutions
+                                        were read to him by the</p>
+                              <pb n="3"/>
+                              <p><persName>Rev<hi rend="sup">d</hi> B H. Gotthelf</persName>, the
+                                        Chairman of the Committee, after which <persName>M. Straus
+                                                  Esqr</persName><lb/> by presenting the Goblet
+                                        spoke very feelingly in substance as fellows:—</p>
+                              <p rend="indent(1)">„Rev<hi rend="sup">d</hi> Sir, It affords me great
+                                        and infinite pleasure to have been se<lb/> „lected as the
+                                        organ of the religious body over which I have the honor<lb/>
+                                        „to preside, to request your acceptance of this goblet,
+                                        which I hold in<lb/> „my hand—and in doing so, I must ask
+                                        your kind indulgence if<lb/> „you find, that I am not able
+                                        to do justice to so interesting a<lb/> „subject, not being
+                                        accustomed to public speaking.</p>
+                              <p>„  This Silver Cup is not given to you to value the precious
+                                        metal<lb/> „it contains, nor is it given as a renumeration
+                                        for the very efficient<lb/> „and able services you so
+                                        voluntarily rendered us on <date>Sabbath</date>
+                                        morning,<lb/> „but Rev<hi rend="sup">d</hi> Sir, it is
+                                        presented to you as a small token of the high<lb/> „respect
+                                        we entertain towards one, whose best years have been
+                                        spent<lb/> „in the unswerving, unwavering and unflinching
+                                        duty of defending the<lb/> „rights and privileges of our
+                                        coreligionists; whose daily task has been to<lb/> „spread
+                                        abroad and at home a true knowledge of our Holy Faith
+                                        and<lb/> „of the duties incumbent on us as a nation to which
+                                        such glorious<lb/> „promises are held out.</p>
+                              <p>„  When we reflect, Rev<hi rend="sup">d</hi> Sir, on all that you
+                                        have done so maintain<lb/> „the true dignity of
+                                                  <placeName>Israel</placeName>, so implant in our
+                                        youth the „fear of the Lord<lb/> „the beginning of wisdom",
+                                        to <sic>instil</sic> among our fellow-citizens a current
+                                        appre<lb/>„ciation of the Jewish character—, the numerous
+                                        works that have ema<lb/>„nated from your pen—: we cannot but
+                                        admire the versatility of your<lb/> „talents, and to hail
+                                        with sentiments of profound pleasure the opportunity<lb/>
+                                        „you have so kindly afforded us of becoming acquainted
+                                        personally with<lb/> „one, whose well-earned fame is widely
+                                        spread over the four corners of<lb/> „the globe; and I speak
+                                        but the united sentiments of this congregation, when<lb/> „I
+                                        assure you, that we will al<del>l</del>ways look up to you
+                                        as our guide, as our teacher.</p>
+                              <pb n="4"/>
+                              <p>„  May He, in whose Holy service you so faithfully ministered and
+                                        for<lb/> „whose Glory you still labor, retain you ever in
+                                        His Holy Keeping; may<lb/> „He <sic>strenghten</sic> you to
+                                        complete your task; may Health, Long Life<lb/> „and
+                                        Prosperity be long accorded you; and may a <add>?</add>
+                                        of<lb/> „Glory await you in the realms above"!—</p>
+                              <p rend="indent(1)">The inscription was then read: „Presented by the
+                                        Congregation<lb/> „Adath Israel <placeName>Louisville
+                                                  Ky</placeName>, to the <persName>Rev<hi rend="sup"
+                                                  >d</hi> Isaac Leeser</persName>, the Champion
+                                        of<lb/> „Jewish Rights—<date>Dec. 8th 1851—5612</date>.</p>
+                              <p>after which the Rev<hi rend="sup">d</hi> Gentleman feelingly
+                                        replied in a harangue which<lb/> much affected his attentive
+                                        and numerous auditors.</p>
+                              <p rend="indent(4)">
+                                        <persName role="author">B H. G.</persName>
+                              </p>
+                              <p>P.S. Dear Sir, you are permitted, to alter, <sic>ammend</sic>,
+                                        abridge <add>?</add><lb/> according to your
+                                                  <sic>judgement</sic>.-</p>
+                              <p rend="indent(10)">yours</p>
+                              <p rend="indent(11)">
+                                        <persName role="author">BHG</persName>
+                              </p>
+                              <div>
+                                        <p>
+                                                  <ref target="Occident_PDFs/Occ_10_1.pdf">The above
+                                                  text refers to Occident Volume 10 No. 1 pages 31
+                                                  through 37. Click here to view.</ref>
+                                        </p>
+                              </div>
+                    </body>
+          </text>
 </TEI>

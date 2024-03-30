@@ -1,349 +1,421 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE TEI [
-<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
-%teibase;
-<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
-%teiext;
-]>
-<TEI>
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="unk">Sulzberger, Mayer</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>TCAT</repository>
-						<collection>Anonymous</collection>
-						<idno>LSTCAT_item60</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="unk">Sulzberger, Mayer</author>
-						<addressee editor="false" attested="yes" accepted="yes"></addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>Philadelphia, PA</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="" source="" attested="unk"></dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="il_tcat_item60_wk1_body0001.jpg"></graphic>
-								<graphic url="il_tcat_item60_wk1_body0002.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="false" paper_type="" size="">print</material>
-								</support>
-								<extent>2 pages on 2 sheets
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="typescript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="free">
-								<p>Unrestricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1"/>
-				<p rend="align(center)">TO THE PUBLIC</p>
-				<p rend="align(center)">THE OCCIDENT&#44;</p>
-			<p rend="indent(1)">The oldest Jewish periodical in the English language&#44; has finished its<lb/> <hi rend="italics">twenty&#45;fifth</hi> volume.  Under the able editorship of the late <persName>Rev. Isaac<lb/> Leeser</persName>&#44; it has become a renowned champion of Judaism&#44; and a successful<lb/> promoter of Jewish literature.  It was his earnest wish that its publication<lb/> should be continued after his death.  Personally&#44; and in his will&#44; he requested<lb/> the subscriber to take editorial charge of it&#44; and although there were many<lb/> reasons to cause hesitancy in accepting the trust&#44; two circumstances over&#45;<lb/>came his reluctance.  The one was a natural anxiety that the desire of his<lb/> lamented friend should be fulfilled&#44; and the other&#44; a conviction that the Jews<lb/> of <placeName>America</placeName> still need an organ which has so long maintained its position.</p>
-			<p rend="indent(1)">Its literary character will be such as to make it attractive to all households&#44;<lb/> and neither pains nor expense will be spared to procure contributions on<lb/> Jewish subjects from persons of talent.</p>
-			<p rend="indent(1)">Its religious position is too well defined to need any explanation.  In the<lb/> words of <persName>Mr. Leeser</persName>&#44; &#8220;Whatever can promote the welfare of Israelites and<lb/> their faith&#44; shall always find an ardent advocate in it&#59; whatever is hostile to<lb/> either&#44; shall ever meet its decided opposition.&#8221;</p>
-			<p rend="indent(1)">To Jewish families&#44; everywhere&#44; who desire to know the events which<lb/> affect their co&#45;religionists in all parts of the world&#44; this work will be a wel&#45;<lb/>come visitor.  Hebrew scholars will find its pages enriched with many arti&#45;<lb/>cles instructive even to the learned&#44; and the public generally will receive<lb/> from it information of a character elsewhere unattainable.</p>
-			<p rend="indent(1)">The great and increasing importance of the numerous and influential order<lb/> of B&#39;nai Berith&#44; will be recognized&#44; by the creation of a B. B. department in<lb/> this magazine.</p>
-			<p rend="indent(1)">It appears in monthly parts of at least forty&#45;eight pages octavo&#44; forming&#44;<lb/> at the end of the year&#44; a handsome volume.  The price is <hi rend="italics">Four</hi> Dollars per<lb/> annum&#44; in advance.</p>
-			<p rend="indent(1)">Advertisements will be inserted on the cover at the rate of 25 cents per<lb/> line&#44; for the first insertion&#59; every subsequent one will be charged 20 cents.</p>
-			<p rend="indent(1)">Annual cards and school advertisements inserted on special agreement.<lb/>  Nothing inserted for less <sic>shan</sic> <hi rend="italics">One</hi> Dollar.</p>
-			<p rend="indent(1)">Obituaries&#44; resolutions&#44; and complimentary notice of any kind&#44; 30 cents<lb/> per line&#59; marriage notices &#36;1 each.</p>
-			<p rend="indent(1)">The wide circulation of the <hi rend="italics">Occident</hi> among the Jews&#44; not only in this city<lb/> and country&#44; but also in foreign lands&#44; makes it an excellent vehicle for<lb/> advertisements intended to meet their eyes.</p>
-			<p rend="indent(1)">Liberal inducements will be offered to all who are willing to act as our<lb/> agents&#44; and to clubs.</p>
-			<p rend="indent(2)">Address&#44; <persName role="author">MAYER SULZBERGER</persName>&#44; EDITOR</p>
-			<p rend="indent(4)">29 <hi rend="italics"><placeName>South Sixth St.&#44; Philadelphia</placeName>.</hi></p>
-			<p rend="indent(1)"><hi rend="bold">SUBSCRIBERS&#39; NAMES.      RESIDENCE.</hi></p>
-			<pb n="2"/>
-				<p rend="align(right)">Na<add>&#63;</add> 8&#47;70</p>
-				<table rows="6" cols="3">
-				<row>
-				<cell><persName>David Sulzberger</persName></cell>
-				<cell>12.</cell>
-				<cell>4.</cell>
-				</row>
-				<row>
-				<cell><persName>Mrs Adler</persName></cell>
-				<cell>12.</cell>
-				<cell/>
-				</row>
-				<row>
-				<cell><persName>Jacob Sulzberger</persName></cell>
-				<cell>12.</cell>
-				<cell>2.</cell>
-				</row>
-				<row>
-				<cell><persName>L Mastbaum</persName></cell>
-				<cell>20.</cell>
-				<cell>20.</cell>
-				</row>
-				<row>
-				<cell><persName>Joseph Deyoung</persName></cell>
-				<cell>30.</cell>
-				<cell>5</cell>
-				</row>
-				<row>
-				<cell><persName>Mr Simon</persName></cell>
-				<cell>10.</cell>
-				<cell/>
-				</row>
-				</table>
-				<p><persName>Mr A Elker</persName>    L 20</p>
-				<p rend="The following is written upside down at the bottom of the page."></p>
-				<p><date>1872</date>    <persName>Christina</persName>    <persName>Mrs Dunks</persName></p>
-				<table rows="8" cols="4">
-				<row>
-				<cell><date>April Wed</date></cell>
-				<cell><date>10<hi rend="sup">th</hi></date></cell>
-				<cell>1 day</cell>
-				<cell>1 day</cell>
-				</row>
-				<row>
-				<cell>          <date>Thurs</date></cell>
-				<cell><date>11</date>.</cell>
-				<cell>&#189;</cell>
-				<cell>1</cell>
-				</row>
-				<row>
-				<cell>          <date>Tue</date></cell>
-				<cell><date>12</date></cell>
-				<cell>&#189;</cell>
-				<cell>&#189;</cell>
-				</row>
-				<row>
-				<cell>          <date>Tuesd</date></cell>
-				<cell><date>16</date></cell>
-				<cell>1</cell>
-				<cell/>
-				</row>
-				<row>
-				<cell>          <date>Wed</date></cell>
-				<cell><date>17</date></cell>
-				<cell>&#189;</cell>
-				<cell/>
-				</row>
-				<row>
-				<cell>          <date>Thursd</date></cell>
-				<cell><date>18</date></cell>
-				<cell>&#189;</cell>
-				<cell>&#189;</cell>
-				</row>
-				<row>
-				<cell>          <date>Friday</date></cell>
-				<cell/>
-				<cell>1</cell>
-				<cell>1</cell>
-				</row>
-				<row>
-				<cell/>
-				<cell/>
-				<cell>5</cell>
-				<cell>4</cell>
-				</row>
-				</table>
-		</body>
-	</text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="unk">Sulzberger, Mayer</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>TCAT</repository>
+                        <collection>Anonymous</collection>
+                        <idno>LSTCAT_item60</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="unk">Sulzberger,
+                            Mayer</author>
+                        <addressee accepted="yes" attested="yes" editor="false"/>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="unk" source="" when=""/>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="il_tcat_item60_wk1_body0001.jpg"/>
+                                <graphic url="il_tcat_item60_wk1_body0002.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>2 pages on 2 sheets <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <p rend="align(center)">TO THE PUBLIC</p>
+            <p rend="align(center)">THE OCCIDENT,</p>
+            <p rend="indent(1)">The oldest Jewish periodical in the English language, has finished its<lb/>
+                <hi rend="italics">twenty-fifth</hi> volume. Under the able editorship of the late
+                    <persName>Rev. Isaac<lb/> Leeser</persName>, it has become a renowned champion
+                of Judaism, and a successful<lb/> promoter of Jewish literature. It was his earnest
+                wish that its publication<lb/> should be continued after his death. Personally, and
+                in his will, he requested<lb/> the subscriber to take editorial charge of it, and
+                although there were many<lb/> reasons to cause hesitancy in accepting the trust, two
+                circumstances over-<lb/>came his reluctance. The one was a natural anxiety that the
+                desire of his<lb/> lamented friend should be fulfilled, and the other, a conviction
+                that the Jews<lb/> of <placeName>America</placeName> still need an organ which has
+                so long maintained its position.</p>
+            <p rend="indent(1)">Its literary character will be such as to make it attractive to all
+                households,<lb/> and neither pains nor expense will be spared to procure
+                contributions on<lb/> Jewish subjects from persons of talent.</p>
+            <p rend="indent(1)">Its religious position is too well defined to need any explanation.
+                In the<lb/> words of <persName>Mr. Leeser</persName>, “Whatever can promote the
+                welfare of Israelites and<lb/> their faith, shall always find an ardent advocate in
+                it; whatever is hostile to<lb/> either, shall ever meet its decided opposition.”</p>
+            <p rend="indent(1)">To Jewish families, everywhere, who desire to know the events
+                which<lb/> affect their co-religionists in all parts of the world, this work will be
+                a wel-<lb/>come visitor. Hebrew scholars will find its pages enriched with many
+                arti-<lb/>cles instructive even to the learned, and the public generally will
+                receive<lb/> from it information of a character elsewhere unattainable.</p>
+            <p rend="indent(1)">The great and increasing importance of the numerous and influential
+                order<lb/> of B'nai Berith, will be recognized, by the creation of a B. B.
+                department in<lb/> this magazine.</p>
+            <p rend="indent(1)">It appears in monthly parts of at least forty-eight pages octavo,
+                forming,<lb/> at the end of the year, a handsome volume. The price is <hi
+                    rend="italics">Four</hi> Dollars per<lb/> annum, in advance.</p>
+            <p rend="indent(1)">Advertisements will be inserted on the cover at the rate of 25 cents
+                per<lb/> line, for the first insertion; every subsequent one will be charged 20
+                cents.</p>
+            <p rend="indent(1)">Annual cards and school advertisements inserted on special
+                agreement.<lb/> Nothing inserted for less <sic>shan</sic>
+                <hi rend="italics">One</hi> Dollar.</p>
+            <p rend="indent(1)">Obituaries, resolutions, and complimentary notice of any kind, 30
+                cents<lb/> per line; marriage notices $1 each.</p>
+            <p rend="indent(1)">The wide circulation of the <hi rend="italics">Occident</hi> among
+                the Jews, not only in this city<lb/> and country, but also in foreign lands, makes
+                it an excellent vehicle for<lb/> advertisements intended to meet their eyes.</p>
+            <p rend="indent(1)">Liberal inducements will be offered to all who are willing to act as
+                our<lb/> agents, and to clubs.</p>
+            <p rend="indent(2)">Address, <persName role="author">MAYER SULZBERGER</persName>,
+                EDITOR</p>
+            <p rend="indent(4)">29 <hi rend="italics"><placeName>South Sixth St.,
+                        Philadelphia</placeName>.</hi></p>
+            <p rend="indent(1)">
+                <hi rend="bold">SUBSCRIBERS' NAMES. RESIDENCE.</hi>
+            </p>
+            <pb n="2"/>
+            <p rend="align(right)">Na<add>?</add> 8/70</p>
+            <table cols="3" rows="6">
+                <row>
+                    <cell>
+                        <persName>David Sulzberger</persName>
+                    </cell>
+                    <cell>12.</cell>
+                    <cell>4.</cell>
+                </row>
+                <row>
+                    <cell>
+                        <persName>Mrs Adler</persName>
+                    </cell>
+                    <cell>12.</cell>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>
+                        <persName>Jacob Sulzberger</persName>
+                    </cell>
+                    <cell>12.</cell>
+                    <cell>2.</cell>
+                </row>
+                <row>
+                    <cell>
+                        <persName>L Mastbaum</persName>
+                    </cell>
+                    <cell>20.</cell>
+                    <cell>20.</cell>
+                </row>
+                <row>
+                    <cell>
+                        <persName>Joseph Deyoung</persName>
+                    </cell>
+                    <cell>30.</cell>
+                    <cell>5</cell>
+                </row>
+                <row>
+                    <cell>
+                        <persName>Mr Simon</persName>
+                    </cell>
+                    <cell>10.</cell>
+                    <cell/>
+                </row>
+            </table>
+            <p><persName>Mr A Elker</persName> L 20</p>
+            <p rend="The following is written upside down at the bottom of the page."/>
+            <p>
+                <date>1872</date>
+                <persName>Christina</persName>
+                <persName>Mrs Dunks</persName>
+            </p>
+            <table cols="4" rows="8">
+                <row>
+                    <cell>
+                        <date>April Wed</date>
+                    </cell>
+                    <cell>
+                        <date>10<hi rend="sup">th</hi></date>
+                    </cell>
+                    <cell>1 day</cell>
+                    <cell>1 day</cell>
+                </row>
+                <row>
+                    <cell>
+                        <date>Thurs</date>
+                    </cell>
+                    <cell><date>11</date>.</cell>
+                    <cell>½</cell>
+                    <cell>1</cell>
+                </row>
+                <row>
+                    <cell>
+                        <date>Tue</date>
+                    </cell>
+                    <cell>
+                        <date>12</date>
+                    </cell>
+                    <cell>½</cell>
+                    <cell>½</cell>
+                </row>
+                <row>
+                    <cell>
+                        <date>Tuesd</date>
+                    </cell>
+                    <cell>
+                        <date>16</date>
+                    </cell>
+                    <cell>1</cell>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>
+                        <date>Wed</date>
+                    </cell>
+                    <cell>
+                        <date>17</date>
+                    </cell>
+                    <cell>½</cell>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>
+                        <date>Thursd</date>
+                    </cell>
+                    <cell>
+                        <date>18</date>
+                    </cell>
+                    <cell>½</cell>
+                    <cell>½</cell>
+                </row>
+                <row>
+                    <cell>
+                        <date>Friday</date>
+                    </cell>
+                    <cell/>
+                    <cell>1</cell>
+                    <cell>1</cell>
+                </row>
+                <row>
+                    <cell/>
+                    <cell/>
+                    <cell>5</cell>
+                    <cell>4</cell>
+                </row>
+            </table>
+        </body>
+    </text>
 </TEI>

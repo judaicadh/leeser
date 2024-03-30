@@ -1,103 +1,297 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
-		<fileDesc>
-			<titleStmt>
-				<title>
-				
-				</title>
-			</titleStmt>
-			<editionStmt>
-				<p>
-				
-				</p>
-			</editionStmt>
-			<extent>
-			
-			</extent>
-			<publicationStmt>
-				<p>
-					
-				</p>
-			</publicationStmt>
-			<seriesStmt>
-				<p>
-					
-				</p>
-			</seriesStmt>
-			<notesStmt>
-				<note>
-				
-				</note>
-			</notesStmt>
-			<sourceDesc>
-					<msDesc>
-						<msIdentifier>
-							<country>USA</country>
-							<region>PA</region>
-							<settlement>Philadelphia</settlement>
-							<repository>LSKAP</repository>
-							<collection>The Arnold and Deanne Kaplan Collection of Early American Judaica</collection>
-							<idno>LSKAP0084</idno>
-						</msIdentifier>
-					</msDesc>
-			</sourceDesc>
-		</fileDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1R" facs="LSKAP0084_1R.jpg"/>
-			<p rend="align(right)"><placeName>Baltimore</placeName>
-				<date>17. Jany. 1826</date>.</p>
-			<p rend="indent(1)">The final <sic>enquiry</sic> after my arrival here this morning<lb/>
-				was the long lost bundle for <persName>Gen. Lingan</persName> as yet no such<lb/>
-				package is within recollection and our friend <persName>Cohen</persName> was<lb/> by
-				no means negligent in making applications. he still<lb/> says that some information
-				of it may reach him when<lb/> it does you may rely upon his attention to forward it.
-					<hi rend="underline">My</hi> impression is that it has been too long
-				undiscovered<lb/> to be regained soon. however&#44; like all pious souls&#45;<lb/>
-				we shall hope for the best.</p>
-			<p rend="indent(1)">Another commission I<lb/> had to execute for <persName>Ms.
-					Jacobs</persName> in this place&#44; which<lb/> has proved fruitless and which I
-				wish to mention<lb/> to <persName>Abba</persName> that she may convey the same to
-				her&#8212;<lb/> The articles she desired me to get for her I have very diligently
-					<sic>enquired</sic> for with the assistance of a friend<lb/> but cannot be
-				procured. I will bear it in mind when<lb/> I get to <placeName>N. Y.</placeName></p>
-			<p rend="indent(1)">On <sic>sunday</sic> we had a tolerable pleast.<lb/> day down
-					<placeName>James&#39; River</placeName> reach <placeName>Norfolk</placeName>
-				about 11 at night<lb/> ate breakfast with <persName>Mr. Sol. Marks</persName>&#44;
-				and took passage<lb/> at 11 on board the <rs>Virginia</rs>. the prospect of a quick
-				&#38;<lb/> favorable passage was not promising. the wind being</p>
-			<pb n="1V" facs="LSKAP0084_1V.jpg"/>
-			<p>blustering. tho after under way for a few hours the<lb/> wind changed and with the
-				exception of its being cold<lb/> we passd.<add>&#63;</add> a pleasant time. and
-				arrived one hour sooner<lb/> than usual. On <date>Thursday</date> morning at
-					<add>Hebrew</add> I shall take<lb/> stage for <placeName>Phila.</placeName> from
-				which place I shall write to Mama<lb/> all particulars about family affairs. So
-					thus<add>&#63;</add> far I have<lb/> opened correspondence with <hi
-					rend="underline">you</hi> in detail of my journey&#8212;.</p>
-			<p rend="indent(1)">I hope that you and <persName>Meyer</persName> will lend all aid to
-				keep<lb/> matters easy at home. dont let the folks starve for want of<lb/> good
-				poultry. and by all means omit scolding at <persName>Julia</persName>.<lb/> and
-					<sic>whiping</sic>
-				<persName>George</persName> when they <sic>dont</sic> walk straight.</p>
-			<p rend="indent(1)">Great preparations I seem to be making among the wedding<lb/> folk
-				at <placeName>Norfolk</placeName>.</p>
-			<closer><salute><p rend="indent(1)">You will remember me to one and<lb/> all of the family. With best
-				wishes for yourself.</p>
-			<p rend="indent(8)">Yrs&#58;</p>
-			<p rend="indent(8)">
-				<hi rend="underline">
-					<persName role="author">Dan. Judah</persName>
-				</hi>
-			</p>
-			<pb n="2V" facs="LSKAP0084_2V.jpg"/>
-			<p rend="align(center)">
-				<addressee>Mr. Isaac Leezer</addressee>
-			</p>
-			<p rend="align(center)">Care of <persName>Dan&#58; Judah &#38; Co.</persName></p>
-			<p rend="align(center)">
-				<placeName>Richmond</placeName>
-			</p></salute></closer>
-		</body>
-	</text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="yes">Judah, Dan.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>LSKAP</repository>
+                        <collection>The Arnold and Deanne Kaplan Collection of Early American
+                            Judaica</collection>
+                        <idno>LSKAP0084</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="yes">Judah, Dan.</author>
+                        <addressee accepted="yes" attested="yes" editor="false">Leeser,
+                            Isaac</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Baltimore, MD</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1826-01">January 17, 1826</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="LSKAP0084_1R.jpg"/>
+                                <graphic url="LSKAP0084_1V.jpg"/>
+                                <graphic url="LSKAP0084_2V.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >letter</material>
+                                </support>
+                                <extent>4 pages on 2 sheets <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="restricted">
+                                <p>Restricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1R"/>
+            <p rend="align(right)"><placeName>Baltimore</placeName>
+                <date>17. Jany. 1826</date>.</p>
+            <p rend="indent(1)">The final <sic>enquiry</sic> after my arrival here this morning<lb/>
+                was the long lost bundle for <persName>Gen. Lingan</persName> as yet no such<lb/>
+                package is within recollection and our friend <persName>Cohen</persName> was<lb/> by
+                no means negligent in making applications. he still<lb/> says that some information
+                of it may reach him when<lb/> it does you may rely upon his attention to forward it.
+                    <hi rend="underline">My</hi> impression is that it has been too long
+                undiscovered<lb/> to be regained soon. however, like all pious souls-<lb/> we shall
+                hope for the best.</p>
+            <p rend="indent(1)">Another commission I<lb/> had to execute for <persName>Ms.
+                    Jacobs</persName> in this place, which<lb/> has proved fruitless and which I
+                wish to mention<lb/> to <persName>Abba</persName> that she may convey the same to
+                her—<lb/> The articles she desired me to get for her I have very diligently
+                    <sic>enquired</sic> for with the assistance of a friend<lb/> but cannot be
+                procured. I will bear it in mind when<lb/> I get to <placeName>N. Y.</placeName></p>
+            <p rend="indent(1)">On <sic>sunday</sic> we had a tolerable pleast.<lb/> day down
+                    <placeName>James' River</placeName> reach <placeName>Norfolk</placeName> about
+                11 at night<lb/> ate breakfast with <persName>Mr. Sol. Marks</persName>, and took
+                passage<lb/> at 11 on board the Virginia. the prospect of a quick &amp;<lb/>
+                favorable passage was not promising. the wind being</p>
+            <pb n="1V"/>
+            <p>blustering. tho after under way for a few hours the<lb/> wind changed and with the
+                exception of its being cold<lb/> we passd.<add>?</add> a pleasant time. and arrived
+                one hour sooner<lb/> than usual. On <date>Thursday</date> morning at
+                    <add>Hebrew</add> I shall take<lb/> stage for <placeName>Phila.</placeName> from
+                which place I shall write to Mama<lb/> all particulars about family affairs. So
+                    thus<add>?</add> far I have<lb/> opened correspondence with <hi rend="underline"
+                    >you</hi> in detail of my journey—.</p>
+            <p rend="indent(1)">I hope that you and <persName>Meyer</persName> will lend all aid to
+                keep<lb/> matters easy at home. dont let the folks starve for want of<lb/> good
+                poultry. and by all means omit scolding at <persName>Julia</persName>.<lb/> and
+                    <sic>whiping</sic>
+                <persName>George</persName> when they <sic>dont</sic> walk straight.</p>
+            <p rend="indent(1)">Great preparations I seem to be making among the wedding<lb/> folk
+                at <placeName>Norfolk</placeName>.</p>
+            <p rend="indent(1)">You will remember me to one and<lb/> all of the family. With best
+                wishes for yourself.</p>
+            <p rend="indent(8)">Yrs:</p>
+            <p rend="indent(8)">
+                <hi rend="underline">
+                    <persName role="author">Dan. Judah</persName>
+                </hi>
+            </p>
+            <pb n="2V"/>
+            <p rend="align(center)">
+                <addressee>Mr. Isaac Leezer</addressee>
+            </p>
+            <p rend="align(center)">Care of <persName>Dan: Judah &amp; Co.</persName></p>
+            <p rend="align(center)">
+                <placeName>Richmond</placeName>
+            </p>
+        </body>
+    </text>
 </TEI>

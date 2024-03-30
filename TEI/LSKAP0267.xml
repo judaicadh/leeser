@@ -1,674 +1,900 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="unk">Leeser, Isaac</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>LSKAP</repository>
-						<collection>The Arnold and Deanne Kaplan Collection of Early American Judaica</collection>
-						<idno>LSKAP0267</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="unk">Leeser, Isaac</author>
-						<addressee editor="false" attested="yes" accepted="yes"></addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet></placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="" source="" attested="unk"></dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="il_kaplan_20_868_body0001.jpg"></graphic>
-								<graphic url="il_kaplan_20_868_body0002.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="false" paper_type="" size="">letter</material>
-								</support>
-								<extent>2 pages on 1 sheet
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="manuscript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="restricted">
-								<p>Restricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1R"/>
-				<table rows="43" cols="3">
-				<row>
-				<cell><placeName>New York</placeName></cell>
-				<cell><placeName>Philadelphia</placeName></cell>
-				<cell><placeName>Kingston Ja.</placeName></cell>
-				</row>
-				<row>
-				<cell><persName>Mr Moses L. Moses</persName></cell>
-				<cell><persName>Mr. Edward Roget</persName></cell>
-				<cell><persName>Mr Moses Ana</persName></cell>
-				</row>
-				<row>
-				<cell><persName>David Naar</persName></cell>
-				<cell>&#8212;<persName>G. D. Rosengarten</persName></cell>
-				<cell>&#8212;<persName>R. C. Belinfantz</persName></cell>
-				</row>
-				<row>
-				<cell><persName>Benjamin Nathan</persName></cell>
-				<cell>&#8212;<persName>Jacob Ulman</persName>.</cell>
-				<cell><persName>David Samuel</persName></cell>
-				</row>
-				<row>
-				<cell><persName>Seixas Nathan</persName></cell>
-				<cell><placeName>Quebec</placeName> S. C</cell>
-				<cell>&#8212;<persName>Daniel R. Dcosta</persName></cell>
-				</row>
-				<row>
-				<cell><persName>M M Noah</persName> 10</cell>
-				<cell><persName>Mr. J. C. Hart</persName></cell>
-				<cell>&#8212;<persName>E De Pass</persName></cell>
-				</row>
-				<row>
-				<cell><persName>Alexander Plach</persName>&#233;</cell>
-				<cell>&#8212;&#8212;&#8212;&#8212;&#8212;</cell>
-				<cell>&#8212;<persName>M. B. Henriques</persName></cell>
-				</row>
-				<row>
-				<cell><persName>Gustavas I. Pesoa</persName></cell>
-				<cell><placeName>Richmond Va.</placeName></cell>
-				<cell>&#8212;<persName>Abraham Jacobs</persName></cell>
-				</row>
-				<row>
-				<cell><persName>Naphtal Phillips</persName></cell>
-				<cell><persName>Mr. Jacob Ezekiel</persName></cell>
-				<cell>&#8212;<persName>P C. Labatt</persName></cell>
-				</row>
-				<row>
-				<cell><persName>Hyanatt Solomon</persName></cell>
-				<cell>&#8212;<persName>Henry Hyman</persName></cell>
-				<cell>&#8212;<persName>P. Lawrence</persName></cell>
-				</row>
-				<row>
-				<cell><persName>David P. Seixas</persName></cell>
-				<cell>&#8212;<persName>Solomon Hunt</persName></cell>
-				<cell>&#8212;<persName>Abraham Lazarus</persName></cell>
-				</row>
-				<row>
-				<cell><persName>M. B. Seixas</persName></cell>
-				<cell>&#8212;<persName>Abraham Levy</persName></cell>
-				<cell>&#8212;<persName>Solomon Lazarus</persName></cell>
-				</row>
-				<row>
-				<cell><persName>B. L . Simpson</persName></cell>
-				<cell>&#8212;<persName>Isaac A. Levy</persName></cell>
-				<cell>&#8212;<persName>J. P Levy</persName></cell>
-				</row>
-				<row>
-				<cell><persName>Samuel Tobias</persName></cell>
-				<cell>&#8212;<persName>Jacob A. Levy</persName></cell>
-				<cell>&#8212;<persName>Joseph Levy</persName></cell>
-				</row>
-				<row>
-				<cell><persName>Tobias I. Tobias</persName></cell>
-				<cell/>
-				<cell/>
-				</row>
-				<row>
-				<cell><persName>Joel Wolff</persName> <placeName>Petersburg Va</placeName></cell>
-				<cell>&#8212;<persName>Solomon I. Levi</persName></cell>
-				<cell>&#8212;<persName>Edward Lucas</persName> 6</cell>
-				</row>
-				<row>
-				<cell><persName>Ansley Davis</persName></cell>
-				<cell>&#8212;<persName>Jacob Mordecai</persName> 6</cell>
-				<cell>&#8212;<persName>Asher Lyons</persName></cell>
-				</row>
-				<row>
-				<cell><hi rend="underline"><placeName>Philadelphia</placeName></hi> <persName>Goodman Davis</persName></cell>
-				<cell>&#8211;<persName>W. B. Pyle</persName>.</cell>
-				<cell>&#8212;<persName>David Mastra</persName></cell>
-				</row>
-				<row>
-				<cell/>
-				<cell/>
-				<cell><persName>M. M. Morais</persName></cell>
-				</row>
-				<row>
-				<cell><persName>Mr Lewis Allen</persName></cell>
-				<cell>&#8212;<placeName>Savannah</placeName></cell>
-				<cell><persName>Rev. Moses N. Nathan</persName></cell>
-				</row>
-				<row>
-				<cell><persName>Mitchell Aacker</persName></cell>
-				<cell/>
-				<cell/>
-				</row>
-				<row>
-				<cell><persName>Joseph M. Asch</persName></cell>
-				<cell><persName>Mr. Isaac Cohen</persName></cell>
-				<cell><persName>Mr. Moses Sarfaity</persName></cell>
-				</row>
-				<row>
-				<cell><persName>John Barncastle</persName></cell>
-				<cell><persName>Jacob De La Motta</persName></cell>
-				<cell><persName>F. Schloss</persName></cell>
-				</row>
-				<row>
-				<cell><persName>W. Bower</persName></cell>
-				<cell><persName>Levi Hoff</persName></cell>
-				<cell>&#8212;<persName>David M. Sollas</persName></cell>
-				</row>
-				<row>
-				<cell><persName>Zadok A. Davis</persName></cell>
-				<cell>&#8212;<persName>Isaac Mims</persName></cell>
-				<cell>&#8212;<persName>Moses M. Sollas</persName></cell>
-				</row>
-				<row>
-				<cell><persName>Morni H. DeYoung</persName></cell>
-				<cell>&#8212;<persName>M. Myers</persName></cell>
-				<cell>&#8212;<persName>J. N. Vaz</persName></cell>
-				</row>
-				<row>
-				<cell><persName>Abraham Elkin</persName></cell>
-				<cell>&#8212;&#8212;&#8212;&#8212;</cell>
-				<cell>&#8212;&#8212;&#8212;&#8212;</cell>
-				</row>
-				<row>
-				<cell/>
-				<cell><placeName>St. Thomas</placeName></cell>
-				<cell>Teppahannock <add>&#63;</add></cell>
-				</row>
-				<row>
-				<cell><persName>Dr. M. Emanuel</persName> <persName>B. Eytinger</persName></cell>
-				<cell><persName>Mr I Coppe</persName></cell>
-				<cell><persName>Mr. Barnett Moss</persName></cell>
-				</row>
-				<row>
-				<cell><persName>Miss Gratz</persName></cell>
-				<cell><persName>Hy. Gratz</persName> 2</cell>
-				<cell>&#8212;<persName>E. N Correa</persName></cell>
-				</row>
-				<row>
-				<cell><persName>Mr Judah</persName> <persName>L. Hackenburg</persName></cell>
-				<cell>&#8212;<persName>A. I. Levy</persName></cell>
-				<cell>&#8212;&#8212;&#8212;&#8212;</cell>
-				</row>
-				<row>
-				<cell>&#8212;<persName>Abraham Hart</persName> 6</cell>
-				<cell>&#8212;<persName>B. Levy</persName></cell>
-				<cell><placeName>Three Rivers</placeName> L. C.</cell>
-				</row>
-				<row>
-				<cell>&#8212;<persName>Abraham L. Hart</persName></cell>
-				<cell>&#8212;<persName>Isaac Levy</persName></cell>
-				<cell><persName>Mr. S. B. Hart</persName></cell>
-				</row>
-				<row>
-				<cell><persName>Mrs. Rebecca Hart</persName></cell>
-				<cell>&#8212;<persName>Isaac Lindo</persName></cell>
-				<cell/>
-				</row>
-				<row>
-				<cell>&#8212;<persName>R. Hays</persName></cell>
-				<cell><persName>David Lobo</persName></cell>
-				<cell>&#8212;&#8212;&#8212;&#8212;</cell>
-				</row>
-				<row>
-				<cell><persName>Mr. Samuel Lyons</persName></cell>
-				<cell>&#8212;<persName>Elias M. Monsarto</persName></cell>
-				<cell><placeName>Washington DC.</placeName></cell>
-				</row>
-				<row>
-				<cell>&#8212;<persName>Simpson Morris</persName></cell>
-				<cell><persName>A. Pardo</persName></cell>
-				<cell><persName>D M. Monsento</persName></cell>
-				</row>
-				<row>
-				<cell>&#8212;<persName>John Moss</persName>&#44; <persName>Jos. S. Moss</persName></cell>
-				<cell>&#8212;<persName>Abraham Pretto Hy.</persName></cell>
-				<cell><persName>Mr. Philip Haas</persName></cell>
-				</row>
-				<row>
-				<cell>&#8212;<persName>A.C. Peixotto</persName></cell>
-				<cell><persName>Dr. Daniel Pretto</persName></cell>
-				<cell/>
-				</row>
-				<row>
-				<cell><persName>Miss S. C. Peixotto</persName></cell>
-				<cell><persName>Mr. Isaac Pretto</persName></cell>
-				<cell>Stouchstown <placeName>Pa.</placeName></cell>
-				</row>
-				<row>
-				<cell><persName>Mr. David Pesoa</persName></cell> 
-				<cell><persName>B. F. Phillips</persName></cell>
-				<cell> &#45;<persName>A. Rolles</persName>    <placeName>Pa.</placeName></cell>
-				</row>
-				<row>
-				<cell>&#8212;<persName>Isaac Phillips</persName> <placeName>Arch St.</placeName></cell>
-				<cell>&#8212;<persName>S. Rothschild</persName></cell>
-				<cell><persName>Marcus Cauffman</persName></cell>
-				</row>
-				<row>
-				<cell>&#8212;<persName>Isaac Phillips</persName> <placeName>Marshall St.</placeName></cell>
-				<cell>&#8212;<persName>A. Wolff</persName></cell>
-				<cell/>
-				</row>
-				</table>
-			<pb n="1V"/>
-				<table rows="43" cols="3">
-				<row>
-				<cell><placeName>Albermarte Va.</placeName></cell>
-				<cell><placeName>Columbia S. C.</placeName></cell>
-				<cell><placeName>New Orleans</placeName></cell>
-				</row>
-				<row>
-				<cell><persName>Mr. James P. Tyler</persName></cell>
-				<cell><persName>Dr. Thomas Cooper</persName></cell>
-				<cell><persName>Mr. Wm. Florance</persName></cell>
-				</row>
-				<row>
-				<cell/>
-				<cell>&#45;<persName>M. H. DeLeon</persName>.</cell>
-				<cell>&#8212;<persName>Theodore J. Seixas</persName></cell>
-				</row>
-				<row>
-				<cell><placeName>Baltimore Md.</placeName></cell>
-				<cell><persName>Wm. A. Lipman</persName></cell>
-				<cell><placeName>New York</placeName></cell>
-				</row>
-				<row>
-				<cell>&#8212;<persName>J. I. Cohen</persName></cell>
-				<cell><persName>Isaac Lyons</persName></cell>
-				<cell><persName>Mr. M. N. Cardozo</persName></cell>
-				</row>
-				<row>
-				<cell>&#8212;<persName>Solomon Etting</persName></cell>
-				<cell><persName>Alexander Marks</persName></cell>
-				<cell>&#8212;<persName>David Costello</persName></cell>
-				</row>
-				<row>
-				<cell><persName>Miss Abby Judah</persName></cell>
-				<cell>&#8212;<persName>J. D. Mordecai</persName></cell>
-				<cell>&#8212;<persName>B. W. Cohen</persName></cell>
-				</row>
-				<row>
-				<cell>&#8212;<persName>Joseph Osterman</persName></cell>
-				<cell>&#8212;<persName>Henry Nott</persName></cell>
-				<cell>&#8212;<persName>Lewis I. Cohen</persName> <persName>Jacob S. Cohen</persName></cell>
-				</row>
-				<row>
-				<cell>&#8212;<persName>Zalma Rehine</persName> 15.</cell>
-				<cell>&#8212;<persName>Levy Polock</persName></cell>
-				<cell>&#8212;<persName>R. Cromdin</persName>&#8212;<persName>Philip Cohen</persName></cell>
-				</row>
-				<row>
-				<cell/>
-				<cell/>
-				<cell>&#8212;<persName>John M. Davis</persName></cell>
-				</row>
-				<row>
-				<cell><placeName>Beaufort S. C.</placeName></cell>
-				<cell><placeName>Georgetown S. C.</placeName></cell>
-				<cell>&#8212;<persName>Jacob Del Mar</persName></cell>
-				</row>
-				<row>
-				<cell><persName>Mrs. R. Benjamin</persName> 2</cell>
-				<cell/>
-				<cell>&#8212;<persName>David L. Trankler</persName></cell>
-				</row>
-				<row>
-				<cell><persName>Mr S. Benjamin</persName></cell>
-				<cell><persName>Mr. Jacob Cohen</persName></cell>
-				<cell>&#8212;<persName>David Hart</persName></cell>
-				</row>
-				<row>
-				<cell>&#8212;<persName>Marcus Forth</persName></cell>
-				<cell><persName>Solomon Cohen</persName></cell>
-				<cell>&#8212;<persName>John I. Hart</persName></cell>
-				</row>
-				<row>
-				<cell>&#8212;<persName>Moses Goldsmith</persName></cell>
-				<cell>&#8212;<persName>Nathan Emanuel</persName></cell>
-				<cell>&#8212;<persName>Herman Hendricks</persName></cell>
-				</row>
-				<row>
-				<cell>&#8212;<persName>Fieral Jacobs</persName></cell>
-				<cell><persName>Miss &#8212; Joseph</persName></cell>
-				<cell>&#8212;<persName>Messr. Hendricks</persName> &#38; Brothers 4</cell>
-				</row>
-				<row>
-				<cell>&#8212;<persName>Levy Moses</persName></cell>
-				<cell><persName>Dr. A. Lopez</persName></cell>
-				<cell><persName>Mr. David Henriques</persName></cell>
-				</row>
-				<row>
-				<cell/>
-				<cell><persName>Miss Hesse Myers</persName></cell>
-				<cell>&#8212;<persName>E. Henriques</persName></cell>
-				</row>
-				<row>
-				<cell>Bridgetown B<add>&#63;</add>.</cell>
-				<cell/>
-				<cell><persName>George Henriques</persName> 4</cell>
-				</row>
-				<row>
-				<cell/>
-				<cell/>
-				<cell><persName>Moses Henriques</persName></cell>
-				</row>
-				<row>
-				<cell><persName>Mr. Sampson Shannon</persName><add>&#63;</add></cell>
-				<cell/>
-				<cell><persName>Joseph Isaacs</persName></cell>
-				</row>
-				<row>
-				<cell/>
-				<cell><placeName>Liverpool Eng</placeName></cell>
-				<cell>&#8212;<persName>Sampson Isaacs</persName></cell>
-				</row>
-				<row>
-				<cell><placeName>Charleston S. C.</placeName></cell>
-				<cell><persName>Mr. A. W. Hart</persName></cell>
-				<cell>&#8212;<persName>Daniel Jackson</persName></cell>
-				</row>
-				<row>
-				<cell><persName>Mr. Alexander Abrahams</persName></cell>
-				<cell><placeName>Louisville Ky</placeName></cell>
-				<cell>&#8212;<persName>John D. Jackson</persName></cell>
-				</row>
-				<row>
-				<cell/>
-				<cell><persName>Solomon Hart</persName></cell>
-				<cell/>
-				</row>
-				<row>
-				<cell>&#8212;<persName>Jacob Cohen jr</persName></cell>
-				<cell><placeName><sic>Meyerstown</sic> Pa</placeName></cell>
-				<cell>&#8212;<persName>Joseph D. Jackson</persName></cell>
-				</row>
-				<row>
-				<cell><persName>Dr Jacob De La Motta</persName></cell>
-				<cell><persName>Mr. Lyon Semberger</persName></cell>
-				<cell>&#8212;<persName>A. A. Jones</persName></cell>
-				</row>
-				<row>
-				<cell><persName>Mr. Isaac Garriston</persName></cell>
-				<cell><placeName>Millerstown&#44; Pa</placeName></cell>
-				<cell>&#8212;<persName>Joseph L. Joseph</persName> 4</cell>
-				</row>
-				<row>
-				<cell>&#8212;<persName>Nathan Hart</persName></cell>
-				<cell><persName>Mr. Simon Elfelt</persName></cell>
-				<cell>&#8212;<persName>Solmon I. Joseph</persName> 4</cell>
-				</row>
-				<row>
-				<cell>&#8212;<persName>H M Hertz</persName></cell>
-				<cell/>
-				<cell><persName>Jonathen Judah</persName></cell>
-				</row>
-				<row>
-				<cell>&#8212;<persName>H. Holtzheim</persName></cell>
-				<cell><placeName>Montreal</placeName></cell>
-				<cell>&#8212;<persName>Samuel B. Helbert Judah</persName></cell>
-				</row>
-				<row>
-				<cell>&#8212;<persName>Hyman Jacobs</persName></cell>
-				<cell><persName>Mr. D. David</persName></cell>
-				<cell>&#8212;<persName>Samuel N. Judah</persName></cell>
-				</row>
-				<row>
-				<cell>&#8212;<persName>Moses Jacobs</persName></cell>
-				<cell>&#8212;<persName>M. E. David</persName></cell>
-				<cell>&#8212;<persName>Alexander Kursheedt</persName></cell>
-				</row>
-				<row>
-				<cell>&#8212;<persName>D. C. Levy</persName></cell>
-				<cell>&#8212;<persName>A. P. Hart</persName></cell>
-				<cell>&#8212;<persName>J. B. Kursheedt</persName></cell>
-				</row>
-				<row>
-				<cell>&#8212;<persName>L. J. Levy</persName></cell>
-				<cell>&#8212;<persName>B. Hart</persName></cell>
-				<cell>&#8212;<persName>C. S. Lazarus</persName></cell>
-				</row>
-				<row>
-				<cell>&#8212;<persName>Raphael J. Moses</persName> 2.</cell>
-				<cell>&#8212;<persName>Theodore Hart</persName></cell>
-				<cell>&#8212;<persName>Myer Levy</persName></cell>
-				</row>
-				<row>
-				<cell>&#8212;<persName>Abraham</persName> <add>&#63;</add></cell>
-				<cell>&#8212;<persName>M. I. Hays</persName></cell>
-				<cell>&#8212;<persName>Unat H. Levy</persName></cell>
-				</row>
-				<row>
-				<cell>&#8212;<persName>S. Valentine</persName></cell>
-				<cell>&#8212;<persName>Samuel Hart</persName></cell>
-				<cell>&#8212;<persName>Joshua Lopez</persName></cell>
-				</row>
-				<row>
-				<cell>&#8212;<persName>Isaac Woolfe</persName></cell>
-				<cell><persName>Mrs Joseph</persName></cell>
-				<cell>&#8212;<persName>Morland Michell</persName></cell>
-				</row>
-				<row>
-				<cell/>
-				<cell><persName>Mr Jesse Joseph</persName></cell>
-				<cell>&#8212;<persName>Abraham Mitchell</persName></cell>
-				</row>
-				<row>
-				<cell><placeName>Cincinnati Ohio</placeName></cell>
-				<cell>&#8212;<persName>J. H. Joseph</persName></cell>
-				<cell>&#8212;<persName>Lambert Morange</persName></cell>
-				</row>
-				<row>
-				<cell><persName>Mr. M. B. Lann</persName></cell>
-				<cell><persName>Mrs. T. Nichols</persName></cell>
-				<cell>&#8212;<persName>Joshua Moses</persName></cell>
-				</row>
-				<row>
-				<cell><persName>Phineas Moses</persName></cell>
-				<cell>&#8212;<persName>Isaac Valentine</persName></cell>
-				<cell/>
-				</row>
-				</table>
-		</body>
-	</text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="unk">Leeser, Isaac</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>LSKAP</repository>
+                        <collection>The Arnold and Deanne Kaplan Collection of Early American
+                            Judaica</collection>
+                        <idno>LSKAP0267</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="unk">Leeser, Isaac</author>
+                        <addressee accepted="yes" attested="yes" editor="false"/>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet/>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="unk" source="" when=""/>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="il_kaplan_20_868_body0001.jpg"/>
+                                <graphic url="il_kaplan_20_868_body0002.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >letter</material>
+                                </support>
+                                <extent>2 pages on 1 sheet <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="restricted">
+                                <p>Restricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1R"/>
+            <table cols="3" rows="43">
+                <row>
+                    <cell>
+                        <placeName>New York</placeName>
+                    </cell>
+                    <cell>
+                        <placeName>Philadelphia</placeName>
+                    </cell>
+                    <cell>
+                        <placeName>Kingston Ja.</placeName>
+                    </cell>
+                </row>
+                <row>
+                    <cell>
+                        <persName>Mr Moses L. Moses</persName>
+                    </cell>
+                    <cell>
+                        <persName>Mr. Edward Roget</persName>
+                    </cell>
+                    <cell>
+                        <persName>Mr Moses Ana</persName>
+                    </cell>
+                </row>
+                <row>
+                    <cell>
+                        <persName>David Naar</persName>
+                    </cell>
+                    <cell>—<persName>G. D. Rosengarten</persName></cell>
+                    <cell>—<persName>R. C. Belinfantz</persName></cell>
+                </row>
+                <row>
+                    <cell>
+                        <persName>Benjamin Nathan</persName>
+                    </cell>
+                    <cell>—<persName>Jacob Ulman</persName>.</cell>
+                    <cell>
+                        <persName>David Samuel</persName>
+                    </cell>
+                </row>
+                <row>
+                    <cell>
+                        <persName>Seixas Nathan</persName>
+                    </cell>
+                    <cell><placeName>Quebec</placeName> S. C</cell>
+                    <cell>—<persName>Daniel R. Dcosta</persName></cell>
+                </row>
+                <row>
+                    <cell><persName>M M Noah</persName> 10</cell>
+                    <cell>
+                        <persName>Mr. J. C. Hart</persName>
+                    </cell>
+                    <cell>—<persName>E De Pass</persName></cell>
+                </row>
+                <row>
+                    <cell><persName>Alexander Plach</persName>é</cell>
+                    <cell>—————</cell>
+                    <cell>—<persName>M. B. Henriques</persName></cell>
+                </row>
+                <row>
+                    <cell>
+                        <persName>Gustavas I. Pesoa</persName>
+                    </cell>
+                    <cell>
+                        <placeName>Richmond Va.</placeName>
+                    </cell>
+                    <cell>—<persName>Abraham Jacobs</persName></cell>
+                </row>
+                <row>
+                    <cell>
+                        <persName>Naphtal Phillips</persName>
+                    </cell>
+                    <cell>
+                        <persName>Mr. Jacob Ezekiel</persName>
+                    </cell>
+                    <cell>—<persName>P C. Labatt</persName></cell>
+                </row>
+                <row>
+                    <cell>
+                        <persName>Hyanatt Solomon</persName>
+                    </cell>
+                    <cell>—<persName>Henry Hyman</persName></cell>
+                    <cell>—<persName>P. Lawrence</persName></cell>
+                </row>
+                <row>
+                    <cell>
+                        <persName>David P. Seixas</persName>
+                    </cell>
+                    <cell>—<persName>Solomon Hunt</persName></cell>
+                    <cell>—<persName>Abraham Lazarus</persName></cell>
+                </row>
+                <row>
+                    <cell>
+                        <persName>M. B. Seixas</persName>
+                    </cell>
+                    <cell>—<persName>Abraham Levy</persName></cell>
+                    <cell>—<persName>Solomon Lazarus</persName></cell>
+                </row>
+                <row>
+                    <cell>
+                        <persName>B. L . Simpson</persName>
+                    </cell>
+                    <cell>—<persName>Isaac A. Levy</persName></cell>
+                    <cell>—<persName>J. P Levy</persName></cell>
+                </row>
+                <row>
+                    <cell>
+                        <persName>Samuel Tobias</persName>
+                    </cell>
+                    <cell>—<persName>Jacob A. Levy</persName></cell>
+                    <cell>—<persName>Joseph Levy</persName></cell>
+                </row>
+                <row>
+                    <cell>
+                        <persName>Tobias I. Tobias</persName>
+                    </cell>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>
+                        <persName>Joel Wolff</persName>
+                        <placeName>Petersburg Va</placeName>
+                    </cell>
+                    <cell>—<persName>Solomon I. Levi</persName></cell>
+                    <cell>—<persName>Edward Lucas</persName> 6</cell>
+                </row>
+                <row>
+                    <cell>
+                        <persName>Ansley Davis</persName>
+                    </cell>
+                    <cell>—<persName>Jacob Mordecai</persName> 6</cell>
+                    <cell>—<persName>Asher Lyons</persName></cell>
+                </row>
+                <row>
+                    <cell>
+                        <hi rend="underline">
+                            <placeName>Philadelphia</placeName>
+                        </hi>
+                        <persName>Goodman Davis</persName>
+                    </cell>
+                    <cell>–<persName>W. B. Pyle</persName>.</cell>
+                    <cell>—<persName>David Mastra</persName></cell>
+                </row>
+                <row>
+                    <cell/>
+                    <cell/>
+                    <cell>
+                        <persName>M. M. Morais</persName>
+                    </cell>
+                </row>
+                <row>
+                    <cell>
+                        <persName>Mr Lewis Allen</persName>
+                    </cell>
+                    <cell>—<placeName>Savannah</placeName></cell>
+                    <cell>
+                        <persName>Rev. Moses N. Nathan</persName>
+                    </cell>
+                </row>
+                <row>
+                    <cell>
+                        <persName>Mitchell Aacker</persName>
+                    </cell>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>
+                        <persName>Joseph M. Asch</persName>
+                    </cell>
+                    <cell>
+                        <persName>Mr. Isaac Cohen</persName>
+                    </cell>
+                    <cell>
+                        <persName>Mr. Moses Sarfaity</persName>
+                    </cell>
+                </row>
+                <row>
+                    <cell>
+                        <persName>John Barncastle</persName>
+                    </cell>
+                    <cell>
+                        <persName>Jacob De La Motta</persName>
+                    </cell>
+                    <cell>
+                        <persName>F. Schloss</persName>
+                    </cell>
+                </row>
+                <row>
+                    <cell>
+                        <persName>W. Bower</persName>
+                    </cell>
+                    <cell>
+                        <persName>Levi Hoff</persName>
+                    </cell>
+                    <cell>—<persName>David M. Sollas</persName></cell>
+                </row>
+                <row>
+                    <cell>
+                        <persName>Zadok A. Davis</persName>
+                    </cell>
+                    <cell>—<persName>Isaac Mims</persName></cell>
+                    <cell>—<persName>Moses M. Sollas</persName></cell>
+                </row>
+                <row>
+                    <cell>
+                        <persName>Morni H. DeYoung</persName>
+                    </cell>
+                    <cell>—<persName>M. Myers</persName></cell>
+                    <cell>—<persName>J. N. Vaz</persName></cell>
+                </row>
+                <row>
+                    <cell>
+                        <persName>Abraham Elkin</persName>
+                    </cell>
+                    <cell>————</cell>
+                    <cell>————</cell>
+                </row>
+                <row>
+                    <cell/>
+                    <cell>
+                        <placeName>St. Thomas</placeName>
+                    </cell>
+                    <cell>Teppahannock <add>?</add></cell>
+                </row>
+                <row>
+                    <cell>
+                        <persName>Dr. M. Emanuel</persName>
+                        <persName>B. Eytinger</persName>
+                    </cell>
+                    <cell>
+                        <persName>Mr I Coppe</persName>
+                    </cell>
+                    <cell>
+                        <persName>Mr. Barnett Moss</persName>
+                    </cell>
+                </row>
+                <row>
+                    <cell>
+                        <persName>Miss Gratz</persName>
+                    </cell>
+                    <cell><persName>Hy. Gratz</persName> 2</cell>
+                    <cell>—<persName>E. N Correa</persName></cell>
+                </row>
+                <row>
+                    <cell>
+                        <persName>Mr Judah</persName>
+                        <persName>L. Hackenburg</persName>
+                    </cell>
+                    <cell>—<persName>A. I. Levy</persName></cell>
+                    <cell>————</cell>
+                </row>
+                <row>
+                    <cell>—<persName>Abraham Hart</persName> 6</cell>
+                    <cell>—<persName>B. Levy</persName></cell>
+                    <cell><placeName>Three Rivers</placeName> L. C.</cell>
+                </row>
+                <row>
+                    <cell>—<persName>Abraham L. Hart</persName></cell>
+                    <cell>—<persName>Isaac Levy</persName></cell>
+                    <cell>
+                        <persName>Mr. S. B. Hart</persName>
+                    </cell>
+                </row>
+                <row>
+                    <cell>
+                        <persName>Mrs. Rebecca Hart</persName>
+                    </cell>
+                    <cell>—<persName>Isaac Lindo</persName></cell>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>—<persName>R. Hays</persName></cell>
+                    <cell>
+                        <persName>David Lobo</persName>
+                    </cell>
+                    <cell>————</cell>
+                </row>
+                <row>
+                    <cell>
+                        <persName>Mr. Samuel Lyons</persName>
+                    </cell>
+                    <cell>—<persName>Elias M. Monsarto</persName></cell>
+                    <cell>
+                        <placeName>Washington DC.</placeName>
+                    </cell>
+                </row>
+                <row>
+                    <cell>—<persName>Simpson Morris</persName></cell>
+                    <cell>
+                        <persName>A. Pardo</persName>
+                    </cell>
+                    <cell>
+                        <persName>D M. Monsento</persName>
+                    </cell>
+                </row>
+                <row>
+                    <cell>—<persName>John Moss</persName>, <persName>Jos. S. Moss</persName></cell>
+                    <cell>—<persName>Abraham Pretto Hy.</persName></cell>
+                    <cell>
+                        <persName>Mr. Philip Haas</persName>
+                    </cell>
+                </row>
+                <row>
+                    <cell>—<persName>A.C. Peixotto</persName></cell>
+                    <cell>
+                        <persName>Dr. Daniel Pretto</persName>
+                    </cell>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>
+                        <persName>Miss S. C. Peixotto</persName>
+                    </cell>
+                    <cell>
+                        <persName>Mr. Isaac Pretto</persName>
+                    </cell>
+                    <cell>Stouchstown <placeName>Pa.</placeName></cell>
+                </row>
+                <row>
+                    <cell>
+                        <persName>Mr. David Pesoa</persName>
+                    </cell>
+                    <cell>
+                        <persName>B. F. Phillips</persName>
+                    </cell>
+                    <cell> -<persName>A. Rolles</persName>
+                        <placeName>Pa.</placeName></cell>
+                </row>
+                <row>
+                    <cell>—<persName>Isaac Phillips</persName>
+                        <placeName>Arch St.</placeName></cell>
+                    <cell>—<persName>S. Rothschild</persName></cell>
+                    <cell>
+                        <persName>Marcus Cauffman</persName>
+                    </cell>
+                </row>
+                <row>
+                    <cell>—<persName>Isaac Phillips</persName>
+                        <placeName>Marshall St.</placeName></cell>
+                    <cell>—<persName>A. Wolff</persName></cell>
+                    <cell/>
+                </row>
+            </table>
+            <pb n="1V"/>
+            <table cols="3" rows="43">
+                <row>
+                    <cell>
+                        <placeName>Albermarte Va.</placeName>
+                    </cell>
+                    <cell>
+                        <placeName>Columbia S. C.</placeName>
+                    </cell>
+                    <cell>
+                        <placeName>New Orleans</placeName>
+                    </cell>
+                </row>
+                <row>
+                    <cell>
+                        <persName>Mr. James P. Tyler</persName>
+                    </cell>
+                    <cell>
+                        <persName>Dr. Thomas Cooper</persName>
+                    </cell>
+                    <cell>
+                        <persName>Mr. Wm. Florance</persName>
+                    </cell>
+                </row>
+                <row>
+                    <cell/>
+                    <cell>-<persName>M. H. DeLeon</persName>.</cell>
+                    <cell>—<persName>Theodore J. Seixas</persName></cell>
+                </row>
+                <row>
+                    <cell>
+                        <placeName>Baltimore Md.</placeName>
+                    </cell>
+                    <cell>
+                        <persName>Wm. A. Lipman</persName>
+                    </cell>
+                    <cell>
+                        <placeName>New York</placeName>
+                    </cell>
+                </row>
+                <row>
+                    <cell>—<persName>J. I. Cohen</persName></cell>
+                    <cell>
+                        <persName>Isaac Lyons</persName>
+                    </cell>
+                    <cell>
+                        <persName>Mr. M. N. Cardozo</persName>
+                    </cell>
+                </row>
+                <row>
+                    <cell>—<persName>Solomon Etting</persName></cell>
+                    <cell>
+                        <persName>Alexander Marks</persName>
+                    </cell>
+                    <cell>—<persName>David Costello</persName></cell>
+                </row>
+                <row>
+                    <cell>
+                        <persName>Miss Abby Judah</persName>
+                    </cell>
+                    <cell>—<persName>J. D. Mordecai</persName></cell>
+                    <cell>—<persName>B. W. Cohen</persName></cell>
+                </row>
+                <row>
+                    <cell>—<persName>Joseph Osterman</persName></cell>
+                    <cell>—<persName>Henry Nott</persName></cell>
+                    <cell>—<persName>Lewis I. Cohen</persName>
+                        <persName>Jacob S. Cohen</persName></cell>
+                </row>
+                <row>
+                    <cell>—<persName>Zalma Rehine</persName> 15.</cell>
+                    <cell>—<persName>Levy Polock</persName></cell>
+                    <cell>—<persName>R. Cromdin</persName>—<persName>Philip Cohen</persName></cell>
+                </row>
+                <row>
+                    <cell/>
+                    <cell/>
+                    <cell>—<persName>John M. Davis</persName></cell>
+                </row>
+                <row>
+                    <cell>
+                        <placeName>Beaufort S. C.</placeName>
+                    </cell>
+                    <cell>
+                        <placeName>Georgetown S. C.</placeName>
+                    </cell>
+                    <cell>—<persName>Jacob Del Mar</persName></cell>
+                </row>
+                <row>
+                    <cell><persName>Mrs. R. Benjamin</persName> 2</cell>
+                    <cell/>
+                    <cell>—<persName>David L. Trankler</persName></cell>
+                </row>
+                <row>
+                    <cell>
+                        <persName>Mr S. Benjamin</persName>
+                    </cell>
+                    <cell>
+                        <persName>Mr. Jacob Cohen</persName>
+                    </cell>
+                    <cell>—<persName>David Hart</persName></cell>
+                </row>
+                <row>
+                    <cell>—<persName>Marcus Forth</persName></cell>
+                    <cell>
+                        <persName>Solomon Cohen</persName>
+                    </cell>
+                    <cell>—<persName>John I. Hart</persName></cell>
+                </row>
+                <row>
+                    <cell>—<persName>Moses Goldsmith</persName></cell>
+                    <cell>—<persName>Nathan Emanuel</persName></cell>
+                    <cell>—<persName>Herman Hendricks</persName></cell>
+                </row>
+                <row>
+                    <cell>—<persName>Fieral Jacobs</persName></cell>
+                    <cell>
+                        <persName>Miss — Joseph</persName>
+                    </cell>
+                    <cell>—<persName>Messr. Hendricks</persName> &amp; Brothers 4</cell>
+                </row>
+                <row>
+                    <cell>—<persName>Levy Moses</persName></cell>
+                    <cell>
+                        <persName>Dr. A. Lopez</persName>
+                    </cell>
+                    <cell>
+                        <persName>Mr. David Henriques</persName>
+                    </cell>
+                </row>
+                <row>
+                    <cell/>
+                    <cell>
+                        <persName>Miss Hesse Myers</persName>
+                    </cell>
+                    <cell>—<persName>E. Henriques</persName></cell>
+                </row>
+                <row>
+                    <cell>Bridgetown B<add>?</add>.</cell>
+                    <cell/>
+                    <cell><persName>George Henriques</persName> 4</cell>
+                </row>
+                <row>
+                    <cell/>
+                    <cell/>
+                    <cell>
+                        <persName>Moses Henriques</persName>
+                    </cell>
+                </row>
+                <row>
+                    <cell>
+                        <persName>Mr. Sampson Shannon</persName>
+                        <add>?</add>
+                    </cell>
+                    <cell/>
+                    <cell>
+                        <persName>Joseph Isaacs</persName>
+                    </cell>
+                </row>
+                <row>
+                    <cell/>
+                    <cell>
+                        <placeName>Liverpool Eng</placeName>
+                    </cell>
+                    <cell>—<persName>Sampson Isaacs</persName></cell>
+                </row>
+                <row>
+                    <cell>
+                        <placeName>Charleston S. C.</placeName>
+                    </cell>
+                    <cell>
+                        <persName>Mr. A. W. Hart</persName>
+                    </cell>
+                    <cell>—<persName>Daniel Jackson</persName></cell>
+                </row>
+                <row>
+                    <cell>
+                        <persName>Mr. Alexander Abrahams</persName>
+                    </cell>
+                    <cell>
+                        <placeName>Louisville Ky</placeName>
+                    </cell>
+                    <cell>—<persName>John D. Jackson</persName></cell>
+                </row>
+                <row>
+                    <cell/>
+                    <cell>
+                        <persName>Solomon Hart</persName>
+                    </cell>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>—<persName>Jacob Cohen jr</persName></cell>
+                    <cell>
+                        <placeName><sic>Meyerstown</sic> Pa</placeName>
+                    </cell>
+                    <cell>—<persName>Joseph D. Jackson</persName></cell>
+                </row>
+                <row>
+                    <cell>
+                        <persName>Dr Jacob De La Motta</persName>
+                    </cell>
+                    <cell>
+                        <persName>Mr. Lyon Semberger</persName>
+                    </cell>
+                    <cell>—<persName>A. A. Jones</persName></cell>
+                </row>
+                <row>
+                    <cell>
+                        <persName>Mr. Isaac Garriston</persName>
+                    </cell>
+                    <cell>
+                        <placeName>Millerstown, Pa</placeName>
+                    </cell>
+                    <cell>—<persName>Joseph L. Joseph</persName> 4</cell>
+                </row>
+                <row>
+                    <cell>—<persName>Nathan Hart</persName></cell>
+                    <cell>
+                        <persName>Mr. Simon Elfelt</persName>
+                    </cell>
+                    <cell>—<persName>Solmon I. Joseph</persName> 4</cell>
+                </row>
+                <row>
+                    <cell>—<persName>H M Hertz</persName></cell>
+                    <cell/>
+                    <cell>
+                        <persName>Jonathen Judah</persName>
+                    </cell>
+                </row>
+                <row>
+                    <cell>—<persName>H. Holtzheim</persName></cell>
+                    <cell>
+                        <placeName>Montreal</placeName>
+                    </cell>
+                    <cell>—<persName>Samuel B. Helbert Judah</persName></cell>
+                </row>
+                <row>
+                    <cell>—<persName>Hyman Jacobs</persName></cell>
+                    <cell>
+                        <persName>Mr. D. David</persName>
+                    </cell>
+                    <cell>—<persName>Samuel N. Judah</persName></cell>
+                </row>
+                <row>
+                    <cell>—<persName>Moses Jacobs</persName></cell>
+                    <cell>—<persName>M. E. David</persName></cell>
+                    <cell>—<persName>Alexander Kursheedt</persName></cell>
+                </row>
+                <row>
+                    <cell>—<persName>D. C. Levy</persName></cell>
+                    <cell>—<persName>A. P. Hart</persName></cell>
+                    <cell>—<persName>J. B. Kursheedt</persName></cell>
+                </row>
+                <row>
+                    <cell>—<persName>L. J. Levy</persName></cell>
+                    <cell>—<persName>B. Hart</persName></cell>
+                    <cell>—<persName>C. S. Lazarus</persName></cell>
+                </row>
+                <row>
+                    <cell>—<persName>Raphael J. Moses</persName> 2.</cell>
+                    <cell>—<persName>Theodore Hart</persName></cell>
+                    <cell>—<persName>Myer Levy</persName></cell>
+                </row>
+                <row>
+                    <cell>—<persName>Abraham</persName>
+                        <add>?</add></cell>
+                    <cell>—<persName>M. I. Hays</persName></cell>
+                    <cell>—<persName>Unat H. Levy</persName></cell>
+                </row>
+                <row>
+                    <cell>—<persName>S. Valentine</persName></cell>
+                    <cell>—<persName>Samuel Hart</persName></cell>
+                    <cell>—<persName>Joshua Lopez</persName></cell>
+                </row>
+                <row>
+                    <cell>—<persName>Isaac Woolfe</persName></cell>
+                    <cell>
+                        <persName>Mrs Joseph</persName>
+                    </cell>
+                    <cell>—<persName>Morland Michell</persName></cell>
+                </row>
+                <row>
+                    <cell/>
+                    <cell>
+                        <persName>Mr Jesse Joseph</persName>
+                    </cell>
+                    <cell>—<persName>Abraham Mitchell</persName></cell>
+                </row>
+                <row>
+                    <cell>
+                        <placeName>Cincinnati Ohio</placeName>
+                    </cell>
+                    <cell>—<persName>J. H. Joseph</persName></cell>
+                    <cell>—<persName>Lambert Morange</persName></cell>
+                </row>
+                <row>
+                    <cell>
+                        <persName>Mr. M. B. Lann</persName>
+                    </cell>
+                    <cell>
+                        <persName>Mrs. T. Nichols</persName>
+                    </cell>
+                    <cell>—<persName>Joshua Moses</persName></cell>
+                </row>
+                <row>
+                    <cell>
+                        <persName>Phineas Moses</persName>
+                    </cell>
+                    <cell>—<persName>Isaac Valentine</persName></cell>
+                    <cell/>
+                </row>
+            </table>
+        </body>
+    </text>
 </TEI>

@@ -1,274 +1,270 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
-        <fileDesc>
-            <titleStmt>
-                <title>[no title given]</title>
-                <author attested="yes" accepted="yes" signature="yes">Kalisch, Isidor</author>
-                <editor/>
-                <sponsor/>
-                <funder/>
-                <principal/>
-                <respStmt>
-                    <resp/>
-                    <name/>
-                </respStmt>
-            </titleStmt>
-            <editionStmt>
-                <edition/>
-                <respStmt>
-                    <resp/>
-                    <name/>
-                </respStmt>
-            </editionStmt>
-            <extent>[information about file size goes here, information about extent of physical
-                item comes later]</extent>
-            <publicationStmt>
-                <publisher>Unpublished manuscript</publisher>
-            </publicationStmt>
-            <seriesStmt>
-                <p>Not part of a series</p>
-            </seriesStmt>
-            <notesStmt>
-                <note/>
-            </notesStmt>
-            <sourceDesc>
-                <biblStruct>
-                    <!-- catalog entry goes here -->
-                    <monogr>
-                        <imprint>
-                            <dateLet/>
-                        </imprint>
-                    </monogr>
-                </biblStruct>
-                <msDesc>
-                    <msIdentifier>
-                        <country>USA</country>
-                        <region>NY</region>
-                        <settlement>New York</settlement>
-                        <institution>Jewish Theological Seminary</institution>
-                        <repository/>
-                        <collection>The Abraham and Deborah Karp Collection of Early American Judaica at the Library of the Jewish Theological Seminary of America</collection>
-                        <idno/>
-                        <altIdentifier>
-                            <idno/>
-                        </altIdentifier>
-                        <msName/>
-                    </msIdentifier>
-                    <head/>
-                    <letHeading>
-                        <author attested="yes" accepted="yes" signature="yes">Kalisch,
-                            Isidor</author>
-                        <addressee editor="false" attested="yes" accepted="yes"/>
-                        <deliverer/>
-                        <respStmt>
-                            <resp/>
-                            <name/>
-                        </respStmt>
-                        <placeLet>Cleveland, OH</placeLet>
-                        <placeRec>Philadelphia, PA</placeRec>
-                        <dateLet when="1851-02" source="" attested="yes">6 February 1851</dateLet>
-                    </letHeading>
-                    <msContents>
-                        <msItem>
-                            <author/>
-                            <editor/>
-                            <respStmt>
-                                <resp/>
-                                <name/>
-                            </respStmt>
-                            <title/>
-                            <decoNote/>
-                            <listBibl>
-                                <bibl/>
-                            </listBibl>
-                            <filiation/>
-                            <textLang/>
-                            <figure>
-                                <graphic url=""/>
-                            </figure>
-                        </msItem>
-                    </msContents>
-                    <physDesc>
-                        <objectDesc>
-                            <supportDesc>
-                                <support>
-                                    <material color="" lined="false" paper_type="" size="Letter">letter</material>
-                                </support>
-                                <extent>2 pages on 2 sheets <dimensions/>
-                                </extent>
-                                <foliation/>
-                                <collation/>
-                                <condition fragment="false"/>
-                            </supportDesc>
-                            <layoutDesc>
-                                <layout/>
-                            </layoutDesc>
-                        </objectDesc>
-                        <handDesc script="manuscript">
-                            <handNote/>
-                        </handDesc>
-                        <decoDesc>
-                            <decoNote/>
-                        </decoDesc>
-                        <additions/>
-                        <bindingDesc>
-                            <binding>
-                                <decoNote/>
-                            </binding>
-                        </bindingDesc>
-                        <sealDesc>
-                            <seal>
-                                <p/>
-                            </seal>
-                        </sealDesc>
-                        <accMat/>
-                        <envDesc occ="false"/>
-                    </physDesc>
-                    <history>
-                        <origin/>
-                        <provenance/>
-                        <acquisition/>
-                    </history>
-                    <additional>
-                        <adminInfo>
-                            <recordHist>
-                                <source/>
-                                <change/>
-                            </recordHist>
-                            <availability status="free">
-                                <p>Unrestricted</p>
-                            </availability>
-                            <custodialHist>
-                                <custEvent/>
-                            </custodialHist>
-                        </adminInfo>
-                        <surrogates/>
-                        <listBibl>
-                            <bibl/>
-                        </listBibl>
-                    </additional>
-                    <msPart>
-                        <altIdentifier>
-                            <idno/>
-                        </altIdentifier>
-                    </msPart>
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <projectDesc>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+
+    <fileDesc>
+      <titleStmt>
+        <title>[no title given]</title>
+        <author accepted="yes" attested="yes" signature="yes">Kalisch, Isidor</author>
+        <editor/>
+        <sponsor/>
+        <funder/>
+        <principal/>
+        <respStmt>
+          <resp/>
+          <name/>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+        <respStmt>
+          <resp/>
+          <name/>
+        </respStmt>
+      </editionStmt>
+      <extent>[information about file size goes here, information about extent of physical item
+        comes later]</extent>
+      <publicationStmt>
+        <publisher>Unpublished manuscript</publisher>
+      </publicationStmt>
+      <seriesStmt>
+        <p>Not part of a series</p>
+      </seriesStmt>
+      <notesStmt>
+        <note/>
+      </notesStmt>
+      <sourceDesc>
+        <biblStruct>
+          <!-- catalog entry goes here -->
+          <monogr>
+            <imprint>
+              <dateLet/>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <msDesc>
+          <msIdentifier>
+            <country>USA</country>
+            <region>NY</region>
+            <settlement>New York</settlement>
+            <institution>Jewish Theological Seminary</institution>
+            <repository/>
+            <collection>The Abraham and Deborah Karp Collection of Early American Judaica at the
+              Library of the Jewish Theological Seminary of America</collection>
+            <idno/>
+            <altIdentifier>
+              <idno/>
+            </altIdentifier>
+            <msName/>
+          </msIdentifier>
+          <head/>
+          <letHeading>
+            <author accepted="yes" attested="yes" signature="yes">Kalisch, Isidor</author>
+            <addressee accepted="yes" attested="yes" editor="false"/>
+            <deliverer/>
+            <respStmt>
+              <resp/>
+              <name/>
+            </respStmt>
+            <placeLet>Cleveland, OH</placeLet>
+            <placeRec>Philadelphia, PA</placeRec>
+            <dateLet attested="yes" source="" when="1851-02">6 February 1851</dateLet>
+          </letHeading>
+          <msContents>
+            <msItem>
+              <author/>
+              <editor/>
+              <respStmt>
+                <resp/>
+                <name/>
+              </respStmt>
+              <title/>
+              <decoNote/>
+              <listBibl>
+                <bibl/>
+              </listBibl>
+              <filiation/>
+              <textLang/>
+              <figure>
+                <graphic url=""/>
+              </figure>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material color="" lined="false" paper_type="" size="Letter">letter</material>
+                </support>
+                <extent>2 pages on 2 sheets <dimensions/>
+                </extent>
+                <foliation/>
+                <collation/>
+                <condition fragment="false"/>
+              </supportDesc>
+              <layoutDesc>
+                <layout/>
+              </layoutDesc>
+            </objectDesc>
+            <handDesc script="manuscript">
+              <handNote/>
+            </handDesc>
+            <decoDesc>
+              <decoNote/>
+            </decoDesc>
+            <additions/>
+            <bindingDesc>
+              <binding>
+                <decoNote/>
+              </binding>
+            </bindingDesc>
+            <sealDesc>
+              <seal>
                 <p/>
-            </projectDesc>
-            <samplingDecl>
-                <p/>
-            </samplingDecl>
-            <editorialDecl>
-                <correction>
-                    <p/>
-                </correction>
-                <normalization>
-                    <p/>
-                </normalization>
-                <quotation>
-                    <p/>
-                </quotation>
-                <hyphenation>
-                    <p/>
-                </hyphenation>
-                <segmentation>
-                    <p/>
-                </segmentation>
-                <stdVals>
-                    <p/>
-                </stdVals>
-                <interpretation>
-                    <p/>
-                </interpretation>
-            </editorialDecl>
-            <tagsDecl>
-                <rendition/>
-                <namespace name="http://www.tei-c.org/ns/1.0">
-                    <tagUsage gi=""/>
-                </namespace>
-            </tagsDecl>
-            <refsDecl>
-                <cRefPattern matchPattern="" replacementPattern=""/>
-            </refsDecl>
-            <refsDecl>
-                <refState unit=""/>
-            </refsDecl>
-            <classDecl>
-                <taxonomy>
-                    <category>
-                        <catDesc/>
-                    </category>
-                </taxonomy>
-            </classDecl>
-            <appInfo>
-                <application ident="" version="">
-                    <desc/>
-                    <label/>
-                </application>
-            </appInfo>
-        </encodingDesc>
-        <profileDesc>
-            <creation/>
-            <langUsage>
-                <language ident="en">English</language>
-            </langUsage>
-            <textClass>
-                <keywords scheme="unknown">
-                    <list>
-                        <item/>
-                        <item/>
-                    </list>
-                </keywords>
-                <classCode scheme=""/>
-                <catRef/>
-            </textClass>
-        </profileDesc>
-        <revisionDesc>
-            <change/>
-        </revisionDesc>
-    </teiHeader>
-    <text>
-        <body>
-
-            <pb n="1"/>
-            <p rend="align(right)"><placeName>Cleveland&#44;</placeName> O. <date>February 6th 5611</date> AM</p>
-            <p>Dear <hi rend="underline">friend</hi>.</p>
-
-            <p rend="indent(1)">Enclosed you will find a copy of my fir<add>st</add><lb/> biblical&#8211;exegetical
-                prelection. The record prelection<lb/> which I intend to let you know &#40;to send
-                you&#41;<lb/> next month is of far greater interest. In this<lb/> second prelection
-                I endeavoured to describe exhaust<lb/>
-                <del>not only</del> the meaning of heaven not only in t<add>he</add><lb/> opinion of
-                the ancient people&#44; but I also endeavo<add>ur</add><lb/> to prove by logical
-                conclusions based on upon the<lb/> newest physical and astronomical observation<lb/>
-                how the general d&#233;luge&#44; of which the bible<lb/> speaks&#44; <del>happen</del>
-                took place.<lb/> I believe that such essays are very suitable for<lb/> publication
-                and the public will like to read the<add>m</add><lb/> With <hi rend="underline"
-                    >kindest regards</hi>&#44; I am <hi rend="underline">as ever</hi><lb/> your <hi
-                    rend="underline">friend</hi><lb/>
-                <persName role="author">Isidor Kalisch</persName><lb/> On the opposite side of the
-                letter is a part<lb/> of one of <persName role="author">Kalisch&#39;s</persName>
-                essays&#44; dealing with the<lb/> mechanics of astronomical phenómenons.<lb/> He
-                tries&#44; <del>in a layman&#39;s way</del> to show why<lb/> the 7 days of creation
-                should be translated as<lb/> 7 epochs or periods<lb/> [?]<lb/>
-            </p>
-
-            <pb n="2"/>
-            <p>Biblic&#8211;exegetical prelections by <persName role="author">Isidor
-                    Kalisch</persName> Rab<lb/> He says that the Hebrew language <del>is really
-                    a</del> should be considered<lb/>
-                <del>UR</del> &#40;first&#41; Basic language. He compares certain Hebrew words<lb/>
-                with the same words of modern languages<lb/>
-            </p>
-            <p rend="indent(1)">This essay is likely to be found in the<lb/> Occident<lb/></p> 
-            <p rend="align(right)">Vol IX No 1&#8212;April
-                    18<add>&#63;</add><lb/> p. 34 ff<lb/>
-            </p>
-
-        </body>
-    </text>
+              </seal>
+            </sealDesc>
+            <accMat/>
+            <envDesc occ="false"/>
+          </physDesc>
+          <history>
+            <origin/>
+            <provenance/>
+            <acquisition/>
+          </history>
+          <additional>
+            <adminInfo>
+              <recordHist>
+                <source/>
+                <change/>
+              </recordHist>
+              <availability status="free">
+                <p>Unrestricted</p>
+              </availability>
+              <custodialHist>
+                <custEvent/>
+              </custodialHist>
+            </adminInfo>
+            <surrogates/>
+            <listBibl>
+              <bibl/>
+            </listBibl>
+          </additional>
+          <msPart>
+            <altIdentifier>
+              <idno/>
+            </altIdentifier>
+          </msPart>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p/>
+      </projectDesc>
+      <samplingDecl>
+        <p/>
+      </samplingDecl>
+      <editorialDecl>
+        <correction>
+          <p/>
+        </correction>
+        <normalization>
+          <p/>
+        </normalization>
+        <quotation>
+          <p/>
+        </quotation>
+        <hyphenation>
+          <p/>
+        </hyphenation>
+        <segmentation>
+          <p/>
+        </segmentation>
+        <stdVals>
+          <p/>
+        </stdVals>
+        <interpretation>
+          <p/>
+        </interpretation>
+      </editorialDecl>
+      <tagsDecl>
+        <rendition/>
+        <namespace name="http://www.tei-c.org/ns/1.0">
+          <tagUsage gi=""/>
+        </namespace>
+      </tagsDecl>
+      <refsDecl>
+        <cRefPattern matchPattern="" replacementPattern=""/>
+      </refsDecl>
+      <refsDecl>
+        <refState unit=""/>
+      </refsDecl>
+      <classDecl>
+        <taxonomy>
+          <category>
+            <catDesc/>
+          </category>
+        </taxonomy>
+      </classDecl>
+      <appInfo>
+        <application ident="" version="">
+          <desc/>
+          <label/>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <profileDesc>
+      <creation/>
+      <langUsage>
+        <language ident="en">English</language>
+      </langUsage>
+      <textClass>
+        <keywords scheme="unknown">
+          <list>
+            <item/>
+            <item/>
+          </list>
+        </keywords>
+        <classCode scheme=""/>
+        <catRef/>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change/>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <pb n="1"/>
+      <p rend="align(right)"><placeName>Cleveland,</placeName> O. <date>February 6th 5611</date>
+        AM</p>
+      <p>Dear <hi rend="underline">friend</hi>.</p>
+      <p rend="indent(1)">Enclosed you will find a copy of my fir<add>st</add><lb/>
+        biblical–exegetical prelection. The record prelection<lb/> which I intend to let you know
+        (to send you)<lb/> next month is of far greater interest. In this<lb/> second prelection I
+        endeavoured to describe exhaust<lb/>
+        <del>not only</del> the meaning of heaven not only in t<add>he</add><lb/> opinion of the
+        ancient people, but I also endeavo<add>ur</add><lb/> to prove by logical conclusions based
+        on upon the<lb/> newest physical and astronomical observation<lb/> how the general déluge,
+        of which the bible<lb/> speaks, <del>happen</del> took place.<lb/> I believe that such
+        essays are very suitable for<lb/> publication and the public will like to read
+          the<add>m</add><lb/> With <hi rend="underline">kindest regards</hi>, I am <hi
+          rend="underline">as ever</hi><lb/> your <hi rend="underline">friend</hi><lb/>
+        <persName role="author">Isidor Kalisch</persName><lb/> On the opposite side of the letter is
+        a part<lb/> of one of <persName role="author">Kalisch's</persName> essays, dealing with
+        the<lb/> mechanics of astronomical phenómenons.<lb/> He tries, <del>in a layman's way</del>
+        to show why<lb/> the 7 days of creation should be translated as<lb/> 7 epochs or
+        periods<lb/> [?]<lb/>
+      </p>
+      <pb n="2"/>
+      <p>Biblic–exegetical prelections by <persName role="author">Isidor Kalisch</persName> Rab<lb/>
+        He says that the Hebrew language <del>is really a</del> should be considered<lb/>
+        <del>UR</del> (first) Basic language. He compares certain Hebrew words<lb/> with the same
+        words of modern languages<lb/>
+      </p>
+      <p rend="indent(1)">This essay is likely to be found in the<lb/> Occident<lb/></p>
+      <p rend="align(right)">Vol IX No 1—April 18<add>?</add><lb/> p. 34 ff<lb/>
+      </p>
+    </body>
+  </text>
 </TEI>

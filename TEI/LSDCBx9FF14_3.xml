@@ -1,276 +1,441 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE TEI [
-<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
-%teibase;
-<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
-%teiext;
-]>
-<TEI>
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="unk">B. E.</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>CAJS Isaac Leeser Collection</repository>
-						<collection>The Library of the Dropsie College for Hebrew and Cognate Learning</collection>
-						<idno>LSDCBx9FF14_3</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="unk">B. E.</author>
-						<addressee editor="true" attested="yes" accepted="yes"></addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>London, United Kingdom</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1844-03" source="" attested="yes">28 March 1844</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="ilcajs_b9f14_0003_1r.jpg"/>
-								<graphic url="ilcajs_b9f14_0003_1v.jpg"/>
-								<graphic url="ilcajs_b9f14_0003_2r.jpg"/>
-								<graphic url="ilcajs_b9f14_0003_2v.jpg"/>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="unk" paper_type="" size="Legal">letter</material>
-								</support>
-								<extent>4 pages on 2 sheets
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="manuscript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="free">
-								<p>Unrestricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-				<language ident="he">Hebrew</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1"/>
-				<p>To The Editor of the Occident</p>
-			<p rend="indent(1)">Reverend Sir</p>
-			<p rend="indent(2)">Having read the <persName>Rev. Mr Carillon&#39;s</persName><lb/> letter addressed to you in the Occident No 11. I beg leave through your<lb/> valuable columns respectfully to ask the Rev gentleman how<lb/> he reconciles the celebration of the double festivals with his<lb/> condemnation of <hi rend="underline">human laws</hi>&#44; when added to the divine<lb/> code&#63;  These are <persName>Mr Carillon&#39;s</persName> words &#8220;God forbid that any<lb/> Jews should commit rebellion against the God of our fathers&#8222;<lb/> by adding human laws&#44; to the divine&#44; pure and perfect code &#38;c<lb/>  Now in reference to some of our festivals&#44; it is enjoined that<lb/> the <hi rend="underline">first</hi> and <hi rend="underline">seventh</hi> day be holy convocations&#58; is it not then<lb/> to fly in the very face of this divine command to add&#44; <hi rend="underline">voluntarily</hi><lb/> to these two days&#44; a <hi rend="underline">second</hi> and an <hi rend="underline">eighth</hi> day&#63;  is it not an open<lb/> violation of the precept <add>Hebrew</add> &#8220;Thou shalt neither<lb/> add to nor diminish from it &#91;the law&#93;</p>
-			<p rend="indent(1)">It is worthy remark&#44; that from the observance of<lb/> these double festivals we give utterance in our prayers to expressions<lb/> both untrue and contradictory.  For instance&#44; one of these interpolated<lb/> festivals &#40;<add>Hebrew</add>&#41; kept on a <hi rend="underline">ninth</hi> day&#44; we&#44; in our solemn prayer&#44;<lb/> call <add>Hebrew</add> &#40;&#8220;This <date><hi rend="underline">eighth</hi> day of solemn assembly</date> Again&#59;<lb/> on the second day of <add>Hebrew</add> &#40;<date>new year</date>&#41; we repeat <add>Hebrew</add> &#40;&#8220;The<lb/> world was brought into existence <hi rend="underline">this</hi> day&#41; which cannot be predicated<lb/> of <hi rend="underline">both</hi> days&#44; for one is evidently a negation of the other.  But much<lb/> more objectionable is that highly <sic>irreverend</sic> disregard of holy truth&#44;<lb/> which&#44; on the double festivals&#8212;additions made by <hi rend="underline">mortal man</hi>&#8212;<lb/> proclaims <add>Hebrew</add> &#40;&#8220;These are the festivals of the Lord&#44;<lb/> holy convocations&#8221;&#41;.  Now as all these double festivals&#44; including <add>Hebrew</add><lb/> are confessedly<hi rend="underline"> &#8220;human laws&#44;&#8221;</hi> called by <persName>Maimonides</persName> <add>Hebrew</add><lb/> &#40;words or institutions of the scribes&#41; I would then respectfully ask<lb/> <persName>Mr Carrillon</persName> in the name of that holy religion we both reverence&#44;<lb/> whether these <hi rend="underline">human</hi> ordinances&#44; added to the &#8220;divine code&#8221; do not<lb/> come under the category of the sins he so emphatically denounces&#63;<lb/>  Antiquity of custom&#44; in the present case&#44; is unentitled to the slightest<lb/> weight&#44; because&#44; this custom&#44; the offspring of sheer necessity with which<lb/> it should have ceased&#44; is a positive transgression of God&#39;s law.  Let it<lb/> be imagined that necessity had compelled our ancestors to diminish<lb/> <hi rend="underline">from</hi> instead of adding <hi rend="underline">to</hi> the divine code&#8212;had compelled them to<lb/> keep only six instead of seven days <date>Passover</date>&#59; would future generations<lb/> of Jews&#44; in the supposed cases&#44; be justified by veneration of antiquity<lb/> to continue to sin voluntarily&#44; because their ancestors had thus acted<lb/> from compulsion&#63;  &#8220;No&#8221; replies Holy Writ &#8220;Thou shalt neither<lb/> <hi rend="underline">add</hi> to nor diminish <hi rend="underline">from</hi> the law&#8221;  Should it be asked in case<lb/> of the abolition of the second day <add>Hebrew</add> what is to be done</p>
-			<pb n="2"/>
-				<p>when the <date>first day of Tishri</date> falls upon the <date>Sabbath</date> I answer&#44; <hi rend="underline">Obey</hi><lb/> <hi rend="underline">God</hi> and blow the <add>Hebrew</add> as <persName>Joshua</persName> did &#91;Chap 6&#93; for it were impious to<lb/> suppose that wrong&#44; which God commands and this command is as<lb/> irrespective of place and time as that of circumcision so frequently performed<lb/> on the <date>Sabbath</date>&#59; <hi rend="underline">in fact&#44; no tyranny of custom&#44; it matters not how old&#44; can</hi><lb/> <hi rend="underline">make void the word of the living God</hi></p>
-			<p rend="indent(1)">These double festivals&#44; with the exception of &#42;<add>Hebrew</add><lb/> &#40;and even that festival was not always kept two days&#41; were never observed<lb/> in <placeName>Jerusalem</placeName>&#44; simply because its inhabitants had no doubt as to the<lb/> precise days on which the three festivals &#40;<add>Hebrew</add>&#41; were to be celebrated<lb/> and this example&#44; one would think should be an all&#45;sufficient reason<lb/> with modern Jews&#44; who possess an unerring calendar to abolish the<lb/> Custom</p>
-			<p rend="indent(1)">From the observations of <persName>Maimonides</persName> on this subject in his<lb/> Yad Hachazaka &#40;in Hilch Kidd Hachodesh and Hilch Yom Tob&#41;<lb/> it may be legitimately inferred that our great talmudical teacher<lb/> himself&#44; when he abstracts from the then state of things de facto&#44; and<lb/> addresses himself to the question de jure&#44; is no advocate for the perpetuity<lb/> of these supplemental days.  <persName>Maimonides</persName> not only calls the institution<lb/> of them a&#8212;<add>Hebrew</add>&#8212;<hi rend="underline">a fashion</hi> &#40;&#8220;Our celebration of the second day of these<lb/> festivals is a <hi rend="underline">fashion</hi> introduced by the sayings of the scribes&#44; an<lb/> innovation due to the state of dispersion&#8221; <add>&#63;</add> Yom Tob Ch 1 rule 21&#41;<lb/> but he says <hi rend="underline">totidem verbis</hi> that by rights the second day ought to be abolished.<lb/>  Here follow his words</p>
-			<p rend="indent(1)">&#8220;Now a days when there is no Sanhedrin&#44; and when the Beth Din<lb/> of <add>Hebrew</add> follows the actual calculation&#44; it would be just to have only <hi rend="underline">one</hi><lb/> holiday in <hi rend="underline">all</hi> places&#44; <hi rend="underline">even in those removed from <placeName>Palestine</placeName></hi>&#44; as well as<lb/> those in <add>Hebrew</add> in as much as they all rely on <hi rend="underline">one</hi> calculation&#8221;</p>
-			<p rend="indent(1)">As the abolition of these supplemental days forms the most<lb/> salient point of difference between the Congregation of the <placeName>West<lb/> London</placeName> Synagogue of British Jews and their coreligionists&#44; and as<lb/> <persName>Mr Carillon</persName> has introduced several reforms into his own synagogue&#44;</p>
-				<p>&#42;In those times it was requisite to observe two days <add>Hebrew</add> for the<lb/> messengers who were sent out upon the high places to watch the heavens<lb/> for the appearance of the new moon might have been impeded<lb/> in their observations by the state of the atmosphere and their<lb/> return to <placeName>Jerusalem</placeName> on the <date>thirtieth of Elul</date> been thereby prevented<lb/>&#59; in such case&#44; and <hi rend="underline">not otherwise</hi>&#44; if I rightly understand <persName>Maimonides</persName>&#44;<lb/> two days <add>Hebrew</add> were kept in the capital of <add>Hebrew</add>.  Further&#59;<lb/> as the feast of <add>Hebrew</add> is held on the <date>first day Tishri</date> there would<lb/> have been no opportunity to correct any error into which the messen&#45;<lb/>gers might have fallen&#44; if only one day had been observed</p>
-			<pb n="3"/>
-				<p>I have therefore dwelt the longer on this religiously important subject&#44;<lb/> which I now submit to the calm consideration of the reverend<lb/> gentleman</p>
-			<p rend="indent(1)">I trust I shall not trespass too much on the valuable<lb/> and impartial pages of the Occident if I take this opportunity to<lb/> set <persName>Mr Carillon</persName> right as to the opinion entertained of the Talmud<lb/> by the <persName>Rev D. W. Harks</persName>.  Never did this gentleman unqualifiedly<lb/> deny its authority or speak disparagingly of the traditions contained<lb/> therein&#59; on the contrary&#44; he spake in terms highly eulogistic and<lb/> reverential of the authors of that work.  He did indeed say that the<lb/> Talmud was not so infallible a guide for the Israelites as the &#8220;One<lb/> immutable Law&#8221; contained in Holy Writ&#44; but let these words be taken<lb/> in <sic>connexion</sic> with the antecedent praise and with the whole paragraphs<lb/> of which they form a part and no unprejudiced person&#44; I am<lb/> bold to say&#44; will see in them aught that is not religiously true&#33;  And<lb/> here to enable the reader to judge for himself I subjoin the paragraph<lb/> in question extracted from the Discourse delivered in the <placeName>West London</placeName><lb/> Synagogue on the day of its consecration &#40;Vide Discourse p 748&#41;</p>
-			<p rend="indent(1)">&#8220;Now let it not be supposed that it is the intention<lb/> of myself&#44; or of any member of this Congregation&#44; whose humble<lb/> organ I am&#44; to vilify&#44; in any way&#44; the character of the traditional<lb/> records.  ON the contrary&#44; we recognize in them a valuable aid for the<lb/> elucidation of many passages in scripture&#59; we feel proud of them as<lb/> a monument of the zeal and mental activity of our ancestors&#44; we<lb/> hold it our duty to reverence the sayings of men who&#44; we are convinced&#44;<lb/> would have sacrificed their lives for the maintenance of that Law<lb/> which God has vouchsafed to deliver unto us&#59; but we must &#40;as our<lb/> conviction urges us&#41; solemnly deny&#44; that a belief in the <hi rend="underline">divinity</hi> of<lb/> those traditions written in the Mishna and the <placeName>Jerusalem</placeName> and<lb/> Babylonian Talmuds&#44; is of equal obligation to the Israelite with the<lb/> faith in the divinity of the law of <persName>Moses</persName>.  WE know that these<lb/> books are human compositions&#59; and though we are content to accept<lb/> with reverence from our post&#45;biblical ancestors&#44; advice&#44; and instruction&#44;<lb/> we cannot <hi rend="underline">unconditionally</hi> accept their Laws.  For Israelites&#44; there<lb/> is but one immutable Law the sacred volume of the scriptures<lb/> commanded by God to be written down for the unerring guidance of his<lb/> people until the end of time&#8221;</p>
-			<p rend="indent(1)">It is not unessential to observe&#44; that even these mild&#44;<lb/> measured remarks were not gratuitous&#44; but absolutely called for as the<lb/> Minister was then addressing his Congregation for the first time<lb/> after himself and they had been excommunicated under the charge<lb/> &#40;<hi rend="underline">utterly groundless by the bye</hi>&#41; of having denied the divinity of the Oral<lb/> Law...I hope I do not offend <persName>Mr Carillon</persName> by supposing that he</p>
-			<pb n="4"/>
-				<p>under parallel circumstances&#44; would not have expressed himself more<lb/> respectfully of the Talmud than his brother Minister spoke of it</p>
-			<p rend="indent(1)">I am most anxious to avail myself of the present opportunity<lb/> to inform <persName>Mr Henry Goldsmith</persName>&#44; that the charge &#40;Occident No 8&#41; he has<lb/> brought against the members of the <placeName>Burton Street</placeName> Synagogue of having<lb/> repudiated the wearing of Tephilin is wholly devoid of truth.  I<lb/> unhesitatingly acquit <persName>Mr Goldsmith</persName> of <sic>wilful</sic> misrepresentation and<lb/> refer him to the first volume No 12 of the Voice of Jacob page 89 where<lb/> he will find that a &#8220;<hi rend="underline">rumour</hi>&#8221; had reached its editor that the &#8220;Secession<lb/> Congregation&#8221; had determined by a majority of two in <hi rend="underline">favor of</hi> not against&#44; the wearing of <add>Hebrew</add> The following note from the Editor shows that there<lb/> was not a scintilla of truth even in the above &#8220;rumour&#8221; hence I trust<lb/> <persName>Mr Goldsmith</persName> will in future&#44; exercise a little wholesome <sic>scepticism</sic> &#40;not<lb/> inaptly called one of the nerves of wisdom&#41; when reports again reach him<lb/> as to the proceedings of the <placeName>Burton Street</placeName> Synagogue.  The Editor&#39;s note<lb/> alluded to is as follows &#8220;This rumour referred to the obligation of<lb/> wearing <add>Hebrew</add>.  After we had gone to press&#44; an authorized explanation<lb/> reached us&#44; that this particular question was not put to the vote.  It was&#44; on the<lb/> contrary&#44; an understanding&#44; that the <add>Hebrew</add> should be worn during<lb/> the service of every day on which they were worn in the established synagogues.<lb/>  On the morning of <add>Hebrew</add> those who could not conscientiously comply with<lb/> this understanding were absent from service&#8221;</p>
-			<p rend="indent(1)">I return to the subject of the double festivals as<lb/> I wish to observe before I conclude that if I had supposed Talmudic<lb/> knowledge essential to the proper understanding of the question at<lb/> issue&#44; then&#44; most assuredly&#44; I had not been so presumptuous as to discuss<lb/> a matter so transcendently important&#44; but&#44; I rely with some confidence<lb/> on arguments&#44; which&#44; seem to me&#44; to rest on the force of truth&#44; the energy<lb/> of common sense and upon the all&#45;sustaining pillars of Holy Writ</p>
-			<p rend="indent(1)">I am</p>
-			<p rend="indent(2)">Reverend Sir</p>
-			<p rend="indent(3)">Yours very respectfully</p>
-			<p rend="indent(5)"><persName role="author">B. E.</persName></p>
-				<p><placeName>Upper Beaford Place</placeName></p>
-			<p rend="indent(1)"><placeName>Russell Square</placeName></p>
-				<p><placeName>London</placeName> <date>March 28th 1844</date></p>
-		</body>
-	</text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="unk">B. E.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS Isaac Leeser Collection</repository>
+                        <collection>The Library of the Dropsie College for Hebrew and Cognate
+                            Learning</collection>
+                        <idno>LSDCBx9FF14_3</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="unk">B. E.</author>
+                        <addressee accepted="yes" attested="yes" editor="true"/>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>London, United Kingdom</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1844-03">28 March 1844</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="ilcajs_b9f14_0003_1r.jpg"/>
+                                <graphic url="ilcajs_b9f14_0003_1v.jpg"/>
+                                <graphic url="ilcajs_b9f14_0003_2r.jpg"/>
+                                <graphic url="ilcajs_b9f14_0003_2v.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="unk" paper_type="" size="Legal"
+                                        >letter</material>
+                                </support>
+                                <extent>4 pages on 2 sheets <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="he">Hebrew</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <p>To The Editor of the Occident</p>
+            <p rend="indent(1)">Reverend Sir</p>
+            <p rend="indent(2)">Having read the <persName>Rev. Mr Carillon's</persName><lb/> letter
+                addressed to you in the Occident No 11. I beg leave through your<lb/> valuable
+                columns respectfully to ask the Rev gentleman how<lb/> he reconciles the celebration
+                of the double festivals with his<lb/> condemnation of <hi rend="underline">human
+                    laws</hi>, when added to the divine<lb/> code? These are <persName>Mr
+                    Carillon's</persName> words “God forbid that any<lb/> Jews should commit
+                rebellion against the God of our fathers„<lb/> by adding human laws, to the divine,
+                pure and perfect code &amp;c<lb/> Now in reference to some of our festivals, it is
+                enjoined that<lb/> the <hi rend="underline">first</hi> and <hi rend="underline"
+                    >seventh</hi> day be holy convocations: is it not then<lb/> to fly in the very
+                face of this divine command to add, <hi rend="underline">voluntarily</hi><lb/> to
+                these two days, a <hi rend="underline">second</hi> and an <hi rend="underline"
+                    >eighth</hi> day? is it not an open<lb/> violation of the precept
+                    <add>Hebrew</add> “Thou shalt neither<lb/> add to nor diminish from it [the
+                law]</p>
+            <p rend="indent(1)">It is worthy remark, that from the observance of<lb/> these double
+                festivals we give utterance in our prayers to expressions<lb/> both untrue and
+                contradictory. For instance, one of these interpolated<lb/> festivals
+                    (<add>Hebrew</add>) kept on a <hi rend="underline">ninth</hi> day, we, in our
+                solemn prayer,<lb/> call <add>Hebrew</add> (“This <date><hi rend="underline"
+                        >eighth</hi> day of solemn assembly</date> Again;<lb/> on the second day of
+                    <add>Hebrew</add> (<date>new year</date>) we repeat <add>Hebrew</add> (“The<lb/>
+                world was brought into existence <hi rend="underline">this</hi> day) which cannot be
+                predicated<lb/> of <hi rend="underline">both</hi> days, for one is evidently a
+                negation of the other. But much<lb/> more objectionable is that highly
+                    <sic>irreverend</sic> disregard of holy truth,<lb/> which, on the double
+                festivals—additions made by <hi rend="underline">mortal man</hi>—<lb/> proclaims
+                    <add>Hebrew</add> (“These are the festivals of the Lord,<lb/> holy
+                convocations”). Now as all these double festivals, including <add>Hebrew</add><lb/>
+                are confessedly<hi rend="underline"> “human laws,”</hi> called by
+                    <persName>Maimonides</persName>
+                <add>Hebrew</add><lb/> (words or institutions of the scribes) I would then
+                respectfully ask<lb/>
+                <persName>Mr Carrillon</persName> in the name of that holy religion we both
+                reverence,<lb/> whether these <hi rend="underline">human</hi> ordinances, added to
+                the “divine code” do not<lb/> come under the category of the sins he so emphatically
+                denounces?<lb/> Antiquity of custom, in the present case, is unentitled to the
+                slightest<lb/> weight, because, this custom, the offspring of sheer necessity with
+                which<lb/> it should have ceased, is a positive transgression of God's law. Let
+                it<lb/> be imagined that necessity had compelled our ancestors to diminish<lb/>
+                <hi rend="underline">from</hi> instead of adding <hi rend="underline">to</hi> the
+                divine code—had compelled them to<lb/> keep only six instead of seven days
+                    <date>Passover</date>; would future generations<lb/> of Jews, in the supposed
+                cases, be justified by veneration of antiquity<lb/> to continue to sin voluntarily,
+                because their ancestors had thus acted<lb/> from compulsion? “No” replies Holy Writ
+                “Thou shalt neither<lb/>
+                <hi rend="underline">add</hi> to nor diminish <hi rend="underline">from</hi> the
+                law” Should it be asked in case<lb/> of the abolition of the second day
+                    <add>Hebrew</add> what is to be done</p>
+            <pb n="2"/>
+            <p>when the <date>first day of Tishri</date> falls upon the <date>Sabbath</date> I
+                answer, <hi rend="underline">Obey</hi><lb/>
+                <hi rend="underline">God</hi> and blow the <add>Hebrew</add> as
+                    <persName>Joshua</persName> did [Chap 6] for it were impious to<lb/> suppose
+                that wrong, which God commands and this command is as<lb/> irrespective of place and
+                time as that of circumcision so frequently performed<lb/> on the
+                    <date>Sabbath</date>; <hi rend="underline">in fact, no tyranny of custom, it
+                    matters not how old, can</hi><lb/>
+                <hi rend="underline">make void the word of the living God</hi></p>
+            <p rend="indent(1)">These double festivals, with the exception of
+                *<add>Hebrew</add><lb/> (and even that festival was not always kept two days) were
+                never observed<lb/> in <placeName>Jerusalem</placeName>, simply because its
+                inhabitants had no doubt as to the<lb/> precise days on which the three festivals
+                    (<add>Hebrew</add>) were to be celebrated<lb/> and this example, one would think
+                should be an all-sufficient reason<lb/> with modern Jews, who possess an unerring
+                calendar to abolish the<lb/> Custom</p>
+            <p rend="indent(1)">From the observations of <persName>Maimonides</persName> on this
+                subject in his<lb/> Yad Hachazaka (in Hilch Kidd Hachodesh and Hilch Yom Tob)<lb/>
+                it may be legitimately inferred that our great talmudical teacher<lb/> himself, when
+                he abstracts from the then state of things de facto, and<lb/> addresses himself to
+                the question de jure, is no advocate for the perpetuity<lb/> of these supplemental
+                days. <persName>Maimonides</persName> not only calls the institution<lb/> of them
+                    a—<add>Hebrew</add>—<hi rend="underline">a fashion</hi> (“Our celebration of the
+                second day of these<lb/> festivals is a <hi rend="underline">fashion</hi> introduced
+                by the sayings of the scribes, an<lb/> innovation due to the state of dispersion”
+                    <add>?</add> Yom Tob Ch 1 rule 21)<lb/> but he says <hi rend="underline">totidem
+                    verbis</hi> that by rights the second day ought to be abolished.<lb/> Here
+                follow his words</p>
+            <p rend="indent(1)">“Now a days when there is no Sanhedrin, and when the Beth Din<lb/>
+                of <add>Hebrew</add> follows the actual calculation, it would be just to have only
+                    <hi rend="underline">one</hi><lb/> holiday in <hi rend="underline">all</hi>
+                places, <hi rend="underline">even in those removed from
+                        <placeName>Palestine</placeName></hi>, as well as<lb/> those in
+                    <add>Hebrew</add> in as much as they all rely on <hi rend="underline">one</hi>
+                calculation”</p>
+            <p rend="indent(1)">As the abolition of these supplemental days forms the most<lb/>
+                salient point of difference between the Congregation of the <placeName>West<lb/>
+                    London</placeName> Synagogue of British Jews and their coreligionists, and as<lb/>
+                <persName>Mr Carillon</persName> has introduced several reforms into his own
+                synagogue,</p>
+            <p>*In those times it was requisite to observe two days <add>Hebrew</add> for the<lb/>
+                messengers who were sent out upon the high places to watch the heavens<lb/> for the
+                appearance of the new moon might have been impeded<lb/> in their observations by the
+                state of the atmosphere and their<lb/> return to <placeName>Jerusalem</placeName> on
+                the <date>thirtieth of Elul</date> been thereby prevented<lb/>; in such case, and
+                    <hi rend="underline">not otherwise</hi>, if I rightly understand
+                    <persName>Maimonides</persName>,<lb/> two days <add>Hebrew</add> were kept in
+                the capital of <add>Hebrew</add>. Further;<lb/> as the feast of <add>Hebrew</add> is
+                held on the <date>first day Tishri</date> there would<lb/> have been no opportunity
+                to correct any error into which the messen-<lb/>gers might have fallen, if only one
+                day had been observed</p>
+            <pb n="3"/>
+            <p>I have therefore dwelt the longer on this religiously important subject,<lb/> which I
+                now submit to the calm consideration of the reverend<lb/> gentleman</p>
+            <p rend="indent(1)">I trust I shall not trespass too much on the valuable<lb/> and
+                impartial pages of the Occident if I take this opportunity to<lb/> set <persName>Mr
+                    Carillon</persName> right as to the opinion entertained of the Talmud<lb/> by
+                the <persName>Rev D. W. Harks</persName>. Never did this gentleman
+                unqualifiedly<lb/> deny its authority or speak disparagingly of the traditions
+                contained<lb/> therein; on the contrary, he spake in terms highly eulogistic
+                and<lb/> reverential of the authors of that work. He did indeed say that the<lb/>
+                Talmud was not so infallible a guide for the Israelites as the “One<lb/> immutable
+                Law” contained in Holy Writ, but let these words be taken<lb/> in
+                    <sic>connexion</sic> with the antecedent praise and with the whole
+                paragraphs<lb/> of which they form a part and no unprejudiced person, I am<lb/> bold
+                to say, will see in them aught that is not religiously true! And<lb/> here to enable
+                the reader to judge for himself I subjoin the paragraph<lb/> in question extracted
+                from the Discourse delivered in the <placeName>West London</placeName><lb/>
+                Synagogue on the day of its consecration (Vide Discourse p 748)</p>
+            <p rend="indent(1)">“Now let it not be supposed that it is the intention<lb/> of myself,
+                or of any member of this Congregation, whose humble<lb/> organ I am, to vilify, in
+                any way, the character of the traditional<lb/> records. ON the contrary, we
+                recognize in them a valuable aid for the<lb/> elucidation of many passages in
+                scripture; we feel proud of them as<lb/> a monument of the zeal and mental activity
+                of our ancestors, we<lb/> hold it our duty to reverence the sayings of men who, we
+                are convinced,<lb/> would have sacrificed their lives for the maintenance of that
+                Law<lb/> which God has vouchsafed to deliver unto us; but we must (as our<lb/>
+                conviction urges us) solemnly deny, that a belief in the <hi rend="underline"
+                    >divinity</hi> of<lb/> those traditions written in the Mishna and the
+                    <placeName>Jerusalem</placeName> and<lb/> Babylonian Talmuds, is of equal
+                obligation to the Israelite with the<lb/> faith in the divinity of the law of
+                    <persName>Moses</persName>. WE know that these<lb/> books are human
+                compositions; and though we are content to accept<lb/> with reverence from our
+                post-biblical ancestors, advice, and instruction,<lb/> we cannot <hi
+                    rend="underline">unconditionally</hi> accept their Laws. For Israelites,
+                there<lb/> is but one immutable Law the sacred volume of the scriptures<lb/>
+                commanded by God to be written down for the unerring guidance of his<lb/> people
+                until the end of time”</p>
+            <p rend="indent(1)">It is not unessential to observe, that even these mild,<lb/>
+                measured remarks were not gratuitous, but absolutely called for as the<lb/> Minister
+                was then addressing his Congregation for the first time<lb/> after himself and they
+                had been excommunicated under the charge<lb/> (<hi rend="underline">utterly
+                    groundless by the bye</hi>) of having denied the divinity of the Oral<lb/>
+                Law...I hope I do not offend <persName>Mr Carillon</persName> by supposing that
+                he</p>
+            <pb n="4"/>
+            <p>under parallel circumstances, would not have expressed himself more<lb/> respectfully
+                of the Talmud than his brother Minister spoke of it</p>
+            <p rend="indent(1)">I am most anxious to avail myself of the present opportunity<lb/> to
+                inform <persName>Mr Henry Goldsmith</persName>, that the charge (Occident No 8) he
+                has<lb/> brought against the members of the <placeName>Burton Street</placeName>
+                Synagogue of having<lb/> repudiated the wearing of Tephilin is wholly devoid of
+                truth. I<lb/> unhesitatingly acquit <persName>Mr Goldsmith</persName> of
+                    <sic>wilful</sic> misrepresentation and<lb/> refer him to the first volume No 12
+                of the Voice of Jacob page 89 where<lb/> he will find that a “<hi rend="underline"
+                    >rumour</hi>” had reached its editor that the “Secession<lb/> Congregation” had
+                determined by a majority of two in <hi rend="underline">favor of</hi> not against,
+                the wearing of <add>Hebrew</add> The following note from the Editor shows that
+                there<lb/> was not a scintilla of truth even in the above “rumour” hence I trust<lb/>
+                <persName>Mr Goldsmith</persName> will in future, exercise a little wholesome
+                    <sic>scepticism</sic> (not<lb/> inaptly called one of the nerves of wisdom) when
+                reports again reach him<lb/> as to the proceedings of the <placeName>Burton
+                    Street</placeName> Synagogue. The Editor's note<lb/> alluded to is as follows
+                “This rumour referred to the obligation of<lb/> wearing <add>Hebrew</add>. After we
+                had gone to press, an authorized explanation<lb/> reached us, that this particular
+                question was not put to the vote. It was, on the<lb/> contrary, an understanding,
+                that the <add>Hebrew</add> should be worn during<lb/> the service of every day on
+                which they were worn in the established synagogues.<lb/> On the morning of
+                    <add>Hebrew</add> those who could not conscientiously comply with<lb/> this
+                understanding were absent from service”</p>
+            <p rend="indent(1)">I return to the subject of the double festivals as<lb/> I wish to
+                observe before I conclude that if I had supposed Talmudic<lb/> knowledge essential
+                to the proper understanding of the question at<lb/> issue, then, most assuredly, I
+                had not been so presumptuous as to discuss<lb/> a matter so transcendently
+                important, but, I rely with some confidence<lb/> on arguments, which, seem to me, to
+                rest on the force of truth, the energy<lb/> of common sense and upon the
+                all-sustaining pillars of Holy Writ</p>
+            <p rend="indent(1)">I am</p>
+            <p rend="indent(2)">Reverend Sir</p>
+            <p rend="indent(3)">Yours very respectfully</p>
+            <p rend="indent(5)">
+                <persName role="author">B. E.</persName>
+            </p>
+            <p>
+                <placeName>Upper Beaford Place</placeName>
+            </p>
+            <p rend="indent(1)">
+                <placeName>Russell Square</placeName>
+            </p>
+            <p>
+                <placeName>London</placeName>
+                <date>March 28th 1844</date>
+            </p>
+        </body>
+    </text>
 </TEI>

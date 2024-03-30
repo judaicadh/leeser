@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
         <fileDesc>
             <titleStmt>
                 <title>[no title given]</title>
-                <author attested="yes" accepted="yes" signature="yes">Noot, Simon Cohen</author>
+                <author accepted="yes" attested="yes" signature="yes">Noot, Simon Cohen</author>
                 <editor/>
                 <sponsor/>
                 <funder/>
@@ -47,7 +49,9 @@
                         <settlement>New York</settlement>
                         <institution>Jewish Theological Seminary</institution>
                         <repository/>
-                        <collection>The Abraham and Deborah Karp Collection of Early American Judaica at the Library of the Jewish Theological Seminary of America</collection>
+                        <collection>The Abraham and Deborah Karp Collection of Early American
+                            Judaica at the Library of the Jewish Theological Seminary of
+                            America</collection>
                         <idno/>
                         <altIdentifier>
                             <idno/>
@@ -56,9 +60,9 @@
                     </msIdentifier>
                     <head/>
                     <letHeading>
-                        <author attested="yes" accepted="yes" signature="yes">Noot, Simon
+                        <author accepted="yes" attested="yes" signature="yes">Noot, Simon
                             Cohen</author>
-                        <addressee editor="false" attested="yes" accepted="yes">Leeser,
+                        <addressee accepted="yes" attested="yes" editor="false">Leeser,
                             Isaac</addressee>
                         <deliverer/>
                         <respStmt>
@@ -67,7 +71,7 @@
                         </respStmt>
                         <placeLet>New York, NY</placeLet>
                         <placeRec>Philadelphia, PA</placeRec>
-                        <dateLet when="1847" source="" attested="yes">1847</dateLet>
+                        <dateLet attested="yes" source="" when="1847">1847</dateLet>
                     </letHeading>
                     <msContents>
                         <msItem>
@@ -93,7 +97,8 @@
                         <objectDesc>
                             <supportDesc>
                                 <support>
-                                    <material color="" lined="false" paper_type="" size="Letter">letter</material>
+                                    <material color="" lined="false" paper_type="" size="Letter"
+                                        >letter</material>
                                 </support>
                                 <extent>1 page on 1 sheet <dimensions/>
                                 </extent>
@@ -234,46 +239,42 @@
     </teiHeader>
     <text>
         <body>
-
             <pb n="1"/>
-
-            <p rend="align(right)"><placeName>N. Y.</placeName> Wednesday&#44; <date><hi rend="underline"
-                        >Oct.&#8211;Jan.</hi>&#63;&#44; 1847</date>./</p>
-            <p>God who will bring joy to Zion&#44; etc. May he<lb/> bring joy to the soul of my
-                friend&#44; etc.&#44; etc.</p>
-            <p>Sir&#58;</p>
-            <p rend="indent(1)">At first glance your letter of last week&#44; I did not understand<lb/> thing about
-                its contents&#44; since it was written in English&#44; and&#44; up to the
-                    pres<add>&#63;</add><lb/> I cannot understand your wishes&#44; for the letters
-                are run&#8211;together<lb/> require more knowledge than I possess
-                &#40;&#63;&#41;&#44; Therefore&#44; I beg your pardon a<add>nd</add><lb/> ask you
-                from now on to write in German or in Hebrew. I still have in <add>my</add><lb/>
-                possession the sum of &#36;7.50. I have not as yet received a penny&#39;s
-                    wor<add>th</add><lb/> from the prayer books or the pentateuchs. For any number
-                that came to<lb/>
-                <lb/> I had to tell them that I should send the books on the next day&#44;<lb/>
-                however&#44; the prayer books are in my possession&#44; for I received
-                    the<add>m</add><lb/> last week through Adams and Company. I shall make every
-                    eff<add>ort</add><lb/> to sell what I can. If you want the above mentioned
-                sum&#44; p<add>&#63;</add><lb/> remind me&#44; and I shall send it to you without
-                any delay.<lb/> With regard to the printing of my book&#44; I shall print two
-                page<lb/> next week and <persName>Mr. Jackson</persName> here will print them. If I
-                succeed<lb/> finding the printing expenses through subscribers&#44; I shall come
-                to<lb/> city to make an agreement with <persName>Mr. Johnson</persName> and will
-                give him two<lb/> as references&#44; or the printer himself will buy them. With all
-                this&#44;<lb/> heart says to you&#44; many thanks for the thought which is
+            <p rend="align(right)"><placeName>N. Y.</placeName> Wednesday, <date><hi
+                        rend="underline">Oct.–Jan.</hi>?, 1847</date>./</p>
+            <p>God who will bring joy to Zion, etc. May he<lb/> bring joy to the soul of my friend,
+                etc., etc.</p>
+            <p>Sir:</p>
+            <p rend="indent(1)">At first glance your letter of last week, I did not understand<lb/>
+                thing about its contents, since it was written in English, and, up to the
+                    pres<add>?</add><lb/> I cannot understand your wishes, for the letters are
+                run–together<lb/> require more knowledge than I possess (?), Therefore, I beg your
+                pardon a<add>nd</add><lb/> ask you from now on to write in German or in Hebrew. I
+                still have in <add>my</add><lb/> possession the sum of $7.50. I have not as yet
+                received a penny's wor<add>th</add><lb/> from the prayer books or the pentateuchs.
+                For any number that came to<lb/>
+                <lb/> I had to tell them that I should send the books on the next day,<lb/> however,
+                the prayer books are in my possession, for I received the<add>m</add><lb/> last week
+                through Adams and Company. I shall make every eff<add>ort</add><lb/> to sell what I
+                can. If you want the above mentioned sum, p<add>?</add><lb/> remind me, and I shall
+                send it to you without any delay.<lb/> With regard to the printing of my book, I
+                shall print two page<lb/> next week and <persName>Mr. Jackson</persName> here will
+                print them. If I succeed<lb/> finding the printing expenses through subscribers, I
+                shall come to<lb/> city to make an agreement with <persName>Mr. Johnson</persName>
+                and will give him two<lb/> as references, or the printer himself will buy them. With
+                all this,<lb/> heart says to you, many thanks for the thought which is
                     equival<add>ent</add><lb/> to an action.</p>
-            <p rend="indent(1)">May the king of heaven increase you and give you length of da<add>ys</add><lb/> to
-                occupy yourself in communal needs in honesty&#44; and <del>mak</del> m<add>&#63;</add><lb/> you
-                continue to9 serve God&#39;s name&#44; and may you behold
-                the<lb/> coming of the Announcer and the Redeemer and to see the
-                gat<add>&#63;</add><lb/> of the scattered sheep and the rebuilding of the sacred
-                mount<lb/> in <placeName>Jerusalem</placeName> and its renewal in the near
-                future&#44; Amen&#433;</p>
-            <p rend="indent(1)">From me&#44; the <add>&#63;</add>&#44; who seeks your peace and your
-                    goo<add>&#63;</add><lb/> all your days.</p>
-            <p rend="align(right)"><persName role="author">Simon Cohen Noot</persName><lb/> &#35;6 James Street.</p>
-
+            <p rend="indent(1)">May the king of heaven increase you and give you length of
+                    da<add>ys</add><lb/> to occupy yourself in communal needs in honesty, and
+                    <del>mak</del> m<add>?</add><lb/> you continue to9 serve God's name, and may you
+                behold the<lb/> coming of the Announcer and the Redeemer and to see the
+                    gat<add>?</add><lb/> of the scattered sheep and the rebuilding of the sacred
+                mount<lb/> in <placeName>Jerusalem</placeName> and its renewal in the near future,
+                AmenƱ</p>
+            <p rend="indent(1)">From me, the <add>?</add>, who seeks your peace and your
+                    goo<add>?</add><lb/> all your days.</p>
+            <p rend="align(right)"><persName role="author">Simon Cohen Noot</persName><lb/> #6 James
+                Street.</p>
         </body>
     </text>
 </TEI>

@@ -1,265 +1,322 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="yes">[?]ackenburg, Isaac</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>LSKAP</repository>
-						<collection>The Arnold and Deanne Kaplan Collection of Early American Judaica</collection>
-						<idno>LSKAP0138</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="yes">[?]ackenburg, Isaac</author>
-						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac</addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>Cincinnati, OH</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1853-11" source="" attested="yes">November 21, 1853</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="LSKAP0138_1r.jpg"></graphic>
-								<graphic url="LSKAP0138_1v.jpg"></graphic>
-								<graphic url="LSKAP0138_2r.jpg"></graphic>
-								<graphic url="LSKAP0138_2v.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="false" paper_type="" size="">letter</material>
-								</support>
-								<extent>8 pages on 4 sheets
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="manuscript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="restricted">
-								<p>Restricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1R"/>
-				<p rend="align(right)"><placeName>Cincinnati</placeName> <date>21<hi rend="sup">st</hi> November 1853</date></p>
-				<p>Esteemed Friend &#38; prece<add>&#63;</add></p>
-			<p rend="indent(1)">Although I wrote you a letter<lb/> some time since I have never received an<lb/> answer thereto&#44; yet hope it has safely came<lb/> to hand.  I hope this meets you in the<lb/> enjoyment of good health as thank God<lb/> leaves me at present.  In the religious<lb/> world&#44; nothing new stirring here&#59; save<lb/> that <persName>Dr Wise</persName> has been elected minister<lb/> of the Lodge I<add>&#63;</add> congregation.  This congregation<lb/> although the younger&#8212;has always strived<lb/> to have an able minister&#44; who can not<lb/> only read or sing&#59; but able to expound the<lb/> law in English in German.  Their<lb/> members are mostly men who have<lb/> made their way through the world<lb/> &#38; having succeeded in this world&#44;<lb/> live&#59; wish to secure for their own<lb/> benefit &#38; the instruction of their children<lb/> men of talent &#38; education&#59; with fewer<lb/> of the old qualities which required<lb/> the Hazan to sing opera tunes<lb/> and profane music to our solemn<lb/> prayers.  Although the old congregations<lb/> have been talking ever since I have</p>
-			<pb n="1V"/>
-				<p>resided here of engaging in lectures&#59;<lb/> first that year&#59; then next&#44; &#38; afterward<lb/> as soon as their new synagogue would<lb/> be consecrated&#59; nothing has as yet<lb/> been done&#59; and considering they have<lb/> so many men of influence among them<lb/> who claim to the men of talents are far<lb/> behind the age&#59; in instruction&#59; they<lb/> have no school&#59; while the Talmud<lb/> Torah of the Lodge Is<add>&#63;</add> is in a flourishing<lb/> condition.  <persName>Mr Freedman</persName> is still<lb/> the school President&#59; he is quite an<lb/> efficient officer.</p>
-			<p rend="indent(1)">On last <date><sic>Sazirday</sic></date> a son of <persName>Mr Joseph<lb/> Simon</persName> was bar mitzva&#44; in the Lodge<lb/> Is<add>&#63;</add> Synagogue&#59; when he delivered<lb/> a most beautiful sermon on our<lb/> holy faith&#59; of which I have been<lb/> promised a copy and will forward<lb/> it to morrow&#59; it may be interesting<lb/> to some of your readers.  The boy<lb/> &#8220;<persName>Isaac Simon</persName> was under the tuition<lb/> of <persName>Mr Sch&#246;nbrand</persName> the teacher of<lb/> the school&#59; formerly minister &#38;<lb/> teacher in <placeName>F&#252;rth</placeName>.</p>
-			<p rend="indent(1)">Be kind enough and inform<lb/> me &#40;for <persName>Mr W<hi rend="underline">m</hi> Childs</persName>&#41; per return<lb/> mail&#58; if you <del>wd</del> have following<lb/> articles&#59; neatly &#40;not <sic>extravangtly</sic>&#41;<lb/> bound&#44; &#38; what the price will be<lb/> if it suits will order them in <add>&#63;</add></p>
-			<pb n="2R"/>
-				<p>3</p>
-				<p>Two <hi rend="underline">Tefilloth</hi> Hebrew &#38; English<lb/> Polish Minhag&#58; &#40;if one is German<lb/> &#38; Hebrew would prefer&#41;</p>
-				<p>Two <sic>setts</sic> mackzorim<add>&#63;</add> &#40;Hebrew<lb/> &#38; English&#41; Polish Minhag</p>
-			<p rend="indent(1)">Your own editions preferred&#44;<lb/> as we well know you give us good<lb/> type and paper.</p>
-			<p rend="indent(1)">Our friends are all well<lb/> and desire kind regards.</p>
-			<p rend="indent(1)"><persName>Mr Mayers</persName> family all well&#59;<lb/> same <persName>Mr Moses</persName>&#59; same <persName>Mr Jonas</persName>.</p>
-			<p rend="indent(1)"><persName>Mrs Anna Phillipson</persName> has gone to<lb/> <placeName>New Orleans</placeName>.</p>
-			<p rend="indent(1)">Please answer me two<lb/> questions in your next&#63;</p>
-			<p rend="indent(1)">1<hi rend="sup">st</hi> Give me the particulars of<lb/> this shohet business in <placeName>Savannah</placeName><lb/> between <persName><add>Rev</add> Mr Rosenfeld</persName> &#38; the butcher<lb/> the latter was a man here of no accord<lb/> &#38; ran off swindling several persons.<lb/>  2c This is a point in which I<lb/> wish to test veracity</p>
-			<p rend="indent(1)">&#8220;Did the discussion between<lb/> <persName>Poznanski </persName>and <persName>Wise</persName> on one side<lb/> and <persName>Raphael</persName> and <persName>Rosenfeld</persName> in<lb/> the other take place in a<lb/> public hall in presence of</p>
-			<pb n="2V"/>
-				<p>4</p>
-				<p>Jews and Christians or in a private<lb/> room.  I must now close<lb/> with my best wishes for your life<lb/> prosperity &#38; happiness &#38; hoping soon<lb/> we shall have the pleasure of<lb/> receiving your English version of the<lb/> Scriptures.  I remain</p>
-			<p rend="indent(3)">Your friend &#38; pupil</p>
-			<p rend="indent(3)"><persName role="author">Isaac<add>&#63;</add>ackenburg</persName></p>
-				<p rend="The following is written in pencil at the bottom of the page.">20&#45;609</p>
-		</body>
-	</text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="yes">[?]ackenburg, Isaac</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>LSKAP</repository>
+                        <collection>The Arnold and Deanne Kaplan Collection of Early American
+                            Judaica</collection>
+                        <idno>LSKAP0138</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="yes">[?]ackenburg,
+                            Isaac</author>
+                        <addressee accepted="yes" attested="yes" editor="false">Leeser,
+                            Isaac</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Cincinnati, OH</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1853-11">November 21, 1853</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="LSKAP0138_1r.jpg"/>
+                                <graphic url="LSKAP0138_1v.jpg"/>
+                                <graphic url="LSKAP0138_2r.jpg"/>
+                                <graphic url="LSKAP0138_2v.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >letter</material>
+                                </support>
+                                <extent>8 pages on 4 sheets <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="restricted">
+                                <p>Restricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1R"/>
+            <p rend="align(right)">
+                <placeName>Cincinnati</placeName>
+                <date>21<hi rend="sup">st</hi> November 1853</date>
+            </p>
+            <p>Esteemed Friend &amp; prece<add>?</add></p>
+            <p rend="indent(1)">Although I wrote you a letter<lb/> some time since I have never
+                received an<lb/> answer thereto, yet hope it has safely came<lb/> to hand. I hope
+                this meets you in the<lb/> enjoyment of good health as thank God<lb/> leaves me at
+                present. In the religious<lb/> world, nothing new stirring here; save<lb/> that
+                    <persName>Dr Wise</persName> has been elected minister<lb/> of the Lodge
+                    I<add>?</add> congregation. This congregation<lb/> although the younger—has
+                always strived<lb/> to have an able minister, who can not<lb/> only read or sing;
+                but able to expound the<lb/> law in English in German. Their<lb/> members are mostly
+                men who have<lb/> made their way through the world<lb/> &amp; having succeeded in
+                this world,<lb/> live; wish to secure for their own<lb/> benefit &amp; the
+                instruction of their children<lb/> men of talent &amp; education; with fewer<lb/> of
+                the old qualities which required<lb/> the Hazan to sing opera tunes<lb/> and profane
+                music to our solemn<lb/> prayers. Although the old congregations<lb/> have been
+                talking ever since I have</p>
+            <pb n="1V"/>
+            <p>resided here of engaging in lectures;<lb/> first that year; then next, &amp;
+                afterward<lb/> as soon as their new synagogue would<lb/> be consecrated; nothing has
+                as yet<lb/> been done; and considering they have<lb/> so many men of influence among
+                them<lb/> who claim to the men of talents are far<lb/> behind the age; in
+                instruction; they<lb/> have no school; while the Talmud<lb/> Torah of the Lodge
+                    Is<add>?</add> is in a flourishing<lb/> condition. <persName>Mr
+                    Freedman</persName> is still<lb/> the school President; he is quite an<lb/>
+                efficient officer.</p>
+            <p rend="indent(1)">On last <date><sic>Sazirday</sic></date> a son of <persName>Mr
+                    Joseph<lb/> Simon</persName> was bar mitzva, in the Lodge<lb/> Is<add>?</add>
+                Synagogue; when he delivered<lb/> a most beautiful sermon on our<lb/> holy faith; of
+                which I have been<lb/> promised a copy and will forward<lb/> it to morrow; it may be
+                interesting<lb/> to some of your readers. The boy<lb/> “<persName>Isaac
+                    Simon</persName> was under the tuition<lb/> of <persName>Mr
+                    Schönbrand</persName> the teacher of<lb/> the school; formerly minister
+                &amp;<lb/> teacher in <placeName>Fürth</placeName>.</p>
+            <p rend="indent(1)">Be kind enough and inform<lb/> me (for <persName>Mr W<hi
+                        rend="underline">m</hi> Childs</persName>) per return<lb/> mail: if you
+                    <del>wd</del> have following<lb/> articles; neatly (not
+                <sic>extravangtly</sic>)<lb/> bound, &amp; what the price will be<lb/> if it suits
+                will order them in <add>?</add></p>
+            <pb n="2R"/>
+            <p>3</p>
+            <p>Two <hi rend="underline">Tefilloth</hi> Hebrew &amp; English<lb/> Polish Minhag: (if
+                one is German<lb/> &amp; Hebrew would prefer)</p>
+            <p>Two <sic>setts</sic> mackzorim<add>?</add> (Hebrew<lb/> &amp; English) Polish
+                Minhag</p>
+            <p rend="indent(1)">Your own editions preferred,<lb/> as we well know you give us
+                good<lb/> type and paper.</p>
+            <p rend="indent(1)">Our friends are all well<lb/> and desire kind regards.</p>
+            <p rend="indent(1)"><persName>Mr Mayers</persName> family all well;<lb/> same
+                    <persName>Mr Moses</persName>; same <persName>Mr Jonas</persName>.</p>
+            <p rend="indent(1)"><persName>Mrs Anna Phillipson</persName> has gone to<lb/>
+                <placeName>New Orleans</placeName>.</p>
+            <p rend="indent(1)">Please answer me two<lb/> questions in your next?</p>
+            <p rend="indent(1)">1<hi rend="sup">st</hi> Give me the particulars of<lb/> this shohet
+                business in <placeName>Savannah</placeName><lb/> between <persName><add>Rev</add> Mr
+                    Rosenfeld</persName> &amp; the butcher<lb/> the latter was a man here of no
+                accord<lb/> &amp; ran off swindling several persons.<lb/> 2c This is a point in
+                which I<lb/> wish to test veracity</p>
+            <p rend="indent(1)">“Did the discussion between<lb/>
+                <persName>Poznanski </persName>and <persName>Wise</persName> on one side<lb/> and
+                    <persName>Raphael</persName> and <persName>Rosenfeld</persName> in<lb/> the
+                other take place in a<lb/> public hall in presence of</p>
+            <pb n="2V"/>
+            <p>4</p>
+            <p>Jews and Christians or in a private<lb/> room. I must now close<lb/> with my best
+                wishes for your life<lb/> prosperity &amp; happiness &amp; hoping soon<lb/> we shall
+                have the pleasure of<lb/> receiving your English version of the<lb/> Scriptures. I
+                remain</p>
+            <p rend="indent(3)">Your friend &amp; pupil</p>
+            <p rend="indent(3)">
+                <persName role="author">Isaac<add>?</add>ackenburg</persName>
+            </p>
+            <p rend="The following is written in pencil at the bottom of the page.">20-609</p>
+        </body>
+    </text>
 </TEI>

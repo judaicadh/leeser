@@ -1,253 +1,307 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="yes">Henry, H. A.</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>CAJS Isaac Leeser Collection</repository>
-						<collection>The Library of the Dropsie College for Hebrew and Cognate Learning</collection>
-						<idno>LSDCBx2FF11_13</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="yes">Henry, H. A.</author>
-						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac, Rev.</addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>San Francisco, CA</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1864-03" source="" attested="yes">30 March 1864</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="ilcajs_b2f11_0012_1r.jpg"></graphic>
-								<graphic url="ilcajs_b2f11_0012_1v.jpg"></graphic>
-								<graphic url="ilcajs_b2f11_0012_2r.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="true" paper_type="" size="Letter">letter</material>
-								</support>
-								<extent>3 pages on 2 sheets
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="manuscript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="free">
-								<p>Unrestricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1"/>
-				<p rend="align(right)"><placeName><sic>Sanfrancisco</sic></placeName> <date>March 30th 1864</date></p>
-				<p><addressee>Revd Isaac Leeser</addressee></p>
-			<p rend="indent(1)"><placeName>Philadelphia</placeName></p>
-			<p rend="indent(3)">My dear Sir</p>
-			<p rend="indent(5)">Herewith I<lb/> send you a copy of my Discourses.  I shall<lb/> be happy to have you review it&#44; as I know<lb/> it will be ably and impartially done.  I would<lb/> willingly have sent you some copies for sale&#44; but<lb/> the price is too high.  I published 1500 copies<lb/> which cost me <hi rend="underline">700 dollars in&#45;Gold</hi>.  They are<lb/> sold here for 1 Dollar pr copy.  If you should<lb/> think well of it and could affect a sale in the<lb/> states we might talk of your publishing them<lb/> yourself for the states.  <hi rend="underline">I think I shall sell one</hi><lb/> <hi rend="underline">thousand Copies here</hi>.  The Book is well received<lb/> here&#44; all the press have noticed it favorably except<lb/> the &#8220;<hi rend="underline">Gleaner</hi>&#8221; which no doubt you have seen<lb/> The &#8220;<hi rend="underline">Hebrew</hi>&#8221; I think will succeed.  The Messenger<lb/> of <placeName>New York</placeName> sympathizes with the &#8220;<hi rend="underline">Gleaner</hi>&#8221;<lb/> in consequence of the appearance of the &#8220;Hebrew&#8221;<lb/> which I consider out of place.  What is your opinion&#63;<lb/>  <persName>Mr Frank</persName> of <placeName>New York</placeName> is here&#44; and on his return<lb/> to <placeName>New York</placeName> wishes to publish my Class Book as the<lb/> whole Edition has been consumed.  He will do so<lb/> in his own responsibility&#44; as the price is too high here.</p>
-			<pb n="2"/>
-				<p>I suppose you have considered that I have<lb/> neglected in not writing to you the fact is that<lb/> very little has <sic>traspired</sic> here worth troubling<lb/> you.  What has <sic>occured</sic> you can learn from<lb/> the &#8220;Hebrew&#8221; and &#8220;Gleaner&#8221; I do not write for the<lb/> Gleaner&#44; but I do for the &#8220;<hi rend="underline">Hebrew</hi>&#8221; from which<lb/> you can copy the several items.  I am anxious<lb/> to see the Hebrew succeed&#44; although I am not<lb/> interested in the same from any pecuniary benefit<lb/> as the &#8220;Gleaner&#8221; would make you believe.<lb/>  The fact is it is jealous and envious and<lb/> wishes to grasp every thing&#8212;and I do not endorse<lb/> such mercenary motives such does not form<lb/> any part of my character.  And therefore I do<lb/> try and assist the &#8220;Hebrew&#8221; such a paper being<lb/> wanted in the <placeName>Pacific Coast</placeName>.  A new society<lb/> is being formed here entitled &#8220;The Universal<lb/> Jewish Alliance&#8221; to cooperate with the Central<lb/> Committee in <placeName>Paris&#44; France</placeName>.  <sic>full</sic> particulars<lb/> you will find published in the &#8220;<hi rend="underline">Hebrew</hi>&#8221; so that<lb/> I need not trouble you with writing it now.<lb/>  I have had but little success disposing<lb/> of your Books&#44; I shall however immediately<lb/> after <add>Hebrew</add> make up my account and forward<lb/> you what I have in hand&#44; and my own <sic>indebtness</sic><lb/> for your publications.  Your Occident I read with<lb/> pleasure&#44; it is the only periodical among our people<lb/> which contains any thing worth reading.</p>
-			<pb n="3"/>
-				<p>I hope I shall soon have the pleasure<lb/> of hearing from you</p>
-			<p rend="indent(1)">In the hope that this will meet<lb/> you in health&#44; happiness &#38; prosperity</p>
-			<p rend="indent(8)">Believe me</p>
-			<p rend="indent(8)">Yours truly</p>
-			<p rend="indent(9)"><persName role="author">H. A. Henry</persName></p>
-		</body>
-	</text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="yes">Henry, H. A.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS Isaac Leeser Collection</repository>
+                        <collection>The Library of the Dropsie College for Hebrew and Cognate
+                            Learning</collection>
+                        <idno>LSDCBx2FF11_13</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="yes">Henry, H. A.</author>
+                        <addressee accepted="yes" attested="yes" editor="false">Leeser, Isaac,
+                            Rev.</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>San Francisco, CA</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1864-03">30 March 1864</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="ilcajs_b2f11_0012_1r.jpg"/>
+                                <graphic url="ilcajs_b2f11_0012_1v.jpg"/>
+                                <graphic url="ilcajs_b2f11_0012_2r.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="true" paper_type="" size="Letter"
+                                        >letter</material>
+                                </support>
+                                <extent>3 pages on 2 sheets <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <p rend="align(right)">
+                <placeName>
+                    <sic>Sanfrancisco</sic>
+                </placeName>
+                <date>March 30th 1864</date>
+            </p>
+            <p>
+                <addressee>Revd Isaac Leeser</addressee>
+            </p>
+            <p rend="indent(1)">
+                <placeName>Philadelphia</placeName>
+            </p>
+            <p rend="indent(3)">My dear Sir</p>
+            <p rend="indent(5)">Herewith I<lb/> send you a copy of my Discourses. I shall<lb/> be
+                happy to have you review it, as I know<lb/> it will be ably and impartially done. I
+                would<lb/> willingly have sent you some copies for sale, but<lb/> the price is too
+                high. I published 1500 copies<lb/> which cost me <hi rend="underline">700 dollars
+                    in-Gold</hi>. They are<lb/> sold here for 1 Dollar pr copy. If you should<lb/>
+                think well of it and could affect a sale in the<lb/> states we might talk of your
+                publishing them<lb/> yourself for the states. <hi rend="underline">I think I shall
+                    sell one</hi><lb/>
+                <hi rend="underline">thousand Copies here</hi>. The Book is well received<lb/> here,
+                all the press have noticed it favorably except<lb/> the “<hi rend="underline"
+                    >Gleaner</hi>” which no doubt you have seen<lb/> The “<hi rend="underline"
+                    >Hebrew</hi>” I think will succeed. The Messenger<lb/> of <placeName>New
+                    York</placeName> sympathizes with the “<hi rend="underline">Gleaner</hi>”<lb/>
+                in consequence of the appearance of the “Hebrew”<lb/> which I consider out of place.
+                What is your opinion?<lb/>
+                <persName>Mr Frank</persName> of <placeName>New York</placeName> is here, and on his
+                return<lb/> to <placeName>New York</placeName> wishes to publish my Class Book as
+                the<lb/> whole Edition has been consumed. He will do so<lb/> in his own
+                responsibility, as the price is too high here.</p>
+            <pb n="2"/>
+            <p>I suppose you have considered that I have<lb/> neglected in not writing to you the
+                fact is that<lb/> very little has <sic>traspired</sic> here worth troubling<lb/>
+                you. What has <sic>occured</sic> you can learn from<lb/> the “Hebrew” and “Gleaner”
+                I do not write for the<lb/> Gleaner, but I do for the “<hi rend="underline"
+                    >Hebrew</hi>” from which<lb/> you can copy the several items. I am anxious<lb/>
+                to see the Hebrew succeed, although I am not<lb/> interested in the same from any
+                pecuniary benefit<lb/> as the “Gleaner” would make you believe.<lb/> The fact is it
+                is jealous and envious and<lb/> wishes to grasp every thing—and I do not
+                endorse<lb/> such mercenary motives such does not form<lb/> any part of my
+                character. And therefore I do<lb/> try and assist the “Hebrew” such a paper
+                being<lb/> wanted in the <placeName>Pacific Coast</placeName>. A new society<lb/> is
+                being formed here entitled “The Universal<lb/> Jewish Alliance” to cooperate with
+                the Central<lb/> Committee in <placeName>Paris, France</placeName>. <sic>full</sic>
+                particulars<lb/> you will find published in the “<hi rend="underline">Hebrew</hi>”
+                so that<lb/> I need not trouble you with writing it now.<lb/> I have had but little
+                success disposing<lb/> of your Books, I shall however immediately<lb/> after
+                    <add>פסח</add> make up my account and forward<lb/> you what I have in hand, and
+                my own <sic>indebtness</sic><lb/> for your publications. Your Occident I read
+                with<lb/> pleasure, it is the only periodical among our people<lb/> which contains
+                any thing worth reading.</p>
+            <pb n="3"/>
+            <p>I hope I shall soon have the pleasure<lb/> of hearing from you</p>
+            <p rend="indent(1)">In the hope that this will meet<lb/> you in health, happiness &amp;
+                prosperity</p>
+            <p rend="indent(8)">Believe me</p>
+            <p rend="indent(8)">Yours truly</p>
+            <p rend="indent(9)">
+                <persName role="author">H. A. Henry</persName>
+            </p>
+        </body>
+    </text>
 </TEI>

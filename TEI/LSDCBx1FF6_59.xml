@@ -1,267 +1,360 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE TEI [
-<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
-%teibase;
-<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
-%teiext;
-]>
-<TEI>
-    <teiHeader>
-      <fileDesc>
-        <titleStmt>
-          <title>[no title given]</title>
-          <author attested="yes" accepted="yes" signature="yes">Nathan, M. N.</author>
-          <editor></editor>
-          <sponsor></sponsor>
-          <funder></funder>
-          <principal></principal>
-          <respStmt>
-            <resp></resp>
-            <name></name>
-          </respStmt>
-        </titleStmt>
-        <editionStmt>
-          <edition></edition>
-          <respStmt>
-            <resp></resp>
-            <name></name>
-          </respStmt>
-        </editionStmt>
-        <extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-        <publicationStmt>
-          <publisher>Unpublished manuscript</publisher>
-        </publicationStmt>
-        <seriesStmt>
-          <p>Not part of a series</p>
-        </seriesStmt>
-        <notesStmt>
-          <note></note>
-        </notesStmt>
-        <sourceDesc>
-          <biblStruct>
-            <!-- catalog entry goes here -->
-            <monogr>
-              <imprint>
-                <dateLet></dateLet>
-              </imprint>
-            </monogr>
-          </biblStruct>
-          <msDesc>
-            <msIdentifier>
-              <country>USA</country>
-              <region>PA</region>
-              <settlement>Philadelphia</settlement>
-              <institution></institution>
-              <repository>CAJS Isaac Leeser Collection</repository>
-              <collection>The Library of the Dropsie College for Hebrew and Cognate Learning</collection>
-              <idno>LSDCBx1FF6_59</idno>
-              <altIdentifier>
-                <idno></idno>
-              </altIdentifier>
-              <msName></msName>
-            </msIdentifier>
-            <head></head>
-            <letHeading>
-              <author attested="yes" accepted="yes" signature="yes">Nathan, M. N.</author>
-              <addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac, Rev.</addressee>
-              <deliverer></deliverer>
-              <respStmt>
-                <resp></resp>
-                <name></name>
-              </respStmt>
-              <placeLet>Kingston, Jamaica</placeLet>
-              <placeRec>Philadelphia, PA</placeRec>
-              <dateLet when="1849-09" source="" attested="unk">3 September 1849</dateLet>
-              <dateLet when="1849-09" source="" attested="yes">3 September 5609</dateLet>
-            </letHeading>
-            <msContents>
-              <msItem>
-                <author></author>
-                <editor></editor>
-                <respStmt>
-                  <resp></resp>
-                  <name></name>
-                </respStmt>
-                <title></title>
-                <decoNote></decoNote>
-                <listBibl>
-                  <bibl></bibl>
-                </listBibl>
-                <filiation></filiation>
-                <textLang></textLang>
-                <figure>
-                  <graphic url="ilcajs_b1f6_0055_1r.jpg"/>
-                  <graphic url="ilcajs_b1f6_0055_1v.jpg"/>
-                  <graphic url="ilcajs_b1f6_0055_2r.jpg"/>
-                </figure>
-              </msItem>
-            </msContents>
-            <physDesc>
-              <objectDesc>
-                <supportDesc>
-                  <support>
-                    <material color="" lined="false" paper_type="" size="Letter">letter</material>
-                  </support>
-                  <extent>3 pages on 2 sheets
-                    <dimensions></dimensions>
-                  </extent>
-                  <foliation></foliation>
-                  <collation></collation>
-                  <condition fragment="false"></condition>
-                </supportDesc>
-                <layoutDesc>
-                  <layout></layout>
-                </layoutDesc>
-              </objectDesc>
-              <handDesc script="manuscript">
-                  <handNote></handNote>
-              </handDesc>
-              <decoDesc>
-                <decoNote></decoNote>
-              </decoDesc>
-              <additions></additions>
-              <bindingDesc>
-                <binding>
-                  <decoNote></decoNote>
-                </binding>
-              </bindingDesc>
-              <sealDesc>
-                <seal>
-                  <p></p>
-                </seal>
-              </sealDesc>
-              <accMat></accMat>
-              <envDesc occ="false"></envDesc>
-            </physDesc>
-            <history>
-              <origin></origin>
-              <provenance></provenance>
-              <acquisition></acquisition>
-            </history>
-            <additional>
-              <adminInfo>
-                <recordHist>
-                  <source></source>
-                  <change></change>
-                </recordHist>
-                <availability status="free">
-                  <p>Unrestricted</p>
-                </availability>
-                <custodialHist>
-                  <custEvent></custEvent>
-                </custodialHist>
-              </adminInfo>
-              <surrogates></surrogates>
-              <listBibl>
-                <bibl></bibl>
-              </listBibl>
-            </additional>
-            <msPart>
-              <altIdentifier>
-                <idno></idno>
-              </altIdentifier>
-            </msPart>
-          </msDesc>
-        </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-        <projectDesc>
-          <p></p>
-        </projectDesc>
-        <samplingDecl>
-          <p></p>
-        </samplingDecl>
-        <editorialDecl>
-          <correction>
-            <p></p>
-          </correction>
-          <normalization>
-            <p></p>
-          </normalization>
-          <quotation>
-            <p></p>
-          </quotation>
-          <hyphenation>
-            <p></p>
-          </hyphenation>
-          <segmentation>
-            <p></p>
-          </segmentation>
-          <stdVals>
-            <p></p>
-          </stdVals>
-          <interpretation>
-            <p></p>
-          </interpretation>
-        </editorialDecl>
-        <tagsDecl>
-          <rendition></rendition>
-          <namespace name="http://www.tei-c.org/ns/1.0">
-            <tagUsage gi=""></tagUsage>
-          </namespace>
-        </tagsDecl>
-        <refsDecl>
-          <cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-        </refsDecl>
-        <refsDecl>
-          <refState unit=""/>
-        </refsDecl>
-        <classDecl>
-          <taxonomy>
-            <category>
-              <catDesc></catDesc>
-            </category>
-          </taxonomy>
-        </classDecl>
-        <appInfo>
-          <application ident="" version="">
-            <desc></desc>
-            <label></label>
-          </application>
-        </appInfo>
-      </encodingDesc>
-      <profileDesc>
-        <creation></creation>
-        <langUsage>
-          <language ident="en">English</language>
-          <language ident="he">Hebrew</language>
-        </langUsage>
-        <textClass>
-          <keywords scheme="unknown">
-            <list>
-              <item></item>
-              <item></item>
-            </list>
-          </keywords>
-          <classCode scheme=""></classCode>
-          <catRef/>
-        </textClass>
-      </profileDesc>
-      <revisionDesc>
-        <change></change>
-      </revisionDesc>
-    </teiHeader>
-    <text>
-        <body>
-      
-		<pb n="1"/>
-			<p rend="align(right)"><placeName>Kingston Jamaica</placeName> <date>Sept 3<hi rend="sup">rd</hi> 5609</date>.</p>
-			<p>My dear friend</p>
-          <p rend="indent(2)">In making my bow to you through the<lb/> medium of <persName>Miss DeCordova</persName>&#44; the Bearer of this letter&#44; I beg you<lb/> not to bear hand upon me for not visiting since my residence<lb/> here&#44; having had enough to occupy both my time and attention<lb/> in establishing a school as a means of support&#44; in which I<lb/> have been &#40;I E&#41; tolerably successful. No doubt you expected<lb/> to hear from me via <placeName>New Orleans</placeName>&#44; but setting aside my dislike of<lb/> the climate of that place&#44; and the repugnance of my wife to being<lb/> again separated from her family&#44; there are other reasons which<lb/> I may confide to you&#44; as a fellow labourer in the vineyard of<lb/> the Lord&#44; though to an <add>Hebrew</add> I would not reveal them. They<lb/> are simply these. Having failed&#44; despite my utmost efforts&#44; in<lb/> giving satisfaction to two congregations&#44; <placeName>Kingston</placeName> &#38; <placeName>St. Thomas</placeName>&#44;<lb/> and&#44; instead of kind treatment&#44; having been exposed to insult<lb/> by both&#44; I dread the idea of incurring it a third time&#59; and<lb/> therefore prefer the toilsome and humble situation of a teacher<lb/> to the dignified one of a Jewish minister. Perhaps my own<lb/> temper and disposition are to blame&#59; but&#44; if so&#44; is it not preferable<lb/> to retire into private life and live in peace&#44; than have them again<lb/> excited by the <sic>disagreeabilities</sic> of a Jewish Congregation&#63;<lb/> In <placeName>St. Thomas</placeName>&#44; I even offered to serve them gratuitously&#44; as<lb/> salary was the bone of contention among the members&#44; provided<lb/> they would be at peace with each other. This&#44; the party in power<lb/> would not suffer&#59; and subsequently I accepted a very trifling</p>
-		<pb n="2"/>
-			<p>salary&#44; which was generally 3 quarters in amount&#44; and was content<lb/> to receive it in any manner&#44; taking whatever was offered me&#44; which was<lb/> not unfrequently 20 dollars at a time&#33; But it was useless. An<lb/> angel from Heaven would not satisfy them&#44; and I&#44; who possess<lb/> no angelic quality of course found it beyond my capability. To<lb/> enumerate the indignities I suffered would fill a volume&#59; and<lb/> I endured them patiently till threatened with personal violence.<lb/> It was time to resign&#59; and as <placeName>St. Thomas</placeName> presented less advantages<lb/> than <placeName>Kingston</placeName>&#44; behold me here again&#44; welcomed with an intensity<lb/> of feeling I was unprepared for&#44; and what is more&#44; with expressions<lb/> of profound regret that I ever left. My impression always was&#44;<lb/> that neither by preparatory study nor habits&#44; inclination&#44; or temper<lb/> was I ever intended or <sic>capacitated</sic> to minister before the<lb/> Lord&#59; circumstances forced the situation on me&#59; and now&#44;<lb/> having&#44; without the needful qualifications&#44; gained a reputation<lb/> I am unwilling to damage it by continuing in a profession<lb/> where there are so many candidates better adapted to supply<lb/> vacancies than myself. I am not ignorant that the Congregation<lb/> in <placeName>N. O.</placeName> give me the preference to any other&#59; this is flattering to my<lb/> feelings&#44; an unction to my vanity if you like&#44; but for my own<lb/> part&#44; the course I have pursued in declining the appointment&#44;<lb/> must&#44; after this candid avowal&#44; be deemed satisfactory by you.<lb/> I have now unbosomed myself&#44; and shall be glad to hear<lb/> your opinion&#44; as I always set the highest value&#44; on whatever<lb/> emanated from you.</p>
-          <p rend="indent(1)">I need not say how delighted I shall<lb/> be to hear from <persName>Miss DeCordova</persName> her estimate of my obt friend</p>
-		<pb n="3"/>
-			<p><persName>Leeser</persName>. You will find her a young person of fine mind&#44;<lb/> great strength of character&#44; intelligent and feeling. I beg you<lb/> will&#44; in concert with all my good friends in <placeName>Philadelphia</placeName>&#44;<lb/> endeavour to render her stay&#44; which is likely to be of some<lb/> continuance&#44; as agreeable as possible. She is exceedingly<lb/> dear to every member of our family&#44; and the attention shown<lb/> her will be valued as if it were paid to ourselves. I<lb/> have prepared her to be pleased with you and your conversation<lb/> and being persuaded that you have lost none of your<lb/> powers of amusing and instructing&#44; she expects to glean much<lb/> information&#44; and derive great pleasure from your society.</p>
-          <p rend="indent(1)">There are some small pecuniary matters to<lb/> be settled between us&#44; which would have been arranged<lb/> ere I quitted <placeName>St. Thomas</placeName>&#44; had your agent there <persName>Mr. M B<lb/> Simmonds</persName> furnished me with the accot. in time. I will<lb/> see to it and shortly forward you the amot.</p>
-          <p rend="indent(1)">Enough for this time&#44; so with prayers<lb/> to the searcher of Hearts that your entreaties on behalf<lb/> of yourself and Congregation may be heard and favourably<lb/> received&#44; and that you may all be inscribed in His eternal<lb/> registers for long life&#44; salvation&#44; and pardon&#59; and with the<lb/> best wishes of <persName>Mrs. N.</persName> and myself to you and all friends</p>
-          <p rend="indent(4)">I am</p>
-          <p rend="indent(5)">your friend &#38; well wisher</p>
-          <p rend="indent(5)"><persName role="author">M N Nathan</persName></p>
-			<p><addressee>Revd Isaac Leeser</addressee></p>
-			<p><placeName>Philadelphia</placeName></p>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+          <teiHeader>
 
-          
-        </body>
-    </text>
+                    <fileDesc>
+                              <titleStmt>
+                                        <title>[no title given]</title>
+                                        <author accepted="yes" attested="yes" signature="yes"
+                                                  >Nathan, M. N.</author>
+                                        <editor/>
+                                        <sponsor/>
+                                        <funder/>
+                                        <principal/>
+                                        <respStmt>
+                                                  <resp/>
+                                                  <name/>
+                                        </respStmt>
+                              </titleStmt>
+                              <editionStmt>
+                                        <edition/>
+                                        <respStmt>
+                                                  <resp/>
+                                                  <name/>
+                                        </respStmt>
+                              </editionStmt>
+                              <extent>[information about file size goes here, information about
+                                        extent of physical item comes later]</extent>
+                              <publicationStmt>
+                                        <publisher>Unpublished manuscript</publisher>
+                              </publicationStmt>
+                              <seriesStmt>
+                                        <p>Not part of a series</p>
+                              </seriesStmt>
+                              <notesStmt>
+                                        <note/>
+                              </notesStmt>
+                              <sourceDesc>
+                                        <biblStruct>
+                                                  <!-- catalog entry goes here -->
+                                                  <monogr>
+                                                  <imprint>
+                                                  <dateLet/>
+                                                  </imprint>
+                                                  </monogr>
+                                        </biblStruct>
+                                        <msDesc>
+                                                  <msIdentifier>
+                                                  <country>USA</country>
+                                                  <region>PA</region>
+                                                  <settlement>Philadelphia</settlement>
+                                                  <institution/>
+                                                  <repository>CAJS Isaac Leeser
+                                                  Collection</repository>
+                                                  <collection>The Library of the Dropsie College for
+                                                  Hebrew and Cognate Learning</collection>
+                                                  <idno>LSDCBx1FF6_59</idno>
+                                                  <altIdentifier>
+                                                  <idno/>
+                                                  </altIdentifier>
+                                                  <msName/>
+                                                  </msIdentifier>
+                                                  <head/>
+                                                  <letHeading>
+                                                  <author accepted="yes" attested="yes"
+                                                  signature="yes">Nathan, M. N.</author>
+                                                  <addressee accepted="yes" attested="yes"
+                                                  editor="false">Leeser, Isaac, Rev.</addressee>
+                                                  <deliverer/>
+                                                  <respStmt>
+                                                  <resp/>
+                                                  <name/>
+                                                  </respStmt>
+                                                  <placeLet>Kingston, Jamaica</placeLet>
+                                                  <placeRec>Philadelphia, PA</placeRec>
+                                                  <dateLet attested="unk" source="" when="1849-09">3
+                                                  September 1849</dateLet>
+                                                  <dateLet attested="yes" source="" when="1849-09">3
+                                                  September 5609</dateLet>
+                                                  </letHeading>
+                                                  <msContents>
+                                                  <msItem>
+                                                  <author/>
+                                                  <editor/>
+                                                  <respStmt>
+                                                  <resp/>
+                                                  <name/>
+                                                  </respStmt>
+                                                  <title/>
+                                                  <decoNote/>
+                                                  <listBibl>
+                                                  <bibl/>
+                                                  </listBibl>
+                                                  <filiation/>
+                                                  <textLang/>
+                                                  <figure>
+                                                  <graphic url="ilcajs_b1f6_0055_1r.jpg"/>
+                                                  <graphic url="ilcajs_b1f6_0055_1v.jpg"/>
+                                                  <graphic url="ilcajs_b1f6_0055_2r.jpg"/>
+                                                  </figure>
+                                                  </msItem>
+                                                  </msContents>
+                                                  <physDesc>
+                                                  <objectDesc>
+                                                  <supportDesc>
+                                                  <support>
+                                                  <material color="" lined="false" paper_type=""
+                                                  size="Letter">letter</material>
+                                                  </support>
+                                                  <extent>3 pages on 2 sheets <dimensions/>
+                                                  </extent>
+                                                  <foliation/>
+                                                  <collation/>
+                                                  <condition fragment="false"/>
+                                                  </supportDesc>
+                                                  <layoutDesc>
+                                                  <layout/>
+                                                  </layoutDesc>
+                                                  </objectDesc>
+                                                  <handDesc script="manuscript">
+                                                  <handNote/>
+                                                  </handDesc>
+                                                  <decoDesc>
+                                                  <decoNote/>
+                                                  </decoDesc>
+                                                  <additions/>
+                                                  <bindingDesc>
+                                                  <binding>
+                                                  <decoNote/>
+                                                  </binding>
+                                                  </bindingDesc>
+                                                  <sealDesc>
+                                                  <seal>
+                                                  <p/>
+                                                  </seal>
+                                                  </sealDesc>
+                                                  <accMat/>
+                                                  <envDesc occ="false"/>
+                                                  </physDesc>
+                                                  <history>
+                                                  <origin/>
+                                                  <provenance/>
+                                                  <acquisition/>
+                                                  </history>
+                                                  <additional>
+                                                  <adminInfo>
+                                                  <recordHist>
+                                                  <source/>
+                                                  <change/>
+                                                  </recordHist>
+                                                  <availability status="free">
+                                                  <p>Unrestricted</p>
+                                                  </availability>
+                                                  <custodialHist>
+                                                  <custEvent/>
+                                                  </custodialHist>
+                                                  </adminInfo>
+                                                  <surrogates/>
+                                                  <listBibl>
+                                                  <bibl/>
+                                                  </listBibl>
+                                                  </additional>
+                                                  <msPart>
+                                                  <altIdentifier>
+                                                  <idno/>
+                                                  </altIdentifier>
+                                                  </msPart>
+                                        </msDesc>
+                              </sourceDesc>
+                    </fileDesc>
+                    <encodingDesc>
+                              <projectDesc>
+                                        <p/>
+                              </projectDesc>
+                              <samplingDecl>
+                                        <p/>
+                              </samplingDecl>
+                              <editorialDecl>
+                                        <correction>
+                                                  <p/>
+                                        </correction>
+                                        <normalization>
+                                                  <p/>
+                                        </normalization>
+                                        <quotation>
+                                                  <p/>
+                                        </quotation>
+                                        <hyphenation>
+                                                  <p/>
+                                        </hyphenation>
+                                        <segmentation>
+                                                  <p/>
+                                        </segmentation>
+                                        <stdVals>
+                                                  <p/>
+                                        </stdVals>
+                                        <interpretation>
+                                                  <p/>
+                                        </interpretation>
+                              </editorialDecl>
+                              <tagsDecl>
+                                        <rendition/>
+                                        <namespace name="http://www.tei-c.org/ns/1.0">
+                                                  <tagUsage gi=""/>
+                                        </namespace>
+                              </tagsDecl>
+                              <refsDecl>
+                                        <cRefPattern matchPattern="" replacementPattern=""/>
+                              </refsDecl>
+                              <refsDecl>
+                                        <refState unit=""/>
+                              </refsDecl>
+                              <classDecl>
+                                        <taxonomy>
+                                                  <category>
+                                                  <catDesc/>
+                                                  </category>
+                                        </taxonomy>
+                              </classDecl>
+                              <appInfo>
+                                        <application ident="" version="">
+                                                  <desc/>
+                                                  <label/>
+                                        </application>
+                              </appInfo>
+                    </encodingDesc>
+                    <profileDesc>
+                              <creation/>
+                              <langUsage>
+                                        <language ident="en">English</language>
+                                        <language ident="he">Hebrew</language>
+                              </langUsage>
+                              <textClass>
+                                        <keywords scheme="unknown">
+                                                  <list>
+                                                  <item/>
+                                                  <item/>
+                                                  </list>
+                                        </keywords>
+                                        <classCode scheme=""/>
+                                        <catRef/>
+                              </textClass>
+                    </profileDesc>
+                    <revisionDesc>
+                              <change/>
+                    </revisionDesc>
+          </teiHeader>
+          <text>
+                    <body>
+                              <pb n="1"/>
+                              <p rend="align(right)"><placeName>Kingston Jamaica</placeName>
+                                        <date>Sept 3<hi rend="sup">rd</hi> 5609</date>.</p>
+                              <p>My dear friend</p>
+                              <p rend="indent(2)">In making my bow to you through the<lb/> medium of
+                                                  <persName>Miss DeCordova</persName>, the Bearer of
+                                        this letter, I beg you<lb/> not to bear hand upon me for not
+                                        visiting since my residence<lb/> here, having had enough to
+                                        occupy both my time and attention<lb/> in establishing a
+                                        school as a means of support, in which I<lb/> have been (I
+                                        E) tolerably successful. No doubt you expected<lb/> to hear
+                                        from me via <placeName>New Orleans</placeName>, but setting
+                                        aside my dislike of<lb/> the climate of that place, and the
+                                        repugnance of my wife to being<lb/> again separated from her
+                                        family, there are other reasons which<lb/> I may confide to
+                                        you, as a fellow labourer in the vineyard of<lb/> the Lord,
+                                        though to an <add>Hebrew</add> I would not reveal them.
+                                        They<lb/> are simply these. Having failed, despite my utmost
+                                        efforts, in<lb/> giving satisfaction to two congregations,
+                                                  <placeName>Kingston</placeName> &amp;
+                                                  <placeName>St. Thomas</placeName>,<lb/> and,
+                                        instead of kind treatment, having been exposed to
+                                        insult<lb/> by both, I dread the idea of incurring it a
+                                        third time; and<lb/> therefore prefer the toilsome and
+                                        humble situation of a teacher<lb/> to the dignified one of a
+                                        Jewish minister. Perhaps my own<lb/> temper and disposition
+                                        are to blame; but, if so, is it not preferable<lb/> to
+                                        retire into private life and live in peace, than have them
+                                        again<lb/> excited by the <sic>disagreeabilities</sic> of a
+                                        Jewish Congregation?<lb/> In <placeName>St.
+                                                  Thomas</placeName>, I even offered to serve them
+                                        gratuitously, as<lb/> salary was the bone of contention
+                                        among the members, provided<lb/> they would be at peace with
+                                        each other. This, the party in power<lb/> would not suffer;
+                                        and subsequently I accepted a very trifling</p>
+                              <pb n="2"/>
+                              <p>salary, which was generally 3 quarters in amount, and was
+                                        content<lb/> to receive it in any manner, taking whatever
+                                        was offered me, which was<lb/> not unfrequently 20 dollars
+                                        at a time! But it was useless. An<lb/> angel from Heaven
+                                        would not satisfy them, and I, who possess<lb/> no angelic
+                                        quality of course found it beyond my capability. To<lb/>
+                                        enumerate the indignities I suffered would fill a volume;
+                                        and<lb/> I endured them patiently till threatened with
+                                        personal violence.<lb/> It was time to resign; and as
+                                                  <placeName>St. Thomas</placeName> presented less
+                                        advantages<lb/> than <placeName>Kingston</placeName>, behold
+                                        me here again, welcomed with an intensity<lb/> of feeling I
+                                        was unprepared for, and what is more, with expressions<lb/>
+                                        of profound regret that I ever left. My impression always
+                                        was,<lb/> that neither by preparatory study nor habits,
+                                        inclination, or temper<lb/> was I ever intended or
+                                                  <sic>capacitated</sic> to minister before the<lb/>
+                                        Lord; circumstances forced the situation on me; and
+                                        now,<lb/> having, without the needful qualifications, gained
+                                        a reputation<lb/> I am unwilling to damage it by continuing
+                                        in a profession<lb/> where there are so many candidates
+                                        better adapted to supply<lb/> vacancies than myself. I am
+                                        not ignorant that the Congregation<lb/> in <placeName>N.
+                                                  O.</placeName> give me the preference to any
+                                        other; this is flattering to my<lb/> feelings, an unction to
+                                        my vanity if you like, but for my own<lb/> part, the course
+                                        I have pursued in declining the appointment,<lb/> must,
+                                        after this candid avowal, be deemed satisfactory by
+                                        you.<lb/> I have now unbosomed myself, and shall be glad to
+                                        hear<lb/> your opinion, as I always set the highest value,
+                                        on whatever<lb/> emanated from you.</p>
+                              <p rend="indent(1)">I need not say how delighted I shall<lb/> be to
+                                        hear from <persName>Miss DeCordova</persName> her estimate
+                                        of my obt friend</p>
+                              <pb n="3"/>
+                              <p><persName>Leeser</persName>. You will find her a young person of
+                                        fine mind,<lb/> great strength of character, intelligent and
+                                        feeling. I beg you<lb/> will, in concert with all my good
+                                        friends in <placeName>Philadelphia</placeName>,<lb/>
+                                        endeavour to render her stay, which is likely to be of
+                                        some<lb/> continuance, as agreeable as possible. She is
+                                        exceedingly<lb/> dear to every member of our family, and the
+                                        attention shown<lb/> her will be valued as if it were paid
+                                        to ourselves. I<lb/> have prepared her to be pleased with
+                                        you and your conversation<lb/> and being persuaded that you
+                                        have lost none of your<lb/> powers of amusing and
+                                        instructing, she expects to glean much<lb/> information, and
+                                        derive great pleasure from your society.</p>
+                              <p rend="indent(1)">There are some small pecuniary matters to<lb/> be
+                                        settled between us, which would have been arranged<lb/> ere
+                                        I quitted <placeName>St. Thomas</placeName>, had your agent
+                                        there <persName>Mr. M B<lb/> Simmonds</persName> furnished
+                                        me with the accot. in time. I will<lb/> see to it and
+                                        shortly forward you the amot.</p>
+                              <p rend="indent(1)">Enough for this time, so with prayers<lb/> to the
+                                        searcher of Hearts that your entreaties on behalf<lb/> of
+                                        yourself and Congregation may be heard and favourably<lb/>
+                                        received, and that you may all be inscribed in His
+                                        eternal<lb/> registers for long life, salvation, and pardon;
+                                        and with the<lb/> best wishes of <persName>Mrs.
+                                                  N.</persName> and myself to you and all
+                                        friends</p>
+                              <p rend="indent(4)">I am</p>
+                              <p rend="indent(5)">your friend &amp; well wisher</p>
+                              <p rend="indent(5)">
+                                        <persName role="author">M N Nathan</persName>
+                              </p>
+                              <p>
+                                        <addressee>Revd Isaac Leeser</addressee>
+                              </p>
+                              <p>
+                                        <placeName>Philadelphia</placeName>
+                              </p>
+                    </body>
+          </text>
 </TEI>

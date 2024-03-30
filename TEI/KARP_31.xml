@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
         <fileDesc>
             <titleStmt>
                 <title>[no title given]</title>
-                <author attested="yes" accepted="yes" signature="yes">Noot, Simeon C.</author>
+                <author accepted="yes" attested="yes" signature="yes">Noot, Simeon C.</author>
                 <editor/>
                 <sponsor/>
                 <funder/>
@@ -47,7 +49,9 @@
                         <settlement>New York</settlement>
                         <institution>Jewish Theological Seminary</institution>
                         <repository/>
-                        <collection>The Abraham and Deborah Karp Collection of Early American Judaica at the Library of the Jewish Theological Seminary of America</collection>
+                        <collection>The Abraham and Deborah Karp Collection of Early American
+                            Judaica at the Library of the Jewish Theological Seminary of
+                            America</collection>
                         <idno/>
                         <altIdentifier>
                             <idno/>
@@ -56,9 +60,9 @@
                     </msIdentifier>
                     <head/>
                     <letHeading>
-                        <author attested="yes" accepted="yes" signature="yes">Noot, Simeon
+                        <author accepted="yes" attested="yes" signature="yes">Noot, Simeon
                             C.</author>
-                        <addressee editor="false" attested="yes" accepted="yes">Leeser,
+                        <addressee accepted="yes" attested="yes" editor="false">Leeser,
                             Isaac</addressee>
                         <deliverer/>
                         <respStmt>
@@ -67,7 +71,7 @@
                         </respStmt>
                         <placeLet>New York, NY</placeLet>
                         <placeRec>Philadelphia, PA</placeRec>
-                        <dateLet when="" source="" attested="unk"/>
+                        <dateLet attested="unk" source="" when=""/>
                     </letHeading>
                     <msContents>
                         <msItem>
@@ -93,7 +97,8 @@
                         <objectDesc>
                             <supportDesc>
                                 <support>
-                                    <material color="" lined="false" paper_type="" size="Letter">letter</material>
+                                    <material color="" lined="false" paper_type="" size="Letter"
+                                        >letter</material>
                                 </support>
                                 <extent>1 page on 1 sheet <dimensions/>
                                 </extent>
@@ -234,32 +239,28 @@
     </teiHeader>
     <text>
         <body>
-
             <pb n="1"/>
-
-            <p>Sir&#58;</p>
-            <p rend="indent(1)">At the request of the exalted <persName>Mr. Mordecai Noah</persName> you<lb/> are to
-                have the kindness <sic>are to have the kindness</sic> t<add>o</add><lb/> inquire
-                <del>after</del> whether the Meshulach&#42;&#44; <persName>Rabbi Nissim</persName>&#44; of the city<lb/>
-                <placeName>Susa</placeName>&#44; is still alive or not. For he received a letter
-                from <placeName>Sus<add>a</add></placeName><lb/> from the relatives of this man&#44;
+            <p>Sir:</p>
+            <p rend="indent(1)">At the request of the exalted Mr. <persName>Mordecai Noah</persName>
+                you<lb/> are to have the kindness <sic>are to have the kindness</sic>
+                t<add>o</add><lb/> inquire <del>after</del> whether the Meshulach*, <persName>Rabbi
+                    Nissim</persName>, of the city<lb/>
+                <placeName>Susa</placeName>, is still alive or not. For he received a letter from
+                        <placeName>Sus<add>a</add></placeName><lb/> from the relatives of this man,
                 pleading with him to perfor<add>m</add><lb/> the Mitzva and find out about him. They
                 say that he is<lb/> righteous and trustworthy emissary of those who sent
-                    <add>&#63;</add><lb/> If you know nothing about him&#44; you are requested to
-                <add>ad</add><lb/>vertise in the &#8220;Occident.&#8221;<lb/> Signed&#44; at the
-                request of <persName>Mordecai N<add>oah</add></persName><lb/>
+                    <add>?</add><lb/> If you know nothing about him, you are requested to
+                    <add>ad</add><lb/>vertise in the “Occident.”<lb/> Signed, at the request of
+                    <persName>Mordecai N<add>oah</add></persName><lb/>
                 <persName role="author">Simeon C. Noot</persName>.<lb/>
             </p>
             <p>P.S.</p>
             <p><persName>Mr. Dering</persName> will make an effort to collect the
-                mo<add>ney</add><lb/> due you. Should he not succeed&#44; I shall pay you<lb/> in
-                any event immediately after Purim</p>
-
-            <p>&#42;An emissary of a foreign land or institution<lb/>
-                <add>&#63;</add>
+                mo<add>ney</add><lb/> due you. Should he not succeed, I shall pay you<lb/> in any
+                event immediately after Purim</p>
+            <p>*An emissary of a foreign land or institution<lb/>
+                <add>?</add>
                 <placeName>America</placeName></p>
-
-
         </body>
     </text>
 </TEI>

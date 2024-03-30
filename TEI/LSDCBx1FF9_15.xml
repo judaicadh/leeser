@@ -1,276 +1,608 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
-      <fileDesc>
-        <titleStmt>
-          <title>[no title given]</title>
-          <author attested="yes" accepted="yes" signature="yes">Redfield, J. S.</author>
-          <editor></editor>
-          <sponsor></sponsor>
-          <funder></funder>
-          <principal></principal>
-          <respStmt>
-            <resp></resp>
-            <name></name>
-          </respStmt>
-        </titleStmt>
-        <editionStmt>
-          <edition></edition>
-          <respStmt>
-            <resp></resp>
-            <name></name>
-          </respStmt>
-        </editionStmt>
-        <extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-        <publicationStmt>
-          <publisher>Unpublished manuscript</publisher>
-        </publicationStmt>
-        <seriesStmt>
-          <p>Not part of a series</p>
-        </seriesStmt>
-        <notesStmt>
-          <note></note>
-        </notesStmt>
-        <sourceDesc>
-          <biblStruct>
-            <!-- catalog entry goes here -->
-            <monogr>
-              <imprint>
-                <dateLet></dateLet>
-              </imprint>
-            </monogr>
-          </biblStruct>
-          <msDesc>
-            <msIdentifier>
-              <country>USA</country>
-              <region>PA</region>
-              <settlement>Philadelphia</settlement>
-              <institution></institution>
-              <repository>CAJS Isaac Leeser Collection</repository>
-              <collection>The Library of the Dropsie College for Hebrew and Cognate Learning</collection>
-              <idno>LSDCBx1FF9_15</idno>
-              <altIdentifier>
-                <idno></idno>
-              </altIdentifier>
-              <msName></msName>
-            </msIdentifier>
-            <head></head>
-            <letHeading>
-              <author attested="yes" accepted="yes" signature="yes">Redfield, J. S.</author>
-              <addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac, Rev.</addressee>
-              <deliverer></deliverer>
-              <respStmt>
-                <resp></resp>
-                <name></name>
-              </respStmt>
-              <placeLet>New York, NY</placeLet>
-              <placeRec>Philadelphia, PA</placeRec>
-              <dateLet when="1852-03" source="" attested="yes">March 1852</dateLet>
-            </letHeading>
-            <msContents>
-              <msItem>
-                <author></author>
-                <editor></editor>
-                <respStmt>
-                  <resp></resp>
-                  <name></name>
-                </respStmt>
-                <title></title>
-                <decoNote></decoNote>
-                <listBibl>
-                  <bibl></bibl>
-                </listBibl>
-                <filiation></filiation>
-                <textLang></textLang>
-                <figure>
-                  <graphic url="ilcajs_b1f9_0013_1r.tif"/>
-                  <graphic url="ilcajs_b1f9_0013_1v.tif"/>
-                  <graphic url="ilcajs_b1f9_0013_2r.tif"/>
-                </figure>
-              </msItem>
-            </msContents>
-            <physDesc>
-              <objectDesc>
-                <supportDesc>
-                  <support>
-                    <material color="" lined="false" paper_type="" size="Letter">letter</material>
-                  </support>
-                  <extent>5 pages on 2 sheets
-                    <dimensions></dimensions>
-                  </extent>
-                  <foliation></foliation>
-                  <collation></collation>
-                  <condition fragment="false"></condition>
-                </supportDesc>
-                <layoutDesc>
-                  <layout></layout>
-                </layoutDesc>
-              </objectDesc>
-              <handDesc script="manuscript">
-                  <handNote></handNote>
-              </handDesc>
-              <decoDesc>
-                <decoNote></decoNote>
-              </decoDesc>
-              <additions></additions>
-              <bindingDesc>
-                <binding>
-                  <decoNote></decoNote>
-                </binding>
-              </bindingDesc>
-              <sealDesc>
-                <seal>
-                  <p></p>
-                </seal>
-              </sealDesc>
-              <accMat></accMat>
-              <envDesc occ="false"></envDesc>
-            </physDesc>
-            <history>
-              <origin></origin>
-              <provenance></provenance>
-              <acquisition></acquisition>
-            </history>
-            <additional>
-              <adminInfo>
-                <recordHist>
-                  <source></source>
-                  <change></change>
-                </recordHist>
-                <availability status="free">
-                  <p>Unrestricted</p>
-                </availability>
-                <custodialHist>
-                  <custEvent></custEvent>
-                </custodialHist>
-              </adminInfo>
-              <surrogates></surrogates>
-              <listBibl>
-                <bibl></bibl>
-              </listBibl>
-            </additional>
-            <msPart>
-              <altIdentifier>
-                <idno></idno>
-              </altIdentifier>
-            </msPart>
-          </msDesc>
-        </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-        <projectDesc>
-          <p></p>
-        </projectDesc>
-        <samplingDecl>
-          <p></p>
-        </samplingDecl>
-        <editorialDecl>
-          <correction>
-            <p></p>
-          </correction>
-          <normalization>
-            <p></p>
-          </normalization>
-          <quotation>
-            <p></p>
-          </quotation>
-          <hyphenation>
-            <p></p>
-          </hyphenation>
-          <segmentation>
-            <p></p>
-          </segmentation>
-          <stdVals>
-            <p></p>
-          </stdVals>
-          <interpretation>
-            <p></p>
-          </interpretation>
-        </editorialDecl>
-        <tagsDecl>
-          <rendition></rendition>
-          <namespace name="http://www.tei-c.org/ns/1.0">
-            <tagUsage gi=""></tagUsage>
-          </namespace>
-        </tagsDecl>
-        <refsDecl>
-          <cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-        </refsDecl>
-        <refsDecl>
-          <refState unit=""/>
-        </refsDecl>
-        <classDecl>
-          <taxonomy>
-            <category>
-              <catDesc></catDesc>
-            </category>
-          </taxonomy>
-        </classDecl>
-        <appInfo>
-          <application ident="" version="">
-            <desc></desc>
-            <label></label>
-          </application>
-        </appInfo>
-      </encodingDesc>
-      <profileDesc>
-        <creation></creation>
-        <langUsage>
-          <language ident="en">English</language>
-        </langUsage>
-        <textClass>
-          <keywords scheme="unknown">
-            <list>
-              <item></item>
-              <item></item>
-            </list>
-          </keywords>
-          <classCode scheme=""></classCode>
-          <catRef/>
-        </textClass>
-      </profileDesc>
-      <revisionDesc>
-        <change></change>
-      </revisionDesc>
-    </teiHeader>
-    <text>
-        <body>
-          <pb n="1"/>
-            <p rend="align(right)"><placeName>Clinton Hall</placeName></p>
-            <p rend="align(right)"><placeName>New York</placeName> <date>March 1852</date></p>
-            <p>Dear Sir&#44;</p>
-          <p rend="indent(1)">I am about publishing a work<lb/> the design of which is to present biograph&#61;<lb/>&#61;ical instruction respecting living persons who<lb/> may be interesting to the public in the<lb/> various departments of active and intellect&#61;<lb/>&#61;ual life.&#8222; It is partly based upon a similar<lb/> English work and will bear the same title<lb/> &#34;men of the Time in 1852&#34;.&#8222; A specimen page of<lb/> its general treatment is enclosed.&#8222; As the object<lb/> is&#44; within the necessary limits&#44; to make this work<lb/> as perfect as possible&#44; I apply to you personally<lb/> for such details of dates and facts in your own<lb/> case as you may think continent and desirable<lb/> for a book of reference of this kind.&#8222; As the book<lb/> will go to press immediately&#44; an answer at the<lb/> earliest moment will oblige</p>
-          <p rend="indent(2)">Yours respectfully</p>
-          <p rend="indent(4)"><persName role="author">J. S. Redfield</persName></p>
-            <p>To <addressee>Revd. Isaac Leeser</addressee></p>
-          <p rend="indent(1)"><placeName>Philadelphia</placeName></p>
-            <p rend="align(right)">over</p>
-          <pb n="2"/>
-            <p>8</p>
-            <p rend="align(center)"><persName>CROLY</persName>&#8212;<persName>DUMAS</persName>&#8212;<persName>DUPONT</persName>.</p>
-            <p></p>
-            <p>&#160;&#160;&#160;&#160;<persName>CROLY&#44; REV. DR. GEORGE</persName>&#44; Poet and Clergyman&#44; was born in<lb/> <placeName>Ireland</placeName>&#44; educated at Trinity  College&#44; <placeName>Dublin</placeName>&#44; and ordained in the<lb/> Church of England.  His verses are more remarkable for correctness<lb/> than vigour&#44; and are not very popular.  He enjoys the rectory of <placeName>St.<lb/> Stephen&#39;s&#44; Wallbrook&#44; London</placeName>&#44; and is understood to indulge in<lb/> &#34;writing for the newspapers.&#34;  He was formerly connected with<lb/> the &#34;Britannia&#44;&#34; a Tory weekly paper.  The interior of the church<lb/> in which his sermons are delivered is said to be the masterpiece of<lb/> <persName>Sir Christopher Wren</persName>.  <persName>Dr. Croly&#39;s</persName> best work is a romance&#44; &#34;Sala&#45;<lb/>thiel&#44; or the Wandering Jew.&#34;  His chief poems are &#34;Paris in 1815&#59;&#34;<lb/> &#34;The Angel of the World&#59;&#34; and &#34;Gems from the Aubigen&#233;.&#34;  He<lb/> has likewise written a Life of Burke&#44; and a work on the Apocalypse<lb/> of St. John.</p>
-            <p>&#160;&#160;&#160;&#160;<persName>DUMAS&#44; JEAN BAPTISTE</persName>&#44; the first Practical Chemist of <placeName>France</placeName>&#44;<lb/> late Minister of Agriculture and Commerce&#44; Professor of Chemistry<lb/> at the Sorbonne&#44; in the School of Medicine&#44; Member of the Institute&#44;<lb/> was born at <placeName>Alais</placeName>&#44; <date>July 1800</date>.  When fourteen&#44; <persName>Dumas</persName> went to<lb/> <placeName>Geneva</placeName>&#44; to study chemistry&#44; botany&#44; and medicine&#44; and his first pub&#45;<lb/>lication was an essay in connexion with <persName>De Candolle</persName>&#44; then a profes&#45;<lb/>sor in the Swiss city.  The attention of scientific men was soon<lb/> attracted to him by his researches in animal physiology&#44; in which he<lb/> was associated with <persName>M. Prevost</persName>.  In <date>1821</date> he was appointed teacher<lb/> of chemistry in the Ecole Polytechnique&#44; <placeName>Paris</placeName>.  In <date>1821</date>&#44; <persName>Dumas</persName><lb/> published a memoir on the relations existing between the specific<lb/> weights of solid bodies and their atomic weight&#59; and from that time<lb/> to the present has been constantly adding to our stock of knowledge<lb/> on the subjects of gaseous substances&#44; organic salts&#44; the atomic con&#45;<lb/>stitution of the different kinds of ether&#44; the nature of heavy oil of<lb/> wine&#44; the sulphate of oxide of ethyle&#44; oxalic acid&#44; the compounds of<lb/> the chemical properties of chloroform&#44; idoform&#44; and bromoform&#44; stear&#45;<lb/>opt&#232;ne&#59; the oil of rosemary and valerian&#44; upon organic compounds.<lb/>  <persName>Dumas&#39;</persName> theory of substitution is one of the most important works of<lb/> this chemis&#44; and his treatise on chemistry&#44; as applied to the arts&#44; is<lb/> another valuable offering to practical science.  His &#34;Le&#231;ons sur<lb/> la Philosophie Chimique&#34; are popular.  As a lecturer&#44; <persName>Dumas</persName> is one<lb/> of the most distinguished in <placeName>Paris</placeName>.  In <date>May 1849</date>&#44; <persName>Dumas</persName> was elected<lb/> to the National Assembly&#59; and the President of the Republic called<lb/> him on the <date>31st of October</date>&#44; to join the administration&#44; and <sic>intrusted</sic><lb/> him with the post of Minister of Agriculture and Commerce&#44; where<lb/> his chemical knowledge enabled him to render public service.  He<lb/> originated annual meetings bearing on agriculture&#44; commerce&#44; and<lb/> manufactures.  <persName>Dumas</persName> was Chairman of the Jury&#44; Class 2&#44; in the<lb/> Great Exhibition of <date>1851</date>&#44; in <placeName>London</placeName>.</p>
-            <p>&#160;&#160;&#160;&#160;<persName>DUPONT &#40;DE L&#39;EURE&#41;</persName>&#44; Ex&#45;President of the Council in <placeName>France</placeName>&#44;<lb/> is now in his 83d year&#44; and though there have been many abler and<lb/> more successful men&#44; still we doubt if there be a sincerer&#44; a more<lb/> straightforward and an honester deputy in all <placeName>France</placeName>.  In the year<lb/> <date>1808</date> he was a member of the Council of Five Hundred&#59; in <date>1811</date>&#44; he<lb/> was President of the Court of <placeName>Rouen</placeName>&#59; in <date>1813</date> he was President of<lb/> the <emph rend="italics">Corps L&#233;gislatif</emph>&#59; in <date>1815</date> he proposed the famous Declaration&#44;<lb/> in which the rights of citizens were reserved&#59; and in <date>1830</date> he was</p>
-          <pb n="3"/>
-            <p rend="align(center)"><persName>GROTE</persName>&#8212;<persName>HUNT</persName>&#8212;<persName>LAWRENCE</persName></p>
-            <p rend="align(right)">9</p>
-            <p>appointed Minister of Justice.  His appointment derived its signifi&#45;<lb/>cancy from being a personal protest against <persName>Marshal Bugeaud</persName>.  He<lb/> is&#44; moreover&#44; highly esteemed by the French people.  At the elec&#45;<lb/>tions of <date>1842</date>&#44; <persName>M. Dupont</persName>&#44; indignant at seeing the deputies of the Eure<lb/> servilely voting in favour of the execrated Guizot ministry&#44; contested<lb/> four colleges of that department simultaneously&#59; he was elected in<lb/> all four&#44; and chose Evreux.  <persName>M. Dupont</persName> invariably voted against<lb/> the corrupt and dishonest administration which fell with the late<lb/> king.</p>
-            <p>&#160;&#160;&#160;&#160;<persName>GROTE&#44; GEORGE</persName>&#44; Banker&#44; political Reformer and Author&#44; was<lb/> born in <date>1794</date>&#44; at <placeName>Clay Hill</placeName>&#44; near <placeName>Beckenham&#44; Kent</placeName>.  His ancestors<lb/> came to this country from <placeName>Germany</placeName>&#44; and his grandfather founded&#44; in<lb/> conjunction with <persName>Mr. George Prescott</persName>&#44; the banking&#45;house in <placeName>Thread&#45;<lb/>needle Street</placeName>&#44; which still bears the name of the original partners.<lb/>  <persName>Mr. Grote</persName> was educated at the Charter&#45;house school&#44; and entered<lb/> his father&#39;s establishment as a clerk in his sixteenth year.  His<lb/> leisure was for many years afterwards spent in unremitting study.<lb/>  About <date>1823</date>&#44; he commenced writing a &#34;History of Greece&#44;&#34; upon<lb/> which work he steadily laboured till the Reform movement of <date>1830</date><lb/>&#45;<date>1831</date>&#44; called him forward into public life.  He espoused the cause<lb/> of radical reform&#44; and successfully contested the city of <placeName>London</placeName> in<lb/> <date>December 1832</date>&#59; which he represented in three successive parlia&#45;<lb/>ments&#44; until his retirement in <date>1841</date>.  His first publication was a<lb/> pamphlet in reply to <persName>Sir James Mackintosh&#39;s</persName> &#34;Essay on Parilamen&#45;<lb/>tary Reform&#44;&#34; in the &#34;Edinburgh Review&#59;&#34; it was printed anony&#45;<lb/>mously in <date>1821</date>.  He has since written a small work on the &#34;Essen&#45;<lb/>tials of Parliamentary Reform&#44;&#34; an article on &#34;<persName>Mitford</persName>&#44;&#34; in the<lb/> &#34;Westminster&#44;&#34; and another on <persName>Niebuhr&#39;s</persName> &#34;Heroic Legends of<lb/> Greece&#44;&#34; in the &#34;London and Westminster Review.&#34;  In Parliament<lb/> he was considered to have in especial charge the advocacy of the<lb/> ballot&#44; a question upon which he regularly made an annual motion.<lb/>  He has for some time retired from active participation in politics&#44;<lb/> and has thus recently been able to give to the world the earlier<lb/> books of his &#34;History of Greece.&#34;</p>
-            <p>&#160;&#160;&#160;&#160;<persName>HUNT&#44; FREDERICK KNIGHT</persName>&#44; Journalist&#44; Editor of the &#34;Daily<lb/> News&#44;&#34; born in <placeName>Buckinghamshire</placeName> in <date>1814</date>.  In a volume which<lb/> enumerates the journalists of <placeName>London</placeName>&#44; the name of the editor of the<lb/> &#34;Daily News&#34; must have a place.  <persName>Mr. Hunt</persName> was a member of the<lb/> editorial staff selected for the &#34;Daily News&#34; when <persName>Mr. Charles<lb/> Dickens</persName> established that journal in <date>1846</date>&#44; and in <date>1851</date> became the<lb/> chief editor of the paper.  He had been a writer for the press&#44; and<lb/> a newspaper editor&#44; for several years before his connexion with the<lb/> journal he now conducts.  He is the author&#44; amongst other things&#44;<lb/> of &#34;The Fourth Estate&#58; or&#44; Contributions to the History of News&#45;<lb/>papers&#44; and of the Liberty of the Press&#44;&#34; 2 vols. <date>1850</date>.</p>
-            <p>&#160;&#160;&#160;&#160;<persName>LAWRENCE&#44; ABBOT</persName>&#44; Minister of the <placeName>United States</placeName> to St.<lb/> James&#39;s&#44; was born in the state of <placeName>Massachusetts&#44; U. S.</placeName>&#44; <date>Dec. 1792</date>.<lb/>  Having received a liberal education&#44; he went to live at <placeName>Boston</placeName> in<lb/> <date>1808</date>&#44; and a few years after went into business as an importing mer&#45;<lb/>chant&#44; in partnership with his brothers.  In <date>1815</date> he conceived the<lb/> design of establishing for his country a manufacturing system&#44; by</p>
-          <pb n="4"/>
-            <p>10</p>
-            <p rend="align(center)"><persName>M&#39;CULLOCH</persName>&#8212;<persName>SPOHR</persName>.</p>
-            <p></p>
-            <p>which the cotton of the southern states might be wrought up for the<lb/> supply of the home market.  With this view he relinquished the<lb/> importing trade&#44; and invested large sums in calico&#45;factories at<lb/> <placeName>Lowell</placeName>.  His design has so far succeeded. <placeName>Lowell</placeName> now numbers<lb/> more than forty thousand inhabitants&#44; with four hundred factories&#44;<lb/> and will probably long continue to be one of the most rapidly<lb/> increasing cities of the Union.  In <date>November&#44; 1839</date>&#44; <persName>Mr. Lawrence</persName><lb/> was elected to congress&#44; and four years afterwards was appointed<lb/> one of the commissioners for the settlement of the north&#45;east bound&#45;<lb/>ary question.  In <date>October&#44; 1849</date>&#44; he arrived in <placeName>England</placeName> &#40;which he<lb/> had several times visited in a commercial capacity&#41; as Minister of<lb/> the <placeName>United States</placeName>.  <persName>Mr. Lawrence</persName> possesses great wealth&#44; which he<lb/> employs in a manner both judicious and liberal.  One of his many<lb/> acts of munificence is a donation of fifty thousand dollars to Harvard<lb/> University.</p>
-            <p>&#160;&#160;&#160;&#160;<persName>M&#39;CULLOCK&#44; J. R.</persName>&#44; Writer on Political Economy&#44; and kindred<lb/> subjects&#44; was born in <placeName>Scotland</placeName> about <date>1790</date>.  His first prominent<lb/> literary position was as editor of &#34;The Scotsman&#44;&#34; Edinburgh news&#45;<lb/>paper.  He is the author of &#34;Discourses on Political Economy&#59;&#34;<lb/> &#34;Dictionary of Commerce&#59;&#34; &#34;Policy and probable Consequences of<lb/> a Repeal of the Corn Laws&#59;&#34; &#34;Influence of the East India Com&#45;<lb/>pany&#39;s Monopoly on Tea&#59;&#34; &#34;Historical Sketch of the Bank&#59;&#34; &#34;Statis&#45;<lb/>tical Account of the British Empire&#59;&#34; &#34;Geographical Dictionary&#59;&#34;<lb/> &#34;Observations on Duties on Sea&#45;borne Coals&#59;&#34; &#34; Circumstances<lb/> which determine the Rate of Wages&#59;&#34; &#34;Operation of Duties on<lb/> Paper&#59;&#34; &#34;Treatise on Taxation and the Funding System&#59;&#34; the<lb/> &#34;Literature of Political Economy.&#34;  <persName>Mr. M&#39;Culloch</persName> is a member of<lb/> the Institute of France&#44; occupies a post in the Government Stationery<lb/> Office&#44; and also enjoys a pension of &#163;200 a&#45;year.</p>
-            <p>&#160;&#160;&#160;&#160;<persName>SPOHR&#44; LOUIS</persName>&#44; Musical Composer&#44; was born at <placeName>Gandersheim</placeName>&#44; in<lb/> the <placeName>Duchy of Brunswick</placeName>&#44; about <date>1783</date>&#44; the son of a physician.  He<lb/> was instructed by the German violinist&#44; <persName>Maurer</persName>&#44; in the art of play&#45;<lb/>ing that master&#39;s favourite instrument&#44; and early developed great<lb/> capabilities for music.  He was taken notice of by the <persName>duke</persName>&#44; who<lb/> appointed him a maintenance out of the civil list and afterwards<lb/> allowed him a stipend for the purpose of studying under the violin&#45;<lb/>ist <persName>Eck</persName>&#44; whom he accompanied on a journey to <placeName>Russia</placeName>.  In <date>1804</date> he<lb/> made a professional excursion in <placeName>Germany</placeName>&#44; and was appointed con&#45;<lb/>ductor of concerts to the <persName>Duke of Saxe&#45;Coburg&#45;Gotha</persName>.  Here he com&#45;<lb/>posed a number of concert pieces for the violin and clarionette&#44; quar&#45;<lb/>tetts&#44; quintetts&#44; duos for violins&#44; variations&#44; sonatas&#44; potpourris with<lb/> harp accompaniment&#44; and some overtures.  He also composed a col&#45;<lb/>lection of songs&#44; with pianoforte accompaniment&#59; the oratorio called<lb/> &#34;Das j&#252;gste Gericht&#59;&#34; and the opera &#34;Der Zweikampf der Gelieb&#45;<lb/>ten.&#34;  In <date>1813</date> he proceeded to the <placeName>Vienna</placeName> theatre&#44; with the nomi&#45;<lb/>nal appointment of chapel&#45;master&#44; and attracted great notice<lb/> during the session of the European Congress.  In <date>1814</date> he composed&#44;<lb/> at <placeName>Vienna</placeName>&#44; his genial &#34;Faust&#44;&#34; his first great symphony&#44; and the<lb/> cantata &#34;Germany freed.&#34;  In <date>1817</date>&#44; having visited <placeName>Italy</placeName>&#44; he<lb/> accepted the post of music&#45;director of the <placeName>Frankfort</placeName> theatre&#44; which<lb/> he gave up in <date>1817</date> to come to <placeName>London</placeName>&#44; where he wrote his two great</p>
-          <pb n="5"/>
-            <p rend="align(center)"><persName>STANFIELD</persName>&#8212;<persName>SUE</persName></p>
-            <p rend="align(right)">11</p>
-            <p>symphonies.  After his return to <placeName>Germany</placeName> he resided for some time in<lb/> <placeName>Dresden</placeName>&#44; until called to be chapel&#45;master at <placeName>Cassel</placeName>.  During his<lb/> abode in the former city he had composed&#44; not only many of his<lb/> best instrumental pieces&#44; but had applied himself with zeal to the<lb/> production of dramatic music.  His opera &#34;Zemire and Azor&#34; is full<lb/> of deep and moving expression&#44; and his &#34;Jessonda&#34; developed.  His<lb/> operas &#34;Peter von Abano&#44;&#34; &#34;Abruna&#44;&#34; and &#34;Der Alchemist&#44;&#34; are<lb/> less esteemed.  His oratorios&#44; &#34;Die letzten Dinge&#34; and &#34;Die letzten<lb/> Stunden des Erlosers&#44;&#34; prove him a master in church music.  His<lb/> fourth symphony is one of his most popular works.  His composi&#45;<lb/>tions are all more or less characterised by a feeling of tender melan&#45;<lb/>choly&#44; such as in poetry is called elegiac.</p>
-            <p>&#160;&#160;&#160;&#160;<persName>STANFIELD&#44; CLARKSON</persName>&#44; Painter&#44; born about <date>1790</date>.  <persName>Stanfield</persName><lb/> and <persName>Roberts</persName>&#44; but especially the former&#44; who has executed more&#44; and<lb/> more various&#44; works in the scenic department than his brilliant<lb/> coadjutor&#44; have had the means of doing more towards advancing<lb/> the taste of the English public for landscape art than any other<lb/> living painters.  <persName>Mr. Stanfield</persName> for many years taught the public from<lb/> the stage&#8212;taught the pit and the gallery to admire landscape art&#44;<lb/> and the boxes to become connoisseurs&#59; and decorated the theatre<lb/> with works so beautiful&#44; that one regrets the frail material of which<lb/> they were constructed&#44; and the necessity for &#34;new and gorgeous<lb/> effects&#44;&#34; and &#34;magnificent novelties&#44;&#34; which caused the artist&#39;s<lb/> works to be carried away.  <persName>Mr. Stanfield</persName> has created&#44; and after&#45;<lb/>wards painted out with his own brush&#44; more scenic masterpieces<lb/> than any man.  Clown and Pantaloon in his time tumbled over and<lb/> belaboured one another&#44; and bawled out their jokes&#44; before the most<lb/> beautiful and dazzling pictures which ever were presented to the<lb/> eye of the theatre&#45;goer.  How a man could do so much and so well<lb/> as <persName>Mr. Stanfield</persName> did&#44; during the time when he was the chief of the<lb/> <placeName>Drury Lane</placeName> scene&#45;room&#44; was a wonder to everybody&#59; and it was not<lb/> the public only which he delighted&#44; and awakened and educated<lb/> into admiration&#44; but the members of his own profession were as<lb/> enthusiastic as the rest of the world to recognise and applaud his<lb/> magnificent imagination and skill.  All through this painter&#39;s life<lb/> his industry and his genius have been alike remarkable&#44; and it is<lb/> curious to note&#44; in his performances of the present time&#44; how the<lb/> carefulness of the artist seems to increase with his skill&#58; as if this<lb/> conscientious man were bent each day upon improving&#44; on elaborat&#45;<lb/>ing&#44; and polishing his works&#44; on approaching more nearly to nature.</p>
-            <p>&#160;&#160;&#160;&#160;<persName>SUE&#44; EUGENE</persName>&#44; a popular French Novelist&#44; of more talent than<lb/> morality&#44; was born in <placeName>Paris</placeName>.  He is popularly known in this country<lb/> as the author of &#34;The Mysteries of Paris&#44;&#34; and &#34;The Wandering<lb/> Jew.&#34;  <persName>Sue</persName> is a Socialist&#44; and in that character obtained&#44; in <date>1849</date>&#44; a<lb/> seat in the French National Assembly.  His election by universal<lb/> suffrage was&#44; it is understood&#44; the clinching argument used by the<lb/> promoters of the law for limiting the suffrage in <placeName>France</placeName>.  When<lb/> <persName>Sue</persName> took his seat&#44; the party of order were greatly irritated.  The<lb/> &#34;Ordre&#44;&#34; a Legitimist journal&#44; under the head of &#34;The Sensualist<lb/> Candidate of the Socialists&#44;&#34; said&#58;&#8212;&#34;What is it that has procured<lb/> Citizen <persName>Eugene Sue</persName> the applause of the Conclave&#63;&#39;</p>
-       </body>
-    </text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+          <teiHeader>
+
+                    <fileDesc>
+                              <titleStmt>
+                                        <title>[no title given]</title>
+                                        <author accepted="yes" attested="yes" signature="yes"
+                                                  >Redfield, J. S.</author>
+                                        <editor/>
+                                        <sponsor/>
+                                        <funder/>
+                                        <principal/>
+                                        <respStmt>
+                                                  <resp/>
+                                                  <name/>
+                                        </respStmt>
+                              </titleStmt>
+                              <editionStmt>
+                                        <edition/>
+                                        <respStmt>
+                                                  <resp/>
+                                                  <name/>
+                                        </respStmt>
+                              </editionStmt>
+                              <extent>[information about file size goes here, information about
+                                        extent of physical item comes later]</extent>
+                              <publicationStmt>
+                                        <publisher>Unpublished manuscript</publisher>
+                              </publicationStmt>
+                              <seriesStmt>
+                                        <p>Not part of a series</p>
+                              </seriesStmt>
+                              <notesStmt>
+                                        <note/>
+                              </notesStmt>
+                              <sourceDesc>
+                                        <biblStruct>
+                                                  <!-- catalog entry goes here -->
+                                                  <monogr>
+                                                  <imprint>
+                                                  <dateLet/>
+                                                  </imprint>
+                                                  </monogr>
+                                        </biblStruct>
+                                        <msDesc>
+                                                  <msIdentifier>
+                                                  <country>USA</country>
+                                                  <region>PA</region>
+                                                  <settlement>Philadelphia</settlement>
+                                                  <institution/>
+                                                  <repository>CAJS Isaac Leeser
+                                                  Collection</repository>
+                                                  <collection>The Library of the Dropsie College for
+                                                  Hebrew and Cognate Learning</collection>
+                                                  <idno>LSDCBx1FF9_15</idno>
+                                                  <altIdentifier>
+                                                  <idno/>
+                                                  </altIdentifier>
+                                                  <msName/>
+                                                  </msIdentifier>
+                                                  <head/>
+                                                  <letHeading>
+                                                  <author accepted="yes" attested="yes"
+                                                  signature="yes">Redfield, J. S.</author>
+                                                  <addressee accepted="yes" attested="yes"
+                                                  editor="false">Leeser, Isaac, Rev.</addressee>
+                                                  <deliverer/>
+                                                  <respStmt>
+                                                  <resp/>
+                                                  <name/>
+                                                  </respStmt>
+                                                  <placeLet>New York, NY</placeLet>
+                                                  <placeRec>Philadelphia, PA</placeRec>
+                                                  <dateLet attested="yes" source="" when="1852-03"
+                                                  >March 1852</dateLet>
+                                                  </letHeading>
+                                                  <msContents>
+                                                  <msItem>
+                                                  <author/>
+                                                  <editor/>
+                                                  <respStmt>
+                                                  <resp/>
+                                                  <name/>
+                                                  </respStmt>
+                                                  <title/>
+                                                  <decoNote/>
+                                                  <listBibl>
+                                                  <bibl/>
+                                                  </listBibl>
+                                                  <filiation/>
+                                                  <textLang/>
+                                                  <figure>
+                                                  <graphic url="ilcajs_b1f9_0013_1r.tif"/>
+                                                  <graphic url="ilcajs_b1f9_0013_1v.tif"/>
+                                                  <graphic url="ilcajs_b1f9_0013_2r.tif"/>
+                                                  </figure>
+                                                  </msItem>
+                                                  </msContents>
+                                                  <physDesc>
+                                                  <objectDesc>
+                                                  <supportDesc>
+                                                  <support>
+                                                  <material color="" lined="false" paper_type=""
+                                                  size="Letter">letter</material>
+                                                  </support>
+                                                  <extent>5 pages on 2 sheets <dimensions/>
+                                                  </extent>
+                                                  <foliation/>
+                                                  <collation/>
+                                                  <condition fragment="false"/>
+                                                  </supportDesc>
+                                                  <layoutDesc>
+                                                  <layout/>
+                                                  </layoutDesc>
+                                                  </objectDesc>
+                                                  <handDesc script="manuscript">
+                                                  <handNote/>
+                                                  </handDesc>
+                                                  <decoDesc>
+                                                  <decoNote/>
+                                                  </decoDesc>
+                                                  <additions/>
+                                                  <bindingDesc>
+                                                  <binding>
+                                                  <decoNote/>
+                                                  </binding>
+                                                  </bindingDesc>
+                                                  <sealDesc>
+                                                  <seal>
+                                                  <p/>
+                                                  </seal>
+                                                  </sealDesc>
+                                                  <accMat/>
+                                                  <envDesc occ="false"/>
+                                                  </physDesc>
+                                                  <history>
+                                                  <origin/>
+                                                  <provenance/>
+                                                  <acquisition/>
+                                                  </history>
+                                                  <additional>
+                                                  <adminInfo>
+                                                  <recordHist>
+                                                  <source/>
+                                                  <change/>
+                                                  </recordHist>
+                                                  <availability status="free">
+                                                  <p>Unrestricted</p>
+                                                  </availability>
+                                                  <custodialHist>
+                                                  <custEvent/>
+                                                  </custodialHist>
+                                                  </adminInfo>
+                                                  <surrogates/>
+                                                  <listBibl>
+                                                  <bibl/>
+                                                  </listBibl>
+                                                  </additional>
+                                                  <msPart>
+                                                  <altIdentifier>
+                                                  <idno/>
+                                                  </altIdentifier>
+                                                  </msPart>
+                                        </msDesc>
+                              </sourceDesc>
+                    </fileDesc>
+                    <encodingDesc>
+                              <projectDesc>
+                                        <p/>
+                              </projectDesc>
+                              <samplingDecl>
+                                        <p/>
+                              </samplingDecl>
+                              <editorialDecl>
+                                        <correction>
+                                                  <p/>
+                                        </correction>
+                                        <normalization>
+                                                  <p/>
+                                        </normalization>
+                                        <quotation>
+                                                  <p/>
+                                        </quotation>
+                                        <hyphenation>
+                                                  <p/>
+                                        </hyphenation>
+                                        <segmentation>
+                                                  <p/>
+                                        </segmentation>
+                                        <stdVals>
+                                                  <p/>
+                                        </stdVals>
+                                        <interpretation>
+                                                  <p/>
+                                        </interpretation>
+                              </editorialDecl>
+                              <tagsDecl>
+                                        <rendition/>
+                                        <namespace name="http://www.tei-c.org/ns/1.0">
+                                                  <tagUsage gi=""/>
+                                        </namespace>
+                              </tagsDecl>
+                              <refsDecl>
+                                        <cRefPattern matchPattern="" replacementPattern=""/>
+                              </refsDecl>
+                              <refsDecl>
+                                        <refState unit=""/>
+                              </refsDecl>
+                              <classDecl>
+                                        <taxonomy>
+                                                  <category>
+                                                  <catDesc/>
+                                                  </category>
+                                        </taxonomy>
+                              </classDecl>
+                              <appInfo>
+                                        <application ident="" version="">
+                                                  <desc/>
+                                                  <label/>
+                                        </application>
+                              </appInfo>
+                    </encodingDesc>
+                    <profileDesc>
+                              <creation/>
+                              <langUsage>
+                                        <language ident="en">English</language>
+                              </langUsage>
+                              <textClass>
+                                        <keywords scheme="unknown">
+                                                  <list>
+                                                  <item/>
+                                                  <item/>
+                                                  </list>
+                                        </keywords>
+                                        <classCode scheme=""/>
+                                        <catRef/>
+                              </textClass>
+                    </profileDesc>
+                    <revisionDesc>
+                              <change/>
+                    </revisionDesc>
+          </teiHeader>
+          <text>
+                    <body>
+                              <pb n="1"/>
+                              <p rend="align(right)">
+                                        <placeName>Clinton Hall</placeName>
+                              </p>
+                              <p rend="align(right)">
+                                        <placeName>New York</placeName>
+                                        <date>March 1852</date>
+                              </p>
+                              <p>Dear Sir,</p>
+                              <p rend="indent(1)">I am about publishing a work<lb/> the design of
+                                        which is to present biograph=<lb/>=ical instruction
+                                        respecting living persons who<lb/> may be interesting to the
+                                        public in the<lb/> various departments of active and
+                                        intellect=<lb/>=ual life.„ It is partly based upon a
+                                        similar<lb/> English work and will bear the same title<lb/>
+                                        "men of the Time in 1852".„ A specimen page of<lb/> its
+                                        general treatment is enclosed.„ As the object<lb/> is,
+                                        within the necessary limits, to make this work<lb/> as
+                                        perfect as possible, I apply to you personally<lb/> for such
+                                        details of dates and facts in your own<lb/> case as you may
+                                        think continent and desirable<lb/> for a book of reference
+                                        of this kind.„ As the book<lb/> will go to press
+                                        immediately, an answer at the<lb/> earliest moment will
+                                        oblige</p>
+                              <p rend="indent(2)">Yours respectfully</p>
+                              <p rend="indent(4)">
+                                        <persName role="author">J. S. Redfield</persName>
+                              </p>
+                              <p>To <addressee>Revd. Isaac Leeser</addressee></p>
+                              <p rend="indent(1)">
+                                        <placeName>Philadelphia</placeName>
+                              </p>
+                              <p rend="align(right)">over</p>
+                              <pb n="2"/>
+                              <p>8</p>
+                              <p rend="align(center)"
+                                                  ><persName>CROLY</persName>—<persName>DUMAS</persName>—<persName>DUPONT</persName>.</p>
+                              <p/>
+                              <p>    <persName>CROLY, REV. DR. GEORGE</persName>, Poet and
+                                        Clergyman, was born in<lb/>
+                                        <placeName>Ireland</placeName>, educated at Trinity College,
+                                                  <placeName>Dublin</placeName>, and ordained in
+                                        the<lb/> Church of England. His verses are more remarkable
+                                        for correctness<lb/> than vigour, and are not very popular.
+                                        He enjoys the rectory of <placeName>St.<lb/> Stephen's,
+                                                  Wallbrook, London</placeName>, and is understood
+                                        to indulge in<lb/> "writing for the newspapers." He was
+                                        formerly connected with<lb/> the "Britannia," a Tory weekly
+                                        paper. The interior of the church<lb/> in which his sermons
+                                        are delivered is said to be the masterpiece of<lb/>
+                                        <persName>Sir Christopher Wren</persName>. <persName>Dr.
+                                                  Croly's</persName> best work is a romance,
+                                        "Sala-<lb/>thiel, or the Wandering Jew." His chief poems are
+                                        "Paris in 1815;"<lb/> "The Angel of the World;" and "Gems
+                                        from the Aubigené." He<lb/> has likewise written a Life of
+                                        Burke, and a work on the Apocalypse<lb/> of St. John.</p>
+                              <p>    <persName>DUMAS, JEAN BAPTISTE</persName>, the first Practical
+                                        Chemist of <placeName>France</placeName>,<lb/> late Minister
+                                        of Agriculture and Commerce, Professor of Chemistry<lb/> at
+                                        the Sorbonne, in the School of Medicine, Member of the
+                                        Institute,<lb/> was born at <placeName>Alais</placeName>,
+                                                  <date>July 1800</date>. When fourteen,
+                                                  <persName>Dumas</persName> went to<lb/>
+                                        <placeName>Geneva</placeName>, to study chemistry, botany,
+                                        and medicine, and his first pub-<lb/>lication was an essay
+                                        in connexion with <persName>De Candolle</persName>, then a
+                                        profes-<lb/>sor in the Swiss city. The attention of
+                                        scientific men was soon<lb/> attracted to him by his
+                                        researches in animal physiology, in which he<lb/> was
+                                        associated with <persName>M. Prevost</persName>. In
+                                                  <date>1821</date> he was appointed teacher<lb/> of
+                                        chemistry in the Ecole Polytechnique,
+                                                  <placeName>Paris</placeName>. In
+                                        <date>1821</date>, <persName>Dumas</persName><lb/> published
+                                        a memoir on the relations existing between the specific<lb/>
+                                        weights of solid bodies and their atomic weight; and from
+                                        that time<lb/> to the present has been constantly adding to
+                                        our stock of knowledge<lb/> on the subjects of gaseous
+                                        substances, organic salts, the atomic con-<lb/>stitution of
+                                        the different kinds of ether, the nature of heavy oil
+                                        of<lb/> wine, the sulphate of oxide of ethyle, oxalic acid,
+                                        the compounds of<lb/> the chemical properties of chloroform,
+                                        idoform, and bromoform, stear-<lb/>optène; the oil of
+                                        rosemary and valerian, upon organic compounds.<lb/>
+                                        <persName>Dumas'</persName> theory of substitution is one of
+                                        the most important works of<lb/> this chemis, and his
+                                        treatise on chemistry, as applied to the arts, is<lb/>
+                                        another valuable offering to practical science. His "Leçons
+                                        sur<lb/> la Philosophie Chimique" are popular. As a
+                                        lecturer, <persName>Dumas</persName> is one<lb/> of the most
+                                        distinguished in <placeName>Paris</placeName>. In <date>May
+                                                  1849</date>, <persName>Dumas</persName> was
+                                        elected<lb/> to the National Assembly; and the President of
+                                        the Republic called<lb/> him on the <date>31st of
+                                                  October</date>, to join the administration, and
+                                                  <sic>intrusted</sic><lb/> him with the post of
+                                        Minister of Agriculture and Commerce, where<lb/> his
+                                        chemical knowledge enabled him to render public service.
+                                        He<lb/> originated annual meetings bearing on agriculture,
+                                        commerce, and<lb/> manufactures. <persName>Dumas</persName>
+                                        was Chairman of the Jury, Class 2, in the<lb/> Great
+                                        Exhibition of <date>1851</date>, in
+                                                  <placeName>London</placeName>.</p>
+                              <p>    <persName>DUPONT (DE L'EURE)</persName>, Ex-President of the
+                                        Council in <placeName>France</placeName>,<lb/> is now in his
+                                        83d year, and though there have been many abler and<lb/>
+                                        more successful men, still we doubt if there be a sincerer,
+                                        a more<lb/> straightforward and an honester deputy in all
+                                                  <placeName>France</placeName>. In the year<lb/>
+                                        <date>1808</date> he was a member of the Council of Five
+                                        Hundred; in <date>1811</date>, he<lb/> was President of the
+                                        Court of <placeName>Rouen</placeName>; in <date>1813</date>
+                                        he was President of<lb/> the <emph rend="italics">Corps
+                                                  Législatif</emph>; in <date>1815</date> he
+                                        proposed the famous Declaration,<lb/> in which the rights of
+                                        citizens were reserved; and in <date>1830</date> he was</p>
+                              <pb n="3"/>
+                              <p rend="align(center)"
+                                                  ><persName>GROTE</persName>—<persName>HUNT</persName>—<persName>LAWRENCE</persName></p>
+                              <p rend="align(right)">9</p>
+                              <p>appointed Minister of Justice. His appointment derived its
+                                        signifi-<lb/>cancy from being a personal protest against
+                                                  <persName>Marshal Bugeaud</persName>. He<lb/> is,
+                                        moreover, highly esteemed by the French people. At the
+                                        elec-<lb/>tions of <date>1842</date>, <persName>M.
+                                                  Dupont</persName>, indignant at seeing the
+                                        deputies of the Eure<lb/> servilely voting in favour of the
+                                        execrated Guizot ministry, contested<lb/> four colleges of
+                                        that department simultaneously; he was elected in<lb/> all
+                                        four, and chose Evreux. <persName>M. Dupont</persName>
+                                        invariably voted against<lb/> the corrupt and dishonest
+                                        administration which fell with the late<lb/> king.</p>
+                              <p>    <persName>GROTE, GEORGE</persName>, Banker, political Reformer
+                                        and Author, was<lb/> born in <date>1794</date>, at
+                                                  <placeName>Clay Hill</placeName>, near
+                                                  <placeName>Beckenham, Kent</placeName>. His
+                                        ancestors<lb/> came to this country from
+                                                  <placeName>Germany</placeName>, and his
+                                        grandfather founded, in<lb/> conjunction with <persName>Mr.
+                                                  George Prescott</persName>, the banking-house in
+                                                  <placeName>Thread-<lb/>needle Street</placeName>,
+                                        which still bears the name of the original partners.<lb/>
+                                        <persName>Mr. Grote</persName> was educated at the
+                                        Charter-house school, and entered<lb/> his father's
+                                        establishment as a clerk in his sixteenth year. His<lb/>
+                                        leisure was for many years afterwards spent in unremitting
+                                        study.<lb/> About <date>1823</date>, he commenced writing a
+                                        "History of Greece," upon<lb/> which work he steadily
+                                        laboured till the Reform movement of
+                                                  <date>1830</date><lb/>-<date>1831</date>, called
+                                        him forward into public life. He espoused the cause<lb/> of
+                                        radical reform, and successfully contested the city of
+                                                  <placeName>London</placeName> in<lb/>
+                                        <date>December 1832</date>; which he represented in three
+                                        successive parlia-<lb/>ments, until his retirement in
+                                                  <date>1841</date>. His first publication was
+                                        a<lb/> pamphlet in reply to <persName>Sir James
+                                                  Mackintosh's</persName> "Essay on
+                                        Parilamen-<lb/>tary Reform," in the "Edinburgh Review;" it
+                                        was printed anony-<lb/>mously in <date>1821</date>. He has
+                                        since written a small work on the "Essen-<lb/>tials of
+                                        Parliamentary Reform," an article on
+                                                  "<persName>Mitford</persName>," in the<lb/>
+                                        "Westminster," and another on <persName>Niebuhr's</persName>
+                                        "Heroic Legends of<lb/> Greece," in the "London and
+                                        Westminster Review." In Parliament<lb/> he was considered to
+                                        have in especial charge the advocacy of the<lb/> ballot, a
+                                        question upon which he regularly made an annual motion.<lb/>
+                                        He has for some time retired from active participation in
+                                        politics,<lb/> and has thus recently been able to give to
+                                        the world the earlier<lb/> books of his "History of
+                                        Greece."</p>
+                              <p>    <persName>HUNT, FREDERICK KNIGHT</persName>, Journalist, Editor
+                                        of the "Daily<lb/> News," born in
+                                                  <placeName>Buckinghamshire</placeName> in
+                                                  <date>1814</date>. In a volume which<lb/>
+                                        enumerates the journalists of <placeName>London</placeName>,
+                                        the name of the editor of the<lb/> "Daily News" must have a
+                                        place. <persName>Mr. Hunt</persName> was a member of
+                                        the<lb/> editorial staff selected for the "Daily News" when
+                                                  <persName>Mr. Charles<lb/> Dickens</persName>
+                                        established that journal in <date>1846</date>, and in
+                                                  <date>1851</date> became the<lb/> chief editor of
+                                        the paper. He had been a writer for the press, and<lb/> a
+                                        newspaper editor, for several years before his connexion
+                                        with the<lb/> journal he now conducts. He is the author,
+                                        amongst other things,<lb/> of "The Fourth Estate: or,
+                                        Contributions to the History of News-<lb/>papers, and of the
+                                        Liberty of the Press," 2 vols. <date>1850</date>.</p>
+                              <p>    <persName>LAWRENCE, ABBOT</persName>, Minister of the
+                                                  <placeName>United States</placeName> to St.<lb/>
+                                        James's, was born in the state of <placeName>Massachusetts,
+                                                  U. S.</placeName>, <date>Dec. 1792</date>.<lb/>
+                                        Having received a liberal education, he went to live at
+                                                  <placeName>Boston</placeName> in<lb/>
+                                        <date>1808</date>, and a few years after went into business
+                                        as an importing mer-<lb/>chant, in partnership with his
+                                        brothers. In <date>1815</date> he conceived the<lb/> design
+                                        of establishing for his country a manufacturing system,
+                                        by</p>
+                              <pb n="4"/>
+                              <p>10</p>
+                              <p rend="align(center)"
+                                                  ><persName>M'CULLOCH</persName>—<persName>SPOHR</persName>.</p>
+                              <p/>
+                              <p>which the cotton of the southern states might be wrought up for
+                                        the<lb/> supply of the home market. With this view he
+                                        relinquished the<lb/> importing trade, and invested large
+                                        sums in calico-factories at<lb/>
+                                        <placeName>Lowell</placeName>. His design has so far
+                                        succeeded. <placeName>Lowell</placeName> now numbers<lb/>
+                                        more than forty thousand inhabitants, with four hundred
+                                        factories,<lb/> and will probably long continue to be one of
+                                        the most rapidly<lb/> increasing cities of the Union. In
+                                                  <date>November, 1839</date>, <persName>Mr.
+                                                  Lawrence</persName><lb/> was elected to congress,
+                                        and four years afterwards was appointed<lb/> one of the
+                                        commissioners for the settlement of the north-east
+                                        bound-<lb/>ary question. In <date>October, 1849</date>, he
+                                        arrived in <placeName>England</placeName> (which he<lb/> had
+                                        several times visited in a commercial capacity) as Minister
+                                        of<lb/> the <placeName>United States</placeName>.
+                                                  <persName>Mr. Lawrence</persName> possesses great
+                                        wealth, which he<lb/> employs in a manner both judicious and
+                                        liberal. One of his many<lb/> acts of munificence is a
+                                        donation of fifty thousand dollars to Harvard<lb/>
+                                        University.</p>
+                              <p>    <persName>M'CULLOCK, J. R.</persName>, Writer on Political
+                                        Economy, and kindred<lb/> subjects, was born in
+                                                  <placeName>Scotland</placeName> about
+                                                  <date>1790</date>. His first prominent<lb/>
+                                        literary position was as editor of "The Scotsman," Edinburgh
+                                        news-<lb/>paper. He is the author of "Discourses on
+                                        Political Economy;"<lb/> "Dictionary of Commerce;" "Policy
+                                        and probable Consequences of<lb/> a Repeal of the Corn
+                                        Laws;" "Influence of the East India Com-<lb/>pany's Monopoly
+                                        on Tea;" "Historical Sketch of the Bank;" "Statis-<lb/>tical
+                                        Account of the British Empire;" "Geographical
+                                        Dictionary;"<lb/> "Observations on Duties on Sea-borne
+                                        Coals;" " Circumstances<lb/> which determine the Rate of
+                                        Wages;" "Operation of Duties on<lb/> Paper;" "Treatise on
+                                        Taxation and the Funding System;" the<lb/> "Literature of
+                                        Political Economy." <persName>Mr. M'Culloch</persName> is a
+                                        member of<lb/> the Institute of France, occupies a post in
+                                        the Government Stationery<lb/> Office, and also enjoys a
+                                        pension of £200 a-year.</p>
+                              <p>    <persName>SPOHR, LOUIS</persName>, Musical Composer, was born
+                                        at <placeName>Gandersheim</placeName>, in<lb/> the
+                                                  <placeName>Duchy of Brunswick</placeName>, about
+                                                  <date>1783</date>, the son of a physician. He<lb/>
+                                        was instructed by the German violinist,
+                                                  <persName>Maurer</persName>, in the art of
+                                        play-<lb/>ing that master's favourite instrument, and early
+                                        developed great<lb/> capabilities for music. He was taken
+                                        notice of by the <persName>duke</persName>, who<lb/>
+                                        appointed him a maintenance out of the civil list and
+                                        afterwards<lb/> allowed him a stipend for the purpose of
+                                        studying under the violin-<lb/>ist <persName>Eck</persName>,
+                                        whom he accompanied on a journey to
+                                                  <placeName>Russia</placeName>. In
+                                                  <date>1804</date> he<lb/> made a professional
+                                        excursion in <placeName>Germany</placeName>, and was
+                                        appointed con-<lb/>ductor of concerts to the <persName>Duke
+                                                  of Saxe-Coburg-Gotha</persName>. Here he
+                                        com-<lb/>posed a number of concert pieces for the violin and
+                                        clarionette, quar-<lb/>tetts, quintetts, duos for violins,
+                                        variations, sonatas, potpourris with<lb/> harp
+                                        accompaniment, and some overtures. He also composed a
+                                        col-<lb/>lection of songs, with pianoforte accompaniment;
+                                        the oratorio called<lb/> "Das jügste Gericht;" and the opera
+                                        "Der Zweikampf der Gelieb-<lb/>ten." In <date>1813</date> he
+                                        proceeded to the <placeName>Vienna</placeName> theatre, with
+                                        the nomi-<lb/>nal appointment of chapel-master, and
+                                        attracted great notice<lb/> during the session of the
+                                        European Congress. In <date>1814</date> he composed,<lb/> at
+                                                  <placeName>Vienna</placeName>, his genial "Faust,"
+                                        his first great symphony, and the<lb/> cantata "Germany
+                                        freed." In <date>1817</date>, having visited
+                                                  <placeName>Italy</placeName>, he<lb/> accepted the
+                                        post of music-director of the
+                                                  <placeName>Frankfort</placeName> theatre,
+                                        which<lb/> he gave up in <date>1817</date> to come to
+                                                  <placeName>London</placeName>, where he wrote his
+                                        two great</p>
+                              <pb n="5"/>
+                              <p rend="align(center)"
+                                                  ><persName>STANFIELD</persName>—<persName>SUE</persName></p>
+                              <p rend="align(right)">11</p>
+                              <p>symphonies. After his return to <placeName>Germany</placeName> he
+                                        resided for some time in<lb/>
+                                        <placeName>Dresden</placeName>, until called to be
+                                        chapel-master at <placeName>Cassel</placeName>. During
+                                        his<lb/> abode in the former city he had composed, not only
+                                        many of his<lb/> best instrumental pieces, but had applied
+                                        himself with zeal to the<lb/> production of dramatic music.
+                                        His opera "Zemire and Azor" is full<lb/> of deep and moving
+                                        expression, and his "Jessonda" developed. His<lb/> operas
+                                        "Peter von Abano," "Abruna," and "Der Alchemist," are<lb/>
+                                        less esteemed. His oratorios, "Die letzten Dinge" and "Die
+                                        letzten<lb/> Stunden des Erlosers," prove him a master in
+                                        church music. His<lb/> fourth symphony is one of his most
+                                        popular works. His composi-<lb/>tions are all more or less
+                                        characterised by a feeling of tender melan-<lb/>choly, such
+                                        as in poetry is called elegiac.</p>
+                              <p>    <persName>STANFIELD, CLARKSON</persName>, Painter, born about
+                                                  <date>1790</date>.
+                                        <persName>Stanfield</persName><lb/> and
+                                                  <persName>Roberts</persName>, but especially the
+                                        former, who has executed more, and<lb/> more various, works
+                                        in the scenic department than his brilliant<lb/> coadjutor,
+                                        have had the means of doing more towards advancing<lb/> the
+                                        taste of the English public for landscape art than any
+                                        other<lb/> living painters. <persName>Mr.
+                                                  Stanfield</persName> for many years taught the
+                                        public from<lb/> the stage—taught the pit and the gallery to
+                                        admire landscape art,<lb/> and the boxes to become
+                                        connoisseurs; and decorated the theatre<lb/> with works so
+                                        beautiful, that one regrets the frail material of which<lb/>
+                                        they were constructed, and the necessity for "new and
+                                        gorgeous<lb/> effects," and "magnificent novelties," which
+                                        caused the artist's<lb/> works to be carried away.
+                                                  <persName>Mr. Stanfield</persName> has created,
+                                        and after-<lb/>wards painted out with his own brush, more
+                                        scenic masterpieces<lb/> than any man. Clown and Pantaloon
+                                        in his time tumbled over and<lb/> belaboured one another,
+                                        and bawled out their jokes, before the most<lb/> beautiful
+                                        and dazzling pictures which ever were presented to the<lb/>
+                                        eye of the theatre-goer. How a man could do so much and so
+                                        well<lb/> as <persName>Mr. Stanfield</persName> did, during
+                                        the time when he was the chief of the<lb/>
+                                        <placeName>Drury Lane</placeName> scene-room, was a wonder
+                                        to everybody; and it was not<lb/> the public only which he
+                                        delighted, and awakened and educated<lb/> into admiration,
+                                        but the members of his own profession were as<lb/>
+                                        enthusiastic as the rest of the world to recognise and
+                                        applaud his<lb/> magnificent imagination and skill. All
+                                        through this painter's life<lb/> his industry and his genius
+                                        have been alike remarkable, and it is<lb/> curious to note,
+                                        in his performances of the present time, how the<lb/>
+                                        carefulness of the artist seems to increase with his skill:
+                                        as if this<lb/> conscientious man were bent each day upon
+                                        improving, on elaborat-<lb/>ing, and polishing his works, on
+                                        approaching more nearly to nature.</p>
+                              <p>    <persName>SUE, EUGENE</persName>, a popular French Novelist, of
+                                        more talent than<lb/> morality, was born in
+                                                  <placeName>Paris</placeName>. He is popularly
+                                        known in this country<lb/> as the author of "The Mysteries
+                                        of Paris," and "The Wandering<lb/> Jew."
+                                                  <persName>Sue</persName> is a Socialist, and in
+                                        that character obtained, in <date>1849</date>, a<lb/> seat
+                                        in the French National Assembly. His election by
+                                        universal<lb/> suffrage was, it is understood, the clinching
+                                        argument used by the<lb/> promoters of the law for limiting
+                                        the suffrage in <placeName>France</placeName>. When<lb/>
+                                        <persName>Sue</persName> took his seat, the party of order
+                                        were greatly irritated. The<lb/> "Ordre," a Legitimist
+                                        journal, under the head of "The Sensualist<lb/> Candidate of
+                                        the Socialists," said:—"What is it that has procured<lb/>
+                                        Citizen <persName>Eugene Sue</persName> the applause of the
+                                        Conclave?'</p>
+                    </body>
+          </text>
 </TEI>

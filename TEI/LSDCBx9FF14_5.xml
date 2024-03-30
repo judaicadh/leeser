@@ -1,261 +1,421 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="unk"></author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>CAJS Isaac Leeser Collection</repository>
-						<collection>The Library of the Dropsie College for Hebrew and Cognate Learning</collection>
-						<idno>LSDCBx9FF14_5</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="unk"></author>
-						<addressee editor="true" attested="yes" accepted="yes"></addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet></placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1847-01" source="" attested="yes">January 1847</dateLet>
-						<dateLet when="1847-01" source="" attested="yes">Shebat 5607</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="ilcajs_b9f14_0005_1r.jpg"/>
-								<graphic url="ilcajs_b9f14_0005_1v.jpg"/>
-								<graphic url="ilcajs_b9f14_0005_2r.jpg"/>
-								<graphic url="ilcajs_b9f14_0005_2v.jpg"/>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="unk" paper_type="" size="">letter</material>
-								</support>
-								<extent>4 pages on 2 sheets
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="manuscript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="free">
-								<p>Unrestricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-				<p>To the Editor of the Occident <hi rend="underline">Education and the Ministry</hi></p>
-			<p rend="indent(1)">Rev Sir&#33;</p>
-			<p rend="indent(7)"><del>&#63;</del> <date>Shebat 5607</date>.</p>
-			<p rend="indent(9)"><date>January 1847</date>.</p>
-			<p rend="indent(1)">Both your articles in No 36 and 46 of your valuable<lb/> Periodical I have carefully read and reflected upon.  Would<lb/> every American Israelite do so&#44; and especially if those who<lb/> form our German Congregations could or would read the latter<lb/> article&#44; headed&#58; &#8220;Education for the ministry.&#8221; in the last number of the<lb/> Occident&#59; and if in doing so&#44; they would pay to it that close attention<lb/> and just regard&#44; which it truly deserves&#8212;then&#44; I am sure&#44; it can<lb/>not fail to effect their own good&#44; and to impress on the minds of the<lb/> people the dangers to which they are or will be exposed&#44; through the<lb/> snares of treacherous minds&#44; false tongues and deceitful hearts<lb/> under the disguise of Religion</p>
-				<p>But I am sorry to say&#44; in regard to the realization of your plan or<lb/> the establishment of a high school I can entertain but faint hopes&#44;<lb/> when I consider the little encouragement <del>granted</del> extended at present to established<lb/> schools for religious instruction&#44; and the total absence of such in many<lb/> of our oldest and wealthiest congregations.&#8212;And these&#44; I venture<lb/> to say&#44; are the very places&#44; where all the attainments&#44; which a High<lb/> School can promise&#44; could be easily obtained&#44; if the people at large&#44;<lb/> particularly the wealthy classes would earnestly wish and take<lb/> measures that their children <del>may</del> might know of it a little more than the<lb/> chaunting of a Haphtorah or perhaps also the translation of a Yigdal.<lb/>  Nay&#44; that high respect and earnest desire for the knowledge of wisdom&#44;<lb/> that pure energy for the cause of religion which the Law commands&#44; and<lb/> you wish to see&#44; I am not able to find it&#59; it appears not to be in the minds<lb/> of the people.&#8212;And should the generous examples&#44; which noble&#45;<lb/>&#45;hearted men have offered to you&#44; arouse others for imitation and give success to<lb/> the good cause&#58;&#8212;then we must not be too rash in the estimation of its good<lb/> results.&#8212;No matter how high it be&#44; &#8220;when we quit the School&#44; we are but<lb/> Schoolboys and no more&#8221;&#8212;it is &#40;generally speaking&#41; a truth&#44; not understood<lb/> by either the youth&#44; or the <sic>publick</sic> at large&#44; but which every man of some<lb/> proficiency in any science or art would readily admit&#59; and how will then<lb/> that treasure&#44; which is more than all the treasures on earth&#8212;&#8220;the sacred Law&#8221;&#8212;<lb/> be safe in the hands of an American Schoolboy&#63; <del>&#63;</del> who</p>
-			<pb n="2"/>
-				<p>2</p>
-				<p>is so little acquainted with living examples of holy and virtuous men<lb/> learned <del>of</del> in the Law&#44; and who perhaps <del>but for</del> except his schoolbooks&#44; never yet has<lb/> seen the title of another Hebrew book&#63;  And should I go too far in<lb/> underrating our American youth&#44; I am surely not too scrupulous<lb/> in apprehending that the boys placed on the pulpit will soon defy<lb/> the holy lessons of their teachers and their teachers&#39; teachers&#44; and<lb/> they might become &#8220;Shepherds that cannot understand and<lb/> Pastors&#8221; &#8220;that destroy and scatter the Sheep of the<lb/> pasture.&#8221;  Let the history of foreigners and foreign ministry be a<lb/> warning example to <placeName>America</placeName>.  On exposing some dangers in the<lb/> nature of your plan&#44; I intend by no means to disparage its<lb/> value and import and&#44; but on the contrary&#44; our consciousness of such<lb/> dangers&#44; will induce and prepare us to act with the greater caution<lb/> and prudence&#44; that we might the better insure good success and<lb/> glorious results to the holy cause of Judaism.</p>
-			<p rend="indent(1)">My remarks thus far concern the latter pages of your article&#44; and are<lb/> anticipated here&#44; because I preferred to answer first to points on the substance of<lb/> which we both would easily agree&#8212;But what concerns the first pages of your<lb/> &#8220;Educ. for the ministry&#8221; I candidly confess to you&#44; that in reading them I<lb/> felt grieved to the bottom of my heart.&#8212;To any sincere and religious Jewish mind<lb/> it must appear as <del>be</del> a horrible cruelty to see persecution&#44; oppression&#44; contempt and scorn<lb/> <sic>practised</sic> on men&#44; many of whom the Law of God might call the Pillars of Judaism<lb/> in <placeName>America</placeName>&#33;&#33;&#8212;We have men in <placeName>America</placeName>&#44; who from their cradle <del>off</del> have been brought<lb/> up in piety and learning&#44; men who have &#8220;a knowledge of moral philosophy&#44; of hebrew<lb/> in all its branches&#44; biblical comments&#44; mishnah&#44; Talmud&#44; Jewish history and<lb/> &#8220;antiquity&#44; Algebra&#44; French&#44; German&#44; general History and Geography&#8221;<lb/> and who are &#8220;not unacquainted with English Literature and Grammar&#8221; &#40;or in<lb/> saying this I have made use only of the same order and terms wherewith you described<lb/> the studies of a High School&#41; &#91;page A76.&#93; would I make any addition instead of &#8220;a<lb/> knowledge&#8221; on many heads I would have said &#8220;Eminence and erudition&#8221; I would<lb/> have also said&#44; men of logical and sound reasoning and argument and of considerable<lb/> experience&#59; and what is <del>the</del> more than all&#44; personally known to us for a number of years as<lb/> men who know no disguise&#44; who are peaceful virtuous&#44; pure and firm in principle and<lb/> practice of religion&#44; strict <del>for</del> as regards themselves and tolerant towards others&#8212;There are<lb/> also others of whom we would but partly speak in the above terms&#44; and perhaps not<lb/> at all apply the latter additions&#59; but after all no more indulgence than actually<lb/> occasionally used in <placeName>America</placeName>&#44; might be needed in their behalf.&#8212;&#8220;And where</p>
-			<pb n="3"/>
-				<p rend="align(right)">3</p>
-				<p>can we find these men&#8221;&#63;<del>&#63;</del>  I have seen them in a &#8220;little Grocery&#44;&#8221;<lb/> a &#8220;Slaughterhouse&#44;&#8221; a &#8220;Coalyard&#44;&#8221; a &#8220;Tavern&#44;&#8221; a &#8220;Cigar&#45;or other shop&#44;&#8221;<lb/> such and the like are the places&#44; whither the <del>worthy</del> men <del>to</del> worthy to grow the ministry<lb/> have been pushed back by the Errors of the multitude&#44; and &#95;&#95;&#95;&#95; &#8212; &#45; &#8212;&#33;</p>
-				<p>&#8220;And for God&#39;s sake&#44; how is it them possible&#44; that all this be true and be still<lb/> inconsistency with your statements about the lamentations of the people<lb/> &#8220;of the nearly total absence of qualified men for the office of duly educated<lb/> &#8220;<hi rend="underline">religious teachers</hi>&#8221;&#63;</p>
-				<p>&#8220;of the great want of intelligent persons&#44; wanted for the ministry&#44;<lb/> &#8220;in manner that the <hi rend="underline">Word of God</hi> may be <hi rend="underline">expounded</hi> to the<lb/> &#8220;people&#8221;&#63;  How is it consistent with your saying&#58; &#8220;we know of<lb/> &#8220;no candidates &#40;for <hi rend="underline">religious Teachers</hi>&#41; or persons likely to become so<lb/> &#8220;to supply new Congregations or to take the place of the <hi rend="underline">ministers</hi> now<lb/> &#8220;officiating.&#8221;&#63;</p>
-				<p>Part of my statements I could easily verify to every reader by only referring<lb/> him to former volumes of the Occident&#44; and therefore I need not be plainer<lb/> about that&#8212;and as to your&#39;s Sir&#33;  I say&#44; So &#8220;and <del>tell</del> show my people<lb/> &#8220;their transgression&#44; and the house of <persName>Jacob</persName> their sins&#8221; they are<lb/> &#8220;speaking oppression and revolt&#44; conceiving from the heart words of<lb/> &#8220;falsehood&#8221; tell them to call things by their right names&#44; to say what<lb/> they mean and to mean what they say&#44; and this will <del>dissolve matters and</del><lb/> show forth the truth.&#8212; &#8220;A man whose voice pleases&#44; or one whose speech suits<lb/> his publick&#8221; is&#44; with few exceptions&#44; the general definition of Jewish ministry in<lb/> <placeName>America</placeName>&#59; and the people would rarely call a man fit <del>for</del> to be minister&#44; if his<lb/> voice do not please their taste.&#8212;Let them thus not cry out for want of<lb/> &#8220;<hi rend="underline">ministers</hi>&#8221; &#8220;<hi rend="underline">Religious Teachers</hi>&#8221; &#8220;men who know <hi rend="underline">to expound</hi><lb/> <hi rend="underline">the Law of God</hi> to the people&#8221; let them not use false words and call<lb/> the name of God&#58; &#8220;Thou shalt not take the name of the Lord thy<lb/> God in vain&#8221;&#8212;And only this much we say&#44; but we do neither conjure<lb/> the good policy nor dispute the just purpose and beneficial results of having such<lb/> officers in large communities&#44; for the people will say&#44; that it confers on them a<lb/> signified pleasure&#44; that it arouses their feelings of devotion&#44; and that it gives<lb/> solemnity to worship&#44; just at the proper place and time&#8212;during the service<lb/> in the Synagogue&#8212;And to deliver a discourse from the pulpit&#44; will that<lb/> really <del>say to</del> be <hi rend="underline">expounding the Law of God</hi>&#63;  will it strike the mind and teach it<lb/> &#8220;to know wisdom and instruction&#44; to understand the words of the wise and<lb/> &#8220;their dark sayings&#8221;&#63; or will it rather strike our senses&#44; deceive our hearts</p>
-			<pb n="4"/>
-				<p>4</p>
-				<p>dazzle our eyes&#44; and at the end make us Sin and forget the divine command&#58;<lb/> &#8220;ye shall not seek after your own hearts and your own eyes&#8221;&#63;<lb/>  &#40;vis Talmud Berachott <add>&#63;</add> 12&#41; These and more questions one might ask and<lb/> perhaps <persName>Blair&#39;s</persName> Rhetorick itself and daily experience might argue<lb/> in his favour&#44; but in one word I would answer him&#58; &#8220;All depends<lb/> on the man&#44;&#8221; it will do good from a good man&#44; and in the words of<lb/> the royal Psalmist let us say&#58; &#8220;Lord&#44; who shall abide in thy tabernacle&#63;<lb/> ....&#8220;he that walketh uprightly&#44; and worketh righteousness&#44; and<lb/> &#8220;speaketh the truth in his heart&#44; he that backbiteth not with his<lb/> &#8220;tongue&#44; nor <hi rend="underline">doeth evil to his neighbour</hi>&#44; <hi rend="underline">nor taketh up a</hi><lb/> &#8220;<hi rend="underline">reproach against his neighbour</hi>&#8212;<hi rend="underline">he that honoreth them</hi><lb/> &#8220;<hi rend="underline">that fear the Lord</hi>.&#95;&#95;.he <hi rend="underline">that not taketh bribery against the</hi><lb/> &#8220;<hi rend="underline">innocent</hi>&#8221; &#40;Psalm 15.&#41;&#59; and if we do not know&#44; or rather know the man<lb/> not to be so&#44; we again apply the words of that holy book&#58; &#8220;But unto<lb/> &#8220;the wicked God saith&#44; what hast thou to do to declare my<lb/> &#8220;statutes&#44; then givest thy mouth to evil&#44; and thy tongue frameth<lb/> &#8222;deceit.&#8221; &#40;Psalm 50. 16&#44; 19.&#41;</p>
-				<p>Thus the more I consider and reflect upon the state of Judaism amongst<lb/> us&#44; the more I am convinced&#44; that something must be done for the<lb/> good&#44; some remedy must be sought for&#59; independent therefore of your<lb/> plan&#44; I offer you herewith my suggestions&#44; which at once may form<lb/> the conclusion of this letter.&#95;&#95;In my estimation this evil&#44; and<lb/> some others say in the organization of the Congregations&#44; &#40;<add>&#63;</add>wel here<lb/> as in other countries perhaps&#44; but I merely speak of <placeName>America</placeName>&#41; and that is the<lb/> quarter the remedy must come from.&#8212;Instead of that prejudicial show<lb/> of superiority and empty domination&#44; which creates favorite <add>&#63;</add><lb/> and supports men in indolence <del>and wantonness&#44; instead of that</del> let us in future promote<lb/> and elevate religion and virtue&#44; <del>study&#44;</del> learning and talent&#8212;To be<lb/> plainer on the subject&#58; Let every Congregation&#44; newly to be formed&#44; abolish<lb/> the office of Shamas &#40;Sexton&#41; as an office of the Congregation&#59; but let all its lower<lb/> duties&#44; including those <del>of attending</del> required during service&#44; be done for real on able wages<lb/> by a suitable person hired or appointed by the trustees as a messenger. <del>or</del><lb/> <del>carrier</del>&#8212;And should there be any thing <del>be</del> that belongs to ceremony or decorum<lb/> during service&#44; any honorable member or trustee might be expected voluntarily<lb/> to act for the benefit of the community&#44; and in this way saving part of the<lb/> salary&#44; rent&#44; collection and other revenues of that office&#44; a Congregation<lb/> will be enabled to have two clerical officers&#44; let them both me ministers<lb/> or Elders&#44; and if the one be more able to <del>the</del> gratify <del>cation</del> of the members and the<lb/> solemnity of the service by his agreeable voice&#44; let the other be more to <del>&#63;</del> superintend our children&#39;s<lb/> instruction <del>and edification</del> and to add to the edifications of the adults&#59; for I wish the one and the other to be religious teachers not<lb/> merely Schoolmasters.  From my observations communicated to you<lb/> it might be inferred that we will find in this country suitable men qualified in English<lb/> for that station&#44; let us then place worthy men in <del>worthy</del> places worthy of them and we might<lb/> <del>also</del> expect them to become after a time <del>at once</del> also good pulpit orators <del>on the pulpit</del> in<lb/> places where the public might wish for it.  Again by engaging a number</p>
-		</body>
-	</text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="unk"/>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS Isaac Leeser Collection</repository>
+                        <collection>The Library of the Dropsie College for Hebrew and Cognate
+                            Learning</collection>
+                        <idno>LSDCBx9FF14_5</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="unk"/>
+                        <addressee accepted="yes" attested="yes" editor="true"/>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet/>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1847-01">January 1847</dateLet>
+                        <dateLet attested="yes" source="" when="1847-01">Shebat 5607</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="ilcajs_b9f14_0005_1r.jpg"/>
+                                <graphic url="ilcajs_b9f14_0005_1v.jpg"/>
+                                <graphic url="ilcajs_b9f14_0005_2r.jpg"/>
+                                <graphic url="ilcajs_b9f14_0005_2v.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="unk" paper_type="" size=""
+                                        >letter</material>
+                                </support>
+                                <extent>4 pages on 2 sheets <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>To the Editor of the Occident <hi rend="underline">Education and the
+                Ministry</hi></p>
+            <p rend="indent(1)">Rev Sir!</p>
+            <p rend="indent(7)"><del>?</del>
+                <date>Shebat 5607</date>.</p>
+            <p rend="indent(9)"><date>January 1847</date>.</p>
+            <p rend="indent(1)">Both your articles in No 36 and 46 of your valuable<lb/> Periodical
+                I have carefully read and reflected upon. Would<lb/> every American Israelite do so,
+                and especially if those who<lb/> form our German Congregations could or would read
+                the latter<lb/> article, headed: “Education for the ministry.” in the last number of
+                the<lb/> Occident; and if in doing so, they would pay to it that close
+                attention<lb/> and just regard, which it truly deserves—then, I am sure, it
+                can<lb/>not fail to effect their own good, and to impress on the minds of the<lb/>
+                people the dangers to which they are or will be exposed, through the<lb/> snares of
+                treacherous minds, false tongues and deceitful hearts<lb/> under the disguise of
+                Religion</p>
+            <p>But I am sorry to say, in regard to the realization of your plan or<lb/> the
+                establishment of a high school I can entertain but faint hopes,<lb/> when I consider
+                the little encouragement <del>granted</del> extended at present to established<lb/>
+                schools for religious instruction, and the total absence of such in many<lb/> of our
+                oldest and wealthiest congregations.—And these, I venture<lb/> to say, are the very
+                places, where all the attainments, which a High<lb/> School can promise, could be
+                easily obtained, if the people at large,<lb/> particularly the wealthy classes would
+                earnestly wish and take<lb/> measures that their children <del>may</del> might know
+                of it a little more than the<lb/> chaunting of a Haphtorah or perhaps also the
+                translation of a Yigdal.<lb/> Nay, that high respect and earnest desire for the
+                knowledge of wisdom,<lb/> that pure energy for the cause of religion which the Law
+                commands, and<lb/> you wish to see, I am not able to find it; it appears not to be
+                in the minds<lb/> of the people.—And should the generous examples, which
+                noble-<lb/>-hearted men have offered to you, arouse others for imitation and give
+                success to<lb/> the good cause:—then we must not be too rash in the estimation of
+                its good<lb/> results.—No matter how high it be, “when we quit the School, we are
+                but<lb/> Schoolboys and no more”—it is (generally speaking) a truth, not
+                understood<lb/> by either the youth, or the <sic>publick</sic> at large, but which
+                every man of some<lb/> proficiency in any science or art would readily admit; and
+                how will then<lb/> that treasure, which is more than all the treasures on earth—“the
+                sacred Law”—<lb/> be safe in the hands of an American Schoolboy? <del>?</del>
+                who</p>
+            <pb n="2"/>
+            <p>2</p>
+            <p>is so little acquainted with living examples of holy and virtuous men<lb/> learned
+                    <del>of</del> in the Law, and who perhaps <del>but for</del> except his
+                schoolbooks, never yet has<lb/> seen the title of another Hebrew book? And should I
+                go too far in<lb/> underrating our American youth, I am surely not too
+                scrupulous<lb/> in apprehending that the boys placed on the pulpit will soon
+                defy<lb/> the holy lessons of their teachers and their teachers' teachers, and<lb/>
+                they might become “Shepherds that cannot understand and<lb/> Pastors” “that destroy
+                and scatter the Sheep of the<lb/> pasture.” Let the history of foreigners and
+                foreign ministry be a<lb/> warning example to <placeName>America</placeName>. On
+                exposing some dangers in the<lb/> nature of your plan, I intend by no means to
+                disparage its<lb/> value and import and, but on the contrary, our consciousness of
+                such<lb/> dangers, will induce and prepare us to act with the greater caution<lb/>
+                and prudence, that we might the better insure good success and<lb/> glorious results
+                to the holy cause of Judaism.</p>
+            <p rend="indent(1)">My remarks thus far concern the latter pages of your article, and
+                are<lb/> anticipated here, because I preferred to answer first to points on the
+                substance of<lb/> which we both would easily agree—But what concerns the first pages
+                of your<lb/> “Educ. for the ministry” I candidly confess to you, that in reading
+                them I<lb/> felt grieved to the bottom of my heart.—To any sincere and religious
+                Jewish mind<lb/> it must appear as <del>be</del> a horrible cruelty to see
+                persecution, oppression, contempt and scorn<lb/>
+                <sic>practised</sic> on men, many of whom the Law of God might call the Pillars of
+                Judaism<lb/> in <placeName>America</placeName>!!—We have men in
+                    <placeName>America</placeName>, who from their cradle <del>off</del> have been
+                brought<lb/> up in piety and learning, men who have “a knowledge of moral
+                philosophy, of hebrew<lb/> in all its branches, biblical comments, mishnah, Talmud,
+                Jewish history and<lb/> “antiquity, Algebra, French, German, general History and
+                Geography”<lb/> and who are “not unacquainted with English Literature and Grammar”
+                (or in<lb/> saying this I have made use only of the same order and terms wherewith
+                you described<lb/> the studies of a High School) [page A76.] would I make any
+                addition instead of “a<lb/> knowledge” on many heads I would have said “Eminence and
+                erudition” I would<lb/> have also said, men of logical and sound reasoning and
+                argument and of considerable<lb/> experience; and what is <del>the</del> more than
+                all, personally known to us for a number of years as<lb/> men who know no disguise,
+                who are peaceful virtuous, pure and firm in principle and<lb/> practice of religion,
+                strict <del>for</del> as regards themselves and tolerant towards others—There
+                are<lb/> also others of whom we would but partly speak in the above terms, and
+                perhaps not<lb/> at all apply the latter additions; but after all no more indulgence
+                than actually<lb/> occasionally used in <placeName>America</placeName>, might be
+                needed in their behalf.—“And where</p>
+            <pb n="3"/>
+            <p rend="align(right)">3</p>
+            <p>can we find these men”?<del>?</del> I have seen them in a “little Grocery,”<lb/> a
+                “Slaughterhouse,” a “Coalyard,” a “Tavern,” a “Cigar-or other shop,”<lb/> such and
+                the like are the places, whither the <del>worthy</del> men <del>to</del> worthy to
+                grow the ministry<lb/> have been pushed back by the Errors of the multitude, and
+                ____ — - —!</p>
+            <p>“And for God's sake, how is it them possible, that all this be true and be still<lb/>
+                inconsistency with your statements about the lamentations of the people<lb/> “of the
+                nearly total absence of qualified men for the office of duly educated<lb/> “<hi
+                    rend="underline">religious teachers</hi>”?</p>
+            <p>“of the great want of intelligent persons, wanted for the ministry,<lb/> “in manner
+                that the <hi rend="underline">Word of God</hi> may be <hi rend="underline"
+                    >expounded</hi> to the<lb/> “people”? How is it consistent with your saying: “we
+                know of<lb/> “no candidates (for <hi rend="underline">religious Teachers</hi>) or
+                persons likely to become so<lb/> “to supply new Congregations or to take the place
+                of the <hi rend="underline">ministers</hi> now<lb/> “officiating.”?</p>
+            <p>Part of my statements I could easily verify to every reader by only referring<lb/>
+                him to former volumes of the Occident, and therefore I need not be plainer<lb/>
+                about that—and as to your's Sir! I say, So “and <del>tell</del> show my people<lb/>
+                “their transgression, and the house of <persName>Jacob</persName> their sins” they
+                are<lb/> “speaking oppression and revolt, conceiving from the heart words of<lb/>
+                “falsehood” tell them to call things by their right names, to say what<lb/> they
+                mean and to mean what they say, and this will <del>dissolve matters and</del><lb/>
+                show forth the truth.— “A man whose voice pleases, or one whose speech suits<lb/>
+                his publick” is, with few exceptions, the general definition of Jewish ministry in<lb/>
+                <placeName>America</placeName>; and the people would rarely call a man fit
+                    <del>for</del> to be minister, if his<lb/> voice do not please their taste.—Let
+                them thus not cry out for want of<lb/> “<hi rend="underline">ministers</hi>” “<hi
+                    rend="underline">Religious Teachers</hi>” “men who know <hi rend="underline">to
+                    expound</hi><lb/>
+                <hi rend="underline">the Law of God</hi> to the people” let them not use false words
+                and call<lb/> the name of God: “Thou shalt not take the name of the Lord thy<lb/>
+                God in vain”—And only this much we say, but we do neither conjure<lb/> the good
+                policy nor dispute the just purpose and beneficial results of having such<lb/>
+                officers in large communities, for the people will say, that it confers on them
+                a<lb/> signified pleasure, that it arouses their feelings of devotion, and that it
+                gives<lb/> solemnity to worship, just at the proper place and time—during the
+                service<lb/> in the Synagogue—And to deliver a discourse from the pulpit, will
+                that<lb/> really <del>say to</del> be <hi rend="underline">expounding the Law of
+                    God</hi>? will it strike the mind and teach it<lb/> “to know wisdom and
+                instruction, to understand the words of the wise and<lb/> “their dark sayings”? or
+                will it rather strike our senses, deceive our hearts</p>
+            <pb n="4"/>
+            <p>4</p>
+            <p>dazzle our eyes, and at the end make us Sin and forget the divine command:<lb/> “ye
+                shall not seek after your own hearts and your own eyes”?<lb/> (vis Talmud Berachott
+                    <add>?</add> 12) These and more questions one might ask and<lb/> perhaps
+                    <persName>Blair's</persName> Rhetorick itself and daily experience might
+                argue<lb/> in his favour, but in one word I would answer him: “All depends<lb/> on
+                the man,” it will do good from a good man, and in the words of<lb/> the royal
+                Psalmist let us say: “Lord, who shall abide in thy tabernacle?<lb/> ....“he that
+                walketh uprightly, and worketh righteousness, and<lb/> “speaketh the truth in his
+                heart, he that backbiteth not with his<lb/> “tongue, nor <hi rend="underline">doeth
+                    evil to his neighbour</hi>, <hi rend="underline">nor taketh up a</hi><lb/> “<hi
+                    rend="underline">reproach against his neighbour</hi>—<hi rend="underline">he
+                    that honoreth them</hi><lb/> “<hi rend="underline">that fear the Lord</hi>.__.he
+                    <hi rend="underline">that not taketh bribery against the</hi><lb/> “<hi
+                    rend="underline">innocent</hi>” (Psalm 15.); and if we do not know, or rather
+                know the man<lb/> not to be so, we again apply the words of that holy book: “But
+                unto<lb/> “the wicked God saith, what hast thou to do to declare my<lb/> “statutes,
+                then givest thy mouth to evil, and thy tongue frameth<lb/> „deceit.” (Psalm 50. 16,
+                19.)</p>
+            <p>Thus the more I consider and reflect upon the state of Judaism amongst<lb/> us, the
+                more I am convinced, that something must be done for the<lb/> good, some remedy must
+                be sought for; independent therefore of your<lb/> plan, I offer you herewith my
+                suggestions, which at once may form<lb/> the conclusion of this letter.__In my
+                estimation this evil, and<lb/> some others say in the organization of the
+                Congregations, (<add>?</add>wel here<lb/> as in other countries perhaps, but I
+                merely speak of <placeName>America</placeName>) and that is the<lb/> quarter the
+                remedy must come from.—Instead of that prejudicial show<lb/> of superiority and
+                empty domination, which creates favorite <add>?</add><lb/> and supports men in
+                indolence <del>and wantonness, instead of that</del> let us in future promote<lb/>
+                and elevate religion and virtue, <del>study,</del> learning and talent—To be<lb/>
+                plainer on the subject: Let every Congregation, newly to be formed, abolish<lb/> the
+                office of Shamas (Sexton) as an office of the Congregation; but let all its
+                lower<lb/> duties, including those <del>of attending</del> required during service,
+                be done for real on able wages<lb/> by a suitable person hired or appointed by the
+                trustees as a messenger. <del>or</del><lb/>
+                <del>carrier</del>—And should there be any thing <del>be</del> that belongs to
+                ceremony or decorum<lb/> during service, any honorable member or trustee might be
+                expected voluntarily<lb/> to act for the benefit of the community, and in this way
+                saving part of the<lb/> salary, rent, collection and other revenues of that office,
+                a Congregation<lb/> will be enabled to have two clerical officers, let them both me
+                ministers<lb/> or Elders, and if the one be more able to <del>the</del> gratify
+                    <del>cation</del> of the members and the<lb/> solemnity of the service by his
+                agreeable voice, let the other be more to <del>?</del> superintend our
+                children's<lb/> instruction <del>and edification</del> and to add to the
+                edifications of the adults; for I wish the one and the other to be religious
+                teachers not<lb/> merely Schoolmasters. From my observations communicated to
+                you<lb/> it might be inferred that we will find in this country suitable men
+                qualified in English<lb/> for that station, let us then place worthy men in
+                    <del>worthy</del> places worthy of them and we might<lb/>
+                <del>also</del> expect them to become after a time <del>at once</del> also good
+                pulpit orators <del>on the pulpit</del> in<lb/> places where the public might wish
+                for it. Again by engaging a number</p>
+        </body>
+    </text>
 </TEI>

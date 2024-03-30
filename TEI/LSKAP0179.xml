@@ -1,264 +1,355 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="yes">Leeser, Isaac</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>LSKAP</repository>
-						<collection>The Arnold and Deanne Kaplan Collection of Early American Judaica</collection>
-						<idno>LSKAP0179</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="yes">Leeser, Isaac</author>
-						<addressee editor="false" attested="yes" accepted="yes">David Judah</addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>Philadelphia, PA</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1830-05" source="" attested="yes">May 31, 1830</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="LSKAP0179_1r.jpg"></graphic>
-								<graphic url="LSKAP0179_1v.jpg"></graphic>
-								<graphic url="LSKAP0179_2v.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="false" paper_type="" size="">letter</material>
-								</support>
-								<extent>4 pages on 2 sheets
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="manuscript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="restricted">
-								<p>Restricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1R"/>
-				<p rend="align(right)"><placeName>Philadelphia</placeName> <date>Sunday 9th May 31 Omer 5590</date>.</p>
-				<p><addressee>Mr. Judah</addressee>.</p>
-			<p rend="indent(1)">Your letter of the <date>5th</date> was received the day following after the bank had<lb/> closed&#44; or else&#44; it is highly probable&#44; that you would have been in possession of the enclosed<lb/> change for two or three days&#59; but as I could not get the immense an count before<lb/> <date>Friday</date> morning&#44; I had no chance of sending or writing before this morning.<lb/>  When I presented the notable check to the teller&#44; he smiled&#44; and well he might&#59; it<lb/> was already eight &#38; half months old and so big at one&#59; and then its long journey<lb/> over stork and dale&#44; it was enough to make any one laugh.  But if you<lb/> or <persName>Abbot</persName> have more such things to attend to&#44; I shall serve you with<lb/> the greatest promptitude.  Please to write or tell this to the gentleman&#44;<lb/> whenever you write to him or see him.  I have not a great deal to do and<lb/> the majority of the banks are within half a mile of my residence in<lb/> <placeName>Market&#44; Chestnut&#44; and second Streets</placeName>&#44; and so it cannot cost me a great deal<lb/> of trouble.  Besides&#44; the number of banks is much smaller than in <placeName>New&#95;<lb/> York</placeName>&#44; and I almost think I can enumerate them easily.  Let us see&#58; the<lb/> United States Bank&#59; Farmers &#38; Mechanics&#59; &#38; the North American Banks in <placeName>Ches<lb/>nut</placeName>&#59; the Schuylkill &#38; Commercial Banks in <placeName>Market</placeName>&#59; the Philadelphia<lb/> Bank&#44; <placeName>corner of 4th &#38; <sic>Chesnut</sic></placeName>&#59; Girard&#39;s Bank&#44; <placeName>Third near Walnut</placeName> the Penn&#44;<lb/>sylvania <del>&#38; Mechanics</del> Bank in <placeName>Second between Walnut &#38; <sic>Chesnut</sic></placeName> <add>and the Mechanics in <placeName>second between</placeName></add> <placeName><sic>Chesnut</sic><lb/> and Market</placeName>.  I do not believe&#44; that there is another bank in the City proper&#59; but there are <hi rend="underline">at least</hi> three more in the liberties&#59; in <placeName>Southwark</placeName>&#44; the Bank of Southwark&#59; in <placeName>Callowhill street</placeName> the <sic>Penntownship</sic> Bank and in the<lb/> Countryside of <placeName>Vine street</placeName>&#44; the Northern Liberties Bank&#59; all these establish&#95;<lb/>ments are in good repute&#44; and rather more safe&#44; than the New Yorkers.  But<lb/> one Bank&#44; I believe the Mechanics&#44; had applied last winter for a renewal of<lb/> charter&#44; and it was refused for the present&#44; upon the following ridiculous pretext&#58;<lb/> while the subscription for the relieve of Jefferson was going about&#44; the cashier<lb/> or a director &#40;I know not which&#41; was applied to to contribute his mite<add>&#63;</add>&#44; which he<lb/> refused to do&#44; <del>with</del> using some insulting language.  This was mentioned in the house of de&#44;<lb/>legates&#44; and it produced a powerful effect&#44; as the bill was immediately laid</p>
-			<pb n="1V"/>
-				<p>Upon the table&#44; and I am told&#44; that the redoubtable German members will not vote<lb/> for a new charter to this bank&#44; till they change the name to Jefferson Bank.<lb/>  This surely is ridiculous enough&#44; but I am also told&#44; that this bank when first<lb/> chartered&#44; it was in the hands of <hi rend="underline">Republicans</hi>&#44; but has since got into those <lb/> of Federalists&#33;&#33; and then they have indulged a little in unwarrantable spend&#95;<lb/>ations&#44; like perhaps&#44; most other banks.  But you may rely upon the<lb/> truth <del>about</del> of the story about the collecting for Jefferson&#44; as this was in the<lb/> papers.&#95;&#95;</p>
-			<p rend="indent(1)">You seem to give me up for a bad job&#59; you are however mistaken&#44; I listen<lb/> to the advice of every one&#44; and this very thing of hearing every one perplexes<lb/> me so much&#44; for I frequently do not know&#44; which side to turn to.  I have<lb/> had a plenty of <hi rend="underline">cheap</hi> advice&#44; but for real good assistance that is to come<lb/> yet.&#95;&#95; You deplore my bad luck&#44; that <persName>Miss Etting</persName> has not been <persName>Master<lb/> Etting</persName>&#59; but calm your regrets&#44; for boys bring nothing&#44; and girls bring nothing&#44;<lb/> I was at three <hi rend="underline">Beriths</hi> and two weddings&#44; and not one cent of offerings or<lb/> presents.  The Bridegrooms paid me one 20 the other 10 Dollars&#44; and though the<lb/> families and guests on both occasions are rich&#44; the Hazan alas&#33; Did not count<lb/> his fingers <hi rend="underline">blue</hi> by the profits....This however must be expected in <placeName>Philadelphia</placeName><lb/> where cold civility pays for all things.  It is well that I am not <sic>covetuous</sic>&#44;<lb/> or else I should be greatly disappointed.  But I will not complain&#44; for I see<lb/> that I am doing so much better than many young men with ten times my<lb/> knowledge and opportunities of pushing themselves forward.&#95;&#95;</p>
-				<p>You do not like my newspaper scribbling&#59; you are right partly&#44; but<lb/> the price you said was just my first <sic><hi rend="underline">offence</hi></sic> for more than a year&#59; yet it<lb/> was flatteringly received&#44; and even the old critics and terror of authors&#44;<lb/> <persName>Mr. Walsh</persName> called it interesting.  But if you as little to do as I have&#44; you<lb/> would have little doubt&#44; be oftener caught <hi rend="underline">poaching</hi>&#44; than I have<lb/> been.&#95;&#95;Uncle has not written to me for more than two weeks.  I am glad&#44;<lb/> he is going to live with you.&#8212;Have you no news <hi rend="underline">whatever</hi>&#44; relative to yourself<lb/> and others to communicate to your</p>
-			<p rend="indent(4)"><hi rend="underline">humble</hi> servant&#63;</p>
-			<p rend="indent(5)"><persName role="author">Isaac Leeser</persName>.</p>
-			<pb n="2V"/>
-				<p rend="align(center)"><addressee>Mr. David Judah</addressee></p>
-			<p rend="align(center)">Commission Merchant</p>
-			<p rend="align(center)"><placeName>Baltimore</placeName></p>
-			<p rend="align(center)">Passayun  Don DaCopo</p>
-			<p rend="align(center)"><persName role="author">Isaac Leeser</persName> Passaynks  Manayunk</p>
-			<p rend="align(center)"><add>&#63;</add> Roman    DaCapo Rogers.</p>
-			<p rend="align(center)">Rive Plant</p>
-			<p rend="align(center)" ><add>&#63;</add></p>
-			<p rend="align(center)"><add>&#63;</add> <date>7th September</date> Roman Riumkrum<add>&#63;</add></p>
-			<p rend="align(center)">Riumbarba</p>
-			<p rend="align(center)"><add>&#63;</add> <date>7th September</date>    <date>September</date></p>
-			<p rend="align(center)">Rome</p>
-			<p rend="align(center)"><add>&#63;</add> <date>7th September</date>    <date>September</date></p>
-			<p rend="align(center)"><add>&#63;</add> <date>15th September</date></p>
-		</body>
-	</text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="yes">Leeser, Isaac</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>LSKAP</repository>
+                        <collection>The Arnold and Deanne Kaplan Collection of Early American
+                            Judaica</collection>
+                        <idno>LSKAP0179</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="yes">Leeser, Isaac</author>
+                        <addressee accepted="yes" attested="yes" editor="false">David
+                            Judah</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1830-05">May 31, 1830</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="LSKAP0179_1r.jpg"/>
+                                <graphic url="LSKAP0179_1v.jpg"/>
+                                <graphic url="LSKAP0179_2v.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >letter</material>
+                                </support>
+                                <extent>4 pages on 2 sheets <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="restricted">
+                                <p>Restricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1R"/>
+            <p rend="align(right)"><placeName>Philadelphia</placeName>
+                <date>Sunday 9th May 31 Omer 5590</date>.</p>
+            <p><addressee>Mr. Judah</addressee>.</p>
+            <p rend="indent(1)">Your letter of the <date>5th</date> was received the day following
+                after the bank had<lb/> closed, or else, it is highly probable, that you would have
+                been in possession of the enclosed<lb/> change for two or three days; but as I could
+                not get the immense an count before<lb/>
+                <date>Friday</date> morning, I had no chance of sending or writing before this
+                morning.<lb/> When I presented the notable check to the teller, he smiled, and well
+                he might; it<lb/> was already eight &amp; half months old and so big at one; and
+                then its long journey<lb/> over stork and dale, it was enough to make any one laugh.
+                But if you<lb/> or <persName>Abbot</persName> have more such things to attend to, I
+                shall serve you with<lb/> the greatest promptitude. Please to write or tell this to
+                the gentleman,<lb/> whenever you write to him or see him. I have not a great deal to
+                do and<lb/> the majority of the banks are within half a mile of my residence in<lb/>
+                <placeName>Market, Chestnut, and second Streets</placeName>, and so it cannot cost
+                me a great deal<lb/> of trouble. Besides, the number of banks is much smaller than
+                in <placeName>New_<lb/> York</placeName>, and I almost think I can enumerate them
+                easily. Let us see: the<lb/> United States Bank; Farmers &amp; Mechanics; &amp; the
+                North American Banks in <placeName>Ches<lb/>nut</placeName>; the Schuylkill &amp;
+                Commercial Banks in <placeName>Market</placeName>; the Philadelphia<lb/> Bank,
+                    <placeName>corner of 4th &amp; <sic>Chesnut</sic></placeName>; Girard's Bank,
+                    <placeName>Third near Walnut</placeName> the Penn,<lb/>sylvania <del>&amp;
+                    Mechanics</del> Bank in <placeName>Second between Walnut &amp;
+                        <sic>Chesnut</sic></placeName>
+                <add>and the Mechanics in <placeName>second between</placeName></add>
+                <placeName><sic>Chesnut</sic><lb/> and Market</placeName>. I do not believe, that
+                there is another bank in the City proper; but there are <hi rend="underline">at
+                    least</hi> three more in the liberties; in <placeName>Southwark</placeName>, the
+                Bank of Southwark; in <placeName>Callowhill street</placeName> the
+                    <sic>Penntownship</sic> Bank and in the<lb/> Countryside of <placeName>Vine
+                    street</placeName>, the Northern Liberties Bank; all these establish_<lb/>ments
+                are in good repute, and rather more safe, than the New Yorkers. But<lb/> one Bank, I
+                believe the Mechanics, had applied last winter for a renewal of<lb/> charter, and it
+                was refused for the present, upon the following ridiculous pretext:<lb/> while the
+                subscription for the relieve of Jefferson was going about, the cashier<lb/> or a
+                director (I know not which) was applied to to contribute his mite<add>?</add>, which
+                he<lb/> refused to do, <del>with</del> using some insulting language. This was
+                mentioned in the house of de,<lb/>legates, and it produced a powerful effect, as the
+                bill was immediately laid</p>
+            <pb n="1V"/>
+            <p>Upon the table, and I am told, that the redoubtable German members will not vote<lb/>
+                for a new charter to this bank, till they change the name to Jefferson Bank.<lb/>
+                This surely is ridiculous enough, but I am also told, that this bank when first<lb/>
+                chartered, it was in the hands of <hi rend="underline">Republicans</hi>, but has
+                since got into those <lb/> of Federalists!! and then they have indulged a little in
+                unwarrantable spend_<lb/>ations, like perhaps, most other banks. But you may rely
+                upon the<lb/> truth <del>about</del> of the story about the collecting for
+                Jefferson, as this was in the<lb/> papers.__</p>
+            <p rend="indent(1)">You seem to give me up for a bad job; you are however mistaken, I
+                listen<lb/> to the advice of every one, and this very thing of hearing every one
+                perplexes<lb/> me so much, for I frequently do not know, which side to turn to. I
+                have<lb/> had a plenty of <hi rend="underline">cheap</hi> advice, but for real good
+                assistance that is to come<lb/> yet.__ You deplore my bad luck, that <persName>Miss
+                    Etting</persName> has not been <persName>Master<lb/> Etting</persName>; but calm
+                your regrets, for boys bring nothing, and girls bring nothing,<lb/> I was at three
+                    <hi rend="underline">Beriths</hi> and two weddings, and not one cent of
+                offerings or<lb/> presents. The Bridegrooms paid me one 20 the other 10 Dollars, and
+                though the<lb/> families and guests on both occasions are rich, the Hazan alas! Did
+                not count<lb/> his fingers <hi rend="underline">blue</hi> by the profits....This
+                however must be expected in <placeName>Philadelphia</placeName><lb/> where cold
+                civility pays for all things. It is well that I am not <sic>covetuous</sic>,<lb/> or
+                else I should be greatly disappointed. But I will not complain, for I see<lb/> that
+                I am doing so much better than many young men with ten times my<lb/> knowledge and
+                opportunities of pushing themselves forward.__</p>
+            <p>You do not like my newspaper scribbling; you are right partly, but<lb/> the price you
+                said was just my first <sic><hi rend="underline">offence</hi></sic> for more than a
+                year; yet it<lb/> was flatteringly received, and even the old critics and terror of authors,<lb/>
+                <persName>Mr. Walsh</persName> called it interesting. But if you as little to do as
+                I have, you<lb/> would have little doubt, be oftener caught <hi rend="underline"
+                    >poaching</hi>, than I have<lb/> been.__Uncle has not written to me for more
+                than two weeks. I am glad,<lb/> he is going to live with you.—Have you no news <hi
+                    rend="underline">whatever</hi>, relative to yourself<lb/> and others to
+                communicate to your</p>
+            <p rend="indent(4)"><hi rend="underline">humble</hi> servant?</p>
+            <p rend="indent(5)"><persName role="author">Isaac Leeser</persName>.</p>
+            <pb n="2V"/>
+            <p rend="align(center)">
+                <addressee>Mr. David Judah</addressee>
+            </p>
+            <p rend="align(center)">Commission Merchant</p>
+            <p rend="align(center)">
+                <placeName>Baltimore</placeName>
+            </p>
+            <p rend="align(center)">Passayun Don DaCopo</p>
+            <p rend="align(center)"><persName role="author">Isaac Leeser</persName> Passaynks
+                Manayunk</p>
+            <p rend="align(center)"><add>?</add> Roman DaCapo Rogers.</p>
+            <p rend="align(center)">Rive Plant</p>
+            <p rend="align(center)">
+                <add>?</add>
+            </p>
+            <p rend="align(center)"><add>?</add>
+                <date>7th September</date> Roman Riumkrum<add>?</add></p>
+            <p rend="align(center)">Riumbarba</p>
+            <p rend="align(center)">
+                <add>?</add>
+                <date>7th September</date>
+                <date>September</date>
+            </p>
+            <p rend="align(center)">Rome</p>
+            <p rend="align(center)">
+                <add>?</add>
+                <date>7th September</date>
+                <date>September</date>
+            </p>
+            <p rend="align(center)">
+                <add>?</add>
+                <date>15th September</date>
+            </p>
+        </body>
+    </text>
 </TEI>

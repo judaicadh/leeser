@@ -1,266 +1,413 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE TEI [
-<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
-%teibase;
-<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
-%teiext;
-]>
-<TEI>
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="unk">Morais, Sabato</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>LSKAP</repository>
-						<collection>The Arnold and Deanne Kaplan Collection of Early American Judaica</collection>
-						<idno>LSKAP_New_13</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="unk">Morais, Sabato</author>
-						<addressee editor="false" attested="yes" accepted="yes"></addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>Philadelphia, PA</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1868-02" source="" attested="yes">February 8 1868</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="leeser_05_2011_kaplan_new_13.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="false" paper_type="" size="">print</material>
-								</support>
-								<extent>1 page on 1 sheet
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="typescript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions>Newspaper Clipping</additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="restricted">
-								<p>Restricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-				<p rend="align(center)"><hi rend="bold">IN MEMORIAM.</hi></p>
-				<p rend="align(center)"><hi rend="bold">A Eulogy on the Late <persName>Rev. Isaac Leeser</persName>&#44; De&#45;<lb/>livered at the Synagogue&#44; <placeName>Seventh Street&#44;<lb/> Above Arch</placeName>&#44; on <date>Saturday&#44; February 8</date>&#44; by the<lb/> <persName role="author">Rev. S. Morais</persName>&#44; Minister of the Congregation.</hi></p>
-				<p rend="indent(1)">What the pillar of cloud was to our fathers by day<lb/> and the pillar of fire by night&#44; are the wise and the<lb/> learned to us&#44; O fellow Israelites&#33;  We walk at the<lb/> light which their bright intellects emit.  Our progeni&#45;<lb/>tors&#44; wending their steps through trackless deserts&#44;<lb/> cast a look around&#44; and lo&#33; a guide from heaven led<lb/> them forth.  We&#44; the travelers of a road rough and<lb/> rugged&#44; see a beacon illumining our horizon.  At its<lb/> radiance we can always discover a safe issue.  Oh&#33;<lb/> how lurid would be the mist created by its absence.<lb/>  But <placeName>Israel</placeName> will never be enshrouded in darkness.  I<lb/> read it in the chronicles of truth&#44; &#34;<emph rend="italics">He will not take<lb/> away&#42;</emph> the pillar of cloud  by day nor the pillar of fire<lb/> by night from before the people.&#34;</p>
-			<p rend="indent(1)">The future will&#44; like the past&#44; be directed by God&#39;s<lb/> own agency.  To the end of time the house of <persName>Jacob</persName><lb/> will produce men whose spiritual teaching shall mold<lb/> the minds of multitudes.  Let us never fear that infi&#45;<lb/>delity will dethrone piety&#59; that the rule of wickedness<lb/> will supplant that of godliness.  A <persName>Gideon</persName> arose and<lb/> the idols were scattered away.</p>
-			<p rend="indent(1)"><persName>Samuel</persName> became the judge when the children of a<lb/> high priest contaminated the altar.  The same<lb/> day which beheld the instruments of Roman torture<lb/> tear the life of the great <persName>Akibah</persName>&#44; saw the birth of<lb/> <persName>Rabbi Judah</persName>&#44; the prince of knowledge.</p>
-			<p rend="indent(1)">Yet&#44; though the history of all ages affords the con&#45;<lb/>solatory assurance that the Lord will not leave the<lb/> flock of his pasture a prey to the devouring wolf&#44; a<lb/> feeling of dismay seizes us when faithful shepherds<lb/> vanish from our presence.  To us&#44; whose vision is<lb/> narrow&#44; it appears as if none could be found to fill up<lb/> the void.  For those whose spirit was wafted to the<lb/> abode of eternity&#44; we considered vigilant guardians&#44;<lb/> trustworthy servants of their Master.  We seek for<lb/> their equal&#44; but meet the sluggard and the faithless.<lb/>  Shall we then be condemned if the love we bear reli&#45;<lb/>ions instruction incites us now to lament&#63;</p>
-			<p rend="indent(1)">The pain we experienced at the loss which the lite&#45;<lb/>rary world  sustained by the death of a Jewish savant<lb/> in <placeName>Italy</placeName>&#44; was scarcely abated when the melancholy<lb/> tidings arrived from <placeName>France</placeName> that another among the<lb/> greatest had descended to the grave.  <persName>Munk</persName> has not<lb/> long survived <persName>Luzzatto</persName>.</p>
-			<p rend="indent(1)">Those two giants of intellect&#44; who had very nigh<lb/> reached the highest point of human knowledge&#44; were<lb/> cut off while yet vigorous.  Those two mighty laborers<lb/> in the field of science ceased to dispense the delicious<lb/> fruits they had gathered.  One was surprised by<lb/> death while diving into the depth of scriptural exe&#45;<lb/>gesis and philology&#58; the other while engaged &#40;oh&#44;<lb/> wondrous undertaking&#33;&#41; without sight&#44; to collate<lb/> ancient manuscripts and set in order a library most<lb/> extensive and rare.  For quenched was the light of<lb/> those eyes which had discovered treasures hidden in<lb/> obscurity.  But how refulgent that mind&#44; whose<lb/> working enriched the world with volumes historically<lb/> and philosophically profound&#33;  <persName>Munk</persName>&#44; like <persName>Luzzatto</persName>&#44;<lb/> continued&#44; without rest&#44; to pour out new ideas&#44; that<lb/> others might slake their thirst at the fountain of his<lb/> wisdom.  But at the bidding of the Most High the<lb/> gushing stream dried&#44; and we have not since beheld<lb/> another flow so copiously.</p>
-			<p rend="indent(1)">But the prediction of <persName>Ezekiel</persName> seems to have been al&#45;<lb/>most literally verified in us for &#34;a sad report follows<lb/> the other hastily&#44;&#34; to tell us that &#34;the law hath ceased<lb/> to be imparted by a priest.&#34;  Yes&#44; that descendant and<lb/> true disciple of <persName>Aaron</persName>&#44; who ministered to one congre&#45;<lb/>gation in <placeName>Northern Europe</placeName>&#44; but taught ever son of<lb/> <placeName>Israel</placeName> who loves the language&#44; the literature&#44; and the<lb/> religion of his people&#44; has also recently departed from<lb/> earth.  He has joined the two illustrious beings that<lb/> had but shortly preceded him to the dwelling of joy.<lb/>  But we&#8212;what have we not lost on the day that <persName>Rap&#45;<lb/>paport</persName> was seated among the blessed&#63;  Him we could<lb/> ask&#44; and his lips would impart sublime knowledge.<lb/>  For &#34;the law of truth was in his month&#59;&#34; &#34;he walked<lb/> with God in equity and peace&#44;&#34; &#34;and did turn many<lb/> away from sin.  Aye&#44; an angel of the Lord of Hosts<lb/> was he.&#34;</p>
-			<p rend="indent(1)"><persName>Rappaport</persName> was my ideal of a Rabbi.  Exceedingly<lb/> learned&#44; yet exceedingly meek.  Rigidly attached to the<lb/> traditions of the fathers&#44; but willing to concede when<lb/> by yielding nothing sacred was surrendered.  And him<lb/> I would fain have consulted&#44; if the ritual of the Syna&#45;<lb/>gogue&#44; so variously and erroneously represented in<lb/> this country&#44; can ever be unalterably fixed by a syno&#45;<lb/>dical convention.  Alas&#33;  He also has gone hence&#44;<lb/> and the noblest monument of his extraordinary talent<lb/> remains incomplete.  His Encyclopaedia of the Tal&#45;<lb/>mud&#44; and of collateral works&#44; forming in itself a<lb/> world of learning&#44; may&#44; perhaps be suffered to molder<lb/> away as a writing of no value.</p>
-			<p rend="indent(1)">For this we may reasonably lament&#44; O&#44; brethren<lb/> and friends&#33;  For the publication of that inestimable<lb/> work would clear many doubts&#44; elucidate many ob&#45;<lb/>scure questions&#44; while adding another jewel to the<lb/> grown of the law.</p>
-			<p rend="indent(1)">But who would have believed that the hand which<lb/> two months ago recorded the demise of the sage at<lb/> <placeName>Prague</placeName>&#44; would be also palsied in death&#63;</p>
-			<p rend="indent(1)">Rest thy aching heart on the bosom of eternity&#44;<lb/> thou so long racked by deep and earnest thoughts&#33;<lb/>  Thou didst thy work well&#44; and thine alone is the<lb/> merit&#44; for there was none to help or counsel.</p>
-			<p rend="indent(1)">It is even so&#44; my beloved hearers.  When <persName>Isaac<lb/> Leeser</persName> went forth&#44; armed with firey zeal&#44; to fight the<lb/> battles of the Lord&#44; he stood alone.  A host might have<lb/> then been arrayed against <placeName>Israel</placeName>&#44; but not one was<lb/> found in our camp able to cope with the foe.  A youth<lb/> arose to the defense of his religion and his people.<lb/>  Was the name of the Jew aspersed&#63;  His vigorous pen<lb/> wrote the words which put the offender to the blush.<lb/>  Were the truths of <placeName>Sinai</placeName> impugned&#63;  He strove to<lb/> confound the unbeliever.  On the pulpit&#59; in the press&#59;<lb/> at social gatherings&#44; he stood as the bright exponent<lb/> of principles which he never forsook&#44; though he bore<lb/> for their sake the jeers of the scoffer and the con&#45;<lb/>tumely of the skeptic.</p>
-			<p rend="indent(1)">Gifted with versatility of mind&#44; endowed with<lb/> the powers of an endurance that few can equal&#59;<lb/> formed by nature with faculties extraordinarily reten&#45;<lb/>tive&#44; he could accomplish&#44; unaided&#44; more than others<lb/> with efficient supports.  For&#44; despite his clerical<lb/> duties&#44; necessarily various and onerous in a large con&#45;<lb/>gregation&#44; the works he produced have been multi&#45;<lb/>farious&#44; and extensive.  Shall I enumerate them&#63;  My<lb/> friends&#44; there is scarcely a religious book of note in<lb/> the <placeName>United States of America</placeName> that does not bear on its<lb/> title page the name of <persName>Isaac Leeser</persName>.</p>
-			<p rend="indent(1)">The prayers you offer to God&#44; have&#44; by his industry&#44;<lb/> been translated into the vernacular&#44; and elegantly<lb/> printed.  The Bible you read&#44; for instruction and<lb/> spiritual comfort&#44; has&#44; by his toil&#44; been freed from<lb/> biased interpretations&#44; and rendered more compre&#45;<lb/>hensible.  The volume in which your children learn<lb/> the rudiments of Hebrew knowledge&#59; those which in&#45;<lb/>form them of the character and dogmas of their reli&#45;<lb/>gion&#44; and others which unfold before their eyes the<lb/> wisdom of the ancients&#44; are the fruits of his unwearied<lb/> perseverance&#59; &#34;for an education&#34; was the motto in&#45;<lb/>scribed on the banner he first unfolded in this new<lb/> world&#44; and increasingly upheld.  He had discovered<lb/> that that was the most efficacious means to awaken<lb/> his brethren to a sense of their religious duties&#44; and<lb/> he resorted thereto&#44; as evinced by his personal and<lb/> literary exertions.</p>
-			<p rend="indent(1)">Has he been successful&#63;  Most assuredly so.  Not<lb/> to the extent of his desires&#44; nor commensurately with<lb/> his labor&#59; nevertheless to a high degree.  I&#44; myself&#44;<lb/> though comparatively a new comer&#44; can bear testi&#45;<lb/>mony to the step in advance made in our midst by our<lb/> coreligionists.  Will any one deny that our lamented<lb/> brother gave the first impetus&#63;  No.  Others may have<lb/> done nobly&#44; but <persName>Isaac Leeser</persName> was the pioneer that<lb/> cleared away all obstructions.</p>
-			<p rend="indent(1)">This fact&#44; which ought to be incontestably admit&#45;<lb/>ted&#44; was lost sight of by men who are&#44; or profess to<lb/> be&#44; his superiors.  Hence the bitter sarcasm which<lb/> assailed him&#44; and aggravated his natural irascibility&#44;<lb/> conscious of having worked indefatigably&#44; he was<lb/> both pained and angered&#44; when belittled by ungene&#45;<lb/>rous minds.  That he had not explored the depth of<lb/> Talmudical science&#59; that his acquaintance with our<lb/> casuistical writers and the Hebrew literature of the<lb/> day was limited&#59; ought to have been overlooked by<lb/> reason of the ardor with which he espoused the cause<lb/> of education&#44; for that is the great debt which <placeName>America</placeName><lb/> owes <persName>Isaac Leeser</persName>.</p>
-			<p rend="indent(1)">Contrasted with a <persName>Luzzatto</persName>&#44; he might have been<lb/> merely a tyro.  <persName>Munk</persName> exceeded him by fact and he<lb/> would&#44; for certain&#44; have profited by sitting at the feet<lb/> of the great <persName>Rappaport</persName>.  Yet&#44; he labored even more<lb/> beneficially than those three universally renowned<lb/> scholars.  For they sought to lead further the already<lb/> tutored&#59; he sought to be a guide for the untutored.<lb/>  They endeavored to enlarge and beautify the temple<lb/> of knowledge&#59; he strove to lay its foundations&#44; that it<lb/> might be set up.  Few&#44; very few are the individuals<lb/> who&#44; in this country&#44; can duly appreciate the masterly<lb/> productions of those European literati&#59; but <persName>Leeser&#39;s</persName><lb/> writings can be read round every fireside advanta&#45;<lb/>geously&#44; both to the young and to the old.  Therefore<lb/> ought his memory to be revered and eternized.</p>
-			<p rend="indent(1)">As to myself&#44; I have performed only an act of jus&#45;<lb/>tice.  Called upon to officiate at the funeral of one<lb/> with whom I have been associated in the discharge<lb/> of educational and ministerial functions&#44; I would have<lb/> pronounced on that mournful occasion&#44; the eulogy he<lb/> well merited.  But I was precluded by the expressed<lb/> wish of the deceased.  Simplicity of manners had<lb/> been his characteristic through life&#44; and he exempli&#45;<lb/>fied it in the hour of death.  He ordered that the ritual<lb/> service as recited at the burial of the humblest Is&#45;<lb/>raelite should alone be heard when he was about to<lb/> be consigned to mother earth&#44; and none dared con&#45;<lb/>travene the injunction.  But the Ecclesiastical Board&#44;<lb/> of which I have the honor to be a member&#44; resolved<lb/> that a public expression of sorrow at the demise of<lb/> our colleague&#44; was highly due to his virtues and deeds&#59;<lb/> and I full assented.</p>
-			<p rend="indent(1)">My friends&#33;  I utter what I profoundly feel when I<lb/> say that no man of <placeName>Israel</placeName> has yet found a grave in this<lb/> country of our adoption&#44; who deserves to be enshrined</p>
-				<p>&#42; Literally the Hebrew verb stands in the future tense.</p>
-		</body>
-	</text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="unk">Morais, Sabato</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>LSKAP</repository>
+                        <collection>The Arnold and Deanne Kaplan Collection of Early American
+                            Judaica</collection>
+                        <idno>LSKAP_New_13</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="unk">Morais,
+                            Sabato</author>
+                        <addressee accepted="yes" attested="yes" editor="false"/>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1868-02">February 8 1868</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="leeser_05_2011_kaplan_new_13.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>1 page on 1 sheet <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions>Newspaper Clipping</additions>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="restricted">
+                                <p>Restricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p rend="align(center)">
+                <hi rend="bold">IN MEMORIAM.</hi>
+            </p>
+            <p rend="align(center)">
+                <hi rend="bold">A Eulogy on the Late <persName>Rev. Isaac Leeser</persName>,
+                    De-<lb/>livered at the Synagogue, <placeName>Seventh Street,<lb/> Above
+                        Arch</placeName>, on <date>Saturday, February 8</date>, by the<lb/>
+                    <persName role="author">Rev. S. Morais</persName>, Minister of the
+                    Congregation.</hi>
+            </p>
+            <p rend="indent(1)">What the pillar of cloud was to our fathers by day<lb/> and the
+                pillar of fire by night, are the wise and the<lb/> learned to us, O fellow
+                Israelites! We walk at the<lb/> light which their bright intellects emit. Our
+                progeni-<lb/>tors, wending their steps through trackless deserts,<lb/> cast a look
+                around, and lo! a guide from heaven led<lb/> them forth. We, the travelers of a road
+                rough and<lb/> rugged, see a beacon illumining our horizon. At its<lb/> radiance we
+                can always discover a safe issue. Oh!<lb/> how lurid would be the mist created by
+                its absence.<lb/> But <placeName>Israel</placeName> will never be enshrouded in
+                darkness. I<lb/> read it in the chronicles of truth, "<emph rend="italics">He will
+                    not take<lb/> away*</emph> the pillar of cloud by day nor the pillar of
+                fire<lb/> by night from before the people."</p>
+            <p rend="indent(1)">The future will, like the past, be directed by God's<lb/> own
+                agency. To the end of time the house of <persName>Jacob</persName><lb/> will produce
+                men whose spiritual teaching shall mold<lb/> the minds of multitudes. Let us never
+                fear that infi-<lb/>delity will dethrone piety; that the rule of wickedness<lb/>
+                will supplant that of godliness. A <persName>Gideon</persName> arose and<lb/> the
+                idols were scattered away.</p>
+            <p rend="indent(1)"><persName>Samuel</persName> became the judge when the children of
+                a<lb/> high priest contaminated the altar. The same<lb/> day which beheld the
+                instruments of Roman torture<lb/> tear the life of the great
+                    <persName>Akibah</persName>, saw the birth of<lb/>
+                <persName>Rabbi Judah</persName>, the prince of knowledge.</p>
+            <p rend="indent(1)">Yet, though the history of all ages affords the con-<lb/>solatory
+                assurance that the Lord will not leave the<lb/> flock of his pasture a prey to the
+                devouring wolf, a<lb/> feeling of dismay seizes us when faithful shepherds<lb/>
+                vanish from our presence. To us, whose vision is<lb/> narrow, it appears as if none
+                could be found to fill up<lb/> the void. For those whose spirit was wafted to
+                the<lb/> abode of eternity, we considered vigilant guardians,<lb/> trustworthy
+                servants of their Master. We seek for<lb/> their equal, but meet the sluggard and
+                the faithless.<lb/> Shall we then be condemned if the love we bear reli-<lb/>ions
+                instruction incites us now to lament?</p>
+            <p rend="indent(1)">The pain we experienced at the loss which the lite-<lb/>rary world
+                sustained by the death of a Jewish savant<lb/> in <placeName>Italy</placeName>, was
+                scarcely abated when the melancholy<lb/> tidings arrived from
+                    <placeName>France</placeName> that another among the<lb/> greatest had descended
+                to the grave. <persName>Munk</persName> has not<lb/> long survived
+                    <persName>Luzzatto</persName>.</p>
+            <p rend="indent(1)">Those two giants of intellect, who had very nigh<lb/> reached the
+                highest point of human knowledge, were<lb/> cut off while yet vigorous. Those two
+                mighty laborers<lb/> in the field of science ceased to dispense the delicious<lb/>
+                fruits they had gathered. One was surprised by<lb/> death while diving into the
+                depth of scriptural exe-<lb/>gesis and philology: the other while engaged (oh,<lb/>
+                wondrous undertaking!) without sight, to collate<lb/> ancient manuscripts and set in
+                order a library most<lb/> extensive and rare. For quenched was the light of<lb/>
+                those eyes which had discovered treasures hidden in<lb/> obscurity. But how
+                refulgent that mind, whose<lb/> working enriched the world with volumes
+                historically<lb/> and philosophically profound! <persName>Munk</persName>, like
+                    <persName>Luzzatto</persName>,<lb/> continued, without rest, to pour out new
+                ideas, that<lb/> others might slake their thirst at the fountain of his<lb/> wisdom.
+                But at the bidding of the Most High the<lb/> gushing stream dried, and we have not
+                since beheld<lb/> another flow so copiously.</p>
+            <p rend="indent(1)">But the prediction of <persName>Ezekiel</persName> seems to have
+                been al-<lb/>most literally verified in us for "a sad report follows<lb/> the other
+                hastily," to tell us that "the law hath ceased<lb/> to be imparted by a priest."
+                Yes, that descendant and<lb/> true disciple of <persName>Aaron</persName>, who
+                ministered to one congre-<lb/>gation in <placeName>Northern Europe</placeName>, but
+                taught ever son of<lb/>
+                <placeName>Israel</placeName> who loves the language, the literature, and the<lb/>
+                religion of his people, has also recently departed from<lb/> earth. He has joined
+                the two illustrious beings that<lb/> had but shortly preceded him to the dwelling of
+                joy.<lb/> But we—what have we not lost on the day that
+                    <persName>Rap-<lb/>paport</persName> was seated among the blessed? Him we
+                could<lb/> ask, and his lips would impart sublime knowledge.<lb/> For "the law of
+                truth was in his month;" "he walked<lb/> with God in equity and peace," "and did
+                turn many<lb/> away from sin. Aye, an angel of the Lord of Hosts<lb/> was he."</p>
+            <p rend="indent(1)"><persName>Rappaport</persName> was my ideal of a Rabbi.
+                Exceedingly<lb/> learned, yet exceedingly meek. Rigidly attached to the<lb/>
+                traditions of the fathers, but willing to concede when<lb/> by yielding nothing
+                sacred was surrendered. And him<lb/> I would fain have consulted, if the ritual of
+                the Syna-<lb/>gogue, so variously and erroneously represented in<lb/> this country,
+                can ever be unalterably fixed by a syno-<lb/>dical convention. Alas! He also has
+                gone hence,<lb/> and the noblest monument of his extraordinary talent<lb/> remains
+                incomplete. His Encyclopaedia of the Tal-<lb/>mud, and of collateral works, forming
+                in itself a<lb/> world of learning, may, perhaps be suffered to molder<lb/> away as
+                a writing of no value.</p>
+            <p rend="indent(1)">For this we may reasonably lament, O, brethren<lb/> and friends! For
+                the publication of that inestimable<lb/> work would clear many doubts, elucidate
+                many ob-<lb/>scure questions, while adding another jewel to the<lb/> grown of the
+                law.</p>
+            <p rend="indent(1)">But who would have believed that the hand which<lb/> two months ago
+                recorded the demise of the sage at<lb/>
+                <placeName>Prague</placeName>, would be also palsied in death?</p>
+            <p rend="indent(1)">Rest thy aching heart on the bosom of eternity,<lb/> thou so long
+                racked by deep and earnest thoughts!<lb/> Thou didst thy work well, and thine alone
+                is the<lb/> merit, for there was none to help or counsel.</p>
+            <p rend="indent(1)">It is even so, my beloved hearers. When <persName>Isaac<lb/>
+                    Leeser</persName> went forth, armed with firey zeal, to fight the<lb/> battles
+                of the Lord, he stood alone. A host might have<lb/> then been arrayed against
+                    <placeName>Israel</placeName>, but not one was<lb/> found in our camp able to
+                cope with the foe. A youth<lb/> arose to the defense of his religion and his
+                people.<lb/> Was the name of the Jew aspersed? His vigorous pen<lb/> wrote the words
+                which put the offender to the blush.<lb/> Were the truths of
+                    <placeName>Sinai</placeName> impugned? He strove to<lb/> confound the
+                unbeliever. On the pulpit; in the press;<lb/> at social gatherings, he stood as the
+                bright exponent<lb/> of principles which he never forsook, though he bore<lb/> for
+                their sake the jeers of the scoffer and the con-<lb/>tumely of the skeptic.</p>
+            <p rend="indent(1)">Gifted with versatility of mind, endowed with<lb/> the powers of an
+                endurance that few can equal;<lb/> formed by nature with faculties extraordinarily
+                reten-<lb/>tive, he could accomplish, unaided, more than others<lb/> with efficient
+                supports. For, despite his clerical<lb/> duties, necessarily various and onerous in
+                a large con-<lb/>gregation, the works he produced have been multi-<lb/>farious, and
+                extensive. Shall I enumerate them? My<lb/> friends, there is scarcely a religious
+                book of note in<lb/> the <placeName>United States of America</placeName> that does
+                not bear on its<lb/> title page the name of <persName>Isaac Leeser</persName>.</p>
+            <p rend="indent(1)">The prayers you offer to God, have, by his industry,<lb/> been
+                translated into the vernacular, and elegantly<lb/> printed. The Bible you read, for
+                instruction and<lb/> spiritual comfort, has, by his toil, been freed from<lb/>
+                biased interpretations, and rendered more compre-<lb/>hensible. The volume in which
+                your children learn<lb/> the rudiments of Hebrew knowledge; those which in-<lb/>form
+                them of the character and dogmas of their reli-<lb/>gion, and others which unfold
+                before their eyes the<lb/> wisdom of the ancients, are the fruits of his
+                unwearied<lb/> perseverance; "for an education" was the motto in-<lb/>scribed on the
+                banner he first unfolded in this new<lb/> world, and increasingly upheld. He had
+                discovered<lb/> that that was the most efficacious means to awaken<lb/> his brethren
+                to a sense of their religious duties, and<lb/> he resorted thereto, as evinced by
+                his personal and<lb/> literary exertions.</p>
+            <p rend="indent(1)">Has he been successful? Most assuredly so. Not<lb/> to the extent of
+                his desires, nor commensurately with<lb/> his labor; nevertheless to a high degree.
+                I, myself,<lb/> though comparatively a new comer, can bear testi-<lb/>mony to the
+                step in advance made in our midst by our<lb/> coreligionists. Will any one deny that
+                our lamented<lb/> brother gave the first impetus? No. Others may have<lb/> done
+                nobly, but <persName>Isaac Leeser</persName> was the pioneer that<lb/> cleared away
+                all obstructions.</p>
+            <p rend="indent(1)">This fact, which ought to be incontestably admit-<lb/>ted, was lost
+                sight of by men who are, or profess to<lb/> be, his superiors. Hence the bitter
+                sarcasm which<lb/> assailed him, and aggravated his natural irascibility,<lb/>
+                conscious of having worked indefatigably, he was<lb/> both pained and angered, when
+                belittled by ungene-<lb/>rous minds. That he had not explored the depth of<lb/>
+                Talmudical science; that his acquaintance with our<lb/> casuistical writers and the
+                Hebrew literature of the<lb/> day was limited; ought to have been overlooked by<lb/>
+                reason of the ardor with which he espoused the cause<lb/> of education, for that is
+                the great debt which <placeName>America</placeName><lb/> owes <persName>Isaac
+                    Leeser</persName>.</p>
+            <p rend="indent(1)">Contrasted with a <persName>Luzzatto</persName>, he might have
+                been<lb/> merely a tyro. <persName>Munk</persName> exceeded him by fact and he<lb/>
+                would, for certain, have profited by sitting at the feet<lb/> of the great
+                    <persName>Rappaport</persName>. Yet, he labored even more<lb/> beneficially than
+                those three universally renowned<lb/> scholars. For they sought to lead further the
+                already<lb/> tutored; he sought to be a guide for the untutored.<lb/> They
+                endeavored to enlarge and beautify the temple<lb/> of knowledge; he strove to lay
+                its foundations, that it<lb/> might be set up. Few, very few are the
+                individuals<lb/> who, in this country, can duly appreciate the masterly<lb/>
+                productions of those European literati; but <persName>Leeser's</persName><lb/>
+                writings can be read round every fireside advanta-<lb/>geously, both to the young
+                and to the old. Therefore<lb/> ought his memory to be revered and eternized.</p>
+            <p rend="indent(1)">As to myself, I have performed only an act of jus-<lb/>tice. Called
+                upon to officiate at the funeral of one<lb/> with whom I have been associated in the
+                discharge<lb/> of educational and ministerial functions, I would have<lb/>
+                pronounced on that mournful occasion, the eulogy he<lb/> well merited. But I was
+                precluded by the expressed<lb/> wish of the deceased. Simplicity of manners had<lb/>
+                been his characteristic through life, and he exempli-<lb/>fied it in the hour of
+                death. He ordered that the ritual<lb/> service as recited at the burial of the
+                humblest Is-<lb/>raelite should alone be heard when he was about to<lb/> be
+                consigned to mother earth, and none dared con-<lb/>travene the injunction. But the
+                Ecclesiastical Board,<lb/> of which I have the honor to be a member, resolved<lb/>
+                that a public expression of sorrow at the demise of<lb/> our colleague, was highly
+                due to his virtues and deeds;<lb/> and I full assented.</p>
+            <p rend="indent(1)">My friends! I utter what I profoundly feel when I<lb/> say that no
+                man of <placeName>Israel</placeName> has yet found a grave in this<lb/> country of
+                our adoption, who deserves to be enshrined</p>
+            <p>* Literally the Hebrew verb stands in the future tense.</p>
+        </body>
+    </text>
 </TEI>

@@ -1,262 +1,292 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE TEI [
-<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
-%teibase;
-<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
-%teiext;
-]>
-<TEI>
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="yes">G&#252;nzburg, A., Dr.</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>TCAT</repository>
-						<collection>Anonymous</collection>
-						<idno>LSTCAT_item56</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="yes">G&#252;nzburg, A., Dr.</author>
-						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac</addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>Baltimore, MD</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1853-03" source="" attested="yes">March 27, 1853</dateLet>
-						<dateLet when="1853-03" source="" attested="yes">5613</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="il_tcat_item56_wk1_body0001.jpg"></graphic>
-								<graphic url="il_tcat_item56_wk1_body0002.jpg"></graphic>
-								<graphic url="il_tcat_item56_wk1_body0003.jpg"></graphic>
-								<graphic url="il_tcat_item56_wk1_body0004.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="false" paper_type="" size="">letter</material>
-								</support>
-								<extent>4 pages on 2 sheets
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="manuscript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="free">
-								<p>Unrestricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="de">German</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1"/>
-				<p rend="align(right)"><placeName>Baltimore</placeName> <date>der 27<hi rend="sup">th</hi> M&#228;rz 5613</date></p>
-				<p><addressee>Revd. Isaac Leeser</addressee> in <placeName>Philadelphia</placeName></p>
-				<p>Geehrteter <add>&#63;</add>&#33;</p>
-				<p>Mittels Gegenw&#252;rdiger erlaube ich mir der &#252;berbringer<lb/> als meiner sehr sch&#228;tzbarre <add>&#63;</add> <persName>Revd. Dr. B. Illowy</persName> be&#44;<lb/>tens zu empfehlen. Derselbe ist nicht nur seiner gr&#252;ndlicher<lb/> und viel<add>&#63;</add> theologische kenntnisse&#44; sondern auch<lb/> seiner Wissenschaftlichkeit in Allgemeinen&#44; und ganz<lb/> besonders seines wehrhaft <add>&#63;</add> Characters <add>&#63;</add><lb/> der <add>&#63;</add> m&#246;glichten beempfehlung&#44; und die wer<add>&#63;</add>ung<lb/> <add>&#63;</add>s hei&#223;e&#44; der f&#252;r S&#246;<add>&#63;</add> des Guten Sinn und<lb/> Herz hat w&#252;rdig.<lb/>  Besonders ist derselbe ausgezeichnet als Prediger<lb/> und Lecturer&#44; waren er hier gl&#228;nzende Beweise<lb/> geliefert.  Dir nur derselbe beabsichtigt in <placeName>Philadelphia</placeName><lb/> einige Vortr&#228;ge zu halten&#44; und ich Ihre Einflu&#223;</p>
-			<pb n="2"/>
-				<p>kenne&#44; so bitte ich Sie derselbe mit Hertz und <add>&#63;</add><lb/> die <add>&#63;</add> zu gehen&#44; und all Ihre Einflu&#223; zu dessen<lb/> Besten gelten zu <add>&#63;</add>&#59; der Sie B&#228;ume<add>&#63;</add> sich versichert<lb/> halten&#44; als Sie <add>&#63;</add> f&#252;r eine Bew&#252;rdiger&#44; noch<lb/> f&#252;r eine <add>&#63;</add>baren siche ver<add>&#63;</add>.<lb/>  Au&#223;er den aber will ich alles das<lb/> was Sie f&#252;r der<lb/> selben thure<add>&#63;</add> so betrachten&#44; als h&#228;tte Sie es<lb/> f&#252;r mich selbst geth<add>&#63;</add>&#44; und verbinde Sie mich<lb/> hindurch f&#252;r immer.</p>
-				<p>Ihr mir gesandtes Monatsheftchen habe erhalten&#44; nur<lb/> hat es mich befreundt&#44; als Sie&#44; Ihren verspreche<lb/> gem&#228;&#223;&#44; der Ihren eingesandten b<add>&#63;</add> noch nicht<lb/> augenommen&#44; doch hasse ich&#44; als Sie nicht l&#228;nger z&#246;gern<lb/> werde&#44; wo ich Ihne s<add>&#63;</add> unges<add>&#63;</add> die <add>&#63;</add>setzung<lb/> sende wert.</p>
-			<pb n="3"/>
-				<p>Ihren bestens mich empfehlend und Ihre <add>&#63;</add>s<lb/> Wohl<add>&#63;</add> r&#228;uschend<add>&#63;</add>&#44; zeichnet sich<lb/> mit <add>&#63;</add>reundschaft und behtung<add>&#63;</add>.</p>
-			<p rend="indent(1)"><persName role="author">Dr. A. G&#252;nzburg</persName></p>
-			<pb n="4"/>
-				<p><addressee>Revd. Isaac Leeser</addressee></p>
-			<p rend="indent(1)"><placeName>Philadelphia</placeName></p>
-		</body>
-	</text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="yes">Günzburg, A., Dr.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>TCAT</repository>
+                        <collection>Anonymous</collection>
+                        <idno>LSTCAT_item56</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="yes">Günzburg, A.,
+                            Dr.</author>
+                        <addressee accepted="yes" attested="yes" editor="false">Leeser,
+                            Isaac</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Baltimore, MD</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1853-03">March 27, 1853</dateLet>
+                        <dateLet attested="yes" source="" when="1853-03">5613</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="il_tcat_item56_wk1_body0001.jpg"/>
+                                <graphic url="il_tcat_item56_wk1_body0002.jpg"/>
+                                <graphic url="il_tcat_item56_wk1_body0003.jpg"/>
+                                <graphic url="il_tcat_item56_wk1_body0004.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >letter</material>
+                                </support>
+                                <extent>4 pages on 2 sheets <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="de">German</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <p rend="align(right)">
+                <placeName>Baltimore</placeName>
+                <date>der 27<hi rend="sup">th</hi> März 5613</date>
+            </p>
+            <p><addressee>Revd. Isaac Leeser</addressee> in <placeName>Philadelphia</placeName></p>
+            <p>Geehrteter <add>?</add>!</p>
+            <p>Mittels Gegenwürdiger erlaube ich mir der überbringer<lb/> als meiner sehr
+                schätzbarre <add>?</add>
+                <persName>Revd. Dr. B. Illowy</persName> be,<lb/>tens zu empfehlen. Derselbe ist
+                nicht nur seiner gründlicher<lb/> und viel<add>?</add> theologische kenntnisse,
+                sondern auch<lb/> seiner Wissenschaftlichkeit in Allgemeinen, und ganz<lb/>
+                besonders seines wehrhaft <add>?</add> Characters <add>?</add><lb/> der <add>?</add>
+                möglichten beempfehlung, und die wer<add>?</add>ung<lb/>
+                <add>?</add>s heiße, der für Sö<add>?</add> des Guten Sinn und<lb/> Herz hat
+                würdig.<lb/> Besonders ist derselbe ausgezeichnet als Prediger<lb/> und Lecturer,
+                waren er hier glänzende Beweise<lb/> geliefert. Dir nur derselbe beabsichtigt in
+                    <placeName>Philadelphia</placeName><lb/> einige Vorträge zu halten, und ich Ihre
+                Einfluß</p>
+            <pb n="2"/>
+            <p>kenne, so bitte ich Sie derselbe mit Hertz und <add>?</add><lb/> die <add>?</add> zu
+                gehen, und all Ihre Einfluß zu dessen<lb/> Besten gelten zu <add>?</add>; der Sie
+                    Bäume<add>?</add> sich versichert<lb/> halten, als Sie <add>?</add> für eine
+                Bewürdiger, noch<lb/> für eine <add>?</add>baren siche ver<add>?</add>.<lb/> Außer
+                den aber will ich alles das<lb/> was Sie für der<lb/> selben thure<add>?</add> so
+                betrachten, als hätte Sie es<lb/> für mich selbst geth<add>?</add>, und verbinde Sie
+                mich<lb/> hindurch für immer.</p>
+            <p>Ihr mir gesandtes Monatsheftchen habe erhalten, nur<lb/> hat es mich befreundt, als
+                Sie, Ihren verspreche<lb/> gemäß, der Ihren eingesandten b<add>?</add> noch
+                nicht<lb/> augenommen, doch hasse ich, als Sie nicht länger zögern<lb/> werde, wo
+                ich Ihne s<add>?</add> unges<add>?</add> die <add>?</add>setzung<lb/> sende
+                wert.</p>
+            <pb n="3"/>
+            <p>Ihren bestens mich empfehlend und Ihre <add>?</add>s<lb/> Wohl<add>?</add>
+                    räuschend<add>?</add>, zeichnet sich<lb/> mit <add>?</add>reundschaft und
+                    behtung<add>?</add>.</p>
+            <p rend="indent(1)">
+                <persName role="author">Dr. A. Günzburg</persName>
+            </p>
+            <pb n="4"/>
+            <p>
+                <addressee>Revd. Isaac Leeser</addressee>
+            </p>
+            <p rend="indent(1)">
+                <placeName>Philadelphia</placeName>
+            </p>
+        </body>
+    </text>
 </TEI>

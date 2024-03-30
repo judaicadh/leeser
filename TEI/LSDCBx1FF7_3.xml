@@ -1,264 +1,466 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
-      <fileDesc>
-        <titleStmt>
-          <title>[no title given]</title>
-          <author attested="yes" accepted="yes" signature="yes">Nathan, M. N.</author>
-          <editor></editor>
-          <sponsor></sponsor>
-          <funder></funder>
-          <principal></principal>
-          <respStmt>
-            <resp></resp>
-            <name></name>
-          </respStmt>
-        </titleStmt>
-        <editionStmt>
-          <edition></edition>
-          <respStmt>
-            <resp></resp>
-            <name></name>
-          </respStmt>
-        </editionStmt>
-        <extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-        <publicationStmt>
-          <publisher>Unpublished manuscript</publisher>
-        </publicationStmt>
-        <seriesStmt>
-          <p>Not part of a series</p>
-        </seriesStmt>
-        <notesStmt>
-          <note></note>
-        </notesStmt>
-        <sourceDesc>
-          <biblStruct>
-            <!-- catalog entry goes here -->
-            <monogr>
-              <imprint>
-                <dateLet></dateLet>
-              </imprint>
-            </monogr>
-          </biblStruct>
-          <msDesc>
-            <msIdentifier>
-              <country>USA</country>
-              <region>PA</region>
-              <settlement>Philadelphia</settlement>
-              <institution></institution>
-              <repository>CAJS Isaac Leeser Collection</repository>
-              <collection>The Library of the Dropsie College for Hebrew and Cognate Learning</collection>
-              <idno>LSDCBx1FF7_3</idno>
-              <altIdentifier>
-                <idno></idno>
-              </altIdentifier>
-              <msName></msName>
-            </msIdentifier>
-            <head></head>
-            <letHeading>
-              <author attested="yes" accepted="yes" signature="yes">Nathan, M. N.</author>
-              <addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac, Rev.</addressee>
-              <deliverer></deliverer>
-              <respStmt>
-                <resp></resp>
-                <name></name>
-              </respStmt>
-              <placeLet>New Orleans, LA</placeLet>
-              <placeRec>Philadelphia, PA</placeRec>
-              <dateLet when="1850-02" source="" attested="yes">12 February 1850</dateLet>
-              <dateLet when="1850-02" source="" attested="yes">12 February 5610</dateLet>
-            </letHeading>
-            <msContents>
-              <msItem>
-                <author></author>
-                <editor></editor>
-                <respStmt>
-                  <resp></resp>
-                  <name></name>
-                </respStmt>
-                <title></title>
-                <decoNote></decoNote>
-                <listBibl>
-                  <bibl></bibl>
-                </listBibl>
-                <filiation></filiation>
-                <textLang></textLang>
-                <figure>
-                  <graphic url="ilcajs_b1f7_0003_1r.jpg"/>
-                  <graphic url="ilcajs_b1f7_0003_1v.jpg"/>
-                  <graphic url="ilcajs_b1f7_0003_2r.jpg"/>
-                  <graphic url="ilcajs_b1f7_0003_2v.jpg"/>
-                </figure>
-              </msItem>
-            </msContents>
-            <physDesc>
-              <objectDesc>
-                <supportDesc>
-                  <support>
-                    <material color="" lined="false" paper_type="" size="Letter">letter</material>
-                  </support>
-                  <extent>4 pages on 2 sheets
-                    <dimensions></dimensions>
-                  </extent>
-                  <foliation></foliation>
-                  <collation></collation>
-                  <condition fragment="false"></condition>
-                </supportDesc>
-                <layoutDesc>
-                  <layout></layout>
-                </layoutDesc>
-              </objectDesc>
-              <handDesc script="manuscript">
-                  <handNote></handNote>
-              </handDesc>
-              <decoDesc>
-                <decoNote></decoNote>
-              </decoDesc>
-              <additions></additions>
-              <bindingDesc>
-                <binding>
-                  <decoNote></decoNote>
-                </binding>
-              </bindingDesc>
-              <sealDesc>
-                <seal>
-                  <p></p>
-                </seal>
-              </sealDesc>
-              <accMat></accMat>
-              <envDesc occ="false"></envDesc>
-            </physDesc>
-            <history>
-              <origin></origin>
-              <provenance></provenance>
-              <acquisition></acquisition>
-            </history>
-            <additional>
-              <adminInfo>
-                <recordHist>
-                  <source></source>
-                  <change></change>
-                </recordHist>
-                <availability status="free">
-                  <p>Unrestricted</p>
-                </availability>
-                <custodialHist>
-                  <custEvent></custEvent>
-                </custodialHist>
-              </adminInfo>
-              <surrogates></surrogates>
-              <listBibl>
-                <bibl></bibl>
-              </listBibl>
-            </additional>
-            <msPart>
-              <altIdentifier>
-                <idno></idno>
-              </altIdentifier>
-            </msPart>
-          </msDesc>
-        </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-        <projectDesc>
-          <p></p>
-        </projectDesc>
-        <samplingDecl>
-          <p></p>
-        </samplingDecl>
-        <editorialDecl>
-          <correction>
-            <p></p>
-          </correction>
-          <normalization>
-            <p></p>
-          </normalization>
-          <quotation>
-            <p></p>
-          </quotation>
-          <hyphenation>
-            <p></p>
-          </hyphenation>
-          <segmentation>
-            <p></p>
-          </segmentation>
-          <stdVals>
-            <p></p>
-          </stdVals>
-          <interpretation>
-            <p></p>
-          </interpretation>
-        </editorialDecl>
-        <tagsDecl>
-          <rendition></rendition>
-          <namespace name="http://www.tei-c.org/ns/1.0">
-            <tagUsage gi=""></tagUsage>
-          </namespace>
-        </tagsDecl>
-        <refsDecl>
-          <cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-        </refsDecl>
-        <refsDecl>
-          <refState unit=""/>
-        </refsDecl>
-        <classDecl>
-          <taxonomy>
-            <category>
-              <catDesc></catDesc>
-            </category>
-          </taxonomy>
-        </classDecl>
-        <appInfo>
-          <application ident="" version="">
-            <desc></desc>
-            <label></label>
-          </application>
-        </appInfo>
-      </encodingDesc>
-      <profileDesc>
-        <creation></creation>
-        <langUsage>
-          <language ident="en">English</language>
-        </langUsage>
-        <textClass>
-          <keywords scheme="unknown">
-            <list>
-              <item></item>
-              <item></item>
-            </list>
-          </keywords>
-          <classCode scheme=""></classCode>
-          <catRef/>
-        </textClass>
-      </profileDesc>
-      <revisionDesc>
-        <change></change>
-      </revisionDesc>
-    </teiHeader>
-    <text>
-        <body>
-      
-		<pb n="1"/>
-			<p rend="align(right)"><placeName>New Orleans</placeName> <date>12 Feby. 5610 &#40;1850&#41;</date></p>
-			<p><addressee>Revd. Isaac Leeser</addressee></p>
-          <p rend="indent(1)"><placeName>Philadelphia</placeName></p>
-          <p rend="indent(2)">My dear friend.</p>
-          <p rend="indent(4)">I have been too much occupied since<lb/> my arrival with matters connected with the congregation receiving<lb/> and returning the numerous visits of its members&#44; and my own personal<lb/> affairs&#44; to write you&#59; and not wishing to keep you&#44; who have shown so<lb/> much interest for the progress of Judaism in this quarter&#44; uninformed<lb/> as to a single particular of all that has taken place&#44; I delayed addressing<lb/> you until I had sufficient leisure to give you all the information on<lb/> the subject. Having now arranged the preliminaries satisfactorily<lb/> I hasten to acquit myself of the pleasing duty</p>
-          <p rend="indent(1)">I left <placeName>Jamaica</placeName> on the <date>23<hi rend="sup">rd</hi> Decr.</date> I was detained at <placeName>Havan&#45;<lb/>nah</placeName> waiting the arrival of the steamer from the <date>26<hi rend="sup">th</hi></date> to the <date>8<hi rend="sup">th</hi> Jany.</date> As<lb/> I did not wish to go to <placeName>Vera Cruz</placeName> and <placeName>Jampico</placeName> in her&#44; and no direct<lb/> opportunity offering for <placeName>New Orleans</placeName>&#44; I was forced to go to <placeName>Savannah</placeName>&#44;<lb/> and thence by stage&#44; steam&#44; and rail road&#59; at length arriving here hap&#45;<lb/>pily on the <date>19<hi rend="sup">th</hi></date> ult just <hi rend="underline">28</hi> days after my departure from <placeName>Jamaica</placeName>.<lb/> The only pleasing incident&#44; worth mentioning&#44; in my travels&#44; is the<lb/> <date>Friday</date> &#38; <date>Sabbath</date> spent at <placeName>Savannah</placeName>. We had divine service evening<lb/> and morning&#44; and I preached to a numerous auditory&#44; considering<lb/> the number of our people who are settled there. <persName>Messrs. Delamotta</persName> and<lb/> <persName>S. Cohen</persName> promised to give you all particulars of what transpired&#44;<lb/> it is therefore needless for me to do so. I was exceedingly well received<lb/> and most hospitably entertained. Your name was often mentioned&#44; and the<lb/> value and magnitude of your labours acknowledged and discussed.<lb/> always enthusiastic in the cause of my friends&#44; your reputation<lb/> and services suffered nothing from my being present. There is a fine</p>
-		<pb n="2"/>
-			<p>opening at <placeName><sic>Savanah</sic></placeName> for a Good Jewish minister I think such a<lb/> man as <persName>Mr. DaSola</persName> would answer. There is a feeling of true piety and<lb/> zeal both among the ladies and gentlemen of that place&#44; which&#44; properly<lb/> directed by a faithful and energetic spiritual guide&#44; would make the <placeName><sic>Savanah</sic></placeName><lb/> Synagogue one of the best regulated and most conspicuous in the <placeName>U. S.</placeName><lb/> Had I not been detained so long on the way&#44; I should have liked<lb/> to have spent a week or two among such agreeable people as <persName>messrs<lb/> S Cohen</persName>&#44; <persName>Delamotta</persName>&#44; <persName>Isaac Cohen</persName> &#38;c.</p>
-          <p rend="indent(1)">I expected to find every thing in readiness on my arrival<lb/> and was surprised to hear that even the donation of the synagogue had<lb/> not yet been made. Our mutual friend <persName>Mr. Touro</persName> is a man deliberate<lb/> and cautious in his plans and movements. It is natural at his advanced<lb/> age. However the property is now in the hands of the congregation. The<lb/> good old man signed the act&#44; which gave away &#36;150&#44;000. for such is the<lb/> value of the land and buildings&#44; as calmly and coolly as tho&#39; it were an<lb/> ordinary transaction&#44; I am convinced that the idea&#44; of having thus handed<lb/> his name down to posterity as a munificent and princely upholder of<lb/> the institutions of his people&#44; never crossed his mind. He is without<lb/> exception&#44; one of the most single&#45;hearted men I ever encountered. His<lb/> ruling thought is filial reverence&#59; and the gift of the synagogue arises<lb/> <del>more</del> as much from a desire to do honor to the memory of his father <del>than</del> as any other.<lb/> Such a man deserves some testimonial expressive of his coreligionists&#39;<lb/> esteem. It has occupied the thoughts of many here&#44; but he is so retiring<lb/> unostentatious&#44; and modest&#44; as to preclude the hope of his willingness<lb/> to receive any mark of regard. When you come on&#44; we should have the benefit of your<lb/> counsel&#59; for something must be done to save us from the charge of<lb/> ingratitude&#44; or not properly appreciating his disinterestedness and<lb/> patriotism. He has further designs for the promotion and diffusion<lb/> of religious instruction among the rising generation&#44; which will in time<lb/> be matured and perfected. He holds you in great esteem&#44; and has<lb/> already put by the funds for paying your expenses to witness the conse</p>
-			<p rend="align(center)"><date>2&#45;12&#45;1850B</date></p>
-		<pb n="3"/>
-			<p>cration. My engagement is for life&#44; i e&#45;during good behaviour and<lb/> ability to discharge my duties&#44; temporary sickness excepted. The salary<lb/> &#36;2500 p ann.&#44; a large sum apparently&#44; but really small when the extravagant<lb/> cost of every thing here is considered. I shall not keep a school&#44; but<lb/> only have classes for children for Hebrew and religious instruction. An<lb/> assistant had been engaged&#44; a <persName>Mr. DaSilva</persName>&#44; who formerly officiated at<lb/> <placeName>Mobile</placeName>&#44; at &#36;1200. He will act as Shamash&#44; collector&#44; messenger &#38; assistant<lb/> Reader. <persName>Mr. Isaac Soria</persName> continues the secretaryship.</p>
-          <p rend="indent(1)">The consecration will not take place before the middle of<lb/> <date>May</date>&#44; say the <date>15<hi rend="sup">th</hi></date>&#44; at which&#44; altho&#39; <date>Shebungot</date> may see you absent from<lb/> your congregation&#44; you <hi rend="underline">must</hi> appear&#44; as one of the bright stars<lb/> of our Jewish hemisphere. I beg of you&#44; as a mark of favor on your<lb/> part towards <hi rend="underline">me</hi>&#44; independently of the Congregation&#44; to consider the<lb/> pulpit as your own the <date>Sabbath</date> after the consecration&#44; or rather<lb/> the <date>Friday</date> after&#44; being the first day of <date>Shebungot</date><add>&#63;</add>. As I shall leave<lb/> this on the <date>18<hi rend="sup">th</hi></date> Inst. for <placeName>Jamaica</placeName>&#44; and not return until the <date>1<hi rend="sup">st</hi></date> or <date>2<hi rend="sup">nd</hi> May</date><lb/> you will please communicate with our friend <persName>G. Kursheedt</persName>&#44; and say<lb/> whether you will be here. Surely your congregation will spare you on<lb/> such an occasion and must feel delighted at the high respect<lb/> evinced towards their their pastor. Your share in the consecration service<lb/> I have not yet determined on&#59; but it will be my delight to show you<lb/> the honor you so well merit. Consider these sentiments&#44; my dear friend&#44;<lb/> as heartfelt&#59; I have no other <add>&#63;</add> than&#44; as an Israelite&#44; to join in doing<lb/> homage to that talent&#44; whose energetic exercise has mainly con&#45;<lb/>tributed to that progress&#44; now fermenting and leavening in our Congrega&#45;<lb/>tions. It will be a sad disappointment to <persName>Mr. Touro</persName> and myself<lb/> if you be absent on an occasion so honorable to him&#44; so interesting<lb/> to you. Our officers will write you specially.</p>
-          <p rend="indent(1)">It was originally intended to celebrate the consecration<lb/> before I returned to <placeName>Jamaica</placeName>&#44; but this idea was abandoned&#59; and<lb/> I objected to it for several reasons&#44; one of which was&#44; tho&#39; I did</p>
-		<pb n="4"/>
-			<p>not express it to any one but <persName>Mr. Touro</persName>&#44; that <hi rend="underline">you</hi> could not<lb/> be here. From a letter received from <placeName>Philadelphia</placeName>&#44; it appears there<lb/> was an impression of your having been ill&#45;treated by the Congregation&#44;<lb/> here&#44; after you had bestirred yourself so much in personally attending<lb/> to the announcement and quick dispatch of articles ordered for<lb/> the synagogue. If such an idea entered your mind&#44; the plain<lb/> statement in this letter of the true facts will remove its and satisfy<lb/> you on this head. Nor must you interpret <persName>G. Kursheedt&#39;s</persName> silence<lb/> to any neglect or forgetfulness on his part. Had I not been an eye&#45;<lb/>witness of the way in which he is pestered with every minute affair<lb/> relating to both congregations&#44; together with the amount of business he<lb/> has to transact in his own office&#44; I might have been induced to suppose<lb/> that his silence as a correspondent arose from disinclination to<lb/> write. It is impossible for you to conceive the dilatory manner things<lb/> are managed here. Business absorbs men&#39;s attention from morn till night&#44;<lb/> and from that they will not budge. He has enough of that to occupy<lb/> him the whole day&#59; therefore when he is consulted besides on all<lb/> <hi rend="underline">spiritual</hi> matters&#44; for which <persName>Mr. Guttheim</persName> &#38; I have given him the title<lb/> of <add>Hebrew</add> and he is constituted by general consent&#44; as well perhaps as<lb/> by inclucation&#44; the umpize<add>&#63;</add> and arbitration of both synagogues&#44; you can<lb/> then form a notion that he is a hard working man as well as yourself.<lb/> I am induced to say this much in his <sic>defence</sic>&#44; he having charged me<lb/> to assign a satisfactory reason for not visiting you.</p>
-          <p rend="indent(1)">Your friend <persName>Mr. Gutheim</persName> and I are upon the best of terms.<lb/> I esteem him much as a scholar and a gentleman&#44; and shall do my<lb/> best to establish the friendship which now exists between us on the<lb/> firmest basis. Our mutual aim must be&#44; the advancement of Judaism<lb/> and in accomplishing it&#44; union and harmony should exist between the<lb/> ministers of the two congregations. I see nothing to prevent the reciprocation<lb/> of regard and kindness.</p>
-          <p rend="indent(1)">I must now close this long letter with the hope of<lb/> its meeting you in good health. I shall count the days till I<lb/> have the pleasure of welcoming you to <placeName>New Orleans</placeName>&#44; and giving you<lb/> a cordial and hearty greeting. Meanwhile remember me kindly to<lb/> all friends and believe me&#44; as ever your friend &#38; well wisher</p>
-          <p rend="indent(10)"><persName role="author">M N Nathan</persName></p>
-			<p>Did you receive my letter from <placeName>Jamaica</placeName><lb/> on the subject of coming here &#38;c&#63;</p>
-          
-        </body>
-    </text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+          <teiHeader>
+
+                    <fileDesc>
+                              <titleStmt>
+                                        <title>[no title given]</title>
+                                        <author accepted="yes" attested="yes" signature="yes"
+                                                  >Nathan, M. N.</author>
+                                        <editor/>
+                                        <sponsor/>
+                                        <funder/>
+                                        <principal/>
+                                        <respStmt>
+                                                  <resp/>
+                                                  <name/>
+                                        </respStmt>
+                              </titleStmt>
+                              <editionStmt>
+                                        <edition/>
+                                        <respStmt>
+                                                  <resp/>
+                                                  <name/>
+                                        </respStmt>
+                              </editionStmt>
+                              <extent>[information about file size goes here, information about
+                                        extent of physical item comes later]</extent>
+                              <publicationStmt>
+                                        <publisher>Unpublished manuscript</publisher>
+                              </publicationStmt>
+                              <seriesStmt>
+                                        <p>Not part of a series</p>
+                              </seriesStmt>
+                              <notesStmt>
+                                        <note/>
+                              </notesStmt>
+                              <sourceDesc>
+                                        <biblStruct>
+                                                  <!-- catalog entry goes here -->
+                                                  <monogr>
+                                                  <imprint>
+                                                  <dateLet/>
+                                                  </imprint>
+                                                  </monogr>
+                                        </biblStruct>
+                                        <msDesc>
+                                                  <msIdentifier>
+                                                  <country>USA</country>
+                                                  <region>PA</region>
+                                                  <settlement>Philadelphia</settlement>
+                                                  <institution/>
+                                                  <repository>CAJS Isaac Leeser
+                                                  Collection</repository>
+                                                  <collection>The Library of the Dropsie College for
+                                                  Hebrew and Cognate Learning</collection>
+                                                  <idno>LSDCBx1FF7_3</idno>
+                                                  <altIdentifier>
+                                                  <idno/>
+                                                  </altIdentifier>
+                                                  <msName/>
+                                                  </msIdentifier>
+                                                  <head/>
+                                                  <letHeading>
+                                                  <author accepted="yes" attested="yes"
+                                                  signature="yes">Nathan, M. N.</author>
+                                                  <addressee accepted="yes" attested="yes"
+                                                  editor="false">Leeser, Isaac, Rev.</addressee>
+                                                  <deliverer/>
+                                                  <respStmt>
+                                                  <resp/>
+                                                  <name/>
+                                                  </respStmt>
+                                                  <placeLet>New Orleans, LA</placeLet>
+                                                  <placeRec>Philadelphia, PA</placeRec>
+                                                  <dateLet attested="yes" source="" when="1850-02"
+                                                  >12 February 1850</dateLet>
+                                                  <dateLet attested="yes" source="" when="1850-02"
+                                                  >12 February 5610</dateLet>
+                                                  </letHeading>
+                                                  <msContents>
+                                                  <msItem>
+                                                  <author/>
+                                                  <editor/>
+                                                  <respStmt>
+                                                  <resp/>
+                                                  <name/>
+                                                  </respStmt>
+                                                  <title/>
+                                                  <decoNote/>
+                                                  <listBibl>
+                                                  <bibl/>
+                                                  </listBibl>
+                                                  <filiation/>
+                                                  <textLang/>
+                                                  <figure>
+                                                  <graphic url="ilcajs_b1f7_0003_1r.jpg"/>
+                                                  <graphic url="ilcajs_b1f7_0003_1v.jpg"/>
+                                                  <graphic url="ilcajs_b1f7_0003_2r.jpg"/>
+                                                  <graphic url="ilcajs_b1f7_0003_2v.jpg"/>
+                                                  </figure>
+                                                  </msItem>
+                                                  </msContents>
+                                                  <physDesc>
+                                                  <objectDesc>
+                                                  <supportDesc>
+                                                  <support>
+                                                  <material color="" lined="false" paper_type=""
+                                                  size="Letter">letter</material>
+                                                  </support>
+                                                  <extent>4 pages on 2 sheets <dimensions/>
+                                                  </extent>
+                                                  <foliation/>
+                                                  <collation/>
+                                                  <condition fragment="false"/>
+                                                  </supportDesc>
+                                                  <layoutDesc>
+                                                  <layout/>
+                                                  </layoutDesc>
+                                                  </objectDesc>
+                                                  <handDesc script="manuscript">
+                                                  <handNote/>
+                                                  </handDesc>
+                                                  <decoDesc>
+                                                  <decoNote/>
+                                                  </decoDesc>
+                                                  <additions/>
+                                                  <bindingDesc>
+                                                  <binding>
+                                                  <decoNote/>
+                                                  </binding>
+                                                  </bindingDesc>
+                                                  <sealDesc>
+                                                  <seal>
+                                                  <p/>
+                                                  </seal>
+                                                  </sealDesc>
+                                                  <accMat/>
+                                                  <envDesc occ="false"/>
+                                                  </physDesc>
+                                                  <history>
+                                                  <origin/>
+                                                  <provenance/>
+                                                  <acquisition/>
+                                                  </history>
+                                                  <additional>
+                                                  <adminInfo>
+                                                  <recordHist>
+                                                  <source/>
+                                                  <change/>
+                                                  </recordHist>
+                                                  <availability status="free">
+                                                  <p>Unrestricted</p>
+                                                  </availability>
+                                                  <custodialHist>
+                                                  <custEvent/>
+                                                  </custodialHist>
+                                                  </adminInfo>
+                                                  <surrogates/>
+                                                  <listBibl>
+                                                  <bibl/>
+                                                  </listBibl>
+                                                  </additional>
+                                                  <msPart>
+                                                  <altIdentifier>
+                                                  <idno/>
+                                                  </altIdentifier>
+                                                  </msPart>
+                                        </msDesc>
+                              </sourceDesc>
+                    </fileDesc>
+                    <encodingDesc>
+                              <projectDesc>
+                                        <p/>
+                              </projectDesc>
+                              <samplingDecl>
+                                        <p/>
+                              </samplingDecl>
+                              <editorialDecl>
+                                        <correction>
+                                                  <p/>
+                                        </correction>
+                                        <normalization>
+                                                  <p/>
+                                        </normalization>
+                                        <quotation>
+                                                  <p/>
+                                        </quotation>
+                                        <hyphenation>
+                                                  <p/>
+                                        </hyphenation>
+                                        <segmentation>
+                                                  <p/>
+                                        </segmentation>
+                                        <stdVals>
+                                                  <p/>
+                                        </stdVals>
+                                        <interpretation>
+                                                  <p/>
+                                        </interpretation>
+                              </editorialDecl>
+                              <tagsDecl>
+                                        <rendition/>
+                                        <namespace name="http://www.tei-c.org/ns/1.0">
+                                                  <tagUsage gi=""/>
+                                        </namespace>
+                              </tagsDecl>
+                              <refsDecl>
+                                        <cRefPattern matchPattern="" replacementPattern=""/>
+                              </refsDecl>
+                              <refsDecl>
+                                        <refState unit=""/>
+                              </refsDecl>
+                              <classDecl>
+                                        <taxonomy>
+                                                  <category>
+                                                  <catDesc/>
+                                                  </category>
+                                        </taxonomy>
+                              </classDecl>
+                              <appInfo>
+                                        <application ident="" version="">
+                                                  <desc/>
+                                                  <label/>
+                                        </application>
+                              </appInfo>
+                    </encodingDesc>
+                    <profileDesc>
+                              <creation/>
+                              <langUsage>
+                                        <language ident="en">English</language>
+                              </langUsage>
+                              <textClass>
+                                        <keywords scheme="unknown">
+                                                  <list>
+                                                  <item/>
+                                                  <item/>
+                                                  </list>
+                                        </keywords>
+                                        <classCode scheme=""/>
+                                        <catRef/>
+                              </textClass>
+                    </profileDesc>
+                    <revisionDesc>
+                              <change/>
+                    </revisionDesc>
+          </teiHeader>
+          <text>
+                    <body>
+                              <pb n="1"/>
+                              <p rend="align(right)">
+                                        <placeName>New Orleans</placeName>
+                                        <date>12 Feby. 5610 (1850)</date>
+                              </p>
+                              <p>
+                                        <addressee>Revd. Isaac Leeser</addressee>
+                              </p>
+                              <p rend="indent(1)">
+                                        <placeName>Philadelphia</placeName>
+                              </p>
+                              <p rend="indent(2)">My dear friend.</p>
+                              <p rend="indent(4)">I have been too much occupied since<lb/> my
+                                        arrival with matters connected with the congregation
+                                        receiving<lb/> and returning the numerous visits of its
+                                        members, and my own personal<lb/> affairs, to write you; and
+                                        not wishing to keep you, who have shown so<lb/> much
+                                        interest for the progress of Judaism in this quarter,
+                                        uninformed<lb/> as to a single particular of all that has
+                                        taken place, I delayed addressing<lb/> you until I had
+                                        sufficient leisure to give you all the information on<lb/>
+                                        the subject. Having now arranged the preliminaries
+                                        satisfactorily<lb/> I hasten to acquit myself of the
+                                        pleasing duty</p>
+                              <p rend="indent(1)">I left <placeName>Jamaica</placeName> on the
+                                                  <date>23<hi rend="sup">rd</hi> Decr.</date> I was
+                                        detained at <placeName>Havan-<lb/>nah</placeName> waiting
+                                        the arrival of the steamer from the <date>26<hi rend="sup"
+                                                  >th</hi></date> to the <date>8<hi rend="sup"
+                                                  >th</hi> Jany.</date> As<lb/> I did not wish to go
+                                        to <placeName>Vera Cruz</placeName> and
+                                                  <placeName>Jampico</placeName> in her, and no
+                                        direct<lb/> opportunity offering for <placeName>New
+                                                  Orleans</placeName>, I was forced to go to
+                                                  <placeName>Savannah</placeName>,<lb/> and thence
+                                        by stage, steam, and rail road; at length arriving here
+                                        hap-<lb/>pily on the <date>19<hi rend="sup">th</hi></date>
+                                        ult just <hi rend="underline">28</hi> days after my
+                                        departure from <placeName>Jamaica</placeName>.<lb/> The only
+                                        pleasing incident, worth mentioning, in my travels, is the<lb/>
+                                        <date>Friday</date> &amp; <date>Sabbath</date> spent at
+                                                  <placeName>Savannah</placeName>. We had divine
+                                        service evening<lb/> and morning, and I preached to a
+                                        numerous auditory, considering<lb/> the number of our people
+                                        who are settled there. <persName>Messrs.
+                                                  Delamotta</persName> and<lb/>
+                                        <persName>S. Cohen</persName> promised to give you all
+                                        particulars of what transpired,<lb/> it is therefore
+                                        needless for me to do so. I was exceedingly well
+                                        received<lb/> and most hospitably entertained. Your name was
+                                        often mentioned, and the<lb/> value and magnitude of your
+                                        labours acknowledged and discussed.<lb/> always enthusiastic
+                                        in the cause of my friends, your reputation<lb/> and
+                                        services suffered nothing from my being present. There is a
+                                        fine</p>
+                              <pb n="2"/>
+                              <p>opening at <placeName><sic>Savanah</sic></placeName> for a Good
+                                        Jewish minister I think such a<lb/> man as <persName>Mr.
+                                                  DaSola</persName> would answer. There is a feeling
+                                        of true piety and<lb/> zeal both among the ladies and
+                                        gentlemen of that place, which, properly<lb/> directed by a
+                                        faithful and energetic spiritual guide, would make the
+                                                  <placeName><sic>Savanah</sic></placeName><lb/>
+                                        Synagogue one of the best regulated and most conspicuous in
+                                        the <placeName>U. S.</placeName><lb/> Had I not been
+                                        detained so long on the way, I should have liked<lb/> to
+                                        have spent a week or two among such agreeable people as
+                                                  <persName>messrs<lb/> S Cohen</persName>,
+                                                  <persName>Delamotta</persName>, <persName>Isaac
+                                                  Cohen</persName> &amp;c.</p>
+                              <p rend="indent(1)">I expected to find every thing in readiness on my
+                                        arrival<lb/> and was surprised to hear that even the
+                                        donation of the synagogue had<lb/> not yet been made. Our
+                                        mutual friend <persName>Mr. Touro</persName> is a man
+                                        deliberate<lb/> and cautious in his plans and movements. It
+                                        is natural at his advanced<lb/> age. However the property is
+                                        now in the hands of the congregation. The<lb/> good old man
+                                        signed the act, which gave away $150,000. for such is
+                                        the<lb/> value of the land and buildings, as calmly and
+                                        coolly as tho' it were an<lb/> ordinary transaction, I am
+                                        convinced that the idea, of having thus handed<lb/> his name
+                                        down to posterity as a munificent and princely upholder
+                                        of<lb/> the institutions of his people, never crossed his
+                                        mind. He is without<lb/> exception, one of the most
+                                        single-hearted men I ever encountered. His<lb/> ruling
+                                        thought is filial reverence; and the gift of the synagogue arises<lb/>
+                                        <del>more</del> as much from a desire to do honor to the
+                                        memory of his father <del>than</del> as any other.<lb/> Such
+                                        a man deserves some testimonial expressive of his
+                                        coreligionists'<lb/> esteem. It has occupied the thoughts of
+                                        many here, but he is so retiring<lb/> unostentatious, and
+                                        modest, as to preclude the hope of his willingness<lb/> to
+                                        receive any mark of regard. When you come on, we should have
+                                        the benefit of your<lb/> counsel; for something must be done
+                                        to save us from the charge of<lb/> ingratitude, or not
+                                        properly appreciating his disinterestedness and<lb/>
+                                        patriotism. He has further designs for the promotion and
+                                        diffusion<lb/> of religious instruction among the rising
+                                        generation, which will in time<lb/> be matured and
+                                        perfected. He holds you in great esteem, and has<lb/>
+                                        already put by the funds for paying your expenses to witness
+                                        the conse</p>
+                              <p rend="align(center)">
+                                        <date>2-12-1850B</date>
+                              </p>
+                              <pb n="3"/>
+                              <p>cration. My engagement is for life, i e-during good behaviour
+                                        and<lb/> ability to discharge my duties, temporary sickness
+                                        excepted. The salary<lb/> $2500 p ann., a large sum
+                                        apparently, but really small when the extravagant<lb/> cost
+                                        of every thing here is considered. I shall not keep a
+                                        school, but<lb/> only have classes for children for Hebrew
+                                        and religious instruction. An<lb/> assistant had been
+                                        engaged, a <persName>Mr. DaSilva</persName>, who formerly
+                                        officiated at<lb/>
+                                        <placeName>Mobile</placeName>, at $1200. He will act as
+                                        Shamash, collector, messenger &amp; assistant<lb/> Reader.
+                                                  <persName>Mr. Isaac Soria</persName> continues the
+                                        secretaryship.</p>
+                              <p rend="indent(1)">The consecration will not take place before the
+                                        middle of<lb/>
+                                        <date>May</date>, say the <date>15<hi rend="sup"
+                                                  >th</hi></date>, at which, altho'
+                                                  <date>Shebungot</date> may see you absent
+                                        from<lb/> your congregation, you <hi rend="underline"
+                                                  >must</hi> appear, as one of the bright stars<lb/>
+                                        of our Jewish hemisphere. I beg of you, as a mark of favor
+                                        on your<lb/> part towards <hi rend="underline">me</hi>,
+                                        independently of the Congregation, to consider the<lb/>
+                                        pulpit as your own the <date>Sabbath</date> after the
+                                        consecration, or rather<lb/> the <date>Friday</date> after,
+                                        being the first day of <date>Shebungot</date><add>?</add>.
+                                        As I shall leave<lb/> this on the <date>18<hi rend="sup"
+                                                  >th</hi></date> Inst. for
+                                                  <placeName>Jamaica</placeName>, and not return
+                                        until the <date>1<hi rend="sup">st</hi></date> or <date>2<hi
+                                                  rend="sup">nd</hi> May</date><lb/> you will please
+                                        communicate with our friend <persName>G.
+                                                  Kursheedt</persName>, and say<lb/> whether you
+                                        will be here. Surely your congregation will spare you
+                                        on<lb/> such an occasion and must feel delighted at the high
+                                        respect<lb/> evinced towards their their pastor. Your share
+                                        in the consecration service<lb/> I have not yet determined
+                                        on; but it will be my delight to show you<lb/> the honor you
+                                        so well merit. Consider these sentiments, my dear
+                                        friend,<lb/> as heartfelt; I have no other <add>?</add>
+                                        than, as an Israelite, to join in doing<lb/> homage to that
+                                        talent, whose energetic exercise has mainly
+                                        con-<lb/>tributed to that progress, now fermenting and
+                                        leavening in our Congrega-<lb/>tions. It will be a sad
+                                        disappointment to <persName>Mr. Touro</persName> and
+                                        myself<lb/> if you be absent on an occasion so honorable to
+                                        him, so interesting<lb/> to you. Our officers will write you
+                                        specially.</p>
+                              <p rend="indent(1)">It was originally intended to celebrate the
+                                        consecration<lb/> before I returned to
+                                                  <placeName>Jamaica</placeName>, but this idea was
+                                        abandoned; and<lb/> I objected to it for several reasons,
+                                        one of which was, tho' I did</p>
+                              <pb n="4"/>
+                              <p>not express it to any one but <persName>Mr. Touro</persName>, that
+                                                  <hi rend="underline">you</hi> could not<lb/> be
+                                        here. From a letter received from
+                                                  <placeName>Philadelphia</placeName>, it appears
+                                        there<lb/> was an impression of your having been ill-treated
+                                        by the Congregation,<lb/> here, after you had bestirred
+                                        yourself so much in personally attending<lb/> to the
+                                        announcement and quick dispatch of articles ordered for<lb/>
+                                        the synagogue. If such an idea entered your mind, the
+                                        plain<lb/> statement in this letter of the true facts will
+                                        remove its and satisfy<lb/> you on this head. Nor must you
+                                        interpret <persName>G. Kursheedt's</persName> silence<lb/>
+                                        to any neglect or forgetfulness on his part. Had I not been
+                                        an eye-<lb/>witness of the way in which he is pestered with
+                                        every minute affair<lb/> relating to both congregations,
+                                        together with the amount of business he<lb/> has to transact
+                                        in his own office, I might have been induced to suppose<lb/>
+                                        that his silence as a correspondent arose from
+                                        disinclination to<lb/> write. It is impossible for you to
+                                        conceive the dilatory manner things<lb/> are managed here.
+                                        Business absorbs men's attention from morn till night,<lb/>
+                                        and from that they will not budge. He has enough of that to
+                                        occupy<lb/> him the whole day; therefore when he is
+                                        consulted besides on all<lb/>
+                                        <hi rend="underline">spiritual</hi> matters, for which
+                                                  <persName>Mr. Guttheim</persName> &amp; I have
+                                        given him the title<lb/> of <add>רב</add> and he is
+                                        constituted by general consent, as well perhaps as<lb/> by
+                                        inclucation, the umpize<add>?</add> and arbitration of both
+                                        synagogues, you can<lb/> then form a notion that he is a
+                                        hard working man as well as yourself.<lb/> I am induced to
+                                        say this much in his <sic>defence</sic>, he having charged
+                                        me<lb/> to assign a satisfactory reason for not visiting
+                                        you.</p>
+                              <p rend="indent(1)">Your friend <persName>Mr. Gutheim</persName> and I
+                                        are upon the best of terms.<lb/> I esteem him much as a
+                                        scholar and a gentleman, and shall do my<lb/> best to
+                                        establish the friendship which now exists between us on
+                                        the<lb/> firmest basis. Our mutual aim must be, the
+                                        advancement of Judaism<lb/> and in accomplishing it, union
+                                        and harmony should exist between the<lb/> ministers of the
+                                        two congregations. I see nothing to prevent the
+                                        reciprocation<lb/> of regard and kindness.</p>
+                              <p rend="indent(1)">I must now close this long letter with the hope
+                                        of<lb/> its meeting you in good health. I shall count the
+                                        days till I<lb/> have the pleasure of welcoming you to
+                                                  <placeName>New Orleans</placeName>, and giving
+                                        you<lb/> a cordial and hearty greeting. Meanwhile remember
+                                        me kindly to<lb/> all friends and believe me, as ever your
+                                        friend &amp; well wisher</p>
+                              <p rend="indent(10)">
+                                        <persName role="author">M N Nathan</persName>
+                              </p>
+                              <p>Did you receive my letter from <placeName>Jamaica</placeName><lb/>
+                                        on the subject of coming here &amp;c?</p>
+                    </body>
+          </text>
 </TEI>

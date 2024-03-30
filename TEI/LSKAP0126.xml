@@ -1,272 +1,310 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE TEI [
-<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
-%teibase;
-<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
-%teiext;
-]>
-<TEI>
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="yes">Lilienthal, D.</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>LSKAP</repository>
-						<collection>The Arnold and Deanne Kaplan Collection of Early American Judaica</collection>
-						<idno>LSKAP0126</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="yes">Lilienthal, D.</author>
-						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac</addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>New York, NY</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1847-01" source="" attested="yes">January 29, 1847</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="LSKAP0126_1_1r.jpg"></graphic>
-								<graphic url="LSKAP0126_1r.jpg"></graphic>
-								<graphic url="LSKAP0126_2v.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="false" paper_type="" size="">letter</material>
-								</support>
-								<extent>4 pages on 2 sheets
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="manuscript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="restricted">
-								<p>Restricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-				<language ident="de">German</language>
-				<language ident="he">Hebrew</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1"/>
-				<p><addressee>Rev. I. Leeser</addressee> <placeName>Philadelphia</placeName></p>
-			<p rend="indent(1)"><placeName><hi rend="underline">South Fourth Street 118</hi></placeName></p>
-				<p rend="align(right)"><placeName>New York</placeName>&#44; <date>January 29<hi rend="sup">th</hi> 1847</date></p>
-			<p rend="indent(1)">Dear friend&#58;</p>
-			<p rend="indent(2)">With the same mail&#44; you will<lb/> get a sermon which I delivered on <add>Hebrew</add><lb/> to the Jewish congregation in <date>August</date> <add><placeName>Augusta</placeName></add>&#63;  And which<lb/> my brother translated.  If you like it you<lb/> may print it in your Occident.</p>
-			<p rend="indent(2)">I will send you other papers<lb/> too and I wish you would let me know<lb/> how much you want to pay&#44; without<lb/> considering my person.  I will give the<lb/> amount to the welfare and I <add>gladly</add> leave <del>it</del><lb/> <del>to you how much you want to give.</del><lb/> the amount of money up to you.</p>
-			<p rend="indent(2)">Did you not get an answer<lb/> yet from <placeName>Claiborne</placeName>&#63;  I am a little<lb/> short on money and could use the<lb/> balance very well.</p>
-			<p rend="indent(2)">Awaiting your reply&#44; I am</p>
-				<p>as ever your friend <persName role="author">D. Lilienthal</persName></p>
-			<pb n="2"/>
-				<p rend="align(right)"><placeName>New York</placeName> <date>den 29 Jan. 1847</date>.</p>
-			<p rend="indent(1)"><addressee>Rev. I. Leeser</addressee> in <placeName>Philadelphia</placeName>&#33;</p>
-			<p rend="indent(2)">Geehrten Freund&#33;</p>
-				<p>Ich &#252;bersende Ihnen hiermit eine Predigt&#44; die ich am <add>Hebrew</add><lb/> gehalten<add>&#63;</add>&#44; und die mein Bruder&#44; f&#252;r die j&#252;dische Gemeinde in Auguste<add>&#63;</add><lb/> wer sie gehalten&#44; &#252;berset<add>&#63;</add>t hat.  Wen Sie Ihnen f&#252;r Ihr en<lb/> Occident convenirt<add>&#63;</add>&#44; so k&#246;nnen Sie dieselbe abdrucken lassen.<lb/>  Ich werde Ihnen auch andere Arbeiten &#252;bermachen&#44; und<lb/> bitte Sie&#44; ohne mich pers&#246;nlich zu ber&#252;cksichlige&#44; zu bestim<add>m</add>en&#44;<lb/> was Sie dan<add>n</add> daf&#252;r zahlen k&#246;nen.  Ich habe den Betrag einem<lb/> wohlthatigen<add>&#63;</add> Zwelke bestim<add>m</add>t&#44; und &#252;berlasse es daher ganz gerne<lb/> Ihnen&#44; dieselben zu bestim<add>m</add>en.</p>
-			<p rend="indent(1)">Haben Sie von <placeName>Claiborne</placeName> noch im<add>m</add>er keine Nachricht&#59; ich bin<lb/> etwas kurz um Gelde&#44; u. k&#246;n<add>n</add>te den schuldenden Rest sehr gut<add>&#63;</add><lb/> gebrauchen.</p>
-			<p rend="indent(1)">Ihrer geehrten Erwiderung entgegensehend&#44; reichne ich wie<lb/> im<add>m</add>er  <add>&#63;</add></p>
-			<p rend="indent(8)">ergeb. Freund</p>
-			<p rend="indent(8)"><persName role="author">D. Lilienthal</persName></p>
-			<pb n="3"/>
-				<p rend="align(center)indent(-1)"><addressee>Rev. I. Leeser</addressee></p>
-				<p rend="align(center)"><placeName><hi rend="underline">Philadelphia</hi></placeName></p>
-				<p rend="align(center)"><placeName>South Fourth Street</placeName></p>
-			<p rend="align(center)indent(1)"><placeName>118</placeName>.</p>
-		</body>
-	</text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="yes">Lilienthal, D.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>LSKAP</repository>
+                        <collection>The Arnold and Deanne Kaplan Collection of Early American
+                            Judaica</collection>
+                        <idno>LSKAP0126</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="yes">Lilienthal,
+                            D.</author>
+                        <addressee accepted="yes" attested="yes" editor="false">Leeser,
+                            Isaac</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>New York, NY</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1847-01">January 29, 1847</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="LSKAP0126_1_1r.jpg"/>
+                                <graphic url="LSKAP0126_1r.jpg"/>
+                                <graphic url="LSKAP0126_2v.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >letter</material>
+                                </support>
+                                <extent>4 pages on 2 sheets <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="restricted">
+                                <p>Restricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="de">German</language>
+                <language ident="he">Hebrew</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <p>
+                <addressee>Rev. I. Leeser</addressee>
+                <placeName>Philadelphia</placeName>
+            </p>
+            <p rend="indent(1)">
+                <placeName>
+                    <hi rend="underline">South Fourth Street 118</hi>
+                </placeName>
+            </p>
+            <p rend="align(right)"><placeName>New York</placeName>, <date>January 29<hi rend="sup"
+                        >th</hi> 1847</date></p>
+            <p rend="indent(1)">Dear friend:</p>
+            <p rend="indent(2)">With the same mail, you will<lb/> get a sermon which I delivered on
+                    <add>שבת חנוכה</add><lb/> to the Jewish congregation in <date>August</date>
+                <add><placeName>Augusta</placeName></add>? And which<lb/> my brother translated. If
+                you like it you<lb/> may print it in your Occident.</p>
+            <p rend="indent(2)">I will send you other papers<lb/> too and I wish you would let me
+                know<lb/> how much you want to pay, without<lb/> considering my person. I will give
+                the<lb/> amount to the welfare and I <add>gladly</add> leave <del>it</del><lb/>
+                <del>to you how much you want to give.</del><lb/> the amount of money up to you.</p>
+            <p rend="indent(2)">Did you not get an answer<lb/> yet from
+                    <placeName>Claiborne</placeName>? I am a little<lb/> short on money and could
+                use the<lb/> balance very well.</p>
+            <p rend="indent(2)">Awaiting your reply, I am</p>
+            <p>as ever your friend <persName role="author">D. Lilienthal</persName></p>
+            <pb n="2"/>
+            <p rend="align(right)"><placeName>New York</placeName>
+                <date>den 29 Jan. 1847</date>.</p>
+            <p rend="indent(1)"><addressee>Rev. I. Leeser</addressee> in
+                    <placeName>Philadelphia</placeName>!</p>
+            <p rend="indent(2)">Geehrten Freund!</p>
+            <p>Ich übersende Ihnen hiermit eine Predigt, die ich am <add>שבת חנוכה</add><lb/>
+                    gehalten<add>?</add>, und die mein Bruder, für die jüdische Gemeinde in
+                    Auguste<add>?</add><lb/> wer sie gehalten, überset<add>?</add>t hat. Wen Sie
+                Ihnen für Ihr en<lb/> Occident convenirt<add>?</add>, so können Sie dieselbe
+                abdrucken lassen.<lb/> Ich werde Ihnen auch andere Arbeiten übermachen, und<lb/>
+                bitte Sie, ohne mich persönlich zu berücksichlige, zu bestim<add>m</add>en,<lb/> was
+                Sie dan<add>n</add> dafür zahlen könen. Ich habe den Betrag einem<lb/>
+                    wohlthatigen<add>?</add> Zwelke bestim<add>m</add>t, und überlasse es daher ganz
+                gerne<lb/> Ihnen, dieselben zu bestim<add>m</add>en.</p>
+            <p rend="indent(1)">Haben Sie von <placeName>Claiborne</placeName> noch im<add>m</add>er
+                keine Nachricht; ich bin<lb/> etwas kurz um Gelde, u. kön<add>n</add>te den
+                schuldenden Rest sehr gut<add>?</add><lb/> gebrauchen.</p>
+            <p rend="indent(1)">Ihrer geehrten Erwiderung entgegensehend, reichne ich wie<lb/>
+                    im<add>m</add>er <add>?</add></p>
+            <p rend="indent(8)">ergeb. Freund</p>
+            <p rend="indent(8)">
+                <persName role="author">D. Lilienthal</persName>
+            </p>
+            <pb n="3"/>
+            <p rend="align(center)indent(-1)">
+                <addressee>Rev. I. Leeser</addressee>
+            </p>
+            <p rend="align(center)">
+                <placeName>
+                    <hi rend="underline">Philadelphia</hi>
+                </placeName>
+            </p>
+            <p rend="align(center)">
+                <placeName>South Fourth Street</placeName>
+            </p>
+            <p rend="align(center)indent(1)"><placeName>118</placeName>.</p>
+        </body>
+    </text>
 </TEI>

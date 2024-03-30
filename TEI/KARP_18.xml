@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
         <fileDesc>
             <titleStmt>
                 <title>[no title given]</title>
-                <author attested="yes" accepted="yes" signature="yes">Isaacs, M. J.</author>
+                <author accepted="yes" attested="yes" signature="yes">Isaacs, M. J.</author>
                 <editor/>
                 <sponsor/>
                 <funder/>
@@ -47,7 +49,9 @@
                         <settlement>New York</settlement>
                         <institution>Jewish Theological Seminary</institution>
                         <repository/>
-                        <collection>The Abraham and Deborah Karp Collection of Early American Judaica at the Library of the Jewish Theological Seminary of America</collection>
+                        <collection>The Abraham and Deborah Karp Collection of Early American
+                            Judaica at the Library of the Jewish Theological Seminary of
+                            America</collection>
                         <idno/>
                         <altIdentifier>
                             <idno/>
@@ -56,8 +60,8 @@
                     </msIdentifier>
                     <head/>
                     <letHeading>
-                        <author attested="yes" accepted="yes" signature="yes">Isaacs, M. J.</author>
-                        <addressee editor="false" attested="yes" accepted="yes">Leeser,
+                        <author accepted="yes" attested="yes" signature="yes">Isaacs, M. J.</author>
+                        <addressee accepted="yes" attested="yes" editor="false">Leeser,
                             Isaac</addressee>
                         <deliverer/>
                         <respStmt>
@@ -66,7 +70,7 @@
                         </respStmt>
                         <placeLet>New York, NY</placeLet>
                         <placeRec>Philadelphia, PA</placeRec>
-                        <dateLet when="18??-01" source="" attested="yes">6 January</dateLet>
+                        <dateLet attested="yes" source="" when="18??-01">6 January</dateLet>
                     </letHeading>
                     <msContents>
                         <msItem>
@@ -92,7 +96,8 @@
                         <objectDesc>
                             <supportDesc>
                                 <support>
-                                    <material color="" lined="false" paper_type="" size="Letter">letter</material>
+                                    <material color="" lined="false" paper_type="" size="Letter"
+                                        >letter</material>
                                 </support>
                                 <extent>2 pages on 1 sheet <dimensions/>
                                 </extent>
@@ -233,35 +238,27 @@
     </teiHeader>
     <text>
         <body>
-
             <pb n="1"/>
-
-            <p rend="align(right)">151 Nassau Street<lb/> <placeName>New York</placeName>
-                <date>Jany 6</date>&#44; <add>&#63;</add></p>
+            <p rend="align(right)">151 Nassau Street<lb/>
+                <placeName>New York</placeName>
+                <date>Jany 6</date>, <add>?</add></p>
             <p>Rev. <persName>I. Leeser</persName></p>
-            <p rend="indent(1)">Revd &#38; dear sir</p>
-
-            <p rend="indent(2)">I received your note<lb/> yesterday morning and promptly<lb/> placed it in the hands
-                of Mr<lb/>
+            <p rend="indent(1)">Revd &amp; dear sir</p>
+            <p rend="indent(2)">I received your note<lb/> yesterday morning and promptly<lb/> placed
+                it in the hands of Mr<lb/>
                 <persName>Josephi</persName>. Last evening the Committee<lb/> of Shearith Israel met Messrs.<lb/>
-                <persName>Josephi</persName>&#44; <persName>King</persName> &#38;
-                    <persName>Myer</persName> &#38; conferred with<lb/> reference to becoming
-                attached to<lb/> the Board. After their departure&#44;<lb/> the question of the
-                memorial was<lb/> discussed&#44; and it is right that I<lb/> should tell you that
-                there appears<lb/> to be no change of opinion as<lb/> regards the expediency of
-                agitating<lb/> the question now. This fact was<lb/> stated&#44; that ought to be
-                questioned to<lb/> you&#58; when Mr <persName>Hart</persName> was at
-                    <placeName>Washington</placeName>&#44;<lb/> for the purpose of representing
-                the</p>
-
+                <persName>Josephi</persName>, <persName>King</persName> &amp;
+                    <persName>Myer</persName> &amp; conferred with<lb/> reference to becoming
+                attached to<lb/> the Board. After their departure,<lb/> the question of the memorial
+                was<lb/> discussed, and it is right that I<lb/> should tell you that there
+                appears<lb/> to be no change of opinion as<lb/> regards the expediency of
+                agitating<lb/> the question now. This fact was<lb/> stated, that ought to be
+                questioned to<lb/> you: when Mr <persName>Hart</persName> was at
+                    <placeName>Washington</placeName>,<lb/> for the purpose of representing the</p>
             <pb n="2"/>
-
-            <p><add>&#63;</add><lb/> the 8th&#8212;I think <add>&#63;</add><lb/> possible&#44; for
-                it <add>&#63;</add></p>
-            <p rend="indent(1)">My parents <add>&#63;</add><lb/> kind regards.<lb/> Very Respectfully
+            <p><add>?</add><lb/> the 8th—I think <add>?</add><lb/> possible, for it <add>?</add></p>
+            <p rend="indent(1)">My parents <add>?</add><lb/> kind regards.<lb/> Very Respectfully
                     yours<lb/><persName role="author">M. J. Isaacs</persName>.</p>
-
-
         </body>
     </text>
 </TEI>

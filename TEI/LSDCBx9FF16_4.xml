@@ -1,261 +1,316 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="yes">DeLevante, A. H.</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>CAJS Isaac Leeser Collection</repository>
-						<collection>The Library of the Dropsie College for Hebrew and Cognate Learning</collection>
-						<idno>LSDCBx9FF16_4</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="yes">DeLevante, A. H.</author>
-						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac</addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>Kingston, Jamaica</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1857-12" source="" attested="yes">8 December 1857</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="ilcajs_b9f16_0004_1r.jpg"/>
-								<graphic url="ilcajs_b9f16_0004_1v.jpg"/>
-								<graphic url="ilcajs_b9f16_0004_2r.jpg"/>
-								<graphic url="ilcajs_b9f16_0004_2v.jpg"/>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="unk" paper_type="" size="Legal">letter</material>
-								</support>
-								<extent>4 pages on 2 sheets
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="manuscript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p>Wax seal</p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="free">
-								<p>Unrestricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1"/>
-				<p rend="align(right)"><placeName>Kingston</placeName> <date>Decr 8th 1857</date></p>
-				<p>Dear Sir&#44;</p>
-			<p rend="indent(1)">I regret I should have so far neg&#45;<lb/>lected my duty to you when I transmitted<lb/> to your care a communication in which I<lb/> was particularly interested&#44; without directly<lb/> addressing you soliciting your kind interference<lb/> &#38; influence&#44; to aid me in the accomplishment<lb/> of my purpose&#44; this would even of itself<lb/> bear the impression&#44; that I was influenced<lb/> by personal motives&#59; but regardless of this&#44;<lb/> permit me to assure you&#44; that there was<lb/> something due on other grounds&#44; viz&#44; my<lb/> personal respect for your position as a teacher<lb/> in <placeName>Israel</placeName>&#44; and had it not been that I was<lb/> reminded of the fact of my negligence I<lb/> should still have remained the defaulter&#44;<lb/> although quite unintentional&#59; but&#44; repentance<lb/> never comes too late&#44; and will doubtless<lb/> make reparation for my wrong.</p>
-			<p rend="indent(1)">I have seen your communica&#45;<lb/>tions to <persName>Mr. Nathan</persName>&#44; by which I am con&#45;<lb/>vinced you have interested yourself in my<lb/> behalf&#44; for which I have to thank you&#44;<lb/> I regret to learn that there has been a division<lb/> in the congregations I should have preferred<lb/> to have heard the &#8220;two sticks were united&#8221;</p>
-			<pb n="2"/>
-				<p>however as congregations are now con&#45;<lb/>stituted I regret to say too much dif&#45;<lb/>ference of feeling exists&#44; &#38; too much dis&#45;<lb/>satisfaction prevails&#44; Alas&#33; For the poor<lb/> Hazanim&#44; our lot is not always cast<lb/> in pleasant places&#44; although we must<lb/> not murmur&#44; I should like to have<lb/> been made aware of the mode of living<lb/> domestic expenses &#38;c&#44; so as to form an<lb/> estimate of situation <hi rend="underline">&#38; place</hi>&#59; but for<lb/> that I of course have to thank myself<lb/> for not seeking your advice in time.<lb/>  I may yet not be too late&#44; could you<lb/> respond to this promptly&#44; I am happy<lb/> to hear my old friend <persName>Revd S. Jacobs</persName> is<lb/> officiating in your city&#44; and I trust<lb/> he may continue long in his occu&#45;<lb/>pation to render the congregation the<lb/> benefit of his valuable services.</p>
-			<p rend="indent(1)"><persName>Mr. Nathan</persName> in his commu&#45;<lb/>nication to you in my behalf&#44; more<lb/> or less represented to you my position<lb/> in the present sphere of my labors&#44;<lb/> and gave you a faithful account<lb/> of the nature of the difficulties under<lb/> which I am now laboring&#44; and I<lb/> feel within myself that nothing but<lb/> a fair field for the <sic>developement</sic> of<lb/> my energies&#8212;which I am impressed</p>
-			<pb n="3"/>
-				<p>with the conviction would be open for<lb/> me in a strange country&#8212;can arouse<lb/> me from my now dormant state&#44;<lb/> to render myself useful to any<lb/> congregation&#44; however praiseworthy is<lb/> modesty&#44; it is too frequently detrimental<lb/> to our interests&#44; yet&#44; we cannot get<lb/> rid of the fact&#59; but that the feeling<lb/> is encouraged.  I however would pursue<lb/> a different course were I to leave this<lb/> for any other place.</p>
-			<p rend="indent(1)">Permit me in conclusion<lb/> to thank you for your kind wishes<lb/> to further my purpose&#44; and believe<lb/> me to be</p>
-			<p rend="indent(1)">Thine ever very truly</p>
-			<p rend="indent(1)"><persName role="author">A H DeLevante</persName></p>
-				<p><addressee>Revd Isaac Leeser</addressee></p>
-			<pb n="4"/>
-				<p>My Dear Sir</p>
-			<p rend="indent(1)">I have taken the liberty to enclose a<lb/> letter under your care to <placeName>Richmond</placeName> which I<lb/> would thank you to forward for me</p>
-				<p>Not known N E</p>
-				<p>Try <placeName>371 Walnut St.</placeName></p>
-				<p><addressee>Revd. Isaac Leeser</addressee></p>
-			<p rend="indent(1)"><placeName>Philadelphia</placeName></p>
-		</body>
-	</text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="yes">DeLevante, A. H.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS Isaac Leeser Collection</repository>
+                        <collection>The Library of the Dropsie College for Hebrew and Cognate
+                            Learning</collection>
+                        <idno>LSDCBx9FF16_4</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="yes">DeLevante, A.
+                            H.</author>
+                        <addressee accepted="yes" attested="yes" editor="false">Leeser,
+                            Isaac</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Kingston, Jamaica</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1857-12">8 December 1857</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="ilcajs_b9f16_0004_1r.jpg"/>
+                                <graphic url="ilcajs_b9f16_0004_1v.jpg"/>
+                                <graphic url="ilcajs_b9f16_0004_2r.jpg"/>
+                                <graphic url="ilcajs_b9f16_0004_2v.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="unk" paper_type="" size="Legal"
+                                        >letter</material>
+                                </support>
+                                <extent>4 pages on 2 sheets <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p>Wax seal</p>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <p rend="align(right)">
+                <placeName>Kingston</placeName>
+                <date>Decr 8th 1857</date>
+            </p>
+            <p>Dear Sir,</p>
+            <p rend="indent(1)">I regret I should have so far neg-<lb/>lected my duty to you when I
+                transmitted<lb/> to your care a communication in which I<lb/> was particularly
+                interested, without directly<lb/> addressing you soliciting your kind
+                interference<lb/> &amp; influence, to aid me in the accomplishment<lb/> of my
+                purpose, this would even of itself<lb/> bear the impression, that I was
+                influenced<lb/> by personal motives; but regardless of this,<lb/> permit me to
+                assure you, that there was<lb/> something due on other grounds, viz, my<lb/>
+                personal respect for your position as a teacher<lb/> in
+                    <placeName>Israel</placeName>, and had it not been that I was<lb/> reminded of
+                the fact of my negligence I<lb/> should still have remained the defaulter,<lb/>
+                although quite unintentional; but, repentance<lb/> never comes too late, and will
+                doubtless<lb/> make reparation for my wrong.</p>
+            <p rend="indent(1)">I have seen your communica-<lb/>tions to <persName>Mr.
+                    Nathan</persName>, by which I am con-<lb/>vinced you have interested yourself in
+                my<lb/> behalf, for which I have to thank you,<lb/> I regret to learn that there has
+                been a division<lb/> in the congregations I should have preferred<lb/> to have heard
+                the “two sticks were united”</p>
+            <pb n="2"/>
+            <p>however as congregations are now con-<lb/>stituted I regret to say too much
+                dif-<lb/>ference of feeling exists, &amp; too much dis-<lb/>satisfaction prevails,
+                Alas! For the poor<lb/> Hazanim, our lot is not always cast<lb/> in pleasant places,
+                although we must<lb/> not murmur, I should like to have<lb/> been made aware of the
+                mode of living<lb/> domestic expenses &amp;c, so as to form an<lb/> estimate of
+                situation <hi rend="underline">&amp; place</hi>; but for<lb/> that I of course have
+                to thank myself<lb/> for not seeking your advice in time.<lb/> I may yet not be too
+                late, could you<lb/> respond to this promptly, I am happy<lb/> to hear my old friend
+                    <persName>Revd S. Jacobs</persName> is<lb/> officiating in your city, and I
+                trust<lb/> he may continue long in his occu-<lb/>pation to render the congregation
+                the<lb/> benefit of his valuable services.</p>
+            <p rend="indent(1)"><persName>Mr. Nathan</persName> in his commu-<lb/>nication to you in
+                my behalf, more<lb/> or less represented to you my position<lb/> in the present
+                sphere of my labors,<lb/> and gave you a faithful account<lb/> of the nature of the
+                difficulties under<lb/> which I am now laboring, and I<lb/> feel within myself that
+                nothing but<lb/> a fair field for the <sic>developement</sic> of<lb/> my
+                energies—which I am impressed</p>
+            <pb n="3"/>
+            <p>with the conviction would be open for<lb/> me in a strange country—can arouse<lb/> me
+                from my now dormant state,<lb/> to render myself useful to any<lb/> congregation,
+                however praiseworthy is<lb/> modesty, it is too frequently detrimental<lb/> to our
+                interests, yet, we cannot get<lb/> rid of the fact; but that the feeling<lb/> is
+                encouraged. I however would pursue<lb/> a different course were I to leave this<lb/>
+                for any other place.</p>
+            <p rend="indent(1)">Permit me in conclusion<lb/> to thank you for your kind wishes<lb/>
+                to further my purpose, and believe<lb/> me to be</p>
+            <p rend="indent(1)">Thine ever very truly</p>
+            <p rend="indent(1)">
+                <persName role="author">A H DeLevante</persName>
+            </p>
+            <p>
+                <addressee>Revd Isaac Leeser</addressee>
+            </p>
+            <pb n="4"/>
+            <p>My Dear Sir</p>
+            <p rend="indent(1)">I have taken the liberty to enclose a<lb/> letter under your care to
+                    <placeName>Richmond</placeName> which I<lb/> would thank you to forward for
+                me</p>
+            <p>Not known N E</p>
+            <p>Try <placeName>371 Walnut St.</placeName></p>
+            <p>
+                <addressee>Revd. Isaac Leeser</addressee>
+            </p>
+            <p rend="indent(1)">
+                <placeName>Philadelphia</placeName>
+            </p>
+        </body>
+    </text>
 </TEI>

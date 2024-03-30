@@ -1,258 +1,291 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE TEI [
-<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
-%teibase;
-<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
-%teiext;
-]>
-<TEI>
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="unk">Bondi, Jonah</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>CAJS Isaac Leeser Collection</repository>
-						<collection>The Library of the Dropsie College for Hebrew and Cognate Learning</collection>
-						<idno>LSDCBx3FF4a_4</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="unk">Bondi, Jonah</author>
-						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac</addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet></placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1865-11" source="" attested="unk">1865</dateLet>
-						<dateLet when="1865-11" source="" attested="yes">2 Kislev</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="ilcajs_b3f4a_0004_1r.jpg"></graphic>
-								<graphic url="ilcajs_b3f4a_0004_1v.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="true" paper_type="" size="Letter">letter</material>
-								</support>
-								<extent>2 pages on 1 sheet
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="manuscript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="free">
-								<p>Unrestricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-				<language ident="he">Hebrew</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1"/>
-				<p rend="align(right)"><date>Monday&#44; 2 of Kislev&#40;November&#41; 1865</date>.</p>
-				<p>Greetings to my friend&#44; my dear&#44; the wise&#44; the accomplished&#44; who seeks<lb/> the welfare of his people&#44; <persName>Eliezar Lippman Leeser</persName>&#44; Dear friend&#58;</p>
-			<p rend="indent(1)">Only yesterday&#44; the house was filled with light to see your<lb/> bright and shining words. <persName>Mr. von Beil</persName><add>&#63;</add> was to see me only yesterday&#44;<lb/> and is now pressing for a decision&#44; but this is very hard to make. This<lb/> matter is terribly involved. There are 50 kinds of things against it<lb/> and a like number in favor. He can and may not invalidate himself from<lb/> being a <persName>Cohen</persName>. First of all&#44; we must seek &#8212; I say seek &#8212; I want to use the<lb/> definite term&#44; for I am among those who are fearful for the teaching of<lb/> tradition &#8212; not to express anything that will make her valid as a Jewess.<lb/> This is what you have failed to do&#44; to make the mother a Jewess. If she<lb/> is a Jewess&#44; then the thing could be done&#44; for then the Biblical law no<lb/> longer applies&#45; that the children are of a Jewish father and they can be<lb/> full Jews. It will be difficult. Let her go to the ritual bath only<lb/> because of a doubt of Jewishness. Above all comes the question&#44; whether<lb/> it is possible that the mother&#44; who lacks only the ritual bath&#44; does this<lb/> only because&#44; as <persName>von Beil</persName> says&#44; she is a cripple. Perhaps it could be<lb/> done by force. <sic>write</sic> to me about it. This would be the first step&#44; then<lb/> we shall see what is to be done further. I am still not clear about it&#44;<lb/> and should like to have the whole matter thoroughly explained&#44; in order&#44;<lb/> if possible&#44; to turn it into a <hi rend="underline">fait accompli</hi>. For the moment&#44; I am too<lb/> much worried with the pains of editorship. <persName>Isaacs</persName> is silent <del>after</del> ever since I had<lb/> myself <del>set him aside</del> refuted him&#44; well but quietly. He and his are mean fellows.<lb/> The free school here is humbug&#44; Its matzo&#45;baking president is the lowest<lb/> of the low &#8212; of the vice&#45;president. One of the chief teachers&#44; also a<lb/> &#8212; did some unclean things with children in other schools. Should one<lb/> keep quiet about such things&#63; That is why I have written that one who<lb/> uncovers only one portion merely covers up double the amount. I don&#39;t<lb/> want to speak about other things.. Keep for me the reports of the assembly</p>
-			<pb n="2"/>
-				<p rend="align(center)">2</p>
-				<p>of delegates&#44; also advertisements.</p>
-			<p rend="indent(1)">With the help of God I shall begin this week to print&#44; with<lb/> your permission&#44; your translation of my introduction to <hi rend="underline"><persName>Esther</persName></hi> &#8212;&#8212; .<lb/> You may also remove certain things from the &#8212;&#8212;as&#44; for example&#44; that<lb/> congregations ought to make clear to themselves their own principles&#44;<lb/> and that religious leaders should give an honest and thorough report of<lb/> their trust.</p>
-			<p rend="indent(1)">Writing with broken &#8212; and expecting your answer&#44;</p>
-			<p rend="indent(5)">Your friend&#44;</p>
-			<p rend="indent(6)"><persName role="author">Jonah Bondi</persName></p>
-		</body>
-	</text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="unk">Bondi, Jonah</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS Isaac Leeser Collection</repository>
+                        <collection>The Library of the Dropsie College for Hebrew and Cognate
+                            Learning</collection>
+                        <idno>LSDCBx3FF4a_4</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="unk">Bondi, Jonah</author>
+                        <addressee accepted="yes" attested="yes" editor="false">Leeser,
+                            Isaac</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet/>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="unk" source="" when="1865-11">1865</dateLet>
+                        <dateLet attested="yes" source="" when="1865-11">2 Kislev</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="ilcajs_b3f4a_0004_1r.jpg"/>
+                                <graphic url="ilcajs_b3f4a_0004_1v.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="true" paper_type="" size="Letter"
+                                        >letter</material>
+                                </support>
+                                <extent>2 pages on 1 sheet <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="he">Hebrew</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <p rend="align(right)"><date>Monday, 2 of Kislev(November) 1865</date>.</p>
+            <p>Greetings to my friend, my dear, the wise, the accomplished, who seeks<lb/> the
+                welfare of his people, <persName>Eliezar Lippman Leeser</persName>, Dear friend:</p>
+            <p rend="indent(1)">Only yesterday, the house was filled with light to see your<lb/>
+                bright and shining words. <persName>Mr. von Beil</persName><add>?</add> was to see
+                me only yesterday,<lb/> and is now pressing for a decision, but this is very hard to
+                make. This<lb/> matter is terribly involved. There are 50 kinds of things against
+                it<lb/> and a like number in favor. He can and may not invalidate himself from<lb/>
+                being a <persName>Cohen</persName>. First of all, we must seek — I say seek — I want
+                to use the<lb/> definite term, for I am among those who are fearful for the teaching
+                of<lb/> tradition — not to express anything that will make her valid as a
+                Jewess.<lb/> This is what you have failed to do, to make the mother a Jewess. If
+                she<lb/> is a Jewess, then the thing could be done, for then the Biblical law
+                no<lb/> longer applies- that the children are of a Jewish father and they can
+                be<lb/> full Jews. It will be difficult. Let her go to the ritual bath only<lb/>
+                because of a doubt of Jewishness. Above all comes the question, whether<lb/> it is
+                possible that the mother, who lacks only the ritual bath, does this<lb/> only
+                because, as <persName>von Beil</persName> says, she is a cripple. Perhaps it could
+                be<lb/> done by force. <sic>write</sic> to me about it. This would be the first
+                step, then<lb/> we shall see what is to be done further. I am still not clear about
+                it,<lb/> and should like to have the whole matter thoroughly explained, in
+                order,<lb/> if possible, to turn it into a <hi rend="underline">fait accompli</hi>.
+                For the moment, I am too<lb/> much worried with the pains of editorship.
+                    <persName>Isaacs</persName> is silent <del>after</del> ever since I had<lb/>
+                myself <del>set him aside</del> refuted him, well but quietly. He and his are mean
+                fellows.<lb/> The free school here is humbug, Its matzo-baking president is the
+                lowest<lb/> of the low — of the vice-president. One of the chief teachers, also
+                a<lb/> — did some unclean things with children in other schools. Should one<lb/>
+                keep quiet about such things? That is why I have written that one who<lb/> uncovers
+                only one portion merely covers up double the amount. I don't<lb/> want to speak
+                about other things.. Keep for me the reports of the assembly</p>
+            <pb n="2"/>
+            <p rend="align(center)">2</p>
+            <p>of delegates, also advertisements.</p>
+            <p rend="indent(1)">With the help of God I shall begin this week to print, with<lb/>
+                your permission, your translation of my introduction to <hi rend="underline"
+                        ><persName>Esther</persName></hi> —— .<lb/> You may also remove certain
+                things from the ——as, for example, that<lb/> congregations ought to make clear to
+                themselves their own principles,<lb/> and that religious leaders should give an
+                honest and thorough report of<lb/> their trust.</p>
+            <p rend="indent(1)">Writing with broken — and expecting your answer,</p>
+            <p rend="indent(5)">Your friend,</p>
+            <p rend="indent(6)">
+                <persName role="author">Jonah Bondi</persName>
+            </p>
+        </body>
+    </text>
 </TEI>

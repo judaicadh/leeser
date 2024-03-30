@@ -1,880 +1,1076 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE TEI [
-<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
-%teibase;
-<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
-%teiext;
-]>
-<TEI>
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>Constitution and By Laws of the United Hebrew Relief Association of Philadelphia</title>
-				<author attested="yes" accepted="yes" signature="unk">Hebrew Relief Association of Philadelphia</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Stein and Jones, Printers</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>LSKAP</repository>
-						<collection>The Arnold and Deanne Kaplan Collection of Early American Judaica</collection>
-						<idno>LSKAP13-1135</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="unk">Hebrew Relief Association of Philadelphia</author>
-						<addressee editor="false" attested="yes" accepted="yes"></addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>Philadelphia, PA</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1860" source="" attested="yes">1860</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="leeser_13_1135_1.jpg"></graphic>
-								<graphic url="leeser_13_1135_2.jpg"></graphic>
-								<graphic url="leeser_13_1135_3.jpg"></graphic>
-								<graphic url="leeser_13_1135_4.jpg"></graphic>
-								<graphic url="leeser_13_1135_5.jpg"></graphic>
-								<graphic url="leeser_13_1135_6.jpg"></graphic>
-								<graphic url="leeser_13_1135_7.jpg"></graphic>
-								<graphic url="leeser_13_1135_8.jpg"></graphic>
-								<graphic url="leeser_13_1135_9.jpg"></graphic>
-								<graphic url="leeser_13_1135_10.jpg"></graphic>
-								<graphic url="leeser_13_1135_11.jpg"></graphic>
-								<graphic url="leeser_13_1135_12.jpg"></graphic>
-								<graphic url="leeser_13_1135_13.jpg"></graphic>
-								<graphic url="leeser_13_1135_14.jpg"></graphic>
-								<graphic url="leeser_13_1135_15.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="false" paper_type="" size="">pamphlet</material>
-								</support>
-								<extent>25 pages on 15 sheets
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="typescript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="restricted">
-								<p>Restricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-				<language ident="he">Hebrew</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="Front Cover"/>
-				<p rend="align(center)">CONSTITUTION</p>
-				<p rend="align(center)">AND</p>
-				<p rend="align(center)">BY&#45;LAWS</p>
-				<p rend="align(center)">OF</p>
-				<p rend="align(center)">THE UNITED</p>
-				<p rend="align(center)"><persName role="author">Hebrew Relief Association</persName></p>
-				<p rend="align(center)">OF</p>
-				<p rend="align(center)"><placeName>PHILADELPHIA</placeName>.</p>
-				<p rend="align(center)"><placeName>PHILADELPHIA</placeName>.</p>
-				<p rend="align(center)"><persName>STEIN &#38; JONES</persName>&#44; PRS.&#44; <placeName>S. E. COR. THIRD AND CHESTNUT STS.</placeName></p>
-				<p rend="align(center)"><date>1860</date>.</p>
-			<pb n="1R"/>
-				<p rend="align(center)">CONSTITUTION</p>
-				<p rend="align(center)">AND</p>
-				<p rend="align(center)">BY&#45;LAWS</p>
-				<p rend="align(center)">OF</p>
-				<p rend="align(center)">THE UNITED</p>
-				<p rend="align(center)"><persName role="author">Hebrew Relief Association</persName>&#44;</p>
-				<p rend="align(center)"><placeName>PHILADELPHIA</placeName>.</p>
-				<p rend="align(center)">Organized <date>April 18th&#44; 1858&#8212;Iyar 4th&#44; 5618</date>&#44;</p>
-				<p rend="align(center)">Incorporated <date>September 17th&#44; 1860</date>.</p>
-				<p rend="align(center)">&#95;&#95;&#95;&#95;&#95;&#95;</p>
-				<p rend="align(center)"><placeName>PHILADELPHIA</placeName>.</p>
-				<p rend="align(center)"><persName>STEIN &#38; JONES</persName>&#44; PRS.&#44; <placeName>S. E. COR. THIRD AND CHESTNUT STS.</placeName></p>
-				<p rend="align(center)"><date>1860</date>.</p>
-				<p rend=" There is a oval shaped&#44; blue stamp over the center of the page that reads&#58;"><persName>LEESER</persName> LIBRARY&#44;<lb/> HEBREW<lb/> EDUCATION SOCIETY.</p>
-			<pb n="2R"/>
-				<p rend="align(center)">PREAMBLE.</p>
-				<p rend="align(center)">&#95;&#95;</p>
-			<p rend="indent(1)">WHEREAS&#44; the Israelites of <placeName>Philadelphia</placeName>&#44;<lb/> have observed with regret that the poor and<lb/> helpless of their persuasion are increasing<lb/> from year to year&#44; while the relief distributed<lb/> by existing societies is inadequate to the as&#45;<lb/>sistance required&#59; and&#44; in view of a more pro&#45;<lb/>per supervision of our poor&#44; to more effectually<lb/> relieve the sick&#44; to prevent imposition&#44; and by<lb/> timely and adequate aid to bring them from a<lb/> state of dependence&#59; we&#44; the subscribers&#44; feel&#45;<lb/>ing that the care of the poor is a duty obliga&#45;<lb/>tory on all having the means of aiding others&#44;<lb/> have formed ourselves into a new organization&#44;<lb/> under the following Constitution.</p>
-				<p>3</p>
-			<pb n="2V"/>
-				<p rend="align(center)">Constitution.</p>
-				<p rend="align(center)">&#95;&#95;&#95;</p>
-				<p rend="align(center)">ARTICLE I.</p>
-			<p rend="indent(1)">The name&#44; style and title of this organiza&#45;<lb/>tion shall be &#34;THE UNITED <persName role="author">HEBREW RELIEF<lb/> ASSOCIATION OF <placeName>PHILADELPHIA</placeName></persName>.&#34;</p>
-				<p rend="align(center)">ARTICLE II.</p>
-			<p rend="indent(1)">SECT. 1.  The object of this Association shall<lb/> be to grant temporary relief to poor and help&#45;<lb/>less Israelites&#44; who reside in our midst&#44; under<lb/> such regulations and restrictions as may here&#45;<lb/>after be adopted.</p>
-			<p rend="indent(1)">SECT. 2.  The Association shall have power<lb/> to establish an asylum for the aged&#44; infirm and<lb/> destitute&#44; and such other establishment as may<lb/> be expedient for the employment and improve&#45;<lb/>ment of adults and youths for whom such ben&#45;<lb/>efits are sought&#44; and under such regulations<lb/> and restrictions as may hereafter be adopted.</p>
-				<p rend="align(center)">ARTICLE III.</p>
-			<p rend="indent(1)">SECT. 1.  The funds of the Association shall<lb/> be derived from dues&#44; annual subscriptions&#44;</p>
-			<pb n="3R"/>
-				<p rend="align(right)">5</p>
-				<p rend="align(center)">CONSTITUTION.</p>
-				<p>donations&#44; legacies and contributions from such<lb/> Societies and Congregations as may unite with<lb/> it for purposes of charity.</p>
-				<p rend="align(center)">ARTICLE IV.</p>
-			<p rend="indent(1)">SECT. 1.  Any male Israelite over twenty&#45;one<lb/> years of age&#44; desiring to become a member&#44;<lb/> can apply or be proposed to the Board of Di&#45;<lb/>rection&#44; and when declared elected&#44; can&#44; after<lb/> signing the Constitution&#44; vote at all meetings<lb/> held by the Association&#44; and be eligible to the<lb/> various offices.</p>
-			<p rend="indent(1)">SECT. 2.  Every member must pay five dollars<lb/> yearly in advance&#44; as dues to the Association&#44;<lb/> and any member paying ten years dues in ad&#45;<lb/>vance shall be declared a life member.</p>
-				<p rend="align(center)">ARTICLE V.</p>
-			<p rend="indent(1)">SECT. 1.  A stated meeting of this Association<lb/> shall be held in each and every year after its<lb/> organization&#44; on the <date>first Sunday of May</date>&#44; at<lb/> which the election for officers shall be held&#44;<lb/> and if from any cause no election takes place&#44;<lb/> the officers of the preceding year shall continue<lb/> until a new election can be held&#44; at a special<lb/> meeting to be convened for the purpose&#44; which</p>
-			<pb n="3V"/>
-				<p>6</p>
-				<p rend="align(center)">CONSTITUTION.</p>
-				<p>it shall be the duty of the President to convene<lb/> as soon as practicable.</p>
-			<p rend="indent(1)">SECT. 2.  The election for officers shall be by<lb/> ballot&#44; and it shall require for an election a<lb/> majority of all the votes polled on the first<lb/> ballot&#44; after that a plurality cast for any one<lb/> candidate shall be sufficient to elect him.</p>
-				<p rend="align(center)">ARTICLE VI.</p>
-			<p rend="indent(1)">SECT. 1.  The officers shall consist of a Presi&#45;<lb/>dent&#44; Vice President&#44; Recording Secretary&#44;<lb/> Secretary&#44; Treasurer and ten Managers&#44; who<lb/> shall constitute a Board of Direction&#44; which<lb/> number may be increase as hereinafter pro&#45;<lb/>vided for.</p>
-				<p rend="align(center)">ARTICLE VII.</p>
-			<p rend="indent(1)">SECT. 1.  Any Jewish Congregation or Society<lb/> contributing at least one hundred dollars an&#45;<lb/>nually to the funds of the Association&#44; shall be<lb/> entitled to send one delegate to the Board of<lb/> Managers&#44; who shall have the same powers<lb/> and privileges as may be <sic>confered</sic> by the<lb/> By&#45;Laws upon the members thereof elected by<lb/> the Society.</p>
-			<p rend="indent(1)">SECT. 2.  There shall be created a <hi rend="italics">Special</hi><lb/> <hi rend="italics">Fund</hi> from such contributions&#44; legacies&#44; or<lb/> otherwise&#44; as may be donated specially for</p>
-			<pb n="4R"/>
-				<p rend="align(right)">7</p>
-				<p rend="align(center)">CONSTITUTION.</p>
-				<p>purposes as contained in Article 2&#44; Section 2&#44;<lb/> and said fund&#44; nor any part thereof&#44; shall be<lb/> applied for any other purpose whatever&#59; nor<lb/> until it shall amount to the sum of <hi rend="italics">fifteen</hi><lb/> <hi rend="italics">thousand dollars</hi>.  This fund shall be invested<lb/> in the bonds of the State of <placeName>Pennsylvania</placeName> or<lb/> <placeName>New York</placeName>&#44; or the City of <placeName>Philadelphia</placeName>.</p>
-			<p rend="indent(1)">SECT. 3.  Any Israelite not a member of this<lb/> Association&#44; donating the amount of two hun&#45;<lb/>dred dollars or more to this special fund&#44; shall<lb/> be a life Governor of the Asylum when estab&#45;<lb/>lished&#44; and a member of the Board having it<lb/> in charge.  The same honor and privilege shall<lb/> be granted to members donating one hundred<lb/> and fifty dollars.</p>
-				<p rend="align(center)">ARTICLE VIII.</p>
-			<p rend="indent(1)">SECT. 1.  This Association shall have power<lb/> to make such By&#45;Laws for their government<lb/> as they may deem necessary&#44; not conflicting<lb/> with this Constitution.</p>
-				<p rend="align(center)">ARTICLE IX.</p>
-			<p rend="indent(1)">SECT. 1.  No part of this Constitution shall<lb/> be altered or amended&#44; or addition made there&#45;<lb/>to&#44; unless the proposition be made at a general<lb/> meeting&#44; and adopted by another&#44; &#40;to be called<lb/> for that especial purpose&#41; by the consent of</p>
-			<pb n="4V"/>
-				<p>8</p>
-				<p rend="align(center)">CONSTITUTION.</p>
-				<p>two&#45;thirds of the members present&#44; and it shall<lb/> be the duty of the Secretary to insert in the<lb/> notices to the members the proposed alteration<lb/> &#38;c.&#44; in full.</p>
-				<p rend="align(right)"><persName>ISAAC LEESER</persName>&#44;</p>
-			<p rend="align(right)"><persName>SIMON W. ARNOLD</persName>&#44;</p>
-			<p rend="align(right)"><persName>ALFRED T. JONES</persName>&#44;</p>
-			<p rend="align(right)"><persName>JOSEPH EINSTEIN</persName>&#44;</p>
-			<p rend="align(right)"><persName>SELIGMAN ABELES</persName>&#44;</p>
-			<p rend="align(right)"><persName>ADOLF KLOPFER</persName>&#44;</p>
-			<p rend="align(right)"><persName>SOLOMON TELLER</persName>&#44;</p>
-			<p rend="align(right)"><persName>H. GUNSENHAUSER</persName>&#44;</p>
-			<p rend="align(right)"><persName>LAZARUS MAYER</persName>&#44;</p>
-			<p rend="align(right)"><persName>SIMON STERNBERGER</persName>&#44;</p>
-			<p rend="align(right)"><persName>C. BLOOMINGDALE</persName>&#44;</p>
-			<p rend="align(right)"><persName>WM. B. HACKENBURG</persName>&#44;</p>
-			<p rend="align(right)"><persName>HENRY S. FRANK</persName>.</p>
-				<p>Examined and approved</p>
-				<p rend="indent(1)"><date>July 3d&#44; 1860</date>.</p>
-			<p rend="indent(2)">&#40;<hi rend="italics">Signed&#44;</hi>&#41;</p>
-			<p rend="indent(3)"><persName>JOSEPH ALLISON</persName>.</p>
-			<pb n="5R"/>
-				<p rend="align(center)">Charter.</p>
-				<p rend="align(center)">&#95;&#95;&#95;</p>
-			<p rend="indent(1)">STATE OF <placeName>PENNSYLVANIA</placeName>&#44;</p>
-				<p><hi rend="italics">City and County of <placeName>Philadelphia</placeName>. </hi>ss.</p>
-			<p rend="indent(1)">Be it Remembered&#44; That at a Court of Com&#45;<lb/>mon Pleas for said City and County&#44; held at<lb/> <placeName>Philadelphia</placeName>&#44; on the <date>third day of July&#44; one<lb/> thousand eight hundred and sixty</date>&#44; the fore&#45;<lb/>going instrument of writing or Charter of In&#45;<lb/>corporation&#44; was presented to the said Court&#44;<lb/> on behalf the persons therein named&#44; in order<lb/> that they and their associates might be incor&#45;<lb/>porated according to law.  WHEREUPON&#44; on<lb/> motion of <persName>Moses A. Dropsie&#44; Esq.</persName>&#44; the Court<lb/> ordered that the same be filed&#44; and that publi&#45;<lb/>cation of such application be given by adver&#45;<lb/>tisement according to law.</p>
-			<p rend="indent(1)">AND NOW&#44; this <date>seventeenth day of September&#44;<lb/> 1860</date>&#44; due proof being exhibited to the Court of<lb/> the publication of notice&#44; and they having ex&#45;<lb/>amined said Instrument of writing&#44; and being<lb/> satisfied therewith&#44; and no cause being shown<lb/> to the contrary&#44; the Court ORDER and DECREE<lb/> that the persons whose names are thereto sub&#45;<lb/>scribed&#44; and their associates&#44; shall become and</p>
-			<pb n="5V"/>
-				<p>10</p>
-				<p rend="align(center)">CHARTER.</p>
-				<p>be a Corporation or body politic in law and in<lb/> fact&#44; agreeably to the articles and conditions in<lb/> the foregoing Instrument contained&#44; and that<lb/> the same be recorded in the office for Recording<lb/> Deeds&#44; in and for the said City and County&#44; ac&#45;<lb/>cording to the Act of Assembly.</p>
-				<p>SEAL.  IN TESTIMONY WHEREOF&#44; I&#44; <persName>Charles<lb/> D. Knight</persName>&#44; Prothonotary of the Court<lb/> of Common Pleas&#44; aforesaid&#44; have here&#45;<lb/>unto set my hand and affixed the Seal<lb/> of the said Court&#44; this <date>thirty&#45;first day of Octo&#45;<lb/>ber&#44; in the year one thousand eight hundred and<lb/> sixty &#40;1860.&#41;</date></p>
-			<p rend="indent(1)">&#40;Signed&#44;&#41;</p>
-			<p rend="indent(2)"><persName>CHAS. D. KNIGHT</persName>&#44;</p>
-			<p rend="indent(3)"><hi rend="italics">Prothonotary</hi>.</p>
-			<pb n="6R"/>
-				<p rend="align(center)">By&#45;Laws</p>
-				<p rend="align(center)">OF THE</p>
-				<p rend="align(center)">UNITED <persName role="author">HEBREW RELIEF ASSOCIATION</persName></p>
-				<p rend="align(center)">OF <placeName>PHILADELPHIA</placeName>.</p>
-				<p rend="align(center)">&#95;&#95;&#95;</p>
-				<p rend="align(center)">I.</p>
-				<p rend="align(center)">Rules of Order.</p>
-			<p rend="indent(1)">SEC. 1.  Half an hour after the time specified<lb/> in the notices for calling the meeting&#44; the Pres&#45;<lb/>ident or other presiding officer shall take the<lb/> chair.</p>
-			<p rend="indent(1)">SEC. 2.  The roll shall be called.</p>
-			<p rend="indent(1)">SEC. 3.  The Minutes of the preceding meet&#45;<lb/>ing shall be read and acted upon.</p>
-			<p rend="indent(1)">SEC. 4.  Election of Officers&#44; &#40;if at a stated<lb/> meeting.&#41;</p>
-			<p rend="indent(1)">SEC. 5.  Communications to the Association<lb/> shall be read</p>
-			<p rend="indent(1)">SEC. 6.  Reports of Committees or Officers<lb/> may be read.</p>
-			<p rend="indent(1)">SEC. 7.  Unfinished business shall then be<lb/> in order.</p>
-			<p rend="indent(1)">SEC. 8.  Election of members&#44; if at a Board<lb/> meeting.</p>
-			<pb n="6V"/>
-				<p>12</p>
-				<p rend="align(center)">BY&#45;LAWS.</p>
-			<p rend="indent(1)">SEC. 9.  New business may be introduced.</p>
-			<p rend="indent(1)">SEC. 10.  No motion shall be received unless<lb/> seconded&#44; and if requested by the Chair&#44; shall<lb/> be reduced to writing.</p>
-			<p rend="indent(1)">SEC. 11.  All reports shall be made in writing<lb/> and those of Committees must be signed by a<lb/> majority of such Committee.</p>
-			<p rend="indent(1)">SEC. 12.  The presiding Officer shall appoint<lb/> two tellers to conduct all elections.</p>
-			<p rend="indent(1)">SEC. 13.  The yeas and nays shall be taken<lb/> at the request of four members at meetings of<lb/> the Association&#44; and of two at meetings of the<lb/> Board&#44; and shall be entered on the minutes.</p>
-			<p rend="indent(1)">SEC. 14.  At special meetings no business<lb/> shall be transacted except that for which the<lb/> meeting is called.</p>
-			<p rend="indent(1)">SEC. 15.  All votes shall be given <hi rend="italics">viva voce</hi>&#44;<lb/> unless otherwise provided for.</p>
-			<p rend="indent(1)">SEC. 16.  No motion to re&#45;consider shall be<lb/> received unless moved and seconded by two<lb/> members&#44; who voted with the majority on the<lb/> original question&#59; nor after the meeting next<lb/> following that at which the resolution may<lb/> have been acted upon&#44; unless by the unanimous<lb/> consent of the members present.</p>
-			<p rend="indent(1)">SEC. 17.  No member shall speak more than<lb/> twice on any one subject&#44; without leave from<lb/> the Chair.</p>
-			<pb n="7R"/>
-				<p rend="align(right)">13</p>
-				<p rend="align(center)">BY&#45;LAWS.</p>
-			<p rend="indent(1)">SEC. 18.  Every member at a meeting of the<lb/> Board or Association&#44; shall vote on all ques&#45;<lb/>tions&#44; unless excused by said meeting.</p>
-				<p rend="align(center)">II.</p>
-				<p rend="align(center)">Of the President.</p>
-			<p rend="indent(1)">SEC. 1.  The President or other presiding offi&#45;<lb/>cer shall appoint all committees&#44; and shall vote<lb/> on the revision of the Constitution or By&#45;Laws&#44;<lb/> and on the election and expulsion of a member&#44;<lb/> but in no other case&#44; except when equally<lb/> divided&#44; when he shall have the casting vote.</p>
-			<p rend="indent(1)">SEC. 2.  If he intend leaving the city for<lb/> more three days&#44; he is to notify the Vice Pres&#45;<lb/>ident&#44; and require of him to act in his place.</p>
-			<p rend="indent(1)">SEC. 3.  He shall have the custody of the<lb/> corporate seal&#44; and all title deeds of the Asso&#45;<lb/>ciation.</p>
-			<p rend="indent(1)">SEC. 4.  He shall preside at all meetings of<lb/> the Association at large.  He shall sign all<lb/> orders for money&#44; and may also sign orders<lb/> for benefactions granted by the Board.</p>
-				<p rend="align(center)">III.</p>
-				<p rend="align(center)">Of the Vice President.</p>
-			<p rend="indent(1)">SEC. 1.  The Vice President shall act in the<lb/> absence of the President&#44; but may at all times<lb/> sign orders for benefactions granted by the</p>
-			<pb n="7V"/>
-				<p>14</p>
-				<p rend="align(center)">BY&#45;LAWS.</p>
-				<p>Board&#59; and in the absence of both President<lb/> and Vice President&#44; the Chairman of the Board<lb/> shall be invested with the same powers and<lb/> privileges&#44; but nothing herein contained shall<lb/> be so construed&#44; as to prevent the Chairman of<lb/> the Board of Direction at any time from sign&#45;<lb/>ing orders for benefactions granted by the<lb/> Board.</p>
-				<p rend="align(center)">IV.</p>
-				<p rend="align(center)">Of the Treasurer.</p>
-			<p rend="indent(1)">SEC. 1.  The Treasurer shall have charge of<lb/> all the funds&#44; keep accurate account of the re&#45;<lb/>ceipts and expenditures thereof&#44; and pay out no<lb/> money except upon orders properly signed by<lb/> the President&#44; Vice President or Chairman of<lb/> the Board of Direction&#44; as the case may be.<lb/>  He shall give such security for the faithful per&#45;<lb/>formance of his duties as the Board may ap&#45;<lb/>prove.  He shall have power to appoint a sub&#45;<lb/>stitute&#44; &#40;for whom he and his sureties shall be<lb/> bound&#44;&#41; if he absents himself from the city<lb/> during his term of office.  He shall inform the<lb/> Secretary from time to time&#44; of all monies paid<lb/> to him direct&#44; other than such as are received<lb/> from the Secretary.  His accounts shall be<lb/> audited in <date>October</date>&#44; <date>January</date>&#44; <date>April</date> and <date>July</date><lb/> of each year&#44; by a Committee to be appointed<lb/> each time for that purpose.  The Committee</p>
-			<pb n="8R"/>
-				<p rend="align(right)">15</p>
-				<p rend="align(center)">BY&#45;LAWS.</p>
-				<p>for the month of <date>April</date> shall report upon the<lb/> Treasurer&#39;s account at the annual meeting.</p>
-				<p rend="align(center)">V.</p>
-				<p rend="align(center)">Of the Recording Secretary.</p>
-			<p rend="indent(1)">SEC. 1.  The Recording Secretary shall keep<lb/> correct minutes of the proceedings of the As&#45;<lb/>sociation&#44; and of the Board&#44; issue notices&#44; and<lb/> perform such other duties as are usually con&#45;<lb/>nected with the office&#44; not specified in the fol&#45;<lb/>lowing section.</p>
-				<p rend="align(center)">VI.</p>
-				<p rend="align(center)">Of the Secretary.</p>
-			<p rend="indent(1)">SEC. 1.  The Secretary shall have charge of<lb/> the accounts&#44; and make out all bills for collec&#45;<lb/>tion.  All bills not promptly paid shall be re&#45;<lb/>turned by the messenger&#44; also monies collected<lb/> shall be paid to the Secretary upon his receipt&#44;<lb/> who shall immediately pay it to the Treasurer&#44;<lb/> and charge him with it&#44; taking his receipt<lb/> for the same.  All orders shall be drawn in<lb/> duplicate&#59; and the original check shall state<lb/> the date&#44; name&#44; in whose favor&#44; by whom sign&#45;<lb/>ed&#44; and for what purpose the order was drawn.</p>
-				<p rend="align(center)">VII.</p>
-				<p rend="align(center)">Of the Messenger.</p>
-			<p rend="indent(1)">SEC. 1.  The Board shall have power to elect</p>
-			<pb n="8V"/>
-				<p>16</p>
-				<p rend="align(center)">BY&#45;LAWS.</p>
-				<p>a Messenger&#44; and pay him such compensation<lb/> as they may deem proper for his services&#44; and<lb/> they shall likewise take such security as they<lb/> may deem sufficient for the faithful perform&#45;<lb/>ance of his duties&#44; which shall be designated<lb/> by the Board.</p>
-				<p rend="align(center)">VIII.</p>
-				<p rend="align(center)">Board of Direction.</p>
-			<p rend="indent(1)">SEC. 1.  During the months of <date>November</date>&#44;<lb/> <date>December</date>&#44; <date>January</date>&#44; <date>February</date>&#44; <date>March</date> and <date>April</date><lb/> there shall be weekly sessions of the Board&#44; and<lb/> during the remaining months they shall meet<lb/> alternately every second week.</p>
-			<p rend="indent(1)">SEC. 2.  The Board shall elect its own Chair&#45;<lb/>man&#44; who shall have the same powers as the<lb/> Vice President in his absence.  He shall also<lb/> have the power to sign orders for benefactions<lb/> granted by the Board&#44; &#40;except money&#44;&#41; unless<lb/> in the absence from the city or sickness of both<lb/> President and Vice President.</p>
-			<p rend="indent(1)">SEC. 3.  The Board shall have power to adopt<lb/> such regulations for their government as may<lb/> be expedient for the systematic distribution of<lb/> charity&#44; not inconsistent with the Constitution.<lb/>  They shall have power to make contracts for<lb/> the delivery of the benefactions upon their<lb/> orders&#44; rent a suitable central station&#44; and<lb/> shall engage not less than two physicians.</p>
-			<pb n="9R"/>
-				<p rend="align(right)">17</p>
-				<p rend="align(center)">BY&#45;LAWS.</p>
-			<p rend="indent(1)">SEC. 4.  If deemed convenient for the better<lb/> transaction of business&#44; the Board may divide<lb/> itself into Committees&#44; for the purpose of ap&#45;<lb/>portioning to them the duties developing on it<lb/> under the Constitution.  If other Committees<lb/> are needed they may be appointed&#44; and special<lb/> powers delegated to them from time to time.</p>
-			<p rend="indent(1)">SEC. 5.  The Board of Direction shall have<lb/> power to fill any vacancy that may occur until<lb/> the next election.</p>
-			<p rend="indent(1)">SEC. 6.  Five members shall constitute a quo&#45;<lb/>rum of the Board.</p>
-				<p rend="align(center)">IX.</p>
-				<p rend="align(center)">Of the Board of Visitors.</p>
-			<p rend="indent(1)">SEC. 1.  There shall also be a Board of Visit&#45;<lb/>ors of not less than thirty&#45;five males and twen&#45;<lb/>ty&#45;one females&#44; to be selected by the Board of<lb/> Direction for the various districts into which<lb/> they may divide the city&#44; or as occasion may<lb/> require.</p>
-				<p rend="align(center)">X.</p>
-				<p rend="align(center)">Of the Benefactions.</p>
-			<p rend="indent(1)">SEC. 1.  The benefactions shall consist of gro&#45;<lb/>ceries&#44; flour&#44; bread&#44; meat&#44; fuel&#44; clothing&#44; bed&#45;<lb/>ding&#44; furniture&#44; materials for work&#44; medical<lb/> attendance&#44; nurses in case of necessity&#44; and<lb/> money.</p>
-			<pb n="9V"/>
-				<p>18</p>
-				<p rend="align(center)">BY&#45;LAWS.</p>
-			<p rend="indent(1)">SEC. 2.  No relief shall be granted except on<lb/> the recommendation of not less than two visit&#45;<lb/>ors for the district wherein the applicant may<lb/> reside.  In case of emergency&#44; the President<lb/> may grant relief not exceeding three dollars&#44; to<lb/> be reported to the Board at their first meeting<lb/> thereafter.</p>
-			<p rend="indent(1)">SEC. 3.  No appropriation for funeral ex&#45;<lb/>penses&#44; house rent&#44; or <sic>travelling</sic> expenses&#44; shall<lb/> be made by the Board&#44; unless the same has<lb/> been <sic>refered</sic> to a special committee of three<lb/> for investigation&#44; who shall report to the Board<lb/> before making an appropriation&#44; except in case<lb/> of emergency&#44; the Board may delegate to them<lb/> power to act&#44; and in no case shall the amount<lb/> exceed twenty dollars&#59; but no appropriation<lb/> for graves shall be made to any congregation<lb/> or society&#44; while free burial can be obtained in<lb/> any Jewish burial ground in this city.</p>
-				<p rend="align(center)">XI.</p>
-				<p rend="align(center)">Of Members.</p>
-			<p rend="indent(1)">SEC. 1.  No member one year in arrears shall<lb/> be allowed to vote or hold office.</p>
-			<p rend="indent(1)">SEC. 2.  A member wishing to resign must<lb/> do so in writing&#44; and must have paid up all<lb/> arrears.</p>
-			<p rend="indent(1)">SEC. 3.  Any member not paying his annual<lb/> subscription for two years&#44; or refusing to pay</p>
-			<pb n="10R"/>
-				<p rend="align(right)">19</p>
-				<p rend="align(center)">BY&#45;LAWS.</p>
-				<p>his fines&#44; may be expelled by the Board&#44; unless<lb/> excused by them or the fines remitted.</p>
-				<p rend="align(center)">XII.</p>
-				<p rend="align(center)">Of Special Meetings.</p>
-			<p rend="indent(1)">SEC. 1.  The President shall convene the As&#45;<lb/>sociation whenever five members of the Board<lb/> of Direction&#44; or any ten members of the Asso&#45;<lb/>ciation shall require it&#44; provided such applica&#45;<lb/>tion be made in writing.</p>
-				<p rend="align(center)">XIII.</p>
-				<p rend="align(center)">Of a Quorum.</p>
-			<p rend="indent(1)">SEC. 1.  At all meetings of the Association<lb/> it shall require fifteen members to constitute a<lb/> quorum&#44; for the transaction of business.</p>
-				<p rend="align(center)">XIV.</p>
-				<p rend="align(center)">Of Fines.</p>
-			<p rend="indent(1)">SEC. 1.  The following fines may be enforced&#58;</p>
-				<p>A member refusing to serve as President&#44;&#8212;&#36;10&#44;00</p>
-				<p>A member refusing to serve as Vice Presi&#45;<lb/>dent&#44; Treasurer&#44; Secretary&#44; or Record&#45;<lb/>ing Secretary&#44; &#8212;&#8212;&#8212;&#45; 5&#44;00</p>
-				<p>A member refusing to serve on the Board<lb/> of Managers&#44; &#8212;&#8212;&#8212;&#45; 5&#44;00</p>
-				<p>A member signing a call for a special<lb/> meeting and neglecting to attend&#44; &#8212; 3&#44;00</p>
-				<p>Behaving unbecomingly at a meeting&#44; &#8212; 1&#44;00</p>
-				<p>Second <sic>offence</sic>&#44; &#8212;&#8212;&#8212;&#45; 2&#44;00</p>
-				<p>Leaving a meeting without permission&#44; &#8212; 2&#44;00</p>
-			<pb n="10V"/>
-				<p>20</p>
-				<p rend="align(center)">BY&#45;LAWS.</p>
-				<p rend="align(center)">XV.</p>
-				<p rend="align(center)">Of Alterations.</p>
-			<p rend="indent(1)">No By&#45;Law shall be enacted&#44; amended or<lb/> repealed&#44; unless the proposition be made at<lb/> one meeting and adopted at another&#44; by a vote<lb/> of two&#45;thirds of the members present&#44; due no&#45;<lb/>tice of said contemplated change to be given<lb/> by the Secretary.</p>
-			<pb n="11R"/>
-				<p rend="align(center)">Officers.</p>
-				<p rend="align(center)">&#95;&#95;&#95;</p>
-				<p rend="align(center)">Elected <date>May 6th&#44; 1860</date>.</p>
-				<p rend="align(center)">&#95;&#95;&#95;</p>
-				<p rend="align(center)">PRESIDENT&#44;</p>
-				<p rend="align(center)"><persName>SOLOMON TELLER</persName>.</p>
-				<p rend="align(center)">VICE PRESIDENT&#44;</p>
-				<p rend="align(center)"><persName>CHARLES BLOOMINGDALE</persName>.</p>
-				<p rend="align(center)">TREASURER&#44;</p>
-				<p rend="align(center)"><persName>M. A. MITCHELL</persName>.</p>
-				<p rend="align(center)">RECORDING SECRETARY&#44;</p>
-				<p rend="align(center)"><persName>WILLIAM B. HACKENBURG</persName>.</p>
-				<p rend="align(center)">SECRETARY&#44;</p>
-				<p rend="align(center)"><persName>HENRY S. FRANK</persName>.</p>
-				<p rend="align(center)">MANAGERS&#44;</p>
-				<table rows="5" cols="2">
-				<row>
-				<cell><persName>JOSEPH EINSTEIN</persName>&#44; <hi rend="italics">Chm.</hi></cell>
-				<cell><persName>ABRAHAM S. WOLF</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>SIMON W. ARNOLD</persName>&#44;</cell>
-				<cell><persName>ALFRED T. JONES</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>SIMON STERNBERGER</persName>&#44;</cell>
-				<cell><persName>SELIGMAN ABELES</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>LAZARUS MAYER</persName>&#44;</cell>
-				<cell><persName>JACOB MAYER</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>HENRY DEBOER</persName>&#44;</cell>
-				<cell><persName>DAVID ETTINGER</persName>.</cell>
-				</row>
-				</table>
-				<p rend="align(center)">PHYSICIANS&#44;</p>
-				<p rend="align(center)"><persName>DR. PHILIP DE YOUNG</persName>&#44;<persName>DR. MORRIS M. ASCH</persName>&#44;</p>
-				<p rend="align(center)"><persName>DR. A. C. BOURNONVILLE</persName>&#44;</p>
-				<p rend="align(center)">MESSENGER&#44;</p>
-				<p rend="align(center)"><persName>H. HIRSHBERG</persName>.</p>
-			<pb n="11V"/>
-				<p rend="align(center)">List of Members&#44;</p>
-				<p rend="align(center)"><date>Nov. 1st&#44; 1860</date>.</p>
-				<table rows="30" cols="2">
-				<row>
-				<cell><persName>Mayer Arnold</persName>&#44;</cell>
-				<cell><persName>Jacob Cauffman</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>S. W. Arnold</persName>&#44;</cell>
-				<cell><persName>Henry DeBoer</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>H. W. Arnold</persName>&#44;</cell>
-				<cell><persName>Moses A. Dropsie</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>E. W. Arnold</persName>&#44;</cell>
-				<cell><persName>Joseph Dryfoos</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>Emanuel Arnold</persName>&#44;</cell>
-				<cell><persName>Abram Dryfoos</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>Simon Arnold</persName>&#44;</cell>
-				<cell><persName>S. Dryfoos</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>M. Anathan</persName>&#44;</cell>
-				<cell><persName>Lewis DeHaan</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>B. Abeles</persName>&#44;</cell>
-				<cell><persName>Joseph Einstein</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>Seligman Abeles</persName>&#44;</cell>
-				<cell><persName>Henry Einstein</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>Lewis M. Allen</persName>&#44;</cell>
-				<cell><persName>M. Einstein</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>Charles C. Allen</persName>&#44;</cell>
-				<cell><persName>A. A. Ezekiel</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>Henry S. Allen</persName>&#44;</cell>
-				<cell><persName>David Eger</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>M. M. Allen</persName>&#44;</cell>
-				<cell><persName>David Ettinger</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>L. Aronheimer</persName>&#44;</cell>
-				<cell><persName>L. Ellinger</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>Jacob Aub</persName>&#44;</cell>
-				<cell><persName>E. Ephraim</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>S. Adler</persName>&#44;</cell>
-				<cell><persName>Samuel Frank</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>J. M. Asch</persName>&#44;</cell>
-				<cell><persName>Max Friedman</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>A. Ancker</persName>&#44;</cell>
-				<cell><persName>Joseph Feldman</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>C. Bloomingdale</persName>&#44;</cell>
-				<cell><persName>Henry Frank</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>I. Binswanger</persName>&#44;</cell>
-				<cell><persName>Mayer Frank</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>Moses Becker</persName>&#44;</cell>
-				<cell><persName>William Florence</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>J. S. Baumberger</persName>&#44;</cell>
-				<cell><persName>B. H. Feustman</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>J. Blum</persName>&#44;</cell>
-				<cell><persName>Mayer Fleisher</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>S. Blum</persName>&#44;</cell>
-				<cell><persName>S. Fernberger</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>A. Brummer</persName>&#44;</cell>
-				<cell><persName>Rev. I. Frankel</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>S. Bernheim</persName>&#44;</cell>
-				<cell><persName>H. Gunsenhauser</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>Gabriel Baum</persName>&#44;</cell>
-				<cell><persName>Solomon Gans</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>M. Bernheim</persName>&#44;</cell>
-				<cell><persName>Solomon Gans&#44; Sr.</persName></cell>
-				</row>
-				<row>
-				<cell><persName>Marcus Cauffman</persName>&#44;</cell>
-				<cell><persName>Mayer Gans</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>August Cohn</persName>&#44;</cell>
-				<cell><persName>Daniel Gans</persName>&#44;</cell>
-				</row>
-				</table>
-			<pb n="12R"/>
-				<p rend="align(right)">23</p>
-				<p rend="align(center)">LIST OF MEMBERS.</p>
-				<table rows="38" cols="2">
-				<row>
-				<cell><persName>Philip Goldsmith</persName>&#44;</cell>
-				<cell><persName>Henry Marcus</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>S. A. Gump</persName>&#44;</cell>
-				<cell><persName>M. A. Mitchell</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>Ferdinand Greenawald</persName>&#44;</cell>
-				<cell><persName>Michael Moyer</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>H. Greenabaum</persName>&#44;</cell>
-				<cell><persName>Lazarus Mayer</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>Abm. Greenabaum</persName>&#44;</cell>
-				<cell><persName>Jacob Mayer</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>Marx Greenawald</persName>&#44;</cell>
-				<cell><persName>Levi Mayer</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>Wm. Goldstein</persName>&#44;</cell>
-				<cell><persName>Jacob Mayer&#44; Jr.</persName></cell>
-				</row>
-				<row>
-				<cell><persName>Mayer Gotthelf</persName>&#44;</cell>
-				<cell><persName>Jacob May</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>M. Goldman</persName>&#44;</cell>
-				<cell><persName>Theodore Mindil</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>M. Geiershoffer</persName>&#44;</cell>
-				<cell><persName>Henry Mayer</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>Wm. B. Hackenburg</persName>&#44;</cell>
-				<cell><persName>Samuel Mayer</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>Nathan Hays</persName>&#44;</cell>
-				<cell><persName>Joseph Mayer</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>Simon Heiter</persName>&#44;</cell>
-				<cell><persName>L. E. Moss</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>Solomon L. Haas</persName>&#44;</cell>
-				<cell><persName>Rev. S. Morais</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>Leopold Hirsh</persName>&#44;</cell>
-				<cell><persName>Allen Mitchell</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>Leon Hirsh</persName>&#44;</cell>
-				<cell><persName>Joseph L. Moss</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>Henry Heller</persName>&#44;</cell>
-				<cell><persName>Lucien Moss</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>L. Hecht</persName>&#44;</cell>
-				<cell><persName>Ernst Nusbaum</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>S. Hecht</persName>&#44;</cell>
-				<cell><persName>John Nusbaum</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>Samuel Hunt</persName>&#44;</cell>
-				<cell><persName>Jacob Nirdlinger</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>L. Hochstadter</persName>&#44;</cell>
-				<cell><persName>Joseph Newhouse</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>Charles Hochstader</persName>&#44;</cell>
-				<cell><persName>Rev. S. C. Noot</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>Abraham Hart</persName>&#44;</cell>
-				<cell><persName>Solomon Oelsner</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>H. Hirshberg</persName>&#44;</cell>
-				<cell><persName>Abrm. Oppenheimer</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>Gustav Isaac</persName>&#44;</cell>
-				<cell><persName>M. Picare</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>Alfred T. Jones</persName>&#44;</cell>
-				<cell><persName>John Ponder</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>Abraham Kahn</persName>&#44;</cell>
-				<cell><persName>Rev. Gabriel Pape</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>Adolf Klopfer</persName>&#44;</cell>
-				<cell><persName>Isaac Rhine</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>Rev. I. Leeser</persName>&#44;</cell>
-				<cell><persName>M. Rosenbach</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>Jacob Langsdorf</persName>&#44;</cell>
-				<cell><persName>F. J. Rosenberg</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>B. Lieber</persName>&#44;</cell>
-				<cell><persName>Henry Rau</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>Lewis Lang</persName>&#44;</cell>
-				<cell><persName>Joseph Rau</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>J. Levy</persName>&#44;</cell>
-				<cell><persName>Isaac Rheinstrom</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>M. B. Loeb</persName>&#44;</cell>
-				<cell><persName>Joseph Rosenbaum</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>Aug. B. Loeb</persName>&#44;</cell>
-				<cell><persName>Rudolph Stein</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>L. Lipser</persName>&#44;</cell>
-				<cell><persName>Simon Sternberger</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>Charles Lauferty</persName>&#44;</cell>
-				<cell><persName>Lazarus Shloss</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>Jacob Lyons</persName>&#44; &#40;<placeName>N. C.</placeName>&#41;</cell>
-				<cell><persName>H. Shloss</persName>&#44;</cell>
-				</row>
-				</table>
-			<pb n="12V"/>
-				<p>24</p>
-				<p rend="align(center)">LIST OF MEMBERS.</p>
-				<table rows="16" cols="2">
-				<row>
-				<cell><persName>B. Strouse</persName>&#44;</cell>
-				<cell><persName>David Teller</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>Henry Simson</persName>.</cell>
-				<cell><persName>R. Teller</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>Lewis Seidenbach</persName>&#44;</cell>
-				<cell><persName>M. Troutman</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>M. Seidenbach</persName>.</cell>
-				<cell><persName>A. Voge</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>J. Strook</persName>&#44;</cell>
-				<cell><persName>J. Vendig</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>A. Sondheim</persName>&#44;</cell>
-				<cell><persName>Rev. H. Vidaver</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>Moses Sternberger</persName>&#44;</cell>
-				<cell><persName>M. Vogel</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>Julius Stern</persName>&#44;</cell>
-				<cell><persName>A. S. Wolf</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>Emanuel Strouse</persName>&#44;</cell>
-				<cell><persName>Moses Weiler</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>F. Strouse</persName>&#44;</cell>
-				<cell><persName>Elias Wolf</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>Isaac Saller</persName>&#44;</cell>
-				<cell><persName>Abraham Wolf</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>David Salomon</persName>&#44;</cell>
-				<cell><persName>L. Walker</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>Levi Strouse</persName>&#44;</cell>
-				<cell><persName>Herman Weiler</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>J. Selig</persName>&#44;</cell>
-				<cell><persName>Isaac Wolf</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>Solomon Teller</persName>&#44;</cell>
-				<cell><persName>Abraham Weill</persName>&#44; &#40;<placeName>N. C.</placeName>&#41;</cell>
-				</row>
-				<row>
-				<cell><persName>E. Teller</persName>&#44;</cell>
-				<cell/>
-				</row>
-				</table>
-			<pb n="Back Cover"/>
-				<p rend="align(center)"><add>Hebrew</add></p>
-				<p rend="align(center)">He that is liberal to the poor lendeth<lb/> unto the Lord&#44; and his good deed will he<lb/> repay unto him.&#8212;PROV. xix. 17.</p>
-		</body>
-	</text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>Constitution and By Laws of the United Hebrew Relief Association of
+                    Philadelphia</title>
+                <author accepted="yes" attested="yes" signature="unk">Hebrew Relief Association of
+                    Philadelphia</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Stein and Jones, Printers</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>LSKAP</repository>
+                        <collection>The Arnold and Deanne Kaplan Collection of Early American
+                            Judaica</collection>
+                        <idno>LSKAP13-1135</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="unk">Hebrew Relief
+                            Association of Philadelphia</author>
+                        <addressee accepted="yes" attested="yes" editor="false"/>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1860">1860</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="leeser_13_1135_1.jpg"/>
+                                <graphic url="leeser_13_1135_2.jpg"/>
+                                <graphic url="leeser_13_1135_3.jpg"/>
+                                <graphic url="leeser_13_1135_4.jpg"/>
+                                <graphic url="leeser_13_1135_5.jpg"/>
+                                <graphic url="leeser_13_1135_6.jpg"/>
+                                <graphic url="leeser_13_1135_7.jpg"/>
+                                <graphic url="leeser_13_1135_8.jpg"/>
+                                <graphic url="leeser_13_1135_9.jpg"/>
+                                <graphic url="leeser_13_1135_10.jpg"/>
+                                <graphic url="leeser_13_1135_11.jpg"/>
+                                <graphic url="leeser_13_1135_12.jpg"/>
+                                <graphic url="leeser_13_1135_13.jpg"/>
+                                <graphic url="leeser_13_1135_14.jpg"/>
+                                <graphic url="leeser_13_1135_15.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >pamphlet</material>
+                                </support>
+                                <extent>25 pages on 15 sheets <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="restricted">
+                                <p>Restricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="he">Hebrew</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="Front Cover"/>
+            <p rend="align(center)">CONSTITUTION</p>
+            <p rend="align(center)">AND</p>
+            <p rend="align(center)">BY-LAWS</p>
+            <p rend="align(center)">OF</p>
+            <p rend="align(center)">THE UNITED</p>
+            <p rend="align(center)">
+                <persName role="author">Hebrew Relief Association</persName>
+            </p>
+            <p rend="align(center)">OF</p>
+            <p rend="align(center)"><placeName>PHILADELPHIA</placeName>.</p>
+            <p rend="align(center)"><placeName>PHILADELPHIA</placeName>.</p>
+            <p rend="align(center)"><persName>STEIN &amp; JONES</persName>, PRS., <placeName>S. E.
+                    COR. THIRD AND CHESTNUT STS.</placeName></p>
+            <p rend="align(center)"><date>1860</date>.</p>
+            <pb n="1R"/>
+            <p rend="align(center)">CONSTITUTION</p>
+            <p rend="align(center)">AND</p>
+            <p rend="align(center)">BY-LAWS</p>
+            <p rend="align(center)">OF</p>
+            <p rend="align(center)">THE UNITED</p>
+            <p rend="align(center)"><persName role="author">Hebrew Relief
+                Association</persName>,</p>
+            <p rend="align(center)"><placeName>PHILADELPHIA</placeName>.</p>
+            <p rend="align(center)">Organized <date>April 18th, 1858—Iyar 4th, 5618</date>,</p>
+            <p rend="align(center)">Incorporated <date>September 17th, 1860</date>.</p>
+            <p rend="align(center)">______</p>
+            <p rend="align(center)"><placeName>PHILADELPHIA</placeName>.</p>
+            <p rend="align(center)"><persName>STEIN &amp; JONES</persName>, PRS., <placeName>S. E.
+                    COR. THIRD AND CHESTNUT STS.</placeName></p>
+            <p rend="align(center)"><date>1860</date>.</p>
+            <p rend=" There is a oval shaped, blue stamp over the center of the page that reads:"
+                    ><persName>LEESER</persName> LIBRARY,<lb/> HEBREW<lb/> EDUCATION SOCIETY.</p>
+            <pb n="2R"/>
+            <p rend="align(center)">PREAMBLE.</p>
+            <p rend="align(center)">__</p>
+            <p rend="indent(1)">WHEREAS, the Israelites of <placeName>Philadelphia</placeName>,<lb/>
+                have observed with regret that the poor and<lb/> helpless of their persuasion are
+                increasing<lb/> from year to year, while the relief distributed<lb/> by existing
+                societies is inadequate to the as-<lb/>sistance required; and, in view of a more
+                pro-<lb/>per supervision of our poor, to more effectually<lb/> relieve the sick, to
+                prevent imposition, and by<lb/> timely and adequate aid to bring them from a<lb/>
+                state of dependence; we, the subscribers, feel-<lb/>ing that the care of the poor is
+                a duty obliga-<lb/>tory on all having the means of aiding others,<lb/> have formed
+                ourselves into a new organization,<lb/> under the following Constitution.</p>
+            <p>3</p>
+            <pb n="2V"/>
+            <p rend="align(center)">Constitution.</p>
+            <p rend="align(center)">___</p>
+            <p rend="align(center)">ARTICLE I.</p>
+            <p rend="indent(1)">The name, style and title of this organiza-<lb/>tion shall be "THE
+                UNITED <persName role="author">HEBREW RELIEF<lb/> ASSOCIATION OF
+                        <placeName>PHILADELPHIA</placeName></persName>."</p>
+            <p rend="align(center)">ARTICLE II.</p>
+            <p rend="indent(1)">SECT. 1. The object of this Association shall<lb/> be to grant
+                temporary relief to poor and help-<lb/>less Israelites, who reside in our midst,
+                under<lb/> such regulations and restrictions as may here-<lb/>after be adopted.</p>
+            <p rend="indent(1)">SECT. 2. The Association shall have power<lb/> to establish an
+                asylum for the aged, infirm and<lb/> destitute, and such other establishment as
+                may<lb/> be expedient for the employment and improve-<lb/>ment of adults and youths
+                for whom such ben-<lb/>efits are sought, and under such regulations<lb/> and
+                restrictions as may hereafter be adopted.</p>
+            <p rend="align(center)">ARTICLE III.</p>
+            <p rend="indent(1)">SECT. 1. The funds of the Association shall<lb/> be derived from
+                dues, annual subscriptions,</p>
+            <pb n="3R"/>
+            <p rend="align(right)">5</p>
+            <p rend="align(center)">CONSTITUTION.</p>
+            <p>donations, legacies and contributions from such<lb/> Societies and Congregations as
+                may unite with<lb/> it for purposes of charity.</p>
+            <p rend="align(center)">ARTICLE IV.</p>
+            <p rend="indent(1)">SECT. 1. Any male Israelite over twenty-one<lb/> years of age,
+                desiring to become a member,<lb/> can apply or be proposed to the Board of
+                Di-<lb/>rection, and when declared elected, can, after<lb/> signing the
+                Constitution, vote at all meetings<lb/> held by the Association, and be eligible to
+                the<lb/> various offices.</p>
+            <p rend="indent(1)">SECT. 2. Every member must pay five dollars<lb/> yearly in advance,
+                as dues to the Association,<lb/> and any member paying ten years dues in
+                ad-<lb/>vance shall be declared a life member.</p>
+            <p rend="align(center)">ARTICLE V.</p>
+            <p rend="indent(1)">SECT. 1. A stated meeting of this Association<lb/> shall be held in
+                each and every year after its<lb/> organization, on the <date>first Sunday of
+                    May</date>, at<lb/> which the election for officers shall be held,<lb/> and if
+                from any cause no election takes place,<lb/> the officers of the preceding year
+                shall continue<lb/> until a new election can be held, at a special<lb/> meeting to
+                be convened for the purpose, which</p>
+            <pb n="3V"/>
+            <p>6</p>
+            <p rend="align(center)">CONSTITUTION.</p>
+            <p>it shall be the duty of the President to convene<lb/> as soon as practicable.</p>
+            <p rend="indent(1)">SECT. 2. The election for officers shall be by<lb/> ballot, and it
+                shall require for an election a<lb/> majority of all the votes polled on the
+                first<lb/> ballot, after that a plurality cast for any one<lb/> candidate shall be
+                sufficient to elect him.</p>
+            <p rend="align(center)">ARTICLE VI.</p>
+            <p rend="indent(1)">SECT. 1. The officers shall consist of a Presi-<lb/>dent, Vice
+                President, Recording Secretary,<lb/> Secretary, Treasurer and ten Managers, who<lb/>
+                shall constitute a Board of Direction, which<lb/> number may be increase as
+                hereinafter pro-<lb/>vided for.</p>
+            <p rend="align(center)">ARTICLE VII.</p>
+            <p rend="indent(1)">SECT. 1. Any Jewish Congregation or Society<lb/> contributing at
+                least one hundred dollars an-<lb/>nually to the funds of the Association, shall
+                be<lb/> entitled to send one delegate to the Board of<lb/> Managers, who shall have
+                the same powers<lb/> and privileges as may be <sic>confered</sic> by the<lb/>
+                By-Laws upon the members thereof elected by<lb/> the Society.</p>
+            <p rend="indent(1)">SECT. 2. There shall be created a <hi rend="italics">Special</hi><lb/>
+                <hi rend="italics">Fund</hi> from such contributions, legacies, or<lb/> otherwise,
+                as may be donated specially for</p>
+            <pb n="4R"/>
+            <p rend="align(right)">7</p>
+            <p rend="align(center)">CONSTITUTION.</p>
+            <p>purposes as contained in Article 2, Section 2,<lb/> and said fund, nor any part
+                thereof, shall be<lb/> applied for any other purpose whatever; nor<lb/> until it
+                shall amount to the sum of <hi rend="italics">fifteen</hi><lb/>
+                <hi rend="italics">thousand dollars</hi>. This fund shall be invested<lb/> in the
+                bonds of the State of <placeName>Pennsylvania</placeName> or<lb/>
+                <placeName>New York</placeName>, or the City of
+                <placeName>Philadelphia</placeName>.</p>
+            <p rend="indent(1)">SECT. 3. Any Israelite not a member of this<lb/> Association,
+                donating the amount of two hun-<lb/>dred dollars or more to this special fund,
+                shall<lb/> be a life Governor of the Asylum when estab-<lb/>lished, and a member of
+                the Board having it<lb/> in charge. The same honor and privilege shall<lb/> be
+                granted to members donating one hundred<lb/> and fifty dollars.</p>
+            <p rend="align(center)">ARTICLE VIII.</p>
+            <p rend="indent(1)">SECT. 1. This Association shall have power<lb/> to make such By-Laws
+                for their government<lb/> as they may deem necessary, not conflicting<lb/> with this
+                Constitution.</p>
+            <p rend="align(center)">ARTICLE IX.</p>
+            <p rend="indent(1)">SECT. 1. No part of this Constitution shall<lb/> be altered or
+                amended, or addition made there-<lb/>to, unless the proposition be made at a
+                general<lb/> meeting, and adopted by another, (to be called<lb/> for that especial
+                purpose) by the consent of</p>
+            <pb n="4V"/>
+            <p>8</p>
+            <p rend="align(center)">CONSTITUTION.</p>
+            <p>two-thirds of the members present, and it shall<lb/> be the duty of the Secretary to
+                insert in the<lb/> notices to the members the proposed alteration<lb/> &amp;c., in
+                full.</p>
+            <p rend="align(right)"><persName>ISAAC LEESER</persName>,</p>
+            <p rend="align(right)"><persName>SIMON W. ARNOLD</persName>,</p>
+            <p rend="align(right)"><persName>ALFRED T. JONES</persName>,</p>
+            <p rend="align(right)"><persName>JOSEPH EINSTEIN</persName>,</p>
+            <p rend="align(right)"><persName>SELIGMAN ABELES</persName>,</p>
+            <p rend="align(right)"><persName>ADOLF KLOPFER</persName>,</p>
+            <p rend="align(right)"><persName>SOLOMON TELLER</persName>,</p>
+            <p rend="align(right)"><persName>H. GUNSENHAUSER</persName>,</p>
+            <p rend="align(right)"><persName>LAZARUS MAYER</persName>,</p>
+            <p rend="align(right)"><persName>SIMON STERNBERGER</persName>,</p>
+            <p rend="align(right)"><persName>C. BLOOMINGDALE</persName>,</p>
+            <p rend="align(right)"><persName>WM. B. HACKENBURG</persName>,</p>
+            <p rend="align(right)"><persName>HENRY S. FRANK</persName>.</p>
+            <p>Examined and approved</p>
+            <p rend="indent(1)"><date>July 3d, 1860</date>.</p>
+            <p rend="indent(2)">(<hi rend="italics">Signed,</hi>)</p>
+            <p rend="indent(3)"><persName>JOSEPH ALLISON</persName>.</p>
+            <pb n="5R"/>
+            <p rend="align(center)">Charter.</p>
+            <p rend="align(center)">___</p>
+            <p rend="indent(1)">STATE OF <placeName>PENNSYLVANIA</placeName>,</p>
+            <p><hi rend="italics">City and County of <placeName>Philadelphia</placeName>.
+                </hi>ss.</p>
+            <p rend="indent(1)">Be it Remembered, That at a Court of Com-<lb/>mon Pleas for said
+                City and County, held at<lb/>
+                <placeName>Philadelphia</placeName>, on the <date>third day of July, one<lb/>
+                    thousand eight hundred and sixty</date>, the fore-<lb/>going instrument of
+                writing or Charter of In-<lb/>corporation, was presented to the said Court,<lb/> on
+                behalf the persons therein named, in order<lb/> that they and their associates might
+                be incor-<lb/>porated according to law. WHEREUPON, on<lb/> motion of <persName>Moses
+                    A. Dropsie, Esq.</persName>, the Court<lb/> ordered that the same be filed, and
+                that publi-<lb/>cation of such application be given by adver-<lb/>tisement according
+                to law.</p>
+            <p rend="indent(1)">AND NOW, this <date>seventeenth day of September,<lb/> 1860</date>,
+                due proof being exhibited to the Court of<lb/> the publication of notice, and they
+                having ex-<lb/>amined said Instrument of writing, and being<lb/> satisfied
+                therewith, and no cause being shown<lb/> to the contrary, the Court ORDER and
+                DECREE<lb/> that the persons whose names are thereto sub-<lb/>scribed, and their
+                associates, shall become and</p>
+            <pb n="5V"/>
+            <p>10</p>
+            <p rend="align(center)">CHARTER.</p>
+            <p>be a Corporation or body politic in law and in<lb/> fact, agreeably to the articles
+                and conditions in<lb/> the foregoing Instrument contained, and that<lb/> the same be
+                recorded in the office for Recording<lb/> Deeds, in and for the said City and
+                County, ac-<lb/>cording to the Act of Assembly.</p>
+            <p>SEAL. IN TESTIMONY WHEREOF, I, <persName>Charles<lb/> D. Knight</persName>,
+                Prothonotary of the Court<lb/> of Common Pleas, aforesaid, have here-<lb/>unto set
+                my hand and affixed the Seal<lb/> of the said Court, this <date>thirty-first day of
+                    Octo-<lb/>ber, in the year one thousand eight hundred and<lb/> sixty
+                    (1860.)</date></p>
+            <p rend="indent(1)">(Signed,)</p>
+            <p rend="indent(2)"><persName>CHAS. D. KNIGHT</persName>,</p>
+            <p rend="indent(3)"><hi rend="italics">Prothonotary</hi>.</p>
+            <pb n="6R"/>
+            <p rend="align(center)">By-Laws</p>
+            <p rend="align(center)">OF THE</p>
+            <p rend="align(center)">UNITED <persName role="author">HEBREW RELIEF
+                    ASSOCIATION</persName></p>
+            <p rend="align(center)">OF <placeName>PHILADELPHIA</placeName>.</p>
+            <p rend="align(center)">___</p>
+            <p rend="align(center)">I.</p>
+            <p rend="align(center)">Rules of Order.</p>
+            <p rend="indent(1)">SEC. 1. Half an hour after the time specified<lb/> in the notices
+                for calling the meeting, the Pres-<lb/>ident or other presiding officer shall take
+                the<lb/> chair.</p>
+            <p rend="indent(1)">SEC. 2. The roll shall be called.</p>
+            <p rend="indent(1)">SEC. 3. The Minutes of the preceding meet-<lb/>ing shall be read and
+                acted upon.</p>
+            <p rend="indent(1)">SEC. 4. Election of Officers, (if at a stated<lb/> meeting.)</p>
+            <p rend="indent(1)">SEC. 5. Communications to the Association<lb/> shall be read</p>
+            <p rend="indent(1)">SEC. 6. Reports of Committees or Officers<lb/> may be read.</p>
+            <p rend="indent(1)">SEC. 7. Unfinished business shall then be<lb/> in order.</p>
+            <p rend="indent(1)">SEC. 8. Election of members, if at a Board<lb/> meeting.</p>
+            <pb n="6V"/>
+            <p>12</p>
+            <p rend="align(center)">BY-LAWS.</p>
+            <p rend="indent(1)">SEC. 9. New business may be introduced.</p>
+            <p rend="indent(1)">SEC. 10. No motion shall be received unless<lb/> seconded, and if
+                requested by the Chair, shall<lb/> be reduced to writing.</p>
+            <p rend="indent(1)">SEC. 11. All reports shall be made in writing<lb/> and those of
+                Committees must be signed by a<lb/> majority of such Committee.</p>
+            <p rend="indent(1)">SEC. 12. The presiding Officer shall appoint<lb/> two tellers to
+                conduct all elections.</p>
+            <p rend="indent(1)">SEC. 13. The yeas and nays shall be taken<lb/> at the request of
+                four members at meetings of<lb/> the Association, and of two at meetings of the<lb/>
+                Board, and shall be entered on the minutes.</p>
+            <p rend="indent(1)">SEC. 14. At special meetings no business<lb/> shall be transacted
+                except that for which the<lb/> meeting is called.</p>
+            <p rend="indent(1)">SEC. 15. All votes shall be given <hi rend="italics">viva
+                voce</hi>,<lb/> unless otherwise provided for.</p>
+            <p rend="indent(1)">SEC. 16. No motion to re-consider shall be<lb/> received unless
+                moved and seconded by two<lb/> members, who voted with the majority on the<lb/>
+                original question; nor after the meeting next<lb/> following that at which the
+                resolution may<lb/> have been acted upon, unless by the unanimous<lb/> consent of
+                the members present.</p>
+            <p rend="indent(1)">SEC. 17. No member shall speak more than<lb/> twice on any one
+                subject, without leave from<lb/> the Chair.</p>
+            <pb n="7R"/>
+            <p rend="align(right)">13</p>
+            <p rend="align(center)">BY-LAWS.</p>
+            <p rend="indent(1)">SEC. 18. Every member at a meeting of the<lb/> Board or Association,
+                shall vote on all ques-<lb/>tions, unless excused by said meeting.</p>
+            <p rend="align(center)">II.</p>
+            <p rend="align(center)">Of the President.</p>
+            <p rend="indent(1)">SEC. 1. The President or other presiding offi-<lb/>cer shall appoint
+                all committees, and shall vote<lb/> on the revision of the Constitution or
+                By-Laws,<lb/> and on the election and expulsion of a member,<lb/> but in no other
+                case, except when equally<lb/> divided, when he shall have the casting vote.</p>
+            <p rend="indent(1)">SEC. 2. If he intend leaving the city for<lb/> more three days, he
+                is to notify the Vice Pres-<lb/>ident, and require of him to act in his place.</p>
+            <p rend="indent(1)">SEC. 3. He shall have the custody of the<lb/> corporate seal, and
+                all title deeds of the Asso-<lb/>ciation.</p>
+            <p rend="indent(1)">SEC. 4. He shall preside at all meetings of<lb/> the Association at
+                large. He shall sign all<lb/> orders for money, and may also sign orders<lb/> for
+                benefactions granted by the Board.</p>
+            <p rend="align(center)">III.</p>
+            <p rend="align(center)">Of the Vice President.</p>
+            <p rend="indent(1)">SEC. 1. The Vice President shall act in the<lb/> absence of the
+                President, but may at all times<lb/> sign orders for benefactions granted by the</p>
+            <pb n="7V"/>
+            <p>14</p>
+            <p rend="align(center)">BY-LAWS.</p>
+            <p>Board; and in the absence of both President<lb/> and Vice President, the Chairman of
+                the Board<lb/> shall be invested with the same powers and<lb/> privileges, but
+                nothing herein contained shall<lb/> be so construed, as to prevent the Chairman
+                of<lb/> the Board of Direction at any time from sign-<lb/>ing orders for
+                benefactions granted by the<lb/> Board.</p>
+            <p rend="align(center)">IV.</p>
+            <p rend="align(center)">Of the Treasurer.</p>
+            <p rend="indent(1)">SEC. 1. The Treasurer shall have charge of<lb/> all the funds, keep
+                accurate account of the re-<lb/>ceipts and expenditures thereof, and pay out no<lb/>
+                money except upon orders properly signed by<lb/> the President, Vice President or
+                Chairman of<lb/> the Board of Direction, as the case may be.<lb/> He shall give such
+                security for the faithful per-<lb/>formance of his duties as the Board may
+                ap-<lb/>prove. He shall have power to appoint a sub-<lb/>stitute, (for whom he and
+                his sureties shall be<lb/> bound,) if he absents himself from the city<lb/> during
+                his term of office. He shall inform the<lb/> Secretary from time to time, of all
+                monies paid<lb/> to him direct, other than such as are received<lb/> from the
+                Secretary. His accounts shall be<lb/> audited in <date>October</date>,
+                    <date>January</date>, <date>April</date> and <date>July</date><lb/> of each
+                year, by a Committee to be appointed<lb/> each time for that purpose. The
+                Committee</p>
+            <pb n="8R"/>
+            <p rend="align(right)">15</p>
+            <p rend="align(center)">BY-LAWS.</p>
+            <p>for the month of <date>April</date> shall report upon the<lb/> Treasurer's account at
+                the annual meeting.</p>
+            <p rend="align(center)">V.</p>
+            <p rend="align(center)">Of the Recording Secretary.</p>
+            <p rend="indent(1)">SEC. 1. The Recording Secretary shall keep<lb/> correct minutes of
+                the proceedings of the As-<lb/>sociation, and of the Board, issue notices, and<lb/>
+                perform such other duties as are usually con-<lb/>nected with the office, not
+                specified in the fol-<lb/>lowing section.</p>
+            <p rend="align(center)">VI.</p>
+            <p rend="align(center)">Of the Secretary.</p>
+            <p rend="indent(1)">SEC. 1. The Secretary shall have charge of<lb/> the accounts, and
+                make out all bills for collec-<lb/>tion. All bills not promptly paid shall be
+                re-<lb/>turned by the messenger, also monies collected<lb/> shall be paid to the
+                Secretary upon his receipt,<lb/> who shall immediately pay it to the Treasurer,<lb/>
+                and charge him with it, taking his receipt<lb/> for the same. All orders shall be
+                drawn in<lb/> duplicate; and the original check shall state<lb/> the date, name, in
+                whose favor, by whom sign-<lb/>ed, and for what purpose the order was drawn.</p>
+            <p rend="align(center)">VII.</p>
+            <p rend="align(center)">Of the Messenger.</p>
+            <p rend="indent(1)">SEC. 1. The Board shall have power to elect</p>
+            <pb n="8V"/>
+            <p>16</p>
+            <p rend="align(center)">BY-LAWS.</p>
+            <p>a Messenger, and pay him such compensation<lb/> as they may deem proper for his
+                services, and<lb/> they shall likewise take such security as they<lb/> may deem
+                sufficient for the faithful perform-<lb/>ance of his duties, which shall be
+                designated<lb/> by the Board.</p>
+            <p rend="align(center)">VIII.</p>
+            <p rend="align(center)">Board of Direction.</p>
+            <p rend="indent(1)">SEC. 1. During the months of <date>November</date>,<lb/>
+                <date>December</date>, <date>January</date>, <date>February</date>,
+                    <date>March</date> and <date>April</date><lb/> there shall be weekly sessions of
+                the Board, and<lb/> during the remaining months they shall meet<lb/> alternately
+                every second week.</p>
+            <p rend="indent(1)">SEC. 2. The Board shall elect its own Chair-<lb/>man, who shall have
+                the same powers as the<lb/> Vice President in his absence. He shall also<lb/> have
+                the power to sign orders for benefactions<lb/> granted by the Board, (except money,)
+                unless<lb/> in the absence from the city or sickness of both<lb/> President and Vice
+                President.</p>
+            <p rend="indent(1)">SEC. 3. The Board shall have power to adopt<lb/> such regulations
+                for their government as may<lb/> be expedient for the systematic distribution
+                of<lb/> charity, not inconsistent with the Constitution.<lb/> They shall have power
+                to make contracts for<lb/> the delivery of the benefactions upon their<lb/> orders,
+                rent a suitable central station, and<lb/> shall engage not less than two
+                physicians.</p>
+            <pb n="9R"/>
+            <p rend="align(right)">17</p>
+            <p rend="align(center)">BY-LAWS.</p>
+            <p rend="indent(1)">SEC. 4. If deemed convenient for the better<lb/> transaction of
+                business, the Board may divide<lb/> itself into Committees, for the purpose of
+                ap-<lb/>portioning to them the duties developing on it<lb/> under the Constitution.
+                If other Committees<lb/> are needed they may be appointed, and special<lb/> powers
+                delegated to them from time to time.</p>
+            <p rend="indent(1)">SEC. 5. The Board of Direction shall have<lb/> power to fill any
+                vacancy that may occur until<lb/> the next election.</p>
+            <p rend="indent(1)">SEC. 6. Five members shall constitute a quo-<lb/>rum of the
+                Board.</p>
+            <p rend="align(center)">IX.</p>
+            <p rend="align(center)">Of the Board of Visitors.</p>
+            <p rend="indent(1)">SEC. 1. There shall also be a Board of Visit-<lb/>ors of not less
+                than thirty-five males and twen-<lb/>ty-one females, to be selected by the Board
+                of<lb/> Direction for the various districts into which<lb/> they may divide the
+                city, or as occasion may<lb/> require.</p>
+            <p rend="align(center)">X.</p>
+            <p rend="align(center)">Of the Benefactions.</p>
+            <p rend="indent(1)">SEC. 1. The benefactions shall consist of gro-<lb/>ceries, flour,
+                bread, meat, fuel, clothing, bed-<lb/>ding, furniture, materials for work,
+                medical<lb/> attendance, nurses in case of necessity, and<lb/> money.</p>
+            <pb n="9V"/>
+            <p>18</p>
+            <p rend="align(center)">BY-LAWS.</p>
+            <p rend="indent(1)">SEC. 2. No relief shall be granted except on<lb/> the recommendation
+                of not less than two visit-<lb/>ors for the district wherein the applicant may<lb/>
+                reside. In case of emergency, the President<lb/> may grant relief not exceeding
+                three dollars, to<lb/> be reported to the Board at their first meeting<lb/>
+                thereafter.</p>
+            <p rend="indent(1)">SEC. 3. No appropriation for funeral ex-<lb/>penses, house rent, or
+                    <sic>travelling</sic> expenses, shall<lb/> be made by the Board, unless the same
+                has<lb/> been <sic>refered</sic> to a special committee of three<lb/> for
+                investigation, who shall report to the Board<lb/> before making an appropriation,
+                except in case<lb/> of emergency, the Board may delegate to them<lb/> power to act,
+                and in no case shall the amount<lb/> exceed twenty dollars; but no
+                appropriation<lb/> for graves shall be made to any congregation<lb/> or society,
+                while free burial can be obtained in<lb/> any Jewish burial ground in this city.</p>
+            <p rend="align(center)">XI.</p>
+            <p rend="align(center)">Of Members.</p>
+            <p rend="indent(1)">SEC. 1. No member one year in arrears shall<lb/> be allowed to vote
+                or hold office.</p>
+            <p rend="indent(1)">SEC. 2. A member wishing to resign must<lb/> do so in writing, and
+                must have paid up all<lb/> arrears.</p>
+            <p rend="indent(1)">SEC. 3. Any member not paying his annual<lb/> subscription for two
+                years, or refusing to pay</p>
+            <pb n="10R"/>
+            <p rend="align(right)">19</p>
+            <p rend="align(center)">BY-LAWS.</p>
+            <p>his fines, may be expelled by the Board, unless<lb/> excused by them or the fines
+                remitted.</p>
+            <p rend="align(center)">XII.</p>
+            <p rend="align(center)">Of Special Meetings.</p>
+            <p rend="indent(1)">SEC. 1. The President shall convene the As-<lb/>sociation whenever
+                five members of the Board<lb/> of Direction, or any ten members of the
+                Asso-<lb/>ciation shall require it, provided such applica-<lb/>tion be made in
+                writing.</p>
+            <p rend="align(center)">XIII.</p>
+            <p rend="align(center)">Of a Quorum.</p>
+            <p rend="indent(1)">SEC. 1. At all meetings of the Association<lb/> it shall require
+                fifteen members to constitute a<lb/> quorum, for the transaction of business.</p>
+            <p rend="align(center)">XIV.</p>
+            <p rend="align(center)">Of Fines.</p>
+            <p rend="indent(1)">SEC. 1. The following fines may be enforced:</p>
+            <p>A member refusing to serve as President,—$10,00</p>
+            <p>A member refusing to serve as Vice Presi-<lb/>dent, Treasurer, Secretary, or
+                Record-<lb/>ing Secretary, ———- 5,00</p>
+            <p>A member refusing to serve on the Board<lb/> of Managers, ———- 5,00</p>
+            <p>A member signing a call for a special<lb/> meeting and neglecting to attend, —
+                3,00</p>
+            <p>Behaving unbecomingly at a meeting, — 1,00</p>
+            <p>Second <sic>offence</sic>, ———- 2,00</p>
+            <p>Leaving a meeting without permission, — 2,00</p>
+            <pb n="10V"/>
+            <p>20</p>
+            <p rend="align(center)">BY-LAWS.</p>
+            <p rend="align(center)">XV.</p>
+            <p rend="align(center)">Of Alterations.</p>
+            <p rend="indent(1)">No By-Law shall be enacted, amended or<lb/> repealed, unless the
+                proposition be made at<lb/> one meeting and adopted at another, by a vote<lb/> of
+                two-thirds of the members present, due no-<lb/>tice of said contemplated change to
+                be given<lb/> by the Secretary.</p>
+            <pb n="11R"/>
+            <p rend="align(center)">Officers.</p>
+            <p rend="align(center)">___</p>
+            <p rend="align(center)">Elected <date>May 6th, 1860</date>.</p>
+            <p rend="align(center)">___</p>
+            <p rend="align(center)">PRESIDENT,</p>
+            <p rend="align(center)"><persName>SOLOMON TELLER</persName>.</p>
+            <p rend="align(center)">VICE PRESIDENT,</p>
+            <p rend="align(center)"><persName>CHARLES BLOOMINGDALE</persName>.</p>
+            <p rend="align(center)">TREASURER,</p>
+            <p rend="align(center)"><persName>M. A. MITCHELL</persName>.</p>
+            <p rend="align(center)">RECORDING SECRETARY,</p>
+            <p rend="align(center)"><persName>WILLIAM B. HACKENBURG</persName>.</p>
+            <p rend="align(center)">SECRETARY,</p>
+            <p rend="align(center)"><persName>HENRY S. FRANK</persName>.</p>
+            <p rend="align(center)">MANAGERS,</p>
+            <table cols="2" rows="5">
+                <row>
+                    <cell><persName>JOSEPH EINSTEIN</persName>, <hi rend="italics">Chm.</hi></cell>
+                    <cell><persName>ABRAHAM S. WOLF</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>SIMON W. ARNOLD</persName>,</cell>
+                    <cell><persName>ALFRED T. JONES</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>SIMON STERNBERGER</persName>,</cell>
+                    <cell><persName>SELIGMAN ABELES</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>LAZARUS MAYER</persName>,</cell>
+                    <cell><persName>JACOB MAYER</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>HENRY DEBOER</persName>,</cell>
+                    <cell><persName>DAVID ETTINGER</persName>.</cell>
+                </row>
+            </table>
+            <p rend="align(center)">PHYSICIANS,</p>
+            <p rend="align(center)"><persName>DR. PHILIP DE YOUNG</persName>,<persName>DR. MORRIS M.
+                    ASCH</persName>,</p>
+            <p rend="align(center)"><persName>DR. A. C. BOURNONVILLE</persName>,</p>
+            <p rend="align(center)">MESSENGER,</p>
+            <p rend="align(center)"><persName>H. HIRSHBERG</persName>.</p>
+            <pb n="11V"/>
+            <p rend="align(center)">List of Members,</p>
+            <p rend="align(center)"><date>Nov. 1st, 1860</date>.</p>
+            <table cols="2" rows="30">
+                <row>
+                    <cell><persName>Mayer Arnold</persName>,</cell>
+                    <cell><persName>Jacob Cauffman</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>S. W. Arnold</persName>,</cell>
+                    <cell><persName>Henry DeBoer</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>H. W. Arnold</persName>,</cell>
+                    <cell><persName>Moses A. Dropsie</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>E. W. Arnold</persName>,</cell>
+                    <cell><persName>Joseph Dryfoos</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>Emanuel Arnold</persName>,</cell>
+                    <cell><persName>Abram Dryfoos</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>Simon Arnold</persName>,</cell>
+                    <cell><persName>S. Dryfoos</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>M. Anathan</persName>,</cell>
+                    <cell><persName>Lewis DeHaan</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>B. Abeles</persName>,</cell>
+                    <cell><persName>Joseph Einstein</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>Seligman Abeles</persName>,</cell>
+                    <cell><persName>Henry Einstein</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>Lewis M. Allen</persName>,</cell>
+                    <cell><persName>M. Einstein</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>Charles C. Allen</persName>,</cell>
+                    <cell><persName>A. A. Ezekiel</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>Henry S. Allen</persName>,</cell>
+                    <cell><persName>David Eger</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>M. M. Allen</persName>,</cell>
+                    <cell><persName>David Ettinger</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>L. Aronheimer</persName>,</cell>
+                    <cell><persName>L. Ellinger</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>Jacob Aub</persName>,</cell>
+                    <cell><persName>E. Ephraim</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>S. Adler</persName>,</cell>
+                    <cell><persName>Samuel Frank</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>J. M. Asch</persName>,</cell>
+                    <cell><persName>Max Friedman</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>A. Ancker</persName>,</cell>
+                    <cell><persName>Joseph Feldman</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>C. Bloomingdale</persName>,</cell>
+                    <cell><persName>Henry Frank</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>I. Binswanger</persName>,</cell>
+                    <cell><persName>Mayer Frank</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>Moses Becker</persName>,</cell>
+                    <cell><persName>William Florence</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>J. S. Baumberger</persName>,</cell>
+                    <cell><persName>B. H. Feustman</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>J. Blum</persName>,</cell>
+                    <cell><persName>Mayer Fleisher</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>S. Blum</persName>,</cell>
+                    <cell><persName>S. Fernberger</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>A. Brummer</persName>,</cell>
+                    <cell><persName>Rev. I. Frankel</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>S. Bernheim</persName>,</cell>
+                    <cell><persName>H. Gunsenhauser</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>Gabriel Baum</persName>,</cell>
+                    <cell><persName>Solomon Gans</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>M. Bernheim</persName>,</cell>
+                    <cell>
+                        <persName>Solomon Gans, Sr.</persName>
+                    </cell>
+                </row>
+                <row>
+                    <cell><persName>Marcus Cauffman</persName>,</cell>
+                    <cell><persName>Mayer Gans</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>August Cohn</persName>,</cell>
+                    <cell><persName>Daniel Gans</persName>,</cell>
+                </row>
+            </table>
+            <pb n="12R"/>
+            <p rend="align(right)">23</p>
+            <p rend="align(center)">LIST OF MEMBERS.</p>
+            <table cols="2" rows="38">
+                <row>
+                    <cell><persName>Philip Goldsmith</persName>,</cell>
+                    <cell><persName>Henry Marcus</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>S. A. Gump</persName>,</cell>
+                    <cell><persName>M. A. Mitchell</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>Ferdinand Greenawald</persName>,</cell>
+                    <cell><persName>Michael Moyer</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>H. Greenabaum</persName>,</cell>
+                    <cell><persName>Lazarus Mayer</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>Abm. Greenabaum</persName>,</cell>
+                    <cell><persName>Jacob Mayer</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>Marx Greenawald</persName>,</cell>
+                    <cell><persName>Levi Mayer</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>Wm. Goldstein</persName>,</cell>
+                    <cell>
+                        <persName>Jacob Mayer, Jr.</persName>
+                    </cell>
+                </row>
+                <row>
+                    <cell><persName>Mayer Gotthelf</persName>,</cell>
+                    <cell><persName>Jacob May</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>M. Goldman</persName>,</cell>
+                    <cell><persName>Theodore Mindil</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>M. Geiershoffer</persName>,</cell>
+                    <cell><persName>Henry Mayer</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>Wm. B. Hackenburg</persName>,</cell>
+                    <cell><persName>Samuel Mayer</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>Nathan Hays</persName>,</cell>
+                    <cell><persName>Joseph Mayer</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>Simon Heiter</persName>,</cell>
+                    <cell><persName>L. E. Moss</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>Solomon L. Haas</persName>,</cell>
+                    <cell><persName>Rev. S. Morais</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>Leopold Hirsh</persName>,</cell>
+                    <cell><persName>Allen Mitchell</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>Leon Hirsh</persName>,</cell>
+                    <cell><persName>Joseph L. Moss</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>Henry Heller</persName>,</cell>
+                    <cell><persName>Lucien Moss</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>L. Hecht</persName>,</cell>
+                    <cell><persName>Ernst Nusbaum</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>S. Hecht</persName>,</cell>
+                    <cell><persName>John Nusbaum</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>Samuel Hunt</persName>,</cell>
+                    <cell><persName>Jacob Nirdlinger</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>L. Hochstadter</persName>,</cell>
+                    <cell><persName>Joseph Newhouse</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>Charles Hochstader</persName>,</cell>
+                    <cell><persName>Rev. S. C. Noot</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>Abraham Hart</persName>,</cell>
+                    <cell><persName>Solomon Oelsner</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>H. Hirshberg</persName>,</cell>
+                    <cell><persName>Abrm. Oppenheimer</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>Gustav Isaac</persName>,</cell>
+                    <cell><persName>M. Picare</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>Alfred T. Jones</persName>,</cell>
+                    <cell><persName>John Ponder</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>Abraham Kahn</persName>,</cell>
+                    <cell><persName>Rev. Gabriel Pape</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>Adolf Klopfer</persName>,</cell>
+                    <cell><persName>Isaac Rhine</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>Rev. I. Leeser</persName>,</cell>
+                    <cell><persName>M. Rosenbach</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>Jacob Langsdorf</persName>,</cell>
+                    <cell><persName>F. J. Rosenberg</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>B. Lieber</persName>,</cell>
+                    <cell><persName>Henry Rau</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>Lewis Lang</persName>,</cell>
+                    <cell><persName>Joseph Rau</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>J. Levy</persName>,</cell>
+                    <cell><persName>Isaac Rheinstrom</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>M. B. Loeb</persName>,</cell>
+                    <cell><persName>Joseph Rosenbaum</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>Aug. B. Loeb</persName>,</cell>
+                    <cell><persName>Rudolph Stein</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>L. Lipser</persName>,</cell>
+                    <cell><persName>Simon Sternberger</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>Charles Lauferty</persName>,</cell>
+                    <cell><persName>Lazarus Shloss</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>Jacob Lyons</persName>, (<placeName>N. C.</placeName>)</cell>
+                    <cell><persName>H. Shloss</persName>,</cell>
+                </row>
+            </table>
+            <pb n="12V"/>
+            <p>24</p>
+            <p rend="align(center)">LIST OF MEMBERS.</p>
+            <table cols="2" rows="16">
+                <row>
+                    <cell><persName>B. Strouse</persName>,</cell>
+                    <cell><persName>David Teller</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>Henry Simson</persName>.</cell>
+                    <cell><persName>R. Teller</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>Lewis Seidenbach</persName>,</cell>
+                    <cell><persName>M. Troutman</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>M. Seidenbach</persName>.</cell>
+                    <cell><persName>A. Voge</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>J. Strook</persName>,</cell>
+                    <cell><persName>J. Vendig</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>A. Sondheim</persName>,</cell>
+                    <cell><persName>Rev. H. Vidaver</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>Moses Sternberger</persName>,</cell>
+                    <cell><persName>M. Vogel</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>Julius Stern</persName>,</cell>
+                    <cell><persName>A. S. Wolf</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>Emanuel Strouse</persName>,</cell>
+                    <cell><persName>Moses Weiler</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>F. Strouse</persName>,</cell>
+                    <cell><persName>Elias Wolf</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>Isaac Saller</persName>,</cell>
+                    <cell><persName>Abraham Wolf</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>David Salomon</persName>,</cell>
+                    <cell><persName>L. Walker</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>Levi Strouse</persName>,</cell>
+                    <cell><persName>Herman Weiler</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>J. Selig</persName>,</cell>
+                    <cell><persName>Isaac Wolf</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>Solomon Teller</persName>,</cell>
+                    <cell><persName>Abraham Weill</persName>, (<placeName>N. C.</placeName>)</cell>
+                </row>
+                <row>
+                    <cell><persName>E. Teller</persName>,</cell>
+                    <cell/>
+                </row>
+            </table>
+            <pb n="Back Cover"/>
+            <p rend="align(center)">
+                <add>מלוה ה׳ חונן דל וגמולו ישלם לו</add>
+            </p>
+            <p rend="align(center)">He that is liberal to the poor lendeth<lb/> unto the Lord, and
+                his good deed will he<lb/> repay unto him.—PROV. xix. 17.</p>
+        </body>
+    </text>
 </TEI>

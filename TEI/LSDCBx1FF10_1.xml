@@ -1,279 +1,454 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE TEI [
-<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
-%teibase;
-<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
-%teiext;
-]>
-<TEI>
-    <teiHeader>
-      <fileDesc>
-        <titleStmt>
-          <title>[no title given]</title>
-          <author attested="yes" accepted="yes" signature="yes">Marcuson, Menachem</author>
-          <editor></editor>
-          <sponsor></sponsor>
-          <funder></funder>
-          <principal></principal>
-          <respStmt>
-            <resp></resp>
-            <name></name>
-          </respStmt>
-        </titleStmt>
-        <editionStmt>
-          <edition></edition>
-          <respStmt>
-            <resp></resp>
-            <name></name>
-          </respStmt>
-        </editionStmt>
-        <extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-        <publicationStmt>
-          <publisher>Unpublished manuscript</publisher>
-        </publicationStmt>
-        <seriesStmt>
-          <p>Not part of a series</p>
-        </seriesStmt>
-        <notesStmt>
-          <note></note>
-        </notesStmt>
-        <sourceDesc>
-          <biblStruct>
-            <!-- catalog entry goes here -->
-            <monogr>
-              <imprint>
-                <dateLet></dateLet>
-              </imprint>
-            </monogr>
-          </biblStruct>
-          <msDesc>
-            <msIdentifier>
-              <country>USA</country>
-              <region>PA</region>
-              <settlement>Philadelphia</settlement>
-              <institution></institution>
-              <repository>CAJS Isaac Leeser Collection</repository>
-              <collection>The Library of the Dropsie College for Hebrew and Cognate Learning</collection>
-              <idno>LSDCBx1FF10_1</idno>
-              <altIdentifier>
-                <idno></idno>
-              </altIdentifier>
-              <msName></msName>
-            </msIdentifier>
-            <head></head>
-            <letHeading>
-              <author attested="yes" accepted="yes" signature="yes">Marcuson, Menachem</author>
-              <addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac</addressee>
-              <deliverer></deliverer>
-              <respStmt>
-                <resp></resp>
-                <name></name>
-              </respStmt>
-              <placeLet>Pittsburgh, PA</placeLet>
-              <placeRec>Philadelphia, PA</placeRec>
-              <dateLet when="1853-01" source="" attested="unk">8 January 1853</dateLet>
-              <dateLet when="1853-01" source="" attested="yes">8 Tebet 5613</dateLet>
-            </letHeading>
-            <msContents>
-              <msItem>
-                <author></author>
-                <editor></editor>
-                <respStmt>
-                  <resp></resp>
-                  <name></name>
-                </respStmt>
-                <title></title>
-                <decoNote></decoNote>
-                <listBibl>
-                  <bibl></bibl>
-                </listBibl>
-                <filiation></filiation>
-                <textLang></textLang>
-                <figure>
-                  <graphic url="ilcajs_b1f10_0001_1r.jpg"/>
-                  <graphic url="ilcajs_b1f10_0001_1v.jpg"/>
-                  <graphic url="ilcajs_b1f10_0001_2r.jpg"/>
-                </figure>
-              </msItem>
-            </msContents>
-            <physDesc>
-              <objectDesc>
-                <supportDesc>
-                  <support>
-                    <material color="" lined="unk" paper_type="" size="Letter">letter</material>
-                  </support>
-                  <extent>7 pages on 6 sheets
-                    <dimensions></dimensions>
-                  </extent>
-                  <foliation></foliation>
-                  <collation></collation>
-                  <condition fragment="false"></condition>
-                </supportDesc>
-                <layoutDesc>
-                  <layout></layout>
-                </layoutDesc>
-              </objectDesc>
-              <handDesc script="manuscript">
-                  <handNote></handNote>
-              </handDesc>
-              <decoDesc>
-                <decoNote></decoNote>
-              </decoDesc>
-              <additions></additions>
-              <bindingDesc>
-                <binding>
-                  <decoNote></decoNote>
-                </binding>
-              </bindingDesc>
-              <sealDesc>
-                <seal>
-                  <p></p>
-                </seal>
-              </sealDesc>
-              <accMat></accMat>
-              <envDesc occ="false"></envDesc>
-            </physDesc>
-            <history>
-              <origin></origin>
-              <provenance></provenance>
-              <acquisition></acquisition>
-            </history>
-            <additional>
-              <adminInfo>
-                <recordHist>
-                  <source></source>
-                  <change></change>
-                </recordHist>
-                <availability status="free">
-                  <p>Unrestricted</p>
-                </availability>
-                <custodialHist>
-                  <custEvent></custEvent>
-                </custodialHist>
-              </adminInfo>
-              <surrogates></surrogates>
-              <listBibl>
-                <bibl></bibl>
-              </listBibl>
-            </additional>
-            <msPart>
-              <altIdentifier>
-                <idno></idno>
-              </altIdentifier>
-            </msPart>
-          </msDesc>
-        </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-        <projectDesc>
-          <p></p>
-        </projectDesc>
-        <samplingDecl>
-          <p></p>
-        </samplingDecl>
-        <editorialDecl>
-          <correction>
-            <p></p>
-          </correction>
-          <normalization>
-            <p></p>
-          </normalization>
-          <quotation>
-            <p></p>
-          </quotation>
-          <hyphenation>
-            <p></p>
-          </hyphenation>
-          <segmentation>
-            <p></p>
-          </segmentation>
-          <stdVals>
-            <p></p>
-          </stdVals>
-          <interpretation>
-            <p></p>
-          </interpretation>
-        </editorialDecl>
-        <tagsDecl>
-          <rendition></rendition>
-          <namespace name="http://www.tei-c.org/ns/1.0">
-            <tagUsage gi=""></tagUsage>
-          </namespace>
-        </tagsDecl>
-        <refsDecl>
-          <cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-        </refsDecl>
-        <refsDecl>
-          <refState unit=""/>
-        </refsDecl>
-        <classDecl>
-          <taxonomy>
-            <category>
-              <catDesc></catDesc>
-            </category>
-          </taxonomy>
-        </classDecl>
-        <appInfo>
-          <application ident="" version="">
-            <desc></desc>
-            <label></label>
-          </application>
-        </appInfo>
-      </encodingDesc>
-      <profileDesc>
-        <creation></creation>
-        <langUsage>
-          <language ident="en">English</language>
-          <language ident="he">Hebrew</language>
-        </langUsage>
-        <textClass>
-          <keywords scheme="unknown">
-            <list>
-              <item></item>
-              <item></item>
-            </list>
-          </keywords>
-          <classCode scheme=""></classCode>
-          <catRef/>
-        </textClass>
-      </profileDesc>
-      <revisionDesc>
-        <change></change>
-      </revisionDesc>
-    </teiHeader>
-    <text>
-        <body>
-      
-		<pb n="1"/>
-			<p><add>Hebrew</add></p>
-          <p rend="indent(1)">Revd Sir</p>
-			<p><add>Hebrew</add></p>
-		<pb n="2"/>
-			<p><add>Hebrew</add></p>
-			<p>I could not stay in <placeName>Charleston</placeName>&#44; because I was afraid for the <sic>yelow</sic> fever<lb/> it was there. To bring your book I will send you the book you lend it to me with the first<lb/> opportunity&#44; the few <sic>dolars</sic> you spent for me also&#44; I hope you<lb/> will not do&#44; as the former did&#44; to write any thing&#44; without to<lb/> know if their opinion are true or false&#44; because why should<lb/> you make me to write against you to&#44; that make no difference<lb/> we may <sic>belive</sic> every one what we <sic>belive</sic> though I may under<lb/> sign your friend</p>
-			<p><add>Hebrew</add></p>
-		<pb n="3"/>
-			<p><add>Hebrew</add></p>
-		<pb n="4"/>
-          <p rend="align(right)"><placeName>Pittsburgh</placeName>&#44; <date>Friday&#44; 8<hi rend="sup">th</hi> of Tebet &#40;January&#41; 1853</date></p>
-			<p>Rev. Sir&#58;</p>
-          <p rend="indent(1)">I hope that you will excuse me only this once&#44; for troubling you so fre&#45;<lb/>quently. I hope this is enough also for the letters that may still come. Yes&#45;<lb/>terday about 12 midnight&#44; <persName>Mr. Yaroslausky</persName> read for me the letter of <persName>Mr.<lb/> Oliver</persName>. To be brief&#8212;with regard to the food that I ate along with him&#44; that<lb/> is true. But what was it we were eating&#63; Last time when I sent my resigna&#45;<lb/>tion to the congregation and accepted the position in the synagogue&#44; as I have written to<lb/> you several times before&#44; I asked him where I should be until I went there<lb/> whereupon&#44; he replied that his wife and family are in the country and that he<lb/> himself had to depart that night or early the next morning&#44; but that I could<lb/> leave my luggage with him. He left at home only one black man who went<lb/> to work every day to earn his bread. There was no other maid servant in the<lb/> house. I brought my things there. We talked until quite late at night. It<lb/> was about midnight when I said&#44; &#8220;I&#39;m quite hungry&#8221;. He replied&#44; &#8220;The<lb/> house is quite empty&#8212;not even bread.&#8221; Nevertheless&#44; he sent his negro who<lb/> got some milk and bread. That is what we ate together. Now you can see<lb/> how lies begin with truth. What can I say in reply&#63; Before dawn&#44; he had to leave<lb/> at one time he had recommended me to one of his friends who had asked<lb/> me to pay him a visit. I came to him once but found him out. I spent<lb/> more than two hours there&#44; because of the many books which he possessed<lb/> but could not wait for him. I left and never came to him again<lb/> and never saw him. How I conducted myself afterwards&#44; I have al&#45;<lb/>ready told you. I asked the people of <placeName>Montgomery</placeName> on several occasions to<lb/> come out and see and convince themselves.</p>
-          <p rend="indent(1)">With regard to shaving. The fact is that all the observant people<lb/> do so here&#44; but I don&#39;t want to boast. You can convince yourself through<lb/> <persName>Mr. Block</persName>&#44; one of the congregation of <placeName>Montgomery</placeName>. He once came out to<lb/> the slaughter house&#44; which is about two miles out of town&#44; in order to speak to<lb/> the butcher. He found that I had trimmed my beard with a scissors&#44; a<lb/> thing I always used to in the slaughter house in order to save time&#44; for<lb/> when I am in the city I wanted to study&#44; for I have very little time<lb/> for myself there. So you see I was not doing it in order to fool anybody<lb/> Here no one comes. I did not know this man was coming. I wasn&#39;t<lb/> doing it for the sake of the two negroes who do the slaughtering here. And<lb/> if you suppose that I did not shave myself because I had no razor&#44;<lb/> you can convince through <persName>Mr. Sahling</persName> of <placeName>Augusta</placeName> that at one time<lb/> I came to his house and his wife said&#44; &#8220;Oh&#44; I just wanted to send</p>
-		<pb n="5"/>
-			<p>some chickens to you to be slaughtered. Now you are here.&#8221;<lb/> I said&#44; &#8220;I did not bring the slaughtering knife&#8221;&#44; whereupon she<lb/> replied&#44; &#8220;Our clerk used to be a schochet. He has a slaughtering<lb/> knife as well as a sharpening stone.&#8221; The clerk showed me a<lb/> razor which he had fixed up for a slaughtering knife. I then said<lb/> &#8220;I shall not slaughter here with this knife unless you make<lb/> me a present of it.&#8221; Thereupon&#44; he gave it to me&#44; and I still<lb/> have it.</p>
-          <p rend="indent(1)">With regard to the day of conversion&#44; about which <persName>Mr. Yeroslausky</persName><lb/> tells me&#44; I understand nothing. The church from which <persName>Mr. Oliver</persName> came<lb/> has a school&#44; and the church from which <persName>Mr. Davis</persName> comes&#44; has a school. Now&#44;<lb/> <del>both</del> each of these says that I adopted his faith. In this he was<lb/> all wrong. At one time we discussed the various peculiarities of their belief<lb/> We spoke about the Presbyterians&#44; who believe that man has no choice of<lb/> good or evil&#44; for everything is already predestined by God. I said that<lb/> where there is no freedom of choice&#44; there can be no reward and<lb/> punishment&#44; for reward and punishment can be only where there<lb/> is freedom of choice. That is why I could not understand<lb/> that belief at all&#44; and that&#44; from that point of view&#44; there belief<lb/> was superior. But I have quite forgotten one point&#44; namely&#44; just<lb/> what I said about their faith as to why it must be false.</p>
-          <p rend="indent(1)">With regard to the first chapter of <hi rend="underline">Matthew</hi>&#63;&#44; <persName>Mr. Yaroslausky</persName><lb/> tells me what he writes&#44; and I am very much surprised. I assure you<lb/> that we discussed it once. This is an old question. The generations<lb/> are not properly written down&#44; but I also asked him this&#58; It is true<lb/> that when you speak of God&#44; you believe there is only one God&#44; but when<lb/> you mention the name of his person he seems to be three&#44; namely&#44;<lb/> Father&#44; Son&#44; and Holy Ghost. Thus when you speak of the Father<lb/> and mention the son&#44; the son must be the Son of the person whom you call<lb/> Father. In Matthew&#44; however&#44; it is written that the angel had told<lb/> <persName>Joseph</persName> that <persName>Mary</persName> would become pregnant through the Holy Ghost. Then<lb/> how is that&#63; To this he answered that Father and Holy Ghost are the same<lb/> Then I again said &#8220;Are they there then two or one&#63;&#8221; To this he has<lb/> not given me any answer to this day. You can rest assured that if<lb/> I was surprised&#44; which I do not remember any more&#44; my surprise<lb/> was due to the stupidity of the people who believe this. With regard to<lb/> the case of the &#36;70&#44; I answer you that I once spoke to <persName>Mr. Davis</persName></p>
-		<pb n="6"/>
-			<p>when he asked me what my salary was here in <placeName>Montgomery</placeName>&#44; I tell<lb/> him it was &#36;500. He said to me&#44; you should have doubled that if<lb/> you came over to us. And then&#44; casually&#44; I said&#44; &#8220;Would you do this<lb/> and give &#36;1000 for this&#63; And he said&#44; &#8220;Yes&#44; certainly&#44; if only you say<lb/> that you are coming over.&#8221; Then I said&#44; &#8220;It might be right for a man<lb/> to change after having brought his mind upon the right road with regard<lb/> to eternity&#44; but when he receives money for it&#44; then he has already re&#45;<lb/>ceived his rewards here&#44; and he cannot&#44; therefore&#44; come to eternity. But<lb/> you do your work completely without thought. It is one thing to lead a<lb/> man away from his religion&#44; but another to destroy him&#8212;a thing which<lb/> are forbidden to do&#8221;. The &#36;70 I counted for two persons for three<lb/> months&#39; instruction&#8212;a lesson a day except <date>Saturday</date> and <date>Sunday</date></p>
-          <p rend="indent(1)">The said <persName>Mr. Oliver</persName> once met me on the street. He asked<lb/> me from where I was coming. I told him I was in a house of one of<lb/> my congregation. He asked me to go with him to a church where he<lb/> was going&#44; but I refused. Then he asked me whether Jews were for&#45;<lb/>bidden to enter a church. I told him that we may&#44; &#8220;but because<lb/> you ask me&#44; I don&#39;t do it&#44; and that you may never persuade me to do<lb/> it&#44; even if you ask me a great deal.&#8221; Outside of that one time of<lb/> which I have already spoken.</p>
-          <p rend="indent(1)">And now&#44; my friend&#44; I leave it to you. Do what you<lb/> think best. If you speak about the Jewish law&#44; then according to Jewish<lb/> law&#44; I should be believed. For there are now no Jews who say any&#45;<lb/>thing or who can say anything against me. But 3 shall now appear<lb/> to no law and no justice. Do yourself in accordance with your own<lb/> thoughts&#44; only consider the matter. You are dealing with me now in a<lb/> matter that concerns life. All I have to say is&#44; &#8220;I know that&#42;<lb/> my redeemer liveth&#8221;. This is my only hope&#44; and I am sure<lb/> of the kindness of God who has not forsaken me to this day. He<lb/> will broaden my path&#44; and my knees will not hand. He will<lb/> set me up on my feet and make me ride upon the altars of my<lb/> enemies. I shall see vengeance upon those that hate me and shall<lb/> not fear&#44; for God is with me to help me&#44; even though there are many<lb/> who fight against me. They have all made a flat<add>&#63;</add> to decide<lb/> how and what to do&#44; but there are many more with me&#44; with the help of<lb/> God&#44; than are with them. For the God of truth&#44; the God of life will support<lb/> me with this righteous right hand. For I look for His mercy</p>
-			<p>&#42;Job</p>
-		<pb n="7"/>
-          <p rend="indent(1)">Aside from this&#44; if I omitted &#40;to refute&#41; anything on that letter&#44; it<lb/> is only because I had to have it read before me. Naturally it is<lb/> better to be able to read it for oneself.</p>
-          <p rend="indent(8)"><persName role="author">Menachem&#8212;&#8212;Marcuson</persName></p>
-			<p><hi rend="underline">This I have written to <persName>Bernheim</persName>&#160;&#160;English</hi></p>
-			<p>It is also a lie that I have received commission for being a<lb/> missionary.</p>
-          
-        </body>
-    </text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+          <teiHeader>
+
+                    <fileDesc>
+                              <titleStmt>
+                                        <title>[no title given]</title>
+                                        <author accepted="yes" attested="yes" signature="yes"
+                                                  >Marcuson, Menachem</author>
+                                        <editor/>
+                                        <sponsor/>
+                                        <funder/>
+                                        <principal/>
+                                        <respStmt>
+                                                  <resp/>
+                                                  <name/>
+                                        </respStmt>
+                              </titleStmt>
+                              <editionStmt>
+                                        <edition/>
+                                        <respStmt>
+                                                  <resp/>
+                                                  <name/>
+                                        </respStmt>
+                              </editionStmt>
+                              <extent>[information about file size goes here, information about
+                                        extent of physical item comes later]</extent>
+                              <publicationStmt>
+                                        <publisher>Unpublished manuscript</publisher>
+                              </publicationStmt>
+                              <seriesStmt>
+                                        <p>Not part of a series</p>
+                              </seriesStmt>
+                              <notesStmt>
+                                        <note/>
+                              </notesStmt>
+                              <sourceDesc>
+                                        <biblStruct>
+                                                  <!-- catalog entry goes here -->
+                                                  <monogr>
+                                                  <imprint>
+                                                  <dateLet/>
+                                                  </imprint>
+                                                  </monogr>
+                                        </biblStruct>
+                                        <msDesc>
+                                                  <msIdentifier>
+                                                  <country>USA</country>
+                                                  <region>PA</region>
+                                                  <settlement>Philadelphia</settlement>
+                                                  <institution/>
+                                                  <repository>CAJS Isaac Leeser
+                                                  Collection</repository>
+                                                  <collection>The Library of the Dropsie College for
+                                                  Hebrew and Cognate Learning</collection>
+                                                  <idno>LSDCBx1FF10_1</idno>
+                                                  <altIdentifier>
+                                                  <idno/>
+                                                  </altIdentifier>
+                                                  <msName/>
+                                                  </msIdentifier>
+                                                  <head/>
+                                                  <letHeading>
+                                                  <author accepted="yes" attested="yes"
+                                                  signature="yes">Marcuson, Menachem</author>
+                                                  <addressee accepted="yes" attested="yes"
+                                                  editor="false">Leeser, Isaac</addressee>
+                                                  <deliverer/>
+                                                  <respStmt>
+                                                  <resp/>
+                                                  <name/>
+                                                  </respStmt>
+                                                  <placeLet>Pittsburgh, PA</placeLet>
+                                                  <placeRec>Philadelphia, PA</placeRec>
+                                                  <dateLet attested="unk" source="" when="1853-01">8
+                                                  January 1853</dateLet>
+                                                  <dateLet attested="yes" source="" when="1853-01">8
+                                                  Tebet 5613</dateLet>
+                                                  </letHeading>
+                                                  <msContents>
+                                                  <msItem>
+                                                  <author/>
+                                                  <editor/>
+                                                  <respStmt>
+                                                  <resp/>
+                                                  <name/>
+                                                  </respStmt>
+                                                  <title/>
+                                                  <decoNote/>
+                                                  <listBibl>
+                                                  <bibl/>
+                                                  </listBibl>
+                                                  <filiation/>
+                                                  <textLang/>
+                                                  <figure>
+                                                  <graphic url="ilcajs_b1f10_0001_1r.jpg"/>
+                                                  <graphic url="ilcajs_b1f10_0001_1v.jpg"/>
+                                                  <graphic url="ilcajs_b1f10_0001_2r.jpg"/>
+                                                  </figure>
+                                                  </msItem>
+                                                  </msContents>
+                                                  <physDesc>
+                                                  <objectDesc>
+                                                  <supportDesc>
+                                                  <support>
+                                                  <material color="" lined="unk" paper_type=""
+                                                  size="Letter">letter</material>
+                                                  </support>
+                                                  <extent>7 pages on 6 sheets <dimensions/>
+                                                  </extent>
+                                                  <foliation/>
+                                                  <collation/>
+                                                  <condition fragment="false"/>
+                                                  </supportDesc>
+                                                  <layoutDesc>
+                                                  <layout/>
+                                                  </layoutDesc>
+                                                  </objectDesc>
+                                                  <handDesc script="manuscript">
+                                                  <handNote/>
+                                                  </handDesc>
+                                                  <decoDesc>
+                                                  <decoNote/>
+                                                  </decoDesc>
+                                                  <additions/>
+                                                  <bindingDesc>
+                                                  <binding>
+                                                  <decoNote/>
+                                                  </binding>
+                                                  </bindingDesc>
+                                                  <sealDesc>
+                                                  <seal>
+                                                  <p/>
+                                                  </seal>
+                                                  </sealDesc>
+                                                  <accMat/>
+                                                  <envDesc occ="false"/>
+                                                  </physDesc>
+                                                  <history>
+                                                  <origin/>
+                                                  <provenance/>
+                                                  <acquisition/>
+                                                  </history>
+                                                  <additional>
+                                                  <adminInfo>
+                                                  <recordHist>
+                                                  <source/>
+                                                  <change/>
+                                                  </recordHist>
+                                                  <availability status="free">
+                                                  <p>Unrestricted</p>
+                                                  </availability>
+                                                  <custodialHist>
+                                                  <custEvent/>
+                                                  </custodialHist>
+                                                  </adminInfo>
+                                                  <surrogates/>
+                                                  <listBibl>
+                                                  <bibl/>
+                                                  </listBibl>
+                                                  </additional>
+                                                  <msPart>
+                                                  <altIdentifier>
+                                                  <idno/>
+                                                  </altIdentifier>
+                                                  </msPart>
+                                        </msDesc>
+                              </sourceDesc>
+                    </fileDesc>
+                    <encodingDesc>
+                              <projectDesc>
+                                        <p/>
+                              </projectDesc>
+                              <samplingDecl>
+                                        <p/>
+                              </samplingDecl>
+                              <editorialDecl>
+                                        <correction>
+                                                  <p/>
+                                        </correction>
+                                        <normalization>
+                                                  <p/>
+                                        </normalization>
+                                        <quotation>
+                                                  <p/>
+                                        </quotation>
+                                        <hyphenation>
+                                                  <p/>
+                                        </hyphenation>
+                                        <segmentation>
+                                                  <p/>
+                                        </segmentation>
+                                        <stdVals>
+                                                  <p/>
+                                        </stdVals>
+                                        <interpretation>
+                                                  <p/>
+                                        </interpretation>
+                              </editorialDecl>
+                              <tagsDecl>
+                                        <rendition/>
+                                        <namespace name="http://www.tei-c.org/ns/1.0">
+                                                  <tagUsage gi=""/>
+                                        </namespace>
+                              </tagsDecl>
+                              <refsDecl>
+                                        <cRefPattern matchPattern="" replacementPattern=""/>
+                              </refsDecl>
+                              <refsDecl>
+                                        <refState unit=""/>
+                              </refsDecl>
+                              <classDecl>
+                                        <taxonomy>
+                                                  <category>
+                                                  <catDesc/>
+                                                  </category>
+                                        </taxonomy>
+                              </classDecl>
+                              <appInfo>
+                                        <application ident="" version="">
+                                                  <desc/>
+                                                  <label/>
+                                        </application>
+                              </appInfo>
+                    </encodingDesc>
+                    <profileDesc>
+                              <creation/>
+                              <langUsage>
+                                        <language ident="en">English</language>
+                                        <language ident="he">Hebrew</language>
+                              </langUsage>
+                              <textClass>
+                                        <keywords scheme="unknown">
+                                                  <list>
+                                                  <item/>
+                                                  <item/>
+                                                  </list>
+                                        </keywords>
+                                        <classCode scheme=""/>
+                                        <catRef/>
+                              </textClass>
+                    </profileDesc>
+                    <revisionDesc>
+                              <change/>
+                    </revisionDesc>
+          </teiHeader>
+          <text>
+                    <body>
+                              <pb n="1"/>
+                              <p>
+                                        <add>Hebrew</add>
+                              </p>
+                              <p rend="indent(1)">Revd Sir</p>
+                              <p>
+                                        <add>Hebrew</add>
+                              </p>
+                              <pb n="2"/>
+                              <p>
+                                        <add>Hebrew</add>
+                              </p>
+                              <p>I could not stay in <placeName>Charleston</placeName>, because I
+                                        was afraid for the <sic>yelow</sic> fever<lb/> it was there.
+                                        To bring your book I will send you the book you lend it to
+                                        me with the first<lb/> opportunity, the few
+                                                  <sic>dolars</sic> you spent for me also, I hope
+                                        you<lb/> will not do, as the former did, to write any thing,
+                                        without to<lb/> know if their opinion are true or false,
+                                        because why should<lb/> you make me to write against you to,
+                                        that make no difference<lb/> we may <sic>belive</sic> every
+                                        one what we <sic>belive</sic> though I may under<lb/> sign
+                                        your friend</p>
+                              <p>
+                                        <add>Hebrew</add>
+                              </p>
+                              <pb n="3"/>
+                              <p>
+                                        <add>Hebrew</add>
+                              </p>
+                              <pb n="4"/>
+                              <p rend="align(right)"><placeName>Pittsburgh</placeName>,
+                                                  <date>Friday, 8<hi rend="sup">th</hi> of Tebet
+                                                  (January) 1853</date></p>
+                              <p>Rev. Sir:</p>
+                              <p rend="indent(1)">I hope that you will excuse me only this once, for
+                                        troubling you so fre-<lb/>quently. I hope this is enough
+                                        also for the letters that may still come. Yes-<lb/>terday
+                                        about 12 midnight, <persName>Mr. Yaroslausky</persName> read
+                                        for me the letter of <persName>Mr.<lb/> Oliver</persName>.
+                                        To be brief—with regard to the food that I ate along with
+                                        him, that<lb/> is true. But what was it we were eating? Last
+                                        time when I sent my resigna-<lb/>tion to the congregation
+                                        and accepted the position in the synagogue, as I have
+                                        written to<lb/> you several times before, I asked him where
+                                        I should be until I went there<lb/> whereupon, he replied
+                                        that his wife and family are in the country and that he<lb/>
+                                        himself had to depart that night or early the next morning,
+                                        but that I could<lb/> leave my luggage with him. He left at
+                                        home only one black man who went<lb/> to work every day to
+                                        earn his bread. There was no other maid servant in the<lb/>
+                                        house. I brought my things there. We talked until quite late
+                                        at night. It<lb/> was about midnight when I said, “I'm quite
+                                        hungry”. He replied, “The<lb/> house is quite empty—not even
+                                        bread.” Nevertheless, he sent his negro who<lb/> got some
+                                        milk and bread. That is what we ate together. Now you can
+                                        see<lb/> how lies begin with truth. What can I say in reply?
+                                        Before dawn, he had to leave<lb/> at one time he had
+                                        recommended me to one of his friends who had asked<lb/> me
+                                        to pay him a visit. I came to him once but found him out. I
+                                        spent<lb/> more than two hours there, because of the many
+                                        books which he possessed<lb/> but could not wait for him. I
+                                        left and never came to him again<lb/> and never saw him. How
+                                        I conducted myself afterwards, I have al-<lb/>ready told
+                                        you. I asked the people of <placeName>Montgomery</placeName>
+                                        on several occasions to<lb/> come out and see and convince
+                                        themselves.</p>
+                              <p rend="indent(1)">With regard to shaving. The fact is that all the
+                                        observant people<lb/> do so here, but I don't want to boast.
+                                        You can convince yourself through<lb/>
+                                        <persName>Mr. Block</persName>, one of the congregation of
+                                                  <placeName>Montgomery</placeName>. He once came
+                                        out to<lb/> the slaughter house, which is about two miles
+                                        out of town, in order to speak to<lb/> the butcher. He found
+                                        that I had trimmed my beard with a scissors, a<lb/> thing I
+                                        always used to in the slaughter house in order to save time,
+                                        for<lb/> when I am in the city I wanted to study, for I have
+                                        very little time<lb/> for myself there. So you see I was not
+                                        doing it in order to fool anybody<lb/> Here no one comes. I
+                                        did not know this man was coming. I wasn't<lb/> doing it for
+                                        the sake of the two negroes who do the slaughtering here.
+                                        And<lb/> if you suppose that I did not shave myself because
+                                        I had no razor,<lb/> you can convince through <persName>Mr.
+                                                  Sahling</persName> of
+                                                  <placeName>Augusta</placeName> that at one
+                                        time<lb/> I came to his house and his wife said, “Oh, I just
+                                        wanted to send</p>
+                              <pb n="5"/>
+                              <p>some chickens to you to be slaughtered. Now you are here.”<lb/> I
+                                        said, “I did not bring the slaughtering knife”, whereupon
+                                        she<lb/> replied, “Our clerk used to be a schochet. He has a
+                                        slaughtering<lb/> knife as well as a sharpening stone.” The
+                                        clerk showed me a<lb/> razor which he had fixed up for a
+                                        slaughtering knife. I then said<lb/> “I shall not slaughter
+                                        here with this knife unless you make<lb/> me a present of
+                                        it.” Thereupon, he gave it to me, and I still<lb/> have
+                                        it.</p>
+                              <p rend="indent(1)">With regard to the day of conversion, about which
+                                                  <persName>Mr. Yeroslausky</persName><lb/> tells
+                                        me, I understand nothing. The church from which
+                                                  <persName>Mr. Oliver</persName> came<lb/> has a
+                                        school, and the church from which <persName>Mr.
+                                                  Davis</persName> comes, has a school. Now,<lb/>
+                                        <del>both</del> each of these says that I adopted his faith.
+                                        In this he was<lb/> all wrong. At one time we discussed the
+                                        various peculiarities of their belief<lb/> We spoke about
+                                        the Presbyterians, who believe that man has no choice
+                                        of<lb/> good or evil, for everything is already predestined
+                                        by God. I said that<lb/> where there is no freedom of
+                                        choice, there can be no reward and<lb/> punishment, for
+                                        reward and punishment can be only where there<lb/> is
+                                        freedom of choice. That is why I could not understand<lb/>
+                                        that belief at all, and that, from that point of view, there
+                                        belief<lb/> was superior. But I have quite forgotten one
+                                        point, namely, just<lb/> what I said about their faith as to
+                                        why it must be false.</p>
+                              <p rend="indent(1)">With regard to the first chapter of <hi
+                                                  rend="underline">Matthew</hi>?, <persName>Mr.
+                                                  Yaroslausky</persName><lb/> tells me what he
+                                        writes, and I am very much surprised. I assure you<lb/> that
+                                        we discussed it once. This is an old question. The
+                                        generations<lb/> are not properly written down, but I also
+                                        asked him this: It is true<lb/> that when you speak of God,
+                                        you believe there is only one God, but when<lb/> you mention
+                                        the name of his person he seems to be three, namely,<lb/>
+                                        Father, Son, and Holy Ghost. Thus when you speak of the
+                                        Father<lb/> and mention the son, the son must be the Son of
+                                        the person whom you call<lb/> Father. In Matthew, however,
+                                        it is written that the angel had told<lb/>
+                                        <persName>Joseph</persName> that <persName>Mary</persName>
+                                        would become pregnant through the Holy Ghost. Then<lb/> how
+                                        is that? To this he answered that Father and Holy Ghost are
+                                        the same<lb/> Then I again said “Are they there then two or
+                                        one?” To this he has<lb/> not given me any answer to this
+                                        day. You can rest assured that if<lb/> I was surprised,
+                                        which I do not remember any more, my surprise<lb/> was due
+                                        to the stupidity of the people who believe this. With regard
+                                        to<lb/> the case of the $70, I answer you that I once spoke
+                                        to <persName>Mr. Davis</persName></p>
+                              <pb n="6"/>
+                              <p>when he asked me what my salary was here in
+                                                  <placeName>Montgomery</placeName>, I tell<lb/> him
+                                        it was $500. He said to me, you should have doubled that
+                                        if<lb/> you came over to us. And then, casually, I said,
+                                        “Would you do this<lb/> and give $1000 for this? And he
+                                        said, “Yes, certainly, if only you say<lb/> that you are
+                                        coming over.” Then I said, “It might be right for a man<lb/>
+                                        to change after having brought his mind upon the right road
+                                        with regard<lb/> to eternity, but when he receives money for
+                                        it, then he has already re-<lb/>ceived his rewards here, and
+                                        he cannot, therefore, come to eternity. But<lb/> you do your
+                                        work completely without thought. It is one thing to lead
+                                        a<lb/> man away from his religion, but another to destroy
+                                        him—a thing which<lb/> are forbidden to do”. The $70 I
+                                        counted for two persons for three<lb/> months' instruction—a
+                                        lesson a day except <date>Saturday</date> and
+                                                  <date>Sunday</date></p>
+                              <p rend="indent(1)">The said <persName>Mr. Oliver</persName> once met
+                                        me on the street. He asked<lb/> me from where I was coming.
+                                        I told him I was in a house of one of<lb/> my congregation.
+                                        He asked me to go with him to a church where he<lb/> was
+                                        going, but I refused. Then he asked me whether Jews were
+                                        for-<lb/>bidden to enter a church. I told him that we may,
+                                        “but because<lb/> you ask me, I don't do it, and that you
+                                        may never persuade me to do<lb/> it, even if you ask me a
+                                        great deal.” Outside of that one time of<lb/> which I have
+                                        already spoken.</p>
+                              <p rend="indent(1)">And now, my friend, I leave it to you. Do what
+                                        you<lb/> think best. If you speak about the Jewish law, then
+                                        according to Jewish<lb/> law, I should be believed. For
+                                        there are now no Jews who say any-<lb/>thing or who can say
+                                        anything against me. But 3 shall now appear<lb/> to no law
+                                        and no justice. Do yourself in accordance with your own<lb/>
+                                        thoughts, only consider the matter. You are dealing with me
+                                        now in a<lb/> matter that concerns life. All I have to say
+                                        is, “I know that*<lb/> my redeemer liveth”. This is my only
+                                        hope, and I am sure<lb/> of the kindness of God who has not
+                                        forsaken me to this day. He<lb/> will broaden my path, and
+                                        my knees will not hand. He will<lb/> set me up on my feet
+                                        and make me ride upon the altars of my<lb/> enemies. I shall
+                                        see vengeance upon those that hate me and shall<lb/> not
+                                        fear, for God is with me to help me, even though there are
+                                        many<lb/> who fight against me. They have all made a
+                                                  flat<add>?</add> to decide<lb/> how and what to
+                                        do, but there are many more with me, with the help of<lb/>
+                                        God, than are with them. For the God of truth, the God of
+                                        life will support<lb/> me with this righteous right hand.
+                                        For I look for His mercy</p>
+                              <p>*Job</p>
+                              <pb n="7"/>
+                              <p rend="indent(1)">Aside from this, if I omitted (to refute) anything
+                                        on that letter, it<lb/> is only because I had to have it
+                                        read before me. Naturally it is<lb/> better to be able to
+                                        read it for oneself.</p>
+                              <p rend="indent(8)">
+                                        <persName role="author">Menachem——Marcuson</persName>
+                              </p>
+                              <p>
+                                        <hi rend="underline">This I have written to
+                                                  <persName>Bernheim</persName>  English</hi>
+                              </p>
+                              <p>It is also a lie that I have received commission for being a<lb/>
+                                        missionary.</p>
+                    </body>
+          </text>
 </TEI>

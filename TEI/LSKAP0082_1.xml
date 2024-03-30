@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+
 		<fileDesc>
 			<titleStmt>
 				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="yes">Rehine, Zalma</author>
+				<author accepted="yes" attested="yes" signature="yes">Rehine, Zalma</author>
 				<editor/>
 				<sponsor/>
 				<funder/>
@@ -47,7 +49,8 @@
 						<settlement>Philadelphia</settlement>
 						<institution/>
 						<repository>LSKAP</repository>
-						<collection>The Arnold and Deanne Kaplan Collection of Early American Judaica</collection>
+						<collection>The Arnold and Deanne Kaplan Collection of Early American
+							Judaica</collection>
 						<idno>LSKAP0082_1</idno>
 						<altIdentifier>
 							<idno/>
@@ -56,8 +59,8 @@
 					</msIdentifier>
 					<head/>
 					<letHeading>
-						<author attested="yes" accepted="yes" signature="yes">Rehine, Zalma</author>
-						<addressee editor="false" attested="yes" accepted="yes">Leeser,
+						<author accepted="yes" attested="yes" signature="yes">Rehine, Zalma</author>
+						<addressee accepted="yes" attested="yes" editor="false">Leeser,
 							Isaac</addressee>
 						<deliverer/>
 						<respStmt>
@@ -66,7 +69,7 @@
 						</respStmt>
 						<placeLet>Baltimore, MD</placeLet>
 						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1831-08" source="" attested="yes">August 3, 1831</dateLet>
+						<dateLet attested="yes" source="" when="1831-08">August 3, 1831</dateLet>
 					</letHeading>
 					<msContents>
 						<msItem>
@@ -92,8 +95,8 @@
 						<objectDesc>
 							<supportDesc>
 								<support>
-									<material color="" lined="unk" paper_type="" size="">letter</material>letter
-								</support>
+									<material color="" lined="unk" paper_type="" size=""
+										>letter</material>letter </support>
 								<extent>4 pages on 2 sheets <dimensions/>
 								</extent>
 								<foliation/>
@@ -234,46 +237,51 @@
 	<text>
 		<body>
 			<pb n="1R"/>
-			<p rend="align(right)"><placeName>Baltimore</placeName>
-				<date>August 3rd 1831</date></p>
+			<p rend="align(right)">
+				<placeName>Baltimore</placeName>
+				<date>August 3rd 1831</date>
+			</p>
 			<p>My Dear <addressee>Isaac</addressee></p>
 			<p rend="indent(1)">I rec your letter the<lb/> reason for not <sic>gitting</sic> A the
 				Day before<lb/> Because I put the letter in office<lb/> in the after noon after the
-				mail was<lb/> closed. <del>&#40;Bad cold of which I am yet not<lb/> clear I have had
-					bad a cold&#41;</del> I must<lb/> agree with you that I was wrong in
-				leaving<lb/> Brandywine I got a very bad cold of which<lb/> I am yet not clear
-					<sic>I have had bad a<lb/> Cold</sic> I have been at home as ever I<lb/> had I
-				have not slept for 10 Days hardly<lb/> one Hour a night <sic>exept</sic> 2
-				nights.<lb/> I am <sic>realy</sic> sorry you cannot get rid of the<lb/> pain in your
-				left side tho I hope by Care<lb/> and some change of air will do you good.<lb/> I am
-				sure that your s is <sic>two</sic> large<lb/> for any body of weak Lungs to make
-				the<lb/> people hear and not to feel hurt by it&#44;<lb/> but if you should
-				remain&#44; which I hope<lb/> you will not do&#44; if it injures you&#44; you<lb/>
-				will read the <sic>preyers</sic> and .<lb/> I have tried my and found that not<lb/>
-				the Least care is in the &#44; contrary&#44;<lb/> it can hardly be heard at one yard
-				distance<lb/> if you think change of air will be of<lb/> service to you&#44; and you
-				have not any<lb/> particular business in <placeName>New York</placeName>&#44; why
-				not<lb/> come here your Aunt thinks it would be</p>
+				mail was<lb/> closed. <del>(Bad cold of which I am yet not<lb/> clear I have had bad
+					a cold)</del> I must<lb/> agree with you that I was wrong in leaving<lb/>
+				Brandywine I got a very bad cold of which<lb/> I am yet not clear <sic>I have had
+					bad a<lb/> Cold</sic> I have been at home as ever I<lb/> had I have not slept
+				for 10 Days hardly<lb/> one Hour a night <sic>exept</sic> 2 nights.<lb/> I am
+					<sic>realy</sic> sorry you cannot get rid of the<lb/> pain in your left side tho
+				I hope by Care<lb/> and some change of air will do you good.<lb/> I am sure that
+				your s is <sic>two</sic> large<lb/> for any body of weak Lungs to make the<lb/>
+				people hear and not to feel hurt by it,<lb/> but if you should remain, which I
+				hope<lb/> you will not do, if it injures you, you<lb/> will read the
+					<sic>preyers</sic> and .<lb/> I have tried my and found that not<lb/> the Least
+				care is in the , contrary,<lb/> it can hardly be heard at one yard distance<lb/> if
+				you think change of air will be of<lb/> service to you, and you have not any<lb/>
+				particular business in <placeName>New York</placeName>, why not<lb/> come here your
+				Aunt thinks it would be</p>
 			<pb n="1V"/>
-			<p>better for you&#44; but do not come and run<lb/> away the same week stay 3 or 4 weeks by<lb/>
-				that time you will be Quite will I hope&#44;<lb/> I am glad that attention has been paid<lb/>
-				you by many&#44; I have nothing now but remain<lb/> D</p>
+			<p>better for you, but do not come and run<lb/> away the same week stay 3 or 4 weeks
+				by<lb/> that time you will be Quite will I hope,<lb/> I am glad that attention has
+				been paid<lb/> you by many, I have nothing now but remain<lb/> D</p>
 			<p rend="indent(2)">Your affectionate uncle......</p>
-			<p rend="indent(3)"><persName role="author">Zalma Rehine</persName></p>
-			<p>Remember us Kindly to our friends<lb/><persName>Mr &#38; Mrs. Peixotto</persName> our
-				Dear friend <persName>Miss Simah<lb/> Rachel Better</persName> and the Boys and all the<lb/>
-				rest of my friends in <placeName>Philadelphia</placeName><lb/> Tell
-				<persName>Simah</persName> that all her friend here inquire<lb/> Constantly after
-				her and send their love to<lb/> her/</p>
+			<p rend="indent(3)">
+				<persName role="author">Zalma Rehine</persName>
+			</p>
+			<p>Remember us Kindly to our friends<lb/> Mr &amp; <persName>Mrs. Peixotto</persName>
+				our Dear friend <persName>Miss Simah<lb/> Rachel Better</persName> and the Boys and
+				all the<lb/> rest of my friends in <placeName>Philadelphia</placeName><lb/> Tell
+					<persName>Simah</persName> that all her friend here inquire<lb/> Constantly
+				after her and send their love to<lb/> her/</p>
 			<p rend="indent(1)">To I Leeser</p>
 			<p>B the <persName>Cohens</persName>
-				<persName>Ettings</persName> and your Friend send<lb/> their respects to you and wish
-				you better</p>
-
+				<persName>Ettings</persName> and your Friend send<lb/> their respects to you and
+				wish you better</p>
 			<p>Addressed to:</p>
-			<p rend="indent(1)"><persName>Mr Isaac Leeser</persName></p>
+			<p rend="indent(1)">Mr <persName>Isaac Leeser</persName></p>
 			<p rend="indent(1)">to the Care of A. C. Peixotto Esqr/</p>
-			<p rend="indent(2)"><placeName>Philadelphia</placeName></p>
+			<p rend="indent(2)">
+				<placeName>Philadelphia</placeName>
+			</p>
 		</body>
 	</text>
 </TEI>

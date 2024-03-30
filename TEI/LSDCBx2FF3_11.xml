@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+
 		<fileDesc>
 			<titleStmt>
 				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="yes">De Sola, Abraham</author>
+				<author accepted="yes" attested="yes" signature="yes">De Sola, Abraham</author>
 				<editor/>
 				<sponsor/>
 				<funder/>
@@ -47,7 +49,8 @@
 						<settlement>Philadelphia</settlement>
 						<institution/>
 						<repository>CAJS Isaac Leeser Collection</repository>
-						<collection>The Library of the Dropsie College for Hebrew and Cognate Learning</collection>
+						<collection>The Library of the Dropsie College for Hebrew and Cognate
+							Learning</collection>
 						<idno>LSDCBx2FF3_11</idno>
 						<altIdentifier>
 							<idno/>
@@ -56,9 +59,9 @@
 					</msIdentifier>
 					<head/>
 					<letHeading>
-						<author attested="yes" accepted="yes" signature="yes">De Sola,
+						<author accepted="yes" attested="yes" signature="yes">De Sola,
 							Abraham</author>
-						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac,
+						<addressee accepted="yes" attested="yes" editor="false">Leeser, Isaac,
 							Rev.</addressee>
 						<deliverer/>
 						<respStmt>
@@ -67,7 +70,7 @@
 						</respStmt>
 						<placeLet>Montreal, Canada</placeLet>
 						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1856-05" source="" attested="yes">11 May 1856</dateLet>
+						<dateLet attested="yes" source="" when="1856-05">11 May 1856</dateLet>
 					</letHeading>
 					<msContents>
 						<msItem>
@@ -95,8 +98,8 @@
 						<objectDesc>
 							<supportDesc>
 								<support>
-									<material color="" lined="false" paper_type="" size="">letter</material>letter
-								</support>
+									<material color="" lined="false" paper_type="" size=""
+										>letter</material>letter </support>
 								<extent>3 pages on 2 sheets <dimensions/>
 								</extent>
 								<foliation/>
@@ -237,23 +240,31 @@
 	<text>
 		<body>
 			<pb n="1"/>
-			<p rend="align(right)"><placeName>Montreal</placeName>
-				<date>11<hi rend="sup">th</hi> May &#39;56</date></p>
-			<p><addressee>Rev. Isaac Leeser</addressee></p>
-			<p rend="indent(1)"><placeName>Philadelphia</placeName></p>
+			<p rend="align(right)">
+				<placeName>Montreal</placeName>
+				<date>11<hi rend="sup">th</hi> May '56</date>
+			</p>
+			<p>
+				<addressee>Rev. Isaac Leeser</addressee>
+			</p>
+			<p rend="indent(1)">
+				<placeName>Philadelphia</placeName>
+			</p>
 			<p rend="indent(2)">Dear Sir</p>
 			<p rend="indent(3)">It was only upon looking into the<lb/>
-				<date>May</date> Occident received two days since&#44; that I <sic>learnd</sic> of
-				your serious<lb/> loss by fire. <persName>Miss Gratz&#39;s</persName> letter
-				informing <persName>Mrs <del>&#63;</del> Joseph</persName> of the<lb/> occident only
-				reached here a day before and I had not seen <persName>Mrs J.</persName><lb/> for
-				some days. While I sincerely regret your loss has been so great<lb/> I cannot but
-				think you fortunate in having preserved your plate<lb/> which will render the
-				reproduction of your books a matter of<lb/> no great labor or loss of time. I beg
-				leave to subjoin a list of the<lb/> books with which I have been favored either by
-				you or <persName>Mr M Joseph</persName><lb/> for sale</p>
-			<p rend="align(center)"><hi rend="underline">Statement</hi></p>
-			<table rows="22" cols="3">
+				<date>May</date> Occident received two days since, that I <sic>learnd</sic> of your
+				serious<lb/> loss by fire. <persName>Miss Gratz's</persName> letter informing
+					<persName>Mrs <del>?</del> Joseph</persName> of the<lb/> occident only reached
+				here a day before and I had not seen <persName>Mrs J.</persName><lb/> for some days.
+				While I sincerely regret your loss has been so great<lb/> I cannot but think you
+				fortunate in having preserved your plate<lb/> which will render the reproduction of
+				your books a matter of<lb/> no great labor or loss of time. I beg leave to subjoin a
+				list of the<lb/> books with which I have been favored either by you or <persName>Mr
+					M Joseph</persName><lb/> for sale</p>
+			<p rend="align(center)">
+				<hi rend="underline">Statement</hi>
+			</p>
+			<table cols="3" rows="22">
 				<row>
 					<cell role="label">Books received</cell>
 					<cell role="label">To Whom Sold</cell>
@@ -272,7 +283,7 @@
 				<row>
 					<cell/>
 					<cell>1 <persName>B W Warner</persName></cell>
-					<cell>amount have <add>&#63;</add> to Mr</cell>
+					<cell>amount have <add>?</add> to Mr</cell>
 				</row>
 				<row>
 					<cell/>
@@ -285,12 +296,12 @@
 					<cell/>
 				</row>
 				<row>
-					<cell>6 2&#44;to English Bibles</cell>
+					<cell>6 2,to English Bibles</cell>
 					<cell>unsold</cell>
 					<cell/>
 				</row>
 				<row>
-					<cell>11 <persName>Dias&#39;</persName> Letters</cell>
+					<cell>11 <persName>Dias'</persName> Letters</cell>
 					<cell>3 sold<persName> Asher Benjamin</persName></cell>
 					<cell>Pd <date>8 Feb</date> as per <persName>Mr Joseph</persName></cell>
 				</row>
@@ -301,7 +312,9 @@
 				</row>
 				<row>
 					<cell>1 <date>Kipoor</date> Book</cell>
-					<cell><persName>Mr Benjamin</persName></cell>
+					<cell>
+						<persName>Mr Benjamin</persName>
+					</cell>
 					<cell/>
 				</row>
 				<row>
@@ -317,14 +330,18 @@
 				<row>
 					<cell/>
 					<cell>1 <persName>L Benjamin</persName></cell>
-					<cell><date>15 Aug 55</date>
-						<add>&#63;</add></cell>
+					<cell>
+						<date>15 Aug 55</date>
+						<add>?</add>
+					</cell>
 				</row>
 				<row>
 					<cell/>
-					<cell>1 Kablinstic<add>&#63;</add></cell>
-					<cell><date>12 Decr 55</date>
-						<add>&#63;</add></cell>
+					<cell>1 Kablinstic<add>?</add></cell>
+					<cell>
+						<date>12 Decr 55</date>
+						<add>?</add>
+					</cell>
 				</row>
 				<row>
 					<cell/>
@@ -332,28 +349,28 @@
 					<cell>not yet paid</cell>
 				</row>
 				<row>
-					<cell>6 Daily <add>&#63;</add></cell>
+					<cell>6 Daily <add>?</add></cell>
 					<cell>1 <persName>L Benjamin</persName></cell>
-					<cell>Pd <date>15 Aug&#39;55</date>
-						<add>&#63;</add></cell>
+					<cell>Pd <date>15 Aug'55</date>
+						<add>?</add></cell>
 				</row>
 				<row>
 					<cell/>
 					<cell>1 <persName>L Moss</persName></cell>
 					<cell>Pd <date>12 Dec 55</date>
-						<add>&#63;</add></cell>
+						<add>?</add></cell>
 				</row>
 				<row>
 					<cell/>
 					<cell>1 <persName>E Moss</persName></cell>
 					<cell><hi rend="underline">these two Daily prayers</hi> Pd <date>14 Feb
-							&#39;56</date></cell>
+							'56</date></cell>
 				</row>
 				<row>
 					<cell/>
 					<cell>1 <persName>G Benjamin</persName></cell>
 					<cell><hi rend="underline">were not paid <persName>Mr J.</persName></hi> Pd
-							<date>13 March &#39;56</date></cell>
+							<date>13 March '56</date></cell>
 				</row>
 				<row>
 					<cell/>
@@ -373,36 +390,43 @@
 			</table>
 			<pb n="2"/>
 			<p>The payments have been so tardy that I find myself unwarranted<lb/> to send you an
-				order for books. I feel my inclination to do so<lb/> much greater than my
-				ability&#44; still if you like to send a couple<lb/> of sets &#38; a few Dailys I
-				will try what I can do with them<lb/> I will remit you per <persName>Mr
-					Joseph</persName> for the set sold <persName>Mr S Hymans</persName>
-					&#40;<add>&#63;</add><lb/> west to the Dame <add>&#63;</add>&#8212;perhaps a
-				line from you may be effective&#41;<lb/> though I <sic>dont</sic> think he will pay
-				for it just yet&#8212;he has frequently<lb/> been asked. I want no disconnect on it
-				thinking it scarcely<lb/> fair for you to pay it on such long credits. I will also
-				remit<lb/> you for<lb/>
-				<date>Kipoor</date> &#38; 2 Daily. The copies of the <persName>Soto</persName> Bible
+				order for books. I feel my inclination to do so<lb/> much greater than my ability,
+				still if you like to send a couple<lb/> of sets &amp; a few Dailys I will try what I
+				can do with them<lb/> I will remit you per <persName>Mr Joseph</persName> for the
+				set sold <persName>Mr S Hymans</persName> (<add>?</add><lb/> west to the Dame
+					<add>?</add>—perhaps a line from you may be effective)<lb/> though I
+					<sic>dont</sic> think he will pay for it just yet—he has frequently<lb/> been
+				asked. I want no disconnect on it thinking it scarcely<lb/> fair for you to pay it
+				on such long credits. I will also remit<lb/> you for<lb/>
+				<date>Kipoor</date> &amp; 2 Daily. The copies of the <persName>Soto</persName> Bible
 				sent<lb/> out I know nothing about. <persName>Mr J.</persName> sent them out and I
-				believe<lb/> had tried to collect the amounts&#44; but as I have not deemed<lb/>
-				myself authorized to interfere I have refrained from pressing<lb/> payment&#44; but
-				if you send me a line &#40;which I can show&#41; requesting<lb/> me to obtain
-				payment for you I think I may be able to do<lb/> something for you. With respect to
-				the Occident it is not my<lb/> fault if it has not more readers here&#44; for
-				although I may<lb/> have deemed its conduct towards me not over generous&#44; I
-				have<lb/> always recommended it as the superb<add>&#63;</add> Jewish magazine&#44;
-				but<lb/> my people are very like their brethren <add>&#63;</add> side the lines<lb/>
-				<hi rend="underline">the Journal</hi>&#44; ledger &#38; cash Book have great
-				interest as serious<lb/> reading while for lighter moments the Book of Kings
-				&#40;&#38; <add>&#63;</add>&#41;<lb/> obtain their share of attention. Do you intend
-				to <add>&#63;</add> your<lb/> weekly&#63;</p> 
+				believe<lb/> had tried to collect the amounts, but as I have not deemed<lb/> myself
+				authorized to interfere I have refrained from pressing<lb/> payment, but if you send
+				me a line (which I can show) requesting<lb/> me to obtain payment for you I think I
+				may be able to do<lb/> something for you. With respect to the Occident it is not
+				my<lb/> fault if it has not more readers here, for although I may<lb/> have deemed
+				its conduct towards me not over generous, I have<lb/> always recommended it as the
+					superb<add>?</add> Jewish magazine, but<lb/> my people are very like their
+				brethren <add>?</add> side the lines<lb/>
+				<hi rend="underline">the Journal</hi>, ledger &amp; cash Book have great interest as
+				serious<lb/> reading while for lighter moments the Book of Kings (&amp;
+				<add>?</add>)<lb/> obtain their share of attention. Do you intend to <add>?</add>
+				your<lb/> weekly?</p>
 			<p rend="indent(4)">I am dear sir</p>
 			<p rend="indent(5)">Yours truly</p>
-			<p rend="indent(6)"><persName role="author">Abraham de Sola</persName></p>
+			<p rend="indent(6)">
+				<persName role="author">Abraham de Sola</persName>
+			</p>
 			<pb n="3"/>
-			<p><addressee>Rev. Isaac Leeser</addressee></p>
-			<p rend="indent(1)"><placeName>371 Walnut Street</placeName></p>
-			<p rend="indent(2)"><placeName>Philadelphia</placeName></p>
+			<p>
+				<addressee>Rev. Isaac Leeser</addressee>
+			</p>
+			<p rend="indent(1)">
+				<placeName>371 Walnut Street</placeName>
+			</p>
+			<p rend="indent(2)">
+				<placeName>Philadelphia</placeName>
+			</p>
 		</body>
 	</text>
 </TEI>

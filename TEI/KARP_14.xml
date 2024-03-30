@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
         <fileDesc>
             <titleStmt>
                 <title>[no title given]</title>
-                <author attested="yes" accepted="yes" signature="yes">Goldsmith, Henry</author>
+                <author accepted="yes" attested="yes" signature="yes">Goldsmith, Henry</author>
                 <editor/>
                 <sponsor/>
                 <funder/>
@@ -47,7 +49,9 @@
                         <settlement>New York</settlement>
                         <institution>Jewish Theological Seminary</institution>
                         <repository/>
-                        <collection>The Abraham and Deborah Karp Collection of Early American Judaica at the Library of the Jewish Theological Seminary of America</collection>
+                        <collection>The Abraham and Deborah Karp Collection of Early American
+                            Judaica at the Library of the Jewish Theological Seminary of
+                            America</collection>
                         <idno/>
                         <altIdentifier>
                             <idno/>
@@ -56,9 +60,9 @@
                     </msIdentifier>
                     <head/>
                     <letHeading>
-                        <author attested="yes" accepted="yes" signature="yes">Goldsmith,
+                        <author accepted="yes" attested="yes" signature="yes">Goldsmith,
                             Henry</author>
-                        <addressee editor="false" attested="yes" accepted="yes">Leeser,
+                        <addressee accepted="yes" attested="yes" editor="false">Leeser,
                             Isaac</addressee>
                         <deliverer/>
                         <respStmt>
@@ -67,7 +71,7 @@
                         </respStmt>
                         <placeLet>New York, NY</placeLet>
                         <placeRec>Philadelphia, PA</placeRec>
-                        <dateLet when="1851-09" source="" attested="yes">18 September 1851</dateLet>
+                        <dateLet attested="yes" source="" when="1851-09">18 September 1851</dateLet>
                     </letHeading>
                     <msContents>
                         <msItem>
@@ -93,7 +97,8 @@
                         <objectDesc>
                             <supportDesc>
                                 <support>
-                                    <material color="" lined="false" paper_type="" size="Letter">letter</material>
+                                    <material color="" lined="false" paper_type="" size="Letter"
+                                        >letter</material>
                                 </support>
                                 <extent>1 page on 1 sheet <dimensions/>
                                 </extent>
@@ -234,31 +239,27 @@
     </teiHeader>
     <text>
         <body>
-
             <pb n="1"/>
-
             <p>Congregation Bnai Jeshurun <placeName>New York</placeName></p>
             <p>Rev. Sir</p>
-
-            <p rend="indent(1)">I am instructed by the President<lb/> and Trustees of this Congregation to inform
-                you<lb/> that the consecration of their new Synagogue<lb/> Green Street will please
-                God take place on<lb/> Thursday next the 25<hi rend="sup">th</hi> Ins<hi rend="sup"
-                    >t</hi> on which solemn<lb/> occasion the favour of your presence is
-                requested.<lb/>
+            <p rend="indent(1)">I am instructed by the President<lb/> and Trustees of this
+                Congregation to inform you<lb/> that the consecration of their new Synagogue<lb/>
+                Green Street will please God take place on<lb/> Thursday next the 25<hi rend="sup"
+                    >th</hi> Ins<hi rend="sup">t</hi> on which solemn<lb/> occasion the favour of
+                your presence is requested.<lb/>
             </p>
-            <p rend="indent(1)">The service will commence at 3 ocl. PM.<lb/> The consecration&#8211;discourse will be
-                delivered by<lb/> the Rev. <persName>Morris J. Raphall</persName>&#44; M.A. PhD<hi
-                    rend="sup">r</hi> Rabbi&#8211;preacher<lb/> to the Congregation. The musical
-                arrangements<lb/> under the direction of the Rev. <persName>A. Leo</persName>&#44;
-                Hazan<lb/> minister to the Congregation<lb/> I have the honour to be<lb/> Rev.
-                Sir<lb/> Very Respectfully (By order<lb/><persName role="author">Henry
-                    Goldsmith</persName><lb/> Sec<hi rend="sup">t</hi>.</p>
+            <p rend="indent(1)">The service will commence at 3 ocl. PM.<lb/> The
+                consecration–discourse will be delivered by<lb/> the Rev. <persName>Morris J.
+                    Raphall</persName>, M.A. PhD<hi rend="sup">r</hi> Rabbi–preacher<lb/> to the
+                Congregation. The musical arrangements<lb/> under the direction of the Rev.
+                    <persName>A. Leo</persName>, Hazan<lb/> minister to the Congregation<lb/> I have
+                the honour to be<lb/> Rev. Sir<lb/> Very Respectfully (By order<lb/><persName
+                    role="author">Henry Goldsmith</persName><lb/> Sec<hi rend="sup">t</hi>.</p>
             <p>14 West Broadway place</p>
-            <p>New York 18th. Sept<hi rend="sup">r</hi>. 5611&#47;51.</p>
+            <p>New York 18th. Sept<hi rend="sup">r</hi>. 5611/51.</p>
             <p>Rev. <addressee>I. Leeser</addressee></p>
-            <p rend="indent(1)">&#38;. &#38;. &#38;</p>
+            <p rend="indent(1)">&amp;. &amp;. &amp;</p>
             <p rend="indent(1)"><placeName>Philadelphia</placeName>.</p>
-
         </body>
     </text>
 </TEI>

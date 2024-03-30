@@ -1,33 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE TEI [
-<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
-%teibase;
-<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
-%teiext;
-]>
-<TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 	<teiHeader>
+
 		<fileDesc>
 			<titleStmt>
 				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="unk">Illowy, Dr.</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
+				<author accepted="yes" attested="yes" signature="unk">Illowy, Dr.</author>
+				<editor/>
+				<sponsor/>
+				<funder/>
+				<principal/>
 				<respStmt>
-					<resp></resp>
-					<name></name>
+					<resp/>
+					<name/>
 				</respStmt>
 			</titleStmt>
 			<editionStmt>
-				<edition></edition>
+				<edition/>
 				<respStmt>
-					<resp></resp>
-					<name></name>
+					<resp/>
+					<name/>
 				</respStmt>
 			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
+			<extent>[information about file size goes here, information about extent of physical
+				item comes later]</extent>
 			<publicationStmt>
 				<publisher>Unpublished manuscript</publisher>
 			</publicationStmt>
@@ -35,14 +31,14 @@
 				<p>Not part of a series</p>
 			</seriesStmt>
 			<notesStmt>
-				<note></note>
+				<note/>
 			</notesStmt>
 			<sourceDesc>
 				<biblStruct>
 					<!-- catalog entry goes here -->
 					<monogr>
 						<imprint>
-							<dateLet></dateLet>
+							<dateLet/>
 						</imprint>
 					</monogr>
 				</biblStruct>
@@ -51,51 +47,53 @@
 						<country>USA</country>
 						<region>PA</region>
 						<settlement>Philadelphia</settlement>
-						<institution></institution>
+						<institution/>
 						<repository>LSKAP</repository>
-						<collection>The Arnold and Deanne Kaplan Collection of Early American Judaica</collection>
+						<collection>The Arnold and Deanne Kaplan Collection of Early American
+							Judaica</collection>
 						<idno>LSKAP_NC-4</idno>
 						<altIdentifier>
-							<idno></idno>
+							<idno/>
 						</altIdentifier>
-						<msName></msName>
+						<msName/>
 					</msIdentifier>
-					<head></head>
+					<head/>
 					<letHeading>
-						<author attested="yes" accepted="yes" signature="unk">Illowy, Dr.</author>
-						<addressee editor="true" attested="yes" accepted="yes">Leeser, Isaac</addressee>
-						<deliverer></deliverer>
+						<author accepted="yes" attested="yes" signature="unk">Illowy, Dr.</author>
+						<addressee accepted="yes" attested="yes" editor="true">Leeser,
+							Isaac</addressee>
+						<deliverer/>
 						<respStmt>
-							<resp></resp>
-							<name></name>
+							<resp/>
+							<name/>
 						</respStmt>
 						<placeLet>New Orleans, LA</placeLet>
 						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1865-01" source="" attested="yes">January 19, 1865</dateLet>
+						<dateLet attested="yes" source="" when="1865-01">January 19, 1865</dateLet>
 					</letHeading>
 					<msContents>
 						<msItem>
-							<author></author>
-							<editor></editor>
+							<author/>
+							<editor/>
 							<respStmt>
-								<resp></resp>
-								<name></name>
+								<resp/>
+								<name/>
 							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
+							<title/>
+							<decoNote/>
 							<listBibl>
-								<bibl></bibl>
+								<bibl/>
 							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
+							<filiation/>
+							<textLang/>
 							<figure>
-								<graphic url="leeser_05_2011_nc_4_1.jpg"></graphic>
-								<graphic url="leeser_05_2011_nc_4_2.jpg"></graphic>
-								<graphic url="leeser_05_2011_nc_4_3.jpg"></graphic>
-								<graphic url="leeser_05_2011_nc_4_4.jpg"></graphic>
-								<graphic url="leeser_05_2011_nc_4_5.jpg"></graphic>
-								<graphic url="leeser_05_2011_nc_4_6.jpg"></graphic>
-								<graphic url="leeser_05_2011_nc_4_7.jpg"></graphic>
+								<graphic url="leeser_05_2011_nc_4_1.jpg"/>
+								<graphic url="leeser_05_2011_nc_4_2.jpg"/>
+								<graphic url="leeser_05_2011_nc_4_3.jpg"/>
+								<graphic url="leeser_05_2011_nc_4_4.jpg"/>
+								<graphic url="leeser_05_2011_nc_4_5.jpg"/>
+								<graphic url="leeser_05_2011_nc_4_6.jpg"/>
+								<graphic url="leeser_05_2011_nc_4_7.jpg"/>
 							</figure>
 						</msItem>
 					</msContents>
@@ -103,65 +101,65 @@
 						<objectDesc>
 							<supportDesc>
 								<support>
-									<material color="" lined="false" paper_type="" size="Letter">letter</material>
+									<material color="" lined="false" paper_type="" size="Letter"
+										>letter</material>
 								</support>
-								<extent>6 pages on 6 sheets
-									<dimensions></dimensions>
+								<extent>6 pages on 6 sheets <dimensions/>
 								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
+								<foliation/>
+								<collation/>
+								<condition fragment="false"/>
 							</supportDesc>
 							<layoutDesc>
-								<layout></layout>
+								<layout/>
 							</layoutDesc>
 						</objectDesc>
 						<handDesc script="typescript">
-							<handNote></handNote>
+							<handNote/>
 						</handDesc>
 						<decoDesc>
-							<decoNote></decoNote>
+							<decoNote/>
 						</decoDesc>
-						<additions></additions>
+						<additions/>
 						<bindingDesc>
 							<binding>
-								<decoNote></decoNote>
+								<decoNote/>
 							</binding>
 						</bindingDesc>
 						<sealDesc>
 							<seal>
-								<p></p>
+								<p/>
 							</seal>
 						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
+						<accMat/>
+						<envDesc occ="false"/>
 					</physDesc>
 					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
+						<origin/>
+						<provenance/>
+						<acquisition/>
 					</history>
 					<additional>
 						<adminInfo>
 							<recordHist>
-								<source></source>
-								<change></change>
+								<source/>
+								<change/>
 							</recordHist>
 							<availability status="restricted">
 								<p>Restricted</p>
 							</availability>
 							<custodialHist>
-								<custEvent></custEvent>
+								<custEvent/>
 							</custodialHist>
 						</adminInfo>
-						<surrogates></surrogates>
+						<surrogates/>
 						<listBibl>
-							<bibl></bibl>
+							<bibl/>
 						</listBibl>
 					</additional>
 					<msPart>
 						<altIdentifier>
-							<idno></idno>
+							<idno/>
 						</altIdentifier>
 					</msPart>
 				</msDesc>
@@ -169,42 +167,42 @@
 		</fileDesc>
 		<encodingDesc>
 			<projectDesc>
-				<p></p>
+				<p/>
 			</projectDesc>
 			<samplingDecl>
-				<p></p>
+				<p/>
 			</samplingDecl>
 			<editorialDecl>
 				<correction>
-					<p></p>
+					<p/>
 				</correction>
 				<normalization>
-					<p></p>
+					<p/>
 				</normalization>
 				<quotation>
-					<p></p>
+					<p/>
 				</quotation>
 				<hyphenation>
-					<p></p>
+					<p/>
 				</hyphenation>
 				<segmentation>
-					<p></p>
+					<p/>
 				</segmentation>
 				<stdVals>
-					<p></p>
+					<p/>
 				</stdVals>
 				<interpretation>
-					<p></p>
+					<p/>
 				</interpretation>
 			</editorialDecl>
 			<tagsDecl>
-				<rendition></rendition>
+				<rendition/>
 				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
+					<tagUsage gi=""/>
 				</namespace>
 			</tagsDecl>
 			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
+				<cRefPattern matchPattern="" replacementPattern=""/>
 			</refsDecl>
 			<refsDecl>
 				<refState unit=""/>
@@ -212,19 +210,19 @@
 			<classDecl>
 				<taxonomy>
 					<category>
-						<catDesc></catDesc>
+						<catDesc/>
 					</category>
 				</taxonomy>
 			</classDecl>
 			<appInfo>
 				<application ident="" version="">
-					<desc></desc>
-					<label></label>
+					<desc/>
+					<label/>
 				</application>
 			</appInfo>
 		</encodingDesc>
 		<profileDesc>
-			<creation></creation>
+			<creation/>
 			<langUsage>
 				<language ident="en">English</language>
 				<language ident="he">Hebrew</language>
@@ -232,62 +230,199 @@
 			<textClass>
 				<keywords scheme="unknown">
 					<list>
-						<item></item>
-						<item></item>
+						<item/>
+						<item/>
 					</list>
 				</keywords>
-				<classCode scheme=""></classCode>
+				<classCode scheme=""/>
 				<catRef/>
 			</textClass>
 		</profileDesc>
 		<revisionDesc>
-			<change></change>
+			<change/>
 		</revisionDesc>
 	</teiHeader>
 	<text>
 		<body>
 			<pb n="1"/>
-			<p rend="align(right)">Ant. &#32; <placeName>New Orleans</placeName>&#44; <date>January 19&#44; 1865</date>.</p>
-				<p>Editor of the &#34;Occident&#34;&#44; <placeName><sic>Philadelphai</sic></placeName>.</p>
-			<p rend="indent(1)">DEAR SIR&#58; There is&#44; perhaps&#44; no country in the world<lb/> where the Hebrew communities are so frequently increased by<lb/> numbers of proselytes&#44; as in this country&#59; and our trans&#45;<lb/><sic>antlantic</sic>  breth<del>e</del>ren must surely&#44; when they learn from the<lb/> different American Jewish periodicals these happy tidings&#44;<lb/> greatly rejoice&#44; and think the time of the advent of the<lb/> Messiah is nigh&#44; truth commences to dawn over the Gentiles&#44;<lb/> and break the long night of ignorance and superstition&#44; and<lb/> fill their hearts&#44; as prophesied&#44; with the fear of God&#44; and<lb/> the true knowledge of His unity&#44; whilst we here are&#44; to our<lb/> deepest regret&#44; convinced that it is not God&#44; but the &#34;altar<lb/> of God&#44;&#34; to which these proselytes are coming.  To find or<lb/> please a husband whom they love&#44; the daughters of the Gentiles<lb/> join our nation&#44; but by no means our religion&#59; and we must not<lb/> deceive ourselves&#44; since we are convinced in our heart that<lb/> it is not the power of truth but the sharp arrows of Cupid to<lb/> which this rapid increase of our nation&#44; by the sons and daugh&#45;<lb/>ters of <placeName>Edom</placeName>&#44; is to be attributed&#59; for&#44; as heedlessly as they<lb/> often run away from the fatherhouse&#44; following the man of their<lb/> choice&#44; without the consent and blessing of their parents&#44; so<lb/> they abandon&#44; yet with much less scruple&#44; their church&#44; kneel&#45;<lb/>ing down at the altar of the Synagogue&#44; where the heedless<lb/> maiden expects to be united to the subject of her love.</p>
-			<p rend="indent(1)">Reverend sir&#44; by writing this&#44; I do not intend to blame<lb/> either the proselytes or those who admitted them into the<lb/> covenant of <persName>Abraham</persName>.  &#1514;&#1493;&#1513;&#1495;&#1500;&#1514;&#1506; 
-				it is now a time&#44; when to be<lb/> silent is the best and wise<del>e</del>st policy&#59; we must see and hear</p>
+			<p rend="align(right)">Ant. <placeName>New Orleans</placeName>, <date>January 19,
+					1865</date>.</p>
+			<p>Editor of the "Occident", <placeName><sic>Philadelphai</sic></placeName>.</p>
+			<p rend="indent(1)">DEAR SIR: There is, perhaps, no country in the world<lb/> where the
+				Hebrew communities are so frequently increased by<lb/> numbers of proselytes, as in
+				this country; and our trans-<lb/><sic>antlantic</sic> breth<del>e</del>ren must
+				surely, when they learn from the<lb/> different American Jewish periodicals these
+				happy tidings,<lb/> greatly rejoice, and think the time of the advent of the<lb/>
+				Messiah is nigh, truth commences to dawn over the Gentiles,<lb/> and break the long
+				night of ignorance and superstition, and<lb/> fill their hearts, as prophesied, with
+				the fear of God, and<lb/> the true knowledge of His unity, whilst we here are, to
+				our<lb/> deepest regret, convinced that it is not God, but the "altar<lb/> of God,"
+				to which these proselytes are coming. To find or<lb/> please a husband whom they
+				love, the daughters of the Gentiles<lb/> join our nation, but by no means our
+				religion; and we must not<lb/> deceive ourselves, since we are convinced in our
+				heart that<lb/> it is not the power of truth but the sharp arrows of Cupid to<lb/>
+				which this rapid increase of our nation, by the sons and daugh-<lb/>ters of
+					<placeName>Edom</placeName>, is to be attributed; for, as heedlessly as
+				they<lb/> often run away from the fatherhouse, following the man of their<lb/>
+				choice, without the consent and blessing of their parents, so<lb/> they abandon, yet
+				with much less scruple, their church, kneel-<lb/>ing down at the altar of the
+				Synagogue, where the heedless<lb/> maiden expects to be united to the subject of her
+				love.</p>
+			<p rend="indent(1)">Reverend sir, by writing this, I do not intend to blame<lb/> either
+				the proselytes or those who admitted them into the<lb/> covenant of
+					<persName>Abraham</persName>. תושחלתע it is now a time, when to be<lb/> silent
+				is the best and wise<del>e</del>st policy; we must see and hear</p>
 			<pb n="2"/>
-				<p rend="align(center)">&#45;2&#45;</p>
-				<p>much and be silent&#44; we see them every day converting Jews<lb/> into Gentiles&#44; our hearts break <add>Hebrew</add>&#44; but our lips<lb/> are mute and we are silent&#59; why should we not be silent when<lb/> Gentiles are converted into Jews&#63;  I merely intend to con&#45;<lb/>quer the erroneous idea of our people in general&#44; who believe<lb/> that the making of proselytes is one of the most God&#45;pleas&#45;<lb/>ing actions that can be performed&#44; though&#44; in fact&#44; even if<lb/> everything is done in full accordance with the law&#44; it cannot<lb/> be regarded as a <add>Hebrew</add>.  We are permitted by law to admit<lb/> Gentiles into the covenant of <persName>Abraham</persName>&#44; under certain con&#45;<lb/>ditions&#59; this&#44; however&#44; is only a permission <add>Hebrew</add> but not a<lb/> <add>Hebrew</add>.</p>
-			<p rend="indent(1)">Let me&#44; therefore&#44; exhibit before your readers several<lb/> passages&#44; by which I may show them what the Talmud thinks<lb/> of proselytes in general&#58;</p>
-			<p rend="indent(1)">1. Yebamot<del>h</del>&#44; 109.  Says <persName>Rabbi Yi<del>t</del>z<del>c</del>hak</persName>&#44; <add>Hebrew</add><lb/> <add>Hebrew</add> Misfortune after misfortune shall befall<lb/> those who admit Gentiles into the covenant of <persName>Abraham</persName>&#59; to<lb/> which Tossephoth remarks&#44; though it seems to be a <add>Hebrew</add> to<lb/> make <add>Hebrew</add>&#44; for&#44; if otherwise&#44; <persName>Jehoshua</persName> would not have con&#45;<lb/>verted <persName>Rahab</persName>&#44; and <persName>Hillel</persName> would not have complied with the<lb/> desire of the two heathens to be converted&#44; still these are<lb/> but exceptional cases.  <persName>Jehoshua</persName> knew from the character of<lb/> <persName>Rahab</persName>&#44; and so knew <persName>Hillel</persName>&#44; that they would one day be strict<lb/> and faithful Jews&#44; <add>Hebrew</add>&#58;</p>
-			<p rend="indent(1)">2.  Kiddushim&#44; 70.  Says <persName>Rabbi <del>Ch</del>Helbo</persName>&#58; Leprosy is not<lb/> so hurtful to the body as proselytes are to the cause of<lb/> Judaism&#44; <add>Hebrew</add>&#44; <persName>Rashi</persName> gives the reason&#8212;<lb/> <add>Hebrew</add>&#58;</p>
-			<p rend="indent(1)">3. Niddah&#44; 11.  The proselytes in <placeName>Israel</placeName> prevent the coming</p>
+			<p rend="align(center)">-2-</p>
+			<p>much and be silent, we see them every day converting Jews<lb/> into Gentiles, our
+				hearts break <add>. תושחלתע it is now a time, when to be</add>, but our lips<lb/>
+				are mute and we are silent; why should we not be silent when<lb/> Gentiles are
+				converted into Jews? I merely intend to con-<lb/>quer the erroneous idea of our
+				people in general, who believe<lb/> that the making of proselytes is one of the most
+				God-pleas-<lb/>ing actions that can be performed, though, in fact, even if<lb/>
+				everything is done in full accordance with the law, it cannot<lb/> be regarded as a
+					<add>Hebrew</add>. We are permitted by law to admit<lb/> Gentiles into the
+				covenant of <persName>Abraham</persName>, under certain con-<lb/>ditions; this,
+				however, is only a permission <add>Hebrew</add> but not a<lb/>
+				<add>Hebrew</add>.</p>
+			<p rend="indent(1)">Let me, therefore, exhibit before your readers several<lb/>
+				passages, by which I may show them what the Talmud thinks<lb/> of proselytes in
+				general:</p>
+			<p rend="indent(1)">1. Yebamot<del>h</del>, 109. Says <persName>Rabbi
+						Yi<del>t</del>z<del>c</del>hak</persName>, <add>Hebrew</add><lb/>
+				<add>Hebrew</add> Misfortune after misfortune shall befall<lb/> those who admit
+				Gentiles into the covenant of <persName>Abraham</persName>; to<lb/> which Tossephoth
+				remarks, though it seems to be a <add>Hebrew</add> to<lb/> make <add>Hebrew</add>,
+				for, if otherwise, <persName>Jehoshua</persName> would not have con-<lb/>verted
+					<persName>Rahab</persName>, and <persName>Hillel</persName> would not have
+				complied with the<lb/> desire of the two heathens to be converted, still these
+				are<lb/> but exceptional cases. <persName>Jehoshua</persName> knew from the
+				character of<lb/>
+				<persName>Rahab</persName>, and so knew <persName>Hillel</persName>, that they would
+				one day be strict<lb/> and faithful Jews, <add>Hebrew</add>:</p>
+			<p rend="indent(1)">2. Kiddushim, 70. Says <persName>Rabbi
+				<del>Ch</del>Helbo</persName>: Leprosy is not<lb/> so hurtful to the body as
+				proselytes are to the cause of<lb/> Judaism, <add>Hebrew</add>,
+					<persName>Rashi</persName> gives the reason—<lb/>
+				<add>Hebrew</add>:</p>
+			<p rend="indent(1)">3. Niddah, 11. The proselytes in <placeName>Israel</placeName>
+				prevent the coming</p>
 			<pb n="3"/>
-				<p rend="align(center)">&#45;3&#45;</p>
-				<p>of the Messiah&#44; <add>Hebrew</add>&#58;</p>
-			<p rend="indent(1)">4. Abodah Zarah&#44; 3.  In the days of <persName>David</persName> and <persName>Solomon</persName> pro&#45;<lb/>selytes were not accepted&#59; no admission into the covenant<lb/> was then granted to Gentiles.  Though we find that in the<lb/> days of <persName>Solomon</persName>&#44; over 150&#44;000 heathens embraced the Jewish<lb/> religion&#44; these&#44; however&#44; says <persName>Rabb<del>o</del>i Yo<del>c</del>hanan</persName>&#44; Yebamo<del>t</del>h 79&#44;<lb/> were but <add>Hebrew</add>&#44; which means&#44; as <persName>Rashi</persName> explains&#44; they<lb/> made themselves Jews&#44; embraced our religion&#44; but were never<lb/> accepted or acknowledged as such by our nation&#44; <add>Hebrew</add><lb/> <add>Hebrew</add>&#58; A similar case is found in <persName>Esther</persName>&#44; <add>Hebrew</add><lb/> <add>Hebrew</add> the word <add>Hebrew</add> in the <add>Hebrew</add><lb/> says distinctly they made themselves Jews&#44; but were not<lb/> accepted or acknowledged as such by the nation.</p>
-			<p rend="indent(1)">5. Sanhedrin&#44; 99.  Says <persName>Rabbi Azzay</persName>&#58; <persName>Timnah</persName> was a<lb/> princess&#44; the daughter of a king&#44; desirous to become a Jew&#45;<lb/>ess&#44; she went for that purpose to <persName>Abraham</persName>&#44; <persName>Isaac</persName>&#44; and <persName>Jacob</persName>&#44;<lb/> who all refused &#40;not to convert her but&#41; to admit her into<lb/> the covenant&#44; and <sic>recognise</sic> her as a member of their family&#59;<lb/> she then went and became <add>Hebrew</add>&#44; and said&#58;<lb/> I prefer to be a servant&#45;maid in that nation&#44; than to be a<lb/> princess of any other&#44; <add>Hebrew</add><lb/> <add>Hebrew</add>&#58;</p>
-			<p rend="indent(1)">From all these different quo<del>a</del>tations&#44; we can suffic<del>e</del>ient&#45;<lb/>ly see that our sages were never in favor of making prosel&#45;<lb/>ytes&#44; and when <persName>Rabbi Eliezer</persName>&#44; Pessachim 78&#44; says <add>Hebrew</add><lb/> <add>Hebrew</add>&#44; he does not mean to say that<lb/> <placeName>Israel</placeName> shall make proselytes&#59; for if so&#44; he had better say <add>Hebrew</add><lb/> <add>Hebrew</add> or <add>Hebrew</add>&#44; but the word <add>Hebrew</add> refers to the<lb/> preceding word&#44; <add>Hebrew</add>&#44; and the whole idea is but this&#59; <placeName>Israel</placeName></p>
+			<p rend="align(center)">-3-</p>
+			<p>of the Messiah, <add>Hebrew</add>:</p>
+			<p rend="indent(1)">4. Abodah Zarah, 3. In the days of <persName>David</persName> and
+					<persName>Solomon</persName> pro-<lb/>selytes were not accepted; no admission
+				into the covenant<lb/> was then granted to Gentiles. Though we find that in the<lb/>
+				days of <persName>Solomon</persName>, over 150,000 heathens embraced the Jewish<lb/>
+				religion, these, however, says <persName>Rabb<del>o</del>i
+					Yo<del>c</del>hanan</persName>, Yebamo<del>t</del>h 79,<lb/> were but
+					<add>Hebrew</add>, which means, as <persName>Rashi</persName> explains,
+				they<lb/> made themselves Jews, embraced our religion, but were never<lb/> accepted
+				or acknowledged as such by our nation, <add>Hebrew</add><lb/>
+				<add>Hebrew</add>: A similar case is found in <persName>Esther</persName>,
+					<add>Hebrew</add><lb/>
+				<add>Hebrew</add> the word <add>Hebrew</add> in the <add>Hebrew</add><lb/> says
+				distinctly they made themselves Jews, but were not<lb/> accepted or acknowledged as
+				such by the nation.</p>
+			<p rend="indent(1)">5. Sanhedrin, 99. Says <persName>Rabbi Azzay</persName>:
+					<persName>Timnah</persName> was a<lb/> princess, the daughter of a king,
+				desirous to become a Jew-<lb/>ess, she went for that purpose to
+					<persName>Abraham</persName>, <persName>Isaac</persName>, and
+					<persName>Jacob</persName>,<lb/> who all refused (not to convert her but) to
+				admit her into<lb/> the covenant, and <sic>recognise</sic> her as a member of their
+				family;<lb/> she then went and became <add>Hebrew</add>, and said:<lb/> I prefer to
+				be a servant-maid in that nation, than to be a<lb/> princess of any other,
+					<add>Hebrew</add><lb/>
+				<add>Hebrew</add>:</p>
+			<p rend="indent(1)">From all these different quo<del>a</del>tations, we can
+					suffic<del>e</del>ient-<lb/>ly see that our sages were never in favor of making
+				prosel-<lb/>ytes, and when <persName>Rabbi Eliezer</persName>, Pessachim 78, says
+					<add>Hebrew</add><lb/>
+				<add>Hebrew</add>, he does not mean to say that<lb/>
+				<placeName>Israel</placeName> shall make proselytes; for if so, he had better say
+					<add>Hebrew</add><lb/>
+				<add>Hebrew</add> or <add>Hebrew</add>, but the word <add>Hebrew</add> refers to
+				the<lb/> preceding word, <add>Hebrew</add>, and the whole idea is but this;
+					<placeName>Israel</placeName></p>
 			<pb n="4"/>
-				<p rend="align(center)">&#45;4&#45;</p>
-				<p>was driven from their country to live with the many different<lb/> nations of the earth&#44; only for the great purpose to spread<lb/> the name and unity of God all over the earth&#44; to light the<lb/> light of God wherever there is darkness&#44; and&#44; through us&#44;<lb/> all the nations of the earth shall know that there is but<lb/> one God.</p>
-			<p rend="indent(1)">There is&#44; to my knowledge&#44; but one passage which<lb/> speaks more favorably of the admission of <add>Hebrew</add> to Judaism&#44;<lb/> and this is the <add>Hebrew</add> Section <add>Hebrew</add>&#44; where we read as<lb/> follows&#44; <add>Hebrew</add>&#58;</p>
-			<p rend="indent(1)">What opinion had our sages of proselytes&#63;</p>
-			<p rend="indent(1)">A very unfavorable one&#33;</p>
-			<p rend="indent(1)">6.  Pessachim&#44; 112&#44; we read&#8212;<persName>Rabbi <del>Yehudah</del> Judah Han<del>n</del>as<del>s</del>i</persName><lb/> enjoined upon his children&#44; before he died&#44; that none of his<lb/> family should intermarry with proselytes&#44; <add>Hebrew</add><lb/> <add>Hebrew</add> &#42;<add>Hebrew</add> In Midrash Yalkut <add>Hebrew</add>&#44; we read&#58; <persName>Rabbi <del>Ch</del>Hiyah</persName> said<lb/> &#34;Do not trust proselytes&#44; have no confidence in their piety&#44;<lb/> neither in that of their children&#44; <add>Hebrew</add><lb/> <add>Hebrew</add>.  This unfavorable opinion<lb/> we find justified in <date>Sabbath</date>&#44; 33&#44; by <add>Hebrew</add>&#44; the<lb/> son of proselytes&#44; &#40;his father and mother were proselytes&#8212;<lb/><persName><hi rend="underline">Rash<del>y</del>i</hi></persName>&#44;&#41; who denounced <persName>Rabbi Simon ben Yo<del>c</del>ha<del>y</del>i</persName> before the king&#44;<lb/> in consequence of which the latter was compelled to save his<lb/> life by a hasty flight to a cavern&#44; wherein he remained hidden<lb/> twelve years&#59; and when&#44; after the death of the king&#44; he left<lb/> the cavern and met the denunciator <add>Hebrew</add>&#44; he said&#8212;<lb/> <add>Hebrew</add>.</p>
-				<p>&#42; When <persName>Rabby J.</persName> died&#44; his four sons were already married&#44;<lb/> therefore we translate <add>Hebrew</add> his family.</p>
+			<p rend="align(center)">-4-</p>
+			<p>was driven from their country to live with the many different<lb/> nations of the
+				earth, only for the great purpose to spread<lb/> the name and unity of God all over
+				the earth, to light the<lb/> light of God wherever there is darkness, and, through
+				us,<lb/> all the nations of the earth shall know that there is but<lb/> one God.</p>
+			<p rend="indent(1)">There is, to my knowledge, but one passage which<lb/> speaks more
+				favorably of the admission of <add>Hebrew</add> to Judaism,<lb/> and this is the
+					<add>Hebrew</add> Section <add>Hebrew</add>, where we read as<lb/> follows,
+					<add>Hebrew</add>:</p>
+			<p rend="indent(1)">What opinion had our sages of proselytes?</p>
+			<p rend="indent(1)">A very unfavorable one!</p>
+			<p rend="indent(1)">6. Pessachim, 112, we read—<persName>Rabbi <del>Yehudah</del> Judah
+						Han<del>n</del>as<del>s</del>i</persName><lb/> enjoined upon his children,
+				before he died, that none of his<lb/> family should intermarry with proselytes,
+					<add>Hebrew</add><lb/>
+				<add>Hebrew</add> *<add>Hebrew</add> In Midrash Yalkut <add>Hebrew</add>, we read:
+					<persName>Rabbi <del>Ch</del>Hiyah</persName> said<lb/> "Do not trust
+				proselytes, have no confidence in their piety,<lb/> neither in that of their
+				children, <add>Hebrew</add><lb/>
+				<add>Hebrew</add>. This unfavorable opinion<lb/> we find justified in
+					<date>Sabbath</date>, 33, by <add>Hebrew</add>, the<lb/> son of proselytes, (his
+				father and mother were proselytes—<lb/><persName><hi rend="underline"
+							>Rash<del>y</del>i</hi></persName>,) who denounced <persName>Rabbi Simon
+					ben Yo<del>c</del>ha<del>y</del>i</persName> before the king,<lb/> in
+				consequence of which the latter was compelled to save his<lb/> life by a hasty
+				flight to a cavern, wherein he remained hidden<lb/> twelve years; and when, after
+				the death of the king, he left<lb/> the cavern and met the denunciator
+					<add>Hebrew</add>, he said—<lb/>
+				<add>Hebrew</add>.</p>
+			<p>* When <persName>Rabby J.</persName> died, his four sons were already married,<lb/>
+				therefore we translate <add>Hebrew</add> his family.</p>
 			<pb n="5"/>
-				<p rend="align(center)">&#45;5&#45;</p>
-			<p rend="indent(1)">Here I beg leave to remark&#44; that&#44; when we meet the very<lb/> same <add>Hebrew</add> again in the Moed Kat<del>o</del>an&#44; 9&#44; as the name<lb/> of a great man to whom <persName>Rabbi Sim<del>e</del>on ben Yo<del>c</del>ha<del>y</del>i </persName>sends his<lb/> son to request his blessing&#44; it is merely a misprint&#44; and<lb/> instead of <add>Hebrew</add>&#44; it ought to be <add>Hebrew</add>&#44;<lb/> mentioned in Talmud Jerusalem Taanith&#44; sect. 2d&#58; <add>Hebrew</add><lb/> <add>Hebrew</add> &#40;see Mateh Mosheth&#44;<lb/> who also assumes as most probable that this <add>Hebrew</add> is<lb/> the same <add>Hebrew</add> of Moed Kat<del>o</del>an to whom <persName>Rabbi Sim<del>e</del>on ben<lb/> Yo<del>c</del>ha<del>y</del>i</persName> sent his son to be blessed&#41;.</p>
-			<p rend="indent(1)">From different other places in the Talmud&#44; we learn that<lb/> it was always regarded as an insult to be called &#34;Son of a<lb/> Proselyte&#44;&#34; see Yoma&#44; 71&#44; <add>Hebrew</add>.</p>
-			<p rend="indent(1)">The rank of proselyte was inferior to that of a <add>Hebrew</add><lb/> or <add>Hebrew</add>&#44; he was next to a freed slave. &#8212; See Mishnah Horayth<lb/> 13&#44; <add>Hebrew</add>.</p>
-			<p rend="indent(1)">We find that when <persName>Ezra</persName> found out that many Israelites<lb/> who came up with him from <placeName>Babylon</placeName> to <placeName>Jerusalem</placeName> lived with<lb/> <add>Hebrew</add>&#44; he ordered them to be sent away with their<lb/> children&#44; and so they did.  Why did he give them such a<lb/> cruel command&#44; could they not&#44; as many in similar cases are<lb/> doing now&#44; make their wives Jewesses&#44; or at least let the<lb/> children be circumcised and stay with their fathers&#63;  Surely<lb/> for no other reason than this that <persName>Ezra</persName> did not want to dis&#45;<lb/>grace the nation by making such proselytes and sport with the<lb/> holy Word of God&#44; and make by&#45;ways and side&#45;doors to the<lb/> sacred edifice of our holy religion&#44; that every one may<lb/> smuggle himself in and our whatever he pleases&#44; and thus suit<lb/> every one&#39;s way of thinking&#44; as <persName>Iben Ezra</persName> to <persName>Ezra</persName> vi. explains&#44;</p>
+			<p rend="align(center)">-5-</p>
+			<p rend="indent(1)">Here I beg leave to remark, that, when we meet the very<lb/> same
+					<add>Hebrew</add> again in the Moed Kat<del>o</del>an, 9, as the name<lb/> of a
+				great man to whom <persName>Rabbi Sim<del>e</del>on ben
+					Yo<del>c</del>ha<del>y</del>i </persName>sends his<lb/> son to request his
+				blessing, it is merely a misprint, and<lb/> instead of <add>Hebrew</add>, it ought
+				to be <add>Hebrew</add>,<lb/> mentioned in Talmud Jerusalem Taanith, sect. 2d:
+					<add>Hebrew</add><lb/>
+				<add>Hebrew</add> (see Mateh Mosheth,<lb/> who also assumes as most probable that
+				this <add>Hebrew</add> is<lb/> the same <add>Hebrew</add> of Moed Kat<del>o</del>an
+				to whom <persName>Rabbi Sim<del>e</del>on ben<lb/>
+					Yo<del>c</del>ha<del>y</del>i</persName> sent his son to be blessed).</p>
+			<p rend="indent(1)">From different other places in the Talmud, we learn that<lb/> it was
+				always regarded as an insult to be called "Son of a<lb/> Proselyte," see Yoma, 71,
+					<add>Hebrew</add>.</p>
+			<p rend="indent(1)">The rank of proselyte was inferior to that of a
+				<add>Hebrew</add><lb/> or <add>Hebrew</add>, he was next to a freed slave. — See
+				Mishnah Horayth<lb/> 13, <add>Hebrew</add>.</p>
+			<p rend="indent(1)">We find that when <persName>Ezra</persName> found out that many
+				Israelites<lb/> who came up with him from <placeName>Babylon</placeName> to
+					<placeName>Jerusalem</placeName> lived with<lb/>
+				<add>Hebrew</add>, he ordered them to be sent away with their<lb/> children, and so
+				they did. Why did he give them such a<lb/> cruel command, could they not, as many in
+				similar cases are<lb/> doing now, make their wives Jewesses, or at least let
+				the<lb/> children be circumcised and stay with their fathers? Surely<lb/> for no
+				other reason than this that <persName>Ezra</persName> did not want to dis-<lb/>grace
+				the nation by making such proselytes and sport with the<lb/> holy Word of God, and
+				make by-ways and side-doors to the<lb/> sacred edifice of our holy religion, that
+				every one may<lb/> smuggle himself in and our whatever he pleases, and thus
+				suit<lb/> every one's way of thinking, as <persName>Iben Ezra</persName> to
+					<persName>Ezra</persName> vi. explains,</p>
 			<pb n="6"/>
-				<p rend="align(center)">&#45;6&#45;</p>
-				<p><add>Hebrew</add>.</p>
-			<p rend="indent(1)">Hoping that this may cause our people to change their<lb/> opinion concerning proselytes&#44; I remain&#44; dear sir&#44;<lb/> Most respectfully yours&#44;</p>
-				<p><persName role="author">DR. ILLOWY</persName>.</p>
-			<p rend="align(center)"><hi rend="underline">&#40;THE OCCIDENT&#44; Vol. XXIII No. 1 &#40;<date>April 1865</date>&#41;&#44; p. 30&#45;33&#41;</hi></p>
-		
+			<p rend="align(center)">-6-</p>
+			<p><add>Hebrew</add>.</p>
+			<p rend="indent(1)">Hoping that this may cause our people to change their<lb/> opinion
+				concerning proselytes, I remain, dear sir,<lb/> Most respectfully yours,</p>
+			<p><persName role="author">DR. ILLOWY</persName>.</p>
+			<p rend="align(center)">
+				<hi rend="underline">(THE OCCIDENT, Vol. XXIII No. 1 (<date>April 1865</date>), p.
+					30-33)</hi>
+			</p>
 			<div>
-				<p><ref target="Occident_PDFs/Occ_23_1.pdf">The above text refers to Occident Volume 23 No. 1 pages 30 through 33. Click here to view.</ref></p>
+				<p>
+					<ref target="Occident_PDFs/Occ_23_1.pdf">The above text refers to Occident
+						Volume 23 No. 1 pages 30 through 33. Click here to view.</ref>
+				</p>
 			</div>
 		</body>
 	</text>

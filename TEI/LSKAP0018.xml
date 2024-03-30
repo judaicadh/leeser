@@ -1,258 +1,320 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="yes">Loewenthal, H.</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>LSKAP</repository>
-						<collection>The Arnold and Deanne Kaplan Collection of Early American Judaica</collection>
-						<idno>LSKAP0018</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="yes">Loewenthal, H.</author>
-						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac</addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>Macon, GA</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1860-08" source="" attested="yes">August 17, 1860</dateLet>
-						<dateLet when="1860-08" source="" attested="yes">29 Av 5620</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="LSKAP0018_1R.jpg"></graphic>
-								<graphic url="LSKAP0018_1V.jpg"></graphic>
-								<graphic url="LSKAP0018_2R.jpg"></graphic>
-								<graphic url="LSKAP0018_2V.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="false" paper_type="" size="">letter</material>
-								</support>
-								<extent>4 pages on 2 sheets
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="manuscript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="restricted">
-								<p>Restricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1R"/>
-				<p rend="align(right)"><placeName><sic>Macan</sic> Ga</placeName> <date>August 17th 5620</date></p>
-				<p><addressee>Revd I Leeser</addressee></p>
-				<p rend="indent(2)"><placeName>Phila.</placeName></p>
-			<p rend="indent(3)">Revd &#38; Dr Sir&#58;&#8212;&#45;</p>
-				<p>Not to be accused of unfriendliness &#38; in&#61;<lb/>diffrence that induces one to write of<lb/> the position of my congren as well<lb/> as that of my humble self&#8212;&#38; may<lb/> this be <sic>peraraphrased</sic>&#58; The congregation<lb/> of Israel in <placeName><sic>Macan</sic></placeName> have the most un&#61;<lb/>becoming &#38; unsuitable &#40;for there is <hi rend="underline">no light</hi><lb/> in it&#41; place of worship I ever met with.<lb/>  In its walls we meet <add>Hebrew</add> but <hi rend="underline">must</hi> wait<lb/> an hour at least <add>&#63;</add> a <add>Hebrew</add> is obtained&#8212;<lb/> a then I <hi rend="underline">must read off</hi> the prayers &#38;c<lb/> without spirit of devotion or instruction.<lb/>  Thus far with the Syn. The <hi rend="underline">Dietary Laws</hi><lb/> are not observed by the majority&#8212;yet<lb/> send poultry to the <add>Hebrew</add> to be killed&#33;  The school&#44;<lb/> that I opened with so much pride &#38; vigour<lb/> will soon be closed for want patronage.<lb/>  I had an examination on <date>Passover</date> last<lb/> held in the Syn. &#38; on <date>Sunday</date> after noon<lb/> &#38; yet <del>th</del> most of the parents of <hi rend="underline">those children</hi></p>
-			<pb n="1V"/>
-				<p>were absent&#8212;a splendid <hi rend="underline">taste</hi> for education&#33;<lb/>  &#38; on which occasion every thing passed off so<lb/> satsifactorily&#33;  In the Syn. I am ruled ex&#45;<lb/>tremely severe.  My Salary is never<lb/> paid punctually nor in a becoming<lb/> manner.  <del>This</del> Besides this&#44; will<lb/> they lose several members who were<lb/> the <hi rend="underline">chief payers</hi> &#40;there are several who tho&#39;<lb/> subscribed yet decline payment&#41; on account<lb/> of their departure from here within 2 months.<lb/>  Under these unpleasant circumstances&#44; what<lb/> remains for me to do&#44; but seek for a removal&#63;<lb/>  My reasons are these&#58; 1st Since my sojourn here<lb/> which being now above six months&#44; not a single<lb/> individual member of said congren hath been<lb/> visiting me or mine.  2d&#44; Their very<lb/> understandable disposition &#38; utter indifference.<lb/>  3d&#44; Having been twice grossly insulted during divine<lb/> service in the Syn &#38; in the presence of <add>&#63;</add><lb/> &#38;c&#44; &#38; not the least was done to the guilty&#45;party<lb/> whose&#44; if I had said that party it would have<lb/> had an acrid odour for the whole<lb/> community of Israel&#8212;&#38; I acquiesced&#33;<lb/>  4th I cannot get my salary from them&#45;<lb/>consequently I am obliged to take every<lb/> thing on credit&#8212;&#45;</p>
-			<pb n="2R"/>
-				<p>5th Inadequacy of my income to support myself<lb/> &#38; mine respectfully&#8212;&#38; this will &#38; must<lb/> be lessened on account of those <sic>imigrants</sic>.<lb/>  6th &#38; last&#44; but not least I feel desirous<lb/> to be useful&#8212;towards good&#8212;&#38; nothing<lb/> good can accrue from <placeName>Macon</placeName> Israelites<lb/> owing their evil practices&#8212;unjewish &#38;c&#33;<lb/>  How can their children &#40;who already laugh<lb/> from their parents <sic>hipocrisy</sic>&#41; become<lb/> good &#38; intelligent Israelites&#44; if <hi rend="underline">they</hi> poison<lb/> the very seed we import by reason of their<lb/> bad habits&#63;  I <add>&#63;</add>&#33;</p>
-				<p><sic>Appologising</sic> for not sending you<lb/> a sweeter &#38; a better communication&#44;<lb/> o how happy would I consider myself if<lb/> I were <add>Hebrew</add>&#33;  I feel also grieved on<lb/> account of my inability to make some remittance<lb/> to you&#44; especially now when you made<lb/> an effort&#33; But the Lord knows my heart<lb/> &#38; mind is full of good intentions &#38;<lb/> daily pray for its <sic>fulfilment</sic>&#59; so that<lb/> when the hour of our emancipation from<lb/> earthly&#45;troubles will come&#44; we may then<lb/> have the consciousness of having done our duty<lb/> as becomes an honest &#38; upright man<lb/> is the sincere wish of</p>
-			<pb n="2V"/>
-			<p rend="indent(4)">Revd &#38; Dear Sir</p>
-			<p rend="indent(5)">yours in faith</p>
-			<p rend="indent(6)"><persName role="author">H Loewenthal</persName></p>
-				<p>P.S. I shall be exceedingly glad to hear<lb/> from you<lb/> <persName role="author">HL</persName></p>
-				<p>N.B.  The &#8220;Occident&#8221; has not been<lb/> in <placeName>Macon</placeName> this week<lb/> <persName role="author">H L</persName></p>
-		</body>
-	</text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="yes">Loewenthal, H.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>LSKAP</repository>
+                        <collection>The Arnold and Deanne Kaplan Collection of Early American
+                            Judaica</collection>
+                        <idno>LSKAP0018</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="yes">Loewenthal,
+                            H.</author>
+                        <addressee accepted="yes" attested="yes" editor="false">Leeser,
+                            Isaac</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Macon, GA</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1860-08">August 17, 1860</dateLet>
+                        <dateLet attested="yes" source="" when="1860-08">29 Av 5620</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="LSKAP0018_1R.jpg"/>
+                                <graphic url="LSKAP0018_1V.jpg"/>
+                                <graphic url="LSKAP0018_2R.jpg"/>
+                                <graphic url="LSKAP0018_2V.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >letter</material>
+                                </support>
+                                <extent>4 pages on 2 sheets <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="restricted">
+                                <p>Restricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1R"/>
+            <p rend="align(right)">
+                <placeName><sic>Macan</sic> Ga</placeName>
+                <date>August 17th 5620</date>
+            </p>
+            <p>
+                <addressee>Revd I Leeser</addressee>
+            </p>
+            <p rend="indent(2)">
+                <placeName>Phila.</placeName>
+            </p>
+            <p rend="indent(3)">Revd &amp; Dr Sir:—-</p>
+            <p>Not to be accused of unfriendliness &amp; in=<lb/>diffrence that induces one to write
+                of<lb/> the position of my congren as well<lb/> as that of my humble self—&amp;
+                may<lb/> this be <sic>peraraphrased</sic>: The congregation<lb/> of Israel in
+                        <placeName><sic>Macan</sic></placeName> have the most un=<lb/>becoming &amp;
+                unsuitable (for there is <hi rend="underline">no light</hi><lb/> in it) place of
+                worship I ever met with.<lb/> In its walls we meet <add>משבת לשבת</add> but <hi
+                    rend="underline">must</hi> wait<lb/> an hour at least <add>?</add> a
+                    <add>שוחט</add> is obtained—<lb/> a then I <hi rend="underline">must read
+                    off</hi> the prayers &amp;c<lb/> without spirit of devotion or instruction.<lb/>
+                Thus far with the Syn. The <hi rend="underline">Dietary Laws</hi><lb/> are not
+                observed by the majority—yet<lb/> send poultry to the <add>המבשר טוב</add> to be
+                killed! The school,<lb/> that I opened with so much pride &amp; vigour<lb/> will
+                soon be closed for want patronage.<lb/> I had an examination on
+                    <date>Passover</date> last<lb/> held in the Syn. &amp; on <date>Sunday</date>
+                after noon<lb/> &amp; yet <del>th</del> most of the parents of <hi rend="underline"
+                    >those children</hi></p>
+            <pb n="1V"/>
+            <p>were absent—a splendid <hi rend="underline">taste</hi> for education!<lb/> &amp; on
+                which occasion every thing passed off so<lb/> satsifactorily! In the Syn. I am ruled
+                ex-<lb/>tremely severe. My Salary is never<lb/> paid punctually nor in a
+                becoming<lb/> manner. <del>This</del> Besides this, will<lb/> they lose several
+                members who were<lb/> the <hi rend="underline">chief payers</hi> (there are several
+                who tho'<lb/> subscribed yet decline payment) on account<lb/> of their departure
+                from here within 2 months.<lb/> Under these unpleasant circumstances, what<lb/>
+                remains for me to do, but seek for a removal?<lb/> My reasons are these: 1st Since
+                my sojourn here<lb/> which being now above six months, not a single<lb/> individual
+                member of said congren hath been<lb/> visiting me or mine. 2d, Their very<lb/>
+                understandable disposition &amp; utter indifference.<lb/> 3d, Having been twice
+                grossly insulted during divine<lb/> service in the Syn &amp; in the presence of
+                    <add>?</add><lb/> &amp;c, &amp; not the least was done to the guilty-party<lb/>
+                whose, if I had said that party it would have<lb/> had an acrid odour for the
+                whole<lb/> community of Israel—&amp; I acquiesced!<lb/> 4th I cannot get my salary
+                from them-<lb/>consequently I am obliged to take every<lb/> thing on credit—-</p>
+            <pb n="2R"/>
+            <p>5th Inadequacy of my income to support myself<lb/> &amp; mine respectfully—&amp; this
+                will &amp; must<lb/> be lessened on account of those <sic>imigrants</sic>.<lb/> 6th
+                &amp; last, but not least I feel desirous<lb/> to be useful—towards good—&amp;
+                nothing<lb/> good can accrue from <placeName>Macon</placeName> Israelites<lb/> owing
+                their evil practices—unjewish &amp;c!<lb/> How can their children (who already
+                laugh<lb/> from their parents <sic>hipocrisy</sic>) become<lb/> good &amp;
+                intelligent Israelites, if <hi rend="underline">they</hi> poison<lb/> the very seed
+                we import by reason of their<lb/> bad habits? I <add>?</add>!</p>
+            <p><sic>Appologising</sic> for not sending you<lb/> a sweeter &amp; a better
+                communication,<lb/> o how happy would I consider myself if<lb/> I were
+                    <add>Hebrew</add>! I feel also grieved on<lb/> account of my inability to make
+                some remittance<lb/> to you, especially now when you made<lb/> an effort! But the
+                Lord knows my heart<lb/> &amp; mind is full of good intentions &amp;<lb/> daily pray
+                for its <sic>fulfilment</sic>; so that<lb/> when the hour of our emancipation
+                from<lb/> earthly-troubles will come, we may then<lb/> have the consciousness of
+                having done our duty<lb/> as becomes an honest &amp; upright man<lb/> is the sincere
+                wish of</p>
+            <pb n="2V"/>
+            <p rend="indent(4)">Revd &amp; Dear Sir</p>
+            <p rend="indent(5)">yours in faith</p>
+            <p rend="indent(6)">
+                <persName role="author">H Loewenthal</persName>
+            </p>
+            <p>P.S. I shall be exceedingly glad to hear<lb/> from you<lb/>
+                <persName role="author">HL</persName></p>
+            <p>N.B. The “Occident” has not been<lb/> in <placeName>Macon</placeName> this week<lb/>
+                <persName role="author">H L</persName></p>
+        </body>
+    </text>
 </TEI>

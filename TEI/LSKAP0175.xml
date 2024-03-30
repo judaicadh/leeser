@@ -1,357 +1,543 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="yes">Leeser, Isaac</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>LSKAP</repository>
-						<collection>The Arnold and Deanne Kaplan Collection of Early American Judaica</collection>
-						<idno>LSKAP0175</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="yes">Leeser, Isaac</author>
-						<addressee editor="false" attested="yes" accepted="yes">Rehine, Zalma</addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>Philadelphia, PA</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1837" source="" attested="yes">1837</dateLet>
-						<dateLet when="1837" source="" attested="yes">5597</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="LSKAP0175_1r.jpg"></graphic>
-								<graphic url="LSKAP0175_1v.jpg"></graphic>
-								<graphic url="LSKAP0175_2r.jpg"></graphic>
-								<graphic url="LSKAP0175_2v.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="false" paper_type="" size="">letter</material>
-								</support>
-								<extent>4 pages on 2 sheets
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="manuscript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="restricted">
-								<p>Restricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1R"/>
-				<p rend="align(right)"><placeName>Philadelphia</placeName> <date>Menachem 28<hi rend="sup">th</hi>. 5597</date></p>
-				<p>Dear Uncle.</p>
-			<p rend="indent(1)">In <persName>Rachel&#39;s</persName> letter to <persName>Abby</persName> I scrawled a few lines&#44; but<lb/> as <persName>Mr. Moses</persName> does not go till tomorrow I have resolved&#44;<lb/> to write a little more in detail on the matter just now engrosses<lb/> naturally a good deal of my attention.  The congregation consists<lb/> of about 48 members&#44; seven or eight of whom are not in town<lb/> or perfectly in a <add>&#63;</add>.  I or <persName>Mr Lyons</persName> may be counted sure&#59;</p>
-				<table rows="4" cols="3">
-				<row>
-				<cell><persName>John Moss</persName></cell>
-				<cell><persName>Samuel Lyons</persName></cell>
-				<cell><persName>Joseph Asch</persName></cell>
-				</row>
-				<row>
-				<cell><persName>Frederic Samuel</persName></cell>
-				<cell><persName>Simeon Dreyfous</persName></cell>
-				<cell><persName>Aaron Asch</persName></cell>
-				</row>
-				<row>
-				<cell><persName>Hyman Pollock</persName></cell>
-				<cell><persName>Joseph L. Moss</persName></cell>
-				<cell><persName>David Samuel</persName></cell>
-				</row>
-				<row>
-				<cell><persName>E. L. Moss</persName></cell>
-				<cell/>
-				<cell/>
-				</row>
-				</table>
-				<p>10.</p>
-				<p>Probable</p>
-				<table rows="1" cols="3">
-				<row>
-				<cell><persName>Abr. M. Cohen</persName></cell>
-				<cell><persName>E. L. Cohen</persName></cell>
-				<cell><persName>J. A. Phillips</persName></cell>
-				</row>
-				</table>
-				<p>Possible</p>
-				<table rows="2" cols="3">
-				<row>
-				<cell><persName>Joseph S. Cohen</persName></cell>
-				<cell><persName>S. M. Cohen</persName></cell>
-				<cell><persName>Isaiah Nathans</persName></cell>
-				</row>
-				<row>
-				<cell><persName>Samuel M. Soloman</persName></cell>
-				<cell/>
-				<cell/>
-				</row>
-				</table>
-				<p> &#8211; in all seventeen 17.</p>
-				<p>For me certain</p>
-				<table rows="5" cols="3">
-				<row>
-				<cell><persName>Hyman Gratz</persName>&#44;</cell>
-				<cell><persName>Joseph Gratz</persName>&#44;</cell>
-				<cell><persName>Samuel Hays</persName></cell>
-				</row>
-				<row>
-				<cell><persName>Isaac B. Phillips</persName></cell>
-				<cell><persName>Joseph Phillips</persName></cell>
-				<cell><persName>Jacob Phillips</persName></cell>
-				</row>
-				<row>
-				<cell><persName>Elias Hyneman</persName></cell>
-				<cell><persName>Ab. E. Israel</persName></cell>
-				<cell><persName>J. P. Hackenburg</persName></cell>
-				</row>
-				<row>
-				<cell><persName>Ab. Hart</persName>&#44;</cell>
-				<cell><persName>S. Morris</persName></cell>
-				<cell><persName>Sol Moses</persName></cell>
-				</row>
-				<row>
-				<cell/>
-				<cell><persName>Isaac Jacob Levy</persName></cell>
-				<cell><persName>David Peroa <add>&#63;</add></persName></cell>
-				</row>
-				</table>
-				<p>If at meeting which however is doubtful whe&#45;<lb/>ther they will attend</p>
-				<table rows="3" cols="3">
-				<row>
-				<cell><persName>David Nathan</persName>&#44;</cell>
-				<cell><persName>Jacbob Nathan</persName>&#44;</cell>
-				<cell><persName>Liman Gratz</persName></cell>
-				</row>
-				<row>
-				<cell><persName>Jacob Gratz</persName>&#44;</cell>
-				<cell><persName>Isaac Moses</persName>&#44;</cell>
-				<cell><persName>N. Is. Hays</persName></cell>
-				</row>
-				<row>
-				<cell><persName>Barnet Eylinge</persName></cell>
-				<cell/>
-				<cell/>
-				</row>
-				</table>
-				<p>7</p>
-				<p>Doubtful altogether</p>
-				<table rows="2" cols="3">
-				<row>
-				<cell><persName>Lewis Allen</persName>&#44;</cell>
-				<cell><persName>Zeligman Phillips</persName>&#44;</cell>
-				<cell><persName>Aaron Levi</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>Reuben Etting</persName>&#44;</cell>
-				<cell><persName>Ern<add>&#63;</add> Etting</persName></cell>
-				<cell><persName>Ab. Elkin</persName></cell>
-				</row>
-				</table>
-				<p>6</p>
-			<pb n="1V"/>
-				<p>In all forty four members Absent and I believe no with us<lb/> <persName>Joseph J. Andrews</persName> &#38; <add><persName>David G. Seinar</persName>&#59;</add> <persName>Raphael De Cordova</persName>&#59; absent <persName>Jacob De Lan<add>&#63;</add></persName>&#44; and<lb/> <persName>Levi M. Goldsmit</persName>&#44; who if present would be for me&#44; and be certain<lb/> at meeting.  Of those ten put down for <persName>Lyons</persName>&#44; it is possible but<lb/> hardly likely that <persName>Joseph</persName> &#38; <persName>E. L. Moss</persName> will not be present&#59; and the<lb/> <persName>Cohens</persName>&#44; altho&#39; they are somewhat bitter against me&#44; may perhaps be<lb/> gained&#44; if <persName>Mr. Gratz</persName> can get a chance of speaking to them after the<lb/> <persName>Lyons</persName> have done all they can.  <persName>Joseph Cohen</persName> is in my favour&#44; but<lb/> <persName>Abraham</persName> has somehow conceived an opinion that I have slighted<lb/> him&#44; but I can freely say&#44; that it is without foundation.  He has<lb/> <add>&#63;</add> me for about two years&#44; and I never once saw him even<lb/> at his own house during all this time.  No doubt some expenses<lb/> have been busy with him as well as with others&#44; and he is about<lb/> such a man&#44; as can be influenced of his pride is flattered.  His<lb/> brothers hardly dare to disobey him&#44; so that if they will not vote<lb/> for <persName>Lyons</persName> they will perhaps stay at home&#44; unless <persName>Mrs Gratz</persName><lb/> &#38; her brother&#44; or I have mentioned already can induce them to<lb/> do as <add>they</add> should and would do&#44; were it not for the <hi rend="underline">friendship</hi> of<lb/> <persName>Samuel Lyons</persName>.&#95;&#95;Old <persName>Mr. Nathans</persName> is calculated on by them&#44;<lb/> but I hardly think&#44; that he has authorized them to use his name&#44;<lb/> on the contrary his expressions are often the whole in my favour.<lb/>  <persName>Altamont Phillips</persName> never was for me&#44; altho&#39; to all appearance there<lb/> never was a difference between us.  <persName>Plock</persName> once owed me fifteen<lb/> Dollars for 18 months&#44; and because he had to pay he is angry<lb/> there four pay.  <persName>Dreyfous</persName> never was for me&#59; why I never heard.<lb/>  The brothers <persName>Asch</persName> last year were busy to cut my salary down<lb/> and thought them at variance with the <persName>Lyons&#39;</persName> have since been<lb/> flattered over.  <persName>Mr. Moss</persName> &#38; his sons are likewise his son in law <persName>D.<lb/> Samuel</persName> &#38; his brother are of course for the family.&#95;&#95;But those on my</p>
-			<pb n="2R"/>
-				<p>side put down on certain have been uniform supporters except <persName>Jacob<lb/> Phillips</persName> &#38; <persName>Elias Hyneman</persName>&#44; as also <persName>Joseph Phillips</persName> &#38; <persName>I. J. Levy</persName>&#44; who last year<lb/> gave such votes as caused all the present difficulty&#59; of them four<lb/> had supported <persName>Abraham Hart&#39;s</persName> resolution&#44; and not been fooled by <persName>Mr<lb/> John Moss</persName> I would have been elected for three years&#59; but <persName>Mr. M.</persName> pro&#45;<lb/>fessing that he never wished to see me out of office&#44; they believed him&#44;<lb/> and were caught in the cunning trap of annual elections&#44; in order<lb/> as was said to keep the officers defendant&#44; but in truth to make<lb/> room for <persName>Lyons</persName>.  <persName>S. Morris</persName> has been friendly&#44; though I know not whether<lb/> he ever gave a vote for me&#44; I rather think the opposite is the case.<lb/>  <persName>Isaac B. Phillips</persName> never attended meeting&#44; but now he has<lb/> been roused by the monstrous injustice the <persName>Moss</persName> family intend.<lb/>  <persName>Simon Gratz</persName> likewise was never present at an election these 8<lb/> years&#44; altho&#39; it is said he has now expressed his intention of<lb/> attending.  <persName>David</persName> &#38; <persName>Jacob Nathans</persName>&#44; son of <persName>Isaiah</persName> may perhaps be<lb/> brought to the meeting by <persName>David Peroa</persName>&#44; as also <persName>Samuel M.<lb/> Solomon</persName>&#44; who is counted on by <persName>Lyons</persName>&#59; <persName>Lewis Allen</persName> I call doubtful<lb/> because he is a brother in law of <persName>Lyons</persName>&#44; and has not said any<lb/> thing from which his intentions can be known.  <persName>Mr. Elkin</persName> never<lb/> goes to meeting and then he cannot be depended upon because<lb/> he speaks fair to all.  <persName>Jacob Gratz</persName> altho&#39; a staunch friend<lb/> has latterly almost withdrawn from congregational business &#38; it is<lb/> doubtful whether he will be in town and of whether his sister can<lb/> make him go down&#59; yet doubtless he will be roused&#44; and if so&#44; he<lb/> will cast a vote in my favour.&#95;&#95;<persName>B. Eylinge<add>&#63;</add></persName> is lame of grat<add>&#63;</add>&#44;<lb/> but yet if urged by my friend may go for me&#44; or otherwise for<lb/> <persName>Lyons</persName>&#59; he is like <persName>Elkin</persName> smooth spoken.  <persName>Isaac Moses</persName> &#38; <persName>Isaac<lb/> Hays</persName> never go to meeting&#44; yet <persName>Miss Gratz</persName> may induce them to<lb/> attend for that day.&#8212;<persName>Zalegman Phillips</persName> has never been for me&#44;<lb/> and even if he votes for me&#44; he may do it in such a manner as to<lb/> destroy all good effects from it.  <persName>Aaron Levy</persName> is also very doubtful&#44; altho&#39;</p>
-			<pb n="2V"/>
-				<p>he is said to have spoken in my favour.&#95; Remember <persName>Etting</persName> is calculated in for <persName>Lyons</persName><lb/> because I would not attend the funeral of his grandchild&#59; yet I believe this<lb/> to be false&#44; as he would hardly so much offend his relatives&#44; who always have<lb/> been kind to him&#59; yet I should think he will not go to meeting.  His son<lb/> <persName>Gratz</persName> you know has been crazy&#44; and if he is even well&#44; it is hardly to be<lb/> supposed that he will dare to expose himself to the excitement of a<lb/> public meeting.  I candidly believe that I have given you a fair statement&#44;<lb/> and you will see that <persName>Lyons</persName> will have certain from 8&#45;10&#59; I about 14&#44;<lb/> doubtful when present 19&#59; doubtful whether they will come 10&#59; now if we<lb/> divide these 20 and give him 20&#44; the rest for me 24&#59; it is certainly&#59; by no means ascertained who will be elected&#59; but if there is a<lb/> full meeting&#44; it is not likely that he can be carried.  The<lb/> only fear is a thin meeting&#44; when 12 or 14 determined men<lb/> can do as they please.  But persons have so often publicly said&#44;<lb/> that <persName>Mr. Lyon&#39;s</persName> conduct was shameful&#44; that one would suppose<lb/> in reason&#44; that it would unite all&#44; who are in my favour&#59; but time<lb/> only can show.  He may be elected&#44; but if he is&#44; it is by management<lb/> and such tricks as he must be ever ashamed of.&#95;They have also av<lb/>owed to get scholar for him&#44; without asking me&#44; whether it would<lb/> interfere with my interest.&#95;Last Sundry<add>&#63;</add> week I called at <persName>Mr.<lb/> Allen&#39;s</persName> and left word&#44; that if <persName>Mr Lyons</persName> would let me see his certificates<lb/> I would let him read.  The certificates were left in <persName>Mr A&#39;s</persName> hands&#44; never.<lb/>  theless<add>&#63;</add> they  continued running to members&#44; and at length obtained g<add>&#63;</add><lb/>  Even to <persName>Sol. Moses</persName> they sent <persName>Joseph Moss</persName> &#38; <persName>Isaac Phillips</persName>&#44; not daring<lb/> to go themselves&#59; but he told them&#44; they <add>&#63;</add>ebah belong to me&#44; and<lb/> I alone have the power to dispose of the prayers.  The signers to the<lb/> petition requesting the Parnass to appoint &#40;whether I would or not&#41; were <persName>Mr Nathans</persName>&#44;<lb/> <persName>E. L. Cohen</persName>&#44; <persName>T. Samuel</persName>&#44; <persName>Hyman Pollock</persName>&#44; <persName>E. Hyneman</persName>&#44; <persName>A. Elkin</persName>&#44; <persName>Aaron Asch</persName>&#44;<lb/> <persName>B. Lytinger</persName> &#38; I think <persName>Aaron Luz</persName>&#59; but I am not certain.  <persName>Hyneman</persName> &#38; <persName>Nathans</persName><lb/> declared they merely did it to give him a chance&#44; but nothing further.  He read</p>
-		</body>
-	</text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="yes">Leeser, Isaac</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>LSKAP</repository>
+                        <collection>The Arnold and Deanne Kaplan Collection of Early American
+                            Judaica</collection>
+                        <idno>LSKAP0175</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="yes">Leeser, Isaac</author>
+                        <addressee accepted="yes" attested="yes" editor="false">Rehine,
+                            Zalma</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1837">1837</dateLet>
+                        <dateLet attested="yes" source="" when="1837">5597</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="LSKAP0175_1r.jpg"/>
+                                <graphic url="LSKAP0175_1v.jpg"/>
+                                <graphic url="LSKAP0175_2r.jpg"/>
+                                <graphic url="LSKAP0175_2v.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >letter</material>
+                                </support>
+                                <extent>4 pages on 2 sheets <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="restricted">
+                                <p>Restricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1R"/>
+            <p rend="align(right)">
+                <placeName>Philadelphia</placeName>
+                <date>Menachem 28<hi rend="sup">th</hi>. 5597</date>
+            </p>
+            <p>Dear Uncle.</p>
+            <p rend="indent(1)">In <persName>Rachel's</persName> letter to <persName>Abby</persName>
+                I scrawled a few lines, but<lb/> as <persName>Mr. Moses</persName> does not go till
+                tomorrow I have resolved,<lb/> to write a little more in detail on the matter just
+                now engrosses<lb/> naturally a good deal of my attention. The congregation
+                consists<lb/> of about 48 members, seven or eight of whom are not in town<lb/> or
+                perfectly in a <add>?</add>. I or <persName>Mr Lyons</persName> may be counted
+                sure;</p>
+            <table cols="3" rows="4">
+                <row>
+                    <cell>
+                        <persName>John Moss</persName>
+                    </cell>
+                    <cell>
+                        <persName>Samuel Lyons</persName>
+                    </cell>
+                    <cell>
+                        <persName>Joseph Asch</persName>
+                    </cell>
+                </row>
+                <row>
+                    <cell>
+                        <persName>Frederic Samuel</persName>
+                    </cell>
+                    <cell>
+                        <persName>Simeon Dreyfous</persName>
+                    </cell>
+                    <cell>
+                        <persName>Aaron Asch</persName>
+                    </cell>
+                </row>
+                <row>
+                    <cell>
+                        <persName>Hyman Pollock</persName>
+                    </cell>
+                    <cell>
+                        <persName>Joseph L. Moss</persName>
+                    </cell>
+                    <cell>
+                        <persName>David Samuel</persName>
+                    </cell>
+                </row>
+                <row>
+                    <cell>
+                        <persName>E. L. Moss</persName>
+                    </cell>
+                    <cell/>
+                    <cell/>
+                </row>
+            </table>
+            <p>10.</p>
+            <p>Probable</p>
+            <table cols="3" rows="1">
+                <row>
+                    <cell>
+                        <persName>Abr. M. Cohen</persName>
+                    </cell>
+                    <cell>
+                        <persName>E. L. Cohen</persName>
+                    </cell>
+                    <cell>
+                        <persName>J. A. Phillips</persName>
+                    </cell>
+                </row>
+            </table>
+            <p>Possible</p>
+            <table cols="3" rows="2">
+                <row>
+                    <cell>
+                        <persName>Joseph S. Cohen</persName>
+                    </cell>
+                    <cell>
+                        <persName>S. M. Cohen</persName>
+                    </cell>
+                    <cell>
+                        <persName>Isaiah Nathans</persName>
+                    </cell>
+                </row>
+                <row>
+                    <cell>
+                        <persName>Samuel M. Soloman</persName>
+                    </cell>
+                    <cell/>
+                    <cell/>
+                </row>
+            </table>
+            <p> – in all seventeen 17.</p>
+            <p>For me certain</p>
+            <table cols="3" rows="5">
+                <row>
+                    <cell><persName>Hyman Gratz</persName>,</cell>
+                    <cell><persName>Joseph Gratz</persName>,</cell>
+                    <cell>
+                        <persName>Samuel Hays</persName>
+                    </cell>
+                </row>
+                <row>
+                    <cell>
+                        <persName>Isaac B. Phillips</persName>
+                    </cell>
+                    <cell>
+                        <persName>Joseph Phillips</persName>
+                    </cell>
+                    <cell>
+                        <persName>Jacob Phillips</persName>
+                    </cell>
+                </row>
+                <row>
+                    <cell>
+                        <persName>Elias Hyneman</persName>
+                    </cell>
+                    <cell>
+                        <persName>Ab. E. Israel</persName>
+                    </cell>
+                    <cell>
+                        <persName>J. P. Hackenburg</persName>
+                    </cell>
+                </row>
+                <row>
+                    <cell><persName>Ab. Hart</persName>,</cell>
+                    <cell>
+                        <persName>S. Morris</persName>
+                    </cell>
+                    <cell>
+                        <persName>Sol Moses</persName>
+                    </cell>
+                </row>
+                <row>
+                    <cell/>
+                    <cell>
+                        <persName>Isaac Jacob Levy</persName>
+                    </cell>
+                    <cell>
+                        <persName>David Peroa <add>?</add></persName>
+                    </cell>
+                </row>
+            </table>
+            <p>If at meeting which however is doubtful whe-<lb/>ther they will attend</p>
+            <table cols="3" rows="3">
+                <row>
+                    <cell><persName>David Nathan</persName>,</cell>
+                    <cell><persName>Jacbob Nathan</persName>,</cell>
+                    <cell>
+                        <persName>Liman Gratz</persName>
+                    </cell>
+                </row>
+                <row>
+                    <cell><persName>Jacob Gratz</persName>,</cell>
+                    <cell><persName>Isaac Moses</persName>,</cell>
+                    <cell>
+                        <persName>N. Is. Hays</persName>
+                    </cell>
+                </row>
+                <row>
+                    <cell>
+                        <persName>Barnet Eylinge</persName>
+                    </cell>
+                    <cell/>
+                    <cell/>
+                </row>
+            </table>
+            <p>7</p>
+            <p>Doubtful altogether</p>
+            <table cols="3" rows="2">
+                <row>
+                    <cell><persName>Lewis Allen</persName>,</cell>
+                    <cell><persName>Zeligman Phillips</persName>,</cell>
+                    <cell><persName>Aaron Levi</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>Reuben Etting</persName>,</cell>
+                    <cell>
+                        <persName>Ern<add>?</add> Etting</persName>
+                    </cell>
+                    <cell>
+                        <persName>Ab. Elkin</persName>
+                    </cell>
+                </row>
+            </table>
+            <p>6</p>
+            <pb n="1V"/>
+            <p>In all forty four members Absent and I believe no with us<lb/>
+                <persName>Joseph J. Andrews</persName> &amp; <add><persName>David G.
+                        Seinar</persName>;</add>
+                <persName>Raphael De Cordova</persName>; absent <persName>Jacob De
+                    Lan<add>?</add></persName>, and<lb/>
+                <persName>Levi M. Goldsmit</persName>, who if present would be for me, and be
+                certain<lb/> at meeting. Of those ten put down for <persName>Lyons</persName>, it is
+                possible but<lb/> hardly likely that <persName>Joseph</persName> &amp; <persName>E.
+                    L. Moss</persName> will not be present; and the<lb/>
+                <persName>Cohens</persName>, altho' they are somewhat bitter against me, may perhaps
+                be<lb/> gained, if <persName>Mr. Gratz</persName> can get a chance of speaking to
+                them after the<lb/>
+                <persName>Lyons</persName> have done all they can. <persName>Joseph Cohen</persName>
+                is in my favour, but<lb/>
+                <persName>Abraham</persName> has somehow conceived an opinion that I have
+                slighted<lb/> him, but I can freely say, that it is without foundation. He has<lb/>
+                <add>?</add> me for about two years, and I never once saw him even<lb/> at his own
+                house during all this time. No doubt some expenses<lb/> have been busy with him as
+                well as with others, and he is about<lb/> such a man, as can be influenced of his
+                pride is flattered. His<lb/> brothers hardly dare to disobey him, so that if they
+                will not vote<lb/> for <persName>Lyons</persName> they will perhaps stay at home,
+                unless <persName>Mrs Gratz</persName><lb/> &amp; her brother, or I have mentioned
+                already can induce them to<lb/> do as <add>they</add> should and would do, were it
+                not for the <hi rend="underline">friendship</hi> of<lb/>
+                <persName>Samuel Lyons</persName>.__Old <persName>Mr. Nathans</persName> is
+                calculated on by them,<lb/> but I hardly think, that he has authorized them to use
+                his name,<lb/> on the contrary his expressions are often the whole in my favour.<lb/>
+                <persName>Altamont Phillips</persName> never was for me, altho' to all appearance
+                there<lb/> never was a difference between us. <persName>Plock</persName> once owed
+                me fifteen<lb/> Dollars for 18 months, and because he had to pay he is angry<lb/>
+                there four pay. <persName>Dreyfous</persName> never was for me; why I never
+                heard.<lb/> The brothers <persName>Asch</persName> last year were busy to cut my
+                salary down<lb/> and thought them at variance with the <persName>Lyons'</persName>
+                have since been<lb/> flattered over. <persName>Mr. Moss</persName> &amp; his sons
+                are likewise his son in law <persName>D.<lb/> Samuel</persName> &amp; his brother
+                are of course for the family.__But those on my</p>
+            <pb n="2R"/>
+            <p>side put down on certain have been uniform supporters except <persName>Jacob<lb/>
+                    Phillips</persName> &amp; <persName>Elias Hyneman</persName>, as also
+                    <persName>Joseph Phillips</persName> &amp; <persName>I. J. Levy</persName>, who
+                last year<lb/> gave such votes as caused all the present difficulty; of them
+                four<lb/> had supported <persName>Abraham Hart's</persName> resolution, and not been
+                fooled by <persName>Mr<lb/> John Moss</persName> I would have been elected for three
+                years; but <persName>Mr. M.</persName> pro-<lb/>fessing that he never wished to see
+                me out of office, they believed him,<lb/> and were caught in the cunning trap of
+                annual elections, in order<lb/> as was said to keep the officers defendant, but in
+                truth to make<lb/> room for <persName>Lyons</persName>. <persName>S.
+                    Morris</persName> has been friendly, though I know not whether<lb/> he ever gave
+                a vote for me, I rather think the opposite is the case.<lb/>
+                <persName>Isaac B. Phillips</persName> never attended meeting, but now he has<lb/>
+                been roused by the monstrous injustice the <persName>Moss</persName> family intend.<lb/>
+                <persName>Simon Gratz</persName> likewise was never present at an election these
+                8<lb/> years, altho' it is said he has now expressed his intention of<lb/>
+                attending. <persName>David</persName> &amp; <persName>Jacob Nathans</persName>, son
+                of <persName>Isaiah</persName> may perhaps be<lb/> brought to the meeting by
+                    <persName>David Peroa</persName>, as also <persName>Samuel M.<lb/>
+                    Solomon</persName>, who is counted on by <persName>Lyons</persName>;
+                    <persName>Lewis Allen</persName> I call doubtful<lb/> because he is a brother in
+                law of <persName>Lyons</persName>, and has not said any<lb/> thing from which his
+                intentions can be known. <persName>Mr. Elkin</persName> never<lb/> goes to meeting
+                and then he cannot be depended upon because<lb/> he speaks fair to all.
+                    <persName>Jacob Gratz</persName> altho' a staunch friend<lb/> has latterly
+                almost withdrawn from congregational business &amp; it is<lb/> doubtful whether he
+                will be in town and of whether his sister can<lb/> make him go down; yet doubtless
+                he will be roused, and if so, he<lb/> will cast a vote in my favour.__<persName>B.
+                        Eylinge<add>?</add></persName> is lame of grat<add>?</add>,<lb/> but yet if
+                urged by my friend may go for me, or otherwise for<lb/>
+                <persName>Lyons</persName>; he is like <persName>Elkin</persName> smooth spoken.
+                    <persName>Isaac Moses</persName> &amp; <persName>Isaac<lb/> Hays</persName>
+                never go to meeting, yet <persName>Miss Gratz</persName> may induce them to<lb/>
+                attend for that day.—<persName>Zalegman Phillips</persName> has never been for
+                me,<lb/> and even if he votes for me, he may do it in such a manner as to<lb/>
+                destroy all good effects from it. <persName>Aaron Levy</persName> is also very
+                doubtful, altho'</p>
+            <pb n="2V"/>
+            <p>he is said to have spoken in my favour._ Remember <persName>Etting</persName> is
+                calculated in for <persName>Lyons</persName><lb/> because I would not attend the
+                funeral of his grandchild; yet I believe this<lb/> to be false, as he would hardly
+                so much offend his relatives, who always have<lb/> been kind to him; yet I should
+                think he will not go to meeting. His son<lb/>
+                <persName>Gratz</persName> you know has been crazy, and if he is even well, it is
+                hardly to be<lb/> supposed that he will dare to expose himself to the excitement of
+                a<lb/> public meeting. I candidly believe that I have given you a fair
+                statement,<lb/> and you will see that <persName>Lyons</persName> will have certain
+                from 8-10; I about 14,<lb/> doubtful when present 19; doubtful whether they will
+                come 10; now if we<lb/> divide these 20 and give him 20, the rest for me 24; it is
+                certainly; by no means ascertained who will be elected; but if there is a<lb/> full
+                meeting, it is not likely that he can be carried. The<lb/> only fear is a thin
+                meeting, when 12 or 14 determined men<lb/> can do as they please. But persons have
+                so often publicly said,<lb/> that <persName>Mr. Lyon's</persName> conduct was
+                shameful, that one would suppose<lb/> in reason, that it would unite all, who are in
+                my favour; but time<lb/> only can show. He may be elected, but if he is, it is by
+                management<lb/> and such tricks as he must be ever ashamed of._They have also
+                av<lb/>owed to get scholar for him, without asking me, whether it would<lb/>
+                interfere with my interest._Last Sundry<add>?</add> week I called at
+                    <persName>Mr.<lb/> Allen's</persName> and left word, that if <persName>Mr
+                    Lyons</persName> would let me see his certificates<lb/> I would let him read.
+                The certificates were left in <persName>Mr A's</persName> hands, never.<lb/>
+                    theless<add>?</add> they continued running to members, and at length obtained
+                    g<add>?</add><lb/> Even to <persName>Sol. Moses</persName> they sent
+                    <persName>Joseph Moss</persName> &amp; <persName>Isaac Phillips</persName>, not
+                daring<lb/> to go themselves; but he told them, they <add>?</add>ebah belong to me,
+                and<lb/> I alone have the power to dispose of the prayers. The signers to the<lb/>
+                petition requesting the Parnass to appoint (whether I would or not) were
+                    <persName>Mr Nathans</persName>,<lb/>
+                <persName>E. L. Cohen</persName>, <persName>T. Samuel</persName>, <persName>Hyman
+                    Pollock</persName>, <persName>E. Hyneman</persName>, <persName>A.
+                    Elkin</persName>, <persName>Aaron Asch</persName>,<lb/>
+                <persName>B. Lytinger</persName> &amp; I think <persName>Aaron Luz</persName>; but I
+                am not certain. <persName>Hyneman</persName> &amp; <persName>Nathans</persName><lb/>
+                declared they merely did it to give him a chance, but nothing further. He read</p>
+        </body>
+    </text>
 </TEI>

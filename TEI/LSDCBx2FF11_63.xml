@@ -1,247 +1,279 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="unk"></author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>CAJS Isaac Leeser Collection</repository>
-						<collection>The Library of the Dropsie College for Hebrew and Cognate Learning</collection>
-						<idno>LSDCBx2FF11_63</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="unk"></author>
-						<addressee editor="false" attested="yes" accepted="yes"></addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet></placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1864-12" source="" attested="yes">24 December 1864</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="ilcajs_b2f11_0062_1r.jpg"></graphic>
-								<graphic url="ilcajs_b2f11_0062_2r.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="false" paper_type="" size="Letter">letter</material>
-								</support>
-								<extent>2 pages on 2 sheets
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false">Fragile</condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="manuscript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="free">
-								<p>Unrestricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1"/>
-				<p rend="align(center)">Translated from the Curacaische Courant of the <date>24th December 1864</date></p>
-			<p rend="indent(1)">The Society &#8220;El Porvenir&#8221; established in this <placeName>Island</placeName> has<lb/> sumptuously celebrated the first year of its existence&#44; on <date>Saturday</date> last<lb/> the <date>17th</date>.  Several houses and vessels were decorated with flags of different<lb/> nations&#44; which gave a beautiful appearance to our harbour.  At 7 o&#39;clock<lb/> in the morning and at &#189; past 6 in the afternoon the Dutch Schooner<lb/> &#8220;Galgo&#44;&#8221; owned by <persName>Mr. Abm. Ib. Jesurun</persName>&#44; left the harbour decorated with flags&#44;<lb/> and fired a salute of 21 guns opposite the dwelling of <persName>Mr. Da. Senior Jr.</persName> who&#44;<lb/> as Vice&#45;President of above named Society&#44; gave a splendid ball in the evening<lb/> of that day in celebration of the festivity.  Before the commencement of the ball&#44;<lb/> which was numerously attended&#44; <persName>Dr A. M. C. Henriquez</persName> President of the<lb/> Society delivered an address&#44; where he developed&#44; in a concise manner &#38; in<lb/> eloquent language&#44; the progress of the society during the past year.  Afterwards<lb/> a magnificent piece of fire work was ignited&#44; which in exploding displayed<lb/> a flag with the following inscription &#8220;El Provenir&#44; <date>17 Diciembre 1863</date>&#8221;</p>
-			<p rend="indent(1)">The ball lasted <sic>untill</sic> early in the morning of the <date>18th</date> and the guests<lb/> retired most <sic>agreably</sic> impressed and highly pleased with the entertainment.</p>
-			<p rend="indent(1)">On the same day the Dutch Reformed Israelitish Congregation intro&#45;<lb/>duced for the first time at their divine service singing accompanied by an<lb/> Organ.  A Cabinet Organ&#44; imported from the <placeName>U. S of America</placeName>&#44; as the most<lb/> appropriate for the building where this Cong&#58; keeps its services&#44; has proved<lb/> satisfactory in every respect.  The Choir was entirely composed of amateurs.<lb/>  We cannot refrain from declaring that it has in every respect surpassed<lb/> our expectation&#44; and it was clearly to be perceived on the countenance of<lb/> those present&#44; what a salutary impression singing &#38; music makes on the<lb/> minds of men.</p>
-			<p rend="indent(1)">The solemnity of the service&#44; &#40;which was well attended&#41; was much</p>
-			<pb n="2"/>
-				<p>enhanced by an address given by <persName>Mr A. C. Henriquez</persName>&#44; the object of which<lb/> was to point out the utility of music at public worship.</p>
-			<p rend="indent(1)">We wish all happiness &#38; prosperity to the members of the new<lb/> congregation.</p>
-		</body>
-	</text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="unk"/>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS Isaac Leeser Collection</repository>
+                        <collection>The Library of the Dropsie College for Hebrew and Cognate
+                            Learning</collection>
+                        <idno>LSDCBx2FF11_63</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="unk"/>
+                        <addressee accepted="yes" attested="yes" editor="false"/>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet/>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1864-12">24 December 1864</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="ilcajs_b2f11_0062_1r.jpg"/>
+                                <graphic url="ilcajs_b2f11_0062_2r.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size="Letter"
+                                        >letter</material>
+                                </support>
+                                <extent>2 pages on 2 sheets <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false">Fragile</condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <p rend="align(center)">Translated from the Curacaische Courant of the <date>24th
+                    December 1864</date></p>
+            <p rend="indent(1)">The Society “El Porvenir” established in this
+                    <placeName>Island</placeName> has<lb/> sumptuously celebrated the first year of
+                its existence, on <date>Saturday</date> last<lb/> the <date>17th</date>. Several
+                houses and vessels were decorated with flags of different<lb/> nations, which gave a
+                beautiful appearance to our harbour. At 7 o'clock<lb/> in the morning and at ½ past
+                6 in the afternoon the Dutch Schooner<lb/> “Galgo,” owned by <persName>Mr. Abm. Ib.
+                    Jesurun</persName>, left the harbour decorated with flags,<lb/> and fired a
+                salute of 21 guns opposite the dwelling of <persName>Mr. Da. Senior Jr.</persName>
+                who,<lb/> as Vice-President of above named Society, gave a splendid ball in the
+                evening<lb/> of that day in celebration of the festivity. Before the commencement of
+                the ball,<lb/> which was numerously attended, <persName>Dr A. M. C.
+                    Henriquez</persName> President of the<lb/> Society delivered an address, where
+                he developed, in a concise manner &amp; in<lb/> eloquent language, the progress of
+                the society during the past year. Afterwards<lb/> a magnificent piece of fire work
+                was ignited, which in exploding displayed<lb/> a flag with the following inscription
+                “El Provenir, <date>17 Diciembre 1863</date>”</p>
+            <p rend="indent(1)">The ball lasted <sic>untill</sic> early in the morning of the
+                    <date>18th</date> and the guests<lb/> retired most <sic>agreably</sic> impressed
+                and highly pleased with the entertainment.</p>
+            <p rend="indent(1)">On the same day the Dutch Reformed Israelitish Congregation
+                intro-<lb/>duced for the first time at their divine service singing accompanied by
+                an<lb/> Organ. A Cabinet Organ, imported from the <placeName>U. S of
+                    America</placeName>, as the most<lb/> appropriate for the building where this
+                Cong: keeps its services, has proved<lb/> satisfactory in every respect. The Choir
+                was entirely composed of amateurs.<lb/> We cannot refrain from declaring that it has
+                in every respect surpassed<lb/> our expectation, and it was clearly to be perceived
+                on the countenance of<lb/> those present, what a salutary impression singing &amp;
+                music makes on the<lb/> minds of men.</p>
+            <p rend="indent(1)">The solemnity of the service, (which was well attended) was much</p>
+            <pb n="2"/>
+            <p>enhanced by an address given by <persName>Mr A. C. Henriquez</persName>, the object
+                of which<lb/> was to point out the utility of music at public worship.</p>
+            <p rend="indent(1)">We wish all happiness &amp; prosperity to the members of the
+                new<lb/> congregation.</p>
+        </body>
+    </text>
 </TEI>

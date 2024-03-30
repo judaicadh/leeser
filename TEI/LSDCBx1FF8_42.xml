@@ -1,269 +1,552 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE TEI [
-<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
-%teibase;
-<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
-%teiext;
-]>
-<TEI>
-    <teiHeader>
-      <fileDesc>
-        <titleStmt>
-          <title>[no title given]</title>
-          <author attested="yes" accepted="yes" signature="yes">Melodola, David</author>
-          <editor></editor>
-          <sponsor></sponsor>
-          <funder></funder>
-          <principal></principal>
-          <respStmt>
-            <resp></resp>
-            <name></name>
-          </respStmt>
-        </titleStmt>
-        <editionStmt>
-          <edition></edition>
-          <respStmt>
-            <resp></resp>
-            <name></name>
-          </respStmt>
-        </editionStmt>
-        <extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-        <publicationStmt>
-          <publisher>Unpublished manuscript</publisher>
-        </publicationStmt>
-        <seriesStmt>
-          <p>Not part of a series</p>
-        </seriesStmt>
-        <notesStmt>
-          <note></note>
-        </notesStmt>
-        <sourceDesc>
-          <biblStruct>
-            <!-- catalog entry goes here -->
-            <monogr>
-              <imprint>
-                <dateLet></dateLet>
-              </imprint>
-            </monogr>
-          </biblStruct>
-          <msDesc>
-            <msIdentifier>
-              <country>USA</country>
-              <region>PA</region>
-              <settlement>Philadelphia</settlement>
-              <institution></institution>
-              <repository>CAJS Isaac Leeser Collection</repository>
-              <collection>The Library of the Dropsie College for Hebrew and Cognate Learning</collection>
-              <idno>LSDCBx1FF8_42</idno>
-              <altIdentifier>
-                <idno></idno>
-              </altIdentifier>
-              <msName></msName>
-            </msIdentifier>
-            <head></head>
-            <letHeading>
-              <author attested="yes" accepted="yes" signature="yes">Melodola, David</author>
-              <addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac, Rev.</addressee>
-              <deliverer></deliverer>
-              <respStmt>
-                <resp></resp>
-                <name></name>
-              </respStmt>
-              <placeLet>London, United Kingdom</placeLet>
-              <placeRec>Philadelphia, PA</placeRec>
-              <dateLet when="1851-05" source="" attested="yes">9 May 1851</dateLet>
-              <dateLet when="1851-05" source="" attested="yes">7 Iyar 5611</dateLet>
-            </letHeading>
-            <msContents>
-              <msItem>
-                <author></author>
-                <editor></editor>
-                <respStmt>
-                  <resp></resp>
-                  <name></name>
-                </respStmt>
-                <title></title>
-                <decoNote></decoNote>
-                <listBibl>
-                  <bibl></bibl>
-                </listBibl>
-                <filiation></filiation>
-                <textLang></textLang>
-                <figure>
-                  <graphic url="ilcajs_b1f8_0036_1r.jpg"/>
-                  <graphic url="ilcajs_b1f8_0036_1v.jpg"/>
-                  <graphic url="ilcajs_b1f8_0036_2r.jpg"/>
-                  <graphic url="ilcajs_b1f8_0036_2v.jpg"/>
-                </figure>
-              </msItem>
-            </msContents>
-            <physDesc>
-              <objectDesc>
-                <supportDesc>
-                  <support>
-                    <material color="" lined="false" paper_type="" size="Letter">letter</material>
-                  </support>
-                  <extent>4 pages on 2 sheets
-                    <dimensions></dimensions>
-                  </extent>
-                  <foliation></foliation>
-                  <collation></collation>
-                  <condition fragment="false"></condition>
-                </supportDesc>
-                <layoutDesc>
-                  <layout></layout>
-                </layoutDesc>
-              </objectDesc>
-              <handDesc script="manuscript">
-                  <handNote></handNote>
-              </handDesc>
-              <decoDesc>
-                <decoNote></decoNote>
-              </decoDesc>
-              <additions></additions>
-              <bindingDesc>
-                <binding>
-                  <decoNote></decoNote>
-                </binding>
-              </bindingDesc>
-              <sealDesc>
-                <seal>
-                  <p>Wax seal</p>
-                </seal>
-              </sealDesc>
-              <accMat></accMat>
-              <envDesc occ="false"></envDesc>
-            </physDesc>
-            <history>
-              <origin></origin>
-              <provenance></provenance>
-              <acquisition></acquisition>
-            </history>
-            <additional>
-              <adminInfo>
-                <recordHist>
-                  <source></source>
-                  <change></change>
-                </recordHist>
-                <availability status="free">
-                  <p>Unrestricted</p>
-                </availability>
-                <custodialHist>
-                  <custEvent></custEvent>
-                </custodialHist>
-              </adminInfo>
-              <surrogates></surrogates>
-              <listBibl>
-                <bibl></bibl>
-              </listBibl>
-            </additional>
-            <msPart>
-              <altIdentifier>
-                <idno></idno>
-              </altIdentifier>
-            </msPart>
-          </msDesc>
-        </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-        <projectDesc>
-          <p></p>
-        </projectDesc>
-        <samplingDecl>
-          <p></p>
-        </samplingDecl>
-        <editorialDecl>
-          <correction>
-            <p></p>
-          </correction>
-          <normalization>
-            <p></p>
-          </normalization>
-          <quotation>
-            <p></p>
-          </quotation>
-          <hyphenation>
-            <p></p>
-          </hyphenation>
-          <segmentation>
-            <p></p>
-          </segmentation>
-          <stdVals>
-            <p></p>
-          </stdVals>
-          <interpretation>
-            <p></p>
-          </interpretation>
-        </editorialDecl>
-        <tagsDecl>
-          <rendition></rendition>
-          <namespace name="http://www.tei-c.org/ns/1.0">
-            <tagUsage gi=""></tagUsage>
-          </namespace>
-        </tagsDecl>
-        <refsDecl>
-          <cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-        </refsDecl>
-        <refsDecl>
-          <refState unit=""/>
-        </refsDecl>
-        <classDecl>
-          <taxonomy>
-            <category>
-              <catDesc></catDesc>
-            </category>
-          </taxonomy>
-        </classDecl>
-        <appInfo>
-          <application ident="" version="">
-            <desc></desc>
-            <label></label>
-          </application>
-        </appInfo>
-      </encodingDesc>
-      <profileDesc>
-        <creation></creation>
-        <langUsage>
-			<language ident="en">English</language>
-			<language ident="he">Hebrew</language>
-        </langUsage>
-        <textClass>
-          <keywords scheme="unknown">
-            <list>
-              <item></item>
-              <item></item>
-            </list>
-          </keywords>
-          <classCode scheme=""></classCode>
-          <catRef/>
-        </textClass>
-      </profileDesc>
-      <revisionDesc>
-        <change></change>
-      </revisionDesc>
-    </teiHeader>
-    <text>
-        <body>
-      
-		<pb n="1"/>
-			<p rend="align(right)"><placeName>London</placeName> <date>9th May 7th Iyar 5611</date></p>
-			<p><addressee>Revd. Isaac Leeser</addressee> <placeName>Philadelphia</placeName></p>
-          <p rend="indent(2)">My Dear Friend&#160;&#160;Yours <date>27th veadar</date> and <date>12th nisan</date> I acknowledge&#44;<lb/> and did not do so before in consequence of pressure of business &#40;on that I should not have cared&#41;<lb/> but my dear mother&#39;s illness which has been the cause&#44; as well as in some of my past letters to<lb/> you have been rather in a confused state&#44; she has been ever since <date>17th veadar</date> &#40;<date>Friday</date> I wrote to<lb/> you in a dangerous state&#41; your subject and affair was of that importance to me that I could<lb/> not allow a port to pass over me&#44; I should be telling the greatest falsehood in the presence of God<lb/> were I to say to the contrary <add>Hebrew</add>&#59; I was not at all <hi rend="underline">disappointed</hi> in the case itself&#44; the<lb/> <hi rend="underline">result</hi> and its proceedings. I was sure that such would be the end&#44; and fully convinced that it would so<lb/> happen as I will explain. The only <hi rend="underline">disappointment</hi> came from you to me was&#44; by your knowing better than I do the<lb/> place and people that you should have said in one of your letters so positively &#34;<persName>Mr. M</persName>&#34; does not stand the <hi rend="underline">remotest</hi><lb/> chance&#44;&#34; and in the last by your assigning the number of votes &#38;c. this and this only made me have doubts&#59;<lb/> on the <date>Saturday</date> previous to the arrival of the news I called with <persName>Mr. Piza</persName> to pay a visit to a <persName>Mr. Cohen</persName><lb/> from <placeName>Philadelphia</placeName> &#40;as you may suppose my great anxiety&#41; to learn <hi rend="underline">verbally</hi> and <hi rend="underline">personally</hi> how<lb/> matters stood&#44; he was out&#44; but very politely he called on me on the <date>Sunday</date>&#44; I told him most openly and<lb/> candidly that I did not know you personally&#44; but the &#34;<hi rend="underline">truth &#38; justice</hi>&#34;&#59; you did not deserve such<lb/> treatment after 21 years and with all our <hi rend="underline">noise</hi> here&#44; we had not your <hi rend="underline">equal</hi>&#44; and as we knew each other<lb/> as neighbours from young he coincided and I believe spoke the truth that he was sure you would not<lb/> get it as he knew the number of opponents you had and&#44; as for <persName>Revd&#58; Rosenfeld</persName> he actually named 6 to 7 and<lb/> that <persName>Morais</persName> sure would have it&#44; such was all that passed between us&#44; so that I almost made up my<lb/> mind fully to such result&#44; when on the <date>Tuesday</date> the news were known by thy Packet&#59; what could be<lb/> expected from a number who gather and assemble and are <hi rend="underline">determined</hi> in all manners and ways to<lb/> cast down a man&#44; every trick&#44; every effort&#44; manure&#44; will be used&#44; and in opposition any <hi rend="underline">log</hi> would<lb/> save&#44; you are Theologian enough &#40;and indeed more than they ever deserved&#41; to know <add>Hebrew</add><lb/> and in a case of <hi rend="underline">opposition</hi> <add>Hebrew</add> these sentiments of the Prophet &#38;c. will <add>Hebrew</add><lb/> fully corroborate your expressions &#34;<hi rend="underline">after this any one can succeed</hi>&#44;&#34; what must you say then when you hear<lb/> this <hi rend="underline">original spare sentiments</hi> compiled by <hi rend="underline">himself</hi>&#44; and not sent <del>by</del> from elsewhere&#44; or prepared by others&#44;<lb/> and do so on in every other respect.&#8212;<add>Hebrew</add>&#8212;I am greatly astonished at <persName>Mr. Harts</persName> conduct&#44; I wrote to<lb/> him not only as Parnas but considering him your <hi rend="underline">friend</hi> that he should suggest to me some plan or way<lb/> to bring matters to a conclusion in your favour I <sic>considerd</sic> I was writing to a Gentleman and that<lb/> he would have acted as such&#44; had he <sic>shewn</sic> my first letter to his colleagues which he ought to<lb/> have done&#44; I flatter myself it was well written argued and really a feeling one&#44; that it would have<lb/> changed many &#44; as you say &#34;<hi rend="underline">my letter to <persName>Mr. Hart</persName> was not read</hi>&#44;&#34; and more by <hi rend="underline">keeping my letter</hi><lb/> <hi rend="underline">from the generality of the congregation</hi>.&#34; if so&#44; which I do not doubt you for a moment&#44; It is the act of any<lb/> thing but justice&#44; and far from a friend&#44; but on the contrary&#59; I must confess I did not like on such<lb/> important subject the delay of reply&#44; the petty excuse of pressure of business is a poor &#34;got off&#44;&#34; and a<lb/> very miserable and frivolous one&#44; when we ought to exert ourselves for <del>a</del> such a friend as you&#44; and on<lb/> such a <hi rend="underline">rascally</hi> treatment&#44; I call it&#58; <add>Hebrew</add> and so it ought to be&#44; look at my doings<lb/> I did not neglect replying you in the <date><sic>friday</sic> 21st <sic>march</sic></date> wherein I wrote I was rather confined as my dear and<lb/> beloved mother was taken with a Paralytic stroke her <sic>speach</sic> &#38; right side effected on that morning<lb/> early&#44; had the house full of Doctors&#44; her life hung and depended on a <add>Hebrew</add> still I followed up my<lb/> duty towards a friend&#44; &#38; thanks to God she is something better&#41; I believe such ought to be done by all <hi rend="underline">friends</hi><lb/> I must let you know that I replied on the <date>19th Adar</date> to <persName>Mr. A&#58; Hart&#39;s</persName> letter and must confess that it was</p>
-			<p>&#42;when I say rascally I mean on the <sic>anonimous</sic> pamphlet which is<lb/> the act of a coward.</p>
-		<pb n="2"/>
-			<p>well written and conducive leaving me no doubt that if he was <hi rend="underline">a friend</hi> it all must have finished to<lb/> an amicable re&#45;instatement of yourself to office and on that and that only did all my hopes depend&#59;<lb/> moreso&#44; that I had no reply from him&#44; I made it sure he was at work in favor of the cause&#44; at last I had<lb/> the pleasure of receiving an answer nearly 11 weeks after&#8212;<hi rend="underline">when all the Dance and Farce was over</hi>&#44; shall<lb/> please God <add>Hebrew</add> reply to him for had he in due time wrote to me his suggestions&#44; I might have<lb/> written them to you&#44; perhaps you might have taken my advice and things might have alter&#39;d&#59; you<lb/> shall have at foot extracts of that it relates you&#44; and you will be a better judge. the letter reached me<lb/> last <date>monday</date> &#38; the <date>tuesday</date> before the news of the election reached here. I have no <hi rend="underline">direct</hi> news<lb/> of the young man <persName>Morais</persName> neither of his arrival nor of his election&#44; it is no more than I fully<lb/> expected&#44; unfortunately all my lifetime I devoted to lender services &#38; favors in which places<lb/> I have ever been correspondent with ungratefulness&#44; he dined with me on the <date>Tuesday</date> tete<lb/>tete a true friendly dinner&#44; on the <date>Thursday</date> morning among all his friends none accompanied<lb/> him to the terminus but myself &#38; the person with whom he lodged&#44; I was also the first who <sic>opend</sic><lb/> his arms when he came from <placeName>Leghorn</placeName> &#40;though my repl<add>&#63;</add> was on the field&#41; and found him&#44;<lb/> he having brought me a letter from his Rabbi or teacher with whom he was more of a messenger<lb/> in the house&#59; his master <persName>Piperno</persName> being almost the last of that class with whom from<lb/> our childhood we corresponded &#38; when at <placeName>Leghorn</placeName> we were more than brothers always together&#44; I appreciated<lb/> his <sic>reccomendation</sic> and corresponded it&#44; but I found him on several occasions not open or sincere.<lb/> this I can only attribute to it either as he know very well for I told him <sic>wen</sic> on the day of the dinner openly&#44;<lb/> I wished him success in any other way&#44; but wished to hear <persName><hi rend="underline">Leeser</hi></persName> re&#45;instated as it was but<lb/> just. I also hinted to him a little of my opinion &#40;for I was born at <placeName>Leghorn</placeName> &#38; my forefathers<lb/> who were all at service of the Synagogue <add>Hebrew</add> ever since the first stone was laid down<lb/> to that City knowing his weight in full to a grain of his <hi rend="underline">genuine value</hi>&#41; he would be <hi rend="underline">nothing</hi> after you. I do not<lb/> take away any of his merits as a fit Hazan religious principles&#44; and well understanding his<lb/> prayers&#44; further as a good <add>Hebrew</add> of the first rudiments of the Hebrew &#38; Bible&#44; he may yet write when he<lb/> gets a little more used to money&#58; with respect to your Bible there is no doubt it will be something<lb/> great coming from you&#44; but am sorry to say you are ignorant of the state of the present <hi rend="underline">Sephardim</hi><lb/> congregation&#8212;the true <hi rend="underline">flower&#44; gentry</hi> by birth&#44; right&#44; men of talent&#44; <hi rend="underline">gentlemen promoters</hi> of <hi rend="underline">literature</hi><lb/> have left us in the affair of the Sehim<add>&#63;</add>&#8212;all the <persName>mocattas</persName>&#44; <persName>Henriques</persName>&#44; <persName>H Montofire</persName>&#44; all of<lb/> them my friends and supporters&#44; four <persName>DeCastro</persName> &#40;<persName>Hanand</persName>&#41; who was like them I remain with<lb/> us died in prime of life&#58; this day in candour with the exception of <persName>Sir Moses</persName> we have not a second<lb/> person a few new ones&#44; boys who cares for nothing and doubt the Bible much more the translation of it<lb/> Judaism to them is a farce&#44; it is all left in the hands of a few barbarian from <placeName>Canbury Gibraltar</placeName> &#38;c<lb/> who are <sic>bigotted</sic> to the greatest extreme carried with the deepest ignorance and any thing in that<lb/> way of opening eyes <sic>enlightment</sic> or expending <hi rend="underline">one</hi> farthing would be <add>Hebrew</add> they are in themselves<lb/> <add>Hebrew</add>&#8212;and really <add>Hebrew</add>. My advice would be send me some copies of a well<lb/> made up Prospectus of the work I will send them among my friends &#38; Christians and will<lb/> personally call and forward it to obtain subscriptions&#44; I care no trouble to serve you and depend<lb/> on this to be agreeable to the <sic>curtin</sic> of the place&#44; the best &#38; sure plan to succeed&#44; my name<lb/> is great &#40;to our shame&#41; more among the learned Christians with respect to the synagogue still there<lb/> is a talk I am little acquainted with matters or I have abandoned frequenting Jews houses<lb/> after my avocations I devote it at home to study in my next I shall give you precise<lb/> particulars. Wishing you most heartily every success <add>Hebrew</add> from yours sincerely<lb/> <persName role="author">David Melodola</persName></p>
-			<p>When you have nothing better to do write to me for I am<lb/> ever glad to hear from you&#44; I beg to remind you confidence of the above particularly<lb/> about <persName>Morais</persName> let it be secret&#8212;<add>Hebrew</add> as he might write here and</p>
-			<p rend="line continues on page 3">as I said there are always many to look out and place me in disturbance which I must <add>&#63;</add>.<lb/> &#8212;<add>Hebrew</add></p>
-		<pb n="3"/>
-			<p>&#34;The following is the whole of <persName>Mr. A. H.</persName> letter which refers your affair dated <date>April 8th nisan 6th</date><lb/> with a P. S. outside &#34;This letter having been detained in consequence of being too late for the last<lb/> steamer. I have to announce the election of <persName>Mr. S&#58; Morais</persName> for 3 years <persName>A&#58; H&#58;</persName><lb/> it reached me <date>Monday last 5<hi rend="sup">th</hi> May&#45;3<hi rend="sup">rd</hi> Izar</date>&#8212;</p>
-          <p rend="indent(1)">&#34;I have noted the contents of your letter very faithfully and thank you for your<lb/> acknowledgments therein contained&#44; and I fear there will be very little chance for<lb/> <persName>Mr. Leesers</persName> re&#45;election &#40;whom I highly esteem for his talents and the good he has done for<lb/> our people&#41; as he has not abated as yet a single one of the several stipulations he demanded<lb/> care of his again being elected Hazan of our congregation&#44; and the congregation have refused by a<lb/> decided vote to alter their rules or regulations&#8212;and the election is to take place next<lb/> <date>Sunday 11th Nisan</date>.&#41; There are two candidates who appear to give great satisfaction to the<lb/> &#34;members in their reading of the Hebrew&#44; viz <persName>Revd Jacob Rosenfeld</persName> of <placeName>Charleston S. Carolina</placeName><lb/> &#34;and <persName>Mr. Morais</persName> from <placeName>London</placeName> &#40;the testimonials of the latter being highly satisfactory&#41; and<lb/> &#34;the content will be between them and <persName>Mr. Leeser&#39;s</persName> friends who will vote for him I understand<lb/> &#34;if even he is not a candidate. I can assure you that I regret exceedingly the loss of<lb/> &#34;<persName>Mr. Leeser</persName> to our congregation but under the circumstances I do not see how our<lb/> &#34;congregation could have submitted to <persName>Mr. Leeser&#39;s</persName> demands that they should alter their<lb/> &#34;By laws&#44; and rules&#44; under which he has served for 21 years without any oppression<lb/> &#34;towards himself&#44; besides having been told before he made the demands&#44; that it would<lb/> &#34;result as it has but he would not be advised&#8212;unless he comes forward with some<lb/> &#34;modifications of his terms on the day of election&#44; I think that either of the strangers<lb/> &#34;aforenamed will be elected. I trust that ere long he will learn that however<lb/> &#34;hard he may think of me for not resigning the office of Parnass at<lb/> &#34;the time that this congregation refused to elect him for an indefinite<lb/> &#34;period and without signing the contract &#38;c. that I acted according to<lb/> &#34;Principle <add>&#63;</add> altho&#39; I wished his election at that time I could not condemn the<lb/> &#34;congregation over which I presided for adhering to the terms &#38;c. which had<lb/> previously existed between them and <persName>Mr. Leeser</persName>. &#40;had he asked the alterations<lb/> &#34;courteously instead of demanding them <hi rend="underline">at the time.</hi> I think the congregation would<lb/> &#34;have acceeded&#44; but they were not willing to be driven&#44; when they could have been<lb/> &#34;led gently.&#41;&#34; He expresses very politely at the beginning of his letter&#34; a heavy press<lb/> of business is my only excuse for not earlier acknowledging<lb/> the same.&#34;</p>
-			<p>I must apologize for the state of my letters to you in the writing <add>&#63;</add>. I am very<lb/> short sighted and must stop more than I ought&#44; and in no way whatever<lb/> could use myself to glasses. I have this moment learnt that the great <persName>Dr. Frankel</persName><lb/> of <placeName>Dresden</placeName> is here.</p>
-		<pb n="4"/>
-          <p rend="indent(10)">Paid</p>
-			<p><addressee>Revd Isaac Leeser</addressee></p>
-          <p rend="indent(1)"><placeName>Philadelphia</placeName></p>
-          <p rend="indent(1)"><placeName>America</placeName></p>
-          
-        </body>
-    </text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+          <teiHeader>
+
+                    <fileDesc>
+                              <titleStmt>
+                                        <title>[no title given]</title>
+                                        <author accepted="yes" attested="yes" signature="yes"
+                                                  >Melodola, David</author>
+                                        <editor/>
+                                        <sponsor/>
+                                        <funder/>
+                                        <principal/>
+                                        <respStmt>
+                                                  <resp/>
+                                                  <name/>
+                                        </respStmt>
+                              </titleStmt>
+                              <editionStmt>
+                                        <edition/>
+                                        <respStmt>
+                                                  <resp/>
+                                                  <name/>
+                                        </respStmt>
+                              </editionStmt>
+                              <extent>[information about file size goes here, information about
+                                        extent of physical item comes later]</extent>
+                              <publicationStmt>
+                                        <publisher>Unpublished manuscript</publisher>
+                              </publicationStmt>
+                              <seriesStmt>
+                                        <p>Not part of a series</p>
+                              </seriesStmt>
+                              <notesStmt>
+                                        <note/>
+                              </notesStmt>
+                              <sourceDesc>
+                                        <biblStruct>
+                                                  <!-- catalog entry goes here -->
+                                                  <monogr>
+                                                  <imprint>
+                                                  <dateLet/>
+                                                  </imprint>
+                                                  </monogr>
+                                        </biblStruct>
+                                        <msDesc>
+                                                  <msIdentifier>
+                                                  <country>USA</country>
+                                                  <region>PA</region>
+                                                  <settlement>Philadelphia</settlement>
+                                                  <institution/>
+                                                  <repository>CAJS Isaac Leeser
+                                                  Collection</repository>
+                                                  <collection>The Library of the Dropsie College for
+                                                  Hebrew and Cognate Learning</collection>
+                                                  <idno>LSDCBx1FF8_42</idno>
+                                                  <altIdentifier>
+                                                  <idno/>
+                                                  </altIdentifier>
+                                                  <msName/>
+                                                  </msIdentifier>
+                                                  <head/>
+                                                  <letHeading>
+                                                  <author accepted="yes" attested="yes"
+                                                  signature="yes">Melodola, David</author>
+                                                  <addressee accepted="yes" attested="yes"
+                                                  editor="false">Leeser, Isaac, Rev.</addressee>
+                                                  <deliverer/>
+                                                  <respStmt>
+                                                  <resp/>
+                                                  <name/>
+                                                  </respStmt>
+                                                  <placeLet>London, United Kingdom</placeLet>
+                                                  <placeRec>Philadelphia, PA</placeRec>
+                                                  <dateLet attested="yes" source="" when="1851-05">9
+                                                  May 1851</dateLet>
+                                                  <dateLet attested="yes" source="" when="1851-05">7
+                                                  Iyar 5611</dateLet>
+                                                  </letHeading>
+                                                  <msContents>
+                                                  <msItem>
+                                                  <author/>
+                                                  <editor/>
+                                                  <respStmt>
+                                                  <resp/>
+                                                  <name/>
+                                                  </respStmt>
+                                                  <title/>
+                                                  <decoNote/>
+                                                  <listBibl>
+                                                  <bibl/>
+                                                  </listBibl>
+                                                  <filiation/>
+                                                  <textLang/>
+                                                  <figure>
+                                                  <graphic url="ilcajs_b1f8_0036_1r.jpg"/>
+                                                  <graphic url="ilcajs_b1f8_0036_1v.jpg"/>
+                                                  <graphic url="ilcajs_b1f8_0036_2r.jpg"/>
+                                                  <graphic url="ilcajs_b1f8_0036_2v.jpg"/>
+                                                  </figure>
+                                                  </msItem>
+                                                  </msContents>
+                                                  <physDesc>
+                                                  <objectDesc>
+                                                  <supportDesc>
+                                                  <support>
+                                                  <material color="" lined="false" paper_type=""
+                                                  size="Letter">letter</material>
+                                                  </support>
+                                                  <extent>4 pages on 2 sheets <dimensions/>
+                                                  </extent>
+                                                  <foliation/>
+                                                  <collation/>
+                                                  <condition fragment="false"/>
+                                                  </supportDesc>
+                                                  <layoutDesc>
+                                                  <layout/>
+                                                  </layoutDesc>
+                                                  </objectDesc>
+                                                  <handDesc script="manuscript">
+                                                  <handNote/>
+                                                  </handDesc>
+                                                  <decoDesc>
+                                                  <decoNote/>
+                                                  </decoDesc>
+                                                  <additions/>
+                                                  <bindingDesc>
+                                                  <binding>
+                                                  <decoNote/>
+                                                  </binding>
+                                                  </bindingDesc>
+                                                  <sealDesc>
+                                                  <seal>
+                                                  <p>Wax seal</p>
+                                                  </seal>
+                                                  </sealDesc>
+                                                  <accMat/>
+                                                  <envDesc occ="false"/>
+                                                  </physDesc>
+                                                  <history>
+                                                  <origin/>
+                                                  <provenance/>
+                                                  <acquisition/>
+                                                  </history>
+                                                  <additional>
+                                                  <adminInfo>
+                                                  <recordHist>
+                                                  <source/>
+                                                  <change/>
+                                                  </recordHist>
+                                                  <availability status="free">
+                                                  <p>Unrestricted</p>
+                                                  </availability>
+                                                  <custodialHist>
+                                                  <custEvent/>
+                                                  </custodialHist>
+                                                  </adminInfo>
+                                                  <surrogates/>
+                                                  <listBibl>
+                                                  <bibl/>
+                                                  </listBibl>
+                                                  </additional>
+                                                  <msPart>
+                                                  <altIdentifier>
+                                                  <idno/>
+                                                  </altIdentifier>
+                                                  </msPart>
+                                        </msDesc>
+                              </sourceDesc>
+                    </fileDesc>
+                    <encodingDesc>
+                              <projectDesc>
+                                        <p/>
+                              </projectDesc>
+                              <samplingDecl>
+                                        <p/>
+                              </samplingDecl>
+                              <editorialDecl>
+                                        <correction>
+                                                  <p/>
+                                        </correction>
+                                        <normalization>
+                                                  <p/>
+                                        </normalization>
+                                        <quotation>
+                                                  <p/>
+                                        </quotation>
+                                        <hyphenation>
+                                                  <p/>
+                                        </hyphenation>
+                                        <segmentation>
+                                                  <p/>
+                                        </segmentation>
+                                        <stdVals>
+                                                  <p/>
+                                        </stdVals>
+                                        <interpretation>
+                                                  <p/>
+                                        </interpretation>
+                              </editorialDecl>
+                              <tagsDecl>
+                                        <rendition/>
+                                        <namespace name="http://www.tei-c.org/ns/1.0">
+                                                  <tagUsage gi=""/>
+                                        </namespace>
+                              </tagsDecl>
+                              <refsDecl>
+                                        <cRefPattern matchPattern="" replacementPattern=""/>
+                              </refsDecl>
+                              <refsDecl>
+                                        <refState unit=""/>
+                              </refsDecl>
+                              <classDecl>
+                                        <taxonomy>
+                                                  <category>
+                                                  <catDesc/>
+                                                  </category>
+                                        </taxonomy>
+                              </classDecl>
+                              <appInfo>
+                                        <application ident="" version="">
+                                                  <desc/>
+                                                  <label/>
+                                        </application>
+                              </appInfo>
+                    </encodingDesc>
+                    <profileDesc>
+                              <creation/>
+                              <langUsage>
+                                        <language ident="en">English</language>
+                                        <language ident="he">Hebrew</language>
+                              </langUsage>
+                              <textClass>
+                                        <keywords scheme="unknown">
+                                                  <list>
+                                                  <item/>
+                                                  <item/>
+                                                  </list>
+                                        </keywords>
+                                        <classCode scheme=""/>
+                                        <catRef/>
+                              </textClass>
+                    </profileDesc>
+                    <revisionDesc>
+                              <change/>
+                    </revisionDesc>
+          </teiHeader>
+          <text>
+                    <body>
+                              <pb n="1"/>
+                              <p rend="align(right)">
+                                        <placeName>London</placeName>
+                                        <date>9th May 7th Iyar 5611</date>
+                              </p>
+                              <p>
+                                        <addressee>Revd. Isaac Leeser</addressee>
+                                        <placeName>Philadelphia</placeName>
+                              </p>
+                              <p rend="indent(2)">My Dear Friend  Yours <date>27th veadar</date> and
+                                                  <date>12th nisan</date> I acknowledge,<lb/> and
+                                        did not do so before in consequence of pressure of business
+                                        (on that I should not have cared)<lb/> but my dear mother's
+                                        illness which has been the cause, as well as in some of my
+                                        past letters to<lb/> you have been rather in a confused
+                                        state, she has been ever since <date>17th veadar</date>
+                                                  (<date>Friday</date> I wrote to<lb/> you in a
+                                        dangerous state) your subject and affair was of that
+                                        importance to me that I could<lb/> not allow a port to pass
+                                        over me, I should be telling the greatest falsehood in the
+                                        presence of God<lb/> were I to say to the contrary <add>מר
+                                                  לי מר עד מות אחי</add>; I was not at all <hi
+                                                  rend="underline">disappointed</hi> in the case
+                                        itself, the<lb/>
+                                        <hi rend="underline">result</hi> and its proceedings. I was
+                                        sure that such would be the end, and fully convinced that it
+                                        would so<lb/> happen as I will explain. The only <hi
+                                                  rend="underline">disappointment</hi> came from you
+                                        to me was, by your knowing better than I do the<lb/> place
+                                        and people that you should have said in one of your letters
+                                        so positively "<persName>Mr. M</persName>" does not stand
+                                        the <hi rend="underline">remotest</hi><lb/> chance," and in
+                                        the last by your assigning the number of votes &amp;c. this
+                                        and this only made me have doubts;<lb/> on the
+                                                  <date>Saturday</date> previous to the arrival of
+                                        the news I called with <persName>Mr. Piza</persName> to pay
+                                        a visit to a <persName>Mr. Cohen</persName><lb/> from
+                                                  <placeName>Philadelphia</placeName> (as you may
+                                        suppose my great anxiety) to learn <hi rend="underline"
+                                                  >verbally</hi> and <hi rend="underline"
+                                                  >personally</hi> how<lb/> matters stood, he was
+                                        out, but very politely he called on me on the
+                                                  <date>Sunday</date>, I told him most openly
+                                        and<lb/> candidly that I did not know you personally, but
+                                        the "<hi rend="underline">truth &amp; justice</hi>"; you did
+                                        not deserve such<lb/> treatment after 21 years and with all
+                                        our <hi rend="underline">noise</hi> here, we had not your
+                                                  <hi rend="underline">equal</hi>, and as we knew
+                                        each other<lb/> as neighbours from young he coincided and I
+                                        believe spoke the truth that he was sure you would not<lb/>
+                                        get it as he knew the number of opponents you had and, as
+                                        for <persName>Revd: Rosenfeld</persName> he actually named 6
+                                        to 7 and<lb/> that <persName>Morais</persName> sure would
+                                        have it, such was all that passed between us, so that I
+                                        almost made up my<lb/> mind fully to such result, when on
+                                        the <date>Tuesday</date> the news were known by thy Packet;
+                                        what could be<lb/> expected from a number who gather and
+                                        assemble and are <hi rend="underline">determined</hi> in all
+                                        manners and ways to<lb/> cast down a man, every trick, every
+                                        effort, manure, will be used, and in opposition any <hi
+                                                  rend="underline">log</hi> would<lb/> save, you are
+                                        Theologian enough (and indeed more than they ever deserved)
+                                        to know <add>אין חכמה ואין עצה ואין תבונה ואין דעה נגד
+                                                  הכיפוח</add><lb/> and in a case of <hi
+                                                  rend="underline">opposition</hi>
+                                        <add>אומרים לעז אני א</add> these sentiments of the Prophet
+                                        &amp;c. will <add>ודי לחכימא</add><lb/> fully corroborate
+                                        your expressions "<hi rend="underline">after this any one
+                                                  can succeed</hi>," what must you say then when you
+                                        hear<lb/> this <hi rend="underline">original spare
+                                                  sentiments</hi> compiled by <hi rend="underline"
+                                                  >himself</hi>, and not sent <del>by</del> from
+                                        elsewhere, or prepared by others,<lb/> and do so on in every
+                                        other respect.—<add>עת לעשות לה' הפרו תורתך</add>—I am
+                                        greatly astonished at <persName>Mr. Harts</persName>
+                                        conduct, I wrote to<lb/> him not only as Parnas but
+                                        considering him your <hi rend="underline">friend</hi> that
+                                        he should suggest to me some plan or way<lb/> to bring
+                                        matters to a conclusion in your favour I
+                                                  <sic>considerd</sic> I was writing to a Gentleman
+                                        and that<lb/> he would have acted as such, had he
+                                                  <sic>shewn</sic> my first letter to his colleagues
+                                        which he ought to<lb/> have done, I flatter myself it was
+                                        well written argued and really a feeling one, that it would
+                                        have<lb/> changed many , as you say "<hi rend="underline">my
+                                                  letter to <persName>Mr. Hart</persName> was not
+                                                  read</hi>," and more by <hi rend="underline"
+                                                  >keeping my letter</hi><lb/>
+                                        <hi rend="underline">from the generality of the
+                                                  congregation</hi>." if so, which I do not doubt
+                                        you for a moment, It is the act of any<lb/> thing but
+                                        justice, and far from a friend, but on the contrary; I must
+                                        confess I did not like on such<lb/> important subject the
+                                        delay of reply, the petty excuse of pressure of business is
+                                        a poor "got off," and a<lb/> very miserable and frivolous
+                                        one, when we ought to exert ourselves for <del>a</del> such
+                                        a friend as you, and on<lb/> such a <hi rend="underline"
+                                                  >rascally</hi> treatment, I call it: <add>חוט
+                                                  השערה</add> and so it ought to be, look at my
+                                        doings<lb/> I did not neglect replying you in the
+                                                  <date><sic>friday</sic> 21st
+                                                  <sic>march</sic></date> wherein I wrote I was
+                                        rather confined as my dear and<lb/> beloved mother was taken
+                                        with a Paralytic stroke her <sic>speach</sic> &amp; right
+                                        side effected on that morning<lb/> early, had the house full
+                                        of Doctors, her life hung and depended on a <add>בע"ה</add>
+                                        still I followed up my<lb/> duty towards a friend, &amp;
+                                        thanks to God she is something better) I believe such ought
+                                        to be done by all <hi rend="underline">friends</hi><lb/> I
+                                        must let you know that I replied on the <date>19th
+                                                  Adar</date> to <persName>Mr. A: Hart's</persName>
+                                        letter and must confess that it was</p>
+                              <p>*when I say rascally I mean on the <sic>anonimous</sic> pamphlet
+                                        which is<lb/> the act of a coward.</p>
+                              <pb n="2"/>
+                              <p>well written and conducive leaving me no doubt that if he was <hi
+                                                  rend="underline">a friend</hi> it all must have
+                                        finished to<lb/> an amicable re-instatement of yourself to
+                                        office and on that and that only did all my hopes
+                                        depend;<lb/> moreso, that I had no reply from him, I made it
+                                        sure he was at work in favor of the cause, at last I
+                                        had<lb/> the pleasure of receiving an answer nearly 11 weeks
+                                                  after—<hi rend="underline">when all the Dance and
+                                                  Farce was over</hi>, shall<lb/> please God
+                                                  <add>רבנים חזנים ומרביצי תורה</add> reply to him
+                                        for had he in due time wrote to me his suggestions, I might
+                                        have<lb/> written them to you, perhaps you might have taken
+                                        my advice and things might have alter'd; you<lb/> shall have
+                                        at foot extracts of that it relates you, and you will be a
+                                        better judge. the letter reached me<lb/> last
+                                                  <date>monday</date> &amp; the <date>tuesday</date>
+                                        before the news of the election reached here. I have no <hi
+                                                  rend="underline">direct</hi> news<lb/> of the
+                                        young man <persName>Morais</persName> neither of his arrival
+                                        nor of his election, it is no more than I fully<lb/>
+                                        expected, unfortunately all my lifetime I devoted to lender
+                                        services &amp; favors in which places<lb/> I have ever been
+                                        correspondent with ungratefulness, he dined with me on the
+                                                  <date>Tuesday</date> tete<lb/>tete a true friendly
+                                        dinner, on the <date>Thursday</date> morning among all his
+                                        friends none accompanied<lb/> him to the terminus but myself
+                                        &amp; the person with whom he lodged, I was also the first
+                                        who <sic>opend</sic><lb/> his arms when he came from
+                                                  <placeName>Leghorn</placeName> (though my
+                                                  repl<add>?</add> was on the field) and found
+                                        him,<lb/> he having brought me a letter from his Rabbi or
+                                        teacher with whom he was more of a messenger<lb/> in the
+                                        house; his master <persName>Piperno</persName> being almost
+                                        the last of that class with whom from<lb/> our childhood we
+                                        corresponded &amp; when at <placeName>Leghorn</placeName> we
+                                        were more than brothers always together, I appreciated<lb/>
+                                        his <sic>reccomendation</sic> and corresponded it, but I
+                                        found him on several occasions not open or sincere.<lb/>
+                                        this I can only attribute to it either as he know very well
+                                        for I told him <sic>wen</sic> on the day of the dinner
+                                        openly,<lb/> I wished him success in any other way, but
+                                        wished to hear <persName><hi rend="underline"
+                                                  >Leeser</hi></persName> re-instated as it was
+                                        but<lb/> just. I also hinted to him a little of my opinion
+                                        (for I was born at <placeName>Leghorn</placeName> &amp; my
+                                        forefathers<lb/> who were all at service of the Synagogue
+                                                  <add>מלמד</add> ever since the first stone was
+                                        laid down<lb/> to that City knowing his weight in full to a
+                                        grain of his <hi rend="underline">genuine value</hi>) he
+                                        would be <hi rend="underline">nothing</hi> after you. I do
+                                        not<lb/> take away any of his merits as a fit Hazan
+                                        religious principles, and well understanding his<lb/>
+                                        prayers, further as a good <add>עבירה גדולה</add> of the
+                                        first rudiments of the Hebrew &amp; Bible, he may yet write
+                                        when he<lb/> gets a little more used to money: with respect
+                                        to your Bible there is no doubt it will be something<lb/>
+                                        great coming from you, but am sorry to say you are ignorant
+                                        of the state of the present <hi rend="underline"
+                                                  >Sephardim</hi><lb/> congregation—the true <hi
+                                                  rend="underline">flower, gentry</hi> by birth,
+                                        right, men of talent, <hi rend="underline">gentlemen
+                                                  promoters</hi> of <hi rend="underline"
+                                                  >literature</hi><lb/> have left us in the affair
+                                        of the Sehim<add>?</add>—all the
+                                                  <persName>mocattas</persName>,
+                                                  <persName>Henriques</persName>, <persName>H
+                                                  Montofire</persName>, all of<lb/> them my friends
+                                        and supporters, four <persName>DeCastro</persName>
+                                                  (<persName>Hanand</persName>) who was like them I
+                                        remain with<lb/> us died in prime of life: this day in
+                                        candour with the exception of <persName>Sir Moses</persName>
+                                        we have not a second<lb/> person a few new ones, boys who
+                                        cares for nothing and doubt the Bible much more the
+                                        translation of it<lb/> Judaism to them is a farce, it is all
+                                        left in the hands of a few barbarian from <placeName>Canbury
+                                                  Gibraltar</placeName> &amp;c<lb/> who are
+                                                  <sic>bigotted</sic> to the greatest extreme
+                                        carried with the deepest ignorance and any thing in
+                                        that<lb/> way of opening eyes <sic>enlightment</sic> or
+                                        expending <hi rend="underline">one</hi> farthing would be
+                                                  <add>קתולנים גדולים</add> they are in themselves<lb/>
+                                        <add>צדקה רחקה מהם</add>—and really <add>is great (to our
+                                                  shame) more among the learned Christians with
+                                                  respect בכבוד אמיתי to the synagogue still
+                                                  there</add>. My advice would be send me some
+                                        copies of a well<lb/> made up Prospectus of the work I will
+                                        send them among my friends &amp; Christians and will<lb/>
+                                        personally call and forward it to obtain subscriptions, I
+                                        care no trouble to serve you and depend<lb/> on this to be
+                                        agreeable to the <sic>curtin</sic> of the place, the best
+                                        &amp; sure plan to succeed, my name<lb/> is great (to our
+                                        shame) more among the learned Christians with respect to the
+                                        synagogue still there<lb/> is a talk I am little acquainted
+                                        with matters or I have abandoned frequenting Jews
+                                        houses<lb/> after my avocations I devote it at home to study
+                                        in my next I shall give you precise<lb/> particulars.
+                                        Wishing you most heartily every success <add>אויביך יבושו
+                                                  ויכלמו כי ה' יהיה בעזרתך אכ"ם</add> from yours sincerely<lb/>
+                                        <persName role="author">David Melodola</persName></p>
+                              <p>When you have nothing better to do write to me for I am<lb/> ever
+                                        glad to hear from you, I beg to remind you confidence of the
+                                        above particularly<lb/> about <persName>Morais</persName>
+                                        let it be secret—<add>סוד ה' ליראיו</add> as he might write
+                                        here and</p>
+                              <p rend="line continues on page 3">as I said there are always many to
+                                        look out and place me in disturbance which I must
+                                                  <add>?</add>.<lb/> —<add>ושלום לך ולכל אשר
+                                                  לך</add></p>
+                              <pb n="3"/>
+                              <p>"The following is the whole of <persName>Mr. A. H.</persName>
+                                        letter which refers your affair dated <date>April 8th nisan
+                                                  6th</date><lb/> with a P. S. outside "This letter
+                                        having been detained in consequence of being too late for
+                                        the last<lb/> steamer. I have to announce the election of
+                                                  <persName>Mr. S: Morais</persName> for 3 years
+                                                  <persName>A: H:</persName><lb/> it reached me
+                                                  <date>Monday last 5<hi rend="sup">th</hi> May-3<hi
+                                                  rend="sup">rd</hi> Izar</date>—</p>
+                              <p rend="indent(1)">"I have noted the contents of your letter very
+                                        faithfully and thank you for your<lb/> acknowledgments
+                                        therein contained, and I fear there will be very little
+                                        chance for<lb/>
+                                        <persName>Mr. Leesers</persName> re-election (whom I highly
+                                        esteem for his talents and the good he has done for<lb/> our
+                                        people) as he has not abated as yet a single one of the
+                                        several stipulations he demanded<lb/> care of his again
+                                        being elected Hazan of our congregation, and the
+                                        congregation have refused by a<lb/> decided vote to alter
+                                        their rules or regulations—and the election is to take place next<lb/>
+                                        <date>Sunday 11th Nisan</date>.) There are two candidates
+                                        who appear to give great satisfaction to the<lb/> "members
+                                        in their reading of the Hebrew, viz <persName>Revd Jacob
+                                                  Rosenfeld</persName> of <placeName>Charleston S.
+                                                  Carolina</placeName><lb/> "and <persName>Mr.
+                                                  Morais</persName> from
+                                                  <placeName>London</placeName> (the testimonials of
+                                        the latter being highly satisfactory) and<lb/> "the content
+                                        will be between them and <persName>Mr. Leeser's</persName>
+                                        friends who will vote for him I understand<lb/> "if even he
+                                        is not a candidate. I can assure you that I regret
+                                        exceedingly the loss of<lb/> "<persName>Mr.
+                                                  Leeser</persName> to our congregation but under
+                                        the circumstances I do not see how our<lb/> "congregation
+                                        could have submitted to <persName>Mr. Leeser's</persName>
+                                        demands that they should alter their<lb/> "By laws, and
+                                        rules, under which he has served for 21 years without any
+                                        oppression<lb/> "towards himself, besides having been told
+                                        before he made the demands, that it would<lb/> "result as it
+                                        has but he would not be advised—unless he comes forward with
+                                        some<lb/> "modifications of his terms on the day of
+                                        election, I think that either of the strangers<lb/>
+                                        "aforenamed will be elected. I trust that ere long he will
+                                        learn that however<lb/> "hard he may think of me for not
+                                        resigning the office of Parnass at<lb/> "the time that this
+                                        congregation refused to elect him for an indefinite<lb/>
+                                        "period and without signing the contract &amp;c. that I
+                                        acted according to<lb/> "Principle <add>?</add> altho' I
+                                        wished his election at that time I could not condemn
+                                        the<lb/> "congregation over which I presided for adhering to
+                                        the terms &amp;c. which had<lb/> previously existed between
+                                        them and <persName>Mr. Leeser</persName>. (had he asked the
+                                        alterations<lb/> "courteously instead of demanding them <hi
+                                                  rend="underline">at the time.</hi> I think the
+                                        congregation would<lb/> "have acceeded, but they were not
+                                        willing to be driven, when they could have been<lb/> "led
+                                        gently.)" He expresses very politely at the beginning of his
+                                        letter" a heavy press<lb/> of business is my only excuse for
+                                        not earlier acknowledging<lb/> the same."</p>
+                              <p>I must apologize for the state of my letters to you in the writing
+                                                  <add>?</add>. I am very<lb/> short sighted and
+                                        must stop more than I ought, and in no way whatever<lb/>
+                                        could use myself to glasses. I have this moment learnt that
+                                        the great <persName>Dr. Frankel</persName><lb/> of
+                                                  <placeName>Dresden</placeName> is here.</p>
+                              <pb n="4"/>
+                              <p rend="indent(10)">Paid</p>
+                              <p>
+                                        <addressee>Revd Isaac Leeser</addressee>
+                              </p>
+                              <p rend="indent(1)">
+                                        <placeName>Philadelphia</placeName>
+                              </p>
+                              <p rend="indent(1)">
+                                        <placeName>America</placeName>
+                              </p>
+                    </body>
+          </text>
 </TEI>

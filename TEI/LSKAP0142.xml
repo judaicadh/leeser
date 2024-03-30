@@ -1,254 +1,307 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="yes">Abraham, Lewis</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>LSKAP</repository>
-						<collection>The Arnold and Deanne Kaplan Collection of Early American Judaica</collection>
-						<idno>LSKAP0142</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="yes">Abraham, Lewis</author>
-						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac</addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>Cincinnati, OH</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1852-06" source="" attested="yes">June 8, 1852</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="LSKAP0142_1r.jpg"></graphic>
-								<graphic url="LSKAP0142_1v.jpg"></graphic>
-								<graphic url="LSKAP0142_2v.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="false" paper_type="" size="">letter</material>
-								</support>
-								<extent>4 pages on 2 sheets
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="manuscript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="restricted">
-								<p>Restricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1R"/>
-				<p rend="align(right)"><placeName>Cincinnati</placeName> <date>June 8<hi rend="sup">th</hi> 1852</date></p>
-				<p><sic><addressee>Revd Isaac Leesor</addressee></sic></p>
-				<p><placeName>Philadelphia Pa</placeName></p> 
-				<p>Dear Sir<lb/> The temporal affairs of the<lb/> synagogue are so frequently under the eye of our spiritual advisers<lb/> that those who are best informed on either head can give the best<lb/> advice on both&#44; with this view I am soliciting today from many<lb/> of our public new information and opinions on a question that<lb/> has been the cause of worse than injury to our public&#44; institut&#45;<lb/>tions for it has invaded the domestic hearth  The problem is<lb/> Should our congregations &#40;and do they usually&#41; keep&#44; rent&#44; sell&#44;<lb/> lease or donate their seats or should they be free to all and<lb/> how as to members&#44; and non members&#44;  I am chairman of the<lb/> committee to whom this nice question has been referred myself<lb/> and associates are solicitous&#44; that we present a law having<lb/> the sanction of experience and statistics&#44; doing equal and<lb/> exact justice to all our members requiring the same from<lb/> them towards the corporation its revenue and towards each<lb/> other&#44; for as I should have before remarked we already<lb/> have the incubus of <hi rend="underline">non seat holder</hi> and <hi rend="underline">seat holder</hi> in<lb/> our congregation&#44; and I have started the question so that<lb/> we may enter our new edifice with clean hands if even<lb/> not with pure hearts n b this letter we must leave with our<lb/> pastors &#40;&#63;&#41;  What I would wish from you is this<lb/> 1<hi rend="sup">st</hi> all printed and other recorded evidence as to how this<lb/> subject is managed in <placeName>Phila.</placeName> and in other places where<lb/> you have lived with remarks as to how it works<lb/> 2<hi rend="sup">nd</hi> your opinion as to <hi rend="underline">how</hi> it <hi rend="underline">ought to be</hi> managed</p>
-			<pb n="1V"/>
-				<p>Your early reply will be valued  In the multitude of<lb/> counsel there is wisdom and though this question is<lb/> a proper one for the laity yet affairs on this continent<lb/> in Jewish legislation have been generally so thoughtlessly<lb/> managed I am a little anxious and curious to learn what<lb/> portion has had the most foresight</p>
-			<p rend="indent(1)">My excuse for not writing you at length must be that<lb/> I have several letters of this tenor to write today besides<lb/> yourself I address <persName>Revds S M Isaacs</persName> &#38; <persName>I K Gutheim</persName><lb/> and <persName>Drs Wise</persName>&#44; <persName>Raphael</persName>&#44; and <persName>Lilienthal</persName> besides some<lb/> of our laity conversant with the subject</p>
-			<p rend="indent(5)">With Sincere wishes</p>
-			<p rend="indent(5)">I am Yours <sic>Fraternaly</sic></p>
-			<p rend="indent(5)"><persName role="author">Lewis Abraham</persName>.</p>
-			<pb n="2V"/>
-				<p><sic><addressee>Revd Isaac Leesor</addressee></sic></p>
-			<p rend="indent(1)"><placeName>Philadelphia</placeName></p>
-			<p rend="indent(2)"><placeName>Pa.</placeName></p>
-		</body>
-	</text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="yes">Abraham, Lewis</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>LSKAP</repository>
+                        <collection>The Arnold and Deanne Kaplan Collection of Early American
+                            Judaica</collection>
+                        <idno>LSKAP0142</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="yes">Abraham,
+                            Lewis</author>
+                        <addressee accepted="yes" attested="yes" editor="false">Leeser,
+                            Isaac</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Cincinnati, OH</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1852-06">June 8, 1852</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="LSKAP0142_1r.jpg"/>
+                                <graphic url="LSKAP0142_1v.jpg"/>
+                                <graphic url="LSKAP0142_2v.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >letter</material>
+                                </support>
+                                <extent>4 pages on 2 sheets <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="restricted">
+                                <p>Restricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1R"/>
+            <p rend="align(right)">
+                <placeName>Cincinnati</placeName>
+                <date>June 8<hi rend="sup">th</hi> 1852</date>
+            </p>
+            <p>
+                <sic>
+                    <addressee>Revd Isaac Leesor</addressee>
+                </sic>
+            </p>
+            <p>
+                <placeName>Philadelphia Pa</placeName>
+            </p>
+            <p>Dear Sir<lb/> The temporal affairs of the<lb/> synagogue are so frequently under the
+                eye of our spiritual advisers<lb/> that those who are best informed on either head
+                can give the best<lb/> advice on both, with this view I am soliciting today from
+                many<lb/> of our public new information and opinions on a question that<lb/> has
+                been the cause of worse than injury to our public, institut-<lb/>tions for it has
+                invaded the domestic hearth The problem is<lb/> Should our congregations (and do
+                they usually) keep, rent, sell,<lb/> lease or donate their seats or should they be
+                free to all and<lb/> how as to members, and non members, I am chairman of the<lb/>
+                committee to whom this nice question has been referred myself<lb/> and associates
+                are solicitous, that we present a law having<lb/> the sanction of experience and
+                statistics, doing equal and<lb/> exact justice to all our members requiring the same
+                from<lb/> them towards the corporation its revenue and towards each<lb/> other, for
+                as I should have before remarked we already<lb/> have the incubus of <hi
+                    rend="underline">non seat holder</hi> and <hi rend="underline">seat holder</hi>
+                in<lb/> our congregation, and I have started the question so that<lb/> we may enter
+                our new edifice with clean hands if even<lb/> not with pure hearts n b this letter
+                we must leave with our<lb/> pastors (?) What I would wish from you is this<lb/> 1<hi
+                    rend="sup">st</hi> all printed and other recorded evidence as to how this<lb/>
+                subject is managed in <placeName>Phila.</placeName> and in other places where<lb/>
+                you have lived with remarks as to how it works<lb/> 2<hi rend="sup">nd</hi> your
+                opinion as to <hi rend="underline">how</hi> it <hi rend="underline">ought to be</hi>
+                managed</p>
+            <pb n="1V"/>
+            <p>Your early reply will be valued In the multitude of<lb/> counsel there is wisdom and
+                though this question is<lb/> a proper one for the laity yet affairs on this
+                continent<lb/> in Jewish legislation have been generally so thoughtlessly<lb/>
+                managed I am a little anxious and curious to learn what<lb/> portion has had the
+                most foresight</p>
+            <p rend="indent(1)">My excuse for not writing you at length must be that<lb/> I have
+                several letters of this tenor to write today besides<lb/> yourself I address
+                    <persName>Revds S M Isaacs</persName> &amp; <persName>I K
+                Gutheim</persName><lb/> and <persName>Drs Wise</persName>,
+                    <persName>Raphael</persName>, and <persName>Lilienthal</persName> besides
+                some<lb/> of our laity conversant with the subject</p>
+            <p rend="indent(5)">With Sincere wishes</p>
+            <p rend="indent(5)">I am Yours <sic>Fraternaly</sic></p>
+            <p rend="indent(5)"><persName role="author">Lewis Abraham</persName>.</p>
+            <pb n="2V"/>
+            <p>
+                <sic>
+                    <addressee>Revd Isaac Leesor</addressee>
+                </sic>
+            </p>
+            <p rend="indent(1)">
+                <placeName>Philadelphia</placeName>
+            </p>
+            <p rend="indent(2)">
+                <placeName>Pa.</placeName>
+            </p>
+        </body>
+    </text>
 </TEI>

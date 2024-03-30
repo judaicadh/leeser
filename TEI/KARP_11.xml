@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
         <fileDesc>
             <titleStmt>
                 <title>[no title given]</title>
-                <author attested="yes" accepted="yes" signature="yes">Milner, Geo. M.</author>
+                <author accepted="yes" attested="yes" signature="yes">Milner, Geo. M.</author>
                 <editor/>
                 <sponsor/>
                 <funder/>
@@ -47,7 +49,9 @@
                         <settlement>New York</settlement>
                         <institution>Jewish Theological Seminary</institution>
                         <repository/>
-                        <collection>The Abraham and Deborah Karp Collection of Early American Judaica at the Library of the Jewish Theological Seminary of America</collection>
+                        <collection>The Abraham and Deborah Karp Collection of Early American
+                            Judaica at the Library of the Jewish Theological Seminary of
+                            America</collection>
                         <idno/>
                         <altIdentifier>
                             <idno/>
@@ -56,9 +60,9 @@
                     </msIdentifier>
                     <head/>
                     <letHeading>
-                        <author attested="yes" accepted="yes" signature="yes">Milner, Geo.
+                        <author accepted="yes" attested="yes" signature="yes">Milner, Geo.
                             M.</author>
-                        <addressee editor="false" attested="yes" accepted="yes">Leeser,
+                        <addressee accepted="yes" attested="yes" editor="false">Leeser,
                             Isaac</addressee>
                         <deliverer/>
                         <respStmt>
@@ -67,7 +71,7 @@
                         </respStmt>
                         <placeLet>New York, NY</placeLet>
                         <placeRec>Philadelphia, PA</placeRec>
-                        <dateLet when="1854-03" source="" attested="yes">30 March 1854</dateLet>
+                        <dateLet attested="yes" source="" when="1854-03">30 March 1854</dateLet>
                     </letHeading>
                     <msContents>
                         <msItem>
@@ -93,7 +97,8 @@
                         <objectDesc>
                             <supportDesc>
                                 <support>
-                                    <material color="" lined="false" paper_type="" size="Letter">letter</material>
+                                    <material color="" lined="false" paper_type="" size="Letter"
+                                        >letter</material>
                                 </support>
                                 <extent>1 page on 1 sheet <dimensions/>
                                 </extent>
@@ -234,30 +239,31 @@
     </teiHeader>
     <text>
         <body>
-
             <pb n="1"/>
-            <p rend="align(center)">B J Ed<hi rend="sup">al</hi> Institute<lb/> <placeName>Greene St New York</placeName><lb/>
+            <p rend="align(center)">B J Ed<hi rend="sup">al</hi> Institute<lb/>
+                <placeName>Greene St New York</placeName><lb/>
                 <date>Mch 30<hi rend="sup">th</hi>. 1854</date></p>
             <p>To the Rev<hi rend="sup">d</hi> Isaac Leeser Phil<hi rend="sup">a</hi></p>
             <p rend="indent(1)">Rev<hi rend="sup">d</hi>. Sir</p>
-            <p rend="indent(2)">I am directed and have the<lb/> pleasure to transmit to you a transcript<lb/> of a
-                resolution unanimously passed by<lb/> the Board of Directors at their meeting
-                held<lb/> the 28<hi rend="sup">th</hi> Inst.</p>
-            <p rend="indent(1)">&#8220;Resolved unanimously that<lb/> the best thanks of the Directors are due and<lb/>
-                be respectfully tendered to the Rev<hi rend="sup">d</hi>. <persName>Isaac<lb/>
-                    Leeser</persName> of <placeName>Philadelphia</placeName>&#44; whose eloquent
-                address<lb/> at the Inauguration Banquet of this Institutes<lb/> on the 28<hi
-                    rend="sup">th</hi> Inst. so greatly contributed to the<lb/> success of the
-                evening&#8221;</p>
-            <p rend="indent(1)">I am further instructed to<lb/> forward the enclosed Ten Dollars to defray<lb/> the
-                expenses of your visit to this city upon<lb/> that occasion&#44; the receipt of
-                which please acknowledge<lb/> to <persName>Dr. Raphall</persName> I remain very
-                respectfully<lb/> yr obedt Servant<lb/>
+            <p rend="indent(2)">I am directed and have the<lb/> pleasure to transmit to you a
+                transcript<lb/> of a resolution unanimously passed by<lb/> the Board of Directors at
+                their meeting held<lb/> the 28<hi rend="sup">th</hi> Inst.</p>
+            <p rend="indent(1)">“Resolved unanimously that<lb/> the best thanks of the Directors are
+                due and<lb/> be respectfully tendered to the Rev<hi rend="sup">d</hi>.
+                    <persName>Isaac<lb/> Leeser</persName> of <placeName>Philadelphia</placeName>,
+                whose eloquent address<lb/> at the Inauguration Banquet of this Institutes<lb/> on
+                the 28<hi rend="sup">th</hi> Inst. so greatly contributed to the<lb/> success of the
+                evening”</p>
+            <p rend="indent(1)">I am further instructed to<lb/> forward the enclosed Ten Dollars to
+                defray<lb/> the expenses of your visit to this city upon<lb/> that occasion, the
+                receipt of which please acknowledge<lb/> to <persName>Dr. Raphall</persName> I
+                remain very respectfully<lb/> yr obedt Servant<lb/>
             </p>
-            <p><persName role="author">Geo M. Milner</persName></p>
+            <p>
+                <persName role="author">Geo M. Milner</persName>
+            </p>
             <p>Secty. B. J. E. I.</p>
             <p>p. to</p>
-
         </body>
     </text>
 </TEI>

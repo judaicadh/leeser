@@ -1,765 +1,1072 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE TEI [
-<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
-%teibase;
-<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
-%teiext;
-]>
-<TEI>
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>Constitution and By Laws of the United Hebrew Beneficent Society of Philadelphia</title>
-				<author attested="yes" accepted="yes" signature="unk">United Hebrew Beneficent Society</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Stein and Jones, printers</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>LSKAP</repository>
-						<collection>The Arnold and Deanne Kaplan Collection of Early American Judaica</collection>
-						<idno>LSKAP13-1185</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="unk">United Hebrew Beneficent Society</author>
-						<addressee editor="false" attested="yes" accepted="yes"></addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>Philadelphia, PA</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1861" source="" attested="yes">1861</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url=""/>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="unk" paper_type="" size="">pamphlet</material>
-								</support>
-								<extent>24 pages
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="typescript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="restricted">
-								<p>Restricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-				<language ident="he">Hebrew</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="Front Cover"/>
-				<p rend="The following is handwritten."><persName>Rev. I. Leeser</persName>.</p>
-			<pb n="1"/>
-				<p rend="align(center)">CONSTITUTION</p>
-				<p rend="align(center)">AND</p>
-				<p rend="align(center)">BY&#45;LAWS</p>
-				<p rend="align(center)">OF THE</p>
-				<p rend="align(center)">&#34;<persName role="author">UNITED HEBREW BENEFICENT SOCIETY</persName></p>
-				<p rend="align(center)">OF <placeName>PHILADELPHIA</placeName>.&#34;</p>
-				<p rend="align(center)"><add>Hebrew</add></p>
-				<p rend="align(center)">FOUNDED <date>1822</date>.</p>
-				<p rend="align(center)">&#95;&#95;&#95;&#95;&#95;&#95;</p>
-				<p rend="align(center)">INCORPORATED <date>MDCCCXXIX</date>.</p>
-				<p rend="align(center)">&#95;&#95;&#95;&#95;&#95;&#95;</p>
-				<p rend="align(center)"><placeName>PHILADELPHIA</placeName>&#58;</p>
-				<p rend="align(center)"><persName>STEIN &#38; JONES</persName>&#44; PRS.&#44; <placeName>S. E. COR. THIRD AND CHESTNUT STREETS</placeName>.</p>
-				<p rend="align(center)"><date>1861</date>.</p>
-				<p rend="There is an oval shaped blue stamp at the top of the page."><persName>LEESER</persName> LIBRARY&#44;<lb/> HEBREW<lb/> EDUCATION SOCIETY.</p>
-			<pb n="2"/>
-				<p rend="align(center)">FOUNDERS OF THE SOCIETY.</p>
-				<p rend="align(center)"><date>June 16th&#44; 1822</date>.</p>
-				<p rend="align(center)"><persName>LEWIS ALLEN</persName>.</p>
-				<p rend="align(center)"><persName>JOSEPH ANDREWS</persName>.</p>
-				<p rend="align(center)"><persName>WOLF BENJAMIN</persName>.</p>
-				<p rend="align(center)"><persName>JOSEPH DREYFOUS</persName>.</p>
-				<p rend="align(center)"><persName>SIMEON DREYFOUS</persName>.</p>
-				<p rend="align(center)"><persName>ABRAHAM ELKIN</persName>.</p>
-				<p rend="align(center)"><persName>ABRAM L. HART</persName>.</p>
-				<p rend="align(center)"><persName>SAMUEL JOSEPH</persName>.</p>
-				<p rend="align(center)"><persName>ISAAC STUTTGARD</persName>.</p>
-				<p rend="align(center)"><persName>MAYER ULMAN</persName>.</p>
-			<pb n="3"/>
-				<p rend="align(center)">CONSTITUTION.</p>
-				<p rend="align(center)">&#95;&#95;&#95;</p>
-				<p rend="align(center)">PREAMBLE.</p>
-			<p rend="indent(1)">To provide in the best manner possible for the relief<lb/> of our unfortunate and indigent brethren&#44; and to ame&#45;<lb/>liorate their sufferings to the utmost of our abilities&#44; is<lb/> the performance of an obligation which strengthens<lb/> the bonds of society&#44; by the endearing ties of benevo&#45;<lb/>lence and gratitude.</p>
-			<p rend="indent(1)">Impressed with these truths we whose names are<lb/> hereto subscribed&#44; citizens of the State of <placeName>Pennsylvania</placeName>&#44;<lb/> hereby unite in a Benevolent Association&#44; and for our<lb/> government&#44; as members thereof&#44; adopt the following<lb/> Rules and Regulations&#59; each of us pledging himself<lb/> to the others to observe them with honor and good<lb/> faith.</p>
-				<p rend="align(center)">ARTICLE I.</p>
-				<p rend="align(center)">The name of the Society shall be</p>
-				<p rend="align(center)"><add>Hebrew</add></p>
-				<p rend="align(center)">&#34;THE <persName role="author">UNITED HEBREW BENEFICENT SOCIETY</persName> OF<lb/> <placeName>PHILADELPHIA</placeName>.&#34;</p>
-				<p rend="align(center)">ARTICLE II.</p>
-			<p rend="indent(1)">The funds of the Society shall be appropriated to<lb/> the following purposes&#58;</p>
-			<p rend="indent(1)">1. Relief to the poor and sick of the Jewish per&#45;<lb/>suasion.</p>
-			<pb n="4"/>
-				<p rend="align(center)">4</p>
-			<p rend="indent(1)">2.  To procure attendance&#44; medicine&#44; &#38;c.&#44; for such<lb/> sick as are unable to provide for themselves&#59; and in<lb/> case of death to bury them with decency.</p>
-			<p rend="indent(1)">3.  To bind poor children apprentices to mechanical<lb/> trades&#44; with the concurrence of their parents or guar&#45;<lb/>dians.</p>
-			<p rend="indent(1)">4.  Whenever the funds will admit&#8212;to encourage<lb/> the acquirement of the Holy Tongue among the child&#45;<lb/>ren of the members of our persuasion.</p>
-				<p rend="align(center)">ARTICLE III.</p>
-			<p rend="indent(1)">SECTION 1.  The officers of this Society shall con&#45;<lb/>sist of a President&#44; Vice&#45;President&#44; Secretary&#44; Treasurer&#44;<lb/> and eight members who shall form a Board of Mana&#45;<lb/>gers for the transaction of business.  They shall be<lb/> elected separately&#44; by written ballot&#44; by a majority of<lb/> <sic>of</sic> votes&#44; on the first <date>Sunday</date> after <add>Hebrew</add> in each<lb/> and every year.</p>
-			<p rend="indent(1)">SECT. 2.  Vacancies in office shall be filled by the<lb/> Board&#44; on such event taking place.</p>
-				<p rend="align(center)">ARTICLE IV.</p>
-			<p rend="indent(1)">The President shall preside at all meetings&#59; in his<lb/> absence the Vice&#45;President shall take his place&#59; and<lb/> in the absence of both&#44; a Chairman shall be appointed<lb/> from the members who compose the Board.</p>
-				<p rend="align(center)">ARTICLE V.</p>
-			<p rend="indent(1)">The Treasurer shall take charge of all moneys and<lb/> securities belonging to the Society&#44; and shall deposit<lb/> all sums above fifty dollars&#44; in such bank or other<lb/> moneyed institution as the Board of Managers shall<lb/> from time to time direct&#44; in the name and behalf of<lb/> the Society.  He shall make payments agreeably to</p>
-			<pb n="5"/>
-				<p rend="align(center)">5</p>
-				<p>the written orders of the President for the time being&#59;<lb/> keep a correct account of all receipts and expenditures&#44;<lb/> which accounts shall at all times be open to the inspec&#45;<lb/>tion of the Managers&#59; he shall give a statement of the<lb/> funds to the Board at their stated meetings&#44; and to the<lb/> Society annually at the general meetings.  If he leaves<lb/> the city for more than fourteen days&#44; he shall deliver<lb/> the balance of cash in hand to the Secretary&#44; or some<lb/> other fit person until his return&#44; taking a receipt for<lb/> the same&#44; and giving notice to the presiding officer of<lb/> the Society.</p>
-				<p rend="align(center)">ARTICLE VI.</p>
-			<p rend="indent(1)">The Secretary shall keep records of the proceedings<lb/> of the Society and of the Board&#44; do all other writing<lb/> not connected with the office of Treasurer&#44; prepare<lb/> notices and deliver them to the person who shall be<lb/> appointed by the Board to serve them.</p>
-				<p rend="align(center)">ARTICLE VII.</p>
-			<p rend="indent(1)">SECTION 1.  The general yearly meeting of this<lb/> Society shall take place on the first <date>Sunday</date> after <add>Hebrew</add> at some convenient place to be appointed<lb/> by the Board of Managers.</p>
-			<p rend="indent(1)">SECT. 2  The President shall have power to call<lb/> special meetings of the Board or of the Society when&#45;<lb/>ever he shall deem it expedient&#59; and it shall be his<lb/> duty to call a meeting of the Society whenever required<lb/> in writing by seven members&#59; or of the Board&#44; at the<lb/> written request of any four members thereof.</p>
-			<p rend="indent(1)">SECT. 3.  State meetings of the Board shall be<lb/> held on the first <date>Sundays</date> of the months of <add>Hebrew</add> &#40;&#34;<date>Ab</date>&#34;&#41;<lb/> <add>Hebrew</add> &#40;&#34;<date>Hesvan</date>&#34;&#41; <add>Hebrew</add> &#40;&#34;<date>Shebat</date>&#34;&#41; and <add>Hebrew</add> &#40;&#34;<date>Iyar</date>&#34;&#41;<lb/> in every year.</p>
-			<pb n="6"/>
-				<p rend="align(center)">6</p>
-			<p rend="indent(1)">SECT. 4.&#42;  Seventeen members shall form a quorum<lb/> of the Society&#44; and six a quorum of the Board.</p>
-				<p rend="align(center)">ARTICLE VIII.</p>
-			<p rend="indent(1)">SECT. 1.  Any Jew residing in the State of <placeName>Pennsyl&#45;<lb/>vania</placeName>&#44; desirous of becoming a member of this Society&#44;<lb/> may apply in writing at any meeting&#44; which applica&#45;<lb/>tion shall lie over until the next stated Board meeting&#44;<lb/> at which time&#44; or at a subsequent stated Board meet&#45;<lb/>ing&#44; the applicant shall be balloted for&#59; and if he shall<lb/> receive the votes of two&#45;thirds of the members present<lb/> shall be admitted to membership&#44; provided he signs<lb/> this Constitution&#44; and pays one dollar on entrance&#44; to<lb/> the Treasurer&#44; within three months after his election.</p>
-			<p rend="indent(1)">SECT. 2.  No person who shall be married other&#45;<lb/>wise than according to the Jewish rites&#44; can apply for&#44;<lb/> or be admitted to membership in this Society&#59; and if<lb/> any member shall marry otherwise than according to<lb/> the Jewish laws&#44; he shall&#44; by the vote of a majority at<lb/> any Board meeting&#44; forfeit his membership&#8212;from<lb/> which vote an appeal may lie to the next general<lb/> yearly meeting of the Society&#44; whose decision thereon<lb/> shall be final.</p>
-			<p rend="indent(1)">SECT. 3.  No member in arrears to the Society shall<lb/> be permitted to vote at any general election for officers&#59;<lb/> and every member who shall be in arrears to the So&#45;<lb/>ciety for one year&#39;s subscription and fines&#44; and shall<lb/> not discharge the same within three months after re&#45;<lb/>ceiving notice thereof from the Secretary&#44; shall be re&#45;<lb/>ported by the Treasurer at the next stated meeting of<lb/> the Board&#44; who may&#44; by a majority of votes&#44; expel<lb/> such delinquent if they think proper&#44; and order the</p>
-				<p>&#42;Altered see postea&#8212;p. 12.</p>
-			<pb n="7"/>
-				<p rend="align(center)">7</p>
-				<p>Treasurer instantly to commence suit for all sums due<lb/> by said delinquent to the Society.</p>
-			<p rend="indent(1)">SECT. 4.  Any officer or member may be expelled or<lb/> otherwise dealt with by the Society on an impeach&#45;<lb/>ment&#44; provided such impeachment be signed by at<lb/> least four members&#44; and a copy of the same&#44; with a<lb/> notice of the time and place of meeting furnished to<lb/> the accused&#44; at least one week previously&#59; a majority<lb/> of the members of the Society present at any such<lb/> meeting&#44; shall determine the question of guilt or inno&#45;<lb/>cence&#44; and may impose any sentence not amounting to<lb/> expulsion&#44; which shall require the votes of three&#45;<lb/>fourths of the members present&#44; or fine not exceeding<lb/> one hundred dollars&#44; or suspension from membership&#44;<lb/> either of which shall require the votes of two&#45;thirds<lb/> of the members present.</p>
-				<p rend="align(center)">ARTICLE IX.</p>
-			<p rend="indent(1)">Every member shall contribute four dollars annual&#45;<lb/>ly to the Society in quarterly payments&#59; and every<lb/> member who shall on entrance pay forty dollars&#44; shall<lb/> be exempted from all contributions during his contin&#45;<lb/>uance in the Society.</p>
-				<p rend="align(center)">ARTICLE X.</p>
-			<p rend="indent(1)">SECT. 1.  The President shall&#44; at his discretion&#44; on<lb/> application by any person professing Judaism&#44; whom<lb/> he may deem an object worthy of charity&#44; have the<lb/> power to relieve such applicant with a sum not exceed&#45;<lb/>ing five dollars&#58; if&#44; however&#44; he thinks any applicant<lb/> entitled to more&#44; he shall in that case consult the Board&#44;<lb/> and whatever sum may be voted to such applicant&#44; shall<lb/> be drawn from the funds by an order signed by the<lb/> President and attested by the Secretary.  Weekly</p>
-			<pb n="8"/>
-				<p rend="align(center)">8</p>
-				<p>allowances may be given to poor resident families ap&#45;<lb/>plying in writing to the President&#44; who shall lay the<lb/> same before the Board to decide thereon&#44; and order<lb/> such amount as the applicants are to receive&#59; these or&#45;<lb/>ders being also signed by the President and attested<lb/> by the Secretary&#59; <hi rend="italics">Provided always</hi>&#44; That the aforesaid<lb/> weekly allowances&#44; and all other expenditures&#44; shall<lb/> never exceed three&#45;fourths of the yearly income of this<lb/> Society.</p>
-			<p rend="indent(1)">SECT. 2.  It shall be the duty of the Board of Mana&#45;<lb/>gers to visit the sick&#44; order medical assistance&#44; nurses<lb/> and other necessaries required.  They shall call on<lb/> poor applicants&#44; inquire into their distresses&#44; and see<lb/> that the Society is not imposed on by false representa&#45;<lb/>tions.  They shall employ proper persons to sit up<lb/> with the dying and the dead&#44; who are unable to pro&#45;<lb/>cure such attendants at their own expense&#44; and to watch<lb/> their remains at the <add>Hebrew</add>  In every instance<lb/> where a child of a poor person may be bound an ap&#45;<lb/>prentice by this Society&#44; it shall be the duty of the<lb/> Board to see that he is bound out in such a manner as<lb/> to keep his <date>Sabbaths</date> and Holy&#45;days&#44; and in all other<lb/> respects to adhere as nearly as possible to his religion&#44;<lb/> agreeably to the Jewish laws&#59; they shall also inquire<lb/> previously to such binding&#44; as to the moral character<lb/> of the intended master&#44; as well as to his capacity to<lb/> teach the child his trade in a workmanlike manner&#59;<lb/> and they shall exercise a kindly guardianship over<lb/> such child&#44; so far as they may with propriety&#44; and see<lb/> justice done him in every respect.  And no person<lb/> shall have any claim to the charity of this Society&#44;<lb/> unless when applied to by the Board&#44; he will agree to<lb/> their binding his child or children apprentices to</p>
-			<pb n="9"/>
-				<p rend="align(center)">9</p>
-				<p>learn mechanical trades&#44; unless he shall give a satis&#45;<lb/>factory reason why he will not comply with their<lb/> wishes.</p>
-			<p rend="indent(1)">SECT. 3.  The Board may&#44; if they think proper&#44; form<lb/> themselves into Committees on Charity&#44; on the Sick<lb/> and Dead&#44; on Education and Apprentices&#44; and such<lb/> other committees as may facilitate and more fully carry<lb/> into effect the objects of this Institution.</p>
-			<p rend="indent(1)">SECT. 4.  The Board shall elect a Messenger and fix<lb/> his salary&#58; his duties shall be to collect moneys due&#59;<lb/> attend the Society and Board at all meetings&#59; keep<lb/> the place of meeting in order&#59; visit the sick&#44; and make<lb/> report to the Board&#59; attend all funerals and <add>Hebrew</add> deliver<lb/> all notices of meetings&#44; of attending <add>Hebrew</add><lb/> and <add>Hebrew</add> and such others as may be delivered to him<lb/> by the proper officers of the Society&#59; give the female<lb/> relatives of the members notice to attend sewing&#44; and<lb/> report to the Secretary every member who has sub&#45;<lb/>jected himself to a fine.</p>
-				<p rend="align(center)">ARTICLE XI.</p>
-			<p rend="indent(1)">SECTION 1.  No part of this Constitution shall in<lb/> any manner be altered&#44; nor any addition made thereto&#44;<lb/> unless the same shall have been proposed in writing<lb/> at a meeting of the Society&#44; and concurred in at a sub&#45;<lb/>sequent meeting&#44; by the votes of three&#45;fourths of the<lb/> members present&#58; and such alterations and amend&#45;<lb/>ments are to be certified by the Attorney General and<lb/> Supreme Court&#44; and enrolled according to law.</p>
-			<p rend="indent(1)">SECT. 2.  All By&#45;Laws&#44; Rules&#44; and Regulations&#44; not<lb/> repugnant to the Jewish laws or to this Constitution&#44;<lb/> which may from time to time be agreed on by this<lb/> Society&#44; shall be binding on its members&#44; and have the</p>
-			<pb n="10"/>
-				<p rend="align(center)">10</p>
-				<p>same effect as if they were part of this Constitu&#45;<lb/>tion&#58; <hi rend="italics">Provided</hi>&#44; They shall have been proposed in<lb/> writing at any meeting&#44; and concurred in at a subse&#45;<lb/>quent general meeting of the Society&#44; by the votes of<lb/> two&#45;thirds of the members present&#59; <hi rend="italics">And provided</hi>&#44; That<lb/> such By&#45;Laws&#44; Rules&#44; and Regulations&#44; be not repug&#45;<lb/>nant to the Constitution and Laws of the United<lb/> States&#44; or the Constitution and Laws of this Common&#45;<lb/>wealth.</p>
-			<p rend="indent(1)">This Constitution was adopted as the Charter of the Society&#59; was<lb/> approved by the Attorney General and Supreme Court of <placeName>Pennsyl&#45;<lb/>vania</placeName>&#44; and is enrolled in the Office of the Secretary of the Common&#45;<lb/>wealth&#44; in Charter Book No. 4&#44; page 363&#44; &#38;c.</p>
-			<pb n="11"/>
-				<p rend="align(center)">11</p>
-				<p rend="align(center)">AN ACT</p>
-				<p rend="align(center)">TO AUTHORIZE CERTAIN ALTERATIONS IN THE CHARTER OF THE<lb/> <persName role="author">UNITED HEBREW BENEFICENT SOCIETY</persName> OF <placeName>PHILADELPHIA</placeName>.</p>
-			<p rend="indent(1)">WHEREAS&#44; The <persName role="author">United Beneficent Society</persName> of <placeName>Philadelphia</placeName> has<lb/> been incorporated for the purpose of relieving poor Israelites&#44; edu&#45;<lb/>cating poor children&#44; and binding them apprentices to learn mechan&#45;<lb/>ical trades&#44; ministering to the sick&#44; and burying the indigent dead&#58;<lb/> And whereas&#44; under present circumstances its sphere of usefulness<lb/> is greatly circumscribed by a requisition in its Charter that appli&#45;<lb/>cants for membership shall reside within this Commonwealth&#44; and<lb/> shall apply in writing&#58; And whereas&#44; a large majority of the mem&#45;<lb/>bers of the Society have petitioned for such alterations in their<lb/> Charter as&#44; in their opinion the General Assembly alone can grant.</p>
-				<p>Therefore</p>
-			<p rend="indent(1)">SECTION 1.  Be it enacted by the Senate and House of Representa&#45;<lb/>tives of the Commonwealth of <placeName>Pennsylvania</placeName>&#44; in General Assembly<lb/> met&#44; and it is hereby enacted by the authority of the same&#44; That the<lb/> <persName role="author">United Hebrew Beneficent Society</persName> of <placeName>Philadelphia</placeName> shall have the<lb/> power to elect as its members individuals residing out of the State&#44;<lb/> in the same manner as other members may be elected&#44; according to<lb/> the provisions of the Charter of the said Society.</p>
-			<p rend="indent(1)">SECT. 2.And be it further enacted by the authority aforesaid&#44;<lb/> That&#44; from and after the passing of this act&#44; any member of the said<lb/> Society may propose another for membership&#44; and that a written ap&#45;<lb/>plication shall not be indispensably necessary.</p>
-			<p rend="indent(1)">SECT. 3.  And be it further enacted by the authority aforesaid&#44;<lb/> That so much of any portion of the Charter of the said Society as<lb/> is <sic>inconsistant</sic> with the foregoing provisions of this act be&#44; and the<lb/> same is&#44; hereby repealed&#44; annulled&#44; and made void.</p>
-				<p rend="align(right)"><persName>JOHN LAPORTE</persName>&#44;</p>
-			<p rend="align(right)"><hi rend="italics">Speaker of the House of Representatives.</hi></p>
-			<p rend="align(right)"><persName>WM. G. HAWKINS</persName>&#44;</p>
-			<p rend="align(right)"><hi rend="italics">Speaker of the Senate.</hi></p>
-				<p>Approved <date>April 7&#44; 1832</date>&#44;</p>
-			<p rend="indent(1)"><persName>GEORGE WOLF</persName>.</p>
-			<pb n="12"/>
-				<p rend="align(center)">12</p>
-				<p rend="align(center)">AMENDMENT TO THE CONSTITUTION&#44;</p>
-				<p rend="align(center)">Adopted <date>Sept. 12th&#44; 1858</date>.</p>
-			<p rend="indent(1)">That Section 4th of Article VII.&#44; be altered so as to<lb/> read&#44; that eleven instead of seventeen members of the<lb/> Society shall form a quorum.</p>
-			<p rend="indent(1)">This amendment was approved by the Attorney General and the<lb/> Judges of the Supreme Court&#44; and is recorded at <placeName>Harrisburg</placeName>&#44; in the<lb/> Secretary of State&#39;s Office&#44; in Charter Book&#44; No. 8&#44; page 128&#44; &#38;c.</p>
-			<pb n="13"/>
-				<p rend="align(center)">BY&#45;LAWS.</p>
-				<p rend="align(center)">I.</p>
-			<p rend="indent(1)">The President shall take the chair within half an<lb/> hour after the time specified in the notices for meeting&#44;<lb/> provided there be a quorum&#8212;call the members to or&#45;<lb/>der&#44; and have the minutes of the preceding meeting<lb/> read and submitted for approval&#44; prior to any other<lb/> business being brought forward.</p>
-				<p rend="align(center)">II.</p>
-			<p rend="indent(1)">When the Vice President or other chairman shall<lb/> preside&#44; in the absence of the President&#44; he shall be<lb/> bound by the duties&#44; and invested with the same pow&#45;<lb/>ers as are enjoined on&#44; and exercised by the President.</p>
-				<p rend="align(center)">III.</p>
-			<p rend="indent(1)">All motions regularly made in writing and seconded&#44;<lb/> shall before any debate takes place thereon&#44; be stated<lb/> from the chair&#44; and no other shall be received but to<lb/> amend&#44; postpone&#44; reject or adjourn&#44; which last shall<lb/> always be in order&#44; and be decided without debate.</p>
-				<p rend="align(center)">IV.</p>
-			<p rend="indent(1)">All votes shall be <hi rend="italics">viva voce</hi>&#44; except in elections for<lb/> members or officers&#44; which shall be by ballot&#59; and at<lb/> the request of any three members&#44; the yeas and nays<lb/> shall be entered on the minutes.</p>
-			<pb n="14"/>
-				<p rend="align(center)">14</p>
-				<p rend="align(center)">V.</p>
-			<p rend="indent(1)">No vote by proxy shall be allowed in any case<lb/> whatever.</p>
-				<p rend="align(center)">VI.</p>
-			<p rend="indent(1)">All questions&#44; not otherwise provided for&#44; shall be<lb/> determined by a majority of the voters present&#59; and<lb/> on such occasions the chairman shall not vote except<lb/> on an equal division&#44; when he shall have the casting vote.</p>
-				<p rend="align(center)">VII.</p>
-			<p rend="indent(1)">No member shall be allowed to speak more than<lb/> twice on the same question&#44; without the consent of the<lb/> presiding officer&#59; nor shall any member leave the<lb/> meeting without permission from the chair.</p>
-				<p rend="align(center)"> VIII.</p>
-			<p rend="indent(1)">The Secretary shall attend all meetings&#44; and it shall<lb/> be his duty to bring with him&#44; or send at the time pre&#45;<lb/>scribed&#44; such books and papers as may be required.</p>
-				<p rend="align(center)">IX.</p>
-			<p rend="indent(1)">Any member elected to an office and refusing to<lb/> serve&#44; or accepting any office and <sic>afterwards</sic> resigning&#44;<lb/> shall&#44; unless liberated by the Board&#44; be fined in the<lb/> followings sums&#8212;viz&#58; President or Vice&#45;President&#44; ten<lb/> dollars&#59; Treasurer or Secretary&#44; seven dollars and fifty<lb/> cents&#59; Member of the Board&#44; five dollars&#58; <hi rend="italics">provided</hi><lb/> <hi rend="italics">always</hi>&#44; that any member who may have served in</p>
-			<pb n="15"/>
-				<p rend="align(center)">15</p>
-				<p>office&#44; or paid his fine&#44; shall not be obliged to serve<lb/> again in that or any other office&#44; for three years after<lb/> the expiration of the first term for which he shall have<lb/> been elected.</p>
-				<p rend="align(center)">X.</p>
-			<p rend="indent(1)">The following fines shall be imposed by the society<lb/> on its members for neglects or delinquencies&#44; from<lb/> which an appeal may lie to the President&#44; who may<lb/> remit them on proper excuses being shown&#44; and from<lb/> his decision an appeal shall be further had to the next<lb/> stated Board meeting&#44; whose decision thereon shall be<lb/> final.</p>
-				<p rend="align(center)">FINES.</p>
-				<table rows="10" cols="2">
-				<row>
-				<cell/>
-				<cell><hi rend="italics">Dolls. Cts.</hi></cell>
-				</row>
-				<row>
-				<cell>For absence at roll&#45;call from any meeting<lb/> of the Society or Board&#44; . . . </cell>
-				<cell>25</cell>
-				</row>
-				<row>
-				<cell>For absence from any entire meeting of<lb/> the Society or Board&#44; . . .</cell>
-				<cell>50</cell>
-				</row>
-				<row>
-				<cell>For leaving a meeting without permission<lb/> from the chair&#44; . . . . </cell>
-				<cell>50</cell>
-				</row>
-				<row>
-				<cell>And if by such leaving the meeting should<lb/> break a quorum&#44; . . . .</cell>
-				<cell>1  00</cell>
-				</row>
-				<row>
-				<cell>For not attending <add>Hebrew</add></cell>
-				<cell>50</cell>
-				</row>
-				<row>
-				<cell>For not attending <add>Hebrew</add> or finding a prop&#45;<lb/>er substitute&#44; . . . . . </cell>
-				<cell>12</cell>
-				</row>
-				<row>
-				<cell>For not attending <add>Hebrew</add> or finding a prop&#45;<lb/>er substitute&#59; . . . . . </cell>
-				<cell>25</cell>
-				</row>
-				<row>
-				<cell>And if there be no <add>Hebrew</add> in consequence&#44;<lb/> each absentee shall be fined. . . </cell>
-				<cell>50</cell>
-				</row>
-				<row>
-				<cell>For leaving the burial ground before the<lb/> grave is filled and ceremony concluded&#44;</cell>
-				<cell>25</cell>
-				</row>
-				</table>
-			<pb n="16"/>
-				<p rend="align(center)">16</p>
-				<p rend="align(center)">XI.</p>
-			<p rend="indent(1)">Any member guilty of any disorderly conduct at a<lb/> meeting&#44; may be fined by the chairman to an amount<lb/> not exceeding five dollars&#44; from which an appeal may<lb/> lie to the same meeting&#44; who may reduce or release the<lb/> fine&#44; and their judgment shall be final and conclusive.</p>
-				<p rend="align(center)">XII.</p>
-			<p rend="indent(1)">The Society shall subscribe to the City Dispensary<lb/> <hi rend="italics">five dollars</hi>&#44; annually&#44; and to the Northern and Southern<lb/> Dispensaries <hi rend="italics">three dollars</hi> each&#44; annually.<lb/>  &#91;<hi rend="italics">Repealed</hi> <date><hi rend="italics">September </hi>15<hi rend="italics">th</hi>&#44; 1839</date>&#93;</p>
-				<p rend="align(center)">XIII.</p>
-			<p rend="indent(1)">Any person leaving a legacy of <hi rend="italics">fifty dollars</hi> or more<lb/> to the Society&#44; shall have honorable mention of his<lb/> name at every yearly meeting.</p>
-				<p rend="align(center)">FORM OF A LEGACY.</p>
-			<p rend="indent(1)">&#34;<hi rend="italics">I give and bequeath to the <persName role="author">United Hebrew Beneficent<lb/> Society</persName> of <placeName>Philadelphia</placeName>&#44; the sum of&#8212;dollars&#44; to be paid<lb/> to their Treasurer for the time being&#44;&#8212;months after my<lb/> decease&#44; and to be applied towards carrying on the charita&#45;<lb/>ble designs of their Institution.</hi>&#34;</p>
-				<p rend="align(center)">XIV.</p>
-			<p rend="indent(1)">Donations may be received from the persons of every<lb/> religious denomination&#44; whose names shall be honora&#45;<lb/>bly mentioned at every general yearly meeting of the<lb/> Society.</p>
-			<pb n="17"/>
-				<p rend="align(center)">17</p>
-				<p rend="align(center)">XV.</p>
-			<p rend="indent(1)">Life&#45;subscriptions&#44; legacies&#44; and donations to the<lb/> amount of <hi rend="italics">thirty dollars</hi> and upwards&#44; shall be invested<lb/> in public stocks when they amount to <hi rend="italics">five hundred</hi><lb/> <hi rend="italics">dollars</hi>&#44; as a permanent fund&#44; the interest only to be<lb/> expended.</p>
-				<p rend="align(center)">XVI.</p>
-			<p rend="indent(1)">In all legal controversies between the Society and<lb/> any of its members&#44; the  books and accounts of the Soc&#45;<lb/>iety&#44; verified by the oath of the proper officer&#44; shall<lb/> be evidence of contributions or fines due from such<lb/> member to the Society.</p>
-				<p rend="align(center)">XVII.</p>
-			<p rend="indent(1)">If any member purposes leaving the State for any<lb/> considerable length of time&#44; he may notify the same to<lb/> the President&#44; and pay up all arrears to the end of the<lb/> quarter in which he resigns&#59; and if such member shall<lb/> again return to the State&#44; and wish to be re&#45;admitted&#44;<lb/> he may again be considered a member without being<lb/> <sic>ballotted</sic> for&#44; or paying any new entrance fee&#44; by con&#45;<lb/>sent of a majority of the Board.</p>
-				<p rend="align(center)">XVIII.</p>
-			<p rend="indent(1)">Any member wishing to resign&#44; must pay all ar&#45;<lb/>rearages to the end of the quarter in which he resigns&#44;<lb/> and notify his intention&#44; in writing&#44; to the President&#44;<lb/> who shall lay it before the Board for consideration at<lb/> their next meeting.</p>
-			<pb n="18"/>
-				<p rend="align(center)">18</p>
-				<p rend="align(center)">XIX.</p>
-			<p rend="indent(1)">When a person shall be admitted to membership in<lb/> the middle of a quarter&#44; his first quarterly subscription<lb/> shall become payable at the same time as that of the<lb/> other members.</p>
-				<p rend="align(center)">XX.</p>
-			<p rend="indent(1)">On the death of a member&#44; it shall be the duty of<lb/> the Society to follow his remains to the grave&#44; and at&#45;<lb/>tend in turn morning and evening prayers&#44; <add>Hebrew</add> <lb/> <add>Hebrew</add>or if a member becomes <add>Hebrew</add> the<lb/> Society shall in their turns attend <add>Hebrew</add>&#44; and prayers<lb/> shall be said in the <add>Hebrew</add>&#44; desired by the <add>Hebrew</add>.</p>
-				<p rend="align(center)">XXI.</p>
-			<p rend="indent(1)">All the members who shall be in the city or county<lb/> of <placeName>Philadelphia</placeName>&#44; shall be summoned to attend the fun&#45;<lb/>eral of every member of the Society.</p>
-				<p rend="align(center)">XXII.</p>
-			<p rend="indent(1)">Male relatives of a member who are not more than<lb/> twenty&#45;one years of age shall be entitled to the services<lb/> of the <add>Hebrew</add>.</p>
-				<p rend="align(center)">XXIII.</p>
-			<p rend="indent(1)">Female relatives of a member on whom it is obliga&#45;<lb/>tory to make <add>Hebrew</add> and to observe the seven days<lb/> mourning&#44; are entitled to the services usually rendered<lb/> by a <add>Hebrew</add> to females.</p>
-			<pb n="19"/>
-				<p rend="align(center)">19</p>
-				<p rend="align(center)">XXIV.</p>
-			<p rend="indent(1)">If any indigent Jew lies sick&#44; and apprehensions are<lb/> entertained of his death&#44; the Board&#44; or their Committee<lb/> on the sick&#44; shall procure suitable persons to attend<lb/> him in his last moments&#44; and they shall in all instances<lb/> appoint the hours for <add>Hebrew</add> and regulate all<lb/> proceedings thereto.</p>
-				<p rend="align(center)">XXV.</p>
-			<p rend="indent(1)">The Committee on the sick and dead&#44; shall select<lb/> eight members to perform <add>Hebrew</add> who shall permit no<lb/> person to interfere without the consent of the chairman<lb/> of said committee&#59; nor shall any member be permitted<lb/> to give to any other person that duty which he shall<lb/> have been called on to perform&#44; without the consent of<lb/> the same chairman&#59; and no member shall depart the<lb/> burial&#45;ground&#44; until all the ceremonies are performed&#8212;<lb/> except in cases of contagious disease.</p>
-				<p rend="align(center)">XXVI.</p>
-			<p rend="indent(1)">The aforesaid by&#45;laws Nos. 24 and 25&#44; shall on no<lb/> account whatever&#44; interfere with the rules and regula&#45;<lb/>tions already adopted by the <add>Hebrew</add> estab&#45;<lb/>lished in this city.</p>
-				<p rend="align(center)">XXVII.</p>
-			<p rend="indent(1)">The name of every member of the Society shall be<lb/> entered on a list&#44; to be kept by the Secretary&#44; and on<lb/> the requisition of the committee on the sick and dead&#44;<lb/> it shall be his duty to summon in turn&#44; a sufficient<lb/> number to attend <add>Hebrew</add> taking care that the same names<lb/> are not selected twice&#44; until the whole roll of the So&#45;<lb/>ciety shall have been gone through.</p>
-			<pb n="20"/>
-				<p rend="align(center)">20</p>
-				<p rend="align(center)">XXVIII.</p>
-			<p rend="indent(1)">The committee on the sick and dead&#44; shall&#44; whenever<lb/> it is practicable&#44; employ Jews&#44; and no others&#44; to dig the<lb/> graves of the deceased members or such poor Jews as<lb/> shall be interred at the expense of the Society&#59; and it<lb/> shall be the duty of such persons so employed&#44; to direct<lb/> and see them filled and finished.</p>
-				<p rend="align(center)">XXIX.</p>
-			<p rend="indent(1)">Any member who shall pay <hi rend="italics">two dollars</hi> quarterly&#44;<lb/> in lieu of the contribution required in the 9th Article<lb/> of the Constitution&#44; shall be exempted from all fines&#44;<lb/> except fines for improper conduct at a meeting&#44; and<lb/> every member who shall have signified his intention<lb/> of thus becoming an exempt member&#44; shall continue to<lb/> be so considered until he shall otherwise direct in<lb/> writing to the Secretary.</p>
-				<p rend="align(center)">XXX.</p>
-			<p rend="indent(1)">Any member who shall&#44; on entrance&#44; pay <hi rend="italics">fifty dol.<lb/>lars</hi> in lieu of the life contribution required in the<lb/> Constitution shall&#44; during his continuance in the So&#45;<lb/>ciety&#44; be exempted from all further contributions&#44; and<lb/> from all fines&#44; except fines for improper conduct at a<lb/> meeting&#58; <hi rend="italics">Provided&#44; nevertheless</hi>&#44; that nothing contained<lb/> in this or the foregoing by&#45;law&#44; shall be so construed<lb/> as to exonerate any such exempt member from his lia&#45;<lb/>bility to the fine incident to a resignation of any office<lb/> to which such exempt member may have been elected<lb/> and have accepted.</p>
-				<p rend="align(center)">XXXI.</p>
-			<p rend="indent(1)">Any Member who shall be more than sixty years<lb/> old&#44; shall be exempted from all fines except for</p>
-			<pb n="21"/>
-				<p rend="align(center)">21</p>
-				<p>improper conduct&#44; or for resigning any office accepted<lb/> by such member.</p>
-				<p rend="align(center)">XXXII.</p>
-			<p rend="indent(1)">The Board of Managers may&#44; at all times&#44; strike off<lb/> the name of a member&#44; owing more than five dollars&#44;<lb/> and close his account with the Society.  <hi rend="italics">Provided</hi>&#44; that<lb/> such person may be at any time restored to membership&#44;<lb/> on paying up all <sic>arrearages</sic>&#44; or by a vote of the Board.</p>
-				<p rend="align(center)">XXXIII.</p>
-			<p rend="indent(1)">Any person who shall not circumcise his children<lb/> shall not be admitted a member of this Society&#44; and<lb/> any person so offending&#44; who shall have been admitted<lb/> after the passage of this law&#44; shall be forthwith expelled<lb/> by a majority of the Board.</p>
-				<p rend="align(center)">XXXIV.</p>
-			<p rend="indent(1)">Any person who&#44; in future&#44; does not have his sons<lb/> circumcised&#44; shall be expelled from this Society.</p>
-			<pb n="22"/>
-				<p rend="align(center)">PAST OFFICERS OF THE SOCIETY.</p>
-				<p rend="align(center)">PRESIDENTS&#44;</p>
-				<table rows="3" cols="2">
-				<row>
-				<cell><persName>ZALEGMAN PHILLIPS</persName>&#44;</cell>
-				<cell><persName>ABRAM L. HART</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>WOLF BENJAMIN</persName>&#44;</cell>
-				<cell><persName>JOSEPH L. MOSS</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>LAZARUS J. LEBERMAN</persName>.</cell>
-				<cell/>
-				</row>
-				</table>
-				<p rend="align(center)">VICE PRESIDENTS&#44;</p>
-				<table rows="4" cols="2">
-				<row>
-				<cell><persName>LOUIS BOMEISLER</persName>&#44;</cell>
-				<cell><persName>ABRAM L. HART</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>WOLF BENJAMIN</persName>&#44;</cell>
-				<cell><persName>J. ALTAMONT PHILLIPS</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>JOHN MOSS</persName>&#44;</cell>
-				<cell><persName>L. J. LEBERMAN</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>MARCUS CAUFFMAN</persName>.</cell>
-				<cell/>
-				</row>
-				</table>
-				<p rend="align(center)">TREASURERS&#44;</p>
-				<table rows="2" cols="2">
-				<row>
-				<cell><persName>ABRAHAM ELKIN</persName>&#44;</cell>
-				<cell><persName>JOSEPH L. MOSS</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>LEWIS ALLEN</persName>&#44;</cell>
-				<cell><persName>ISAAC J. PHILLIPS</persName>.</cell>
-				</row>
-				</table>
-				<p rend="align(center)">SECRETARIES&#44;</p>
-				<table rows="5" cols="2">
-				<row>
-				<cell><persName>WOLF BENJAMIN</persName>&#44;</cell>
-				<cell><persName>BENJAMIN W. COHEN</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>HART STORK</persName>&#44;</cell>
-				<cell><persName>ABRAHAM DESSAU</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>JOSEPH J. ANDREWS</persName>&#44;</cell>
-				<cell><persName>ZADOK A. DAVIS</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>J. A. PHILLIPS</persName>&#44;</cell>
-				<cell><persName>EDWARD S. MAWSON</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>ABRAHAM HART</persName>&#44;</cell>
-				<cell><persName>MICHAEL M. ALLEN</persName>.</cell>
-				</row>
-				</table>
-			<pb n="23"/>
-				<p rend="align(center)">Officers of the Society</p>
-				<p rend="align(center)">FOR THE YEAR <date>5621</date>.</p>
-				<p rend="align(center)">President&#44;</p>
-				<p rend="align(center)"><persName>M. A. MITCHELL</persName>.</p>
-				<p rend="align(center)">Vice President&#44;</p>
-				<p rend="align(center)"><persName>MARCUS CAUFFMAN</persName>.</p>
-				<p rend="align(center)">Treasurer&#44;</p>
-				<p rend="align(center)"><persName>ISAAC J. PHILLIPS</persName>.</p>
-				<p rend="align(center)">Secretary&#44;</p>
-				<p rend="align(center)"><persName>MICHAEL M. ALLEN</persName>.</p>
-				<p rend="align(center)">Managers&#44;</p>
-				<table rows="4" cols="2">
-				<row>
-				<cell><persName>A. HART</persName>&#44;</cell>
-				<cell><persName>MAYER ARNOLD</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>J. A. PHILLIPS</persName>&#44;</cell>
-				<cell><persName>BERNHARD SPATZ</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>LAZARUS MAYER</persName>&#44;</cell>
-				<cell><persName>I. BINSWANGER</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>SAMUEL HUNT</persName>&#44;</cell>
-				<cell><persName>HENRY NEWHOUSE</persName>.</cell>
-				</row>
-				</table>
-				<p rend="align(center)">Collector&#44;</p>
-				<p rend="align(center)"><persName>ABM. FINZI</persName>.</p>
-				<p rend="align(center)">Messenger&#44;</p>
-				<p rend="align(center)"><persName>ELIAS S. LINSE</persName>.</p>
-			<pb n="24"/>
-				<p rend="align(center)">Members of the Society&#44;</p>
-				<p rend="align(center)"><date>MARCH 1&#44; 1861</date>.</p>
-				<table rows="40" cols="2">
-				<row>
-				<cell><persName>Joseph J. Andrews</persName>&#44;</cell>
-				<cell><persName>Samuel Hunt</persName>.</cell>
-				</row>
-				<row>
-				<cell><persName>Lewis M. Allen</persName>.</cell>
-				<cell><persName>Solomon Kayser</persName>.</cell>
-				</row>
-				<row>
-				<cell><persName>Michael M. Allen</persName>&#44;</cell>
-				<cell><persName>Jacob Langsdorf</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>Mayer Arnold</persName>&#44;</cell>
-				<cell><persName>Henry Lazarus</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>Simon W. Arnold</persName>&#44;</cell>
-				<cell><persName>L. J. Leberman</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>Hezekiah W. Arnold</persName>&#44;</cell>
-				<cell><persName>David Levine</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>Leon Berg</persName>&#44;</cell>
-				<cell><persName>Samuel Loewengrund</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>Morris Bermas</persName>&#44;</cell>
-				<cell><persName>B. Matthias</persName>.</cell>
-				</row>
-				<row>
-				<cell><persName>Samuel Benswanger</persName>&#44;</cell>
-				<cell><persName>Edward S. Mawson</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>I. Binswanger</persName>&#44;</cell>
-				<cell><persName>Jacob May</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>Charles Bloomingdale</persName>&#44;</cell>
-				<cell><persName>Lazarus Mayer</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>Bernhard Brummer</persName>&#44;</cell>
-				<cell><persName>M. A. Mitchell</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>Marcus Cauffman</persName>.</cell>
-				<cell><persName>Joseph L. Moss</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>Jacob Caufmann</persName>&#44;</cell>
-				<cell><persName>E. L. Moss</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>Henry Cohen</persName>&#44;</cell>
-				<cell><persName>Wm. Moss</persName>&#44; M. D.</cell>
-				</row>
-				<row>
-				<cell><persName>Benjamin Davis</persName>&#44;</cell>
-				<cell><persName>Michael Moyer</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>George Davis</persName>&#44;</cell>
-				<cell><persName>Isaac Myers</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>Goodman Davis</persName>&#44;</cell>
-				<cell><persName>Philip Nathans</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>Mark Davis</persName>&#44;</cell>
-				<cell><persName>Moses Nathans</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>Wm. K. David</persName>&#44;</cell>
-				<cell><persName>Samuel Nathans</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>Henry DeBoer</persName>&#44;</cell>
-				<cell><persName>Joseph Newhouse</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>S. Dryfoos</persName>&#44;</cell>
-				<cell><persName>Henry Newhouse</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>David Eger</persName>&#44;</cell>
-				<cell><persName>Ernst Nusbaum</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>Joseph Einstein</persName>&#44;</cell>
-				<cell><persName>Solomon Oelsner</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>Abraham Elkin</persName>&#44;</cell>
-				<cell><persName>Isaac J. Phillips</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>Solomon Gans</persName>&#44;</cell>
-				<cell><persName>J. A. Phillips</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>Myer Gans</persName>&#44;</cell>
-				<cell><persName>Henry M. Phillips</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>Daniel Gans</persName>&#44;</cell>
-				<cell><persName>Isaac Rhine</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>Philip Goldsmith</persName>&#44;</cell>
-				<cell><persName>Isaiah Roggenberger</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>Wm. Goldstein</persName>&#44;</cell>
-				<cell><persName>P. S. Rowland</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>Emanuel Goldstein</persName>&#44;</cell>
-				<cell><persName>G. D. Rosengarten</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>H. Gunsenhauser</persName>&#44;</cell>
-				<cell><persName>David Salomon</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>Abram L. Hart</persName>&#44;</cell>
-				<cell><persName>M. Siedenbach</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>Barnett B. Hart</persName>&#44;</cell>
-				<cell><persName>Bernhard Spatz</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>Abraham Hart</persName>&#44;</cell>
-				<cell><persName>Rudolph Stein</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>Eleazer Hart</persName>&#44;</cell>
-				<cell><persName>Emanuel Strauss</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>Samuel Hart</persName>&#44;</cell>
-				<cell><persName>Wolf Tandler</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>Joseph J. Harvey</persName>&#44;</cell>
-				<cell><persName>Solomon Teller</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>Simon Heiter</persName>&#44;</cell>
-				<cell><persName>Louis Tobiason</persName>&#44;</cell>
-				</row>
-				<row>
-				<cell><persName>Lazarus Hecht</persName>&#44;</cell>
-				<cell><persName>Abm. S. Wolf</persName></cell>
-				</row>
-				</table>
-		</body>
-	</text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>Constitution and By Laws of the United Hebrew Beneficent Society of
+                    Philadelphia</title>
+                <author accepted="yes" attested="yes" signature="unk">United Hebrew Beneficent
+                    Society</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Stein and Jones, printers</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>LSKAP</repository>
+                        <collection>The Arnold and Deanne Kaplan Collection of Early American
+                            Judaica</collection>
+                        <idno>LSKAP13-1185</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="unk">United Hebrew
+                            Beneficent Society</author>
+                        <addressee accepted="yes" attested="yes" editor="false"/>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1861">1861</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url=""/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="unk" paper_type="" size=""
+                                        >pamphlet</material>
+                                </support>
+                                <extent>24 pages <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="restricted">
+                                <p>Restricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="he">Hebrew</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="Front Cover"/>
+            <p rend="The following is handwritten."><persName>Rev. I. Leeser</persName>.</p>
+            <pb n="1"/>
+            <p rend="align(center)">CONSTITUTION</p>
+            <p rend="align(center)">AND</p>
+            <p rend="align(center)">BY-LAWS</p>
+            <p rend="align(center)">OF THE</p>
+            <p rend="align(center)">"<persName role="author">UNITED HEBREW BENEFICENT
+                    SOCIETY</persName></p>
+            <p rend="align(center)">OF <placeName>PHILADELPHIA</placeName>."</p>
+            <p rend="align(center)">
+                <add>חבדה גמילוח חםדים וחנוך נערים</add>
+            </p>
+            <p rend="align(center)">FOUNDED <date>1822</date>.</p>
+            <p rend="align(center)">______</p>
+            <p rend="align(center)">INCORPORATED <date>MDCCCXXIX</date>.</p>
+            <p rend="align(center)">______</p>
+            <p rend="align(center)"><placeName>PHILADELPHIA</placeName>:</p>
+            <p rend="align(center)"><persName>STEIN &amp; JONES</persName>, PRS., <placeName>S. E.
+                    COR. THIRD AND CHESTNUT STREETS</placeName>.</p>
+            <p rend="align(center)"><date>1861</date>.</p>
+            <p rend="There is an oval shaped blue stamp at the top of the page."
+                    ><persName>LEESER</persName> LIBRARY,<lb/> HEBREW<lb/> EDUCATION SOCIETY.</p>
+            <pb n="2"/>
+            <p rend="align(center)">FOUNDERS OF THE SOCIETY.</p>
+            <p rend="align(center)"><date>June 16th, 1822</date>.</p>
+            <p rend="align(center)"><persName>LEWIS ALLEN</persName>.</p>
+            <p rend="align(center)"><persName>JOSEPH ANDREWS</persName>.</p>
+            <p rend="align(center)"><persName>WOLF BENJAMIN</persName>.</p>
+            <p rend="align(center)"><persName>JOSEPH DREYFOUS</persName>.</p>
+            <p rend="align(center)"><persName>SIMEON DREYFOUS</persName>.</p>
+            <p rend="align(center)"><persName>ABRAHAM ELKIN</persName>.</p>
+            <p rend="align(center)"><persName>ABRAM L. HART</persName>.</p>
+            <p rend="align(center)"><persName>SAMUEL JOSEPH</persName>.</p>
+            <p rend="align(center)"><persName>ISAAC STUTTGARD</persName>.</p>
+            <p rend="align(center)"><persName>MAYER ULMAN</persName>.</p>
+            <pb n="3"/>
+            <p rend="align(center)">CONSTITUTION.</p>
+            <p rend="align(center)">___</p>
+            <p rend="align(center)">PREAMBLE.</p>
+            <p rend="indent(1)">To provide in the best manner possible for the relief<lb/> of our
+                unfortunate and indigent brethren, and to ame-<lb/>liorate their sufferings to the
+                utmost of our abilities, is<lb/> the performance of an obligation which
+                strengthens<lb/> the bonds of society, by the endearing ties of benevo-<lb/>lence
+                and gratitude.</p>
+            <p rend="indent(1)">Impressed with these truths we whose names are<lb/> hereto
+                subscribed, citizens of the State of <placeName>Pennsylvania</placeName>,<lb/>
+                hereby unite in a Benevolent Association, and for our<lb/> government, as members
+                thereof, adopt the following<lb/> Rules and Regulations; each of us pledging
+                himself<lb/> to the others to observe them with honor and good<lb/> faith.</p>
+            <p rend="align(center)">ARTICLE I.</p>
+            <p rend="align(center)">The name of the Society shall be</p>
+            <p rend="align(center)">
+                <add>חבדה גמילוה חסדים וחנוך נערים</add>
+            </p>
+            <p rend="align(center)">"THE <persName role="author">UNITED HEBREW BENEFICENT
+                    SOCIETY</persName> OF<lb/>
+                <placeName>PHILADELPHIA</placeName>."</p>
+            <p rend="align(center)">ARTICLE II.</p>
+            <p rend="indent(1)">The funds of the Society shall be appropriated to<lb/> the following
+                purposes:</p>
+            <p rend="indent(1)">1. Relief to the poor and sick of the Jewish per-<lb/>suasion.</p>
+            <pb n="4"/>
+            <p rend="align(center)">4</p>
+            <p rend="indent(1)">2. To procure attendance, medicine, &amp;c., for such<lb/> sick as
+                are unable to provide for themselves; and in<lb/> case of death to bury them with
+                decency.</p>
+            <p rend="indent(1)">3. To bind poor children apprentices to mechanical<lb/> trades, with
+                the concurrence of their parents or guar-<lb/>dians.</p>
+            <p rend="indent(1)">4. Whenever the funds will admit—to encourage<lb/> the acquirement
+                of the Holy Tongue among the child-<lb/>ren of the members of our persuasion.</p>
+            <p rend="align(center)">ARTICLE III.</p>
+            <p rend="indent(1)">SECTION 1. The officers of this Society shall con-<lb/>sist of a
+                President, Vice-President, Secretary, Treasurer,<lb/> and eight members who shall
+                form a Board of Mana-<lb/>gers for the transaction of business. They shall be<lb/>
+                elected separately, by written ballot, by a majority of<lb/>
+                <sic>of</sic> votes, on the first <date>Sunday</date> after <add>דאש השנה</add> in
+                each<lb/> and every year.</p>
+            <p rend="indent(1)">SECT. 2. Vacancies in office shall be filled by the<lb/> Board, on
+                such event taking place.</p>
+            <p rend="align(center)">ARTICLE IV.</p>
+            <p rend="indent(1)">The President shall preside at all meetings; in his<lb/> absence the
+                Vice-President shall take his place; and<lb/> in the absence of both, a Chairman
+                shall be appointed<lb/> from the members who compose the Board.</p>
+            <p rend="align(center)">ARTICLE V.</p>
+            <p rend="indent(1)">The Treasurer shall take charge of all moneys and<lb/> securities
+                belonging to the Society, and shall deposit<lb/> all sums above fifty dollars, in
+                such bank or other<lb/> moneyed institution as the Board of Managers shall<lb/> from
+                time to time direct, in the name and behalf of<lb/> the Society. He shall make
+                payments agreeably to</p>
+            <pb n="5"/>
+            <p rend="align(center)">5</p>
+            <p>the written orders of the President for the time being;<lb/> keep a correct account
+                of all receipts and expenditures,<lb/> which accounts shall at all times be open to
+                the inspec-<lb/>tion of the Managers; he shall give a statement of the<lb/> funds to
+                the Board at their stated meetings, and to the<lb/> Society annually at the general
+                meetings. If he leaves<lb/> the city for more than fourteen days, he shall
+                deliver<lb/> the balance of cash in hand to the Secretary, or some<lb/> other fit
+                person until his return, taking a receipt for<lb/> the same, and giving notice to
+                the presiding officer of<lb/> the Society.</p>
+            <p rend="align(center)">ARTICLE VI.</p>
+            <p rend="indent(1)">The Secretary shall keep records of the proceedings<lb/> of the
+                Society and of the Board, do all other writing<lb/> not connected with the office of
+                Treasurer, prepare<lb/> notices and deliver them to the person who shall be<lb/>
+                appointed by the Board to serve them.</p>
+            <p rend="align(center)">ARTICLE VII.</p>
+            <p rend="indent(1)">SECTION 1. The general yearly meeting of this<lb/> Society shall
+                take place on the first <date>Sunday</date> after <add>דאש השנה</add> at some
+                convenient place to be appointed<lb/> by the Board of Managers.</p>
+            <p rend="indent(1)">SECT. 2 The President shall have power to call<lb/> special meetings
+                of the Board or of the Society when-<lb/>ever he shall deem it expedient; and it
+                shall be his<lb/> duty to call a meeting of the Society whenever required<lb/> in
+                writing by seven members; or of the Board, at the<lb/> written request of any four
+                members thereof.</p>
+            <p rend="indent(1)">SECT. 3. State meetings of the Board shall be<lb/> held on the first
+                    <date>Sundays</date> of the months of <add>אב</add> ("<date>Ab</date>")<lb/>
+                <add>חשון</add> ("<date>Hesvan</date>") <add>שבט</add> ("<date>Shebat</date>") and
+                    <add>א״ד</add> ("<date>Iyar</date>")<lb/> in every year.</p>
+            <pb n="6"/>
+            <p rend="align(center)">6</p>
+            <p rend="indent(1)">SECT. 4.* Seventeen members shall form a quorum<lb/> of the Society,
+                and six a quorum of the Board.</p>
+            <p rend="align(center)">ARTICLE VIII.</p>
+            <p rend="indent(1)">SECT. 1. Any Jew residing in the State of
+                    <placeName>Pennsyl-<lb/>vania</placeName>, desirous of becoming a member of this
+                Society,<lb/> may apply in writing at any meeting, which applica-<lb/>tion shall lie
+                over until the next stated Board meeting,<lb/> at which time, or at a subsequent
+                stated Board meet-<lb/>ing, the applicant shall be balloted for; and if he
+                shall<lb/> receive the votes of two-thirds of the members present<lb/> shall be
+                admitted to membership, provided he signs<lb/> this Constitution, and pays one
+                dollar on entrance, to<lb/> the Treasurer, within three months after his
+                election.</p>
+            <p rend="indent(1)">SECT. 2. No person who shall be married other-<lb/>wise than
+                according to the Jewish rites, can apply for,<lb/> or be admitted to membership in
+                this Society; and if<lb/> any member shall marry otherwise than according to<lb/>
+                the Jewish laws, he shall, by the vote of a majority at<lb/> any Board meeting,
+                forfeit his membership—from<lb/> which vote an appeal may lie to the next
+                general<lb/> yearly meeting of the Society, whose decision thereon<lb/> shall be
+                final.</p>
+            <p rend="indent(1)">SECT. 3. No member in arrears to the Society shall<lb/> be permitted
+                to vote at any general election for officers;<lb/> and every member who shall be in
+                arrears to the So-<lb/>ciety for one year's subscription and fines, and shall<lb/>
+                not discharge the same within three months after re-<lb/>ceiving notice thereof from
+                the Secretary, shall be re-<lb/>ported by the Treasurer at the next stated meeting
+                of<lb/> the Board, who may, by a majority of votes, expel<lb/> such delinquent if
+                they think proper, and order the</p>
+            <p>*Altered see postea—p. 12.</p>
+            <pb n="7"/>
+            <p rend="align(center)">7</p>
+            <p>Treasurer instantly to commence suit for all sums due<lb/> by said delinquent to the
+                Society.</p>
+            <p rend="indent(1)">SECT. 4. Any officer or member may be expelled or<lb/> otherwise
+                dealt with by the Society on an impeach-<lb/>ment, provided such impeachment be
+                signed by at<lb/> least four members, and a copy of the same, with a<lb/> notice of
+                the time and place of meeting furnished to<lb/> the accused, at least one week
+                previously; a majority<lb/> of the members of the Society present at any such<lb/>
+                meeting, shall determine the question of guilt or inno-<lb/>cence, and may impose
+                any sentence not amounting to<lb/> expulsion, which shall require the votes of
+                three-<lb/>fourths of the members present, or fine not exceeding<lb/> one hundred
+                dollars, or suspension from membership,<lb/> either of which shall require the votes
+                of two-thirds<lb/> of the members present.</p>
+            <p rend="align(center)">ARTICLE IX.</p>
+            <p rend="indent(1)">Every member shall contribute four dollars annual-<lb/>ly to the
+                Society in quarterly payments; and every<lb/> member who shall on entrance pay forty
+                dollars, shall<lb/> be exempted from all contributions during his contin-<lb/>uance
+                in the Society.</p>
+            <p rend="align(center)">ARTICLE X.</p>
+            <p rend="indent(1)">SECT. 1. The President shall, at his discretion, on<lb/> application
+                by any person professing Judaism, whom<lb/> he may deem an object worthy of charity,
+                have the<lb/> power to relieve such applicant with a sum not exceed-<lb/>ing five
+                dollars: if, however, he thinks any applicant<lb/> entitled to more, he shall in
+                that case consult the Board,<lb/> and whatever sum may be voted to such applicant,
+                shall<lb/> be drawn from the funds by an order signed by the<lb/> President and
+                attested by the Secretary. Weekly</p>
+            <pb n="8"/>
+            <p rend="align(center)">8</p>
+            <p>allowances may be given to poor resident families ap-<lb/>plying in writing to the
+                President, who shall lay the<lb/> same before the Board to decide thereon, and
+                order<lb/> such amount as the applicants are to receive; these or-<lb/>ders being
+                also signed by the President and attested<lb/> by the Secretary; <hi rend="italics"
+                    >Provided always</hi>, That the aforesaid<lb/> weekly allowances, and all other
+                expenditures, shall<lb/> never exceed three-fourths of the yearly income of
+                this<lb/> Society.</p>
+            <p rend="indent(1)">SECT. 2. It shall be the duty of the Board of Mana-<lb/>gers to
+                visit the sick, order medical assistance, nurses<lb/> and other necessaries
+                required. They shall call on<lb/> poor applicants, inquire into their distresses,
+                and see<lb/> that the Society is not imposed on by false representa-<lb/>tions. They
+                shall employ proper persons to sit up<lb/> with the dying and the dead, who are
+                unable to pro-<lb/>cure such attendants at their own expense, and to watch<lb/>
+                their remains at the <add>ביח ח״ם</add> In every instance<lb/> where a child of a
+                poor person may be bound an ap-<lb/>prentice by this Society, it shall be the duty
+                of the<lb/> Board to see that he is bound out in such a manner as<lb/> to keep his
+                    <date>Sabbaths</date> and Holy-days, and in all other<lb/> respects to adhere as
+                nearly as possible to his religion,<lb/> agreeably to the Jewish laws; they shall
+                also inquire<lb/> previously to such binding, as to the moral character<lb/> of the
+                intended master, as well as to his capacity to<lb/> teach the child his trade in a
+                workmanlike manner;<lb/> and they shall exercise a kindly guardianship over<lb/>
+                such child, so far as they may with propriety, and see<lb/> justice done him in
+                every respect. And no person<lb/> shall have any claim to the charity of this
+                Society,<lb/> unless when applied to by the Board, he will agree to<lb/> their
+                binding his child or children apprentices to</p>
+            <pb n="9"/>
+            <p rend="align(center)">9</p>
+            <p>learn mechanical trades, unless he shall give a satis-<lb/>factory reason why he will
+                not comply with their<lb/> wishes.</p>
+            <p rend="indent(1)">SECT. 3. The Board may, if they think proper, form<lb/> themselves
+                into Committees on Charity, on the Sick<lb/> and Dead, on Education and Apprentices,
+                and such<lb/> other committees as may facilitate and more fully carry<lb/> into
+                effect the objects of this Institution.</p>
+            <p rend="indent(1)">SECT. 4. The Board shall elect a Messenger and fix<lb/> his salary:
+                his duties shall be to collect moneys due;<lb/> attend the Society and Board at all
+                meetings; keep<lb/> the place of meeting in order; visit the sick, and make<lb/>
+                report to the Board; attend all funerals and <add>מנין</add> deliver<lb/> all
+                notices of meetings, of attending <add>מהדה םבודה</add><lb/> and <add>מנין</add> and
+                such others as may be delivered to him<lb/> by the proper officers of the Society;
+                give the female<lb/> relatives of the members notice to attend sewing, and<lb/>
+                report to the Secretary every member who has sub-<lb/>jected himself to a fine.</p>
+            <p rend="align(center)">ARTICLE XI.</p>
+            <p rend="indent(1)">SECTION 1. No part of this Constitution shall in<lb/> any manner be
+                altered, nor any addition made thereto,<lb/> unless the same shall have been
+                proposed in writing<lb/> at a meeting of the Society, and concurred in at a
+                sub-<lb/>sequent meeting, by the votes of three-fourths of the<lb/> members present:
+                and such alterations and amend-<lb/>ments are to be certified by the Attorney
+                General and<lb/> Supreme Court, and enrolled according to law.</p>
+            <p rend="indent(1)">SECT. 2. All By-Laws, Rules, and Regulations, not<lb/> repugnant to
+                the Jewish laws or to this Constitution,<lb/> which may from time to time be agreed
+                on by this<lb/> Society, shall be binding on its members, and have the</p>
+            <pb n="10"/>
+            <p rend="align(center)">10</p>
+            <p>same effect as if they were part of this Constitu-<lb/>tion: <hi rend="italics"
+                    >Provided</hi>, They shall have been proposed in<lb/> writing at any meeting,
+                and concurred in at a subse-<lb/>quent general meeting of the Society, by the votes
+                of<lb/> two-thirds of the members present; <hi rend="italics">And provided</hi>,
+                That<lb/> such By-Laws, Rules, and Regulations, be not repug-<lb/>nant to the
+                Constitution and Laws of the United<lb/> States, or the Constitution and Laws of
+                this Common-<lb/>wealth.</p>
+            <p rend="indent(1)">This Constitution was adopted as the Charter of the Society;
+                was<lb/> approved by the Attorney General and Supreme Court of
+                    <placeName>Pennsyl-<lb/>vania</placeName>, and is enrolled in the Office of the
+                Secretary of the Common-<lb/>wealth, in Charter Book No. 4, page 363, &amp;c.</p>
+            <pb n="11"/>
+            <p rend="align(center)">11</p>
+            <p rend="align(center)">AN ACT</p>
+            <p rend="align(center)">TO AUTHORIZE CERTAIN ALTERATIONS IN THE CHARTER OF THE<lb/>
+                <persName role="author">UNITED HEBREW BENEFICENT SOCIETY</persName> OF
+                    <placeName>PHILADELPHIA</placeName>.</p>
+            <p rend="indent(1)">WHEREAS, The <persName role="author">United Beneficent
+                    Society</persName> of <placeName>Philadelphia</placeName> has<lb/> been
+                incorporated for the purpose of relieving poor Israelites, edu-<lb/>cating poor
+                children, and binding them apprentices to learn mechan-<lb/>ical trades, ministering
+                to the sick, and burying the indigent dead:<lb/> And whereas, under present
+                circumstances its sphere of usefulness<lb/> is greatly circumscribed by a
+                requisition in its Charter that appli-<lb/>cants for membership shall reside within
+                this Commonwealth, and<lb/> shall apply in writing: And whereas, a large majority of
+                the mem-<lb/>bers of the Society have petitioned for such alterations in their<lb/>
+                Charter as, in their opinion the General Assembly alone can grant.</p>
+            <p>Therefore</p>
+            <p rend="indent(1)">SECTION 1. Be it enacted by the Senate and House of
+                Representa-<lb/>tives of the Commonwealth of <placeName>Pennsylvania</placeName>, in
+                General Assembly<lb/> met, and it is hereby enacted by the authority of the same,
+                That the<lb/>
+                <persName role="author">United Hebrew Beneficent Society</persName> of
+                    <placeName>Philadelphia</placeName> shall have the<lb/> power to elect as its
+                members individuals residing out of the State,<lb/> in the same manner as other
+                members may be elected, according to<lb/> the provisions of the Charter of the said
+                Society.</p>
+            <p rend="indent(1)">SECT. 2.And be it further enacted by the authority aforesaid,<lb/>
+                That, from and after the passing of this act, any member of the said<lb/> Society
+                may propose another for membership, and that a written ap-<lb/>plication shall not
+                be indispensably necessary.</p>
+            <p rend="indent(1)">SECT. 3. And be it further enacted by the authority aforesaid,<lb/>
+                That so much of any portion of the Charter of the said Society as<lb/> is
+                    <sic>inconsistant</sic> with the foregoing provisions of this act be, and
+                the<lb/> same is, hereby repealed, annulled, and made void.</p>
+            <p rend="align(right)"><persName>JOHN LAPORTE</persName>,</p>
+            <p rend="align(right)">
+                <hi rend="italics">Speaker of the House of Representatives.</hi>
+            </p>
+            <p rend="align(right)"><persName>WM. G. HAWKINS</persName>,</p>
+            <p rend="align(right)">
+                <hi rend="italics">Speaker of the Senate.</hi>
+            </p>
+            <p>Approved <date>April 7, 1832</date>,</p>
+            <p rend="indent(1)"><persName>GEORGE WOLF</persName>.</p>
+            <pb n="12"/>
+            <p rend="align(center)">12</p>
+            <p rend="align(center)">AMENDMENT TO THE CONSTITUTION,</p>
+            <p rend="align(center)">Adopted <date>Sept. 12th, 1858</date>.</p>
+            <p rend="indent(1)">That Section 4th of Article VII., be altered so as to<lb/> read,
+                that eleven instead of seventeen members of the<lb/> Society shall form a
+                quorum.</p>
+            <p rend="indent(1)">This amendment was approved by the Attorney General and the<lb/>
+                Judges of the Supreme Court, and is recorded at <placeName>Harrisburg</placeName>,
+                in the<lb/> Secretary of State's Office, in Charter Book, No. 8, page 128,
+                &amp;c.</p>
+            <pb n="13"/>
+            <p rend="align(center)">BY-LAWS.</p>
+            <p rend="align(center)">I.</p>
+            <p rend="indent(1)">The President shall take the chair within half an<lb/> hour after
+                the time specified in the notices for meeting,<lb/> provided there be a quorum—call
+                the members to or-<lb/>der, and have the minutes of the preceding meeting<lb/> read
+                and submitted for approval, prior to any other<lb/> business being brought
+                forward.</p>
+            <p rend="align(center)">II.</p>
+            <p rend="indent(1)">When the Vice President or other chairman shall<lb/> preside, in the
+                absence of the President, he shall be<lb/> bound by the duties, and invested with
+                the same pow-<lb/>ers as are enjoined on, and exercised by the President.</p>
+            <p rend="align(center)">III.</p>
+            <p rend="indent(1)">All motions regularly made in writing and seconded,<lb/> shall
+                before any debate takes place thereon, be stated<lb/> from the chair, and no other
+                shall be received but to<lb/> amend, postpone, reject or adjourn, which last
+                shall<lb/> always be in order, and be decided without debate.</p>
+            <p rend="align(center)">IV.</p>
+            <p rend="indent(1)">All votes shall be <hi rend="italics">viva voce</hi>, except in
+                elections for<lb/> members or officers, which shall be by ballot; and at<lb/> the
+                request of any three members, the yeas and nays<lb/> shall be entered on the
+                minutes.</p>
+            <pb n="14"/>
+            <p rend="align(center)">14</p>
+            <p rend="align(center)">V.</p>
+            <p rend="indent(1)">No vote by proxy shall be allowed in any case<lb/> whatever.</p>
+            <p rend="align(center)">VI.</p>
+            <p rend="indent(1)">All questions, not otherwise provided for, shall be<lb/> determined
+                by a majority of the voters present; and<lb/> on such occasions the chairman shall
+                not vote except<lb/> on an equal division, when he shall have the casting vote.</p>
+            <p rend="align(center)">VII.</p>
+            <p rend="indent(1)">No member shall be allowed to speak more than<lb/> twice on the same
+                question, without the consent of the<lb/> presiding officer; nor shall any member
+                leave the<lb/> meeting without permission from the chair.</p>
+            <p rend="align(center)"> VIII.</p>
+            <p rend="indent(1)">The Secretary shall attend all meetings, and it shall<lb/> be his
+                duty to bring with him, or send at the time pre-<lb/>scribed, such books and papers
+                as may be required.</p>
+            <p rend="align(center)">IX.</p>
+            <p rend="indent(1)">Any member elected to an office and refusing to<lb/> serve, or
+                accepting any office and <sic>afterwards</sic> resigning,<lb/> shall, unless
+                liberated by the Board, be fined in the<lb/> followings sums—viz: President or
+                Vice-President, ten<lb/> dollars; Treasurer or Secretary, seven dollars and
+                fifty<lb/> cents; Member of the Board, five dollars: <hi rend="italics"
+                    >provided</hi><lb/>
+                <hi rend="italics">always</hi>, that any member who may have served in</p>
+            <pb n="15"/>
+            <p rend="align(center)">15</p>
+            <p>office, or paid his fine, shall not be obliged to serve<lb/> again in that or any
+                other office, for three years after<lb/> the expiration of the first term for which
+                he shall have<lb/> been elected.</p>
+            <p rend="align(center)">X.</p>
+            <p rend="indent(1)">The following fines shall be imposed by the society<lb/> on its
+                members for neglects or delinquencies, from<lb/> which an appeal may lie to the
+                President, who may<lb/> remit them on proper excuses being shown, and from<lb/> his
+                decision an appeal shall be further had to the next<lb/> stated Board meeting, whose
+                decision thereon shall be<lb/> final.</p>
+            <p rend="align(center)">FINES.</p>
+            <table cols="2" rows="10">
+                <row>
+                    <cell/>
+                    <cell>
+                        <hi rend="italics">Dolls. Cts.</hi>
+                    </cell>
+                </row>
+                <row>
+                    <cell>For absence at roll-call from any meeting<lb/> of the Society or Board, .
+                        . . </cell>
+                    <cell>25</cell>
+                </row>
+                <row>
+                    <cell>For absence from any entire meeting of<lb/> the Society or Board, . .
+                        .</cell>
+                    <cell>50</cell>
+                </row>
+                <row>
+                    <cell>For leaving a meeting without permission<lb/> from the chair, . . . . </cell>
+                    <cell>50</cell>
+                </row>
+                <row>
+                    <cell>And if by such leaving the meeting should<lb/> break a quorum, . . .
+                        .</cell>
+                    <cell>1 00</cell>
+                </row>
+                <row>
+                    <cell>For not attending <add>טהדה</add></cell>
+                    <cell>50</cell>
+                </row>
+                <row>
+                    <cell>For not attending <add>לויה</add> or finding a prop-<lb/>er substitute, .
+                        . . . . </cell>
+                    <cell>12</cell>
+                </row>
+                <row>
+                    <cell>For not attending <add>מנין</add> or finding a prop-<lb/>er substitute; .
+                        . . . . </cell>
+                    <cell>25</cell>
+                </row>
+                <row>
+                    <cell>And if there be no <add>מנין</add> in consequence,<lb/> each absentee
+                        shall be fined. . . </cell>
+                    <cell>50</cell>
+                </row>
+                <row>
+                    <cell>For leaving the burial ground before the<lb/> grave is filled and ceremony
+                        concluded,</cell>
+                    <cell>25</cell>
+                </row>
+            </table>
+            <pb n="16"/>
+            <p rend="align(center)">16</p>
+            <p rend="align(center)">XI.</p>
+            <p rend="indent(1)">Any member guilty of any disorderly conduct at a<lb/> meeting, may
+                be fined by the chairman to an amount<lb/> not exceeding five dollars, from which an
+                appeal may<lb/> lie to the same meeting, who may reduce or release the<lb/> fine,
+                and their judgment shall be final and conclusive.</p>
+            <p rend="align(center)">XII.</p>
+            <p rend="indent(1)">The Society shall subscribe to the City Dispensary<lb/>
+                <hi rend="italics">five dollars</hi>, annually, and to the Northern and
+                Southern<lb/> Dispensaries <hi rend="italics">three dollars</hi> each,
+                annually.<lb/> [<hi rend="italics">Repealed</hi>
+                <date><hi rend="italics">September </hi>15<hi rend="italics">th</hi>,
+                1839</date>]</p>
+            <p rend="align(center)">XIII.</p>
+            <p rend="indent(1)">Any person leaving a legacy of <hi rend="italics">fifty dollars</hi>
+                or more<lb/> to the Society, shall have honorable mention of his<lb/> name at every
+                yearly meeting.</p>
+            <p rend="align(center)">FORM OF A LEGACY.</p>
+            <p rend="indent(1)">"<hi rend="italics">I give and bequeath to the <persName
+                        role="author">United Hebrew Beneficent<lb/> Society</persName> of
+                        <placeName>Philadelphia</placeName>, the sum of—dollars, to be paid<lb/> to
+                    their Treasurer for the time being,—months after my<lb/> decease, and to be
+                    applied towards carrying on the charita-<lb/>ble designs of their
+                    Institution.</hi>"</p>
+            <p rend="align(center)">XIV.</p>
+            <p rend="indent(1)">Donations may be received from the persons of every<lb/> religious
+                denomination, whose names shall be honora-<lb/>bly mentioned at every general yearly
+                meeting of the<lb/> Society.</p>
+            <pb n="17"/>
+            <p rend="align(center)">17</p>
+            <p rend="align(center)">XV.</p>
+            <p rend="indent(1)">Life-subscriptions, legacies, and donations to the<lb/> amount of
+                    <hi rend="italics">thirty dollars</hi> and upwards, shall be invested<lb/> in
+                public stocks when they amount to <hi rend="italics">five hundred</hi><lb/>
+                <hi rend="italics">dollars</hi>, as a permanent fund, the interest only to be<lb/>
+                expended.</p>
+            <p rend="align(center)">XVI.</p>
+            <p rend="indent(1)">In all legal controversies between the Society and<lb/> any of its
+                members, the books and accounts of the Soc-<lb/>iety, verified by the oath of the
+                proper officer, shall<lb/> be evidence of contributions or fines due from such<lb/>
+                member to the Society.</p>
+            <p rend="align(center)">XVII.</p>
+            <p rend="indent(1)">If any member purposes leaving the State for any<lb/> considerable
+                length of time, he may notify the same to<lb/> the President, and pay up all arrears
+                to the end of the<lb/> quarter in which he resigns; and if such member shall<lb/>
+                again return to the State, and wish to be re-admitted,<lb/> he may again be
+                considered a member without being<lb/>
+                <sic>ballotted</sic> for, or paying any new entrance fee, by con-<lb/>sent of a
+                majority of the Board.</p>
+            <p rend="align(center)">XVIII.</p>
+            <p rend="indent(1)">Any member wishing to resign, must pay all ar-<lb/>rearages to the
+                end of the quarter in which he resigns,<lb/> and notify his intention, in writing,
+                to the President,<lb/> who shall lay it before the Board for consideration at<lb/>
+                their next meeting.</p>
+            <pb n="18"/>
+            <p rend="align(center)">18</p>
+            <p rend="align(center)">XIX.</p>
+            <p rend="indent(1)">When a person shall be admitted to membership in<lb/> the middle of
+                a quarter, his first quarterly subscription<lb/> shall become payable at the same
+                time as that of the<lb/> other members.</p>
+            <p rend="align(center)">XX.</p>
+            <p rend="indent(1)">On the death of a member, it shall be the duty of<lb/> the Society
+                to follow his remains to the grave, and at-<lb/>tend in turn morning and evening
+                prayers, <add>בתוך</add>
+                <lb/>
+                <add>שבעה יטי אבילות</add>or if a member becomes <add>אבל</add> the<lb/> Society
+                shall in their turns attend <add>מנין</add>, and prayers<lb/> shall be said in the
+                    <add>מנהנ</add>, desired by the <add>אבל</add>.</p>
+            <p rend="align(center)">XXI.</p>
+            <p rend="indent(1)">All the members who shall be in the city or county<lb/> of
+                    <placeName>Philadelphia</placeName>, shall be summoned to attend the
+                fun-<lb/>eral of every member of the Society.</p>
+            <p rend="align(center)">XXII.</p>
+            <p rend="indent(1)">Male relatives of a member who are not more than<lb/> twenty-one
+                years of age shall be entitled to the services<lb/> of the <add>חברה</add>.</p>
+            <p rend="align(center)">XXIII.</p>
+            <p rend="indent(1)">Female relatives of a member on whom it is obliga-<lb/>tory to make
+                    <add>קריעה</add> and to observe the seven days<lb/> mourning, are entitled to
+                the services usually rendered<lb/> by a <add>חברה</add> to females.</p>
+            <pb n="19"/>
+            <p rend="align(center)">19</p>
+            <p rend="align(center)">XXIV.</p>
+            <p rend="indent(1)">If any indigent Jew lies sick, and apprehensions are<lb/>
+                entertained of his death, the Board, or their Committee<lb/> on the sick, shall
+                procure suitable persons to attend<lb/> him in his last moments, and they shall in
+                all instances<lb/> appoint the hours for <add>טהרה וקבורה</add> and regulate
+                all<lb/> proceedings thereto.</p>
+            <p rend="align(center)">XXV.</p>
+            <p rend="indent(1)">The Committee on the sick and dead, shall select<lb/> eight members
+                to perform <add>טהרה</add> who shall permit no<lb/> person to interfere without the
+                consent of the chairman<lb/> of said committee; nor shall any member be
+                permitted<lb/> to give to any other person that duty which he shall<lb/> have been
+                called on to perform, without the consent of<lb/> the same chairman; and no member
+                shall depart the<lb/> burial-ground, until all the ceremonies are performed—<lb/>
+                except in cases of contagious disease.</p>
+            <p rend="align(center)">XXVI.</p>
+            <p rend="indent(1)">The aforesaid by-laws Nos. 24 and 25, shall on no<lb/> account
+                whatever, interfere with the rules and regula-<lb/>tions already adopted by the
+                    <add>קברנים חברות</add> estab-<lb/>lished in this city.</p>
+            <p rend="align(center)">XXVII.</p>
+            <p rend="indent(1)">The name of every member of the Society shall be<lb/> entered on a
+                list, to be kept by the Secretary, and on<lb/> the requisition of the committee on
+                the sick and dead,<lb/> it shall be his duty to summon in turn, a sufficient<lb/>
+                number to attend <add>מנין</add> taking care that the same names<lb/> are not
+                selected twice, until the whole roll of the So-<lb/>ciety shall have been gone
+                through.</p>
+            <pb n="20"/>
+            <p rend="align(center)">20</p>
+            <p rend="align(center)">XXVIII.</p>
+            <p rend="indent(1)">The committee on the sick and dead, shall, whenever<lb/> it is
+                practicable, employ Jews, and no others, to dig the<lb/> graves of the deceased
+                members or such poor Jews as<lb/> shall be interred at the expense of the Society;
+                and it<lb/> shall be the duty of such persons so employed, to direct<lb/> and see
+                them filled and finished.</p>
+            <p rend="align(center)">XXIX.</p>
+            <p rend="indent(1)">Any member who shall pay <hi rend="italics">two dollars</hi>
+                quarterly,<lb/> in lieu of the contribution required in the 9th Article<lb/> of the
+                Constitution, shall be exempted from all fines,<lb/> except fines for improper
+                conduct at a meeting, and<lb/> every member who shall have signified his
+                intention<lb/> of thus becoming an exempt member, shall continue to<lb/> be so
+                considered until he shall otherwise direct in<lb/> writing to the Secretary.</p>
+            <p rend="align(center)">XXX.</p>
+            <p rend="indent(1)">Any member who shall, on entrance, pay <hi rend="italics">fifty
+                    dol.<lb/>lars</hi> in lieu of the life contribution required in the<lb/>
+                Constitution shall, during his continuance in the So-<lb/>ciety, be exempted from
+                all further contributions, and<lb/> from all fines, except fines for improper
+                conduct at a<lb/> meeting: <hi rend="italics">Provided, nevertheless</hi>, that
+                nothing contained<lb/> in this or the foregoing by-law, shall be so construed<lb/>
+                as to exonerate any such exempt member from his lia-<lb/>bility to the fine incident
+                to a resignation of any office<lb/> to which such exempt member may have been
+                elected<lb/> and have accepted.</p>
+            <p rend="align(center)">XXXI.</p>
+            <p rend="indent(1)">Any Member who shall be more than sixty years<lb/> old, shall be
+                exempted from all fines except for</p>
+            <pb n="21"/>
+            <p rend="align(center)">21</p>
+            <p>improper conduct, or for resigning any office accepted<lb/> by such member.</p>
+            <p rend="align(center)">XXXII.</p>
+            <p rend="indent(1)">The Board of Managers may, at all times, strike off<lb/> the name of
+                a member, owing more than five dollars,<lb/> and close his account with the Society.
+                    <hi rend="italics">Provided</hi>, that<lb/> such person may be at any time
+                restored to membership,<lb/> on paying up all <sic>arrearages</sic>, or by a vote of
+                the Board.</p>
+            <p rend="align(center)">XXXIII.</p>
+            <p rend="indent(1)">Any person who shall not circumcise his children<lb/> shall not be
+                admitted a member of this Society, and<lb/> any person so offending, who shall have
+                been admitted<lb/> after the passage of this law, shall be forthwith expelled<lb/>
+                by a majority of the Board.</p>
+            <p rend="align(center)">XXXIV.</p>
+            <p rend="indent(1)">Any person who, in future, does not have his sons<lb/> circumcised,
+                shall be expelled from this Society.</p>
+            <pb n="22"/>
+            <p rend="align(center)">PAST OFFICERS OF THE SOCIETY.</p>
+            <p rend="align(center)">PRESIDENTS,</p>
+            <table cols="2" rows="3">
+                <row>
+                    <cell><persName>ZALEGMAN PHILLIPS</persName>,</cell>
+                    <cell><persName>ABRAM L. HART</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>WOLF BENJAMIN</persName>,</cell>
+                    <cell><persName>JOSEPH L. MOSS</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>LAZARUS J. LEBERMAN</persName>.</cell>
+                    <cell/>
+                </row>
+            </table>
+            <p rend="align(center)">VICE PRESIDENTS,</p>
+            <table cols="2" rows="4">
+                <row>
+                    <cell><persName>LOUIS BOMEISLER</persName>,</cell>
+                    <cell><persName>ABRAM L. HART</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>WOLF BENJAMIN</persName>,</cell>
+                    <cell><persName>J. ALTAMONT PHILLIPS</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>JOHN MOSS</persName>,</cell>
+                    <cell><persName>L. J. LEBERMAN</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>MARCUS CAUFFMAN</persName>.</cell>
+                    <cell/>
+                </row>
+            </table>
+            <p rend="align(center)">TREASURERS,</p>
+            <table cols="2" rows="2">
+                <row>
+                    <cell><persName>ABRAHAM ELKIN</persName>,</cell>
+                    <cell><persName>JOSEPH L. MOSS</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>LEWIS ALLEN</persName>,</cell>
+                    <cell><persName>ISAAC J. PHILLIPS</persName>.</cell>
+                </row>
+            </table>
+            <p rend="align(center)">SECRETARIES,</p>
+            <table cols="2" rows="5">
+                <row>
+                    <cell><persName>WOLF BENJAMIN</persName>,</cell>
+                    <cell><persName>BENJAMIN W. COHEN</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>HART STORK</persName>,</cell>
+                    <cell><persName>ABRAHAM DESSAU</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>JOSEPH J. ANDREWS</persName>,</cell>
+                    <cell><persName>ZADOK A. DAVIS</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>J. A. PHILLIPS</persName>,</cell>
+                    <cell><persName>EDWARD S. MAWSON</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>ABRAHAM HART</persName>,</cell>
+                    <cell><persName>MICHAEL M. ALLEN</persName>.</cell>
+                </row>
+            </table>
+            <pb n="23"/>
+            <p rend="align(center)">Officers of the Society</p>
+            <p rend="align(center)">FOR THE YEAR <date>5621</date>.</p>
+            <p rend="align(center)">President,</p>
+            <p rend="align(center)"><persName>M. A. MITCHELL</persName>.</p>
+            <p rend="align(center)">Vice President,</p>
+            <p rend="align(center)"><persName>MARCUS CAUFFMAN</persName>.</p>
+            <p rend="align(center)">Treasurer,</p>
+            <p rend="align(center)"><persName>ISAAC J. PHILLIPS</persName>.</p>
+            <p rend="align(center)">Secretary,</p>
+            <p rend="align(center)"><persName>MICHAEL M. ALLEN</persName>.</p>
+            <p rend="align(center)">Managers,</p>
+            <table cols="2" rows="4">
+                <row>
+                    <cell><persName>A. HART</persName>,</cell>
+                    <cell><persName>MAYER ARNOLD</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>J. A. PHILLIPS</persName>,</cell>
+                    <cell><persName>BERNHARD SPATZ</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>LAZARUS MAYER</persName>,</cell>
+                    <cell><persName>I. BINSWANGER</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>SAMUEL HUNT</persName>,</cell>
+                    <cell><persName>HENRY NEWHOUSE</persName>.</cell>
+                </row>
+            </table>
+            <p rend="align(center)">Collector,</p>
+            <p rend="align(center)"><persName>ABM. FINZI</persName>.</p>
+            <p rend="align(center)">Messenger,</p>
+            <p rend="align(center)"><persName>ELIAS S. LINSE</persName>.</p>
+            <pb n="24"/>
+            <p rend="align(center)">Members of the Society,</p>
+            <p rend="align(center)"><date>MARCH 1, 1861</date>.</p>
+            <table cols="2" rows="40">
+                <row>
+                    <cell><persName>Joseph J. Andrews</persName>,</cell>
+                    <cell><persName>Samuel Hunt</persName>.</cell>
+                </row>
+                <row>
+                    <cell><persName>Lewis M. Allen</persName>.</cell>
+                    <cell><persName>Solomon Kayser</persName>.</cell>
+                </row>
+                <row>
+                    <cell><persName>Michael M. Allen</persName>,</cell>
+                    <cell><persName>Jacob Langsdorf</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>Mayer Arnold</persName>,</cell>
+                    <cell><persName>Henry Lazarus</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>Simon W. Arnold</persName>,</cell>
+                    <cell><persName>L. J. Leberman</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>Hezekiah W. Arnold</persName>,</cell>
+                    <cell><persName>David Levine</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>Leon Berg</persName>,</cell>
+                    <cell><persName>Samuel Loewengrund</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>Morris Bermas</persName>,</cell>
+                    <cell><persName>B. Matthias</persName>.</cell>
+                </row>
+                <row>
+                    <cell><persName>Samuel Benswanger</persName>,</cell>
+                    <cell><persName>Edward S. Mawson</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>I. Binswanger</persName>,</cell>
+                    <cell><persName>Jacob May</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>Charles Bloomingdale</persName>,</cell>
+                    <cell><persName>Lazarus Mayer</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>Bernhard Brummer</persName>,</cell>
+                    <cell><persName>M. A. Mitchell</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>Marcus Cauffman</persName>.</cell>
+                    <cell><persName>Joseph L. Moss</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>Jacob Caufmann</persName>,</cell>
+                    <cell><persName>E. L. Moss</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>Henry Cohen</persName>,</cell>
+                    <cell><persName>Wm. Moss</persName>, M. D.</cell>
+                </row>
+                <row>
+                    <cell><persName>Benjamin Davis</persName>,</cell>
+                    <cell><persName>Michael Moyer</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>George Davis</persName>,</cell>
+                    <cell><persName>Isaac Myers</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>Goodman Davis</persName>,</cell>
+                    <cell><persName>Philip Nathans</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>Mark Davis</persName>,</cell>
+                    <cell><persName>Moses Nathans</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>Wm. K. David</persName>,</cell>
+                    <cell><persName>Samuel Nathans</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>Henry DeBoer</persName>,</cell>
+                    <cell><persName>Joseph Newhouse</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>S. Dryfoos</persName>,</cell>
+                    <cell><persName>Henry Newhouse</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>David Eger</persName>,</cell>
+                    <cell><persName>Ernst Nusbaum</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>Joseph Einstein</persName>,</cell>
+                    <cell><persName>Solomon Oelsner</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>Abraham Elkin</persName>,</cell>
+                    <cell><persName>Isaac J. Phillips</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>Solomon Gans</persName>,</cell>
+                    <cell><persName>J. A. Phillips</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>Myer Gans</persName>,</cell>
+                    <cell><persName>Henry M. Phillips</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>Daniel Gans</persName>,</cell>
+                    <cell><persName>Isaac Rhine</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>Philip Goldsmith</persName>,</cell>
+                    <cell><persName>Isaiah Roggenberger</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>Wm. Goldstein</persName>,</cell>
+                    <cell><persName>P. S. Rowland</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>Emanuel Goldstein</persName>,</cell>
+                    <cell><persName>G. D. Rosengarten</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>H. Gunsenhauser</persName>,</cell>
+                    <cell><persName>David Salomon</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>Abram L. Hart</persName>,</cell>
+                    <cell><persName>M. Siedenbach</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>Barnett B. Hart</persName>,</cell>
+                    <cell><persName>Bernhard Spatz</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>Abraham Hart</persName>,</cell>
+                    <cell><persName>Rudolph Stein</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>Eleazer Hart</persName>,</cell>
+                    <cell><persName>Emanuel Strauss</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>Samuel Hart</persName>,</cell>
+                    <cell><persName>Wolf Tandler</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>Joseph J. Harvey</persName>,</cell>
+                    <cell><persName>Solomon Teller</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>Simon Heiter</persName>,</cell>
+                    <cell><persName>Louis Tobiason</persName>,</cell>
+                </row>
+                <row>
+                    <cell><persName>Lazarus Hecht</persName>,</cell>
+                    <cell>
+                        <persName>Abm. S. Wolf</persName>
+                    </cell>
+                </row>
+            </table>
+        </body>
+    </text>
 </TEI>

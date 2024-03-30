@@ -1,273 +1,402 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
-      <fileDesc>
-        <titleStmt>
-          <title>[no title given]</title>
-          <author attested="yes" accepted="yes" signature="yes">Peynada, J.</author>
-          <editor></editor>
-          <sponsor></sponsor>
-          <funder></funder>
-          <principal></principal>
-          <respStmt>
-            <resp></resp>
-            <name></name>
-          </respStmt>
-        </titleStmt>
-        <editionStmt>
-          <edition></edition>
-          <respStmt>
-            <resp></resp>
-            <name></name>
-          </respStmt>
-        </editionStmt>
-        <extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-        <publicationStmt>
-          <publisher>Unpublished manuscript</publisher>
-        </publicationStmt>
-        <seriesStmt>
-          <p>Not part of a series</p>
-        </seriesStmt>
-        <notesStmt>
-          <note></note>
-        </notesStmt>
-        <sourceDesc>
-          <biblStruct>
-            <!-- catalog entry goes here -->
-            <monogr>
-              <imprint>
-                <dateLet></dateLet>
-              </imprint>
-            </monogr>
-          </biblStruct>
-          <msDesc>
-            <msIdentifier>
-              <country>USA</country>
-              <region>PA</region>
-              <settlement>Philadelphia</settlement>
-              <institution></institution>
-              <repository>CAJS Isaac Leeser Collection</repository>
-              <collection>The Library of the Dropsie College for Hebrew and Cognate Learning</collection>
-              <idno>LSDCBx1FF6_2</idno>
-              <altIdentifier>
-                <idno></idno>
-              </altIdentifier>
-              <msName></msName>
-            </msIdentifier>
-            <head></head>
-            <letHeading>
-              <author attested="yes" accepted="yes" signature="yes">Peynada, J.</author>
-              <addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac, Rev.</addressee>
-              <deliverer></deliverer>
-              <respStmt>
-                <resp></resp>
-                <name></name>
-              </respStmt>
-              <placeLet></placeLet>
-              <placeRec>Philadelphia, PA</placeRec>
-              <dateLet when="1849-01" source="" attested="unk">7 January 184[9]?</dateLet>
-            </letHeading>
-            <msContents>
-              <msItem>
-                <author></author>
-                <editor></editor>
-                <respStmt>
-                  <resp></resp>
-                  <name></name>
-                </respStmt>
-                <title></title>
-                <decoNote></decoNote>
-                <listBibl>
-                  <bibl></bibl>
-                </listBibl>
-                <filiation></filiation>
-                <textLang></textLang>
-                <figure>
-					<graphic url="ilcajs_b1f6_0002_1r.jpg"/>
-					<graphic url="ilcajs_b1f6_0002_1v.jpg"/>
-					<graphic url="ilcajs_b1f6_0002_2r.jpg"/>
-					<graphic url="ilcajs_b1f6_0002_2v.jpg"/>
-                </figure>
-                <figure>
-                  <graphic url="occ_7_1_0025.jpg"/>
-                  <graphic url="occ_7_1_0026.jpg"/>
-                  <graphic url="occ_7_1_0027.jpg"/>
-                  <graphic url="occ_7_1_0028.jpg"/>
-                  <graphic url="occ_7_1_0029.jpg"/>
-                  <graphic url="occ_7_1_0030.jpg"/>
-                  <graphic url="occ_7_1_0031.jpg"/>
-                </figure>
-              </msItem>
-            </msContents>
-            <physDesc>
-              <objectDesc>
-                <supportDesc>
-                  <support>
-                    <material color="" lined="false" paper_type="" size="Letter">letter</material>
-                  </support>
-                  <extent>4 pages on 2 sheets
-                    <dimensions></dimensions>
-                  </extent>
-                  <foliation></foliation>
-                  <collation></collation>
-                  <condition fragment="false">Fragile</condition>
-                </supportDesc>
-                <layoutDesc>
-                  <layout></layout>
-                </layoutDesc>
-              </objectDesc>
-              <handDesc script="manuscript">
-                  <handNote></handNote>
-              </handDesc>
-              <decoDesc>
-                <decoNote></decoNote>
-              </decoDesc>
-              <additions></additions>
-              <bindingDesc>
-                <binding>
-                  <decoNote></decoNote>
-                </binding>
-              </bindingDesc>
-              <sealDesc>
-                <seal>
-                  <p></p>
-                </seal>
-              </sealDesc>
-              <accMat></accMat>
-              <envDesc occ="false"></envDesc>
-            </physDesc>
-            <history>
-              <origin></origin>
-              <provenance></provenance>
-              <acquisition></acquisition>
-            </history>
-            <additional>
-              <adminInfo>
-                <recordHist>
-                  <source></source>
-                  <change></change>
-                </recordHist>
-                <availability status="free">
-                  <p>Unrestricted</p>
-                </availability>
-                <custodialHist>
-                  <custEvent></custEvent>
-                </custodialHist>
-              </adminInfo>
-              <surrogates></surrogates>
-              <listBibl>
-                <bibl></bibl>
-              </listBibl>
-            </additional>
-            <msPart>
-              <altIdentifier>
-                <idno></idno>
-              </altIdentifier>
-            </msPart>
-          </msDesc>
-        </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-        <projectDesc>
-          <p></p>
-        </projectDesc>
-        <samplingDecl>
-          <p></p>
-        </samplingDecl>
-        <editorialDecl>
-          <correction>
-            <p></p>
-          </correction>
-          <normalization>
-            <p></p>
-          </normalization>
-          <quotation>
-            <p></p>
-          </quotation>
-          <hyphenation>
-            <p></p>
-          </hyphenation>
-          <segmentation>
-            <p></p>
-          </segmentation>
-          <stdVals>
-            <p></p>
-          </stdVals>
-          <interpretation>
-            <p></p>
-          </interpretation>
-        </editorialDecl>
-        <tagsDecl>
-          <rendition></rendition>
-          <namespace name="http://www.tei-c.org/ns/1.0">
-            <tagUsage gi=""></tagUsage>
-          </namespace>
-        </tagsDecl>
-        <refsDecl>
-          <cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-        </refsDecl>
-        <refsDecl>
-          <refState unit=""/>
-        </refsDecl>
-        <classDecl>
-          <taxonomy>
-            <category>
-              <catDesc></catDesc>
-            </category>
-          </taxonomy>
-        </classDecl>
-        <appInfo>
-          <application ident="" version="">
-            <desc></desc>
-            <label></label>
-          </application>
-        </appInfo>
-      </encodingDesc>
-      <profileDesc>
-        <creation></creation>
-        <langUsage>
-          <language ident="en">English</language>
-        </langUsage>
-        <textClass>
-          <keywords scheme="unknown">
-            <list>
-              <item></item>
-              <item></item>
-            </list>
-          </keywords>
-          <classCode scheme=""></classCode>
-          <catRef/>
-        </textClass>
-      </profileDesc>
-      <revisionDesc>
-        <change></change>
-      </revisionDesc>
-    </teiHeader>
-    <text>
-        <body>
-      
-		<pb n="1"/>
-			<p><addressee>Reverend Isaac Leeser</addressee></p>
-          <p rend="indent(1)">Esteemed friend</p>
-          <p rend="indent(2)">I have your letter of <date>January</date> before me &#38; am<lb/> ashamed at not having acknowledged you I am afraid there was some<lb/> thing infectious on it &#38; that I have caught a fit of the Illness of which<lb/> you confess yourself to suffer sometimes for the last six weeks I<lb/> have really been lazy &#38; when I returned home in the evening indulged<lb/> myself with a quiet hour of reading. I thank you for your kind in<lb/>quiry about my health&#44; which I thank God is very good &#38; were it<lb/> not that in going to town in the morning I find Passengers overtake<lb/> &#38; pass me I should not be conscious of the lapse of the last 20 or 30<lb/> years at which time my usual pace kept me ahead of those<lb/> who set off at the same time indeed I have reason to be &#38; am<lb/> grateful for the health I enjoy I think shortly after the<lb/> dispatch of your letter you must have received one of mine written<lb/> in bed last in which I <sic>inclosed</sic> a copy of some <add>&#63;</add><lb/> addressed on <persName>Dr McCourt</persName> on some lectures which he had published<lb/> I do not know whether they would be of any use for your Occident<lb/> I hope you do not make any compliment with me I have already<add>&#63;</add><lb/> explained my feeling with respect to <sic>censhorship</sic> if what I<lb/> had written can be useful I feel pleasure in its being published<lb/> I wish to be treated with candour which will to me be a proof of<lb/> your friendship You are no doubt aware of the great loss<lb/> which our nation has suffered by the death of <persName>Mr H Belasstro</persName><lb/> the panegyrics which have been made on him in the daily &#38;</p>
-		<pb n="2"/>
-			<p><sic>&#38;</sic> periodical press are justly <sic>meritted</sic>. his sudden removal from what<lb/> seemed to us the middle of a career of happiness &#38; general <add>&#63;</add>fullness<lb/> whilst so many other persons linger in a state of pain &#38; misery to<lb/> themselves &#38; useless to other shows us how little we can discern of<lb/> the ways of God or the purposes for which we were created however<lb/> pleasant the state from which God has called him we may reasonably<lb/> hope that he has been removed to the enjoyment of bliss which could not<lb/> be his lot here. this reflection will for a long time be the only conso<lb/>lation that can be administered to his family I believe you<lb/> have the Jewish Chronicle sent you &#38; will have read the high enromi<lb/>uns<add>&#63;</add> pruned on our lamented friend <persName>Mr Belastro</persName> by <persName>Mr Goldberg</persName><lb/> in the will <sic>meritted</sic> praise he awards him we all agree the peculiar<lb/> stile belongs to the transcendent at school but I was astonished to find<lb/> a parallel drawn with <persName>Mr D C</persName> &#38; <persName>Nathan</persName> &#38; <persName>Abraham</persName> the elder two sons<lb/> of <add>&#63;</add> who were destroyed by fire from God in punishment for having<lb/> <sic>offerd</sic> up Incense on strange fire. <persName>Mr G.</persName> represents their death as a<lb/> reward instead of a punishment he speaks of their numerous meritorious<lb/> deeds&#44; of their exertions in contributing to the splendour &#38; magnificence<lb/> the Tabernacle that their efforts in contributing to its excellence<lb/> surpassed the usual efforts of men&#44; where he gained there particulars<lb/> I do not know I cannot find them in the Bible it seems to me an<lb/> impious <sic>interpollation</sic> &#38; <sic>pervertion</sic> of the Holy Scripture the compari<lb/>son itself is in very bad taste. I should have made some observations in<lb/> <persName>Mr G&#39;s</persName> letter but I know the Editor will not insert any thing in <add>&#63;</add><lb/> of his proteges &#38; he seems to have extended his patronage to <persName>Mr G</persName> &#38;<lb/> two other learned men My warning about <persName>Mr Hoga</persName><add>&#63;</add> was disre</p>
-		<pb n="3"/>
-			<p>garded. a pretty mess that gentleman made of his Faithful missionary<lb/> I think his Prospectus was enough to underserve any one who supposed he<lb/> could execute one quarter of what he proposed yet I am told he is<lb/> an accomplished Hebrew Scholar. there was another gentleman who<lb/> was to do wonders who called on me for Subscription to a work on<lb/> Chronology which has never made its appearance he also was a<lb/> very learned young man. I do not know whether it is from the apathy<lb/> of the nation or from these learned gentlemen being able to apply their<lb/> knowledge to any practical purpose by very little of any advantage has<lb/> accrued from their abilities 30 <add>&#63;</add> on Saturday I paid a visit</p>
-          <p rend="indent(1)">to my venerable friend <persName>Mrs Dias</persName> where I saw a late</p>
-          <p rend="indent(1)">number of the Occident containing the first part of my</p>
-          <p rend="indent(1)">letter to <persName>Dr McCourt</persName> by an error of the press it is dated</p>
-          <p rend="indent(1)"><date>April 1849</date> instead of <date>1848</date>. My last Occident in the</p>
-			<p>number for <date>November</date>. I must call on <persName>Mrs Joel</persName>. I think she has neglected<lb/> me I heartily hope you will be able to rouse our yankee Brothers<lb/> &#38; that they will have the good sense to place you at the head of the move<lb/>ment&#44; a place you are so eminently qualified to occupy but I fear there<lb/> is very little to be done with the present Generation. Our Christian Bro<lb/>thers talk of the signs of the time &#38; the near approach of the period of<lb/> our restoration but without for a moment doubting the full accomplish<lb/>ment of the glorious promises made to us I can see very little prospect<lb/> of the near approach of our long deferred restoration nor do I think<lb/> that it can be accelerated by any human efforts. all we can do is to improve<lb/> our moral &#38; Intellectual condition that we may be more worthy of the<lb/> blessings when we receive them When you have a few minutes <add>&#63;</add><lb/> passages you will bestow them on me as your letters always afford me much<lb/> pleasure Wishing you a continuance of healthy happiness I remain Sir</p>
-          <p rend="indent(1)">your&#39;s respectfully <persName role="author">J Peynada</persName></p>
-		<pb n="4"/>
-          <p rend="indent(3)"><add>&#63;</add></p>
-			<p><addressee>Reverend Isaac Leeser</addressee></p>
-          <p rend="indent(2)"><placeName>Philadelphia</placeName></p>
-          <p rend="indent(3)"><placeName>US</placeName></p>
-			<p>&#40;hand&#41;</p>
-          <div>
-            <p><ref target="Occident_PDFs/Occ_7_2.pdf">The above text refers to Occident Volume 7 No. 2 pages 89 through 93. Click here to view.</ref></p>
-          </div>
-        </body>
-    </text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+          <teiHeader>
+
+                    <fileDesc>
+                              <titleStmt>
+                                        <title>[no title given]</title>
+                                        <author accepted="yes" attested="yes" signature="yes"
+                                                  >Peynada, J.</author>
+                                        <editor/>
+                                        <sponsor/>
+                                        <funder/>
+                                        <principal/>
+                                        <respStmt>
+                                                  <resp/>
+                                                  <name/>
+                                        </respStmt>
+                              </titleStmt>
+                              <editionStmt>
+                                        <edition/>
+                                        <respStmt>
+                                                  <resp/>
+                                                  <name/>
+                                        </respStmt>
+                              </editionStmt>
+                              <extent>[information about file size goes here, information about
+                                        extent of physical item comes later]</extent>
+                              <publicationStmt>
+                                        <publisher>Unpublished manuscript</publisher>
+                              </publicationStmt>
+                              <seriesStmt>
+                                        <p>Not part of a series</p>
+                              </seriesStmt>
+                              <notesStmt>
+                                        <note/>
+                              </notesStmt>
+                              <sourceDesc>
+                                        <biblStruct>
+                                                  <!-- catalog entry goes here -->
+                                                  <monogr>
+                                                  <imprint>
+                                                  <dateLet/>
+                                                  </imprint>
+                                                  </monogr>
+                                        </biblStruct>
+                                        <msDesc>
+                                                  <msIdentifier>
+                                                  <country>USA</country>
+                                                  <region>PA</region>
+                                                  <settlement>Philadelphia</settlement>
+                                                  <institution/>
+                                                  <repository>CAJS Isaac Leeser
+                                                  Collection</repository>
+                                                  <collection>The Library of the Dropsie College for
+                                                  Hebrew and Cognate Learning</collection>
+                                                  <idno>LSDCBx1FF6_2</idno>
+                                                  <altIdentifier>
+                                                  <idno/>
+                                                  </altIdentifier>
+                                                  <msName/>
+                                                  </msIdentifier>
+                                                  <head/>
+                                                  <letHeading>
+                                                  <author accepted="yes" attested="yes"
+                                                  signature="yes">Peynada, J.</author>
+                                                  <addressee accepted="yes" attested="yes"
+                                                  editor="false">Leeser, Isaac, Rev.</addressee>
+                                                  <deliverer/>
+                                                  <respStmt>
+                                                  <resp/>
+                                                  <name/>
+                                                  </respStmt>
+                                                  <placeLet/>
+                                                  <placeRec>Philadelphia, PA</placeRec>
+                                                  <dateLet attested="unk" source="" when="1849-01">7
+                                                  January 184[9]?</dateLet>
+                                                  </letHeading>
+                                                  <msContents>
+                                                  <msItem>
+                                                  <author/>
+                                                  <editor/>
+                                                  <respStmt>
+                                                  <resp/>
+                                                  <name/>
+                                                  </respStmt>
+                                                  <title/>
+                                                  <decoNote/>
+                                                  <listBibl>
+                                                  <bibl/>
+                                                  </listBibl>
+                                                  <filiation/>
+                                                  <textLang/>
+                                                  <figure>
+                                                  <graphic url="ilcajs_b1f6_0002_1r.jpg"/>
+                                                  <graphic url="ilcajs_b1f6_0002_1v.jpg"/>
+                                                  <graphic url="ilcajs_b1f6_0002_2r.jpg"/>
+                                                  <graphic url="ilcajs_b1f6_0002_2v.jpg"/>
+                                                  </figure>
+                                                  <figure>
+                                                  <graphic url="occ_7_1_0025.jpg"/>
+                                                  <graphic url="occ_7_1_0026.jpg"/>
+                                                  <graphic url="occ_7_1_0027.jpg"/>
+                                                  <graphic url="occ_7_1_0028.jpg"/>
+                                                  <graphic url="occ_7_1_0029.jpg"/>
+                                                  <graphic url="occ_7_1_0030.jpg"/>
+                                                  <graphic url="occ_7_1_0031.jpg"/>
+                                                  </figure>
+                                                  </msItem>
+                                                  </msContents>
+                                                  <physDesc>
+                                                  <objectDesc>
+                                                  <supportDesc>
+                                                  <support>
+                                                  <material color="" lined="false" paper_type=""
+                                                  size="Letter">letter</material>
+                                                  </support>
+                                                  <extent>4 pages on 2 sheets <dimensions/>
+                                                  </extent>
+                                                  <foliation/>
+                                                  <collation/>
+                                                  <condition fragment="false">Fragile</condition>
+                                                  </supportDesc>
+                                                  <layoutDesc>
+                                                  <layout/>
+                                                  </layoutDesc>
+                                                  </objectDesc>
+                                                  <handDesc script="manuscript">
+                                                  <handNote/>
+                                                  </handDesc>
+                                                  <decoDesc>
+                                                  <decoNote/>
+                                                  </decoDesc>
+                                                  <additions/>
+                                                  <bindingDesc>
+                                                  <binding>
+                                                  <decoNote/>
+                                                  </binding>
+                                                  </bindingDesc>
+                                                  <sealDesc>
+                                                  <seal>
+                                                  <p/>
+                                                  </seal>
+                                                  </sealDesc>
+                                                  <accMat/>
+                                                  <envDesc occ="false"/>
+                                                  </physDesc>
+                                                  <history>
+                                                  <origin/>
+                                                  <provenance/>
+                                                  <acquisition/>
+                                                  </history>
+                                                  <additional>
+                                                  <adminInfo>
+                                                  <recordHist>
+                                                  <source/>
+                                                  <change/>
+                                                  </recordHist>
+                                                  <availability status="free">
+                                                  <p>Unrestricted</p>
+                                                  </availability>
+                                                  <custodialHist>
+                                                  <custEvent/>
+                                                  </custodialHist>
+                                                  </adminInfo>
+                                                  <surrogates/>
+                                                  <listBibl>
+                                                  <bibl/>
+                                                  </listBibl>
+                                                  </additional>
+                                                  <msPart>
+                                                  <altIdentifier>
+                                                  <idno/>
+                                                  </altIdentifier>
+                                                  </msPart>
+                                        </msDesc>
+                              </sourceDesc>
+                    </fileDesc>
+                    <encodingDesc>
+                              <projectDesc>
+                                        <p/>
+                              </projectDesc>
+                              <samplingDecl>
+                                        <p/>
+                              </samplingDecl>
+                              <editorialDecl>
+                                        <correction>
+                                                  <p/>
+                                        </correction>
+                                        <normalization>
+                                                  <p/>
+                                        </normalization>
+                                        <quotation>
+                                                  <p/>
+                                        </quotation>
+                                        <hyphenation>
+                                                  <p/>
+                                        </hyphenation>
+                                        <segmentation>
+                                                  <p/>
+                                        </segmentation>
+                                        <stdVals>
+                                                  <p/>
+                                        </stdVals>
+                                        <interpretation>
+                                                  <p/>
+                                        </interpretation>
+                              </editorialDecl>
+                              <tagsDecl>
+                                        <rendition/>
+                                        <namespace name="http://www.tei-c.org/ns/1.0">
+                                                  <tagUsage gi=""/>
+                                        </namespace>
+                              </tagsDecl>
+                              <refsDecl>
+                                        <cRefPattern matchPattern="" replacementPattern=""/>
+                              </refsDecl>
+                              <refsDecl>
+                                        <refState unit=""/>
+                              </refsDecl>
+                              <classDecl>
+                                        <taxonomy>
+                                                  <category>
+                                                  <catDesc/>
+                                                  </category>
+                                        </taxonomy>
+                              </classDecl>
+                              <appInfo>
+                                        <application ident="" version="">
+                                                  <desc/>
+                                                  <label/>
+                                        </application>
+                              </appInfo>
+                    </encodingDesc>
+                    <profileDesc>
+                              <creation/>
+                              <langUsage>
+                                        <language ident="en">English</language>
+                              </langUsage>
+                              <textClass>
+                                        <keywords scheme="unknown">
+                                                  <list>
+                                                  <item/>
+                                                  <item/>
+                                                  </list>
+                                        </keywords>
+                                        <classCode scheme=""/>
+                                        <catRef/>
+                              </textClass>
+                    </profileDesc>
+                    <revisionDesc>
+                              <change/>
+                    </revisionDesc>
+          </teiHeader>
+          <text>
+                    <body>
+                              <pb n="1"/>
+                              <p>
+                                        <addressee>Reverend Isaac Leeser</addressee>
+                              </p>
+                              <p rend="indent(1)">Esteemed friend</p>
+                              <p rend="indent(2)">I have your letter of <date>January</date> before
+                                        me &amp; am<lb/> ashamed at not having acknowledged you I am
+                                        afraid there was some<lb/> thing infectious on it &amp; that
+                                        I have caught a fit of the Illness of which<lb/> you confess
+                                        yourself to suffer sometimes for the last six weeks I<lb/>
+                                        have really been lazy &amp; when I returned home in the
+                                        evening indulged<lb/> myself with a quiet hour of reading. I
+                                        thank you for your kind in<lb/>quiry about my health, which
+                                        I thank God is very good &amp; were it<lb/> not that in
+                                        going to town in the morning I find Passengers overtake<lb/>
+                                        &amp; pass me I should not be conscious of the lapse of the
+                                        last 20 or 30<lb/> years at which time my usual pace kept me
+                                        ahead of those<lb/> who set off at the same time indeed I
+                                        have reason to be &amp; am<lb/> grateful for the health I
+                                        enjoy I think shortly after the<lb/> dispatch of your letter
+                                        you must have received one of mine written<lb/> in bed last
+                                        in which I <sic>inclosed</sic> a copy of some
+                                        <add>?</add><lb/> addressed on <persName>Dr
+                                                  McCourt</persName> on some lectures which he had
+                                        published<lb/> I do not know whether they would be of any
+                                        use for your Occident<lb/> I hope you do not make any
+                                        compliment with me I have already<add>?</add><lb/> explained
+                                        my feeling with respect to <sic>censhorship</sic> if what
+                                        I<lb/> had written can be useful I feel pleasure in its
+                                        being published<lb/> I wish to be treated with candour which
+                                        will to me be a proof of<lb/> your friendship You are no
+                                        doubt aware of the great loss<lb/> which our nation has
+                                        suffered by the death of <persName>Mr H
+                                        Belasstro</persName><lb/> the panegyrics which have been
+                                        made on him in the daily &amp;</p>
+                              <pb n="2"/>
+                              <p><sic>&amp;</sic> periodical press are justly <sic>meritted</sic>.
+                                        his sudden removal from what<lb/> seemed to us the middle of
+                                        a career of happiness &amp; general
+                                        <add>?</add>fullness<lb/> whilst so many other persons
+                                        linger in a state of pain &amp; misery to<lb/> themselves
+                                        &amp; useless to other shows us how little we can discern
+                                        of<lb/> the ways of God or the purposes for which we were
+                                        created however<lb/> pleasant the state from which God has
+                                        called him we may reasonably<lb/> hope that he has been
+                                        removed to the enjoyment of bliss which could not<lb/> be
+                                        his lot here. this reflection will for a long time be the
+                                        only conso<lb/>lation that can be administered to his family
+                                        I believe you<lb/> have the Jewish Chronicle sent you &amp;
+                                        will have read the high enromi<lb/>uns<add>?</add> pruned on
+                                        our lamented friend <persName>Mr Belastro</persName> by
+                                                  <persName>Mr Goldberg</persName><lb/> in the will
+                                                  <sic>meritted</sic> praise he awards him we all
+                                        agree the peculiar<lb/> stile belongs to the transcendent at
+                                        school but I was astonished to find<lb/> a parallel drawn
+                                        with <persName>Mr D C</persName> &amp;
+                                                  <persName>Nathan</persName> &amp;
+                                                  <persName>Abraham</persName> the elder two
+                                        sons<lb/> of <add>?</add> who were destroyed by fire from
+                                        God in punishment for having<lb/>
+                                        <sic>offerd</sic> up Incense on strange fire. <persName>Mr
+                                                  G.</persName> represents their death as a<lb/>
+                                        reward instead of a punishment he speaks of their numerous
+                                        meritorious<lb/> deeds, of their exertions in contributing
+                                        to the splendour &amp; magnificence<lb/> the Tabernacle that
+                                        their efforts in contributing to its excellence<lb/>
+                                        surpassed the usual efforts of men, where he gained there
+                                        particulars<lb/> I do not know I cannot find them in the
+                                        Bible it seems to me an<lb/> impious
+                                                  <sic>interpollation</sic> &amp;
+                                                  <sic>pervertion</sic> of the Holy Scripture the
+                                        compari<lb/>son itself is in very bad taste. I should have
+                                        made some observations in<lb/>
+                                        <persName>Mr G's</persName> letter but I know the Editor
+                                        will not insert any thing in <add>?</add><lb/> of his
+                                        proteges &amp; he seems to have extended his patronage to
+                                                  <persName>Mr G</persName> &amp;<lb/> two other
+                                        learned men My warning about <persName>Mr
+                                                  Hoga</persName><add>?</add> was disre</p>
+                              <pb n="3"/>
+                              <p>garded. a pretty mess that gentleman made of his Faithful
+                                        missionary<lb/> I think his Prospectus was enough to
+                                        underserve any one who supposed he<lb/> could execute one
+                                        quarter of what he proposed yet I am told he is<lb/> an
+                                        accomplished Hebrew Scholar. there was another gentleman
+                                        who<lb/> was to do wonders who called on me for Subscription
+                                        to a work on<lb/> Chronology which has never made its
+                                        appearance he also was a<lb/> very learned young man. I do
+                                        not know whether it is from the apathy<lb/> of the nation or
+                                        from these learned gentlemen being able to apply their<lb/>
+                                        knowledge to any practical purpose by very little of any
+                                        advantage has<lb/> accrued from their abilities 30
+                                                  <add>?</add> on Saturday I paid a visit</p>
+                              <p rend="indent(1)">to my venerable friend <persName>Mrs
+                                                  Dias</persName> where I saw a late</p>
+                              <p rend="indent(1)">number of the Occident containing the first part
+                                        of my</p>
+                              <p rend="indent(1)">letter to <persName>Dr McCourt</persName> by an
+                                        error of the press it is dated</p>
+                              <p rend="indent(1)"><date>April 1849</date> instead of
+                                                  <date>1848</date>. My last Occident in the</p>
+                              <p>number for <date>November</date>. I must call on <persName>Mrs
+                                                  Joel</persName>. I think she has neglected<lb/> me
+                                        I heartily hope you will be able to rouse our yankee
+                                        Brothers<lb/> &amp; that they will have the good sense to
+                                        place you at the head of the move<lb/>ment, a place you are
+                                        so eminently qualified to occupy but I fear there<lb/> is
+                                        very little to be done with the present Generation. Our
+                                        Christian Bro<lb/>thers talk of the signs of the time &amp;
+                                        the near approach of the period of<lb/> our restoration but
+                                        without for a moment doubting the full accomplish<lb/>ment
+                                        of the glorious promises made to us I can see very little
+                                        prospect<lb/> of the near approach of our long deferred
+                                        restoration nor do I think<lb/> that it can be accelerated
+                                        by any human efforts. all we can do is to improve<lb/> our
+                                        moral &amp; Intellectual condition that we may be more
+                                        worthy of the<lb/> blessings when we receive them When you
+                                        have a few minutes <add>?</add><lb/> passages you will
+                                        bestow them on me as your letters always afford me much<lb/>
+                                        pleasure Wishing you a continuance of healthy happiness I
+                                        remain Sir</p>
+                              <p rend="indent(1)">your's respectfully <persName role="author">J
+                                                  Peynada</persName></p>
+                              <pb n="4"/>
+                              <p rend="indent(3)">
+                                        <add>?</add>
+                              </p>
+                              <p>
+                                        <addressee>Reverend Isaac Leeser</addressee>
+                              </p>
+                              <p rend="indent(2)">
+                                        <placeName>Philadelphia</placeName>
+                              </p>
+                              <p rend="indent(3)">
+                                        <placeName>US</placeName>
+                              </p>
+                              <p>(hand)</p>
+                              <div>
+                                        <p>
+                                                  <ref target="Occident_PDFs/Occ_7_2.pdf">The above
+                                                  text refers to Occident Volume 7 No. 2 pages 89
+                                                  through 93. Click here to view.</ref>
+                                        </p>
+                              </div>
+                    </body>
+          </text>
 </TEI>

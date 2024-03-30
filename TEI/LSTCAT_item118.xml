@@ -1,260 +1,291 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE TEI [
-<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
-%teibase;
-<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
-%teiext;
-]>
-<TEI>
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="yes">Schlessinger, W., Dr.</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>TCAT</repository>
-						<collection>Anonymous</collection>
-						<idno>LSTCAT_item118</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="yes">Schlessinger, W., Dr.</author>
-						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac</addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>New York, NY</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1849-12" source="" attested="yes">December 10, 1849</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="il_tcat_item118_wk1_body0001.jpg"></graphic>
-								<graphic url="il_tcat_item118_wk1_body0002.jpg"></graphic>
-								<graphic url="il_tcat_item118_wk1_body0003.jpg"></graphic>
-								<graphic url="il_tcat_item118_wk1_body0004.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="false" paper_type="" size="">letter</material>
-								</support>
-								<extent>2 pages on 1 sheet
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="manuscript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="free">
-								<p>Unrestricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="de">German</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1"/>
-				<p rend="align(right)"><placeName>New&#61;York</placeName>&#44; <date>der 10. Decemb. 1849</date>.</p>
-				<p rend="align(center)">Geehrtester Herr <sic>Redacteur</sic>&#33;</p>
-				<p>Recht sehr hat est mir leid <sic>gethan</sic><add>&#63;</add>&#44; da&#223; es bei Ihren j&#252;ngsten Hier<add>&#63;</add> mir nur<lb/> <add>&#63;</add> Minuten <add>&#63;</add>gonnt<add>&#63;</add>&#44; Sie zu sprechen&#44; ich hoffe&#44; da&#223; es bald gelegenheit<lb/> geben wird&#44; aus gegenheitig <add>&#63;</add>her bekannt zu werden.  Empfangen Sie hei<add>&#63;</add>t meinen dank<lb/> f&#252;r die Freundlichkeit&#44; mit der Sie das Schreiben in <add>&#63;</add>eundes <persName>Fatman</persName> in Ihrer geschic<add>&#63;</add>te<lb/> Zeitschrift aufgenommen.  Recht freuen <add>&#63;</add> es mich&#44; wenn Sie anliegende Rede&#44; die ich<lb/> j&#252;ngst auf eine Aufforderung des Nor<add>&#63;</add>ndes in <placeName>der Henry</placeName> &#40;<add>Hebrew</add>&#41; Synagoge abgehalten&#44;<lb/> w&#252;rdig funden&#44; von Ihren &#252;bersetzt&#44; es<add>&#63;</add> in der Occident aufge<add>&#63;</add>mmen zu werden&#44; gleich<lb/> der Rede <add>&#63;</add>.  Hochheimer.  Die ich auf diesen <add>Hebrew</add> abermals einen Vortrag<lb/> in derselben Synagoge zu halten habe&#44; so vor es mir nicht wohl m&#246;glich diese Rede<lb/> rein abzuschreiben.  Sollten Sie daher dieselbe <add>&#63;</add>id<add>&#63;</add> Er<add>&#63;</add>ten f&#252;r Ihre Ztsch. nicht<lb/> geeignet finden&#44; so bitte ich Sie mir dieselbe recht bald retour zu senden.<lb/>  Nach Be<add>&#63;</add>ten&#44; die ich inzwischen vom Hause empfangen&#44; ist ein Verhaf<add>&#63;</add>fallgegen<lb/> mich gut nicht vorgelegen&#44; wohl aber ist es Absicht der baierischen Regierung&#44; jedes Beamten&#44;<lb/> der richt ihre Gesinnungen <sic>theilt</sic>&#44; durch <add>&#63;</add>urcht aus dem Lande zu jagen.</p>
-				<p>Schlie&#223;lich erlaube ich mir&#44; Ihnen zu b<add>&#63;</add>&#44; da&#223; A Rabbis Reply im hiesigen<lb/> Herald n. <date>19. Novemb.</date> Unterzeichnet <persName>Israel Philalethes</persName> von mir erfa&#223;t es von<lb/> einem <persName>m. Gr&#252;nde</persName>&#44; <persName>M<hi rend="underline">r</hi> Schwab</persName>&#44; in&#39;s Englische &#252;bersetzt worden.<lb/>  Genehmigen Sie die Versicherungen meiner ausgezeichneten Hochachtung.</p>
-			<p rend="indent(1)"><persName role="author">Dr. W. Schlessinger</persName></p>
-			<p rend="indent(2)">care of</p>
-			<p rend="indent(1)"><persName>M<hi rend="underline">r</hi> Lewis Fatman</persName></p>
-			<pb n="4"/>
-			<p rend="indent(3)">The Rev.</p>
-			<p rend="indent(2)"><addressee>Isaac Leeser</addressee></p>
-				<p>Paid</p>
-			<p rend="indent(2)"><placeName>Philadelphia</placeName></p>
-		</body>
-	</text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="yes">Schlessinger, W., Dr.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>TCAT</repository>
+                        <collection>Anonymous</collection>
+                        <idno>LSTCAT_item118</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="yes">Schlessinger, W.,
+                            Dr.</author>
+                        <addressee accepted="yes" attested="yes" editor="false">Leeser,
+                            Isaac</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>New York, NY</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1849-12">December 10, 1849</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="il_tcat_item118_wk1_body0001.jpg"/>
+                                <graphic url="il_tcat_item118_wk1_body0002.jpg"/>
+                                <graphic url="il_tcat_item118_wk1_body0003.jpg"/>
+                                <graphic url="il_tcat_item118_wk1_body0004.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >letter</material>
+                                </support>
+                                <extent>2 pages on 1 sheet <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="de">German</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <p rend="align(right)"><placeName>New=York</placeName>, <date>der 10. Decemb.
+                    1849</date>.</p>
+            <p rend="align(center)">Geehrtester Herr <sic>Redacteur</sic>!</p>
+            <p>Recht sehr hat est mir leid <sic>gethan</sic><add>?</add>, daß es bei Ihren jüngsten
+                    Hier<add>?</add> mir nur<lb/>
+                <add>?</add> Minuten <add>?</add>gonnt<add>?</add>, Sie zu sprechen, ich hoffe, daß
+                es bald gelegenheit<lb/> geben wird, aus gegenheitig <add>?</add>her bekannt zu
+                werden. Empfangen Sie hei<add>?</add>t meinen dank<lb/> für die Freundlichkeit, mit
+                der Sie das Schreiben in <add>?</add>eundes <persName>Fatman</persName> in Ihrer
+                    geschic<add>?</add>te<lb/> Zeitschrift aufgenommen. Recht freuen <add>?</add> es
+                mich, wenn Sie anliegende Rede, die ich<lb/> jüngst auf eine Aufforderung des
+                    Nor<add>?</add>ndes in <placeName>der Henry</placeName> (<add>אנשי חסד</add>)
+                Synagoge abgehalten,<lb/> würdig funden, von Ihren übersetzt, es<add>?</add> in der
+                Occident aufge<add>?</add>mmen zu werden, gleich<lb/> der Rede <add>?</add>.
+                Hochheimer. Die ich auf diesen <add>שבת חנוכה</add> abermals einen Vortrag<lb/> in
+                derselben Synagoge zu halten habe, so vor es mir nicht wohl möglich diese Rede<lb/>
+                rein abzuschreiben. Sollten Sie daher dieselbe <add>?</add>id<add>?</add>
+                    Er<add>?</add>ten für Ihre Ztsch. nicht<lb/> geeignet finden, so bitte ich Sie
+                mir dieselbe recht bald retour zu senden.<lb/> Nach Be<add>?</add>ten, die ich
+                inzwischen vom Hause empfangen, ist ein Verhaf<add>?</add>fallgegen<lb/> mich gut
+                nicht vorgelegen, wohl aber ist es Absicht der baierischen Regierung, jedes
+                Beamten,<lb/> der richt ihre Gesinnungen <sic>theilt</sic>, durch <add>?</add>urcht
+                aus dem Lande zu jagen.</p>
+            <p>Schließlich erlaube ich mir, Ihnen zu b<add>?</add>, daß A Rabbis Reply im
+                hiesigen<lb/> Herald n. <date>19. Novemb.</date> Unterzeichnet <persName>Israel
+                    Philalethes</persName> von mir erfaßt es von<lb/> einem <persName>m.
+                    Gründe</persName>, <persName>M<hi rend="underline">r</hi> Schwab</persName>,
+                in's Englische übersetzt worden.<lb/> Genehmigen Sie die Versicherungen meiner
+                ausgezeichneten Hochachtung.</p>
+            <p rend="indent(1)">
+                <persName role="author">Dr. W. Schlessinger</persName>
+            </p>
+            <p rend="indent(2)">care of</p>
+            <p rend="indent(1)">
+                <persName>M<hi rend="underline">r</hi> Lewis Fatman</persName>
+            </p>
+            <pb n="4"/>
+            <p rend="indent(3)">The Rev.</p>
+            <p rend="indent(2)">
+                <addressee>Isaac Leeser</addressee>
+            </p>
+            <p>Paid</p>
+            <p rend="indent(2)">
+                <placeName>Philadelphia</placeName>
+            </p>
+        </body>
+    </text>
 </TEI>

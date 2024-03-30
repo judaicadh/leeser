@@ -1,670 +1,888 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE TEI [
-<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
-%teibase;
-<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
-%teiext;
-]>
-<TEI>
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="unk"></author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>TCAT</repository>
-						<collection>Anonymous</collection>
-						<idno>LSTCAT_item132</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="unk"></author>
-						<addressee editor="false" attested="yes" accepted="yes"></addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>Philadelphia, PA</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="" source="" attested="yes">March 1844</dateLet>
-						<dateLet when="" source="" attested="yes">Adar 5604</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="il_tcat_item132_wk1_body0001.jpg"></graphic>
-								<graphic url="il_tcat_item132_wk1_body0002.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="false" paper_type="" size="">print</material>
-								</support>
-								<extent>1 page on 2 sheets
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="typescript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="free">
-								<p>Unrestricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1"/>
-				<p rend="align(center)"><placeName>PHILADELPHIA</placeName>&#44; <date>ADAR5604&#44; MARCH1844</date>.</p>
-				<p>Mr.</p>
-				<p>SIR&#44;</p>
-				<p><hi rend="italics">A Stated Meeting of the <add>Hebrew</add> will<lb/> be held on <date>Sunday&#44; the 4<hi rend="sup">th</hi> of Nissan&#44; the 24<hi rend="sup">th</hi> of March</date>&#44; at 10 o&#39;clock&#44; A. M.&#44; at the<lb/> Vestry Room of the Portuguese Congregation&#44; in <placeName>Cherry Street</placeName>.</hi></p>
-				<p>BY ORDER OF THE PRESIDENT.</p>
-				<p><hi rend="italics">Secretary</hi>.</p>
-				<p><add>pointing hand symbol</add> Balloting for <persName>Messrs. Simon Weil</persName> and <persName>Selig Hohenfels</persName>.</p>
-			<p rend="indent(1)">The following Amendments to the Constitution and By&#45;Laws&#44; laid on the table at the last Stated Meeting&#44; will<lb/> come up for action&#58;</p>
-			<p rend="indent(1)">&#8220;The Committee for revising the Constitution and By&#45;Laws beg leave to offer the following additional Amend&#45;<lb/>ments&#58;</p>
-				<p rend="align(center)">AMENDMENTS TO CONSTITUTION.</p>
-				<p>ARTICLE IV. SECT. 1. Strike out after the world &#8220;and&#8221; &#8220;two&#44;&#8221; and insert &#8220;four.&#8221;</p>
-				<p>ARTICLE XV. After the world &#8220;paying&#8221; strike out &#8220;six&#8221; and insert &#8220;eight.&#8221;</p>
-				<p rend="align(center)">AMENDMENTS TO BY&#45;LAWS.</p>
-			<p rend="indent(1)">Make the first paragraph SECT. 1&#44; and let those paragraphs now marked <hi rend="italics">one</hi> to <hi rend="italics">nine</hi>&#44; be subdivisions of said SECT. 1&#44;<lb/> and marked <hi rend="italics">a&#44; b&#44; c&#44; d&#44; e&#44; f&#44; g&#44; h&#44; </hi>and <hi rend="italics">i</hi>&#44; respectively&#59; and change the numbering of the remaining sections to corre&#45;<lb/>spond with this alteration&#58; so SECT. 10 will be 2&#59; 11&#44; 3&#59; 12&#44; 4&#59; 13&#44; 5&#59; and make SECT. 14 and 15 SECT. 6&#44; to read<lb/> as follows&#58;</p>
-			<p rend="indent(1)">&#8220;The Board shall at their first meeting after the annual election&#44; and oftener if occasion requires&#44; draw the names<lb/> of the several members out of a box&#44; to be provided&#44; for the purpose of performing the duties of the watch&#44; which<lb/> shall be as follows&#58;</p>
-			<p rend="indent(1)">&#8220;From the first&#44; &#38;c.&#8221;</p>
-			<p rend="indent(1)">Make SECT. 16&#44; SECT. 7&#59; SECT. 17&#44; SECT. 8&#59; SECT. 18&#44; SECT. 9&#59; and strike out &#8220;and in the event of&#8221; till<lb/> &#8220;funeral.&#8221;</p>
-			<p rend="indent(1)">Make SECT. 19&#44; SECT. 10&#44; and let it read&#44; &#8220;A messenger shall be appointed by the Board at their first meeting<lb/> after the annual election&#44; who shall receive such salary as shall be fixed form time to time by them&#59; he shall give<lb/> satisfactory security to the Board&#44; and shall perform all the duties required of him.&#8221;</p>
-			<p rend="indent(1)">Make SECT. 20&#44; SECT. 11&#44; and add after the word &#8220;messenger&#8221; &#8220;if a member.&#8221;</p>
-			<p rend="indent(1)">Make SECT. 21&#44; SECT. 12&#59; SECT. 22&#44; SECT. 13&#44; and alter so as to read&#58; &#8220;The Secretary shall make out the bills<lb/> and hand them to the Treasurer for collection.  He shall also record&#44;&#8221; &#38;c.</p>
-			<p rend="indent(1)">Make SECT. 23&#44; SECT. 14&#59; SECT. 24&#44; SECT. 15&#44; and alter the whole so as to read&#58; &#8220;The Treasurer shall at each<lb/> and every annual meeting exhibit&#44;&#8221; &#38;c.</p>
-			<p rend="indent(1)">Make SECT. 25&#44; SECT. 16&#59; SECT. 26&#44; SECT. 17&#59; SECT. 27&#44; SECT. 18&#59; SECT. 28&#44; SECT. 19&#59; SECT. 29&#44; SECT. 20&#59;<lb/> make a new SECT. 21&#44; to read&#58; &#8220;In case of the death of a member&#44; every member shall be charged 25 cents for<lb/> the use of the Society.&#8221;</p>
-			<p rend="indent(1)">Make SECTS. 30&#44; 31&#44; and 32&#44; SECT. 22&#44; and let it read&#58; &#8220;The following fines shall be enforced by the Society&#44; viz.&#8221;</p>
-			<p rend="indent(1)">Insert the present SECT. 30&#44; next the present SECT. 32&#44; and strike out after &#8220;said duties&#8221; the words &#8220;after consent&#45;<lb/>ing to serve&#44;&#8221; after &#8220;serve&#8221; in the next paragraph read &#8220;notice or attend on meeting&#44;&#8221; after <add>Hebrew</add> read &#8220;25 cents&#44;<lb/> and should the&#44;&#8221; &#38;c.</p>
-			<p rend="indent(1)">All which is respectfully submitted.</p>
-			<p rend="indent(8)"><persName>ISAAC LEESER</persName>&#44; Chairman.</p>
-			<p rend="indent(8)"><persName>H. POLOCK</persName>.</p>
-			<p rend="indent(8)"><persName>D. PESOA</persName>.</p>
-			<p rend="indent(8)"><persName>HENRY M. PHILLIPS</persName>.</p>
-			<p rend="indent(8)"><persName>JOHN D. JACKSON</persName>.&#8221;</p>
-			<p><placeName>Philadelphia</placeName>&#44; <date>Dec. 17<hi rend="sup">th</hi>&#44; 5604</date>.</p>
-				<p rend="align(center)">SPECIAL AMENDMENTS PROPOSED BY MR. <persName>LEESER</persName>.</p>
-				<p>ARTICLE IV. After the above amendment &#8220;four&#8221; add &#8220;who shall take the duties of the office in rotation&#59; and<lb/> the person who has been longest in office to be the senior&#44; or if elected at the same time&#44; the one who has the largest<lb/> number of votes&#44; and if the vote be equal&#44; seniority is to be decided by lot.&#8221;</p>
-				<p>ARTICLE XVII. SECT. 3. Strike out all after the word &#8220;<placeName>Philadelphia</placeName>.&#8221;</p>
-				<p>Strike out By&#45;law 29.</p>
-				<p>Make a new section&#44; &#8220;If the Board deem it requisite they may appoint an Assistant Secretary&#44; to whom they may<lb/> give a compensation not exceeding twenty dollars per annum.  Such Assistant Secretary need not be a member of<lb/> the Society.</p>
-				<p><add>pointing hand symbol</add>Please to compare this notice with the printed Constitution in your possession&#44; and bring it with you to the<lb/> meeting&#44; that you may vote understandingly upon every amendment proposed.  Also endeavour not to be absent from<lb/> the meeting&#44; so that the full sense of the Society may be elicited upon the foregoing amendments.</p>
-			<pb n="2"/>
-				<table rows="7" cols="2">
-				<row>
-				<cell><persName>David Solis</persName></cell>
-				<cell/>
-				</row>
-				<row>
-				<cell><date>Novbr 25</date></cell>
-				<cell>1.50</cell>
-				</row>
-				<row>
-				<cell><date>Dec 2</date></cell>
-				<cell>.75</cell>
-				</row>
-				<row>
-				<cell><add>&#63;</add> <date>Janry 27</date></cell>
-				<cell>1.40</cell>
-				</row>
-				<row>
-				<cell><date>March 23</date></cell>
-				<cell>.50</cell>
-				</row>
-				<row>
-				<cell><date>Aug 8</date></cell>
-				<cell>1.25</cell>
-				</row>
-				<row>
-				<cell><date>Sept. 21</date></cell>
-				<cell>1.50</cell>
-				</row>
-				</table>
-				<table rows="18" cols="2">
-				<row>
-				<cell><persName>Aaron Levy</persName></cell>
-				<cell/>
-				</row>
-				<row>
-				<cell><date>Novbr 25</date></cell>
-				<cell>27</cell>
-				</row>
-				<row>
-				<cell><date>Dec 2</date></cell>
-				<cell>27</cell>
-				</row>
-				<row>
-				<cell><date>9</date></cell>
-				<cell>40</cell>
-				</row>
-				<row>
-				<cell><date>16</date></cell>
-				<cell>16</cell>
-				</row>
-				<row>
-				<cell><date>30</date></cell>
-				<cell>27</cell>
-				</row>
-				<row>
-				<cell><add>&#63;</add> <date>Jan 13</date></cell>
-				<cell>14</cell>
-				</row>
-				<row>
-				<cell><date>&#8212;20</date></cell>
-				<cell>14</cell>
-				</row>
-				<row>
-				<cell><date>febry 3</date></cell>
-				<cell>27</cell>
-				</row>
-				<row>
-				<cell><date>&#8212;17</date></cell>
-				<cell>27</cell>
-				</row>
-				<row>
-				<cell><date>March 8</date></cell>
-				<cell>27</cell>
-				</row>
-				<row>
-				<cell><date>20</date></cell>
-				<cell>27</cell>
-				</row>
-				<row>
-				<cell><date>Ap 4&#45;5</date></cell>
-				<cell>14</cell>
-				</row>
-				<row>
-				<cell><date>&#8212;27</date></cell>
-				<cell>27</cell>
-				</row>
-				<row>
-				<cell><date>May 4</date></cell>
-				<cell>14</cell>
-				</row>
-				<row>
-				<cell><date>18</date></cell>
-				<cell>27</cell>
-				</row>
-				<row>
-				<cell><date>24&#45;25</date></cell>
-				<cell>40</cell>
-				</row>
-				<row>
-				<cell><date>June 22</date></cell>
-				<cell>27</cell>
-				</row>
-				</table>
-				<p rend="Second column."></p>
-				<table rows="3" cols="2">
-				<row>
-				<cell><persName>Aaron Levy</persName></cell>
-				<cell/>
-				</row>
-				<row>
-				<cell><date>Septr 7</date></cell>
-				<cell>80</cell>
-				</row>
-				<row>
-				<cell/>
-				<cell><date>14&#45;15</date></cell>
-				</row>
-				</table>
-				<table rows="14" cols="2">
-				<row>
-				<cell><persName>Elias P Levy</persName></cell>
-				<cell/>
-				</row>
-				<row>
-				<cell><date>Novb 25</date></cell>
-				<cell>40</cell>
-				</row>
-				<row>
-				<cell>Dec 2</cell>
-				<cell>53</cell>
-				</row>
-				<row>
-				<cell><date>&#45; 30</date></cell>
-				<cell>1&#45;&#58;&#45;</cell>
-				</row>
-				<row>
-				<cell>18<add>&#63;</add><date>febry 10</date></cell>
-				<cell>1.20</cell>
-				</row>
-				<row>
-				<cell><date>March 23</date></cell>
-				<cell>75</cell>
-				</row>
-				<row>
-				<cell><date>May 4</date></cell>
-				<cell>1&#45;&#58;&#45;</cell>
-				</row>
-				<row>
-				<cell><date>4</date></cell>
-				<cell>1&#45;&#58;&#45;</cell>
-				</row>
-				<row>
-				<cell><date>June 15</date></cell>
-				<cell>1</cell>
-				</row>
-				<row>
-				<cell><date>July 13</date></cell>
-				<cell>1.25</cell>
-				</row>
-				<row>
-				<cell><date>Augt 31</date></cell>
-				<cell>1</cell>
-				</row>
-				<row>
-				<cell><date>Octbr 4</date></cell>
-				<cell>67</cell>
-				</row>
-				<row>
-				<cell><add>&#63;</add></cell>
-				<cell>4.25</cell>
-				</row>
-				<row>
-				<cell><date>12</date></cell>
-				<cell>4.50</cell>
-				</row>
-				</table>
-				<table rows="4" cols="2">
-				<row>
-				<cell><persName>David Pesoa</persName></cell>
-				<cell/>
-				</row>
-				<row>
-				<cell><date>Novb 25</date></cell>
-				<cell>53</cell>
-				</row>
-				<row>
-				<cell><date>Dec 23</date></cell>
-				<cell>40</cell>
-				</row>
-				<row>
-				<cell><date>Sept 14.15</date></cell>
-				<cell>80</cell>
-				</row>
-				</table>
-				<p rend="Third column."></p>
-				<table rows="6" cols="2">
-				<row>
-				<cell><persName>Jos L Moss</persName></cell>
-				<cell/>
-				</row>
-				<row>
-				<cell><date>Novbr 25</date></cell>
-				<cell>1</cell>
-				</row>
-				<row>
-				<cell><date>Apr 4.5.6</date></cell>
-				<cell>3</cell>
-				</row>
-				<row>
-				<cell><date>Septr 7</date></cell>
-				<cell>2</cell>
-				</row>
-				<row>
-				<cell><date>14&#45;15</date></cell>
-				<cell>4</cell>
-				</row>
-				<row>
-				<cell><date>23&#45;24</date></cell>
-				<cell>2</cell>
-				</row>
-				</table>
-				<table rows="11" cols="3">
-				<row>
-				<cell><persName>D<add>&#63;</add>Juan Biel</persName></cell>
-				<cell/>
-				</row>
-				<row>
-				<cell><date>25 Novbr</date></cell>
-				<cell>27</cell>
-				</row>
-				<row>
-				<cell><date>9 Dec</date></cell>
-				<cell>27</cell>
-				</row>
-				<row>
-				<cell><date>23</date> do</cell>
-				<cell>14</cell>
-				</row>
-				<row>
-				<cell><date>24 febry</date></cell>
-				<cell>27</cell>
-				</row>
-				<row>
-				<cell><date>13 Ap</date></cell>
-				<cell>27</cell>
-				</row>
-				<row>
-				<cell><date>11 May</date></cell>
-				<cell>27</cell>
-				</row>
-				<row>
-				<cell><date>15 June</date></cell>
-				<cell>20</cell>
-				</row>
-				<row>
-				<cell><date>20 July</date></cell>
-				<cell>14</cell>
-				</row>
-				<row>
-				<cell><date>24 Aug</date></cell>
-				<cell>27</cell>
-				</row>
-				<row>
-				<cell><date>21 Sept</date></cell>
-				<cell>27</cell>
-				</row>
-				</table>
-				<table rows="5" cols="2">
-				<row>
-				<cell><persName>Aaron Myers</persName></cell>
-				<cell/>
-				</row>
-				<row>
-				<cell><date>Novbr 25</date></cell>
-				<cell>40</cell>
-				</row>
-				<row>
-				<cell><date>Dec 23</date></cell>
-				<cell>50</cell>
-				</row>
-				<row>
-				<cell><date>Ap 10&#45;11</date></cell>
-				<cell>75</cell>
-				</row>
-				<row>
-				<cell><date>27</date></cell>
-				<cell>25</cell>
-				</row>
-				</table>
-				<table rows="3" cols="2">
-				<row>
-				<cell><persName>John Moss</persName></cell>
-				<cell/>
-				</row>
-				<row>
-				<cell><date>Dec 2</date></cell>
-				<cell>5</cell>
-				</row>
-				<row>
-				<cell><add>&#63;</add><date>Sept 23</date></cell>
-				<cell>4</cell>
-				</row>
-				</table>
-				<p rend="Fourth column."></p>
-				<table rows="7" cols="2">
-				<row>
-				<cell><persName>Jacob Levy</persName></cell>
-				<cell/>
-				</row>
-				<row>
-				<cell><date>Decr 2</date></cell>
-				<cell>27</cell>
-				</row>
-				<row>
-				<cell><date>March</date></cell>
-				<cell>27</cell>
-				</row>
-				<row>
-				<cell><date>Apr 10&#38;11</date></cell>
-				<cell>50</cell>
-				</row>
-				<row>
-				<cell><date>May 18</date></cell>
-				<cell>27</cell>
-				</row>
-				<row>
-				<cell><date>June 29</date></cell>
-				<cell>50</cell>
-				</row>
-				<row>
-				<cell><date>July 27</date></cell>
-				<cell>27</cell>
-				</row>
-				</table>
-				<table rows="3" cols="2">
-				<row>
-				<cell><persName>Lazarus Arnold</persName></cell>
-				<cell/>
-				</row>
-				<row>
-				<cell><date>Decr 2</date></cell>
-				<cell>1.50</cell>
-				</row>
-				<row>
-				<cell><date>Ap 4.56</date></cell>
-				<cell>1.75</cell>
-				</row>
-				</table>
-				<table rows="6" cols="2">
-				<row>
-				<cell><persName>David Tobias</persName></cell>
-				<cell/>
-				</row>
-				<row>
-				<cell><date>Dec 2</date></cell>
-				<cell>67</cell>
-				</row>
-				<row>
-				<cell><date>March 8</date></cell>
-				<cell>53</cell>
-				</row>
-				<row>
-				<cell><date>April 10</date></cell>
-				<cell>14</cell>
-				</row>
-				<row>
-				<cell><date>13</date></cell>
-				<cell>27</cell>
-				</row>
-				<row>
-				<cell><date>May 11</date></cell>
-				<cell>27</cell>
-				</row>
-				</table>
-				<table rows="2" cols="2">
-				<row>
-				<cell><persName>Abm I Lutz</persName></cell>
-				<cell/>
-				</row>
-				<row>
-				<cell><date>Dec 2</date></cell>
-				<cell>&#36;1&#45;&#58;&#45;</cell>
-				</row>
-				</table>
-		</body>
-	</text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="unk"/>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>TCAT</repository>
+                        <collection>Anonymous</collection>
+                        <idno>LSTCAT_item132</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="unk"/>
+                        <addressee accepted="yes" attested="yes" editor="false"/>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="">March 1844</dateLet>
+                        <dateLet attested="yes" source="" when="">Adar 5604</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="il_tcat_item132_wk1_body0001.jpg"/>
+                                <graphic url="il_tcat_item132_wk1_body0002.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >print</material>
+                                </support>
+                                <extent>1 page on 2 sheets <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <p rend="align(center)"><placeName>PHILADELPHIA</placeName>, <date>ADAR5604,
+                    MARCH1844</date>.</p>
+            <p>Mr.</p>
+            <p>SIR,</p>
+            <p>
+                <hi rend="italics">A Stated Meeting of the <add>חברה של בקור חולים וגמילות
+                        חסדים</add> will<lb/> be held on <date>Sunday, the 4<hi rend="sup">th</hi>
+                        of Nissan, the 24<hi rend="sup">th</hi> of March</date>, at 10 o'clock, A.
+                    M., at the<lb/> Vestry Room of the Portuguese Congregation, in <placeName>Cherry
+                        Street</placeName>.</hi>
+            </p>
+            <p>BY ORDER OF THE PRESIDENT.</p>
+            <p><hi rend="italics">Secretary</hi>.</p>
+            <p><add>pointing hand symbol</add> Balloting for <persName>Messrs. Simon Weil</persName>
+                and <persName>Selig Hohenfels</persName>.</p>
+            <p rend="indent(1)">The following Amendments to the Constitution and By-Laws, laid on
+                the table at the last Stated Meeting, will<lb/> come up for action:</p>
+            <p rend="indent(1)">“The Committee for revising the Constitution and By-Laws beg leave
+                to offer the following additional Amend-<lb/>ments:</p>
+            <p rend="align(center)">AMENDMENTS TO CONSTITUTION.</p>
+            <p>ARTICLE IV. SECT. 1. Strike out after the world “and” “two,” and insert “four.”</p>
+            <p>ARTICLE XV. After the world “paying” strike out “six” and insert “eight.”</p>
+            <p rend="align(center)">AMENDMENTS TO BY-LAWS.</p>
+            <p rend="indent(1)">Make the first paragraph SECT. 1, and let those paragraphs now
+                marked <hi rend="italics">one</hi> to <hi rend="italics">nine</hi>, be subdivisions
+                of said SECT. 1,<lb/> and marked <hi rend="italics">a, b, c, d, e, f, g, h, </hi>and
+                    <hi rend="italics">i</hi>, respectively; and change the numbering of the
+                remaining sections to corre-<lb/>spond with this alteration: so SECT. 10 will be 2;
+                11, 3; 12, 4; 13, 5; and make SECT. 14 and 15 SECT. 6, to read<lb/> as follows:</p>
+            <p rend="indent(1)">“The Board shall at their first meeting after the annual election,
+                and oftener if occasion requires, draw the names<lb/> of the several members out of
+                a box, to be provided, for the purpose of performing the duties of the watch,
+                which<lb/> shall be as follows:</p>
+            <p rend="indent(1)">“From the first, &amp;c.”</p>
+            <p rend="indent(1)">Make SECT. 16, SECT. 7; SECT. 17, SECT. 8; SECT. 18, SECT. 9; and
+                strike out “and in the event of” till<lb/> “funeral.”</p>
+            <p rend="indent(1)">Make SECT. 19, SECT. 10, and let it read, “A messenger shall be
+                appointed by the Board at their first meeting<lb/> after the annual election, who
+                shall receive such salary as shall be fixed form time to time by them; he shall
+                give<lb/> satisfactory security to the Board, and shall perform all the duties
+                required of him.”</p>
+            <p rend="indent(1)">Make SECT. 20, SECT. 11, and add after the word “messenger” “if a
+                member.”</p>
+            <p rend="indent(1)">Make SECT. 21, SECT. 12; SECT. 22, SECT. 13, and alter so as to
+                read: “The Secretary shall make out the bills<lb/> and hand them to the Treasurer
+                for collection. He shall also record,” &amp;c.</p>
+            <p rend="indent(1)">Make SECT. 23, SECT. 14; SECT. 24, SECT. 15, and alter the whole so
+                as to read: “The Treasurer shall at each<lb/> and every annual meeting exhibit,”
+                &amp;c.</p>
+            <p rend="indent(1)">Make SECT. 25, SECT. 16; SECT. 26, SECT. 17; SECT. 27, SECT. 18;
+                SECT. 28, SECT. 19; SECT. 29, SECT. 20;<lb/> make a new SECT. 21, to read: “In case
+                of the death of a member, every member shall be charged 25 cents for<lb/> the use of
+                the Society.”</p>
+            <p rend="indent(1)">Make SECTS. 30, 31, and 32, SECT. 22, and let it read: “The
+                following fines shall be enforced by the Society, viz.”</p>
+            <p rend="indent(1)">Insert the present SECT. 30, next the present SECT. 32, and strike
+                out after “said duties” the words “after consent-<lb/>ing to serve,” after “serve”
+                in the next paragraph read “notice or attend on meeting,” after <add>מנין</add> read
+                “25 cents,<lb/> and should the,” &amp;c.</p>
+            <p rend="indent(1)">All which is respectfully submitted.</p>
+            <p rend="indent(8)"><persName>ISAAC LEESER</persName>, Chairman.</p>
+            <p rend="indent(8)"><persName>H. POLOCK</persName>.</p>
+            <p rend="indent(8)"><persName>D. PESOA</persName>.</p>
+            <p rend="indent(8)"><persName>HENRY M. PHILLIPS</persName>.</p>
+            <p rend="indent(8)"><persName>JOHN D. JACKSON</persName>.”</p>
+            <p><placeName>Philadelphia</placeName>, <date>Dec. 17<hi rend="sup">th</hi>,
+                5604</date>.</p>
+            <p rend="align(center)">SPECIAL AMENDMENTS PROPOSED BY MR.
+                <persName>LEESER</persName>.</p>
+            <p>ARTICLE IV. After the above amendment “four” add “who shall take the duties of the
+                office in rotation; and<lb/> the person who has been longest in office to be the
+                senior, or if elected at the same time, the one who has the largest<lb/> number of
+                votes, and if the vote be equal, seniority is to be decided by lot.”</p>
+            <p>ARTICLE XVII. SECT. 3. Strike out all after the word
+                    “<placeName>Philadelphia</placeName>.”</p>
+            <p>Strike out By-law 29.</p>
+            <p>Make a new section, “If the Board deem it requisite they may appoint an Assistant
+                Secretary, to whom they may<lb/> give a compensation not exceeding twenty dollars
+                per annum. Such Assistant Secretary need not be a member of<lb/> the Society.</p>
+            <p><add>pointing hand symbol</add>Please to compare this notice with the printed
+                Constitution in your possession, and bring it with you to the<lb/> meeting, that you
+                may vote understandingly upon every amendment proposed. Also endeavour not to be
+                absent from<lb/> the meeting, so that the full sense of the Society may be elicited
+                upon the foregoing amendments.</p>
+            <pb n="2"/>
+            <table cols="2" rows="7">
+                <row>
+                    <cell>
+                        <persName>David Solis</persName>
+                    </cell>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>
+                        <date>Novbr 25</date>
+                    </cell>
+                    <cell>1.50</cell>
+                </row>
+                <row>
+                    <cell>
+                        <date>Dec 2</date>
+                    </cell>
+                    <cell>.75</cell>
+                </row>
+                <row>
+                    <cell>
+                        <add>?</add>
+                        <date>Janry 27</date>
+                    </cell>
+                    <cell>1.40</cell>
+                </row>
+                <row>
+                    <cell>
+                        <date>March 23</date>
+                    </cell>
+                    <cell>.50</cell>
+                </row>
+                <row>
+                    <cell>
+                        <date>Aug 8</date>
+                    </cell>
+                    <cell>1.25</cell>
+                </row>
+                <row>
+                    <cell>
+                        <date>Sept. 21</date>
+                    </cell>
+                    <cell>1.50</cell>
+                </row>
+            </table>
+            <table cols="2" rows="18">
+                <row>
+                    <cell>
+                        <persName>Aaron Levy</persName>
+                    </cell>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>
+                        <date>Novbr 25</date>
+                    </cell>
+                    <cell>27</cell>
+                </row>
+                <row>
+                    <cell>
+                        <date>Dec 2</date>
+                    </cell>
+                    <cell>27</cell>
+                </row>
+                <row>
+                    <cell>
+                        <date>9</date>
+                    </cell>
+                    <cell>40</cell>
+                </row>
+                <row>
+                    <cell>
+                        <date>16</date>
+                    </cell>
+                    <cell>16</cell>
+                </row>
+                <row>
+                    <cell>
+                        <date>30</date>
+                    </cell>
+                    <cell>27</cell>
+                </row>
+                <row>
+                    <cell>
+                        <add>?</add>
+                        <date>Jan 13</date>
+                    </cell>
+                    <cell>14</cell>
+                </row>
+                <row>
+                    <cell>
+                        <date>—20</date>
+                    </cell>
+                    <cell>14</cell>
+                </row>
+                <row>
+                    <cell>
+                        <date>febry 3</date>
+                    </cell>
+                    <cell>27</cell>
+                </row>
+                <row>
+                    <cell>
+                        <date>—17</date>
+                    </cell>
+                    <cell>27</cell>
+                </row>
+                <row>
+                    <cell>
+                        <date>March 8</date>
+                    </cell>
+                    <cell>27</cell>
+                </row>
+                <row>
+                    <cell>
+                        <date>20</date>
+                    </cell>
+                    <cell>27</cell>
+                </row>
+                <row>
+                    <cell>
+                        <date>Ap 4-5</date>
+                    </cell>
+                    <cell>14</cell>
+                </row>
+                <row>
+                    <cell>
+                        <date>—27</date>
+                    </cell>
+                    <cell>27</cell>
+                </row>
+                <row>
+                    <cell>
+                        <date>May 4</date>
+                    </cell>
+                    <cell>14</cell>
+                </row>
+                <row>
+                    <cell>
+                        <date>18</date>
+                    </cell>
+                    <cell>27</cell>
+                </row>
+                <row>
+                    <cell>
+                        <date>24-25</date>
+                    </cell>
+                    <cell>40</cell>
+                </row>
+                <row>
+                    <cell>
+                        <date>June 22</date>
+                    </cell>
+                    <cell>27</cell>
+                </row>
+            </table>
+            <p rend="Second column."/>
+            <table cols="2" rows="3">
+                <row>
+                    <cell>
+                        <persName>Aaron Levy</persName>
+                    </cell>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>
+                        <date>Septr 7</date>
+                    </cell>
+                    <cell>80</cell>
+                </row>
+                <row>
+                    <cell/>
+                    <cell>
+                        <date>14-15</date>
+                    </cell>
+                </row>
+            </table>
+            <table cols="2" rows="14">
+                <row>
+                    <cell>
+                        <persName>Elias P Levy</persName>
+                    </cell>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>
+                        <date>Novb 25</date>
+                    </cell>
+                    <cell>40</cell>
+                </row>
+                <row>
+                    <cell>Dec 2</cell>
+                    <cell>53</cell>
+                </row>
+                <row>
+                    <cell>
+                        <date>- 30</date>
+                    </cell>
+                    <cell>1-:-</cell>
+                </row>
+                <row>
+                    <cell>18<add>?</add><date>febry 10</date></cell>
+                    <cell>1.20</cell>
+                </row>
+                <row>
+                    <cell>
+                        <date>March 23</date>
+                    </cell>
+                    <cell>75</cell>
+                </row>
+                <row>
+                    <cell>
+                        <date>May 4</date>
+                    </cell>
+                    <cell>1-:-</cell>
+                </row>
+                <row>
+                    <cell>
+                        <date>4</date>
+                    </cell>
+                    <cell>1-:-</cell>
+                </row>
+                <row>
+                    <cell>
+                        <date>June 15</date>
+                    </cell>
+                    <cell>1</cell>
+                </row>
+                <row>
+                    <cell>
+                        <date>July 13</date>
+                    </cell>
+                    <cell>1.25</cell>
+                </row>
+                <row>
+                    <cell>
+                        <date>Augt 31</date>
+                    </cell>
+                    <cell>1</cell>
+                </row>
+                <row>
+                    <cell>
+                        <date>Octbr 4</date>
+                    </cell>
+                    <cell>67</cell>
+                </row>
+                <row>
+                    <cell>
+                        <add>?</add>
+                    </cell>
+                    <cell>4.25</cell>
+                </row>
+                <row>
+                    <cell>
+                        <date>12</date>
+                    </cell>
+                    <cell>4.50</cell>
+                </row>
+            </table>
+            <table cols="2" rows="4">
+                <row>
+                    <cell>
+                        <persName>David Pesoa</persName>
+                    </cell>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>
+                        <date>Novb 25</date>
+                    </cell>
+                    <cell>53</cell>
+                </row>
+                <row>
+                    <cell>
+                        <date>Dec 23</date>
+                    </cell>
+                    <cell>40</cell>
+                </row>
+                <row>
+                    <cell>
+                        <date>Sept 14.15</date>
+                    </cell>
+                    <cell>80</cell>
+                </row>
+            </table>
+            <p rend="Third column."/>
+            <table cols="2" rows="6">
+                <row>
+                    <cell>
+                        <persName>Jos L Moss</persName>
+                    </cell>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>
+                        <date>Novbr 25</date>
+                    </cell>
+                    <cell>1</cell>
+                </row>
+                <row>
+                    <cell>
+                        <date>Apr 4.5.6</date>
+                    </cell>
+                    <cell>3</cell>
+                </row>
+                <row>
+                    <cell>
+                        <date>Septr 7</date>
+                    </cell>
+                    <cell>2</cell>
+                </row>
+                <row>
+                    <cell>
+                        <date>14-15</date>
+                    </cell>
+                    <cell>4</cell>
+                </row>
+                <row>
+                    <cell>
+                        <date>23-24</date>
+                    </cell>
+                    <cell>2</cell>
+                </row>
+            </table>
+            <table cols="3" rows="11">
+                <row>
+                    <cell>
+                        <persName>D<add>?</add>Juan Biel</persName>
+                    </cell>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>
+                        <date>25 Novbr</date>
+                    </cell>
+                    <cell>27</cell>
+                </row>
+                <row>
+                    <cell>
+                        <date>9 Dec</date>
+                    </cell>
+                    <cell>27</cell>
+                </row>
+                <row>
+                    <cell><date>23</date> do</cell>
+                    <cell>14</cell>
+                </row>
+                <row>
+                    <cell>
+                        <date>24 febry</date>
+                    </cell>
+                    <cell>27</cell>
+                </row>
+                <row>
+                    <cell>
+                        <date>13 Ap</date>
+                    </cell>
+                    <cell>27</cell>
+                </row>
+                <row>
+                    <cell>
+                        <date>11 May</date>
+                    </cell>
+                    <cell>27</cell>
+                </row>
+                <row>
+                    <cell>
+                        <date>15 June</date>
+                    </cell>
+                    <cell>20</cell>
+                </row>
+                <row>
+                    <cell>
+                        <date>20 July</date>
+                    </cell>
+                    <cell>14</cell>
+                </row>
+                <row>
+                    <cell>
+                        <date>24 Aug</date>
+                    </cell>
+                    <cell>27</cell>
+                </row>
+                <row>
+                    <cell>
+                        <date>21 Sept</date>
+                    </cell>
+                    <cell>27</cell>
+                </row>
+            </table>
+            <table cols="2" rows="5">
+                <row>
+                    <cell>
+                        <persName>Aaron Myers</persName>
+                    </cell>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>
+                        <date>Novbr 25</date>
+                    </cell>
+                    <cell>40</cell>
+                </row>
+                <row>
+                    <cell>
+                        <date>Dec 23</date>
+                    </cell>
+                    <cell>50</cell>
+                </row>
+                <row>
+                    <cell>
+                        <date>Ap 10-11</date>
+                    </cell>
+                    <cell>75</cell>
+                </row>
+                <row>
+                    <cell>
+                        <date>27</date>
+                    </cell>
+                    <cell>25</cell>
+                </row>
+            </table>
+            <table cols="2" rows="3">
+                <row>
+                    <cell>
+                        <persName>John Moss</persName>
+                    </cell>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>
+                        <date>Dec 2</date>
+                    </cell>
+                    <cell>5</cell>
+                </row>
+                <row>
+                    <cell>
+                        <add>?</add>
+                        <date>Sept 23</date>
+                    </cell>
+                    <cell>4</cell>
+                </row>
+            </table>
+            <p rend="Fourth column."/>
+            <table cols="2" rows="7">
+                <row>
+                    <cell>
+                        <persName>Jacob Levy</persName>
+                    </cell>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>
+                        <date>Decr 2</date>
+                    </cell>
+                    <cell>27</cell>
+                </row>
+                <row>
+                    <cell>
+                        <date>March</date>
+                    </cell>
+                    <cell>27</cell>
+                </row>
+                <row>
+                    <cell>
+                        <date>Apr 10&amp;11</date>
+                    </cell>
+                    <cell>50</cell>
+                </row>
+                <row>
+                    <cell>
+                        <date>May 18</date>
+                    </cell>
+                    <cell>27</cell>
+                </row>
+                <row>
+                    <cell>
+                        <date>June 29</date>
+                    </cell>
+                    <cell>50</cell>
+                </row>
+                <row>
+                    <cell>
+                        <date>July 27</date>
+                    </cell>
+                    <cell>27</cell>
+                </row>
+            </table>
+            <table cols="2" rows="3">
+                <row>
+                    <cell>
+                        <persName>Lazarus Arnold</persName>
+                    </cell>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>
+                        <date>Decr 2</date>
+                    </cell>
+                    <cell>1.50</cell>
+                </row>
+                <row>
+                    <cell>
+                        <date>Ap 4.56</date>
+                    </cell>
+                    <cell>1.75</cell>
+                </row>
+            </table>
+            <table cols="2" rows="6">
+                <row>
+                    <cell>
+                        <persName>David Tobias</persName>
+                    </cell>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>
+                        <date>Dec 2</date>
+                    </cell>
+                    <cell>67</cell>
+                </row>
+                <row>
+                    <cell>
+                        <date>March 8</date>
+                    </cell>
+                    <cell>53</cell>
+                </row>
+                <row>
+                    <cell>
+                        <date>April 10</date>
+                    </cell>
+                    <cell>14</cell>
+                </row>
+                <row>
+                    <cell>
+                        <date>13</date>
+                    </cell>
+                    <cell>27</cell>
+                </row>
+                <row>
+                    <cell>
+                        <date>May 11</date>
+                    </cell>
+                    <cell>27</cell>
+                </row>
+            </table>
+            <table cols="2" rows="2">
+                <row>
+                    <cell>
+                        <persName>Abm I Lutz</persName>
+                    </cell>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>
+                        <date>Dec 2</date>
+                    </cell>
+                    <cell>$1-:-</cell>
+                </row>
+            </table>
+        </body>
+    </text>
 </TEI>

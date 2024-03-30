@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
         <fileDesc>
             <titleStmt>
                 <title>[no title given]</title>
-                <author attested="yes" accepted="yes" signature="yes">Leeser, Isaac</author>
+                <author accepted="yes" attested="yes" signature="yes">Leeser, Isaac</author>
                 <editor/>
                 <sponsor/>
                 <funder/>
@@ -56,8 +58,8 @@
                     </msIdentifier>
                     <head/>
                     <letHeading>
-                        <author attested="yes" accepted="yes" signature="yes">Leeser, Isaac</author>
-                        <addressee editor="false" attested="yes" accepted="yes">Asch, Joseph
+                        <author accepted="yes" attested="yes" signature="yes">Leeser, Isaac</author>
+                        <addressee accepted="yes" attested="yes" editor="false">Asch, Joseph
                             M.</addressee>
                         <deliverer/>
                         <respStmt>
@@ -66,7 +68,7 @@
                         </respStmt>
                         <placeLet>Albany, NY</placeLet>
                         <placeRec>Philadelphia, PA</placeRec>
-                        <dateLet when="1854-07" source="" attested="yes">10 July 1840</dateLet>
+                        <dateLet attested="yes" source="" when="1854-07">10 July 1840</dateLet>
                     </letHeading>
                     <msContents>
                         <msItem>
@@ -235,32 +237,31 @@
     <text>
         <body>
             <pb n="1"/>
-            <p><addressee>Mr. Joseph M. Asch</addressee>
-                <placeName>Philadelphia</placeName>&#47; </p>
+            <p>Mr. <addressee>Joseph M. Asch</addressee>
+                <placeName>Philadelphia</placeName>/ </p>
             <p rend="indent(1)">When I came back to town last evening I understood that you should
-                have&#47; said&#44; that I had written a letter to <placeName>New York</placeName>
-                cautioning the people there against&#47; giving any thing to the congr. of seceders
-                of whom I have reason to believe that&#47; you are one. Now&#44; as I have not seen
-                you to speak with you for several weeks past&#44;&#47; it is impossible for you to
-                know any thing about my movements from your own&#47; knowledge&#44; even if I had
-                written such a letter&#44; which permit me to say I would&#47; have been as much
-                authorized to do&#44; as for you to go on to <placeName>New York</placeName> to beg
-                for&#47; a congr. which as yet exists only in imagination. But as I have written no
-                letters to&#47; <placeName>N. Y</placeName><hi rend="sup">o</hi>. except to <persName>Mr.
-                    Lyons</persName> the Haz. of the <add>&#63;</add> cong. in answer to a
-                friendly one&#47; from him&#44; and one to <persName> Mr. Kursheedt</persName> on
-                business relating to <persName>Mr. Nelson</persName>&#44; I demand&#47; of you the
-                name of the person who invented the falsehood and told it to you. For my&#47;
-                private letters I am not responsible to you&#44; or any one&#44; and I cannot
-                permit&#47; my name to be used any longer to answer the purposes of the seceders. I
-                would&#47; not have noticed the falsehood if it were the only one of its kind&#59;
-                but as I have&#47; been so often spoken of without cause I must insist upon your
-                disclosing the&#47; name of your informant to the bearer of this&#44;<persName>Mr.
-                     Sl. N. Carvalho</persName>.&#47; <placeName>Phila</placeName><hi
-                    rend="sup">a</hi>. Friday <date>July 10</date><hi rend="sup">th</hi>&#44;
+                have/ said, that I had written a letter to <placeName>New York</placeName>
+                cautioning the people there against/ giving any thing to the congr. of seceders of
+                whom I have reason to believe that/ you are one. Now, as I have not seen you to
+                speak with you for several weeks past,/ it is impossible for you to know any thing
+                about my movements from your own/ knowledge, even if I had written such a letter,
+                which permit me to say I would/ have been as much authorized to do, as for you to go
+                on to <placeName>New York</placeName> to beg for/ a congr. which as yet exists only
+                in imagination. But as I have written no letters to/ <placeName>N. Y</placeName><hi
+                    rend="sup">o</hi>. except to Mr. <persName>Lyons</persName> the Haz. of the
+                    <add>?</add> cong. in answer to a friendly one/ from him, and one to Mr.
+                    <persName>Kursheedt</persName> on business relating to Mr.
+                    <persName>Nelson</persName>, I demand/ of you the name of the person who
+                invented the falsehood and told it to you. For my/ private letters I am not
+                responsible to you, or any one, and I cannot permit/ my name to be used any longer
+                to answer the purposes of the seceders. I would/ not have noticed the falsehood if
+                it were the only one of its kind; but as I have/ been so often spoken of without
+                cause I must insist upon your disclosing the/ name of your informant to the bearer
+                of this, Mr. <persName>Sl. N. Carvalho</persName>./ <placeName>Phila</placeName><hi
+                    rend="sup">a</hi>. Friday <date>July 10</date><hi rend="sup">th</hi>,
                     <date>Tamuz 9</date><hi rend="sup">th</hi>
                 <date>5600</date></p>
-            <p rend="indent(6)"><persName role="author">Isaac Leeser</persName>.&#47; </p>
+            <p rend="indent(6)"><persName role="author">Isaac Leeser</persName>./ </p>
         </body>
     </text>
 </TEI>

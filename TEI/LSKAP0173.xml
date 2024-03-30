@@ -1,258 +1,331 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="yes">Leeser, Isaac</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>LSKAP</repository>
-						<collection>The Arnold and Deanne Kaplan Collection of Early American Judaica</collection>
-						<idno>LSKAP0173</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="yes">Leeser, Isaac</author>
-						<addressee editor="false" attested="yes" accepted="yes">Rehine, Zalma</addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>Philadelphia, PA</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1837-03" source="" attested="yes">March 27, 1837</dateLet>
-						<dateLet when="1837-03" source="" attested="yes">Adar 20, 5597</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="LSKAP0173_1r.jpg"></graphic>
-								<graphic url="LSKAP0173_1v.jpg"></graphic>
-								<graphic url="LSKAP0173_2r.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="false" paper_type="" size="">letter</material>
-								</support>
-								<extent>4 pages on 2 sheets
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="manuscript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="restricted">
-								<p>Restricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1R"/>
-				<p rend="align(right)"><placeName>Philadelphia</placeName> <date>March 27<hi rend="sup">th</hi>. Adar 20<hi rend="sup">th</hi>&#58; 5597</date></p>
-			<p rend="indent(1)">Dear Uncle.</p>
-			<p rend="indent(2)">Your letter of <date>Monday</date> satisfied me that you were<lb/> better&#59; but the one you wrote on <date>Wednesday</date> completely satisfied<lb/> me&#44; that you were recovering&#44; and your spirits were good&#44;<lb/> better even than usual.  I almost flatter myself&#44; that<lb/> my book contributed something to that result&#44; if so&#44; I really<lb/> must <sic>thinke</sic> it one of the most desirable results it<lb/> could have.  I am much indebted to <persName>Mr. Cohen</persName> for his<lb/> considerate kindness in handing the paper to you&#44; and it proves that<lb/> his friendliness towards me has not abated.  Have the goodness to<lb/> express to him my sense of obligation for his firm support he<lb/> always extended to me in my <add>&#63;</add> <sic>enterprizes</sic>&#44; and assure<lb/> him&#44; that I am rejoiced&#44; that a  judicious man like himself<lb/> has not found reason to abate of his support&#44; which he once<lb/> extended.  There is so little to cheer me on&#44; that such appro&#45;<lb/>bation is doubly<add>&#63;</add> valuable.&#95; I would write to him myself&#44; but<lb/> I have heard of no opportunity&#44; and it is almost useless to<lb/> write by mail&#44; when I have you&#44; to speak for me.&#95;&#95;The whole<lb/> of the contents of your letter are noted&#44; and I return my<lb/> sincere thanks for the expression of your good will&#44; and I<lb/> trust&#44; that the result may not disappoint us.</p>
-				<p>I send you&#44; to the care of <persName>David Judah</persName>&#44; thirty copies of the<lb/> Discourses&#59; they are sent in a box which my printers<lb/> have d&#39;spatched to <persName>Mr. Herman</persName> Bookseller&#44; in <placeName>Market near<lb/> North Street</placeName>.  I expect he will charge 50&#162; freight.  <persName>Mr. Judah</persName></p>
-			<pb n="1V"/>
-				<p>may inquire for them by <date>Wednesday</date> or <date>Thursday</date>&#44; when I expect&#44; they will<lb/> have been received.  When I mentioned in one of my letters that the<lb/> Editor of the Patriot <sic>notice</sic> it&#44; I neglected to mention the manner<lb/> in which it might be done.  <persName>Mr. Judah</persName>&#44; who in all likelihood knows<lb/> <persName>Mr. Minroe</persName>&#44; might take a copy to him as a <hi rend="underline">present</hi>&#44; editors other&#95;<lb/>wise cannot speak&#44; and request him to read it.  It is highly probable<lb/> that he will notice it.  You might have half a dozen placed at some<lb/> bookstore&#59; they will charge a commission for selling&#44; but that need<lb/> not be minded&#44; if a few could thereby be made to circulate among<lb/>. the Goyim&#44; particularly the ministers&#44; who may not altogether relish<lb/> to find sounder doctrines among us&#44; than they give us credit for.&#95;&#95;<lb/>  However you may do as you please.&#95;&#95;Perhaps it might also be advi&#45;<lb/>sable to have a copy sent to <persName>Mr. J. H. Phesants</persName> to <placeName>Richmond</placeName>&#59;<lb/> but you &#38; <persName>Mr. Judah</persName> must judge of that between yourselves&#44;<lb/> I myself do not like to write to Editors&#44; it looks&#44; and would<lb/> in fact be&#44; like fishing for compliments&#59;&#8212;but if friends do it&#44; it is<lb/> quite another thing.&#95;</p>
-			<p rend="indent(1)">I was sorry to hear last week&#44; that <persName>Mr. Jude</persName> was dead.  I heard<lb/> it from <persName>Rebecca Ansel</persName>.&#95;</p>
-			<p rend="indent(1)">It grieves me to hear so much blame attached to Jews<lb/> for the recent failures.  <persName>Herman</persName>&#44; you think&#44; is now called a Jew&#33;<lb/>  he is married to a Goya&#44; his children are Goyim&#44; his partners<lb/> are Goyim&#33;  It is also bad&#59; so much for liberality&#33;  So much more necessi&#45;<lb/>ty for diffusing a knowledge of our religion abroad&#44; &#38; show&#44; that rogue&#95;<lb/>ry is not belonging to our creed.  Another house&#44; deeply connected with<lb/> <placeName>New Orleans</placeName> has failed here&#44; <persName>Jackson&#44; Riddle &#38; Co.</persName>&#44; they are no Jews&#59;<lb/> the only Jews that are gone here are <persName>Isaac Phillips</persName> &#38; <persName>Joseph L<add>&#63;</add> Moss</persName>&#59;<lb/> particulars have not come to my knowledge I do not like to ask.</p>
-			<pb n="2R"/>
-				<p>News of any other sort are very rare here.&#95;&#95;There was a fireman&#39;s parade<lb/> today &#38; I did not see it all.&#95;  Our Synagogue since its repairs is<lb/> much improved in appearance&#59; painting are other alterations has<lb/> also improved the sound.&#95;&#95;You have I can imagine here large a number<lb/> of people inquire about you&#59; everyone seemed concerned to hear of<lb/> your illness &#38; your recovery too delightell<add>&#63;</add>&#58;</p>
-			<p rend="indent(1)">Give my best regards to <persName>Aunt R.</persName> <persName>Mrs DePass</persName>&#44; <persName>Messrs<lb/> Judah</persName> &#38; <persName>Block</persName> &#38; the young ladies.</p>
-			<p rend="indent(1)">Command my services whenever you desire them<lb/> and remember occasionally</p>
-			<p rend="indent(6)">Your obt. Nephew</p>
-			<p rend="indent(6)"><persName role="author">Isaac Lees</persName></p>
-				<p><persName>Misses Rachel</persName> &#38; <persName>Simha Peixotto</persName> &#38; <persName>B. <add>&#63;</add></persName> desire<lb/> their love to you &#38; <persName>Aunt Rehine</persName>.&#95;&#95;&#95;</p>
-			<p rend="indent(1)">The desire also to be remembered to <persName>Abby</persName> &#38; <persName>D. Judah</persName>&#44;<lb/> and the rest of the family&#44; especially  <persName>Mr. DeP.</persName> From <persName>Mrss S C.P.</persName></p>
-				<p>Tell <persName>Mr Cohen</persName> that I am rejoiced at his mother&#39;s recovery&#44;<lb/> and that it may be an earnest of further prospering<add>&#63;</add> to their<lb/> family.&#8212;</p>
-		</body>
-	</text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="yes">Leeser, Isaac</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>LSKAP</repository>
+                        <collection>The Arnold and Deanne Kaplan Collection of Early American
+                            Judaica</collection>
+                        <idno>LSKAP0173</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="yes">Leeser, Isaac</author>
+                        <addressee accepted="yes" attested="yes" editor="false">Rehine,
+                            Zalma</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Philadelphia, PA</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1837-03">March 27, 1837</dateLet>
+                        <dateLet attested="yes" source="" when="1837-03">Adar 20, 5597</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="LSKAP0173_1r.jpg"/>
+                                <graphic url="LSKAP0173_1v.jpg"/>
+                                <graphic url="LSKAP0173_2r.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >letter</material>
+                                </support>
+                                <extent>4 pages on 2 sheets <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="restricted">
+                                <p>Restricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1R"/>
+            <p rend="align(right)">
+                <placeName>Philadelphia</placeName>
+                <date>March 27<hi rend="sup">th</hi>. Adar 20<hi rend="sup">th</hi>: 5597</date>
+            </p>
+            <p rend="indent(1)">Dear Uncle.</p>
+            <p rend="indent(2)">Your letter of <date>Monday</date> satisfied me that you were<lb/>
+                better; but the one you wrote on <date>Wednesday</date> completely satisfied<lb/>
+                me, that you were recovering, and your spirits were good,<lb/> better even than
+                usual. I almost flatter myself, that<lb/> my book contributed something to that
+                result, if so, I really<lb/> must <sic>thinke</sic> it one of the most desirable
+                results it<lb/> could have. I am much indebted to <persName>Mr. Cohen</persName> for
+                his<lb/> considerate kindness in handing the paper to you, and it proves that<lb/>
+                his friendliness towards me has not abated. Have the goodness to<lb/> express to him
+                my sense of obligation for his firm support he<lb/> always extended to me in my
+                    <add>?</add>
+                <sic>enterprizes</sic>, and assure<lb/> him, that I am rejoiced, that a judicious
+                man like himself<lb/> has not found reason to abate of his support, which he
+                once<lb/> extended. There is so little to cheer me on, that such appro-<lb/>bation
+                is doubly<add>?</add> valuable._ I would write to him myself, but<lb/> I have heard
+                of no opportunity, and it is almost useless to<lb/> write by mail, when I have you,
+                to speak for me.__The whole<lb/> of the contents of your letter are noted, and I
+                return my<lb/> sincere thanks for the expression of your good will, and I<lb/>
+                trust, that the result may not disappoint us.</p>
+            <p>I send you, to the care of <persName>David Judah</persName>, thirty copies of
+                the<lb/> Discourses; they are sent in a box which my printers<lb/> have d'spatched
+                to <persName>Mr. Herman</persName> Bookseller, in <placeName>Market near<lb/> North
+                    Street</placeName>. I expect he will charge 50¢ freight. <persName>Mr.
+                    Judah</persName></p>
+            <pb n="1V"/>
+            <p>may inquire for them by <date>Wednesday</date> or <date>Thursday</date>, when I
+                expect, they will<lb/> have been received. When I mentioned in one of my letters
+                that the<lb/> Editor of the Patriot <sic>notice</sic> it, I neglected to mention the
+                manner<lb/> in which it might be done. <persName>Mr. Judah</persName>, who in all
+                likelihood knows<lb/>
+                <persName>Mr. Minroe</persName>, might take a copy to him as a <hi rend="underline"
+                    >present</hi>, editors other_<lb/>wise cannot speak, and request him to read it.
+                It is highly probable<lb/> that he will notice it. You might have half a dozen
+                placed at some<lb/> bookstore; they will charge a commission for selling, but that
+                need<lb/> not be minded, if a few could thereby be made to circulate among<lb/>. the
+                Goyim, particularly the ministers, who may not altogether relish<lb/> to find
+                sounder doctrines among us, than they give us credit for.__<lb/> However you may do
+                as you please.__Perhaps it might also be advi-<lb/>sable to have a copy sent to
+                    <persName>Mr. J. H. Phesants</persName> to <placeName>Richmond</placeName>;<lb/>
+                but you &amp; <persName>Mr. Judah</persName> must judge of that between
+                yourselves,<lb/> I myself do not like to write to Editors, it looks, and would<lb/>
+                in fact be, like fishing for compliments;—but if friends do it, it is<lb/> quite
+                another thing._</p>
+            <p rend="indent(1)">I was sorry to hear last week, that <persName>Mr. Jude</persName>
+                was dead. I heard<lb/> it from <persName>Rebecca Ansel</persName>._</p>
+            <p rend="indent(1)">It grieves me to hear so much blame attached to Jews<lb/> for the
+                recent failures. <persName>Herman</persName>, you think, is now called a Jew!<lb/>
+                he is married to a Goya, his children are Goyim, his partners<lb/> are Goyim! It is
+                also bad; so much for liberality! So much more necessi-<lb/>ty for diffusing a
+                knowledge of our religion abroad, &amp; show, that rogue_<lb/>ry is not belonging to
+                our creed. Another house, deeply connected with<lb/>
+                <placeName>New Orleans</placeName> has failed here, <persName>Jackson, Riddle &amp;
+                    Co.</persName>, they are no Jews;<lb/> the only Jews that are gone here are
+                    <persName>Isaac Phillips</persName> &amp; <persName>Joseph L<add>?</add>
+                    Moss</persName>;<lb/> particulars have not come to my knowledge I do not like to
+                ask.</p>
+            <pb n="2R"/>
+            <p>News of any other sort are very rare here.__There was a fireman's parade<lb/> today
+                &amp; I did not see it all._ Our Synagogue since its repairs is<lb/> much improved
+                in appearance; painting are other alterations has<lb/> also improved the sound.__You
+                have I can imagine here large a number<lb/> of people inquire about you; everyone
+                seemed concerned to hear of<lb/> your illness &amp; your recovery too
+                    delightell<add>?</add>:</p>
+            <p rend="indent(1)">Give my best regards to <persName>Aunt R.</persName>
+                <persName>Mrs DePass</persName>, <persName>Messrs<lb/> Judah</persName> &amp;
+                    <persName>Block</persName> &amp; the young ladies.</p>
+            <p rend="indent(1)">Command my services whenever you desire them<lb/> and remember
+                occasionally</p>
+            <p rend="indent(6)">Your obt. Nephew</p>
+            <p rend="indent(6)">
+                <persName role="author">Isaac Lees</persName>
+            </p>
+            <p><persName>Misses Rachel</persName> &amp; <persName>Simha Peixotto</persName> &amp;
+                    <persName>B. <add>?</add></persName> desire<lb/> their love to you &amp;
+                    <persName>Aunt Rehine</persName>.___</p>
+            <p rend="indent(1)">The desire also to be remembered to <persName>Abby</persName> &amp;
+                    <persName>D. Judah</persName>,<lb/> and the rest of the family, especially
+                    <persName>Mr. DeP.</persName> From <persName>Mrss S C.P.</persName></p>
+            <p>Tell <persName>Mr Cohen</persName> that I am rejoiced at his mother's recovery,<lb/>
+                and that it may be an earnest of further prospering<add>?</add> to their<lb/>
+                family.—</p>
+        </body>
+    </text>
 </TEI>

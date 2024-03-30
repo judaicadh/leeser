@@ -1,248 +1,289 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="unk"></author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>TCAT</repository>
-						<collection>Anonymous</collection>
-						<idno>LSTCAT_item179</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="unk"></author>
-						<addressee editor="true" attested="yes" accepted="yes">the Editor of the Asmonean</addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet></placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="" source="" attested="unk"></dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="il_tcat_item179_wk1_body0001.jpg"></graphic>
-								<graphic url="il_tcat_item179_wk1_body0002.jpg"></graphic>
-								<graphic url="il_tcat_item179_wk1_body0003.jpg"></graphic>
-								<graphic url="il_tcat_item179_wk1_body0004.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="false" paper_type="" size="">letter</material>
-								</support>
-								<extent>1 page on 4 sheets
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="manuscript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="free">
-								<p>Unrestricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-				<p rend="align(center)">The <persName>Revd Isaac Leeser</persName>&#44; and the <persName>Revd Solomon Jacobs</persName></p>
-				<p>To the Editor of the Asmonean.</p>
-			<p rend="indent(1)">Presuming Sir&#44; that as an editor of a Journal<lb/> claiming to be impartial&#44; you open your columns for replies to articles appearing<lb/> in them&#44; I will make a few remarks on the unwarrantable attack upon the <persName>rev I<lb/> Leeser</persName> which your last paper contained.</p>
-				<p>Unwarrantable&#44; for no dispassionate reader could construe the remarks in the Occident&#44;<lb/> complained of by <persName>Mr Jacobs</persName>&#44; as unfavorable or unfriendly to him&#58; whilst the letter of <persName>Mr Jacobs</persName><lb/> is imbued with a spirit that will certainly elevate&#40;&#63;&#41; that <sic>gentlemans</sic> renown as a minster and<lb/> prove him to be a lover indeed of the principles of Judaism.</p>
-				<p>A difference of opinion gives no cause for offense&#59; and although <persName>Mr Jacobs</persName> may deem that<lb/> &#8220;<hi rend="underline">according to the pure and literal version</hi>&#42; of the <sic>hebrew</sic> text <add>Hebrew</add>&#8221; I will be with<lb/> them now that which I will be unto them hereafter&#8221; the most expressive of the meaning<lb/> of the passage&#44; yet there may be others who think that a simple declaration as more<lb/> consonant with the <sic>atributes</sic> of a Being who declares &#8220;I will be&#44;&#8221; because I am superior<lb/> to all other power &#8220;that I will be&#44;&#8221; because I exist eternally by and through my own<lb/> will&#59; but all other beings exist through my will&#44; not by their own innate power.<lb/>  But I leave the elucidation of this passage to the <sic>bibical</sic> scholar&#59; as to the discourse&#44; it would<lb/> be presumptuous in me to attempt to review it.  A <persName>Blair</persName> or an <persName>Allison</persName>&#8212;a <persName>Johnson</persName> or a<lb/> <persName>Walker</persName> might stand <sic>agast</sic> at so difficult an undertaking.  Pray what Country has the<lb/> honor of claiming for her son this profound scholars&#63; in what college do they teach such<lb/> eloquence and such wisdom as he possesses&#63;  Perhaps it is useless to inquire&#44; for one age can<lb/> produce but one great man.  But ye Ministers of <placeName>America</placeName>&#33;  how trembles as the thunders<lb/> of the Occident &#40;notwithstanding its editors&#39; jealousy of your talents&#44; your sermons have often<lb/> greeted us from its pages&#41;&#44; how you must rejoice that this literary <persName>Sampson</persName> has come to your<lb/> rescue.  He will fight all your battles&#44; and you may now lift up your brows to the free<lb/> light of heaven&#44; unshrinkingly and unappalled.  Mourn their gem of the <placeName>Atlantic</placeName> at<lb/> the loss of that effulgent genius who shed his rays over thy ever&#45;green Isle&#33; but thanks<lb/> to thee&#44; thanks to thee&#33; the minister and laymen of <placeName>America</placeName> will shew they how well they<lb/> can appreciate the transcendent mortal thou has sent to their shores.</p>
-			<p rend="indent(8)"><add>Hebrew</add></p>
-				<p>&#42;Page 5 of his sermon</p>
-				<p>&#42; a <persName><add>&#63;</add> Jacobs</persName> does not use italics.</p>
-		</body>
-	</text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="unk"/>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>TCAT</repository>
+                        <collection>Anonymous</collection>
+                        <idno>LSTCAT_item179</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="unk"/>
+                        <addressee accepted="yes" attested="yes" editor="true">the Editor of the
+                            Asmonean</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet/>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="unk" source="" when=""/>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="il_tcat_item179_wk1_body0001.jpg"/>
+                                <graphic url="il_tcat_item179_wk1_body0002.jpg"/>
+                                <graphic url="il_tcat_item179_wk1_body0003.jpg"/>
+                                <graphic url="il_tcat_item179_wk1_body0004.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >letter</material>
+                                </support>
+                                <extent>1 page on 4 sheets <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p rend="align(center)">The <persName>Revd Isaac Leeser</persName>, and the
+                    <persName>Revd Solomon Jacobs</persName></p>
+            <p>To the Editor of the Asmonean.</p>
+            <p rend="indent(1)">Presuming Sir, that as an editor of a Journal<lb/> claiming to be
+                impartial, you open your columns for replies to articles appearing<lb/> in them, I
+                will make a few remarks on the unwarrantable attack upon the <persName>rev I<lb/>
+                    Leeser</persName> which your last paper contained.</p>
+            <p>Unwarrantable, for no dispassionate reader could construe the remarks in the
+                Occident,<lb/> complained of by <persName>Mr Jacobs</persName>, as unfavorable or
+                unfriendly to him: whilst the letter of <persName>Mr Jacobs</persName><lb/> is
+                imbued with a spirit that will certainly elevate(?) that <sic>gentlemans</sic>
+                renown as a minster and<lb/> prove him to be a lover indeed of the principles of
+                Judaism.</p>
+            <p>A difference of opinion gives no cause for offense; and although <persName>Mr
+                    Jacobs</persName> may deem that<lb/> “<hi rend="underline">according to the pure
+                    and literal version</hi>* of the <sic>hebrew</sic> text <add>אהיה אשר
+                אהיה</add>” I will be with<lb/> them now that which I will be unto them hereafter”
+                the most expressive of the meaning<lb/> of the passage, yet there may be others who
+                think that a simple declaration as more<lb/> consonant with the <sic>atributes</sic>
+                of a Being who declares “I will be,” because I am superior<lb/> to all other power
+                “that I will be,” because I exist eternally by and through my own<lb/> will; but all
+                other beings exist through my will, not by their own innate power.<lb/> But I leave
+                the elucidation of this passage to the <sic>bibical</sic> scholar; as to the
+                discourse, it would<lb/> be presumptuous in me to attempt to review it. A
+                    <persName>Blair</persName> or an <persName>Allison</persName>—a
+                    <persName>Johnson</persName> or a<lb/>
+                <persName>Walker</persName> might stand <sic>agast</sic> at so difficult an
+                undertaking. Pray what Country has the<lb/> honor of claiming for her son this
+                profound scholars? in what college do they teach such<lb/> eloquence and such wisdom
+                as he possesses? Perhaps it is useless to inquire, for one age can<lb/> produce but
+                one great man. But ye Ministers of <placeName>America</placeName>! how trembles as
+                the thunders<lb/> of the Occident (notwithstanding its editors' jealousy of your
+                talents, your sermons have often<lb/> greeted us from its pages), how you must
+                rejoice that this literary <persName>Sampson</persName> has come to your<lb/>
+                rescue. He will fight all your battles, and you may now lift up your brows to the
+                free<lb/> light of heaven, unshrinkingly and unappalled. Mourn their gem of the
+                    <placeName>Atlantic</placeName> at<lb/> the loss of that effulgent genius who
+                shed his rays over thy ever-green Isle! but thanks<lb/> to thee, thanks to thee! the
+                minister and laymen of <placeName>America</placeName> will shew they how well
+                they<lb/> can appreciate the transcendent mortal thou has sent to their shores.</p>
+            <p rend="indent(8)">
+                <add>אמת</add>
+            </p>
+            <p>*Page 5 of his sermon</p>
+            <p>* a <persName><add>?</add> Jacobs</persName> does not use italics.</p>
+        </body>
+    </text>
 </TEI>

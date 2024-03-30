@@ -1,263 +1,292 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE TEI [
-<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
-%teibase;
-<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
-%teiext;
-]>
-<TEI>
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="yes">Mayer, A. L.</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>TCAT</repository>
-						<collection>Anonymous</collection>
-						<idno>LSTCAt_item110</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="yes">Mayer, A. L.</author>
-						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac</addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>Easton, PA</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1863-01" source="" attested="yes">January 30, 1863</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="il_tcat_item110_wk1_body0001.jpg"></graphic>
-								<graphic url="il_tcat_item110_wk1_body0002.jpg"></graphic>
-								<graphic url="il_tcat_item110_wk1_body0003.jpg"></graphic>
-								<graphic url="il_tcat_item110_wk1_body0004.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="false" paper_type="" size="">letter</material>
-								</support>
-								<extent>4 pages on 2 sheets
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="manuscript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="free">
-								<p>Unrestricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="de">German</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1"/>
-			<p rend="indent(1)">Sehr geehrter <addressee>Herr Leeser</addressee>&#33;</p>
-				<p>Meine Vorhaben gem&#228;&#223; konnte ich aus Mangel an Zeit nach<lb/> nicht entsprechen&#44; und werden mal<add>&#63;</add> noch einige Wehre vergehe<lb/> n<add>&#63;</add>ssen&#44; bis dieser mein W&#252;nsch verli<add>&#63;</add>rt werden d&#252;rfte.</p>
-			<p rend="indent(1)">Hieraus erlaube mir&#44; Ihnen ein Predigt&#44; die ich vor<lb/> einem gemischten <sic>Publicum</sic> gefalten&#44; zu &#252;bermachen&#44; es k&#246;nnte<lb/> diese Ihren <add>&#63;</add>eifel vielleicht <add>&#63;</add>ndten und es der M&#228;he <add>&#63;</add><lb/> halten&#44; dieselbe in Ihre Zeitschrift aufzunehmen.<lb/>  Eine nach andere Rede&#44; die ich am <add>&#63;</add> gehalten&#44;<lb/> holen ich &#190; erst aufgesetzt&#44; weit ich leider zu oft deren<lb/> gest&#246;rt wurde.  Ich werde dieselbe selbst mitbringen und<lb/> Sie lesen lassen&#59; denn sie es ganz vom <add>&#63;</add> <add>&#63;</add>ischen<lb/> Standpunkte bearbeitet.</p>
-				<p>Jedem ich Ihren hasten Empfang w&#252;nsche&#44; bitte<lb/> Sie gleich zeitig die &#252;brigen <persName>Herrn Col<add>&#63;</add></persName> <add>&#63;</add> meinen<lb/> freundl. Gr&#252;&#223; zu sagen&#44; und feier Sie versichert meiner</p>
-			<p rend="indent(6)">hochrichtung</p>
-			<p rend="indent(7)"><persName role="author">A. L. Mayer</persName></p>
-				<p>NB. Bitte Einlage gef. An den<lb/> Adressaten gelanger zu lassen.</p>
-				<p><placeName>Easton</placeName>&#44; <date>30&#47;1 63</date>.</p>
-				<p rend="align(center)"><hi rend="underline">Verse</hi></p>
-			<pb n="3"/>
-				<p>P. S. Wegen der mir so l&#228;stigen <add>Hebrew</add> kam ich<lb/> bei der so kurzen Tagen nicht abkommen&#44; sende Ihren<lb/> de&#223;halb &#36;2&#44; welche ich Ihnen f&#252;r die mir gesendete<lb/> Zeitschrift schulde.</p>
-				<p>Sollte Ihnen etwas von einer guten Stelle f&#252;r<lb/> mich vorkomme&#44; so bitte an mich denken zu wollen&#44;<lb/> der mein Vorhaben ist bis <add>Hebrew</add> von hier abzuziehen.</p>
-			<p rend="indent(1)">Auch wellte<add>&#63;</add> ich die Anfrage an die Stellen&#58;<lb/> Ich habe einen ausgezeichneten Cours&#44; als Fortsetzung von<lb/> Ahns erstem Cours der franz. Sprache&#44; resp. Grammatik<lb/> noch der calculirenden<add>&#63;</add> Methode umgearbeitet und f&#252;r<lb/> deren reste Bearbeitung ich vor etwa 6 Jahren immer sch&#246;nen<lb/> Preis erhielt.  Diese <add>&#63;</add> Arl<add>&#63;</add> bei ich <add>&#63;</add>s zu ver&#44;<lb/>prufen&#44; wurde ich in <placeName>Philad.</placeName> einen R&#228;ucher finden&#63;  Oder&#44;<lb/> wenn dieses nicht der Fall w&#228;re&#44; so k&#246;nnte von die <add>&#63;</add>tsche<lb/> Aufgeben u. Regel ins englische &#252;bertragen und dann mal<lb/> eher einen laschen erhalten.  Wenn dies w&#252;nschen&#44; werde<lb/> ich Ihnen einen Bogen als Probe zukommen lassen und<lb/> bin ich der zuversichtlichen <add>&#63;</add>&#44; da&#223; dieser Gr<add>&#63;</add><lb/> auch Ihren Beifall <add>&#63;</add> wird.  <persName>D. O.</persName></p>
-			<pb n="4"/>
-				<p rend="align(center)"><addressee>Rev. I. Leeser</addressee></p>
-		</body>
-	</text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="yes">Mayer, A. L.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>TCAT</repository>
+                        <collection>Anonymous</collection>
+                        <idno>LSTCAt_item110</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="yes">Mayer, A. L.</author>
+                        <addressee accepted="yes" attested="yes" editor="false">Leeser,
+                            Isaac</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Easton, PA</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1863-01">January 30, 1863</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="il_tcat_item110_wk1_body0001.jpg"/>
+                                <graphic url="il_tcat_item110_wk1_body0002.jpg"/>
+                                <graphic url="il_tcat_item110_wk1_body0003.jpg"/>
+                                <graphic url="il_tcat_item110_wk1_body0004.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >letter</material>
+                                </support>
+                                <extent>4 pages on 2 sheets <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="de">German</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <p rend="indent(1)">Sehr geehrter <addressee>Herr Leeser</addressee>!</p>
+            <p>Meine Vorhaben gemäß konnte ich aus Mangel an Zeit nach<lb/> nicht entsprechen, und
+                werden mal<add>?</add> noch einige Wehre vergehe<lb/> n<add>?</add>ssen, bis dieser
+                mein Wünsch verli<add>?</add>rt werden dürfte.</p>
+            <p rend="indent(1)">Hieraus erlaube mir, Ihnen ein Predigt, die ich vor<lb/> einem
+                gemischten <sic>Publicum</sic> gefalten, zu übermachen, es könnte<lb/> diese Ihren
+                    <add>?</add>eifel vielleicht <add>?</add>ndten und es der Mähe <add>?</add><lb/>
+                halten, dieselbe in Ihre Zeitschrift aufzunehmen.<lb/> Eine nach andere Rede, die
+                ich am <add>?</add> gehalten,<lb/> holen ich ¾ erst aufgesetzt, weit ich leider zu
+                oft deren<lb/> gestört wurde. Ich werde dieselbe selbst mitbringen und<lb/> Sie
+                lesen lassen; denn sie es ganz vom <add>?</add>
+                <add>?</add>ischen<lb/> Standpunkte bearbeitet.</p>
+            <p>Jedem ich Ihren hasten Empfang wünsche, bitte<lb/> Sie gleich zeitig die übrigen
+                    <persName>Herrn Col<add>?</add></persName>
+                <add>?</add> meinen<lb/> freundl. Grüß zu sagen, und feier Sie versichert meiner</p>
+            <p rend="indent(6)">hochrichtung</p>
+            <p rend="indent(7)">
+                <persName role="author">A. L. Mayer</persName>
+            </p>
+            <p>NB. Bitte Einlage gef. An den<lb/> Adressaten gelanger zu lassen.</p>
+            <p><placeName>Easton</placeName>, <date>30/1 63</date>.</p>
+            <p rend="align(center)">
+                <hi rend="underline">Verse</hi>
+            </p>
+            <pb n="3"/>
+            <p>P. S. Wegen der mir so lästigen <add>שחיטה</add> kam ich<lb/> bei der so kurzen Tagen
+                nicht abkommen, sende Ihren<lb/> deßhalb $2, welche ich Ihnen für die mir
+                gesendete<lb/> Zeitschrift schulde.</p>
+            <p>Sollte Ihnen etwas von einer guten Stelle für<lb/> mich vorkomme, so bitte an mich
+                denken zu wollen,<lb/> der mein Vorhaben ist bis <add>ח' דפסח</add> von hier
+                abzuziehen.</p>
+            <p rend="indent(1)">Auch wellte<add>?</add> ich die Anfrage an die Stellen:<lb/> Ich
+                habe einen ausgezeichneten Cours, als Fortsetzung von<lb/> Ahns erstem Cours der
+                franz. Sprache, resp. Grammatik<lb/> noch der calculirenden<add>?</add> Methode
+                umgearbeitet und für<lb/> deren reste Bearbeitung ich vor etwa 6 Jahren immer
+                schönen<lb/> Preis erhielt. Diese <add>?</add> Arl<add>?</add> bei ich <add>?</add>s
+                zu ver,<lb/>prufen, wurde ich in <placeName>Philad.</placeName> einen Räucher
+                finden? Oder,<lb/> wenn dieses nicht der Fall wäre, so könnte von die
+                <add>?</add>tsche<lb/> Aufgeben u. Regel ins englische übertragen und dann mal<lb/>
+                eher einen laschen erhalten. Wenn dies wünschen, werde<lb/> ich Ihnen einen Bogen
+                als Probe zukommen lassen und<lb/> bin ich der zuversichtlichen <add>?</add>, daß
+                dieser Gr<add>?</add><lb/> auch Ihren Beifall <add>?</add> wird. <persName>D.
+                    O.</persName></p>
+            <pb n="4"/>
+            <p rend="align(center)">
+                <addressee>Rev. I. Leeser</addressee>
+            </p>
+        </body>
+    </text>
 </TEI>

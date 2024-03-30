@@ -1,261 +1,341 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE TEI [
-<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
-%teibase;
-<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
-%teiext;
-]>
-<TEI>
-    <teiHeader>
-      <fileDesc>
-        <titleStmt>
-          <title>[no title given]</title>
-          <author attested="yes" accepted="yes" signature="yes">Gotthelf, B. H.</author>
-          <editor></editor>
-          <sponsor></sponsor>
-          <funder></funder>
-          <principal></principal>
-          <respStmt>
-            <resp></resp>
-            <name></name>
-          </respStmt>
-        </titleStmt>
-        <editionStmt>
-          <edition></edition>
-          <respStmt>
-            <resp></resp>
-            <name></name>
-          </respStmt>
-        </editionStmt>
-        <extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-        <publicationStmt>
-          <publisher>Unpublished manuscript</publisher>
-        </publicationStmt>
-        <seriesStmt>
-          <p>Not part of a series</p>
-        </seriesStmt>
-        <notesStmt>
-          <note></note>
-        </notesStmt>
-        <sourceDesc>
-          <biblStruct>
-            <!-- catalog entry goes here -->
-            <monogr>
-              <imprint>
-                <dateLet></dateLet>
-              </imprint>
-            </monogr>
-          </biblStruct>
-          <msDesc>
-            <msIdentifier>
-              <country>USA</country>
-              <region>PA</region>
-              <settlement>Philadelphia</settlement>
-              <institution></institution>
-              <repository>CAJS Isaac Leeser Collection</repository>
-              <collection>The Library of the Dropsie College for Hebrew and Cognate Learning</collection>
-              <idno>LSDCBx1FF10_34</idno>
-              <altIdentifier>
-                <idno></idno>
-              </altIdentifier>
-              <msName></msName>
-            </msIdentifier>
-            <head></head>
-            <letHeading>
-              <author attested="yes" accepted="yes" signature="yes">Gotthelf, B. H.</author>
-              <addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac, Rev.</addressee>
-              <deliverer></deliverer>
-              <respStmt>
-                <resp></resp>
-                <name></name>
-              </respStmt>
-              <placeLet>Louisville, KY</placeLet>
-              <placeRec>Philadelphia, PA</placeRec>
-              <dateLet when="1853-05" source="" attested="yes">25 May 1853</dateLet>
-            </letHeading>
-            <msContents>
-              <msItem>
-                <author></author>
-                <editor></editor>
-                <respStmt>
-                  <resp></resp>
-                  <name></name>
-                </respStmt>
-                <title></title>
-                <decoNote></decoNote>
-                <listBibl>
-                  <bibl></bibl>
-                </listBibl>
-                <filiation></filiation>
-                <textLang></textLang>
-                <figure>
-                  <graphic url="ilcajs_b1f10_0034_1r.jpg"/>
-                  <graphic url="ilcajs_b1f10_0034_2r.jpg"/>
-                </figure>
-              </msItem>
-            </msContents>
-            <physDesc>
-              <objectDesc>
-                <supportDesc>
-                  <support>
-                    <material color="" lined="unk" paper_type="" size="Legal">letter</material>
-                  </support>
-                  <extent>2 pages on 2 sheets
-                    <dimensions></dimensions>
-                  </extent>
-                  <foliation></foliation>
-                  <collation></collation>
-                  <condition fragment="false"></condition>
-                </supportDesc>
-                <layoutDesc>
-                  <layout></layout>
-                </layoutDesc>
-              </objectDesc>
-              <handDesc script="manuscript">
-                  <handNote></handNote>
-              </handDesc>
-              <decoDesc>
-                <decoNote></decoNote>
-              </decoDesc>
-              <additions></additions>
-              <bindingDesc>
-                <binding>
-                  <decoNote></decoNote>
-                </binding>
-              </bindingDesc>
-              <sealDesc>
-                <seal>
-                  <p></p>
-                </seal>
-              </sealDesc>
-              <accMat></accMat>
-              <envDesc occ="true"></envDesc>
-            </physDesc>
-            <history>
-              <origin></origin>
-              <provenance></provenance>
-              <acquisition></acquisition>
-            </history>
-            <additional>
-              <adminInfo>
-                <recordHist>
-                  <source></source>
-                  <change></change>
-                </recordHist>
-                <availability status="free">
-                  <p>Unrestricted</p>
-                </availability>
-                <custodialHist>
-                  <custEvent></custEvent>
-                </custodialHist>
-              </adminInfo>
-              <surrogates></surrogates>
-              <listBibl>
-                <bibl></bibl>
-              </listBibl>
-            </additional>
-            <msPart>
-              <altIdentifier>
-                <idno></idno>
-              </altIdentifier>
-            </msPart>
-          </msDesc>
-        </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-        <projectDesc>
-          <p></p>
-        </projectDesc>
-        <samplingDecl>
-          <p></p>
-        </samplingDecl>
-        <editorialDecl>
-          <correction>
-            <p></p>
-          </correction>
-          <normalization>
-            <p></p>
-          </normalization>
-          <quotation>
-            <p></p>
-          </quotation>
-          <hyphenation>
-            <p></p>
-          </hyphenation>
-          <segmentation>
-            <p></p>
-          </segmentation>
-          <stdVals>
-            <p></p>
-          </stdVals>
-          <interpretation>
-            <p></p>
-          </interpretation>
-        </editorialDecl>
-        <tagsDecl>
-          <rendition></rendition>
-          <namespace name="http://www.tei-c.org/ns/1.0">
-            <tagUsage gi=""></tagUsage>
-          </namespace>
-        </tagsDecl>
-        <refsDecl>
-          <cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-        </refsDecl>
-        <refsDecl>
-          <refState unit=""/>
-        </refsDecl>
-        <classDecl>
-          <taxonomy>
-            <category>
-              <catDesc></catDesc>
-            </category>
-          </taxonomy>
-        </classDecl>
-        <appInfo>
-          <application ident="" version="">
-            <desc></desc>
-            <label></label>
-          </application>
-        </appInfo>
-      </encodingDesc>
-      <profileDesc>
-        <creation></creation>
-        <langUsage>
-          <language ident="en">English</language>
-          <language ident="he">Hebrew</language>
-        </langUsage>
-        <textClass>
-          <keywords scheme="unknown">
-            <list>
-              <item></item>
-              <item></item>
-            </list>
-          </keywords>
-          <classCode scheme=""></classCode>
-          <catRef/>
-        </textClass>
-      </profileDesc>
-      <revisionDesc>
-        <change></change>
-      </revisionDesc>
-    </teiHeader>
-    <text>
-        <body>
-      
-		<pb n="1"/>
-			<p rend="align(right)"><placeName>Louisville Ky</placeName> <date>May 25<hi rend="sup">th</hi> 1853</date></p>
-			<p><add>Hebrew</add></p>
-			<p><persName role="author">B. H. Gotthelf</persName></p>
-		<pb n="Envelope"/>
-			<p><addressee>Revd Isaac Leeser</addressee></p>
-          <p rend="indent(3)"><placeName>Walnut St No 371</placeName></p>
-          <p rend="indent(3)"><placeName><hi rend="underline">Philadelphia</hi></placeName></p>
-		<pb n="2"/>
-			<p><placeName>Louisville&#44; Ky.</placeName> <date>May 25&#44; 1853</date>.</p>
-			<p>Most honored <addressee>Mr. Leeser</addressee>&#58;</p>
-          <p rend="indent(1)">I regret with all my heart&#44; that I had to delay my answer<lb/> to you so long&#44; and even now&#44; I am not in a position to write to you in<lb/> much detail as I should like. In the month before the last&#44; I went to the<lb/> post&#45;office&#44; and after several inquiries&#44; I received six numbers which<lb/> had not been delivered. Every one of them had had the address torn off<lb/> But who was it who had not received them&#63; I&#44; therefore&#44; waited several more<lb/> weeks for the last number&#44; and&#44; several days later&#44; upon receiving my<lb/> own&#44; I found only three left over&#44; but also without address. Since<lb/> I have acquired two new subscribers&#44; whose names I shall write<lb/> below&#44; I gave them two of these copies. Later&#44; I saw nothing until<lb/> yesterday&#44; when I again found five copies and two exemplars<lb/> &#8220;Obligation of the Sabbath&#8221; Of these five copies&#44; only three had<lb/> addresses&#44; namely&#44; <persName>Israel Hyman</persName>&#44; <persName>L. Bach</persName>&#44; and <persName>Sol. Simmons</persName>&#44;<lb/> the last&#44; as I have recently found out&#44; is now in <placeName>Cincinnati</placeName>&#44; then<lb/> I think I can transmit this copy to him. As I wrote to you in<lb/> that letter you have not yet received&#44; the following have discontinued&#58;&#8212;<lb/> <persName>Abraham Din Kelsfial</persName>&#44; <persName>Goldberg</persName>&#44; <persName>Mark</persName>&#44; <persName>Mark</persName>&#44; <persName>Rosenberg</persName>&#44; <persName>Sale</persName>&#44; <persName>Hy<lb/>man</persName>&#44; <persName>Zilberman</persName>&#44; <persName>Uhlman</persName>&#44; <persName>E. Bamberger</persName>&#44; <persName>Moses Lieberman</persName>&#44; and<lb/> if I am not mistaken&#44; <persName>J. Lieber</persName>. You see&#44; therefore&#44; that almost all<lb/> your subscribers here&#44; while they do not look down upon your<lb/> periodical&#44; hate to give up the &#36;3. Since I received altogether five<lb/> copies which have not been called for&#44; I cannot tell you in detail<lb/> up to the present moment. For the same reason&#44; I have not yet collected<lb/> much. For I should very much like to see&#44; the economical gentlemen<lb/> accepting the new copies before they pay for the old&#8212;and thus become <add>&#63;</add><lb/>......Believe me&#44; dear <persName>Mr. Leeser</persName> that I have taken a great deal of<lb/> trouble with these people&#44; as much as you yourself would have taken&#44; but<lb/> not I nor even our teacher <persName>Moses</persName> could change these people. As I<lb/> told you&#44; I have two new subscribers&#8212;<persName>B. Myer</persName>&#44; <placeName>Hodgensville&#44; Ky.<lb/> Larue&#44; Ct.</placeName>&#44; and <persName>S. Oberndorfer</persName>&#44; <placeName>3<hi rend="sup">rd</hi> St. between Market &#38; Jefferson</placeName>.<lb/> Please send the new copies to their address. After receipt of the next issue<lb/> I shall unhesitatingly collect and send it to you as soon and as<lb/> much as possible. I should very much like to write some pleas<add>&#63;</add><lb/> news to you&#44; but the circumstances&#44; as you will see&#44; do not per<lb/>mit it. Perhaps in my next letter&#44; I&#39;ll be able to do so. My<lb/> wife and children send kindest greetings. Your most devoted<lb/> servant and friend&#44;</p>
-          <p rend="indent(2)"><persName role="author">B. H. Gotthelf</persName></p>
-          
-        </body>
-    </text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+          <teiHeader>
+
+                    <fileDesc>
+                              <titleStmt>
+                                        <title>[no title given]</title>
+                                        <author accepted="yes" attested="yes" signature="yes"
+                                                  >Gotthelf, B. H.</author>
+                                        <editor/>
+                                        <sponsor/>
+                                        <funder/>
+                                        <principal/>
+                                        <respStmt>
+                                                  <resp/>
+                                                  <name/>
+                                        </respStmt>
+                              </titleStmt>
+                              <editionStmt>
+                                        <edition/>
+                                        <respStmt>
+                                                  <resp/>
+                                                  <name/>
+                                        </respStmt>
+                              </editionStmt>
+                              <extent>[information about file size goes here, information about
+                                        extent of physical item comes later]</extent>
+                              <publicationStmt>
+                                        <publisher>Unpublished manuscript</publisher>
+                              </publicationStmt>
+                              <seriesStmt>
+                                        <p>Not part of a series</p>
+                              </seriesStmt>
+                              <notesStmt>
+                                        <note/>
+                              </notesStmt>
+                              <sourceDesc>
+                                        <biblStruct>
+                                                  <!-- catalog entry goes here -->
+                                                  <monogr>
+                                                  <imprint>
+                                                  <dateLet/>
+                                                  </imprint>
+                                                  </monogr>
+                                        </biblStruct>
+                                        <msDesc>
+                                                  <msIdentifier>
+                                                  <country>USA</country>
+                                                  <region>PA</region>
+                                                  <settlement>Philadelphia</settlement>
+                                                  <institution/>
+                                                  <repository>CAJS Isaac Leeser
+                                                  Collection</repository>
+                                                  <collection>The Library of the Dropsie College for
+                                                  Hebrew and Cognate Learning</collection>
+                                                  <idno>LSDCBx1FF10_34</idno>
+                                                  <altIdentifier>
+                                                  <idno/>
+                                                  </altIdentifier>
+                                                  <msName/>
+                                                  </msIdentifier>
+                                                  <head/>
+                                                  <letHeading>
+                                                  <author accepted="yes" attested="yes"
+                                                  signature="yes">Gotthelf, B. H.</author>
+                                                  <addressee accepted="yes" attested="yes"
+                                                  editor="false">Leeser, Isaac, Rev.</addressee>
+                                                  <deliverer/>
+                                                  <respStmt>
+                                                  <resp/>
+                                                  <name/>
+                                                  </respStmt>
+                                                  <placeLet>Louisville, KY</placeLet>
+                                                  <placeRec>Philadelphia, PA</placeRec>
+                                                  <dateLet attested="yes" source="" when="1853-05"
+                                                  >25 May 1853</dateLet>
+                                                  </letHeading>
+                                                  <msContents>
+                                                  <msItem>
+                                                  <author/>
+                                                  <editor/>
+                                                  <respStmt>
+                                                  <resp/>
+                                                  <name/>
+                                                  </respStmt>
+                                                  <title/>
+                                                  <decoNote/>
+                                                  <listBibl>
+                                                  <bibl/>
+                                                  </listBibl>
+                                                  <filiation/>
+                                                  <textLang/>
+                                                  <figure>
+                                                  <graphic url="ilcajs_b1f10_0034_1r.jpg"/>
+                                                  <graphic url="ilcajs_b1f10_0034_2r.jpg"/>
+                                                  </figure>
+                                                  </msItem>
+                                                  </msContents>
+                                                  <physDesc>
+                                                  <objectDesc>
+                                                  <supportDesc>
+                                                  <support>
+                                                  <material color="" lined="unk" paper_type=""
+                                                  size="Legal">letter</material>
+                                                  </support>
+                                                  <extent>2 pages on 2 sheets <dimensions/>
+                                                  </extent>
+                                                  <foliation/>
+                                                  <collation/>
+                                                  <condition fragment="false"/>
+                                                  </supportDesc>
+                                                  <layoutDesc>
+                                                  <layout/>
+                                                  </layoutDesc>
+                                                  </objectDesc>
+                                                  <handDesc script="manuscript">
+                                                  <handNote/>
+                                                  </handDesc>
+                                                  <decoDesc>
+                                                  <decoNote/>
+                                                  </decoDesc>
+                                                  <additions/>
+                                                  <bindingDesc>
+                                                  <binding>
+                                                  <decoNote/>
+                                                  </binding>
+                                                  </bindingDesc>
+                                                  <sealDesc>
+                                                  <seal>
+                                                  <p/>
+                                                  </seal>
+                                                  </sealDesc>
+                                                  <accMat/>
+                                                  <envDesc occ="true"/>
+                                                  </physDesc>
+                                                  <history>
+                                                  <origin/>
+                                                  <provenance/>
+                                                  <acquisition/>
+                                                  </history>
+                                                  <additional>
+                                                  <adminInfo>
+                                                  <recordHist>
+                                                  <source/>
+                                                  <change/>
+                                                  </recordHist>
+                                                  <availability status="free">
+                                                  <p>Unrestricted</p>
+                                                  </availability>
+                                                  <custodialHist>
+                                                  <custEvent/>
+                                                  </custodialHist>
+                                                  </adminInfo>
+                                                  <surrogates/>
+                                                  <listBibl>
+                                                  <bibl/>
+                                                  </listBibl>
+                                                  </additional>
+                                                  <msPart>
+                                                  <altIdentifier>
+                                                  <idno/>
+                                                  </altIdentifier>
+                                                  </msPart>
+                                        </msDesc>
+                              </sourceDesc>
+                    </fileDesc>
+                    <encodingDesc>
+                              <projectDesc>
+                                        <p/>
+                              </projectDesc>
+                              <samplingDecl>
+                                        <p/>
+                              </samplingDecl>
+                              <editorialDecl>
+                                        <correction>
+                                                  <p/>
+                                        </correction>
+                                        <normalization>
+                                                  <p/>
+                                        </normalization>
+                                        <quotation>
+                                                  <p/>
+                                        </quotation>
+                                        <hyphenation>
+                                                  <p/>
+                                        </hyphenation>
+                                        <segmentation>
+                                                  <p/>
+                                        </segmentation>
+                                        <stdVals>
+                                                  <p/>
+                                        </stdVals>
+                                        <interpretation>
+                                                  <p/>
+                                        </interpretation>
+                              </editorialDecl>
+                              <tagsDecl>
+                                        <rendition/>
+                                        <namespace name="http://www.tei-c.org/ns/1.0">
+                                                  <tagUsage gi=""/>
+                                        </namespace>
+                              </tagsDecl>
+                              <refsDecl>
+                                        <cRefPattern matchPattern="" replacementPattern=""/>
+                              </refsDecl>
+                              <refsDecl>
+                                        <refState unit=""/>
+                              </refsDecl>
+                              <classDecl>
+                                        <taxonomy>
+                                                  <category>
+                                                  <catDesc/>
+                                                  </category>
+                                        </taxonomy>
+                              </classDecl>
+                              <appInfo>
+                                        <application ident="" version="">
+                                                  <desc/>
+                                                  <label/>
+                                        </application>
+                              </appInfo>
+                    </encodingDesc>
+                    <profileDesc>
+                              <creation/>
+                              <langUsage>
+                                        <language ident="en">English</language>
+                                        <language ident="he">Hebrew</language>
+                              </langUsage>
+                              <textClass>
+                                        <keywords scheme="unknown">
+                                                  <list>
+                                                  <item/>
+                                                  <item/>
+                                                  </list>
+                                        </keywords>
+                                        <classCode scheme=""/>
+                                        <catRef/>
+                              </textClass>
+                    </profileDesc>
+                    <revisionDesc>
+                              <change/>
+                    </revisionDesc>
+          </teiHeader>
+          <text>
+                    <body>
+                              <pb n="1"/>
+                              <p rend="align(right)">
+                                        <placeName>Louisville Ky</placeName>
+                                        <date>May 25<hi rend="sup">th</hi> 1853</date>
+                              </p>
+                              <p>
+                                        <add>Hebrew</add>
+                              </p>
+                              <p>
+                                        <persName role="author">B. H. Gotthelf</persName>
+                              </p>
+                              <pb n="Envelope"/>
+                              <p>
+                                        <addressee>Revd Isaac Leeser</addressee>
+                              </p>
+                              <p rend="indent(3)">
+                                        <placeName>Walnut St No 371</placeName>
+                              </p>
+                              <p rend="indent(3)">
+                                        <placeName>
+                                                  <hi rend="underline">Philadelphia</hi>
+                                        </placeName>
+                              </p>
+                              <pb n="2"/>
+                              <p><placeName>Louisville, Ky.</placeName>
+                                        <date>May 25, 1853</date>.</p>
+                              <p>Most honored <addressee>Mr. Leeser</addressee>:</p>
+                              <p rend="indent(1)">I regret with all my heart, that I had to delay my
+                                        answer<lb/> to you so long, and even now, I am not in a
+                                        position to write to you in<lb/> much detail as I should
+                                        like. In the month before the last, I went to the<lb/>
+                                        post-office, and after several inquiries, I received six
+                                        numbers which<lb/> had not been delivered. Every one of them
+                                        had had the address torn off<lb/> But who was it who had not
+                                        received them? I, therefore, waited several more<lb/> weeks
+                                        for the last number, and, several days later, upon receiving
+                                        my<lb/> own, I found only three left over, but also without
+                                        address. Since<lb/> I have acquired two new subscribers,
+                                        whose names I shall write<lb/> below, I gave them two of
+                                        these copies. Later, I saw nothing until<lb/> yesterday,
+                                        when I again found five copies and two exemplars<lb/>
+                                        “Obligation of the Sabbath” Of these five copies, only three
+                                        had<lb/> addresses, namely, <persName>Israel
+                                                  Hyman</persName>, <persName>L. Bach</persName>,
+                                        and <persName>Sol. Simmons</persName>,<lb/> the last, as I
+                                        have recently found out, is now in
+                                                  <placeName>Cincinnati</placeName>, then<lb/> I
+                                        think I can transmit this copy to him. As I wrote to you
+                                        in<lb/> that letter you have not yet received, the following
+                                        have discontinued:—<lb/>
+                                        <persName>Abraham Din Kelsfial</persName>,
+                                                  <persName>Goldberg</persName>,
+                                                  <persName>Mark</persName>,
+                                                  <persName>Mark</persName>,
+                                                  <persName>Rosenberg</persName>,
+                                                  <persName>Sale</persName>,
+                                                  <persName>Hy<lb/>man</persName>,
+                                                  <persName>Zilberman</persName>,
+                                                  <persName>Uhlman</persName>, <persName>E.
+                                                  Bamberger</persName>, <persName>Moses
+                                                  Lieberman</persName>, and<lb/> if I am not
+                                        mistaken, <persName>J. Lieber</persName>. You see,
+                                        therefore, that almost all<lb/> your subscribers here, while
+                                        they do not look down upon your<lb/> periodical, hate to
+                                        give up the $3. Since I received altogether five<lb/> copies
+                                        which have not been called for, I cannot tell you in
+                                        detail<lb/> up to the present moment. For the same reason, I
+                                        have not yet collected<lb/> much. For I should very much
+                                        like to see, the economical gentlemen<lb/> accepting the new
+                                        copies before they pay for the old—and thus become
+                                                  <add>?</add><lb/>......Believe me, dear
+                                                  <persName>Mr. Leeser</persName> that I have taken
+                                        a great deal of<lb/> trouble with these people, as much as
+                                        you yourself would have taken, but<lb/> not I nor even our
+                                        teacher <persName>Moses</persName> could change these
+                                        people. As I<lb/> told you, I have two new
+                                                  subscribers—<persName>B. Myer</persName>,
+                                                  <placeName>Hodgensville, Ky.<lb/> Larue,
+                                                  Ct.</placeName>, and <persName>S.
+                                                  Oberndorfer</persName>, <placeName>3<hi rend="sup"
+                                                  >rd</hi> St. between Market &amp;
+                                                  Jefferson</placeName>.<lb/> Please send the new
+                                        copies to their address. After receipt of the next
+                                        issue<lb/> I shall unhesitatingly collect and send it to you
+                                        as soon and as<lb/> much as possible. I should very much
+                                        like to write some pleas<add>?</add><lb/> news to you, but
+                                        the circumstances, as you will see, do not per<lb/>mit it.
+                                        Perhaps in my next letter, I'll be able to do so. My<lb/>
+                                        wife and children send kindest greetings. Your most
+                                        devoted<lb/> servant and friend,</p>
+                              <p rend="indent(2)">
+                                        <persName role="author">B. H. Gotthelf</persName>
+                              </p>
+                    </body>
+          </text>
 </TEI>

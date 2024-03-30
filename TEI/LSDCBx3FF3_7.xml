@@ -1,250 +1,295 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE TEI [
-<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
-%teibase;
-<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
-%teiext;
-]>
-<TEI>
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="yes">Wolf, Simon</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>CAJS Isaac Leeser Collection</repository>
-						<collection>The Library of the Dropsie College for Hebrew and Cognate Learning</collection>
-						<idno>LSDCBx3FF3_7</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="yes">Wolf, Simon</author>
-						<addressee editor="false" attested="yes" accepted="yes"></addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet></placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1868-03" source="" attested="yes">15 March 1868</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url=""/>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="unk" paper_type="" size="Letter">print</material>
-								</support>
-								<extent>1 page on 1 sheet
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="typescript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="free">
-								<p>Unrestricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-				<p>&#8220;<persName>ISAAC LEESER</persName> WAS NO ORDINARY MAN. FEW OF HIS CONTEMPORARIES<lb/> had less advantages of education of education or influential surroundings.<lb/> Poor in purse&#44; <sic>umknown</sic>&#44; a stranger in a strange land&#44; the<lb/> language to be learned&#44; friends to win&#44; and inf <sic>uence</sic> to<lb/> make&#44; he commenced his career. Fortunately nature had<lb/> gifted him with extraordinary powers of language&#44; and what<lb/> he lacked of scholarship was more than <sic>mae</sic> up by a<lb/> broad&#44; deep&#44; <sic>fervant</sic> energy to do&#44; and perseverance to<lb/> accomplish. He came to the <placeName>United States</placeName> when an Israelite<lb/> was an anomaly&#44; when his religion was condemned&#44; his habits<lb/> derided&#44; his motives misjudged &#44; and his actions ever held<lb/> up to the <sic>oublic</sic> gaze for derision. Forty years ago&#44; when<lb/> <persName>Leeser</persName> commenced his labors&#44; our people were like the <placeName>State</placeName><lb/> few. Influence they had none. Men of mind were not&#59; and<lb/> the public press was <sic>asunsparing</sic> in their criticism as the<lb/> cause was uncalled for.</p>
-			<p rend="indent(1)">At a time when an American Jewish paper or periodical<lb/> was unknown&#59; when the Jewish merchant princes of <placeName>New York</placeName><lb/> and other cities were yet wending their way over their<lb/> native hills&#44; trying to earn a livelihood&#59; when no pala&#45;<lb/>tial mansions or places of business gave evidence of Jewish<lb/> prosperity&#59; when Jewish orphan asylums and hospitals were<lb/> embedded in their native <sic>quariies</sic>&#59; when the order of en<lb/> Berith had not ripened into a plan of charity&#59; when&#44; in<lb/> short&#44; our <sic>peoplewere</sic> a mere cipher publicly and socially&#44;<lb/> <persName>Isaac Leeser</persName> commenced his labors for the cause of Judaism<lb/> and true humanity.</p>
-			<p rend="indent(1)">What a crying shame it  XX is that his labors were<lb/> not duly appreciated as they should have <sic>beeb</sic>&#59; that his<lb/> motives and actions were often dragged into the arena of<lb/> personalities&#59; that he was in truth tortured to death.<lb/> <persName>Isaac Leeser</persName> was only sixty&#45;two years of age&#44; and might<lb/> have lived full twenty years&#44; had not his life been em&#45;<lb/>bittered by attacks from unthinking&#44; ungrateful&#44; and often<lb/> malicious contemporaries. His was a very sensitive nature.<lb/> Knowing the integrity of his conduct&#44; the sincerity of<lb/> his motives&#44; every aspersion caused a wound&#44; until at last&#44;<lb/> he died a martyr&#44; and no <del>&#63;</del> warrior clad in mail ever<lb/> battled more heroically for his lady fair&#44; no king or<lb/> <sic>empereor</sic> ever defended his throne more manfully&#44; no painter<lb/> ever depicted on canvas more glowingly&#44; no poet ever sang<lb/> more <sic>inspiringly</sic> that <persName>Isaac Leeser</persName>  battled for his people<lb/> and defended his principles&#44; depicted in word&#45;painting the<lb/> glory of <placeName>Israel</placeName> and <placeName>Israel&#39;s</placeName> God&#44; or sang more hallelujahs a<lb/> songs of praise for the progress and regeneration of his<lb/> people.</p>  
-			<p rend="indent(1)">And here we have the perfect example of the ingrati<lb/>tude of the masses toward their real benefactors.</p>
-			<p rend="indent(1)">And as of nations&#44; so of individuals&#44; <persName>Mr Leeser</persName> knew<lb/> that our only hope lies in education.</p>
-				<p rend="Footnote."><persName role="author">Wolf&#44; Simon</persName>&#44; ADDRESS ON THE LIFE AND SERVICES OF THE <persName>REV.<lb/> ISAAC LEESER</persName>&#63; Under the auspices of <placeName>Elijah Lodge No 50&#44; IOBB<lb/> at the Jewish Synagogue&#44; Washington&#44; D.C.</placeName> On <date>Sunday&#44; March<lb/> 15&#44; 1868</date>. <placeName>Washington City</placeName>&#59; <persName>Phillip &#38; Solomons</persName>&#44; Printers and<lb/> <add>&#63;</add></p>
-		</body>
-	</text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="yes">Wolf, Simon</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>CAJS Isaac Leeser Collection</repository>
+                        <collection>The Library of the Dropsie College for Hebrew and Cognate
+                            Learning</collection>
+                        <idno>LSDCBx3FF3_7</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="yes">Wolf, Simon</author>
+                        <addressee accepted="yes" attested="yes" editor="false"/>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet/>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1868-03">15 March 1868</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url=""/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="unk" paper_type="" size="Letter"
+                                        >print</material>
+                                </support>
+                                <extent>1 page on 1 sheet <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="typescript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>“<persName>ISAAC LEESER</persName> WAS NO ORDINARY MAN. FEW OF HIS
+                CONTEMPORARIES<lb/> had less advantages of education of education or influential
+                surroundings.<lb/> Poor in purse, <sic>umknown</sic>, a stranger in a strange land,
+                the<lb/> language to be learned, friends to win, and inf <sic>uence</sic> to<lb/>
+                make, he commenced his career. Fortunately nature had<lb/> gifted him with
+                extraordinary powers of language, and what<lb/> he lacked of scholarship was more
+                than <sic>mae</sic> up by a<lb/> broad, deep, <sic>fervant</sic> energy to do, and
+                perseverance to<lb/> accomplish. He came to the <placeName>United States</placeName>
+                when an Israelite<lb/> was an anomaly, when his religion was condemned, his
+                habits<lb/> derided, his motives misjudged , and his actions ever held<lb/> up to
+                the <sic>oublic</sic> gaze for derision. Forty years ago, when<lb/>
+                <persName>Leeser</persName> commenced his labors, our people were like the
+                    <placeName>State</placeName><lb/> few. Influence they had none. Men of mind were
+                not; and<lb/> the public press was <sic>asunsparing</sic> in their criticism as
+                the<lb/> cause was uncalled for.</p>
+            <p rend="indent(1)">At a time when an American Jewish paper or periodical<lb/> was
+                unknown; when the Jewish merchant princes of <placeName>New York</placeName><lb/>
+                and other cities were yet wending their way over their<lb/> native hills, trying to
+                earn a livelihood; when no pala-<lb/>tial mansions or places of business gave
+                evidence of Jewish<lb/> prosperity; when Jewish orphan asylums and hospitals
+                were<lb/> embedded in their native <sic>quariies</sic>; when the order of en<lb/>
+                Berith had not ripened into a plan of charity; when, in<lb/> short, our
+                    <sic>peoplewere</sic> a mere cipher publicly and socially,<lb/>
+                <persName>Isaac Leeser</persName> commenced his labors for the cause of Judaism<lb/>
+                and true humanity.</p>
+            <p rend="indent(1)">What a crying shame it XX is that his labors were<lb/> not duly
+                appreciated as they should have <sic>beeb</sic>; that his<lb/> motives and actions
+                were often dragged into the arena of<lb/> personalities; that he was in truth
+                tortured to death.<lb/>
+                <persName>Isaac Leeser</persName> was only sixty-two years of age, and might<lb/>
+                have lived full twenty years, had not his life been em-<lb/>bittered by attacks from
+                unthinking, ungrateful, and often<lb/> malicious contemporaries. His was a very
+                sensitive nature.<lb/> Knowing the integrity of his conduct, the sincerity of<lb/>
+                his motives, every aspersion caused a wound, until at last,<lb/> he died a martyr,
+                and no <del>?</del> warrior clad in mail ever<lb/> battled more heroically for his
+                lady fair, no king or<lb/>
+                <sic>empereor</sic> ever defended his throne more manfully, no painter<lb/> ever
+                depicted on canvas more glowingly, no poet ever sang<lb/> more
+                    <sic>inspiringly</sic> that <persName>Isaac Leeser</persName> battled for his
+                people<lb/> and defended his principles, depicted in word-painting the<lb/> glory of
+                    <placeName>Israel</placeName> and <placeName>Israel's</placeName> God, or sang
+                more hallelujahs a<lb/> songs of praise for the progress and regeneration of
+                his<lb/> people.</p>
+            <p rend="indent(1)">And here we have the perfect example of the ingrati<lb/>tude of the
+                masses toward their real benefactors.</p>
+            <p rend="indent(1)">And as of nations, so of individuals, <persName>Mr Leeser</persName>
+                knew<lb/> that our only hope lies in education.</p>
+            <p rend="Footnote."><persName role="author">Wolf, Simon</persName>, ADDRESS ON THE LIFE
+                AND SERVICES OF THE <persName>REV.<lb/> ISAAC LEESER</persName>? Under the auspices
+                of <placeName>Elijah Lodge No 50, IOBB<lb/> at the Jewish Synagogue, Washington,
+                    D.C.</placeName> On <date>Sunday, March<lb/> 15, 1868</date>.
+                    <placeName>Washington City</placeName>; <persName>Phillip &amp;
+                    Solomons</persName>, Printers and<lb/>
+                <add>?</add></p>
+        </body>
+    </text>
 </TEI>

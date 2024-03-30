@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
         <fileDesc>
             <titleStmt>
                 <title>[no title given]</title>
-                <author attested="yes" accepted="yes" signature="yes">Bush, Isidor</author>
+                <author accepted="yes" attested="yes" signature="yes">Bush, Isidor</author>
                 <editor/>
                 <sponsor/>
                 <funder/>
@@ -47,7 +49,9 @@
                         <settlement>New York</settlement>
                         <institution>Jewish Theological Seminary</institution>
                         <repository/>
-                        <collection>The Abraham and Deborah Karp Collection of Early American Judaica at the Library of the Jewish Theological Seminary of America</collection>
+                        <collection>The Abraham and Deborah Karp Collection of Early American
+                            Judaica at the Library of the Jewish Theological Seminary of
+                            America</collection>
                         <idno/>
                         <altIdentifier>
                             <idno/>
@@ -56,8 +60,8 @@
                     </msIdentifier>
                     <head/>
                     <letHeading>
-                        <author attested="yes" accepted="yes" signature="yes">Bush, Isidor</author>
-                        <addressee editor="false" attested="yes" accepted="yes">Leeser,
+                        <author accepted="yes" attested="yes" signature="yes">Bush, Isidor</author>
+                        <addressee accepted="yes" attested="yes" editor="false">Leeser,
                             Isaac</addressee>
                         <deliverer/>
                         <respStmt>
@@ -66,7 +70,7 @@
                         </respStmt>
                         <placeLet>St. Louis, MO</placeLet>
                         <placeRec>Philadelphia, PA</placeRec>
-                        <dateLet when="1853-10" source="" attested="yes">1 October 1853</dateLet>
+                        <dateLet attested="yes" source="" when="1853-10">1 October 1853</dateLet>
                     </letHeading>
                     <msContents>
                         <msItem>
@@ -92,7 +96,8 @@
                         <objectDesc>
                             <supportDesc>
                                 <support>
-                                    <material color="" lined="false" paper_type="" size="Letter">letter</material>
+                                    <material color="" lined="false" paper_type="" size="Letter"
+                                        >letter</material>
                                 </support>
                                 <extent>1 page on 1 sheet <dimensions/>
                                 </extent>
@@ -233,35 +238,30 @@
     </teiHeader>
     <text>
         <body>
-
             <pb n="1"/>
-
-            <p>Dear Sir&#33;</p>
+            <p>Dear Sir!</p>
             <p rend="indent(1)">I received your favor of the 8<hi rend="sup">th</hi>
-                <add>&#63;</add><lb/> but have not received as yet the package from
-                Ada<add>ms</add><lb/> Express. This is to thank you for both and to<lb/> inform
-                you&#44; dear Sir&#33; what you will be glad to hear<lb/> that there is at last good
-                prospect of a union bet<add>ween</add><lb/> two of our congregations&#44; the matter
-                has been urged <add>on</add><lb/> both sides and as far as I have a hand in&#44; it
+                <add>?</add><lb/> but have not received as yet the package from
+                Ada<add>ms</add><lb/> Express. This is to thank you for both and to<lb/> inform you,
+                dear Sir! what you will be glad to hear<lb/> that there is at last good prospect of
+                a union bet<add>ween</add><lb/> two of our congregations, the matter has been urged
+                    <add>on</add><lb/> both sides and as far as I have a hand in, it
                     sha<add>ll</add><lb/> not fail again. For this reason please also to<lb/>
                 discontinue the advertisement in your Occiden<add>t.</add>
             </p>
-            <p rend="indent(1)">I will bring before next meeting your bill<lb/> with &#36;2.80<lb/> for the
-                circulars&#44; and for advertisement 2.60<lb/> being for one insertion
-                &#36;5.40/</p>
-            <p rend="indent(1)">I cannot promise you to get new subscribers for<lb/> your Occident &#38; Bible
-                though&#44; when the latter work wi<add>ll</add><lb/> be finished I might sell 2 or
-                3 copies of 5&#59; you have Messr<lb/>
-                <persName>Abeles</persName> &#38; <persName>Tanssig</persName> and myself among the
-                list of subscribers<lb/> &#40;to be sent bound&#44; when complete&#41; on whom you
-                may rely.</p>
-            <p rend="indent(1)">I am&#44; dear sir&#44; your affectionate and humble<lb/>
+            <p rend="indent(1)">I will bring before next meeting your bill<lb/> with $2.80<lb/> for
+                the circulars, and for advertisement 2.60<lb/> being for one insertion $5.40/</p>
+            <p rend="indent(1)">I cannot promise you to get new subscribers for<lb/> your Occident
+                &amp; Bible though, when the latter work wi<add>ll</add><lb/> be finished I might
+                sell 2 or 3 copies of 5; you have Messr<lb/>
+                <persName>Abeles</persName> &amp; <persName>Tanssig</persName> and myself among the
+                list of subscribers<lb/> (to be sent bound, when complete) on whom you may rely.</p>
+            <p rend="indent(1)">I am, dear sir, your affectionate and humble<lb/>
                 <persName role="author">Isidore Bush</persName><lb/></p>
-                <p><placeName>Carondelet</placeName>
+            <p><placeName>Carondelet</placeName>
                 <date>October 1<hi rend="sup">st</hi> 5613</date>.<lb/>
                 <add>Hebrew</add>
             </p>
-
         </body>
     </text>
 </TEI>

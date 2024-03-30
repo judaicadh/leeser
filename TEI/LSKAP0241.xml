@@ -1,283 +1,348 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE TEI [
-<!ENTITY % teibase SYSTEM "http://bslw.com/UPENN_TEI_schema.dtd">
-%teibase;
-<!ENTITY % teiext SYSTEM "http://bslw.com/UPENN_TEI_schext.dtd">
-%teiext;
-]>
-<TEI>
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="yes">Mayer, A. L.</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>LSKAP</repository>
-						<collection>The Arnold and Deanne Kaplan Collection of Early American Judaica</collection>
-						<idno>LSKAP0241</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="yes">Mayer, A. L.</author>
-						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac</addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>Syracuse, NY</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1864-12" source="" attested="yes">December 23, 1864</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="LSKAP0241_1r.jpg"></graphic>
-								<graphic url="LSKAP0241_1v.jpg"></graphic>
-								<graphic url="LSKAP0241_2_1r.jpg"></graphic>
-								<graphic url="LSKAP0241_2_2r.jpg"></graphic>
-								<graphic url="LSKAP0241_2_3r.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="false" paper_type="" size="">letter</material>
-								</support>
-								<extent>2 pages on 1 sheet
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="manuscript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="restricted">
-								<p>Restricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-				<language ident="de">German</language>
-				<language ident="he">Hebrew</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1"/>
-				<p rend="align(center)">Geehrter Freund <addressee>Herr Leeser</addressee>&#33;</p>
-				<p>Sie wollen mich g&#252;tigst entschuldigen&#44; wenn ich erst heute diese Zeilen an Sie richte&#44; was ich<lb/> Bereits schon l&#228;ngst thun wollte&#44; aber im drange meiner &#252;berh&#228;uften Gesch&#228;fte unwillk&#252;<sic>hrlich</sic><lb/> sich in die L&#228;nge zog.  Damit will ich heute&#44; der wir das Feiertages wegen einige Stunden ver<add>&#63;</add> seid&#44;<lb/> mich um so mehr mit Ihnen unterhalten und &#252;ber mancherlei sprechen.</p>
-				<p>Zuerst mu&#223; ich Ihnen mittheilen&#44; da&#223; mein Vorhaben war&#44; am <date>1. Nov.</date> passato <placeName>Syracuse</placeName> zu verlassen&#44;<lb/> um die mir in <placeName>Baltimore</placeName> bei der F. Point Congr. angetragene Stelle mit &#36;1000 zu &#252;bernehmen&#59; aber<lb/> kaum wurde es hier ruchbar&#44; da&#223; ich westlich fortgehen wolle&#44; als <add>&#63;</add>ele der hies. wemer Interessenten<lb/> aufs dringendste mich baten<add>&#63;</add>&#44; <placeName>Syrac.</placeName> nicht zu verlassen und so bin ich&#44; nach dem ich fast &#36;200 wondtlich Ein&#44;<lb/>kommen habe&#44; nach hier.</p>
-				<p>Nun w&#252;nsche ich f&#252;r eine kleine Abtheilung ein <add>Hebrew</add> <hi rend="underline">ohne</hi> Untersetzung zu haben&#44; und wenn Sie solche<lb/> vorr&#228;thig&#44; so wollen Sie mir &#189; duzend gef. &#252;bersenden.  Ebenso bitte nur meine Rechnung&#44; die<lb/> ich Ihnen <sic>honoriren</sic> werde.</p>
-				<p>Wie Sie bereits wissen&#44; ich hier auch ein elendes Klatschblatt Namens &#8222;Rebekka&#8221; von einem&#44;<lb/> wahrscheinlich im Landstreicher&#44; gewissen <persName>Sarner</persName> &#40;<add>Hebrew</add>&#41; erschiene&#44; der sich in der<lb/> 2. und wahrscheinlich und hoffentlich letzten No. 10 sch&#228;ndlich gegen <persName>Gunzburg</persName> in <placeName>Rotchester</placeName> etc. etc.<lb/> benommen hat.  Ich bitte Sie <add>Hebrew</add>&#33; Ich w&#252;rde ihm g<add>&#63;</add>fen &#63;<add>Hebrew</add>&#33;<add>Hebrew</add><lb/> &#63;<add>Hebrew</add> Ich versichere Sie&#44; da&#223; dessen teuflischer Reisebericht<lb/> tiefe indignation bei Jedermann hervorgerufen hat.  Ich w&#252;nschte vor&#44; da&#223; er einmal mich an&#44;<lb/>greifen m&#246;chte&#44; ich w&#252;rde ihm Etwas erz&#228;hlen.  Also&#44; lieber <persName>H. Leeser</persName>&#58; <add>Hebrew</add><lb/> &#33;<add>Hebrew</add> Ich bin so alter<add>&#63;</add> &#252;ber diesen Gegenstand&#44; der in es nur als eine <add>Hebrew</add> ansehen kann&#44;<lb/> da&#223; er wir nicht m&#246;glich ist&#44; Herr &#252;ber mich zu sein&#59; denn der sind ein Paar Kerle&#44; die keines Schusses<add>&#63;</add><lb/> <add>&#63;</add> werth seid&#33;  Sp&#228;ter jedoch&#44; werde ich einem Aufsatz machen.</p>
-				<p>Also erf&#228;llen Sie meine Bitte&#44; und in den ersten 8 Tagen des Januar werde ich Ihnen den Betrag<lb/> &#252;bersenden.Meinen Herz <add>&#63;</add>. Gru&#223;    Ihr</p>
-				<p rend="indent(7)"><persName role="author">A L Mayer</persName></p>
-				<p><placeName>Syracuse N.Y.</placeName> <date>23.Dezb.64</date>.</p>
-			<pb n="2"/>
-				<p>P. S. Vorige Woche habe ich meine neue Wohnung in Mitte der Stadt bezogen und habe f&#252;r<lb/> &#36;300 Anschaffungen machen mussen&#44; ich wunschte Sie einmal hier bei mir zu lehren</p>
-			<p rend="indent(8)"><persName>D. O.</persName></p>
-			<pb n="3"/>
-				<p>Dear friend <addressee>Leeser</addressee>&#58;</p>
-			<p rend="indent(1)">Pardon me kindly that it took me so<lb/> long to write to you.  Pressing business affairs<lb/> prevented me to write sooner.  Today is a<lb/> holiday and so I have a few more hours<lb/> time to chat with you.</p>
-			<p rend="indent(1)">I had in mind to leave <placeName>Syracuse</placeName> on<lb/> <date>November first</date> in order to <add>&#63;</add> the &#36;1000.&#8212;job<lb/> which the Fells Point Congregation in <placeName>Baltimore</placeName><lb/> had offered.  But no sooner did the news of<lb/> my intention to leave leak out&#44; when many<lb/> of my clients urged me to stay here.  Well<lb/> and so I am still here&#44; getting almost &#36;200.&#8212;a month.</p>
-			<p rend="indent(1)">For a small department &#38;<lb/> would like to have a <add>Hebrew</add> <hi rend="underline">without</hi> translation<lb/>  Please ship <add>&#63;</add> half a dozen together with<lb/> your bill if you have them in stock.<lb/>  <del>Not so long ago</del> As you probably know a<lb/> unreliable intr<add>&#63;</add> paper called &#8222;Rebekka&#8221; appeared<lb/> here&#44; <del>ca</del> published by a certain <persName>Mr. Sa<add>&#63;</add></persName><lb/> &#40;   &#41;&#44; presumably a <add>&#63;</add></p>
-				<p rend="Paper torn at lower right&#44; obscuring some words."></p>
-			<pb n="4"/>
-				<p rend="align(center)">2</p>
-				<p>in the record and lets hope the last <del>number</del> issue<lb/> <del>behaved himself deploringly against</del> deplored <sic>scandalisly</sic> <del>dep</del> <persName>Mr Sandburg</persName><lb/> in <placeName>Rochester</placeName>.  I pray you</p>
-				<p>I would tell him</p>
-				<p>I assure you that his diabolic travel report has<lb/> caused deep indignation with everybody.  I only<lb/> wish that he would attack me.  <del>Wol</del> Would<lb/> I tell him something.  Well&#44; my dear<lb/> <persName>Mr. Leeser</persName>&#58;</p>
-				<p>I am so excited about this affair which I<lb/> can consider only as a<lb/> that I have actually lost control over myself.<lb/>  For these fellows are not worth to be shot.<lb/>  Later on&#44; I shall write an article about it.</p>
-			<p rend="indent(1)">Please forward the books and<lb/> I will send you the money in the first<lb/> weeks of January.</p>
-			<p rend="indent(2)">With kindest regards&#44;</p>
-			<p rend="indent(2)">Your</p>
-				<p><persName role="author">A. L. Mayer</persName></p>
-				<p><placeName>Syracuse N. Y.</placeName></p>
-			<p rend="indent(1)"><date>December 23<hi rend="sup">rd</hi> 1864</date></p>
-			<pb n="5"/>
-				<p rend="align(center)">3</p>
-				<p>P. S. Last week I moved into my new <del>quarters</del><lb/> residence in the center of the city.  I paid &#36;300.&#8212;<lb/> for new furnishings.  I would like to see you here.</p>
-		</body>
-	</text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="yes">Mayer, A. L.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>LSKAP</repository>
+                        <collection>The Arnold and Deanne Kaplan Collection of Early American
+                            Judaica</collection>
+                        <idno>LSKAP0241</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="yes">Mayer, A. L.</author>
+                        <addressee accepted="yes" attested="yes" editor="false">Leeser,
+                            Isaac</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>Syracuse, NY</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1864-12">December 23, 1864</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="LSKAP0241_1r.jpg"/>
+                                <graphic url="LSKAP0241_1v.jpg"/>
+                                <graphic url="LSKAP0241_2_1r.jpg"/>
+                                <graphic url="LSKAP0241_2_2r.jpg"/>
+                                <graphic url="LSKAP0241_2_3r.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >letter</material>
+                                </support>
+                                <extent>2 pages on 1 sheet <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="restricted">
+                                <p>Restricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="de">German</language>
+                <language ident="he">Hebrew</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <p rend="align(center)">Geehrter Freund <addressee>Herr Leeser</addressee>!</p>
+            <p>Sie wollen mich gütigst entschuldigen, wenn ich erst heute diese Zeilen an Sie
+                richte, was ich<lb/> Bereits schon längst thun wollte, aber im drange meiner
+                überhäuften Geschäfte unwillkü<sic>hrlich</sic><lb/> sich in die Länge zog. Damit
+                will ich heute, der wir das Feiertages wegen einige Stunden ver<add>?</add>
+                seid,<lb/> mich um so mehr mit Ihnen unterhalten und über mancherlei sprechen.</p>
+            <p>Zuerst muß ich Ihnen mittheilen, daß mein Vorhaben war, am <date>1. Nov.</date>
+                passato <placeName>Syracuse</placeName> zu verlassen,<lb/> um die mir in
+                    <placeName>Baltimore</placeName> bei der F. Point Congr. angetragene Stelle mit
+                $1000 zu übernehmen; aber<lb/> kaum wurde es hier ruchbar, daß ich westlich
+                fortgehen wolle, als <add>?</add>ele der hies. wemer Interessenten<lb/> aufs
+                dringendste mich baten<add>?</add>, <placeName>Syrac.</placeName> nicht zu verlassen
+                und so bin ich, nach dem ich fast $200 wondtlich Ein,<lb/>kommen habe, nach
+                hier.</p>
+            <p>Nun wünsche ich für eine kleine Abtheilung ein <add>שרו של עשו</add>
+                <hi rend="underline">ohne</hi> Untersetzung zu haben, und wenn Sie solche<lb/>
+                vorräthig, so wollen Sie mir ½ duzend gef. übersenden. Ebenso bitte nur meine
+                Rechnung, die<lb/> ich Ihnen <sic>honoriren</sic> werde.</p>
+            <p>Wie Sie bereits wissen, ich hier auch ein elendes Klatschblatt Namens „Rebekka” von
+                einem,<lb/> wahrscheinlich im Landstreicher, gewissen <persName>Sarner</persName>
+                    (<add>הקהה את את שוניו הקהה את שיניו</add>) erschiene, der sich in der<lb/> 2.
+                und wahrscheinlich und hoffentlich letzten No. 10 schändlich gegen
+                    <persName>Gunzburg</persName> in <placeName>Rotchester</placeName> etc.
+                etc.<lb/> benommen hat. Ich bitte Sie <add>מי שמך לשר ושופט עלינו</add>! Ich würde
+                ihm g<add>?</add>fen ?<add>רשע למה תכה רעך</add>!<add>יה' כבוד חברך חביב עליך
+                    כשלך</add><lb/> ?<add>רציחה</add> Ich versichere Sie, daß dessen teuflischer
+                Reisebericht<lb/> tiefe indignation bei Jedermann hervorgerufen hat. Ich wünschte
+                vor, daß er einmal mich an,<lb/>greifen möchte, ich würde ihm Etwas erzählen. Also,
+                lieber <persName>H. Leeser</persName>: <add>Hebrew</add><lb/> !<add>Hebrew</add> Ich
+                bin so alter<add>?</add> über diesen Gegenstand, der in es nur als eine
+                    <add>Hebrew</add> ansehen kann,<lb/> daß er wir nicht möglich ist, Herr über
+                mich zu sein; denn der sind ein Paar Kerle, die keines Schusses<add>?</add><lb/>
+                <add>?</add> werth seid! Später jedoch, werde ich einem Aufsatz machen.</p>
+            <p>Also erfällen Sie meine Bitte, und in den ersten 8 Tagen des Januar werde ich Ihnen
+                den Betrag<lb/> übersenden.Meinen Herz <add>?</add>. Gruß Ihr</p>
+            <p rend="indent(7)">
+                <persName role="author">A L Mayer</persName>
+            </p>
+            <p><placeName>Syracuse N.Y.</placeName>
+                <date>23.Dezb.64</date>.</p>
+            <pb n="2"/>
+            <p>P. S. Vorige Woche habe ich meine neue Wohnung in Mitte der Stadt bezogen und habe
+                für<lb/> $300 Anschaffungen machen mussen, ich wunschte Sie einmal hier bei mir zu
+                lehren</p>
+            <p rend="indent(8)">
+                <persName>D. O.</persName>
+            </p>
+            <pb n="3"/>
+            <p>Dear friend <addressee>Leeser</addressee>:</p>
+            <p rend="indent(1)">Pardon me kindly that it took me so<lb/> long to write to you.
+                Pressing business affairs<lb/> prevented me to write sooner. Today is a<lb/> holiday
+                and so I have a few more hours<lb/> time to chat with you.</p>
+            <p rend="indent(1)">I had in mind to leave <placeName>Syracuse</placeName> on<lb/>
+                <date>November first</date> in order to <add>?</add> the $1000.—job<lb/> which the
+                Fells Point Congregation in <placeName>Baltimore</placeName><lb/> had offered. But
+                no sooner did the news of<lb/> my intention to leave leak out, when many<lb/> of my
+                clients urged me to stay here. Well<lb/> and so I am still here, getting almost
+                $200.—a month.</p>
+            <p rend="indent(1)">For a small department &amp;<lb/> would like to have a
+                    <add>Hebrew</add>
+                <hi rend="underline">without</hi> translation<lb/> Please ship <add>?</add> half a
+                dozen together with<lb/> your bill if you have them in stock.<lb/>
+                <del>Not so long ago</del> As you probably know a<lb/> unreliable intr<add>?</add>
+                paper called „Rebekka” appeared<lb/> here, <del>ca</del> published by a certain
+                    <persName>Mr. Sa<add>?</add></persName><lb/> ( ), presumably a <add>?</add></p>
+            <p rend="Paper torn at lower right, obscuring some words."/>
+            <pb n="4"/>
+            <p rend="align(center)">2</p>
+            <p>in the record and lets hope the last <del>number</del> issue<lb/>
+                <del>behaved himself deploringly against</del> deplored <sic>scandalisly</sic>
+                <del>dep</del>
+                <persName>Mr Sandburg</persName><lb/> in <placeName>Rochester</placeName>. I pray
+                you</p>
+            <p>I would tell him</p>
+            <p>I assure you that his diabolic travel report has<lb/> caused deep indignation with
+                everybody. I only<lb/> wish that he would attack me. <del>Wol</del> Would<lb/> I
+                tell him something. Well, my dear<lb/>
+                <persName>Mr. Leeser</persName>:</p>
+            <p>I am so excited about this affair which I<lb/> can consider only as a<lb/> that I
+                have actually lost control over myself.<lb/> For these fellows are not worth to be
+                shot.<lb/> Later on, I shall write an article about it.</p>
+            <p rend="indent(1)">Please forward the books and<lb/> I will send you the money in the
+                first<lb/> weeks of January.</p>
+            <p rend="indent(2)">With kindest regards,</p>
+            <p rend="indent(2)">Your</p>
+            <p>
+                <persName role="author">A. L. Mayer</persName>
+            </p>
+            <p>
+                <placeName>Syracuse N. Y.</placeName>
+            </p>
+            <p rend="indent(1)">
+                <date>December 23<hi rend="sup">rd</hi> 1864</date>
+            </p>
+            <pb n="5"/>
+            <p rend="align(center)">3</p>
+            <p>P. S. Last week I moved into my new <del>quarters</del><lb/> residence in the center
+                of the city. I paid $300.—<lb/> for new furnishings. I would like to see you
+                here.</p>
+        </body>
+    </text>
 </TEI>

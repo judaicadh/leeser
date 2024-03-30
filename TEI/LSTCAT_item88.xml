@@ -1,272 +1,345 @@
-<?xml version="1.0" encoding="UTF-8"?>  <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader type="text">
-		<fileDesc>
-			<titleStmt>
-				<title>[no title given]</title>
-				<author attested="yes" accepted="yes" signature="yes">Kursheedt, G.</author>
-				<editor></editor>
-				<sponsor></sponsor>
-				<funder></funder>
-				<principal></principal>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</titleStmt>
-			<editionStmt>
-				<edition></edition>
-				<respStmt>
-					<resp></resp>
-					<name></name>
-				</respStmt>
-			</editionStmt>
-			<extent>[information about file size goes here, information about extent of physical item comes later]</extent>
-			<publicationStmt>
-				<publisher>Unpublished manuscript</publisher>
-			</publicationStmt>
-			<seriesStmt>
-				<p>Not part of a series</p>
-			</seriesStmt>
-			<notesStmt>
-				<note></note>
-			</notesStmt>
-			<sourceDesc>
-				<biblStruct>
-					<!-- catalog entry goes here -->
-					<monogr>
-						<imprint>
-							<dateLet></dateLet>
-						</imprint>
-					</monogr>
-				</biblStruct>
-				<msDesc>
-					<msIdentifier>
-						<country>USA</country>
-						<region>PA</region>
-						<settlement>Philadelphia</settlement>
-						<institution></institution>
-						<repository>TCAT</repository>
-						<collection>Anonymous</collection>
-						<idno>LSTCAT_item88</idno>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-						<msName></msName>
-					</msIdentifier>
-					<head></head>
-					<letHeading>
-						<author attested="yes" accepted="yes" signature="yes">Kursheedt, G.</author>
-						<addressee editor="false" attested="yes" accepted="yes">Leeser, Isaac</addressee>
-						<deliverer></deliverer>
-						<respStmt>
-							<resp></resp>
-							<name></name>
-						</respStmt>
-						<placeLet>New Orleans, LA</placeLet>
-						<placeRec>Philadelphia, PA</placeRec>
-						<dateLet when="1849-04" source="" attested="yes">12 April 1849</dateLet>
-						<dateLet when="1849-04" source="" attested="yes">12 April 5609</dateLet>
-					</letHeading>
-					<msContents>
-						<msItem>
-							<author></author>
-							<editor></editor>
-							<respStmt>
-								<resp></resp>
-								<name></name>
-							</respStmt>
-							<title></title>
-							<decoNote></decoNote>
-							<listBibl>
-								<bibl></bibl>
-							</listBibl>
-							<filiation></filiation>
-							<textLang></textLang>
-							<figure>
-								<graphic url="il_tcat_item88_wk1_body0001.jpg"></graphic>
-								<graphic url="il_tcat_item88_wk1_body0002.jpg"></graphic>
-								<graphic url="il_tcat_item88_wk1_body0003.jpg"></graphic>
-								<graphic url="il_tcat_item88_wk1_body0004.jpg"></graphic>
-							</figure>
-						</msItem>
-					</msContents>
-					<physDesc>
-						<objectDesc>
-							<supportDesc>
-								<support>
-									<material color="" lined="false" paper_type="" size="">letter</material>
-								</support>
-								<extent>4 pages on 4 sheets
-									<dimensions></dimensions>
-								</extent>
-								<foliation></foliation>
-								<collation></collation>
-								<condition fragment="false"></condition>
-							</supportDesc>
-							<layoutDesc>
-								<layout></layout>
-							</layoutDesc>
-						</objectDesc>
-						<handDesc script="manuscript">
-							<handNote></handNote>
-						</handDesc>
-						<decoDesc>
-							<decoNote></decoNote>
-						</decoDesc>
-						<additions></additions>
-						<bindingDesc>
-							<binding>
-								<decoNote></decoNote>
-							</binding>
-						</bindingDesc>
-						<sealDesc>
-							<seal>
-								<p></p>
-							</seal>
-						</sealDesc>
-						<accMat></accMat>
-						<envDesc occ="false"></envDesc>
-					</physDesc>
-					<history>
-						<origin></origin>
-						<provenance></provenance>
-						<acquisition></acquisition>
-					</history>
-					<additional>
-						<adminInfo>
-							<recordHist>
-								<source></source>
-								<change></change>
-							</recordHist>
-							<availability status="free">
-								<p>Unrestricted</p>
-							</availability>
-							<custodialHist>
-								<custEvent></custEvent>
-							</custodialHist>
-						</adminInfo>
-						<surrogates></surrogates>
-						<listBibl>
-							<bibl></bibl>
-						</listBibl>
-					</additional>
-					<msPart>
-						<altIdentifier>
-							<idno></idno>
-						</altIdentifier>
-					</msPart>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p></p>
-			</projectDesc>
-			<samplingDecl>
-				<p></p>
-			</samplingDecl>
-			<editorialDecl>
-				<correction>
-					<p></p>
-				</correction>
-				<normalization>
-					<p></p>
-				</normalization>
-				<quotation>
-					<p></p>
-				</quotation>
-				<hyphenation>
-					<p></p>
-				</hyphenation>
-				<segmentation>
-					<p></p>
-				</segmentation>
-				<stdVals>
-					<p></p>
-				</stdVals>
-				<interpretation>
-					<p></p>
-				</interpretation>
-			</editorialDecl>
-			<tagsDecl>
-				<rendition></rendition>
-				<namespace name="http://www.tei-c.org/ns/1.0">
-					<tagUsage gi=""></tagUsage>
-				</namespace>
-			</tagsDecl>
-			<refsDecl>
-				<cRefPattern matchPattern="" replacementPattern=""></cRefPattern>
-			</refsDecl>
-			<refsDecl>
-				<refState unit=""/>
-			</refsDecl>
-			<classDecl>
-				<taxonomy>
-					<category>
-						<catDesc></catDesc>
-					</category>
-				</taxonomy>
-			</classDecl>
-			<appInfo>
-				<application ident="" version="">
-					<desc></desc>
-					<label></label>
-				</application>
-			</appInfo>
-		</encodingDesc>
-		<profileDesc>
-			<creation></creation>
-			<langUsage>
-				<language ident="en">English</language>
-			</langUsage>
-			<textClass>
-				<keywords scheme="unknown">
-					<list>
-						<item></item>
-						<item></item>
-					</list>
-				</keywords>
-				<classCode scheme=""></classCode>
-				<catRef/>
-			</textClass>
-		</profileDesc>
-		<revisionDesc>
-			<change></change>
-		</revisionDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb n="1"/>
-				<p rend="align(right)"><placeName>New Orleans</placeName> <date>April 12. 5609</date></p>
-				<p><addressee>Revd Isaac Leeser</addressee></p>
-			<p rend="indent(1)">My dear friend&#44;</p>
-			<p rend="indent(3)">Yours <date>3d.</date> inst to hand&#44; for which<lb/> I offer many thanks.</p>
-			<p rend="indent(1)">Since my last the congregation agreed to have<lb/> a temporary place of worship opened.  <persName>Mr. de Silva</persName><lb/> officiated on <date>1<hi rend="sup">st</hi> days of <hi rend="underline">Pesach</hi></date> &#38; will continue so that<lb/> after all my first proposition has been adopted.</p>
-			<p rend="indent(1)">I note your remarks about <persName>Gutheim</persName>.  You<lb/> are in error in thinking that you had previously<lb/> answered my inquiries.  Like myself you have<lb/> been forgetful &#38; not sufficiently explicit several<lb/> times.  I have always made full allowances<lb/> for your inadvertence &#38; knowing what I have<lb/> recently undergone you ought to do the same<lb/> for me.  Respecting the inscription I am<lb/> happy that you have given me right.  With<lb/> regard to the Organ&#44; you &#8220;did the thing&#8221; just<lb/> as I wanted it&#44; neither too much nor too little.</p>
-			<p rend="indent(1)">You will please have the <add>Hebrew</add> made to<lb/> <add>&#63;</add> into the ceiling of the ark&#44; between<lb/> the cornice &#38; the sliding doors</p>
-			<p rend="indent(1)">Please procure a &#8220;Shophar&#8221; &#38; also<lb/> a <date><sic>Hanuca</sic></date> lamp.</p>
-			<p rend="indent(1)">Regarding the number of bells for<lb/> the sepharim&#44; please get even so 5<lb/> in all&#59; the last two <hi rend="underline">perhaps</hi> you may<lb/> as well have made somewhat <hi rend="underline">plainer</hi> if there<lb/> is any great difference in cost&#59; if not then<lb/> let them be like others.</p>
-			<pb n="2"/>
-				<p>You will please have the table covers<lb/> made as you <sic>pupise</sic> sixty three by forty four inches.</p>
-				<p rend="Diagram of table cover&#44; noting that it should be 63 inches by 44 inches in size."></p>
-				<p>I believe I have said all that is necessary<lb/> above.  It is proper to add that as a matter<lb/> of form I asked my old friend <persName>Mr Touro</persName><lb/> if he approved of the above to which he answered<lb/> as usual that I must take the blame or credit<lb/> of everything.</p>
-			<p rend="indent(1)">As to the convention I spoke of it to<lb/> every Jew I met with &#38; the German Congre<lb/>gation had already acted as I wanted mine to do<lb/> but some of my wiseacres preferred taking<lb/> two weeks to consider about it&#44; so we hold<lb/> an adjourned meeting next <date>Sunday</date> to decide<lb/> on the matter.  I shall insist on sending<lb/> a delegate &#38; I think when I talk to them<lb/> as I intend to in opening the meeting&#44;<lb/> there will be little farther hesitancy.</p>
-			<p rend="indent(1)">I would have sent you a telegraph<lb/> ie dispatch as you request&#44; but<lb/> on inquiry at the telegraph office<lb/> find that the wires are down bet<lb/>ween <placeName>Mobile</placeName> &#38; <placeName>Montgomery</placeName> so we would<lb/> lose 2 &#38; perhaps 3 days&#44; therefore concluded<lb/> to write by mail at once to day.</p>
-			<pb n="3"/>
-			<p rend="indent(1)">The Hebrew Benevolent Association<lb/> at last annual meeting elected me<lb/> President.  They require some one<lb/> to take the lead again for a while<lb/> to get things straight&#44; to draft a<lb/> constitution &#38; by laws fit for the<lb/> government of such a society&#44; &#38; to procure<lb/> a charter.  I know there was great diss<lb/>atisfaction &#38; fearing that the society<lb/> might be dissolved I accepted the<lb/> office which I held <del>from</del> for the two first<lb/> years of its existence.  The duties are severe<lb/> &#38; take up a great deal of time if properly performed.</p>
-			<p rend="indent(1)">I have had two very disagreeable questions<lb/> to decide &#38; act upon in my congregation&#44; which<lb/> when we meet or I have more time I shall<lb/> be happy to communicate &#38; ask your opinion<lb/> on my judgment &#38; acts in the premises.</p>
-			<p rend="indent(1)">Will you be so kind as to inform me how <persName>L A<lb/> Levy Jr.</persName> who married <persName>Isabella Levy</persName> of <placeName>New York</placeName> is affected<lb/> by his <hi rend="underline">legal</hi> though <hi rend="underline">illegal</hi> marriage.  He is a Levite<lb/> &#38; I presume his marriage is not recognized by<lb/> us in calling him to &#8220;sephar&#8221; in &#8220;Schule&#8221;.  Yet<lb/> if we &#8220;do not go behind the curtain&#8221; he has a regular<lb/> &#8220;Ketuba&#8221;.  His offspring I know we regard as &#8220;momscien<add>&#63;</add>&#8221;</p>
-			<p rend="indent(1)">He is a very good man but I will act according<lb/> to our law to the letter.  Do give my fond love to my dear little<lb/> aunt husband &#38;c when you see them &#38; believe me yours sincerely</p>
-			<p rend="indent(9)"><persName role="author">G. Kursheedt</persName>.</p>
-			<pb n="4"/>
-				<p>My worthy old friend <persName>Mr Touro</persName> received your<lb/> letter in due course acknowledging<lb/> receipt of draft.  He desires me to<lb/> forward his best respects to you<lb/> I have to send this letter by the extra mail to <placeName>Mobile</placeName><lb/> may it reach you in the enjoyment of perfect health</p>
-				<p rend="The 3 lines are written sideways in the center of the page."></p>
-				<p><addressee>Revd. Isaac Leeser</addressee></p>
-			<p rend="indent(1)"><placeName>Philadelphia</placeName></p>
-			<p rend="indent(2)"><placeName>Penna</placeName></p>
-				<p>In a week or two I shall know pretty well<lb/> whether or not I shall see you in <date>June</date>.<lb/>  If I do not leave here I will write you<lb/> at length on the subject of securing<lb/> a lecturer for the congregation</p>
-			<p rend="indent(8)">truly yours I am</p>
-			<p rend="indent(9)"><persName role="author">GK</persName></p>
-		</body>
-	</text>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+                <title>[no title given]</title>
+                <author accepted="yes" attested="yes" signature="yes">Kursheedt, G.</author>
+                <editor/>
+                <sponsor/>
+                <funder/>
+                <principal/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition/>
+                <respStmt>
+                    <resp/>
+                    <name/>
+                </respStmt>
+            </editionStmt>
+            <extent>[information about file size goes here, information about extent of physical
+                item comes later]</extent>
+            <publicationStmt>
+                <publisher>Unpublished manuscript</publisher>
+            </publicationStmt>
+            <seriesStmt>
+                <p>Not part of a series</p>
+            </seriesStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <!-- catalog entry goes here -->
+                    <monogr>
+                        <imprint>
+                            <dateLet/>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <country>USA</country>
+                        <region>PA</region>
+                        <settlement>Philadelphia</settlement>
+                        <institution/>
+                        <repository>TCAT</repository>
+                        <collection>Anonymous</collection>
+                        <idno>LSTCAT_item88</idno>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                        <msName/>
+                    </msIdentifier>
+                    <head/>
+                    <letHeading>
+                        <author accepted="yes" attested="yes" signature="yes">Kursheedt, G.</author>
+                        <addressee accepted="yes" attested="yes" editor="false">Leeser,
+                            Isaac</addressee>
+                        <deliverer/>
+                        <respStmt>
+                            <resp/>
+                            <name/>
+                        </respStmt>
+                        <placeLet>New Orleans, LA</placeLet>
+                        <placeRec>Philadelphia, PA</placeRec>
+                        <dateLet attested="yes" source="" when="1849-04">12 April 1849</dateLet>
+                        <dateLet attested="yes" source="" when="1849-04">12 April 5609</dateLet>
+                    </letHeading>
+                    <msContents>
+                        <msItem>
+                            <author/>
+                            <editor/>
+                            <respStmt>
+                                <resp/>
+                                <name/>
+                            </respStmt>
+                            <title/>
+                            <decoNote/>
+                            <listBibl>
+                                <bibl/>
+                            </listBibl>
+                            <filiation/>
+                            <textLang/>
+                            <figure>
+                                <graphic url="il_tcat_item88_wk1_body0001.jpg"/>
+                                <graphic url="il_tcat_item88_wk1_body0002.jpg"/>
+                                <graphic url="il_tcat_item88_wk1_body0003.jpg"/>
+                                <graphic url="il_tcat_item88_wk1_body0004.jpg"/>
+                            </figure>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <material color="" lined="false" paper_type="" size=""
+                                        >letter</material>
+                                </support>
+                                <extent>4 pages on 4 sheets <dimensions/>
+                                </extent>
+                                <foliation/>
+                                <collation/>
+                                <condition fragment="false"/>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc script="manuscript">
+                            <handNote/>
+                        </handDesc>
+                        <decoDesc>
+                            <decoNote/>
+                        </decoDesc>
+                        <additions/>
+                        <bindingDesc>
+                            <binding>
+                                <decoNote/>
+                            </binding>
+                        </bindingDesc>
+                        <sealDesc>
+                            <seal>
+                                <p/>
+                            </seal>
+                        </sealDesc>
+                        <accMat/>
+                        <envDesc occ="false"/>
+                    </physDesc>
+                    <history>
+                        <origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source/>
+                                <change/>
+                            </recordHist>
+                            <availability status="free">
+                                <p>Unrestricted</p>
+                            </availability>
+                            <custodialHist>
+                                <custEvent/>
+                            </custodialHist>
+                        </adminInfo>
+                        <surrogates/>
+                        <listBibl>
+                            <bibl/>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <altIdentifier>
+                            <idno/>
+                        </altIdentifier>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p/>
+            </projectDesc>
+            <samplingDecl>
+                <p/>
+            </samplingDecl>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+                <quotation>
+                    <p/>
+                </quotation>
+                <hyphenation>
+                    <p/>
+                </hyphenation>
+                <segmentation>
+                    <p/>
+                </segmentation>
+                <stdVals>
+                    <p/>
+                </stdVals>
+                <interpretation>
+                    <p/>
+                </interpretation>
+            </editorialDecl>
+            <tagsDecl>
+                <rendition/>
+                <namespace name="http://www.tei-c.org/ns/1.0">
+                    <tagUsage gi=""/>
+                </namespace>
+            </tagsDecl>
+            <refsDecl>
+                <cRefPattern matchPattern="" replacementPattern=""/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit=""/>
+            </refsDecl>
+            <classDecl>
+                <taxonomy>
+                    <category>
+                        <catDesc/>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <appInfo>
+                <application ident="" version="">
+                    <desc/>
+                    <label/>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="unknown">
+                    <list>
+                        <item/>
+                        <item/>
+                    </list>
+                </keywords>
+                <classCode scheme=""/>
+                <catRef/>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <p rend="align(right)">
+                <placeName>New Orleans</placeName>
+                <date>April 12. 5609</date>
+            </p>
+            <p>
+                <addressee>Revd Isaac Leeser</addressee>
+            </p>
+            <p rend="indent(1)">My dear friend,</p>
+            <p rend="indent(3)">Yours <date>3d.</date> inst to hand, for which<lb/> I offer many
+                thanks.</p>
+            <p rend="indent(1)">Since my last the congregation agreed to have<lb/> a temporary place
+                of worship opened. <persName>Mr. de Silva</persName><lb/> officiated on <date>1<hi
+                        rend="sup">st</hi> days of <hi rend="underline">Pesach</hi></date> &amp;
+                will continue so that<lb/> after all my first proposition has been adopted.</p>
+            <p rend="indent(1)">I note your remarks about <persName>Gutheim</persName>. You<lb/> are
+                in error in thinking that you had previously<lb/> answered my inquiries. Like myself
+                you have<lb/> been forgetful &amp; not sufficiently explicit several<lb/> times. I
+                have always made full allowances<lb/> for your inadvertence &amp; knowing what I
+                have<lb/> recently undergone you ought to do the same<lb/> for me. Respecting the
+                inscription I am<lb/> happy that you have given me right. With<lb/> regard to the
+                Organ, you “did the thing” just<lb/> as I wanted it, neither too much nor too
+                little.</p>
+            <p rend="indent(1)">You will please have the <add>נר תמר</add> made to<lb/>
+                <add>?</add> into the ceiling of the ark, between<lb/> the cornice &amp; the sliding
+                doors</p>
+            <p rend="indent(1)">Please procure a “Shophar” &amp; also<lb/> a
+                    <date><sic>Hanuca</sic></date> lamp.</p>
+            <p rend="indent(1)">Regarding the number of bells for<lb/> the sepharim, please get even
+                so 5<lb/> in all; the last two <hi rend="underline">perhaps</hi> you may<lb/> as
+                well have made somewhat <hi rend="underline">plainer</hi> if there<lb/> is any great
+                difference in cost; if not then<lb/> let them be like others.</p>
+            <pb n="2"/>
+            <p>You will please have the table covers<lb/> made as you <sic>pupise</sic> sixty three
+                by forty four inches.</p>
+            <p
+                rend="Diagram of table cover, noting that it should be 63 inches by 44 inches in size."/>
+            <p>I believe I have said all that is necessary<lb/> above. It is proper to add that as a
+                matter<lb/> of form I asked my old friend <persName>Mr Touro</persName><lb/> if he
+                approved of the above to which he answered<lb/> as usual that I must take the blame
+                or credit<lb/> of everything.</p>
+            <p rend="indent(1)">As to the convention I spoke of it to<lb/> every Jew I met with
+                &amp; the German Congre<lb/>gation had already acted as I wanted mine to do<lb/> but
+                some of my wiseacres preferred taking<lb/> two weeks to consider about it, so we
+                hold<lb/> an adjourned meeting next <date>Sunday</date> to decide<lb/> on the
+                matter. I shall insist on sending<lb/> a delegate &amp; I think when I talk to
+                them<lb/> as I intend to in opening the meeting,<lb/> there will be little farther
+                hesitancy.</p>
+            <p rend="indent(1)">I would have sent you a telegraph<lb/> ie dispatch as you request,
+                but<lb/> on inquiry at the telegraph office<lb/> find that the wires are down
+                bet<lb/>ween <placeName>Mobile</placeName> &amp; <placeName>Montgomery</placeName>
+                so we would<lb/> lose 2 &amp; perhaps 3 days, therefore concluded<lb/> to write by
+                mail at once to day.</p>
+            <pb n="3"/>
+            <p rend="indent(1)">The Hebrew Benevolent Association<lb/> at last annual meeting
+                elected me<lb/> President. They require some one<lb/> to take the lead again for a
+                while<lb/> to get things straight, to draft a<lb/> constitution &amp; by laws fit
+                for the<lb/> government of such a society, &amp; to procure<lb/> a charter. I know
+                there was great diss<lb/>atisfaction &amp; fearing that the society<lb/> might be
+                dissolved I accepted the<lb/> office which I held <del>from</del> for the two
+                first<lb/> years of its existence. The duties are severe<lb/> &amp; take up a great
+                deal of time if properly performed.</p>
+            <p rend="indent(1)">I have had two very disagreeable questions<lb/> to decide &amp; act
+                upon in my congregation, which<lb/> when we meet or I have more time I shall<lb/> be
+                happy to communicate &amp; ask your opinion<lb/> on my judgment &amp; acts in the
+                premises.</p>
+            <p rend="indent(1)">Will you be so kind as to inform me how <persName>L A<lb/> Levy
+                    Jr.</persName> who married <persName>Isabella Levy</persName> of <placeName>New
+                    York</placeName> is affected<lb/> by his <hi rend="underline">legal</hi> though
+                    <hi rend="underline">illegal</hi> marriage. He is a Levite<lb/> &amp; I presume
+                his marriage is not recognized by<lb/> us in calling him to “sephar” in “Schule”.
+                Yet<lb/> if we “do not go behind the curtain” he has a regular<lb/> “Ketuba”. His
+                offspring I know we regard as “momscien<add>?</add>”</p>
+            <p rend="indent(1)">He is a very good man but I will act according<lb/> to our law to
+                the letter. Do give my fond love to my dear little<lb/> aunt husband &amp;c when you
+                see them &amp; believe me yours sincerely</p>
+            <p rend="indent(9)"><persName role="author">G. Kursheedt</persName>.</p>
+            <pb n="4"/>
+            <p>My worthy old friend <persName>Mr Touro</persName> received your<lb/> letter in due
+                course acknowledging<lb/> receipt of draft. He desires me to<lb/> forward his best
+                respects to you<lb/> I have to send this letter by the extra mail to
+                    <placeName>Mobile</placeName><lb/> may it reach you in the enjoyment of perfect
+                health</p>
+            <p rend="The 3 lines are written sideways in the center of the page."/>
+            <p>
+                <addressee>Revd. Isaac Leeser</addressee>
+            </p>
+            <p rend="indent(1)">
+                <placeName>Philadelphia</placeName>
+            </p>
+            <p rend="indent(2)">
+                <placeName>Penna</placeName>
+            </p>
+            <p>In a week or two I shall know pretty well<lb/> whether or not I shall see you in
+                    <date>June</date>.<lb/> If I do not leave here I will write you<lb/> at length
+                on the subject of securing<lb/> a lecturer for the congregation</p>
+            <p rend="indent(8)">truly yours I am</p>
+            <p rend="indent(9)">
+                <persName role="author">GK</persName>
+            </p>
+        </body>
+    </text>
 </TEI>
