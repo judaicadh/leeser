@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="/legacyprojects/modules/XmlViewer/asset/vendor/TEI-Boilerplate-master/src/content/teibp.xsl?v=3.4.8" ?>
-<?xml-stylesheet type="text/css" href="/legacyprojects/modules/XmlViewer/asset/vendor/TEI-Boilerplate-master/src/css/teibp.css?v=3.4.8" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:html="http://www.w3.org/1999/xhtml">
   <teiHeader>
                     <fileDesc>
                               <titleStmt>
